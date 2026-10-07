@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "20:10",
+  "opgehaald": "20:17",
   "blokken": 9,
   "berichten": 92,
   "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-07T20:10+02:00",
+ "opgehaald": "2026-10-07T20:17+02:00",
  "audio": "audio/20261007.mp3",
  "blokken": [
   {
@@ -81,6 +81,13 @@
    "emoji": "🇳🇱",
    "items": [
     {
+     "titel": "Nieuw-Lekkerland op veel plekken beklad met hakenkruis in vlag Israël",
+     "link": "https://nos.nl/l/2634054",
+     "bron": "NOS",
+     "tijd": "20:10",
+     "sorteer": "2026-10-07T20:10:10+02:00"
+    },
+    {
      "titel": "Maat is vol voor Hoogeveen na dagenlange onrust: 'Ze willen vechten met politie'",
      "link": "https://nos.nl/l/2634021",
      "bron": "NOS",
@@ -114,13 +121,6 @@
      "bron": "NOS",
      "tijd": "13:04",
      "sorteer": "2026-10-07T13:04:12+02:00"
-    },
-    {
-     "titel": "Flink meer kankerdiagnoses verwacht, 'maar gezonde leefstijl kan helpen'",
-     "link": "https://nos.nl/l/2633978",
-     "bron": "NOS",
-     "tijd": "09:41",
-     "sorteer": "2026-10-07T09:41:30+02:00"
     },
     {
      "titel": "Tweede Kamer voor alcoholmeter bij veroordeelden",
@@ -179,6 +179,20 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Bubbel Brigade wil dat kinderen met én zonder beperking samen spelen",
+     "link": "https://www.oost.nl/nieuws/3701063/bubbel-brigade-wil-dat-kinderen-met-en-zonder-beperking-samen-spelen",
+     "bron": "RTV Oost",
+     "tijd": "19:55",
+     "sorteer": "2026-10-07T17:55:58+00:00"
+    },
+    {
+     "titel": "Ingewikkelde regelgeving in veesector doet bedrijf na tientallen jaren de das om",
+     "link": "https://www.oost.nl/nieuws/3704318/ingewikkelde-regelgeving-in-veesector-doet-bedrijf-na-tientallen-jaren-de-das-om",
+     "bron": "RTV Oost",
+     "tijd": "19:34",
+     "sorteer": "2026-10-07T17:34:43+00:00"
+    },
+    {
      "titel": "Almelo pakt jeugdoverlast breder aan: meer jongerenwerkers en boa’s op straat",
      "link": "https://www.oost.nl/nieuws/3704198/almelo-pakt-jeugdoverlast-breder-aan-meer-jongerenwerkers-en-boas-op-straat",
      "bron": "RTV Oost",
@@ -207,20 +221,6 @@
      "sorteer": "2026-10-07T14:59:57+00:00"
     },
     {
-     "titel": "'Woningen beschikbaar gehouden' in afwachting uitslag metingen UF-schuim Rijssen",
-     "link": "https://www.oost.nl/nieuws/3704160/woningen-beschikbaar-gehouden-in-afwachting-uitslag-metingen-uf-schuim-rijssen",
-     "bron": "RTV Oost",
-     "tijd": "12:57",
-     "sorteer": "2026-10-07T10:57:26+00:00"
-    },
-    {
-     "titel": "Is de wolf nu echt gevestigd in Overijssel? Antwoord laat nog maanden op zich wachten",
-     "link": "https://www.oost.nl/nieuws/3703532/is-de-wolf-nu-echt-gevestigd-in-overijssel-antwoord-laat-nog-maanden-op-zich-wachten",
-     "bron": "RTV Oost",
-     "tijd": "12:02",
-     "sorteer": "2026-10-07T10:02:35+00:00"
-    },
-    {
      "titel": "Eerste jaarboeken voor ‘covergirl’ Iris en burgemeester Sijbom",
      "link": "https://www.dalfsennet.nl/nieuws/553990/eerste-jaarboeken-voor-covergirl-iris-en-burgemeester-sijbom.html",
      "bron": "DalfsenNet",
@@ -242,11 +242,32 @@
    "emoji": "🤖",
    "items": [
     {
+     "titel": "AI-documentverwerking voor banken: Hoe kan dit bankactiviteiten en de klantervaring transformeren?",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGZhUEwtaUlySHlaTnJ5aVlCWFVuU2xwZGZYR3dWUHVtbFV2SlZVdnlaT250Q3I2b1FIbnlaX3JJS2dNZ0Qya0RoaldJNjVsYlNpRElrQndGek04WHFLRjdaNmxmV3QzZDhYMnJxYU9JTVJIM1Y1aG1VTHN3MUpzNktubkI5cjVJRzNjTm4tMmplSlFBU3lvcGJ2V1cxenZoMGtpUkNXdzVrb1NfMmN0Qk8wUDNYNnF2NmZlS0RiX2xobHhHRUk0bHBqMzg0MDg?oc=5",
+     "bron": "InvestGlass",
+     "tijd": "19:25",
+     "sorteer": "2026-10-07T17:25:35+00:00"
+    },
+    {
+     "titel": "Wanneer AI‑agents de menigte volgen: Het verborgen risico in multi‑agent consensus",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYcUlEMi1QSExCMlVyRWE2ZldNRVBrZ2NuanZCS2JfTkRBd05mdldfSktMakU1cUtjWDFXV3gxRDl0VGtkS214R3JPZC00U3JydzdFcGZqX21iNG9Xd2NFc3BHMWE1Z1lEbVpNbTJ4aE9NRkhrWllpYkVzMm8?oc=5",
+     "bron": "Unite.AI",
+     "tijd": "19:18",
+     "sorteer": "2026-10-07T17:18:18+00:00"
+    },
+    {
      "titel": "OpenAI kondigt College Planner en Studietools voor ChatGPT voor tieners aan",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS2ZyUFNET2NiSGZIbHBfdGk1MGJsUzFhY3N1UW1CTVdsUklWT0tUd0l5YWdrMEtfNWNXd250a0NWYmVVWlIzREMwZk9qZk9rNFFCLTVSNWJFOHV5Z1F6cTdTLWVoT29rSUx5dXd2X1RxSkVFOXc0WnRxQjRIdkVKck5BcEdQdlM2ck5CSTlHWngwajJfOHpNQmROWQ?oc=5",
      "bron": "Unite.AI",
      "tijd": "18:27",
      "sorteer": "2026-10-07T16:27:06+00:00"
+    },
+    {
+     "titel": "Anna Gimbrère en Jim Jansen spreken in Roelofarendsveen over kunstmatige intelligentie",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQkg3ZGp4VlM2SXh6ekNtWFNyeEJqTVM0UXdPOEpHemloeTBmVUZDenZ5M0J3OHEtMm1qeWpBS0RGNzJrdF9DTG1NWGRFOWZIODQ0QWlidWZqalBZdWQwSjF5VDUyRU5HSFBXQ1kyZ3lMSFRmS3g3YV9BdHdSRk9jNEpjSzJjckRhMEhGZE54SE5QZTFDZzhpLXBSdWoyM202TkJRdVJ6QlBsRGVQekVZaFJIaW1UZW9lU1BQTXlHUXlHa3djMDJRWW1sWQ?oc=5",
+     "bron": "AD.nl",
+     "tijd": "17:45",
+     "sorteer": "2026-10-07T15:45:00+00:00"
     },
     {
      "titel": "De volgende AI-kloof: waarom logistieke bedrijven in het middensegment hun infrastructuur moeten herstellen voordat ze AI kunnen benutten",
@@ -261,27 +282,6 @@
      "bron": "Oost NL",
      "tijd": "15:39",
      "sorteer": "2026-10-07T13:39:36+00:00"
-    },
-    {
-     "titel": "Orgel Laurenskerk klinkt samen met Hitchcock, kunst én AI",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRTJfSWQ4dGJ6T0VNQ284MTBpQV9OYTlmTTNJcG16Nk5hVUhwOFhRT00yUVFYU0t5V1padTlNbnFtRzN3TnZTR1M5Z1FUUnhSbUw1TjI2QjFvSm1aTko2dVp5aXhaSndDOEJDbkhxd2YyeG5VVVZhUk1lcjUxNjJyNEx2UEFjMVdQRDRIVEJ4ZjhqWE50RC03SUJRMHdteTNPUmw2Y2pDb2hCZw?oc=5",
-     "bron": "dehavenloods.nl",
-     "tijd": "15:10",
-     "sorteer": "2026-10-07T13:10:00+00:00"
-    },
-    {
-     "titel": "Anna Gimbrère en Jim Jansen spreken in Roelofarendsveen over kunstmatige intelligentie",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQkg3ZGp4VlM2SXh6ekNtWFNyeEJqTVM0UXdPOEpHemloeTBmVUZDenZ5M0J3OHEtMm1qeWpBS0RGNzJrdF9DTG1NWGRFOWZIODQ0QWlidWZqalBZdWQwSjF5VDUyRU5HSFBXQ1kyZ3lMSFRmS3g3YV9BdHdSRk9jNEpjSzJjckRhMEhGZE54SE5QZTFDZzhpLXBSdWoyM202TkJRdVJ6QlBsRGVQekVZaFJIaW1UZW9lU1BQTXlHUXlHa3djMDJRWW1sWQ?oc=5",
-     "bron": "AD.nl",
-     "tijd": "17:45",
-     "sorteer": "2026-10-07T15:45:00+00:00"
-    },
-    {
-     "titel": "AI-boom is geen zeepbel, maar risico’s kunnen correcties veroorzaken, zegt ex-gouverneur Wereldbank",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNVlZV3lZYkc3b3pvTU1CVGdMa3IzQmdGQVUyMjRLTUdFc3N0eXJEOEY5UWUxNEFmUGI2aGRubTRrTGExV1c0R3VqNndIaTY2RnRNb09zaUdid3dnam51eW5zZGlOVExLdjFBMTgwT0xsVmJ1bUlhVXJjMGRmZ2l5WW16M3J5LTFBeDg1YkFYdDIxSlk0UFdPdU5rNlZaTjFPZUVvUEFLMzg2T2V0Q0N2YXBjMXZTelhtcjRRU2txd1c2a1NwZHRrT0k2T0xlaGlVaWdRNGp3VUpLTXA3d1N1S0JHRQ?oc=5",
-     "bron": "Investing.com",
-     "tijd": "17:28",
-     "sorteer": "2026-10-07T15:28:18+00:00"
     }
    ]
   },
@@ -648,42 +648,42 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 180 soorten, 106.216 vogels geteld",
+     "titel": "Landelijk vandaag: 180 soorten, 108.681 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261007?language=dutch"
     },
     {
-     "titel": "Spreeuw — 30.354",
+     "titel": "Spreeuw — 32.164",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261007?language=dutch"
     },
     {
-     "titel": "Vink — 23.951",
+     "titel": "Vink — 24.062",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261007?language=dutch"
     },
     {
-     "titel": "Graspieper — 11.047",
+     "titel": "Graspieper — 11.056",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261007?language=dutch"
     },
     {
-     "titel": "Kolgans — 7.850",
+     "titel": "Kolgans — 8.169",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261007?language=dutch"
     },
     {
-     "titel": "Kneu — 5.256",
+     "titel": "Kneu — 5.259",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
