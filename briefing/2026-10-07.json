@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "21:00",
+  "opgehaald": "22:00",
   "blokken": 9,
   "berichten": 94,
   "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-07T21:00+02:00",
+ "opgehaald": "2026-10-07T22:00+02:00",
  "audio": "audio/20261007.mp3",
  "blokken": [
   {
@@ -17,6 +17,20 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Boegbeeld van Spaanse woningprotesten Maricarmen Abascal (87) overleden",
+     "link": "https://nos.nl/l/2634066",
+     "bron": "NOS",
+     "tijd": "21:54",
+     "sorteer": "2026-10-07T21:54:46+02:00"
+    },
+    {
+     "titel": "Zes arrestaties voor roof van schilderijen Renoir in Zuid-Frankrijk",
+     "link": "https://nos.nl/l/2634064",
+     "bron": "NOS",
+     "tijd": "21:40",
+     "sorteer": "2026-10-07T21:40:30+02:00"
+    },
     {
      "titel": "Politie in Beieren op zoek naar een poema of iets wat daarop lijkt",
      "link": "https://nos.nl/l/2634052",
@@ -46,32 +60,18 @@
      "sorteer": "2026-10-07T17:12:51+02:00"
     },
     {
-     "titel": "7/10 in Nieuwsuur: Voorzitter VNO/NCW in studio • Mislukte executie VS • Nieuw seizoen Fauda",
-     "link": "https://nos.nl/l/2634017",
-     "bron": "NOS",
-     "tijd": "15:36",
-     "sorteer": "2026-10-07T15:36:22+02:00"
-    },
-    {
-     "titel": "Podcast De Dag: de magie van Messi",
-     "link": "https://nos.nl/l/2634016",
-     "bron": "NOS",
-     "tijd": "15:31",
-     "sorteer": "2026-10-07T15:31:49+02:00"
-    },
-    {
-     "titel": "Rob Hoogland: hoe je het ook wendt of keert, die ooievaars waren op weg naar Israël",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSHlJX0J0ajFBNlR4dGUtdlFmanJvQ0loRVd5dmpZWXhvUDFGSk1MX1Q3SHJRa01RdlJTYTBSLTZKdm5GSFJHWjBBNEI4UEljc2hRTWdnT19RbUFmODJMV0hrRktXY0J0MGlhcVpPQWIzWFJMbGQ3ZmwtTmhIb0k3ZXc2YjhnSWk4YkJpbTZLMVdDWk1tdlM5NGc4ZnhPWElJc1M5QmdtUDNCZGl3YUlzb3Z3WXg5WDVxUVlZMXA5dHlmT3NxUHNn?oc=5",
+     "titel": "Jeroen Kapteijns: ’Een voorrecht om Messi live in actie te hebben mogen zien’",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZHhBTFZidk1wZEFEWlNHSlhtZUthUUhCd1pmb0g4ZGt6anI2ekM2aTFzc1daSmdJQ0N6emc0cWUyei1DVXhqZ0tablY3VlhjNWI2TXdmRHhUUXlkU2dvZ1RadFBJVjE3cE5QYlhzM0RBTzM0eGJyRmtmRV9hcl9qVWVwWV9iRjhsR1JoTEpROHc3QWpkc1dNdFhRd1hUVGgtS1Z5VldUVlNHekZIc2ZhdEkxMUFUSGVjY0pwSHBR?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "20:31",
-     "sorteer": "2026-10-07T18:31:18+00:00"
+     "tijd": "21:31",
+     "sorteer": "2026-10-07T19:31:33+00:00"
     },
     {
-     "titel": "Jongerenversie ChatGPT is nog niet veilig voor tieners tussen 13 en 17 jaar",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNURiRTlTbmp6amI2Z0xTU3hjUzN0dTlydTFLSlZYT04xb01lVGNRSnllOXQzbW10T0JabjdILTA0WUsxaGpWSXVuRnNxdExINWtMT1JyeS1qT2FvazBvY0t3dTBsYjlrRExRZkRNYmRVUjJpZjM4WWZZb2h1NmNJWGUwdDd6Tm9yRVdmUkFlLW4wdzhmMUJXRy1CWnlRNUZWM1pFMWFSTmF2MFJkZTZmcWgzR0JwNF9oOVZTMGtweFkzMTg?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "20:26",
-     "sorteer": "2026-10-07T18:26:40+00:00"
+     "titel": "Franse premier: niet onverschillig blijven over zorgen scholieren",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX2c5UWhfWV9XemRMaG9BaHNSbW9WSkFvTHo3YlFjODhBcWhlX3BtemdJcnRqX2psQkgyemgyR0FwQjE3STlVYzFCUXN0TnNIRTBZbnc2WVlIQUNPVl8yN1JUZ0JIeTdJTjJSTWswTFZqRHUzamEzQUt3MW9GUmJjSUxzZ2pvemFKRE02Tg?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "21:24",
+     "sorteer": "2026-10-07T19:24:09+00:00"
     }
    ]
   },
@@ -80,6 +80,20 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Pro-Palestijns protest met Hamas-steunbetuigingen in Amsterdam ontbonden",
+     "link": "https://nos.nl/l/2634063",
+     "bron": "NOS",
+     "tijd": "21:30",
+     "sorteer": "2026-10-07T21:30:53+02:00"
+    },
+    {
+     "titel": "Tijdelijke bescherming of asiel? Oekraïners weten niet goed waar ze aan toe zijn",
+     "link": "https://nos.nl/l/2634061",
+     "bron": "NOS",
+     "tijd": "21:04",
+     "sorteer": "2026-10-07T21:04:57+02:00"
+    },
     {
      "titel": "Burgemeester Oldebroek bij viering Coming Out Day na schrappen lhbti-beleid college",
      "link": "https://nos.nl/l/2634055",
@@ -109,20 +123,6 @@
      "sorteer": "2026-10-07T15:54:08+02:00"
     },
     {
-     "titel": "Vliegramp Apeldoorn 1946 na tien jaar weer herdacht: 'Erkennen van verdriet'",
-     "link": "https://nos.nl/l/2634019",
-     "bron": "NOS",
-     "tijd": "15:47",
-     "sorteer": "2026-10-07T15:47:13+02:00"
-    },
-    {
-     "titel": "Geroofde vaas terug naar Sicilië: 'Afscheid pijnlijk, maar dient hoger doel'",
-     "link": "https://nos.nl/l/2633996",
-     "bron": "NOS",
-     "tijd": "13:05",
-     "sorteer": "2026-10-07T13:05:10+02:00"
-    },
-    {
      "titel": "Tweede Kamer voor alcoholmeter bij veroordeelden",
      "link": "https://nos.nl/l/2634039",
      "bron": "NOS politiek",
@@ -144,11 +144,11 @@
      "sorteer": "2026-10-07T12:06:10+02:00"
     },
     {
-     "titel": "Rente op studieschuld fors omhoog voor grote groep oud-studenten",
-     "link": "https://nos.nl/l/2633983",
-     "bron": "NOS politiek",
-     "tijd": "10:41",
-     "sorteer": "2026-10-07T10:41:44+02:00"
+     "titel": "Enschedeër (35) na arrestatie door DSI ten onrechte verdachte: OM seponeert zaak",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNEhFanhXMnA4RFdGTkJiS1hNRmZWR0RwQUhqSmtQZ09Kc3AtN2pOU1VJdU00c3o4UFVHRUV5bmRPQTYwb2h4UFEtTndwbEg0Vk1kNXJ4elZFWWtKNXZoUkZvNjFteVYyQzd6bG9HZnp3TnhWQjJoY1d6UjVubmRkUWd1WmZ2SU9rc1NoaTRfU1lfVHZXU2RCNVZyNUtESGJiTzV0YXlEajh5cm1HRzVHSHJSZHAwVUlFWFZ5bXkyMld0Zw?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "21:30",
+     "sorteer": "2026-10-07T19:30:33+00:00"
     },
     {
      "titel": "Als de internationale handel stilvalt, wordt elke megastal een massagraf",
@@ -179,25 +179,25 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Zwolle krijgt helderheid over aanpak woningsplitsing in Assendorp",
+     "link": "https://www.oost.nl/nieuws/3704321/zwolle-krijgt-helderheid-over-aanpak-woningsplitsing-in-assendorp",
+     "bron": "RTV Oost",
+     "tijd": "21:19",
+     "sorteer": "2026-10-07T19:19:33+00:00"
+    },
+    {
+     "titel": "Collin Veijer staat voor rentree na sleutelbeenbreuk",
+     "link": "https://www.oost.nl/sport/3701900/collin-veijer-staat-voor-rentree-na-sleutelbeenbreuk",
+     "bron": "RTV Oost",
+     "tijd": "21:00",
+     "sorteer": "2026-10-07T19:00:59+00:00"
+    },
+    {
      "titel": "Werkend drugslab aangetroffen in Ommen, meerdere aanhoudingen",
      "link": "https://www.oost.nl/nieuws/3704399/werkend-drugslab-aangetroffen-in-ommen-meerdere-aanhoudingen",
      "bron": "RTV Oost",
      "tijd": "20:14",
      "sorteer": "2026-10-07T18:14:27+00:00"
-    },
-    {
-     "titel": "Bubbel Brigade wil dat kinderen met én zonder beperking samen spelen",
-     "link": "https://www.oost.nl/nieuws/3701063/bubbel-brigade-wil-dat-kinderen-met-en-zonder-beperking-samen-spelen",
-     "bron": "RTV Oost",
-     "tijd": "19:55",
-     "sorteer": "2026-10-07T17:55:58+00:00"
-    },
-    {
-     "titel": "Ingewikkelde regelgeving in veesector doet bedrijf na tientallen jaren de das om",
-     "link": "https://www.oost.nl/nieuws/3704318/ingewikkelde-regelgeving-in-veesector-doet-bedrijf-na-tientallen-jaren-de-das-om",
-     "bron": "RTV Oost",
-     "tijd": "19:34",
-     "sorteer": "2026-10-07T17:34:43+00:00"
     },
     {
      "titel": "Almelo pakt jeugdoverlast breder aan: meer jongerenwerkers en boa’s op straat",
@@ -221,18 +221,18 @@
      "sorteer": "2026-10-07T15:02:34+00:00"
     },
     {
-     "titel": "Eerste jaarboeken voor ‘covergirl’ Iris en burgemeester Sijbom",
-     "link": "https://www.dalfsennet.nl/nieuws/553990/eerste-jaarboeken-voor-covergirl-iris-en-burgemeester-sijbom.html",
+     "titel": "Sing-in Grote Kerk Dalfsen",
+     "link": "https://www.dalfsennet.nl/nieuws/553994/sing-in-grote-kerk-dalfsen-8.html",
      "bron": "DalfsenNet",
-     "tijd": "20:03",
-     "sorteer": "2026-10-07T18:03:21+00:00"
+     "tijd": "21:53",
+     "sorteer": "2026-10-07T19:53:06+00:00"
     },
     {
-     "titel": "Houd de stoep vrij (2)",
-     "link": "https://www.dalfsennet.nl/nieuws/553965/houd-de-stoep-vrij-2.html",
+     "titel": "60-jarig huwelijk",
+     "link": "https://www.dalfsennet.nl/nieuws/553997/60-jarig-huwelijk-101.html",
      "bron": "DalfsenNet",
-     "tijd": "19:51",
-     "sorteer": "2026-10-07T17:51:14+00:00"
+     "tijd": "21:48",
+     "sorteer": "2026-10-07T19:48:30+00:00"
     }
    ]
   },
@@ -270,18 +270,18 @@
      "sorteer": "2026-10-07T15:45:00+00:00"
     },
     {
-     "titel": "De volgende AI-kloof: waarom logistieke bedrijven in het middensegment hun infrastructuur moeten herstellen voordat ze AI kunnen benutten",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Uam5ia2tTbXQ5b3RSZ1NrbzFUUmhfbWZXMEtFN09yRWFiOWVuZzhiU1hobXd1eTB5SDR1aUJ3Y0FBdllwUlFfbGo3QjlBckRkOXd6bjJRX1N1ekRsOFFWaGJjUnFVdFdWMGFwRjVtRVo?oc=5",
-     "bron": "Unite.AI",
-     "tijd": "15:41",
-     "sorteer": "2026-10-07T13:41:51+00:00"
+     "titel": "Evercore ISI handhaaft rating Arista Networks bij AI-netwerkuitbreiding Door Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa3BCT0RWZUxuRGN1bDRFUE1ySjNLQnh6eUdPcHFJaDNQc2lidWJibTdqenk4YkNfTkJwNUt0d3ZMQzMzMFVPTVpkSzkxanpPRURGVy0zX3VwelZnUlYzN1FFNWx6SVl6aEJFV3kwUmlpTkNxQ0kxbmZwdF9jUkNZNk5lZ1lXNURyLVd4NUh3Q0xaU25PdEI2S3R4M3EtbVdMOUh5Y0xvQ09YSnlfOU95V3FrYUFQeDBDZlFFRXF3LW9IRzFOTHJR?oc=5",
+     "bron": "Investing.com",
+     "tijd": "19:33",
+     "sorteer": "2026-10-07T17:33:46+00:00"
     },
     {
-     "titel": "BLOG | Data is het nieuwe goud. Is AI het nieuwe asbest?",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZThtOEtIZ2oxVHB3VkJ5VlZtVzhIdW5DYnZDNlBOVl9YRU1FbF8wNlV3OVAzdjJKOE01U3hZZUpaeXM2TjZwdk9WU3JLempuZlpCX2xORUdiMFh3QWhHcklNOUpfYzVvSDJJSHp1SkJNWjZUZkczOG5BLWlzR0NzZEdBWFFUaFNmZVFueXRNZmM?oc=5",
-     "bron": "Oost NL",
-     "tijd": "15:39",
-     "sorteer": "2026-10-07T13:39:36+00:00"
+     "titel": "AI-boom is geen zeepbel, maar risico’s kunnen correcties veroorzaken, zegt ex-gouverneur Wereldbank",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNVlZV3lZYkc3b3pvTU1CVGdMa3IzQmdGQVUyMjRLTUdFc3N0eXJEOEY5UWUxNEFmUGI2aGRubTRrTGExV1c0R3VqNndIaTY2RnRNb09zaUdid3dnam51eW5zZGlOVExLdjFBMTgwT0xsVmJ1bUlhVXJjMGRmZ2l5WW16M3J5LTFBeDg1YkFYdDIxSlk0UFdPdU5rNlZaTjFPZUVvUEFLMzg2T2V0Q0N2YXBjMXZTelhtcjRRU2txd1c2a1NwZHRrT0k2T0xlaGlVaWdRNGp3VUpLTXA3d1N1S0JHRQ?oc=5",
+     "bron": "Investing.com",
+     "tijd": "17:28",
+     "sorteer": "2026-10-07T15:28:18+00:00"
     }
    ]
   },
@@ -664,42 +664,42 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 181 soorten, 109.135 vogels geteld",
+     "titel": "Landelijk vandaag: 183 soorten, 110.479 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261007?language=dutch"
     },
     {
-     "titel": "Spreeuw — 32.225",
+     "titel": "Spreeuw — 32.461",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261007?language=dutch"
     },
     {
-     "titel": "Vink — 24.099",
+     "titel": "Vink — 24.659",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261007?language=dutch"
     },
     {
-     "titel": "Graspieper — 11.120",
+     "titel": "Graspieper — 11.145",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261007?language=dutch"
     },
     {
-     "titel": "Kolgans — 8.173",
+     "titel": "Kolgans — 8.192",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261007?language=dutch"
     },
     {
-     "titel": "Kneu — 5.361",
+     "titel": "Kneu — 5.401",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -731,15 +731,15 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Kauw springt eruit — 4.559, normaal 625",
-     "bron": "7× het gewone niveau",
+     "titel": "Kauw springt eruit — 4.747, normaal 625",
+     "bron": "8× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261007?language=dutch",
      "sein": false
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Rustig vandaag — 13 meldingen, samen 43 vogels",
+     "titel": "Rustig vandaag — 14 meldingen, samen 44 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -747,7 +747,7 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "4 binnen 75 km van Dalfsen",
+     "titel": "5 binnen 75 km van Dalfsen",
      "bron": "dichtstbij: Wapse, 39 km",
      "tijd": "10:26",
      "link": "https://waarneming.nl/species/19/observations/"
@@ -786,9 +786,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 14.9,
-    "gevoel": 14.9,
-    "wind": "WNW 1",
+    "nu": 16.2,
+    "gevoel": 16.2,
+    "wind": "NNW 1",
     "station": "Heino",
     "min": "11",
     "max": "16",
