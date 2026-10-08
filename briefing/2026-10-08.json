@@ -1,15 +1,17 @@
 {
  "datum": "2026-10-08",
- "naam": "Middagbriefing",
+ "naam": "Avondbriefing",
  "status": {
-  "ronde": "Middagbriefing",
-  "opgehaald": "17:00",
+  "ronde": "Avondbriefing",
+  "opgehaald": "18:01",
   "blokken": 10,
-  "berichten": 90,
-  "problemen": [],
+  "berichten": 84,
+  "problemen": [
+   "kamerstukken Schriftelijke vragen: HTTPError"
+  ],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-08T17:00+02:00",
+ "opgehaald": "2026-10-08T18:01+02:00",
  "audio": "audio/20261008.mp3",
  "blokken": [
   {
@@ -17,6 +19,20 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Klimaattop in Fiji en Tuvalu grotendeels mislukt, landen blijven massaal thuis",
+     "link": "https://nos.nl/l/2634168",
+     "bron": "NOS",
+     "tijd": "17:39",
+     "sorteer": "2026-10-08T17:39:56+02:00"
+    },
+    {
+     "titel": "Britse marineman verdacht van poging tot spionage voor Russen",
+     "link": "https://nos.nl/l/2634163",
+     "bron": "NOS",
+     "tijd": "17:11",
+     "sorteer": "2026-10-08T17:11:45+02:00"
+    },
     {
      "titel": "Podcast De Dag: Jane Doe en de opstand tegen elite-universiteit Cornell",
      "link": "https://nos.nl/l/2634158",
@@ -46,32 +62,18 @@
      "sorteer": "2026-10-08T13:17:14+02:00"
     },
     {
-     "titel": "Oud-leerling steekt op Poolse school vrouw dood, twee anderen gewond",
-     "link": "https://nos.nl/l/2634130",
-     "bron": "NOS",
-     "tijd": "12:45",
-     "sorteer": "2026-10-08T12:45:45+02:00"
+     "titel": "Oekraïner Kirilo Tsarenko zat schorsing van een jaar uit",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ29Tb3V0T1A5dUZPZnNPbVZTb1czZ2d1ZWJ3MTV6YjhYZHpBNVNlWEVVR0NFUU1KSjhTOWVoOHJ3OW9tanFmdWFnZHp1Zm5YZi1rZnRFMFA4THJ0eWR0RDFETE9zWHBkQ21pcERLS1J3M1RXVzR1cDh2UWRnR1BCU3hOX0hNamlNS01mcHY3SjRiSmpZVmc?oc=5",
+     "bron": "Wielerflits",
+     "tijd": "17:53",
+     "sorteer": "2026-10-08T15:53:46+00:00"
     },
     {
-     "titel": "Zeker dertig doden bij Russische aanvallen op Oekraïense stad bij frontlinie",
-     "link": "https://nos.nl/l/2634129",
-     "bron": "NOS",
-     "tijd": "12:20",
-     "sorteer": "2026-10-08T12:20:00+02:00"
-    },
-    {
-     "titel": "Russische ambassade wil opheldering over opmerking Yeşilgöz",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT1A2VW1FMy15aGFmaUhfaEU5RE00c1UwZjhBWEQ1Z3BLalE2TGJQTk1QT2p0LVc5WTRkd3A3RGVqM19NSTd6ajZUTDZscHMzbUhvZGpYR0QySFh4bGVCd29xWXlmMjI3VjJVS2JpT1BEeGhYNkhLTmlueUJNQVk3RlBQNzFyUXJLZWtHUnZaaw?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "16:54",
-     "sorteer": "2026-10-08T14:54:13+00:00"
-    },
-    {
-     "titel": "Opgepakte chef Duitse geheime dienst had banden met Chinese generaal",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUnZObDVyaWprdnJMOEtkUHFnRXVHQXpuWFMtNEQ2YXEzRmY0c21ZelloVEZ5d0xtS2xxT1o1Z0hicG9qUWRHVTJ2YmJCaVJGQUhZTHE3NEsycm5LVGkyYXNucmZrQ0F6TF85LW13bWlLYzBaazFMU0VreHdnQWN2dVFVOHc1cXlha3V3YTJXeWcyaG03NTVYblp3?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "16:54",
-     "sorteer": "2026-10-08T14:54:13+00:00"
+     "titel": "'ECB-rente staat nog steeds te laag'",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMGxkd3BoTml4dldDQUVBWmYwSUxPcmNyVXJCZFlRckV0ZTRaVDlEMGwwWGhXQXNCeHdoTVMyQjNaSjdOM29VTUk4ZG9CMV8tcEZhLUlvTXlMMVQ3WmtNbmxfcWlTVzVJUDVFU3dLNVJDVmlqTzJoYWt1V1pYb3VyS3RQQkZ3MzQ2QTE2Q21vZ0pHWlN6S0tKQUs5VDU?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "17:21",
+     "sorteer": "2026-10-08T15:21:27+00:00"
     }
    ]
   },
@@ -80,6 +82,13 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Provincies beëindigen contract met busvervoerder om financiële problemen",
+     "link": "https://nos.nl/l/2634172",
+     "bron": "NOS",
+     "tijd": "17:56",
+     "sorteer": "2026-10-08T17:56:20+02:00"
+    },
     {
      "titel": "8/10 in Nieuwsuur: OM slecht beveiligd • Stikstofminister te gast • Docentfluencers in de ban? • Orgeloorlog in Zwolle",
      "link": "https://nos.nl/l/2634160",
@@ -114,13 +123,6 @@
      "bron": "NOS",
      "tijd": "14:21",
      "sorteer": "2026-10-08T14:21:24+02:00"
-    },
-    {
-     "titel": "Opnieuw iemand met westnijlvirus overleden, maar piek lijkt echt voorbij",
-     "link": "https://nos.nl/l/2634133",
-     "bron": "NOS",
-     "tijd": "13:11",
-     "sorteer": "2026-10-08T13:11:25+02:00"
     },
     {
      "titel": "Yesilgöz noemt Rusland nu 'de vijand' maar dat betekent 'niet ineens andere aanpak'",
@@ -172,6 +174,13 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Wist jij dit? Hengelo was dé krokettenhoofdstad van Nederland",
+     "link": "https://www.oost.nl/cultuur/3704630/wist-jij-dit-hengelo-was-de-krokettenhoofdstad-van-nederland",
+     "bron": "RTV Oost",
+     "tijd": "17:32",
+     "sorteer": "2026-10-08T15:32:32+00:00"
+    },
+    {
      "titel": "Zorgen in Aadorp over locatie arbeidsmigrantenhotel, veiligheid nog onderzocht",
      "link": "https://www.oost.nl/nieuws/3704466/zorgen-in-aadorp-over-locatie-arbeidsmigrantenhotel-veiligheid-nog-onderzocht",
      "bron": "RTV Oost",
@@ -205,13 +214,6 @@
      "bron": "RTV Oost",
      "tijd": "14:29",
      "sorteer": "2026-10-08T12:29:40+00:00"
-    },
-    {
-     "titel": "Overijssel stopt eerder met busvervoerder EBS: financiële problemen te groot",
-     "link": "https://www.oost.nl/nieuws/3704615/overijssel-stopt-eerder-met-busvervoerder-ebs-financiele-problemen-te-groot",
-     "bron": "RTV Oost",
-     "tijd": "13:48",
-     "sorteer": "2026-10-08T11:48:52+00:00"
     },
     {
      "titel": "Er is een nieuw overlijdensbericht",
@@ -372,44 +374,20 @@
      "link": "https://www.tweedekamer.nl/debat_en_vergadering"
     },
     {
-     "titel": "Het gebruik van mogelijk excessief geweld door de politie op geweldloze klimaatactivisten",
-     "bron": "Kamervraag",
-     "kop": "Kamervragen",
-     "tijd": "08-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49729",
-     "sorteer": "2026-10-08T13:50:25.25+02:00"
-    },
-    {
-     "titel": "De berichtgeving over discriminatie bij de afdeling Handhaving van UWV",
-     "bron": "Kamervraag",
-     "kop": "Kamervragen",
-     "tijd": "08-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49721",
-     "sorteer": "2026-10-08T13:46:48.337+02:00"
-    },
-    {
-     "titel": "Het succesvolle Amsterdamse proefproject waarbij asielzoekers sneller beginnen werken",
-     "bron": "Kamervraag",
-     "kop": "Kamervragen",
-     "tijd": "08-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49715",
-     "sorteer": "2026-10-08T13:42:21.81+02:00"
-    },
-    {
-     "titel": "Antwoord op vragen van het lid Faber over de bevoegdheden van boa’s",
+     "titel": "Antwoord op vragen van het lid Faber over de appreciatie van het amendement 36835-9 in het kader van het trapsgewijs verhogen van…",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
-     "tijd": "28-08",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D39768",
-     "sorteer": "2026-10-07T16:12:08.063+02:00"
+     "tijd": "05-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D48567",
+     "sorteer": "2026-10-08T14:22:09.92+02:00"
     },
     {
-     "titel": "Antwoord op vragen van de leden Stoffer en Ceder over de 25e verjaardag van de beruchte Durban-conferentie tegen racisme",
-     "bron": "Antwoord op Kamervragen",
-     "kop": "Kamervragen",
-     "tijd": "07-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49312",
-     "sorteer": "2026-10-07T12:48:20.36+02:00"
+     "titel": "Omnibus veiligheid van voedsel en diervoeder - COREPER 23 september 2026",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "24-09",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D45840",
+     "sorteer": "2026-10-08T15:34:37.753+02:00"
     },
     {
      "titel": "Verzamelbrief ontwikkelingen drugsbeleid",
@@ -420,28 +398,12 @@
      "sorteer": "2026-10-08T11:51:42.467+02:00"
     },
     {
-     "titel": "Voortgang discriminatie en racisme juni 2026",
-     "bron": "Brief van de regering",
-     "kop": "Brieven en moties",
-     "tijd": "02-07",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D34867",
-     "sorteer": "2026-10-08T10:53:22.58+02:00"
-    },
-    {
      "titel": "Motie van het lid Van Baarle over geen Israëlische wapens tentoonstellen of promoten op defensiebeurzen en evenementen",
      "bron": "Motie",
      "kop": "Brieven en moties",
      "tijd": "01-10",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D48019",
-     "sorteer": "2026-10-08T13:44:02.537+02:00"
-    },
-    {
-     "titel": "Motie van het lid Russcher over gedwongen terugkeer naar Syrië van Syrische asielzoekers die de openbare orde verstoren of…",
-     "bron": "Motie",
-     "kop": "Brieven en moties",
-     "tijd": "07-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49547",
-     "sorteer": "2026-10-08T12:54:57.913+02:00"
+     "sorteer": "2026-10-08T15:18:12.557+02:00"
     },
     {
      "titel": "Procedurevergadering Asiel en Migratie",
@@ -624,14 +586,6 @@
      "sorteer": "2026-10-08T08:08:00+02:00"
     },
     {
-     "titel": "Raddes Boszanger",
-     "kop": "Zeldzaamheden",
-     "bron": "Noord-Holland",
-     "tijd": "17:50",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-07T17:50:00+02:00"
-    },
-    {
      "titel": "Dalfsen (nacht)",
      "kop": "Vogeltrek",
      "bron": "08-10",
@@ -649,7 +603,7 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 133 soorten, 24.694 vogels geteld",
+     "titel": "Landelijk vandaag: 134 soorten, 26.368 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
@@ -670,25 +624,33 @@
      "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch"
     },
     {
-     "titel": "Kleine Mantelmeeuw — 2.499",
+     "titel": "Kleine Mantelmeeuw — 2.638",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch"
     },
     {
-     "titel": "Kokmeeuw — 1.868",
+     "titel": "Rotgans — 2.531",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch"
     },
     {
-     "titel": "Spreeuw — 1.746",
+     "titel": "Kokmeeuw — 1.896",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch"
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Rotgans springt eruit — 2.531, normaal 98",
+     "bron": "26× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch",
+     "sein": true
     },
     {
      "kop": "Vogeltrek",
@@ -700,7 +662,7 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Rotgans springt eruit — 1.138, normaal 98",
+     "titel": "Bonte Strandloper springt eruit — 120, normaal 10",
      "bron": "12× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch",
@@ -708,15 +670,7 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Bonte Strandloper springt eruit — 116, normaal 10",
-     "bron": "12× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Jan-van-gent springt eruit — 426, normaal 53",
+     "titel": "Jan-van-gent springt eruit — 439, normaal 53",
      "bron": "8× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch",
@@ -728,7 +682,7 @@
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "gelijk aan de dag ervoor (17) · afgelopen week gemiddeld 41 per dag"
+     "vergelijking": "gelijk aan de dag ervoor (19) · afgelopen week gemiddeld 41 per dag"
     },
     {
      "kop": "Kraanvogels",
@@ -765,11 +719,11 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 13.8,
-    "gevoel": 12.7,
-    "wind": "NW 3",
+    "nu": 13.0,
+    "gevoel": 11.8,
+    "wind": "WNW 3",
     "station": "Heino",
-    "bericht": "Vandaag is de nazomer ten einde. Wolken, zon en een paar buien wisselen elkaar af.",
+    "bericht": "De buiigheid neemt langzaam wat af. Morgen volgt meer regen en waait het stevig.",
     "vooruit": "T/m zondag wisselvallig met elke dag grote kans op regen of buien met middagtemperaturen rond 15°C en vrij veel wind. Vanaf maandag iets rustiger herfstweer met afnemende neerslagkansen en enkele graden warmer.",
     "omslag": "Vanaf maandag droog: de regenkans zakt van 80% naar 20%.",
     "min": null,
