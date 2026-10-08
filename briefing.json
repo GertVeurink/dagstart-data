@@ -3,15 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "18:01",
+  "opgehaald": "19:00",
   "blokken": 10,
-  "berichten": 84,
-  "problemen": [
-   "kamerstukken Schriftelijke vragen: HTTPError"
-  ],
+  "berichten": 88,
+  "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-08T18:01+02:00",
+ "opgehaald": "2026-10-08T19:00+02:00",
  "audio": "audio/20261008.mp3",
  "blokken": [
   {
@@ -19,6 +17,13 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Letten opgepakt bij Britse luchtmachtbasis",
+     "link": "https://nos.nl/l/2634179",
+     "bron": "NOS",
+     "tijd": "18:27",
+     "sorteer": "2026-10-08T18:27:35+02:00"
+    },
     {
      "titel": "Klimaattop in Fiji en Tuvalu grotendeels mislukt, landen blijven massaal thuis",
      "link": "https://nos.nl/l/2634168",
@@ -55,25 +60,18 @@
      "sorteer": "2026-10-08T13:55:24+02:00"
     },
     {
-     "titel": "Nobelprijs voor Canadese dichter en hoogleraar klassieke talen Anne Carson",
-     "link": "https://nos.nl/l/2634134",
-     "bron": "NOS",
-     "tijd": "13:17",
-     "sorteer": "2026-10-08T13:17:14+02:00"
+     "titel": "Bemanningsleden ISS na bijna acht maanden terug op aarde",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUEZjMkU5UkhQczVFQjNpMlNmb1ktSHNieThINGxXYnduTXcyTGtDOHEtLXg3R3gxeXdFYnNiWTZ3Sm5Sa2o4bVlSdmFvZFJxN2dCb2pUZXdVMkJ4cW9rVVhFV0lUZlJ0N1J0U3QxZVpfTDNqdmV4d2lvdmR2SVNacXB0bmNVN0QyOUE?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "18:54",
+     "sorteer": "2026-10-08T16:54:49+00:00"
     },
     {
-     "titel": "Oekraïner Kirilo Tsarenko zat schorsing van een jaar uit",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ29Tb3V0T1A5dUZPZnNPbVZTb1czZ2d1ZWJ3MTV6YjhYZHpBNVNlWEVVR0NFUU1KSjhTOWVoOHJ3OW9tanFmdWFnZHp1Zm5YZi1rZnRFMFA4THJ0eWR0RDFETE9zWHBkQ21pcERLS1J3M1RXVzR1cDh2UWRnR1BCU3hOX0hNamlNS01mcHY3SjRiSmpZVmc?oc=5",
-     "bron": "Wielerflits",
-     "tijd": "17:53",
-     "sorteer": "2026-10-08T15:53:46+00:00"
-    },
-    {
-     "titel": "'ECB-rente staat nog steeds te laag'",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMGxkd3BoTml4dldDQUVBWmYwSUxPcmNyVXJCZFlRckV0ZTRaVDlEMGwwWGhXQXNCeHdoTVMyQjNaSjdOM29VTUk4ZG9CMV8tcEZhLUlvTXlMMVQ3WmtNbmxfcWlTVzVJUDVFU3dLNVJDVmlqTzJoYWt1V1pYb3VyS3RQQkZ3MzQ2QTE2Q21vZ0pHWlN6S0tKQUs5VDU?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "17:21",
-     "sorteer": "2026-10-08T15:21:27+00:00"
+     "titel": "Teler medicinale cannabis Bedrocan failliet verklaard",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMEhpQWJqUXFSb3dVWTZVaXVZbng0X1JIaWtLSFd4VlBhNDUybTJwUTFVWDctc0JlclQtSDVFQmdGeFl5YkxVVlZuUzNUSXhLRzhMWldlWF9pcHp3cVN1QlBxTlJUXzZaejhsMGpoT0tqNmxuR2k5QllUWjUwZ2h6SkEyT09kdw?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "18:44",
+     "sorteer": "2026-10-08T16:44:15+00:00"
     }
    ]
   },
@@ -146,11 +144,11 @@
      "sorteer": "2026-10-07T21:04:57+02:00"
     },
     {
-     "titel": "Tweede Kamer voor alcoholmeter bij veroordeelden",
-     "link": "https://nos.nl/l/2634039",
-     "bron": "NOS politiek",
-     "tijd": "18:05",
-     "sorteer": "2026-10-07T18:05:47+02:00"
+     "titel": "Ministeries moeten samen 750 regels schrappen of versimpelen om regeldruk te verminderen",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTmdJa2FsdHZDRVE4N2pFOVA2bEVhRlBnWlBFVzExVjgwQ1pEd1lCbV9CM2pvQll4a1YwQldwRjVsekY3YnRfQ3hvcE1OMUtHMExIdkVBbnhFTmJRUFFEVjV6NDB0STg3U1V6Y05YR2xxZDBpV1lVR1BydmxmTFBwVnl4U290Z3lBVHpQREFnLURmbUgzR2V4S0t6cmtFcFJQZER3ZkowY1BfREhlcTZfYjI2MmhxSlhMQTB3U21BUE1UVzkwdC1xZWM3ek1WSTlvcjEw?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "18:36",
+     "sorteer": "2026-10-08T16:36:19+00:00"
     },
     {
      "titel": "Overal in Israël zijn Palestijnse plekken gewist. Door ze te fotograferen, leerde ik ze herinneren",
@@ -174,46 +172,46 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Wist jij dit? Hengelo was dé krokettenhoofdstad van Nederland",
-     "link": "https://www.oost.nl/cultuur/3704630/wist-jij-dit-hengelo-was-de-krokettenhoofdstad-van-nederland",
-     "bron": "RTV Oost",
-     "tijd": "17:32",
-     "sorteer": "2026-10-08T15:32:32+00:00"
-    },
-    {
-     "titel": "Zorgen in Aadorp over locatie arbeidsmigrantenhotel, veiligheid nog onderzocht",
-     "link": "https://www.oost.nl/nieuws/3704466/zorgen-in-aadorp-over-locatie-arbeidsmigrantenhotel-veiligheid-nog-onderzocht",
+     "titel": "Arbeidsmigrantenhotel bij zware industrie: inwoners van Aadorp houden zorgen",
+     "link": "https://www.oost.nl/nieuws/3704466/arbeidsmigrantenhotel-bij-zware-industrie-inwoners-van-aadorp-houden-zorgen",
      "bron": "RTV Oost",
      "tijd": "16:32",
      "sorteer": "2026-10-08T14:32:09+00:00"
     },
     {
-     "titel": "Melkveebedrijf uit Raalte moet 116.000 euro aan criminele winst terugbetalen",
-     "link": "https://www.oost.nl/nieuws/3704692/melkveebedrijf-uit-raalte-moet-116000-euro-aan-criminele-winst-terugbetalen",
+     "titel": "Heracles wil periodetitel nu wél pakken | Namli opnieuw geblesseerd geraakt bij PEC",
+     "link": "https://www.oost.nl/sport/3704522/heracles-wil-periodetitel-nu-wel-pakken-namli-opnieuw-geblesseerd-geraakt-bij-pec",
      "bron": "RTV Oost",
-     "tijd": "16:00",
-     "sorteer": "2026-10-08T14:00:39+00:00"
+     "tijd": "13:46",
+     "sorteer": "2026-10-08T11:46:26+00:00"
     },
     {
-     "titel": "FC Twente haalt Chris de Graaf na vertrek bij Spakenburg naar Enschede",
-     "link": "https://www.oost.nl/sport/3690644/fc-twente-haalt-chris-de-graaf-na-vertrek-bij-spakenburg-naar-enschede",
+     "titel": "Nadat azc Albergen voor de derde keer is beschoten, reageert de burgemeester fel",
+     "link": "https://www.oost.nl/nieuws/3704514/nadat-azc-albergen-voor-de-derde-keer-is-beschoten-reageert-de-burgemeester-fel",
      "bron": "RTV Oost",
-     "tijd": "15:30",
-     "sorteer": "2026-10-08T13:30:16+00:00"
+     "tijd": "12:56",
+     "sorteer": "2026-10-08T10:56:10+00:00"
     },
     {
-     "titel": "Doors Wide Open uit Goor krijgt Appeltje van Oranje van koningin Máxima",
-     "link": "https://www.oost.nl/cultuur/3693788/doors-wide-open-uit-goor-krijgt-appeltje-van-oranje-van-koningin-maxima",
+     "titel": "Kamergenoten Pelupessy en James genieten in Indonesië: 'Nog nooit zoveel gelachen'",
+     "link": "https://www.oost.nl/sport/3704396/kamergenoten-pelupessy-en-james-genieten-in-indonesie-nog-nooit-zoveel-gelachen",
      "bron": "RTV Oost",
-     "tijd": "14:59",
-     "sorteer": "2026-10-08T12:59:53+00:00"
+     "tijd": "12:01",
+     "sorteer": "2026-10-08T10:01:06+00:00"
     },
     {
-     "titel": "Uitslag van meting UF-schuim in Rijssen bekend: één bewoner moet huis verlaten",
-     "link": "https://www.oost.nl/nieuws/3704600/uitslag-van-meting-uf-schuim-in-rijssen-bekend-een-bewoner-moet-huis-verlaten",
+     "titel": "Ommenaren met drugslab in schuur hadden ook eigen sportschool",
+     "link": "https://www.oost.nl/nieuws/3704485/ommenaren-met-drugslab-in-schuur-hadden-ook-eigen-sportschool",
      "bron": "RTV Oost",
-     "tijd": "14:29",
-     "sorteer": "2026-10-08T12:29:40+00:00"
+     "tijd": "10:53",
+     "sorteer": "2026-10-08T08:53:58+00:00"
+    },
+    {
+     "titel": "Overijsselse hogescholen scoren hoog: Viaa opnieuw op één",
+     "link": "https://www.oost.nl/nieuws/3704411/overijsselse-hogescholen-scoren-hoog-viaa-opnieuw-op-een",
+     "bron": "RTV Oost",
+     "tijd": "10:36",
+     "sorteer": "2026-10-08T08:36:00+00:00"
     },
     {
      "titel": "Er is een nieuw overlijdensbericht",
@@ -236,6 +234,20 @@
    "titel": "AI",
    "emoji": "🤖",
    "items": [
+    {
+     "titel": "Topadvocaten muziekindustrie leiden miljardendeals en AI-conflicten",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejR0T3FhVTN2NGV1XzYtaDZuX1YxSm5LTXhtVVNYS25Wb2tObThUWUZJRzRET0w0Vl9OdmZYVzhpZHJBSnVES0V6UzNxYVphQVJZNjAyUy1iTWxmdWhzMV9UUHRsU0JDbHAtcDFnanlTRHVvZVotVEVFelNCdHN2NmoydFowY21fWFdHR3o0R0hXUGZneWVGR1lxU0c4Q2d0TjRrYkN1Sm5Edw?oc=5",
+     "bron": "Headliner.nl",
+     "tijd": "18:34",
+     "sorteer": "2026-10-08T16:34:45+00:00"
+    },
+    {
+     "titel": "Het einde van de beschaving: een AI sluit vier patiënten op in het Funambule Montmartre",
+     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMGU3ZG5zcTlfa0VURzNUdTZwdThQekczSUo3S0gtMkM2cFhib0RoTTV3b1p5VVlXa3NtLXB1eWY2TXZqWTFhdEVERXZKTlBfYUVNbnJWWXF4UFJ3SkdEa2hvVklyNUJMNU4zQ1pBSkF4VkI2b2RhMnBtRmEyOXd5MlY3dWdqM0NES0cwV1FjSURtZDIybkFmanV5c2pSYkdocEJ5N1hZUThVaGtUaFF2aXBrSWdxNHZaS3hFMUF1aGVYUEltZzh4MTFSLXVzVlBGNGdFSVNBTGJLNlhxVk54NUc0UzRJcXFHcmtZMWc5enJqb285RTRkRUE2N0prbk0?oc=5",
+     "bron": "Sortir à Paris",
+     "tijd": "18:17",
+     "sorteer": "2026-10-08T16:17:23+00:00"
+    },
     {
      "titel": "Stord verkrijgt $400M kredietfaciliteit om fulfilmentnetwerk en AI uit te breiden",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYzN1dlJvUUdaTEdPTmFVQTF2N2hJUzUtSHQ3ejRiSXNxQ0tNNEI0d080MlRzNzl5M1A3dVYzNDZKc1NKeDFPOHJmTEFBa0xPXzhicVcycU1yX285SklUU3c5SG9vMTdJVGZzdkpWUTZnelBuNjJQdkZmMkQ1WklGOHVfRVl6ekFicFNWSTByRV9PSVljUE80N0ZqdXA?oc=5",
@@ -263,20 +275,6 @@
      "bron": "Headliner.nl",
      "tijd": "14:33",
      "sorteer": "2026-10-08T12:33:48+00:00"
-    },
-    {
-     "titel": "Hoe AI HCM en de manier waarop we werken verandert",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUm9ycWtWT3QyRnJnWVhPcFhhY1Z6Y3I2Vi1BT3F6cmJaalVtUzZadDJuZ1J3MTROclBtUXozSmIwc3ZWR3c4SkpydVlIRzA3T21abzlMcVFOWXlzems2ZGZYZ1NjMTVsRWx6cFprblZrR0NBUzNzbmtMdmo4R0M3NG5kMFNpV0lwWnpndVdPYmY?oc=5",
-     "bron": "SAP News Center",
-     "tijd": "14:30",
-     "sorteer": "2026-10-08T12:30:08+00:00"
-    },
-    {
-     "titel": "SAP laat zien hoe AI de Autonomous Enterprise mogelijk maakt",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMHVhbGpQazVLR1g5dlg4eHR3Vllpa0l3Rl9ZX3BvVEthWVp1bFNMaVJ5REd3Tkc2LTdJbE9hWVVaTVgzTWswb3UtYnlkaGNXMGtIQXV0TG1sMTVMU2lBRnZYeV9KU0docE9SbUpfS0Rnelg2QU5TcmZjdUZrTXBEak1KbVZsZUNqT2FfZFB0Z05SZkhmWXlXNnJGTGpJUQ?oc=5",
-     "bron": "SAP News Center",
-     "tijd": "14:30",
-     "sorteer": "2026-10-08T12:30:08+00:00"
     }
    ]
   },
@@ -374,6 +372,30 @@
      "link": "https://www.tweedekamer.nl/debat_en_vergadering"
     },
     {
+     "titel": "De inzet van politiedrones voor verkeershandhaving",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "17-09",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D44060",
+     "sorteer": "2026-10-08T16:15:24.22+02:00"
+    },
+    {
+     "titel": "De appreciatie van het amendement 36835-9 in het kader van het trapsgewijs verhogen van de leeftijd voor prostitutie van 18 naar…",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "30-09",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D47482",
+     "sorteer": "2026-10-08T14:12:13.413+02:00"
+    },
+    {
+     "titel": "Het gebruik van mogelijk excessief geweld door de politie op geweldloze klimaatactivisten",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "08-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49729",
+     "sorteer": "2026-10-08T13:50:25.25+02:00"
+    },
+    {
      "titel": "Antwoord op vragen van het lid Faber over de appreciatie van het amendement 36835-9 in het kader van het trapsgewijs verhogen van…",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
@@ -382,20 +404,20 @@
      "sorteer": "2026-10-08T14:22:09.92+02:00"
     },
     {
-     "titel": "Omnibus veiligheid van voedsel en diervoeder - COREPER 23 september 2026",
+     "titel": "Nazending Werkprogramma Inspectie Justitie en Veiligheid 2027",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "08-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49934",
+     "sorteer": "2026-10-08T18:08:17.5+02:00"
+    },
+    {
+     "titel": "Reactie aandachtspunten Algemene Rekenkamer bij ‘Een ernstige zaak – prioritering in de opsporing’",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
      "tijd": "24-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D45840",
-     "sorteer": "2026-10-08T15:34:37.753+02:00"
-    },
-    {
-     "titel": "Verzamelbrief ontwikkelingen drugsbeleid",
-     "bron": "Brief van de regering",
-     "kop": "Brieven en moties",
-     "tijd": "13-07",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D36669",
-     "sorteer": "2026-10-08T11:51:42.467+02:00"
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D45795",
+     "sorteer": "2026-10-08T17:11:38.6+02:00"
     },
     {
      "titel": "Motie van het lid Van Baarle over geen Israëlische wapens tentoonstellen of promoten op defensiebeurzen en evenementen",
@@ -540,10 +562,10 @@
     {
      "titel": "Notenkraker",
      "kop": "Zeldzaamheden",
-     "bron": "Drenthe",
-     "tijd": "16:03",
+     "bron": "Noord-Brabant",
+     "tijd": "16:20",
      "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-08T16:03:00+02:00"
+     "sorteer": "2026-10-08T16:20:00+02:00"
     },
     {
      "titel": "Gestreepte Strandloper",
@@ -578,6 +600,14 @@
      "sorteer": "2026-10-08T10:18:00+02:00"
     },
     {
+     "titel": "Aziatische Goudplevier",
+     "kop": "Zeldzaamheden",
+     "bron": "Zuid-Holland",
+     "tijd": "10:08",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-08T10:08:00+02:00"
+    },
+    {
      "titel": "Pallas' Boszanger",
      "kop": "Zeldzaamheden",
      "bron": "Friesland",
@@ -603,42 +633,42 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 134 soorten, 26.368 vogels geteld",
+     "titel": "Landelijk vandaag: 145 soorten, 38.029 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch"
     },
     {
-     "titel": "Vink — 4.365",
+     "titel": "Kokmeeuw — 4.945",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch"
     },
     {
-     "titel": "Kolgans — 3.029",
+     "titel": "Vink — 4.619",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch"
     },
     {
-     "titel": "Kleine Mantelmeeuw — 2.638",
+     "titel": "Smient — 3.959",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch"
     },
     {
-     "titel": "Rotgans — 2.531",
+     "titel": "Rotgans — 3.551",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch"
     },
     {
-     "titel": "Kokmeeuw — 1.896",
+     "titel": "Kolgans — 3.531",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -646,8 +676,16 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Rotgans springt eruit — 2.531, normaal 98",
-     "bron": "26× het gewone niveau",
+     "titel": "Rotgans springt eruit — 3.551, normaal 98",
+     "bron": "36× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Bonte Strandloper springt eruit — 299, normaal 10",
+     "bron": "30× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch",
      "sein": true
@@ -662,16 +700,8 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Bonte Strandloper springt eruit — 120, normaal 10",
-     "bron": "12× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Jan-van-gent springt eruit — 439, normaal 53",
-     "bron": "8× het gewone niveau",
+     "titel": "Smient springt eruit — 3.959, normaal 410",
+     "bron": "10× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch",
      "sein": false
@@ -682,7 +712,7 @@
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "gelijk aan de dag ervoor (19) · afgelopen week gemiddeld 41 per dag"
+     "vergelijking": "gelijk aan de dag ervoor (23) · afgelopen week gemiddeld 42 per dag"
     },
     {
      "kop": "Kraanvogels",
@@ -719,9 +749,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 13.0,
-    "gevoel": 11.8,
-    "wind": "WNW 3",
+    "nu": 11.4,
+    "gevoel": 11.4,
+    "wind": "WNW 2",
     "station": "Heino",
     "bericht": "De buiigheid neemt langzaam wat af. Morgen volgt meer regen en waait het stevig.",
     "vooruit": "T/m zondag wisselvallig met elke dag grote kans op regen of buien met middagtemperaturen rond 15°C en vrij veel wind. Vanaf maandag iets rustiger herfstweer met afnemende neerslagkansen en enkele graden warmer.",
