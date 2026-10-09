@@ -7,7 +7,8 @@
   "blokken": 9,
   "berichten": 84,
   "problemen": [],
-  "audio_herkomst": "vangnet"
+  "audio_herkomst": "vangnet",
+  "audio_aangehaakt": "07:20"
  },
  "opgehaald": "2026-10-09T07:00+02:00",
  "audio": "audio/20261009.mp3",
@@ -593,7 +594,7 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 156 soorten, 64.908 vogels geteld",
+     "titel": "Landelijk vandaag: 156 soorten, 64.911 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
@@ -729,5 +730,15 @@
     }
    }
   }
+ ],
+ "archief": [
+  "2026-10-09",
+  "2026-10-08",
+  "2026-10-07",
+  "2026-10-06",
+  "2026-10-05",
+  "2026-10-04",
+  "2026-10-03",
+  "2026-10-02"
  ]
 }
