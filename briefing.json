@@ -1,22 +1,31 @@
 {
- "datum": "2026-10-08",
- "naam": "Avondbriefing",
+ "datum": "2026-10-09",
+ "naam": "Ochtendbriefing",
  "status": {
-  "ronde": "Avondbriefing",
-  "opgehaald": "23:00",
+  "ronde": "Ochtendbriefing",
+  "opgehaald": "05:55",
   "blokken": 9,
-  "berichten": 87,
-  "problemen": [],
-  "audio_herkomst": "vangnet"
+  "berichten": 85,
+  "problemen": [
+   "geen toegang tot /Users/thuismap/Library/Mobile Documents/com~apple~CloudDocs/Ochtendbriefing — overgeslagen"
+  ],
+  "audio_herkomst": null
  },
- "opgehaald": "2026-10-08T23:00+02:00",
- "audio": "audio/20261008.mp3",
+ "opgehaald": "2026-10-09T05:55+02:00",
+ "audio": null,
  "blokken": [
   {
    "id": "internationaal",
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Pentagon wil executie Nidal Hasan door vuurpeloton live uitzenden",
+     "link": "https://nos.nl/l/2634213",
+     "bron": "NOS",
+     "tijd": "02:24",
+     "sorteer": "2026-10-09T02:24:51+02:00"
+    },
     {
      "titel": "Duizenden aanhangers opgepakt volgens Indiase Kakkerlakken-beweging",
      "link": "https://nos.nl/l/2634207",
@@ -53,25 +62,18 @@
      "sorteer": "2026-10-08T20:32:55+02:00"
     },
     {
-     "titel": "Christa Pike kan weer lopen maar is 'boos en verward', zeggen advocaten",
-     "link": "https://nos.nl/l/2634190",
-     "bron": "NOS",
-     "tijd": "19:41",
-     "sorteer": "2026-10-08T19:41:02+02:00"
-    },
-    {
-     "titel": "Zelensky verwacht deelname Europees team bij gesprekken met VS",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEpHYS02VE9SMXdiVFVPYVRyNUFRbGJZblNMcXJFNVJIeklhYlBlcVJyNE1XS3NSMmJmaUtwbkRwcTNQNElhczlybGJnVDdRRjl6dU5hSkJaVUFGcE82by0tYzhFTFp2N2tLSnZLb05VUXJTNWtXMmtmcFBDWTJZampKZEQ2RzRCTWc?oc=5",
+     "titel": "Mamdani wil dat Trump activiteiten ICE in New York beëindigt",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa3lvTzY0M0JLMklkZGczeFdaVGhTV1lNb0RsdXBZSFpuWWM5QXBFUnpSWWFmeDhnQXd2U25lS0o3ZG9hSmRYQmdhdzNQWkJmV25GRzZHMkVUcG1xdGNDY2JvUXAtNFdmVnBxYktiVk83dDZqMEJsaEU0aWJpSWE4dGZxOWtaRWpZazlYUWJTcw?oc=5",
      "bron": "Reformatorisch Dagblad",
-     "tijd": "22:55",
-     "sorteer": "2026-10-08T20:55:40+00:00"
+     "tijd": "02:10",
+     "sorteer": "2026-10-09T00:10:10+00:00"
     },
     {
-     "titel": "EU wil begrotingsregels niet telkens versoepelen",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaXE4c3VPMk9lREJtMUx5TTVwNFVZTXdpRlBocDU0U1BRSUI2bDlSYUdjbjA0ZnpWQTdRMWlCa2kzcTVGRXZKbGtxeXY1UndJX0ZfT3RLUnlPTTBoRWR2V09yN1FuUnhLaHlDWnF6aFEzdmNiYm9veUwxOVByLXpTMURFSWRqeERFU1JpemZiSzVQWDNBOEtiYmhhbUlfbVFs?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "21:51",
-     "sorteer": "2026-10-08T19:51:00+00:00"
+     "titel": "Leger VS wijst op systeemfouten bij crash vliegtuig en helikopter",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdTB2SEZrOTEwZFFmN0VwS2xiLU1Hb2tIM3Vqdk9RWF9jT2g3dTNWdHhPaXhCVEhPMWtacHI4WTd1NE5mOUlqX0pCXy1qSWEyTjd4U0I2VW1WN3JmTjlJeVR6dUVJYk00WExFdVJnTDhYZWpPZ3FPUThOc0EwV3Q0bjhEM0d4QjRQZ2w5N2VuSVBOR3lzblE?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "02:10",
+     "sorteer": "2026-10-09T00:10:03+00:00"
     }
    ]
   },
@@ -80,6 +82,20 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Gemeenteraad Terneuzen stemt in met vergunning voor asielzoekerscentrum",
+     "link": "https://nos.nl/l/2634215",
+     "bron": "NOS",
+     "tijd": "05:30",
+     "sorteer": "2026-10-09T05:30:03+02:00"
+    },
+    {
+     "titel": "Franse minister komt met noodplan na protesten: 3000 invaldocenten",
+     "link": "https://nos.nl/l/2634214",
+     "bron": "NOS",
+     "tijd": "04:53",
+     "sorteer": "2026-10-09T04:53:22+02:00"
+    },
     {
      "titel": "Veel rook door brand in parkeergarage onder Olympisch Stadion",
      "link": "https://nos.nl/l/2634192",
@@ -109,18 +125,11 @@
      "sorteer": "2026-10-08T17:56:20+02:00"
     },
     {
-     "titel": "8/10 in Nieuwsuur: OM slecht beveiligd • Stikstofminister te gast • Docentfluencers in de ban? • Orgeloorlog in Zwolle",
-     "link": "https://nos.nl/l/2634160",
-     "bron": "NOS",
-     "tijd": "16:25",
-     "sorteer": "2026-10-08T16:25:59+02:00"
-    },
-    {
-     "titel": "Waterstand Rijn niet meer te peilen: bord uitgezet",
-     "link": "https://nos.nl/l/2634159",
-     "bron": "NOS",
-     "tijd": "16:17",
-     "sorteer": "2026-10-08T16:17:31+02:00"
+     "titel": "Eerst wel, toen niet, nu weer wel: regenboogvlag gaat toch bij Tweede Kamer hangen",
+     "link": "https://nos.nl/l/2634212",
+     "bron": "NOS politiek",
+     "tijd": "23:57",
+     "sorteer": "2026-10-08T23:57:44+02:00"
     },
     {
      "titel": "Yesilgöz noemt Rusland nu 'de vijand' maar dat betekent 'niet ineens andere aanpak'",
@@ -137,32 +146,32 @@
      "sorteer": "2026-10-08T07:33:17+02:00"
     },
     {
-     "titel": "OM had beveiliging van ICT-systemen niet goed op orde, oordeelt commissie",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc1NlclNiLVRQckJ6NTBVRTlwdFFHTzZmaXk1dFBfYmtlZFhSMHpxR1loMGtkWWlFdm5waTNfamRJMnduSXdCOVRTcEhlZExLeEMtWDVEaGVqWjNNUndpNGQ4c0ZqTHFqLS1JUWZtQzJCQUtYbjNXYklDZVhRR2F2OGFEcWkzeGlMWEN5cXdqalN4VERFZXZFTWZUb016a2loYi15NmY0VXl4cHFlQzJxRzFPdnFSbk9KNzhF?oc=5",
-     "bron": "de Volkskrant",
-     "tijd": "22:37",
-     "sorteer": "2026-10-08T20:37:50+00:00"
+     "titel": "Proces rond dood Diego Maradona: OM eist gevangenisstraffen tot twaalf jaar voor medisch team",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUWl0MUlRcTg5Y09Pdzg2c0hsbFNKMmIxdDM5bDhhT0k3cW9BWXJZWDVtclJSU0tsT0hCOGl2bHBHanY1anpBQ0ZFRkpBOGQ4VTB6clA4RTVtQmJEQVFfZXJoZklreFpRc3pUWTN4WUZNTWhpQjVzeDdDSDAyYlpoTGVFemxUTHpuU0ZwdE1KTVF5TWFZbzhzQ0ZNejl0U0FUbXpfYTFvUFZacTM4OHhkazdPWE1DSDd4eERnczlEeDV6cG1uX3pDcVo2QS1SQTlyREpjYzVTU1V1SmNaVkd3?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "05:06",
+     "sorteer": "2026-10-09T03:06:26+00:00"
     },
     {
-     "titel": "112-nieuws: Aangehouden politieman op vrije voeten | Flinke schade na ongeluk in Vinkeveen",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONkNYZnFIQWNHM2xLNlBVWmpzRFRlSWFsTHByQTBtVUpGeXBlY1Y0UHZaUEFLUzlXOXplREtIaE5LRkNYbVliRjJYam0xWHQ5UUJYMEpXUnZ1NTluODFlWXA2dzN1SF80R0hLNnBfU0EtanBJY2RyTGxrOUg5Y1NuZHJKREZWZzhmWFJQbzE0MXpFNWc4N0dseGNqbkUzb1ZWRVBCeFU4eUktV0JNSFJjTkFubWF1VzZyelJzLUg1dWpkYllNSnp3?oc=5",
-     "bron": "RTV Utrecht",
-     "tijd": "22:30",
-     "sorteer": "2026-10-08T20:30:30+00:00"
-    },
-    {
-     "titel": "Overal in Israël zijn Palestijnse plekken gewist. Door ze te fotograferen, leerde ik ze herinneren",
-     "link": "https://decorrespondent.nl/17306",
-     "bron": "De Correspondent · Yahel Gazit",
+     "titel": "‘Dwingende controle haalt het slachtoffer uit zijn of haar leven’",
+     "link": "https://decorrespondent.nl/17305",
+     "bron": "De Correspondent · Milou Klein Lankhorst",
      "tijd": "05:45",
-     "sorteer": "2026-10-08T03:45:07+00:00"
+     "sorteer": "2026-10-09T03:45:06+00:00"
     },
     {
-     "titel": "Vergaderen is goed voor je (sorry)",
-     "link": "https://decorrespondent.nl/17293",
-     "bron": "De Correspondent · Michiel de Hoog",
+     "titel": "Wat te doen met al die woede (en met Christenen voor Israël)?",
+     "link": "https://decorrespondent.nl/17312",
+     "bron": "De Correspondent · Rinke Verkerk",
      "tijd": "05:45",
-     "sorteer": "2026-10-08T03:45:06+00:00"
+     "sorteer": "2026-10-09T03:45:06+00:00"
+    },
+    {
+     "titel": "Deze beroemde Deense vrijplaats is helemaal niet zo vrij – juist daarom is ze een succes",
+     "link": "https://decorrespondent.nl/17311",
+     "bron": "De Correspondent · Josta van Bockxmeer",
+     "tijd": "05:45",
+     "sorteer": "2026-10-09T03:45:05+00:00"
     }
    ]
   },
@@ -171,6 +180,13 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Besmettelijke tuberculose vastgesteld bij leerling van Twickel College Hengelo",
+     "link": "https://www.oost.nl/nieuws/3704818/besmettelijke-tuberculose-vastgesteld-bij-leerling-van-twickel-college-hengelo",
+     "bron": "RTV Oost",
+     "tijd": "21:59",
+     "sorteer": "2026-10-08T19:59:07+00:00"
+    },
     {
      "titel": "Genemuiden en Grevink uit elkaar na zware blessure",
      "link": "https://www.oost.nl/sport/3702107/genemuiden-en-grevink-uit-elkaar-na-zware-blessure",
@@ -207,11 +223,11 @@
      "sorteer": "2026-10-08T16:01:27+00:00"
     },
     {
-     "titel": "Arbeidsmigrantenhotel bij zware industrie: inwoners van Aadorp houden zorgen",
-     "link": "https://www.oost.nl/nieuws/3704466/arbeidsmigrantenhotel-bij-zware-industrie-inwoners-van-aadorp-houden-zorgen",
-     "bron": "RTV Oost",
-     "tijd": "16:32",
-     "sorteer": "2026-10-08T14:32:09+00:00"
+     "titel": "Stortbui",
+     "link": "https://www.dalfsennet.nl/nieuws/554064/stortbui.html",
+     "bron": "DalfsenNet",
+     "tijd": "23:27",
+     "sorteer": "2026-10-08T21:27:13+00:00"
     },
     {
      "titel": "Boelen Tweewielers breidt uit met Kalkhoff en houdt grote opruimingsactie",
@@ -219,13 +235,6 @@
      "bron": "DalfsenNet",
      "tijd": "20:27",
      "sorteer": "2026-10-08T18:27:28+00:00"
-    },
-    {
-     "titel": "Plannen voor je huis? Kijk binnen bij mensen in de buurt",
-     "link": "https://www.dalfsennet.nl/nieuws/554056/plannen-voor-je-huis-kijk-binnen-bij-mensen-in-de-buurt.html",
-     "bron": "DalfsenNet",
-     "tijd": "20:17",
-     "sorteer": "2026-10-08T18:17:06+00:00"
     }
    ]
   },
@@ -242,39 +251,39 @@
      "sorteer": "2026-10-08T18:44:49+00:00"
     },
     {
-     "titel": "Topadvocaten muziekindustrie leiden miljardendeals en AI-conflicten",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejR0T3FhVTN2NGV1XzYtaDZuX1YxSm5LTXhtVVNYS25Wb2tObThUWUZJRzRET0w0Vl9OdmZYVzhpZHJBSnVES0V6UzNxYVphQVJZNjAyUy1iTWxmdWhzMV9UUHRsU0JDbHAtcDFnanlTRHVvZVotVEVFelNCdHN2NmoydFowY21fWFdHR3o0R0hXUGZneWVGR1lxU0c4Q2d0TjRrYkN1Sm5Edw?oc=5",
-     "bron": "Headliner.nl",
-     "tijd": "18:34",
-     "sorteer": "2026-10-08T16:34:45+00:00"
+     "titel": "Kunstmatige intelligentie maakt precisievoeren vleesvarkens praktijkrijp",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaGszZnlscUZJbkExTGdkcURIX3U1UGRncnI5dWs2VVFkektTZV9MNlRpYVBobTVneVlpQ2Q1aUNrbUxnTERHZFh5YUJfMnRrcWdER18tUkNTaWJMdFRBODFKUUw3bkwyWEwzVVVnQjBFM1hBaTNyQUh2My0zbmdxT3BSVlRQb2RycXJoWFV2TlpVNlhLVTE1QU1qYw?oc=5",
+     "bron": "Boerderij",
+     "tijd": "05:00",
+     "sorteer": "2026-10-09T03:00:00+00:00"
     },
     {
-     "titel": "Het einde van de beschaving: een AI sluit vier patiënten op in het Funambule Montmartre",
-     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMGU3ZG5zcTlfa0VURzNUdTZwdThQekczSUo3S0gtMkM2cFhib0RoTTV3b1p5VVlXa3NtLXB1eWY2TXZqWTFhdEVERXZKTlBfYUVNbnJWWXF4UFJ3SkdEa2hvVklyNUJMNU4zQ1pBSkF4VkI2b2RhMnBtRmEyOXd5MlY3dWdqM0NES0cwV1FjSURtZDIybkFmanV5c2pSYkdocEJ5N1hZUThVaGtUaFF2aXBrSWdxNHZaS3hFMUF1aGVYUEltZzh4MTFSLXVzVlBGNGdFSVNBTGJLNlhxVk54NUc0UzRJcXFHcmtZMWc5enJqb285RTRkRUE2N0prbk0?oc=5",
-     "bron": "Sortir à Paris",
-     "tijd": "18:17",
-     "sorteer": "2026-10-08T16:17:23+00:00"
-    },
-    {
-     "titel": "DOE kent $159M toe om wetenschappelijke AI in fusie, chipontwerp en kwantumonderzoek te brengen",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tS3NSLTZnR3JBc0hmYklTUHpJU05zeUo2Y3kxc2hOVW1vU1pONUNpWndYTnFwTmZsNVMzS01SMVBWbEdBUFJGQjh0VXQ1My14YjgtUFlUd3QwWVk0R0hLSXJnWTY0bXI1OGJ6Vzl5eV8?oc=5",
-     "bron": "Unite.AI",
-     "tijd": "17:37",
-     "sorteer": "2026-10-08T15:37:08+00:00"
-    },
-    {
-     "titel": "Hoe AI HCM en de manier waarop we werken verandert",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON0hRbUF2RFE4SmN5X1RYaE5PZjQ1TVNnTldzRDREeDdsRlQ0cHN6V2FXamF3UGd3NWVzUE1vaWhKYWtjVTJma2g2YkYzdVJRM0VYNVZCRkY2YTdjNDNhdkx2WS02QjRrWUd4N3dnZnk5QTdsS2Y0dmY1QXpkdHhwTHpod3JZTlJmS2tUYm5xU2xEVWNMTHp3?oc=5",
-     "bron": "SAP News Center",
-     "tijd": "17:29",
-     "sorteer": "2026-10-08T15:29:18+00:00"
-    },
-    {
-     "titel": "Politici bezorgd over Google's plan voor Spirit-data voor AI",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR3d5OWFyYklwdXRwcUY2SHExZXY0N1lHNEpvSEVqZi0wS2J1aHdxN2xNeGN4NXBpZFRKSUY1bURtRzRHVzRDdGhLbDNtcXQxaTdUUmFGaF93OGpnWk1fNFhVT1F5TmI2Uy03Qy1FX0pmUnBsVGEyaFVBcTZlNXBMWmdCX3FuczNBQmlqZjBxMG95R2psZXpCakI0aGFqQQ?oc=5",
+     "titel": "Modi wil dat India het AI-tijdperk aandrijft. Inwoners verzetten zich",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOVNIOF83cUtFcWl5YTFwV1laUm5zQlpCdkxNZ2JGTUhyQndxaGFJZXZtc1NoYTFxaC1iZk80QURCNjBCQTljMWFheWplUXFOR2hGc2pVekdQZ1I4bllhSUdGLVJZdDc1UndCOTJraG5uLVVxbGFseG1PeEFYZ2lmaTBOV1kwR0JnZVdoMDd2VDY5TW9DUm51Y1pWYmlHYmR0UWF4cXVOTUpldw?oc=5",
      "bron": "IEX.nl",
-     "tijd": "21:49",
-     "sorteer": "2026-10-08T19:49:00+00:00"
+     "tijd": "04:05",
+     "sorteer": "2026-10-09T02:05:00+00:00"
+    },
+    {
+     "titel": "Bijeenkomst Smart Farming: efficiënter boeren door de inzet van kunstmatige intelligentie",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSnRjb2l3ZEJqZWhkclJkSTZ3YWttRVlFRnltd1BOYjdXc0llTlV5WHg3b3ptY0FWZjhfQm9JbWNxQ2FMbFVzV2NUeXdSSlZSMkVqVnM0ZHA0aXdMZlA1b0xEUWdVcUZYU2ZEU3I2YjFzWFBPNW1EN1FpOVNIbzJqNng3clMycEJCUVlUNmljX1RDWmFJelo0TWxZc01iVTlKb09PdTExeXlaajVHaXpZb3RKUGdCS1FvNFRTbHVJb0tNSTFUSmtwNVlGd1JZelE?oc=5",
+     "bron": "Landbouwagenda",
+     "tijd": "21:34",
+     "sorteer": "2026-10-08T19:34:27+00:00"
+    },
+    {
+     "titel": "Interne modellen van OpenAI lossen grote wiskundeproblemen op en benadrukken groeiende kloof in AI-capaciteit",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPenRwS3Vya3ZmQmhRd0cwM2dPalRtazVBQzdISzY1TWZZN0pvbVVveUZ4STFpZmd1YUJDdmhGYlYwVUlma2QzNzAzZXVVdlRocnNBOWJGUXhaeXNpaVlUUzc5Mm0yUFFFSVo1cTdpNjFqNlNHUnktWm5CUzdmMjFobnBrZmFkQmg2WmMtX1lydXVNN2cxQTRBSHJqNERidDlxbFNod1pLaUd6RVFpTTJ0Qm5XR0hJcS1zMHphTFVQV0RudnpZOTdyaFA3ZFNIS0RBeDNWUg?oc=5",
+     "bron": "Headliner.nl",
+     "tijd": "21:34",
+     "sorteer": "2026-10-08T19:34:18+00:00"
+    },
+    {
+     "titel": "Vrouwen van Nu organiseert lezing over kunstmatige intelligentie",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRU9RYWJlc3hCc3JWQnJJSTk2enREQjRrMFh1MHl1dEVkeUctMEhkWDBVcFlXTHd2Rm0wUVF0MTZGTnIxLUxYUE5GNEhQeXJPdGVTRzNweG1PMndheGtpanZsbUx4SXN2UzBnRGdDazRud0c2Rnk3dGY2Y3d2VkZEREdaalJ5dHE2ODZLT3FYV0hVZy1WUnhINE9XZTNUSlpwMWluNkRrMmI0YzhPendaRWMySjRxVkpBdGk1TVo3bmF5aTlGaE9VVHhqMA?oc=5",
+     "bron": "Drimble",
+     "tijd": "20:59",
+     "sorteer": "2026-10-08T18:59:53+00:00"
     }
    ]
   },
@@ -289,46 +298,6 @@
      "kop": "Stemmingen",
      "tijd": "",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z21721"
-    },
-    {
-     "titel": "De heer Ceulemans (JA21) over Zwolle",
-     "bron": "Vreemdelingen- en asielbeleid (CD d.d. 10/09)",
-     "toelichting": "Ik heb een motie die enigszins vergelijkbaar is met die van de heer Ellian. Ik weet dat wij allebei zeer begaan zijn met het lot van zowel reizigers als ov-personeel op de lijnen rond Ter Apel, in dit geval ook op de treinverbinding Emmen-Zwolle. Vandaar de volgende motie van mijn kant.",
-     "kop": "Transcriptie",
-     "tijd": "07-10",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering"
-    },
-    {
-     "titel": "De heer Van den Brink over Zwolle",
-     "bron": "Vreemdelingen- en asielbeleid (CD d.d. 10/09)",
-     "toelichting": "De motie op stuk nr. 3659 van de heren Ceulemans en Goudzwaard over de Zwolle-Emmenlijn. Als je het onderwerp hoort, denk je: dat is precies wat meneer Ellian net ook vroeg. Er zitten echter een paar slight differences in. Dat is allemaal Engels — dat moet je niet doen!",
-     "kop": "Transcriptie",
-     "tijd": "07-10",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering"
-    },
-    {
-     "titel": "Minister Van den Brink over Zwolle",
-     "bron": "Vreemdelingen- en asielbeleid (CD d.d. 10/09)",
-     "toelichting": "In goed Nederlands: er zitten net een paar kleine verschillen in, die in de praktijk heel groot zijn. Het gaat er met name om dat we binnen een maand toegang moeten krijgen tot de BVV en de SKDB. Daar is nog geen wettelijke grondslag voor. Daarnaast verzoekt de motie om binnen een maand aan te sluiten op een systeem dat alleen in een pilotfase in Rotterdam wordt gebruikt. Ik heb de heer Ellian toegezegd om dat ook…",
-     "kop": "Transcriptie",
-     "tijd": "07-10",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering"
-    },
-    {
-     "titel": "Minister Van Weel over opsporing",
-     "bron": "Demonstratierecht (CD d.d. 10/09)",
-     "toelichting": "Dank, voorzitter. Dank aan de leden. Laat ik beginnen met nog even inhaken op wat de heer Van den Brink zei over de smurfenvloeistof. De stappen die genomen moeten worden in de voorbereiding op een pilot, namelijk dat het OM bekijkt of dit toegevoegde waarde heeft in de opsporing en de politie vervolgens kijkt hoe dat ingepast kan worden in het ME-concept en in de eigen opsporing, zijn voor het einde van het jaar…",
-     "kop": "Transcriptie",
-     "tijd": "07-10",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering"
-    },
-    {
-     "titel": "De heer Diederik van Dijk (SGP) over opsporing",
-     "bron": "Wijziging van de Wegenverkeerswet 1994 en het Wetboek van…",
-     "toelichting": "Helder; dank daarvoor. Daaropvolgend: zijn de politie en de forensische keten in dat soort gevallen ook voldoende toegerust, bijvoorbeeld om bewijsmateriaal veilig te stellen? Ik noemde het voorbeeld dat iemand een ander had doodgereden en dat er vervolgens allerlei antistofspray in zijn auto werd gevonden. Hoe ga je daar qua bewijsvoering et cetera mee om? Kan de minister daar nog iets over zeggen? Heeft de…",
-     "kop": "Transcriptie",
-     "tijd": "07-10",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering"
     },
     {
      "titel": "Staatssecretaris Boswijk over ondermijning",
@@ -355,11 +324,11 @@
      "link": "https://www.tweedekamer.nl/debat_en_vergadering"
     },
     {
-     "titel": "De heer Heerma over ondermijning",
-     "bron": "Verkiezingen (CD d.d. 23/09)",
-     "toelichting": "De laatste motie die de heer Vermeer en mevrouw Van der Plas hebben ingediend, op stuk nr. 112, gaat nogal ver en raakt aan heel veel. Ik moet deze motie ontraden. Ik zal daar enige toelichting op geven. De Europese Verordening betreffende transparantie en gerichte politieke reclame geldt sinds oktober vorig jaar. Politieke reclame moet gelabeld zijn en verwijzen naar een verklaring met informatie, zoals informatie…",
+     "titel": "Mevrouw Yeşilgöz-Zegerius over politie",
+     "bron": "Begroting Defensie (37020-X) (1e TK)",
+     "toelichting": "Voorzitter. De heer Struijs wilde weten of we voldoende wettelijke mogelijkheden hebben om politie, Defensie, MIVD, AIVD en NCTV nationaal en internationaal goed te laten samenwerken en snel tot besluiten te laten komen. Dat geldt bijvoorbeeld ook voor de informatie-uitwisseling met vertrouwende bondgenoten. Ja, ik onderschrijf de noodzaak om bij de vele dreigingen waar we het over hebben, soms dus ook bij…",
      "kop": "Transcriptie",
-     "tijd": "07-10",
+     "tijd": "08-10",
      "link": "https://www.tweedekamer.nl/debat_en_vergadering"
     },
     {
@@ -427,28 +396,12 @@
      "sorteer": "2026-10-08T22:01:11.773+02:00"
     },
     {
-     "titel": "Procedurevergadering Asiel en Migratie",
-     "bron": "Procedurevergadering",
+     "titel": "Implementatie van Richtlijn (EU) 2024/1203 van het Europees Parlement en de Raad van 11 april 2024 inzake de…",
+     "bron": "Wetgevingsoverleg",
      "kop": "Komende week",
-     "tijd": "donderdag 8/10 13:00",
+     "tijd": "maandag 12/10 10:00",
      "link": "https://www.tweedekamer.nl/debat_en_vergadering",
-     "sorteer": "2026-10-08T13:00"
-    },
-    {
-     "titel": "Verklaring dat er grond bestaat een voorstel in overweging te nemen tot verandering in de Grondwet van de bepaling…",
-     "bron": "Inbreng verslag (wetsvoorstel)",
-     "kop": "Komende week",
-     "tijd": "donderdag 8/10 14:00",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering",
-     "sorteer": "2026-10-08T14:00"
-    },
-    {
-     "titel": "Tweeminutendebat Sancties tegen het Internationaal Strafhof (CD 30/9)",
-     "bron": "Plenair debat (tweeminutendebat)",
-     "kop": "Komende week",
-     "tijd": "donderdag 8/10 20:35",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering",
-     "sorteer": "2026-10-08T20:35"
+     "sorteer": "2026-10-12T10:00"
     },
     {
      "titel": "Petitie Afghaanse families en de gevolgen van Europese Asiel- en migratiepact voor Afghaanse families",
@@ -481,6 +434,38 @@
      "tijd": "woensdag 14/10 11:00",
      "link": "https://www.tweedekamer.nl/debat_en_vergadering",
      "sorteer": "2026-10-14T11:00"
+    },
+    {
+     "titel": "Procedurevergadering tijdelijke commissie Grondrechten en constitutionele toetsing",
+     "bron": "Procedurevergadering",
+     "kop": "Komende week",
+     "tijd": "donderdag 15/10 09:30",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering",
+     "sorteer": "2026-10-15T09:30"
+    },
+    {
+     "titel": "Criminaliteitsbestrijding, ondermijning en georganiseerde criminaliteit",
+     "bron": "Commissiedebat",
+     "kop": "Komende week",
+     "tijd": "donderdag 15/10 14:00",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering",
+     "sorteer": "2026-10-15T14:00"
+    },
+    {
+     "titel": "Goedkeuring van het op 4 december 2025 te Wenen tot stand gekomen Aanvullend Protocol bij de Overeenkomst tussen het…",
+     "bron": "Inbreng verslag (wetsvoorstel)",
+     "kop": "Komende week",
+     "tijd": "donderdag 15/10 14:00",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering",
+     "sorteer": "2026-10-15T14:00"
+    },
+    {
+     "titel": "WODC rapport 'evaluatie praktijktest nieuwe werkwijze hulpverlening aan slachtoffers van seksueel geweld' (33552-157)",
+     "bron": "Inbreng schriftelijk overleg",
+     "kop": "Komende week",
+     "tijd": "donderdag 15/10 14:00",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering",
+     "sorteer": "2026-10-15T14:00"
     }
    ]
   },
@@ -521,20 +506,20 @@
      "link": "https://scientias.nl/een-chatbot-kan-eerst-netjes-antwoorden-maar-daarna-ongemerkt-ontsporen/"
     },
     {
+     "titel": "World Octopus Day: new discoveries about the world’s smartest invertebrates",
+     "toelichting": "Happy World Octopus Day! Every Oct 8, the world celebrates one of the more unusual creatures of the sea. Octopuses are well-known for their eight legs and ability to squirt ink when frightened. They’ve also been known to",
+     "bron": "Mongabay (Engels)",
+     "tijd": "01:00",
+     "link": "https://news.mongabay.com/short-article/2026/10/world-octopus-day-new-discoveries-about-the-worlds-smartest-invertebrates/",
+     "sorteer": "2026-10-08T23:00:02+00:00"
+    },
+    {
      "titel": "Counterfeit seeds threaten African farmers’ crops and climate resilience: Study",
      "toelichting": "In Africa, high-quality seeds can produce improved crops with enhanced nutrition, pest-resistance, and drought tolerance. However, such seeds for maize, vegetables, and cereal crops can be indistinguishable from counterf",
      "bron": "Mongabay (Engels)",
      "tijd": "22:41",
      "link": "https://news.mongabay.com/short-article/2026/10/counterfeit-seeds-threaten-african-farmers-crops-and-climate-resilience-study/",
      "sorteer": "2026-10-08T20:41:11+00:00"
-    },
-    {
-     "titel": "Endangered angelshark is still traded in Brazil despite import ban",
-     "toelichting": "PORTO ALEGRE, Brazil — “Good choice!” said the clerk at one of the fish stalls in the Porto Alegre Public Market when Mongabay asked about the peixe anjo, which means “angel fish” in Portuguese, in mid-September. “We sel",
-     "bron": "Mongabay (Engels)",
-     "tijd": "20:34",
-     "link": "https://news.mongabay.com/2026/10/endangered-angelshark-is-still-traded-in-brazil-despite-import-ban/",
-     "sorteer": "2026-10-08T18:34:45+00:00"
     }
    ]
   },
@@ -603,7 +588,7 @@
      "titel": "Dalfsen (nacht)",
      "kop": "Vogeltrek",
      "bron": "08-10",
-     "wanneer": "vannacht",
+     "wanneer": "de nacht van woensdag op donderdag",
      "tijd": "19:35–07:00",
      "link": "https://trektellen.org/count/view/2364/20261008",
      "soorten": [
@@ -621,94 +606,94 @@
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261009?language=dutch"
     },
     {
      "titel": "Rotgans — 23.593",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261009?language=dutch"
     },
     {
      "titel": "Smient — 5.438",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261009?language=dutch"
     },
     {
      "titel": "Kokmeeuw — 5.293",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261009?language=dutch"
     },
     {
      "titel": "Vink — 4.832",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261009?language=dutch"
     },
     {
      "titel": "Kolgans — 3.591",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261009?language=dutch"
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Rotgans springt eruit — 23.593, normaal 98",
-     "bron": "241× het gewone niveau",
+     "titel": "Rotgans springt eruit — 23.593, normaal 118",
+     "bron": "200× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261009?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Eider springt eruit — 747, normaal 23",
-     "bron": "32× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Bonte Strandloper springt eruit — 306, normaal 10",
-     "bron": "31× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "anser spec. springt eruit — 70, normaal 3",
+     "titel": "Kleine Jager springt eruit — 70, normaal 3",
      "bron": "23× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261008?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261009?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Eider springt eruit — 747, normaal 42",
+     "bron": "18× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261009?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Drieteenstrandloper springt eruit — 76, normaal 6",
+     "bron": "13× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261009?language=dutch",
      "sein": true
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Rustig gisteren — 19 meldingen, samen 142 vogels",
+     "titel": "Rustig gisteren — 4 meldingen, samen 46 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "gelijk aan de dag ervoor (24) · afgelopen week gemiddeld 42 per dag"
+     "vergelijking": "aflopend — dag ervoor 19 · afgelopen week gemiddeld 38 per dag"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "5 binnen 75 km van Dalfsen",
-     "bron": "dichtstbij: Wapse, 39 km",
-     "tijd": "10:26",
+     "titel": "1 binnen 75 km van Dalfsen",
+     "bron": "dichtstbij: Bentelo - Ter Avest e.o., 45 km",
+     "tijd": "17:58",
      "link": "https://waarneming.nl/species/19/observations/"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "8 meldingen vertrek uit het noorden",
-     "bron": "DE 8",
+     "titel": "1 meldingen vertrek uit het noorden",
+     "bron": "DE 1",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -721,7 +706,7 @@
    "items": [
     {
      "titel": "Vanochtend kunnen we, onder gunstige omstandigheden, de laatste maansikkel zien voor de komende Nieuwe Maan.",
-     "bron": "vrijdag 9 oktober",
+     "bron": "hemel.waarnemen.com",
      "tijd": "08:26",
      "link": "https://hemel.waarnemen.com/astrokal/"
     }
@@ -733,11 +718,11 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 9.0,
-    "gevoel": 7.4,
-    "wind": "ZW 2",
+    "nu": 10.1,
+    "gevoel": 8.2,
+    "wind": "ZW 3",
     "station": "Heino",
-    "bericht": "De buiigheid neemt langzaam wat af. Morgen volgt meer regen en waait het stevig.",
+    "bericht": "Bewolking heeft vandaag de overhand en er zijn perioden met regen, met de meeste regen in het westen en noordwesten. In binnenland zijn de hoeveelheden minder groot.",
     "vooruit": "T/m zondag wisselvallig met elke dag grote kans op regen of buien met middagtemperaturen rond 15°C en vrij veel wind. Vanaf maandag iets rustiger herfstweer met afnemende neerslagkansen en enkele graden warmer.",
     "omslag": "Vanaf maandag droog: de regenkans zakt van 80% naar 20%.",
     "min": null,
@@ -746,22 +731,22 @@
     "zonkans": null,
     "omschrijving": null,
     "morgen": {
-     "omschrijving": "Zwaar bewolkt en regen",
-     "min": "10",
-     "max": "17",
-     "regenkans": 90
+     "omschrijving": "Afwisselend bewolkt met (mogelijk) wat lichte regen",
+     "min": "11",
+     "max": "15",
+     "regenkans": 80
     }
    }
   }
  ],
  "archief": [
+  "2026-10-09",
   "2026-10-08",
   "2026-10-07",
   "2026-10-06",
   "2026-10-05",
   "2026-10-04",
   "2026-10-03",
-  "2026-10-02",
-  "2026-10-01"
+  "2026-10-02"
  ]
 }
