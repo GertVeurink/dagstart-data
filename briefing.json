@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "21:00",
+  "opgehaald": "22:00",
   "blokken": 10,
-  "berichten": 83,
+  "berichten": 82,
   "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-09T21:00+02:00",
+ "opgehaald": "2026-10-09T22:00+02:00",
  "audio": "audio/20261009.mp3",
  "blokken": [
   {
@@ -17,6 +17,20 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Zware aardbeving in Panama, waarschuwing voor tsunami in omringende landen",
+     "link": "https://nos.nl/l/2634340",
+     "bron": "NOS",
+     "tijd": "21:32",
+     "sorteer": "2026-10-09T21:32:09+02:00"
+    },
+    {
+     "titel": "Geen BMW voor AfD'er Tobias Rausch na intrekken leaseaanbod",
+     "link": "https://nos.nl/l/2634336",
+     "bron": "NOS",
+     "tijd": "21:07",
+     "sorteer": "2026-10-09T21:07:00+02:00"
+    },
     {
      "titel": "Drie mannen aangehouden in Gent voor schietpartij Overasselt",
      "link": "https://nos.nl/l/2634327",
@@ -46,32 +60,18 @@
      "sorteer": "2026-10-09T15:59:59+02:00"
     },
     {
-     "titel": "Schilderijen van Renoir maand na diefstal uit Frans museum teruggevonden",
-     "link": "https://nos.nl/l/2634279",
-     "bron": "NOS",
-     "tijd": "13:56",
-     "sorteer": "2026-10-09T13:56:03+02:00"
+     "titel": "Voormalig rechter van Internationaal Strafhof wint Nobelprijs voor de Vrede",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXM3bmU5ekZOaGd3dkxaQWdFRnQ4dlpoTUY5N1NCNDB3VG1zeXZtYWVZcU42NWptbE1YcU1VTHdlNU1WcEdQMUdnUU5pSmF5eEpwdDBQQk5vUFVvUDlEMVdKQ3JzcVdKN3lDLVNiNWRmaEIwQ09LWTQtZnAxeTd0THhmcHpGR2luYjBDdkxFMkI5RUluelVfZkh0Qm1ZNzNIbTJqYkJyWlhhNWcyQVZYSDlhYjBabHlDcVE?oc=5",
+     "bron": "Omroep West",
+     "tijd": "21:33",
+     "sorteer": "2026-10-09T19:33:02+00:00"
     },
     {
-     "titel": "9/10 in Nieuwsuur: Sancties ICC • Wijziging draagmoederschapswet? • 'Gebiedsgebod' voor vrijgelaten terroristen",
-     "link": "https://nos.nl/l/2634273",
-     "bron": "NOS",
-     "tijd": "13:32",
-     "sorteer": "2026-10-09T13:32:11+02:00"
-    },
-    {
-     "titel": "Paarse Vrijdag op ROC van Twente: ‘Het is meer dan ooit nodig’",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbE5pWFM4c0szYWpWLWtfRk9BaGlFdXpFS3ZHbDRVbFRDOFI4Q01NZ21tU3ZrdmpFU2Z5OWFHQVRTLVBlRXJHZ21xaDg0ZXVBd3hIVWlaZUtXSVpSMXFZVTMzLXZyYVk0N2tkQmtxZGZ5cjMxQWJMTm9tcTlMc2NBeS03eGpHbVBxZmItX3BQVXY0SWVpMExuUGZhWDdyYThKbU5Z?oc=5",
-     "bron": "Tubantia",
-     "tijd": "20:29",
-     "sorteer": "2026-10-09T18:29:55+00:00"
-    },
-    {
-     "titel": "Warmte en afkeer tijdens Paarse Vrijdag op ROC van Twente in Hengelo",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObkJfTzB5X2hwZjlMb0ZlVl9CLUl5UFlpT1EwWk44amcyS2wyM3hLTWdpNVVsMERmcW41SndjRzhGRlBzZy1BYWVmaTRSZE5RSTNSZU5LX0FvX0ZkYWpxLUV4NHM5VmtKcHFXWFY0eVA3b2hrU2J1T3JfTmIwU0lZV0o0MnJQVE5hOEhDXy03emFwb1ZUd0lIN2JHNzllTGRMdmJjdzh2eFhTZTY2NWxR?oc=5",
-     "bron": "Tubantia",
-     "tijd": "20:29",
-     "sorteer": "2026-10-09T18:29:00+00:00"
+     "titel": "OM stopt onderzoek naar vermeende thuisaccuoplichters: dat zou te veel werk zijn",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUWtnVk5JbDY0dGRucndPY1Ntb21jWTRBajdzNVFQQ3dYWXlYaVp1aWhfZG03UEhTRTNMeVp5anl0Q0hyeW5fdFpDX3FpYXduME8tZ1NhVzY4NjB1cExPUjRvNnJyQU5LV0dmX1N0RGZtVTQzam1aeWJTWFdPUHlsVkxxZ2ljM3UyVEdqancydmNtRDJtSU1fbzFhOWh0cElLY1o1ZDgwckxQdWFBUGtrZUJBREN3TFFIcDlv?oc=5",
+     "bron": "Tweakers",
+     "tijd": "21:06",
+     "sorteer": "2026-10-09T19:06:28+00:00"
     }
    ]
   },
@@ -172,6 +172,27 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Eikelboom maakt eerste treffer in betaald voetbal | Unnerstall afwezig bij Twente",
+     "link": "https://www.oost.nl/sport/3704522/eikelboom-maakt-eerste-treffer-in-betaald-voetbal-unnerstall-afwezig-bij-twente",
+     "bron": "RTV Oost",
+     "tijd": "21:10",
+     "sorteer": "2026-10-09T19:10:03+00:00"
+    },
+    {
+     "titel": "Wethouder eist metingen in alle UF-woningen Rijssen: 'Linksom of rechtsom'",
+     "link": "https://www.oost.nl/nieuws/3704979/wethouder-eist-metingen-in-alle-uf-woningen-rijssen-linksom-of-rechtsom",
+     "bron": "RTV Oost",
+     "tijd": "21:05",
+     "sorteer": "2026-10-09T19:05:37+00:00"
+    },
+    {
+     "titel": "Medewerker gevangenis Almelo in opspraak na feestje met oud-motorclubleider No Surrender",
+     "link": "https://www.oost.nl/nieuws/3704706/medewerker-gevangenis-almelo-in-opspraak-na-feestje-met-oud-motorclubleider-no-surrender",
+     "bron": "RTV Oost",
+     "tijd": "21:04",
+     "sorteer": "2026-10-09T19:04:58+00:00"
+    },
+    {
      "titel": "Bijna 500 reizigers zeven uur gestrand in trein bij grens, GoVolta woest op NS",
      "link": "https://www.oost.nl/nieuws/3705115/bijna-500-reizigers-zeven-uur-gestrand-in-trein-bij-grens-govolta-woest-op-ns",
      "bron": "RTV Oost",
@@ -186,13 +207,6 @@
      "sorteer": "2026-10-09T17:27:12+00:00"
     },
     {
-     "titel": "Unnerstall afwezig bij Twente | Oosting blij dat interlandbreak voorbij is",
-     "link": "https://www.oost.nl/sport/3704522/unnerstall-afwezig-bij-twente-oosting-blij-dat-interlandbreak-voorbij-is",
-     "bron": "RTV Oost",
-     "tijd": "18:41",
-     "sorteer": "2026-10-09T16:41:09+00:00"
-    },
-    {
      "titel": "Ouders krijgen geld terug na mislukte werkweek in Parijs",
      "link": "https://www.oost.nl/nieuws/3705205/ouders-krijgen-geld-terug-na-mislukte-werkweek-in-parijs",
      "bron": "RTV Oost",
@@ -200,32 +214,18 @@
      "sorteer": "2026-10-09T16:33:18+00:00"
     },
     {
-     "titel": "Nepagenten beroven vrouw (92) uit IJsselmuiden, deze vrouw pint daarna in Kampen",
-     "link": "https://www.oost.nl/nieuws/3702080/nepagenten-beroven-vrouw-92-uit-ijsselmuiden-deze-vrouw-pint-daarna-in-kampen",
-     "bron": "RTV Oost",
-     "tijd": "18:03",
-     "sorteer": "2026-10-09T16:03:19+00:00"
-    },
-    {
-     "titel": "Oude Weernink stopt als toezichthouder van RTV Oost",
-     "link": "https://www.oost.nl/nieuws/3704976/oude-weernink-stopt-als-toezichthouder-van-rtv-oost",
-     "bron": "RTV Oost",
-     "tijd": "17:33",
-     "sorteer": "2026-10-09T15:33:51+00:00"
-    },
-    {
-     "titel": "Provincies en EBS maken afspraken",
-     "link": "https://www.dalfsennet.nl/nieuws/554139/provincies-en-ebs-maken-afspraken.html",
+     "titel": "Aanrijding letsel Lemelerveld",
+     "link": "https://www.dalfsennet.nl/nieuws/554145/aanrijding-letsel-lemelerveld.html",
      "bron": "DalfsenNet",
-     "tijd": "20:29",
-     "sorteer": "2026-10-09T18:29:45+00:00"
+     "tijd": "21:31",
+     "sorteer": "2026-10-09T19:31:43+00:00"
     },
     {
-     "titel": "Even een ommetje",
-     "link": "https://www.dalfsennet.nl/nieuws/554137/even-een-ommetje.html",
+     "titel": "Vliegtuig aan de grond in Heino",
+     "link": "https://www.dalfsennet.nl/nieuws/554143/vliegtuig-aan-de-grond-in-heino.html",
      "bron": "DalfsenNet",
-     "tijd": "20:23",
-     "sorteer": "2026-10-09T18:23:49+00:00"
+     "tijd": "21:21",
+     "sorteer": "2026-10-09T19:21:13+00:00"
     }
    ]
   },
@@ -235,11 +235,11 @@
    "emoji": "🤖",
    "items": [
     {
-     "titel": "Davy (35) uit Brunssum vergat wachtwoord en kon niet meer bij waardevolle bitcoin: AI hielp hem uit de brand",
-     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSHBSRWVBRkVxS3M1MW1pbzRQNXp3SWJSYTJyVkpuNjJEM0Zoa084V2lLd2tDZ2UzSFd0TUl3MWlBWlRwUGJBSllvdUdvdUhLMHBhS3J3NGJ3SFpHWVNEMUZYLXpwd0d1Q3Zvend1b0Y2VGI3dXZucFAxM0EyaTBtRDVadm9FekFxSlNBTEg2UHB6X0lvSUszWmVCcGpYd0NWM2pfeFhDTXJvbGdsMHB1cnI1bzJXUTdfaDhrT0E0SmYtSGZYMUhjRGpkMHFwZjVMYldIcVRYZGctNjR4WFhwTGo3cXNfOXBCcHc?oc=5",
+     "titel": "Davy (35) uit Brunssum vergat wachtwoord en kon niet meer bij waardevolle bitcoin, tot AI te hulp schoot",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdjljZFhudmVzZzBIWnhjUVdXV2JQNnhQNnlnSUVDWGtNUWtfNlNLa1FBWWJoTUNyTjlaZXhBOUdoWHVfSHVXRDhPQ0lrYXRQeF9uQy1iM01jQVA5M0JlX1RmOERuNWkyVHJsS0NObDNrMENIZ3JVOVBiUkJ3Y0l1cFpaZExPV3NYS2ZfM19fZlhhVklSYUcxYlNkUk1RUUt4ODRHa29NME1qUVk5VUVuNC01MmQ3azZQYUwwQUVjcC1QXzJTZXdJRWZTNldOaWFNV0NiOE1VRFFqSzhWR3BIVDBBLXM?oc=5",
      "bron": "De Limburger",
-     "tijd": "20:21",
-     "sorteer": "2026-10-09T18:21:10+00:00"
+     "tijd": "20:16",
+     "sorteer": "2026-10-09T18:16:14+00:00"
     },
     {
      "titel": "Voor je het weet, zitten de hackende AI-agents overal in je systeem: grote zorgen bij bedrijven om virulente cyberaanvallen",
@@ -283,13 +283,6 @@
    "titel": "Tweede Kamer",
    "emoji": "🏛️",
    "items": [
-    {
-     "titel": "Motie van het lid Dobbe over een wapenembargo instellen tegen de Israëlische regering",
-     "bron": "motie verworpen",
-     "kop": "Stemmingen",
-     "tijd": "",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z21721"
-    },
     {
      "titel": "Staatssecretaris Boswijk over ondermijning",
      "bron": "Begroting Defensie (37020-X) (1e TK)",
@@ -526,20 +519,20 @@
      "link": "https://scientias.nl/waarom-je-een-prairie-niet-zomaar-kan-terugzaaien/"
     },
     {
+     "titel": "Painted wind turbines can dramatically reduce bird deaths, study finds",
+     "toelichting": "Wind energy is a valuable tool for addressing the climate crisis, but wind turbines can be deadly for birds. A recent study found that a low-tech, relatively inexpensive fix can dramatically reduce bird collisions with t",
+     "bron": "Mongabay (Engels)",
+     "tijd": "21:42",
+     "link": "https://news.mongabay.com/short-article/2026/10/painted-wind-turbines-can-dramatically-reduce-bird-deaths-study-finds/",
+     "sorteer": "2026-10-09T19:42:23+00:00"
+    },
+    {
      "titel": "Sri Lanka elephant found with a gunshot wound. How can tuskers be protected?",
      "toelichting": "COLOMBO –- Wildlife enthusiast Pathum Bandara watched Kavantissa, believed to be Sri Lanka’s tallest living tusker, moving gently through the landscape on Sept. 20 around Galgamuwa in the island’s northwestern dry zone, ",
      "bron": "Mongabay (Engels)",
      "tijd": "18:39",
      "link": "https://news.mongabay.com/2026/10/sri-lanka-elephant-found-with-a-gunshot-wound-how-can-tuskers-be-protected/",
      "sorteer": "2026-10-09T16:39:57+00:00"
-    },
-    {
-     "titel": "In Ecuador, Indigenous youth turn to rap music to defend the Amazon",
-     "toelichting": "Willan Gualinga first stepped onto a stage in his home community of Sarayaku, in the Ecuadorian Amazon, in the province of Pastaza. He recalls his hands sweating, his body trembling, and his mouth freezing up as words cr",
-     "bron": "Mongabay (Engels)",
-     "tijd": "18:32",
-     "link": "https://news.mongabay.com/2026/10/in-ecuador-indigenous-youth-turn-to-rap-music-to-defend-the-amazon/",
-     "sorteer": "2026-10-09T16:32:20+00:00"
     }
    ]
   },
@@ -708,8 +701,8 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 16.0,
-    "gevoel": 16.0,
+    "nu": 15.4,
+    "gevoel": 15.4,
     "wind": "ZW 4",
     "station": "Heino",
     "bericht": "Het is volop herfst de komende dagen met veel regen, wind en de temperatuur komt rond 15 graden uit. Dit vrij gemiddeld voor deze tijd van het jaar, maar na een lange zachte periode is het wel echt weer even wennen.Vanavond passeert vanuit het noordwesten een actieve buienlijn.",
