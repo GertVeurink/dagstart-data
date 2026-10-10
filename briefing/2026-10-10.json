@@ -3,13 +3,15 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "19:02",
+  "opgehaald": "19:24",
   "blokken": 10,
   "berichten": 85,
-  "problemen": [],
+  "problemen": [
+   "npo eva: HTTPError"
+  ],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-10T19:02+02:00",
+ "opgehaald": "2026-10-10T19:24+02:00",
  "audio": "audio/20261010.mp3",
  "blokken": [
   {
@@ -63,8 +65,8 @@
      "titel": "Amerikaanse Christa Pike (50) na mislukte executie ontslagen uit ziekenhuis",
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWHZBaHBQZVFBNDh6VFBjME96MVJ0RnpjVXU1LVp5M2hUOEdydkhBSjJtc0xRUVZBSUVienZXM1ZqMVdFWG5vbnBYSUlTcU50RVFvM0t3MHFkZktQRTdwb29tcGFpUWFZOW5laTg0ZERCaVZTR0xxeWExVVNrS3Z4UGtEYXlrOG5KM1d1ckxZclpIT0Q2TWU1VnVYRzR2X3NScW5PRmlydG92Z0V2MnVtMVNzYVVodUt1NGVqTTJlVFVpUQ?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "18:19",
-     "sorteer": "2026-10-10T16:19:35+00:00"
+     "tijd": "19:04",
+     "sorteer": "2026-10-10T17:04:03+00:00"
     },
     {
      "titel": "Peiling: een derde van Israëliërs wil Netanyahu nog als premier",
@@ -158,6 +160,13 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Politie bonkt voordeur in Zwolle eruit na melding: vrouw niet aanspreekbaar",
+     "link": "https://www.oost.nl/nieuws/3701509/politie-bonkt-voordeur-in-zwolle-eruit-na-melding-vrouw-niet-aanspreekbaar",
+     "bron": "RTV Oost",
+     "tijd": "19:02",
+     "sorteer": "2026-10-10T17:02:00+00:00"
+    },
+    {
      "titel": "Auto slaat over de kop bij Sint Jansklooster",
      "link": "https://www.oost.nl/nieuws/3705423/auto-slaat-over-de-kop-bij-sint-jansklooster",
      "bron": "RTV Oost",
@@ -193,11 +202,11 @@
      "sorteer": "2026-10-10T14:00:00+00:00"
     },
     {
-     "titel": "Vrouw (38) belandt onder auto bij ongeval in Hengelo en raakt zwaargewond",
-     "link": "https://www.oost.nl/nieuws/3705357/vrouw-38-belandt-onder-auto-bij-ongeval-in-hengelo-en-raakt-zwaargewond",
-     "bron": "RTV Oost",
-     "tijd": "15:58",
-     "sorteer": "2026-10-10T13:58:48+00:00"
+     "titel": "Duntep mantelzorgwoningen: wat een mooi bedrijf!",
+     "link": "https://www.dalfsennet.nl/nieuws/554199/duntep-mantelzorgwoningen-wat-een-mooi-bedrijf.html",
+     "bron": "DalfsenNet",
+     "tijd": "19:10",
+     "sorteer": "2026-10-10T17:10:37+00:00"
     },
     {
      "titel": "Zie die mooie wolken",
@@ -205,13 +214,6 @@
      "bron": "DalfsenNet",
      "tijd": "17:58",
      "sorteer": "2026-10-10T15:58:09+00:00"
-    },
-    {
-     "titel": "Even poseren",
-     "link": "https://www.dalfsennet.nl/nieuws/554191/even-poseren.html",
-     "bron": "DalfsenNet",
-     "tijd": "17:43",
-     "sorteer": "2026-10-10T15:43:42+00:00"
     }
    ]
   },
@@ -594,42 +596,42 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 184 soorten, 149.675 vogels geteld",
+     "titel": "Landelijk vandaag: 184 soorten, 150.340 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
-     "titel": "Spreeuw — 49.020",
+     "titel": "Spreeuw — 49.049",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
-     "titel": "Vink — 40.638",
+     "titel": "Vink — 40.901",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
-     "titel": "Graspieper — 7.606",
+     "titel": "Graspieper — 7.615",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
-     "titel": "Kleine Mantelmeeuw — 7.167",
+     "titel": "Kleine Mantelmeeuw — 7.170",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
-     "titel": "Kolgans — 5.955",
+     "titel": "Kolgans — 5.973",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -637,7 +639,7 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Jan-van-gent springt eruit — 4.589, normaal 71",
+     "titel": "Jan-van-gent springt eruit — 4.609, normaal 71",
      "bron": "65× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch",
@@ -653,7 +655,7 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Zilverplevier springt eruit — 720, normaal 22",
+     "titel": "Zilverplevier springt eruit — 722, normaal 22",
      "bron": "33× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch",
@@ -661,7 +663,7 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Grote Mantelmeeuw springt eruit — 502, normaal 36",
+     "titel": "Grote Mantelmeeuw springt eruit — 503, normaal 36",
      "bron": "14× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch",
@@ -669,7 +671,7 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Rustig vandaag — 11 meldingen, samen 114 vogels",
+     "titel": "Rustig vandaag — 12 meldingen, samen 115 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -684,8 +686,8 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "6 meldingen vertrek uit het noorden",
-     "bron": "DE 6",
+     "titel": "7 meldingen vertrek uit het noorden",
+     "bron": "DE 7",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -722,8 +724,8 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 11.0,
-    "gevoel": 8.9,
+    "nu": 11.1,
+    "gevoel": 8.8,
     "wind": "WZW 3",
     "station": "Heino",
     "bericht": "De rest van het weekend verloopt sterk wisselvallig, met de meest actieve buien in het noorden van het land. Die buien kunnen daar vergezeld gaan van onweer, windstoten en korrelhagel.",
