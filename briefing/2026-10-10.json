@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "19:00",
+  "opgehaald": "19:01",
   "blokken": 10,
   "berichten": 85,
   "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-10T19:00+02:00",
+ "opgehaald": "2026-10-10T19:01+02:00",
  "audio": "audio/20261010.mp3",
  "blokken": [
   {
@@ -179,13 +179,6 @@
      "sorteer": "2026-10-10T15:53:10+00:00"
     },
     {
-     "titel": "Uitslagen amateurvoetbal: ATC wint topper in Hellendoorn, zege voor GA Kampen en CSV",
-     "link": "https://www.oost.nl/sport/3704985/uitslagen-amateurvoetbal-atc-wint-topper-in-hellendoorn-zege-voor-ga-kampen-en-csv",
-     "bron": "RTV Oost",
-     "tijd": "17:23",
-     "sorteer": "2026-10-10T15:23:21+00:00"
-    },
-    {
      "titel": "De 'nachtdienst' komt lopend in Ommen aan en vertrekt op twee gestolen e-bikes",
      "link": "https://www.oost.nl/nieuws/3701638/de-nachtdienst-komt-lopend-in-ommen-aan-en-vertrekt-op-twee-gestolen-e-bikes",
      "bron": "RTV Oost",
@@ -193,25 +186,32 @@
      "sorteer": "2026-10-10T15:05:41+00:00"
     },
     {
-     "titel": "Topper d'Olde Veste'54 - TVC'28 onbeslist, zeges voor DETO en HSC'21",
-     "link": "https://www.oost.nl/sport/3704984/topper-dolde-veste54-tvc28-onbeslist-zeges-voor-deto-en-hsc21",
+     "titel": "Heb jij het nieuws uit Overijssel de afgelopen week gevolgd? Doe de quiz!",
+     "link": "https://www.oost.nl/nieuws/3705118/heb-jij-het-nieuws-uit-overijssel-de-afgelopen-week-gevolgd-doe-de-quiz",
      "bron": "RTV Oost",
-     "tijd": "17:03",
-     "sorteer": "2026-10-10T15:03:47+00:00"
+     "tijd": "16:00",
+     "sorteer": "2026-10-10T14:00:00+00:00"
     },
     {
-     "titel": "Zie die mooie wolken",
-     "link": "https://www.dalfsennet.nl/nieuws/554197/zie-die-mooie-wolken.html",
-     "bron": "DalfsenNet",
-     "tijd": "17:58",
-     "sorteer": "2026-10-10T15:58:09+00:00"
+     "titel": "Vrouw (38) belandt onder auto bij ongeval in Hengelo en raakt zwaargewond",
+     "link": "https://www.oost.nl/nieuws/3705357/vrouw-38-belandt-onder-auto-bij-ongeval-in-hengelo-en-raakt-zwaargewond",
+     "bron": "RTV Oost",
+     "tijd": "15:58",
+     "sorteer": "2026-10-10T13:58:48+00:00"
     },
     {
-     "titel": "Even poseren",
-     "link": "https://www.dalfsennet.nl/nieuws/554191/even-poseren.html",
-     "bron": "DalfsenNet",
-     "tijd": "17:43",
-     "sorteer": "2026-10-10T15:43:42+00:00"
+     "titel": "Live: NEO op voorsprong tegen Berkum, straks FC Twente op bezoek bij Fortuna",
+     "link": "https://www.oost.nl/sport/3702868/live-neo-op-voorsprong-tegen-berkum-straks-fc-twente-op-bezoek-bij-fortuna",
+     "bron": "RTV Oost",
+     "tijd": "14:25",
+     "sorteer": "2026-10-10T12:25:00+00:00"
+    },
+    {
+     "titel": "N'Djoli, De Keijzer en Heilmann genomineerd voor Bronzen Schild eerste periode",
+     "link": "https://www.oost.nl/sport/3704522/ndjoli-de-keijzer-en-heilmann-genomineerd-voor-bronzen-schild-eerste-periode",
+     "bron": "RTV Oost",
+     "tijd": "13:43",
+     "sorteer": "2026-10-10T11:43:37+00:00"
     }
    ]
   },
@@ -722,9 +722,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 11.2,
+    "nu": 11.0,
     "gevoel": 8.9,
-    "wind": "ZW 4",
+    "wind": "WZW 3",
     "station": "Heino",
     "bericht": "De rest van het weekend verloopt sterk wisselvallig, met de meest actieve buien in het noorden van het land. Die buien kunnen daar vergezeld gaan van onweer, windstoten en korrelhagel.",
     "vooruit": "Rustig herfstweer met regelmatig zon en temperaturen boven het langjarig gemiddelde. Op dinsdag is er tijdelijk meer bewolking en kan het af en toe regenen. Op vrijdag neemt de bewolking toe, is er kans op regen en daalt de maximumtemperatuur waarschijnlijk naar waarden rond het langjarig gemiddelde.",
