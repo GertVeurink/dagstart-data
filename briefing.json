@@ -3,13 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "08:00",
+  "opgehaald": "09:00",
   "blokken": 10,
   "berichten": 76,
   "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-10T08:00+02:00",
+ "opgehaald": "2026-10-10T09:00+02:00",
  "audio": "audio/20261010.mp3",
  "blokken": [
   {
@@ -60,18 +60,18 @@
      "sorteer": "2026-10-09T23:38:56+02:00"
     },
     {
-     "titel": "Graanhandel nieuw doelwit in de Oekraïne-oorlog: 'Geen scheepseigenaar durft er meer heen'",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVWpEaHhBTk1jbklSUTNjd1NuQ21qLWlmU2UxdEJZaWFYektval9WaWdPMkpYQ1VCWE9PVXNuM3lKbllSUVZNZ3FuRGxvYlVZWS1RWE9NWWJhRTJEaVYyc2wweUN3dU51RUd2U2JIYXR6OTBfV0N3TWhSMDFRWXAxcHlLOUhwZTNUNWRhMnM4ZjFSRG03SGEzVTJTSWU2R1BSWmtPTjhhSEpXaHY5UjkwU0N3MXdvNHV0VmJMLWt4U0F5Nm1ZRkFxRHhUdVFaNE1C?oc=5",
-     "bron": "EenVandaag",
-     "tijd": "07:33",
-     "sorteer": "2026-10-10T05:33:31+00:00"
-    },
-    {
      "titel": "Lale Gül: elke liberaal krijgt enorme stress van de standpunten van Pro",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSEo5V1k3czVwOXQxRFZXTDJsOGJ0UmdRakdNZE95SmxUNF9FdFdWbFVqTVNwTkpmdDExR2ptUVFhemdadjE5RHpfQ0d2Q3BBcEZqZnE1V245VnZZZHdNRzBtVlpqVTlQaGlzUDdXMmUtNy1jcVZpMDJjd04tbF9wNU5iNWgxRkVHai0zUkVvUDZ4QkQtcFhrb2pUamJJTzhRcDZwNnpNcThpRXlJSDFid3JGQlVPR1FR?oc=5",
      "bron": "De Telegraaf",
      "tijd": "07:32",
      "sorteer": "2026-10-10T05:32:04+00:00"
+    },
+    {
+     "titel": "Geen regenboogvlag bij gemeentehuis Oldebroek, maar wel bij de kerk: 'We moeten elkaar respecteren'",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM1F6MUZOU0tGejc0TFhLMjJjaEFDZVNnMXRGcmVqNTFLb0RlODRvNW05emM3eFQ2NDNJUkY5MW12RGpOTDRONHN6UjhvZ1U0QXFEVEpQeGNjWkFNaUl2LTE0dnE2TUltWU5tU2lRakFCb05QRVBESkQtUVdqeXBuV2xiRV9laGM5cU1aVDA4dThWUW9MdEhOOW9CSGZNQnhfNzFGektMaWtEX3NQbk5WZ0pvNEdoMDUzTFVqNm9ha212N0VCcUpBR3kxUVJPNV8wY1AzdjM3SWxtcE0?oc=5",
+     "bron": "EenVandaag",
+     "tijd": "06:35",
+     "sorteer": "2026-10-10T04:35:28+00:00"
     }
    ]
   },
@@ -80,6 +80,13 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Brandstichting bij het spoor, geen treinen tussen Rotterdam en Delft",
+     "link": "https://nos.nl/l/2634388",
+     "bron": "NOS",
+     "tijd": "08:02",
+     "sorteer": "2026-10-10T08:02:53+02:00"
+    },
     {
      "titel": "Niet meer verbranden maar recyclen: fabrikanten moeten oude meubels gaan inzamelen",
      "link": "https://nos.nl/l/2634382",
@@ -100,13 +107,6 @@
      "bron": "NOS",
      "tijd": "07:00",
      "sorteer": "2026-10-10T07:00:01+02:00"
-    },
-    {
-     "titel": "Drie mannen aangehouden in Gent voor schietpartij Overasselt",
-     "link": "https://nos.nl/l/2634327",
-     "bron": "NOS",
-     "tijd": "20:15",
-     "sorteer": "2026-10-09T20:15:57+02:00"
     },
     {
      "titel": "Yesilgöz ondanks kritiek: 'Ik ben volgende lijsttrekker van VVD'",
@@ -144,6 +144,20 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Bestuurder gewond bij botsing in Lemelerveld",
+     "link": "https://www.oost.nl/nieuws/3705318/bestuurder-gewond-bij-botsing-in-lemelerveld",
+     "bron": "RTV Oost",
+     "tijd": "08:20",
+     "sorteer": "2026-10-10T06:20:02+00:00"
+    },
+    {
+     "titel": "Krista sliep op straat, maar vond onderdak bij De Herberg: 'Enorm dankbaar'",
+     "link": "https://www.oost.nl/nieuws/3704580/krista-sliep-op-straat-maar-vond-onderdak-bij-de-herberg-enorm-dankbaar",
+     "bron": "RTV Oost",
+     "tijd": "08:00",
+     "sorteer": "2026-10-10T06:00:00+00:00"
+    },
+    {
      "titel": "Van der Vegt na bewogen weken: 'Dat mensen roepen dat je moet oprotten, is niet prettig'",
      "link": "https://www.oost.nl/sport/3705153/van-der-vegt-na-bewogen-weken-dat-mensen-roepen-dat-je-moet-oprotten-is-niet-prettig",
      "bron": "RTV Oost",
@@ -172,20 +186,6 @@
      "sorteer": "2026-10-09T19:54:43+00:00"
     },
     {
-     "titel": "Medewerker gevangenis Almelo in opspraak na feestje met oud-motorclubleider No Surrender",
-     "link": "https://www.oost.nl/nieuws/3704706/medewerker-gevangenis-almelo-in-opspraak-na-feestje-met-oud-motorclubleider-no-surrender",
-     "bron": "RTV Oost",
-     "tijd": "21:04",
-     "sorteer": "2026-10-09T19:04:58+00:00"
-    },
-    {
-     "titel": "Bijna 500 reizigers zeven uur gestrand in trein bij grens, GoVolta woest op NS",
-     "link": "https://www.oost.nl/nieuws/3705115/bijna-500-reizigers-zeven-uur-gestrand-in-trein-bij-grens-govolta-woest-op-ns",
-     "bron": "RTV Oost",
-     "tijd": "20:07",
-     "sorteer": "2026-10-09T18:07:26+00:00"
-    },
-    {
      "titel": "Brandweer op pad voor stormschade",
      "link": "https://www.dalfsennet.nl/nieuws/554148/brandweer-op-pad-voor-storm-schade.html",
      "bron": "DalfsenNet",
@@ -210,8 +210,8 @@
      "titel": "AI-model Anthropic stuurde valse tip over moordzaak naar politie: ’Onacceptabel’",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYmZKSnVJY1lwT09HaHNqSk5nMEZsTFpMVzRuZjJ0bjBDUVJrWGNWQ0poeFZQcWk4NmU3THNXdkNocERad3YzbVFzMHhrVy1scG1IenJFemh6dERJUDJ1OEpraHlRUjBtbzRIZ0FtRFg2aW1vcjdFeG0zcUF0YTBhWVZwOHhoNlNZc0JORXpnRXN2UUJ0MkxIMklXZjNMY2NxX05WTGFaWHVuYk52ZDZtUlBKdFFSTUIzR0xpbGVPSDFHdzhmYlFBUkcyVXo?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "07:14",
-     "sorteer": "2026-10-10T05:14:20+00:00"
+     "tijd": "07:42",
+     "sorteer": "2026-10-10T05:42:58+00:00"
     },
     {
      "titel": "Sandra Molenaar: beleggen met hulp van een AI-robot, hoe slim is dat?",
@@ -452,18 +452,18 @@
      "sorteer": "2026-10-09T11:00:00+00:00"
     },
     {
+     "titel": "Olifantengedrag ontrafelt: onderzoekers vinden 41 gebaren die olifanten regelmatig gebruiken",
+     "toelichting": "Wilde olifanten gebruiken tientallen gebaren om soortgenoten weg te sturen of om hun gedrag te stoppen. Schrijf je in voor de nieuwsbrief! Ook elke dag vers het laatste wetenschapsnieuws in je inbox? Of elke week? Schrij",
+     "bron": "Scientias",
+     "tijd": "08:30",
+     "link": "https://scientias.nl/olifantengedrag-ontrafelt-onderzoekers-vinden-41-gebaren-die-olifanten-regelmatig-gebruiken/"
+    },
+    {
      "titel": "Deze cellen van de inktvis bieden inzicht in het menselijk gehoor",
      "toelichting": "Net als mensen hebben inktvissen oren. Althans, iets dat erop lijkt. Al jaren is bij wetenschappers bekend dat de dieren kleine bundeltjes cellen op hun hoofd en tentakels hebben die erg lijken op de trilhaartjes in ons ",
      "bron": "Scientias",
      "tijd": "17:00",
      "link": "https://scientias.nl/deze-cellen-van-de-inktvis-bieden-inzicht-in-het-menselijk-gehoor/"
-    },
-    {
-     "titel": "Waarom je een prairie niet zomaar kan terugzaaien",
-     "toelichting": "Het herstellen van een natuurgebied begint vaak met het zaaien van zaden. Echter bepaalt het onderliggende netwerk vaak of herstel ook op de lange termijn slaagt. Schrijf je in voor de nieuwsbrief! Ook elke dag vers het ",
-     "bron": "Scientias",
-     "tijd": "08:30",
-     "link": "https://scientias.nl/waarom-je-een-prairie-niet-zomaar-kan-terugzaaien/"
     },
     {
      "titel": "Paraguay meets UN deadline for improving governance in Chaco Biosphere Reserve",
@@ -492,17 +492,33 @@
      "titel": "Notenkraker",
      "kop": "Zeldzaamheden",
      "bron": "Overijssel",
-     "tijd": "15:30",
+     "tijd": "08:45",
      "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-09T15:30:00+02:00"
+     "sorteer": "2026-10-10T08:45:00+02:00"
+    },
+    {
+     "titel": "Dwerggors",
+     "kop": "Zeldzaamheden",
+     "bron": "Friesland",
+     "tijd": "08:40",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-10T08:40:00+02:00"
     },
     {
      "titel": "Grijze Wouw",
      "kop": "Zeldzaamheden",
      "bron": "Zuid-Holland",
-     "tijd": "15:07",
+     "tijd": "08:23",
      "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-09T15:07:00+02:00"
+     "sorteer": "2026-10-10T08:23:00+02:00"
+    },
+    {
+     "titel": "Gestreepte Strandloper",
+     "kop": "Zeldzaamheden",
+     "bron": "Friesland",
+     "tijd": "08:04",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-10T08:04:00+02:00"
     },
     {
      "titel": "Vale Braamsluiper",
@@ -519,22 +535,6 @@
      "tijd": "13:28",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-10-09T13:28:00+02:00"
-    },
-    {
-     "titel": "Dwerggors",
-     "kop": "Zeldzaamheden",
-     "bron": "Friesland",
-     "tijd": "09:59",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-09T09:59:00+02:00"
-    },
-    {
-     "titel": "Dwergaalscholver",
-     "kop": "Zeldzaamheden",
-     "bron": "Overijssel",
-     "tijd": "08:56",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-09T08:56:00+02:00"
     },
     {
      "titel": "Dalfsen (nacht)",
@@ -556,42 +556,42 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 46 soorten, 15.887 vogels geteld",
+     "titel": "Landelijk vandaag: 117 soorten, 46.605 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
-     "titel": "Spreeuw — 15.214",
+     "titel": "Spreeuw — 34.631",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
-     "titel": "Kokmeeuw — 123",
+     "titel": "Vink — 4.842",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
-     "titel": "Vink — 105",
+     "titel": "Kolgans — 1.195",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
-     "titel": "Kolgans — 81",
+     "titel": "Kievit — 851",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
-     "titel": "Kievit — 60",
+     "titel": "Sijs — 573",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -603,7 +603,7 @@
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "oplopend — dag ervoor 6 · afgelopen week gemiddeld 36 per dag"
+     "vergelijking": "oplopend — dag ervoor 6 · afgelopen week gemiddeld 37 per dag"
     },
     {
      "kop": "Kraanvogels",
@@ -652,9 +652,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 9.3,
-    "gevoel": 7.8,
-    "wind": "ZZW 2",
+    "nu": 9.5,
+    "gevoel": 7.7,
+    "wind": "ZW 2",
     "station": "Heino",
     "bericht": "Het weekend verloopt sterk wisselvallig, met de meest actieve buien in het noorden van het land. Die buien kunnen daar vergezeld gaan van onweer, windstoten en korrelhagel.",
     "vooruit": "Rustig herfstweer met regelmatig zon en temperaturen boven het langjarig gemiddelde. Op dinsdag is er tijdelijk meer bewolking en kan het af en toe regenen. Op vrijdag neemt de bewolking toe, is er kans op regen en daalt de maximumtemperatuur waarschijnlijk naar waarden rond het langjarig gemiddelde.",
