@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "21:00",
+  "opgehaald": "21:01",
   "blokken": 11,
   "berichten": 92,
   "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-10T21:00+02:00",
+ "opgehaald": "2026-10-10T21:01+02:00",
  "audio": "audio/20261010.mp3",
  "blokken": [
   {
@@ -17,6 +17,13 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Trump haalt uit naar Zelensky: 'Tijd voor nieuwe president die deal kan sluiten'",
+     "link": "https://nos.nl/l/2634486",
+     "bron": "NOS",
+     "tijd": "20:59",
+     "sorteer": "2026-10-10T20:59:15+02:00"
+    },
     {
      "titel": "Vier vragen over de dieseldeal tussen de Verenigde Staten en Rusland",
      "link": "https://nos.nl/l/2634479",
@@ -51,13 +58,6 @@
      "bron": "NOS",
      "tijd": "17:07",
      "sorteer": "2026-10-10T17:07:28+02:00"
-    },
-    {
-     "titel": "Opnieuw vijf Palestijnen in Gaza gedood door Israëlische aanvallen",
-     "link": "https://nos.nl/l/2634429",
-     "bron": "NOS",
-     "tijd": "14:17",
-     "sorteer": "2026-10-10T14:17:48+02:00"
     },
     {
      "titel": "Amerikaanse Christa Pike (50) na mislukte executie ontslagen uit ziekenhuis",
