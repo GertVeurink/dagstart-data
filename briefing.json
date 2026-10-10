@@ -3,13 +3,13 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "12:00",
+  "opgehaald": "13:00",
   "blokken": 10,
-  "berichten": 80,
+  "berichten": 81,
   "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-10T12:00+02:00",
+ "opgehaald": "2026-10-10T13:00+02:00",
  "audio": "audio/20261010.mp3",
  "blokken": [
   {
@@ -17,6 +17,13 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Oliedeal of niet, Rusland valt woongebouwen in Oekraïne aan: 12 doden",
+     "link": "https://nos.nl/l/2634413",
+     "bron": "NOS",
+     "tijd": "12:17",
+     "sorteer": "2026-10-10T12:17:20+02:00"
+    },
     {
      "titel": "Orkaan Isaias aan land in Florida, zuiden VS maakt zich op voor noodweer",
      "link": "https://nos.nl/l/2634400",
@@ -53,11 +60,11 @@
      "sorteer": "2026-10-10T06:33:19+02:00"
     },
     {
-     "titel": "Braziliaanse politie doodt man die dertien jonge kinderen gijzelde",
-     "link": "https://nos.nl/l/2634373",
-     "bron": "NOS",
-     "tijd": "03:56",
-     "sorteer": "2026-10-10T03:56:10+02:00"
+     "titel": "Lale Gül: elke liberaal krijgt enorme stress van de standpunten van Pro",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSEo5V1k3czVwOXQxRFZXTDJsOGJ0UmdRakdNZE95SmxUNF9FdFdWbFVqTVNwTkpmdDExR2ptUVFhemdadjE5RHpfQ0d2Q3BBcEZqZnE1V245VnZZZHdNRzBtVlpqVTlQaGlzUDdXMmUtNy1jcVZpMDJjd04tbF9wNU5iNWgxRkVHai0zUkVvUDZ4QkQtcFhrb2pUamJJTzhRcDZwNnpNcThpRXlJSDFid3JGQlVPR1FR?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "12:40",
+     "sorteer": "2026-10-10T10:40:03+00:00"
     },
     {
      "titel": "Hijsen regenboogvlag bij parlement is meer dan symbolisch. Het laat zien wat onze normen en waarden zijn",
@@ -65,13 +72,6 @@
      "bron": "Leeuwarder Courant",
      "tijd": "11:16",
      "sorteer": "2026-10-10T09:16:08+00:00"
-    },
-    {
-     "titel": "Lale Gül: elke liberaal krijgt enorme stress van de standpunten van Pro",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSEo5V1k3czVwOXQxRFZXTDJsOGJ0UmdRakdNZE95SmxUNF9FdFdWbFVqTVNwTkpmdDExR2ptUVFhemdadjE5RHpfQ0d2Q3BBcEZqZnE1V245VnZZZHdNRzBtVlpqVTlQaGlzUDdXMmUtNy1jcVZpMDJjd04tbF9wNU5iNWgxRkVHai0zUkVvUDZ4QkQtcFhrb2pUamJJTzhRcDZwNnpNcThpRXlJSDFid3JGQlVPR1FR?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "10:32",
-     "sorteer": "2026-10-10T08:32:04+00:00"
     }
    ]
   },
@@ -151,6 +151,20 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Een thuis voor wie nergens terechtkan: bij 't Kastheel mag je blijven",
+     "link": "https://www.oost.nl/nieuws/3704228/een-thuis-voor-wie-nergens-terechtkan-bij-t-kastheel-mag-je-blijven",
+     "bron": "RTV Oost",
+     "tijd": "11:56",
+     "sorteer": "2026-10-10T09:56:26+00:00"
+    },
+    {
+     "titel": "Fietser met spoed naar ziekenhuis na aanrijding in Hengelo",
+     "link": "https://www.oost.nl/nieuws/3705357/fietser-met-spoed-naar-ziekenhuis-na-aanrijding-in-hengelo",
+     "bron": "RTV Oost",
+     "tijd": "11:49",
+     "sorteer": "2026-10-10T09:49:39+00:00"
+    },
+    {
      "titel": "Esters dierenkunst werd nage-aapt, maar haar originelen hangen nu in China",
      "link": "https://www.oost.nl/nieuws/3704572/esters-dierenkunst-werd-nage-aapt-maar-haar-originelen-hangen-nu-in-china",
      "bron": "RTV Oost",
@@ -179,32 +193,18 @@
      "sorteer": "2026-10-10T06:00:00+00:00"
     },
     {
-     "titel": "Bijrijder vast in auto na botsing op N50",
-     "link": "https://www.oost.nl/nieuws/3705297/bijrijder-vast-in-auto-na-botsing-op-n50",
-     "bron": "RTV Oost",
-     "tijd": "07:43",
-     "sorteer": "2026-10-10T05:43:58+00:00"
-    },
-    {
-     "titel": "112 Nieuws: Fietser gewond in Hengelo | Brandweer bevrijdt bijrijder bij N50",
-     "link": "https://www.oost.nl/nieuws/3705294/112-nieuws-fietser-gewond-in-hengelo-brandweer-bevrijdt-bijrijder-bij-n50",
-     "bron": "RTV Oost",
-     "tijd": "07:15",
-     "sorteer": "2026-10-10T05:15:59+00:00"
-    },
-    {
-     "titel": "Brandweer op pad voor stormschade",
-     "link": "https://www.dalfsennet.nl/nieuws/554148/brandweer-op-pad-voor-storm-schade.html",
+     "titel": "Feestavond bij LR de Vechtruiters",
+     "link": "https://www.dalfsennet.nl/nieuws/554156/feestavond-bij-lr-de-vechtruiters-gezelligheid-en-samen-genieten.html",
      "bron": "DalfsenNet",
-     "tijd": "22:41",
-     "sorteer": "2026-10-09T20:41:18+00:00"
+     "tijd": "12:43",
+     "sorteer": "2026-10-10T10:43:31+00:00"
     },
     {
-     "titel": "Aanrijding letsel Lemelerveld",
-     "link": "https://www.dalfsennet.nl/nieuws/554145/aanrijding-letsel-lemelerveld.html",
+     "titel": "Een vakantiegroet van Femmie uit het mooie Texel",
+     "link": "https://www.dalfsennet.nl/nieuws/554166/een-vakantiegroet-van-femmie-uit-het-mooie-texel.html",
      "bron": "DalfsenNet",
-     "tijd": "21:31",
-     "sorteer": "2026-10-09T19:31:43+00:00"
+     "tijd": "12:32",
+     "sorteer": "2026-10-10T10:32:41+00:00"
     }
    ]
   },
@@ -217,8 +217,22 @@
      "titel": "AI-model Anthropic stuurde valse tip over moordzaak naar politie: ’Onacceptabel’",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYmZKSnVJY1lwT09HaHNqSk5nMEZsTFpMVzRuZjJ0bjBDUVJrWGNWQ0poeFZQcWk4NmU3THNXdkNocERad3YzbVFzMHhrVy1scG1IenJFemh6dERJUDJ1OEpraHlRUjBtbzRIZ0FtRFg2aW1vcjdFeG0zcUF0YTBhWVZwOHhoNlNZc0JORXpnRXN2UUJ0MkxIMklXZjNMY2NxX05WTGFaWHVuYk52ZDZtUlBKdFFSTUIzR0xpbGVPSDFHdzhmYlFBUkcyVXo?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "11:44",
-     "sorteer": "2026-10-10T09:44:23+00:00"
+     "tijd": "12:21",
+     "sorteer": "2026-10-10T10:21:57+00:00"
+    },
+    {
+     "titel": "Ai verbetert efficiëntie filmproductie maar toont aanhoudende creatieve grenzen op Netflix Asia-panel",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOWFBRXBDMG14czBacEE1T19WOW1lOVRRR3ctZlBhWWsyQlQtWDcxVC1qX1dudHJra2kxamlhdWFLWHhRYWxZdlJzZTBsaTBwZGJOOU96OGw5ekprNEFwUjM5TzdMODg0ZXA5WmI4c3JBZjJsT2Z3c3BUdWV4aDJFZDBiYmcxd1RBUmdvNlk0ZXhfR3NwM0pHWThpWVY0NlBKLWVFZ3pibGFYMEZwbzZ2VmUtek5sS085ZFViSTNBZThPMDJUM0w3MEpmREJfTWEy?oc=5",
+     "bron": "Headliner.nl",
+     "tijd": "12:18",
+     "sorteer": "2026-10-10T10:18:58+00:00"
+    },
+    {
+     "titel": "Netflix zet ai in bij 300 producties terwijl filmmakers grote budgetverlagingen overwegen",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0kzMWh3TnJ4bjZZT3R6TFZqeWFPODM1aHl1cnNhRUZaTkdmQWFFd04wMngwZ2RISmRKcDJna1dJbGNNcGIxMUFUdzUzYVNmQmtPV3dCNEJqaVRXcnNJbnF4SEtDcWxYSWlJVU1hTUVLdkV0bWF0WHhReXVuWXdVaUNzMTdPa3hTZE1kME1LU2U1bVlWbW9TUU5PSHh3VjVYYW9CS3B0akFrdUtqdnNJR1N4cklEUnBrNHVyUEQtbkx6Zw?oc=5",
+     "bron": "Headliner.nl",
+     "tijd": "12:12",
+     "sorteer": "2026-10-10T10:12:05+00:00"
     },
     {
      "titel": "AI-hausse stuwt Nederlandse industrie, maar knelpunten remmen groei",
@@ -228,25 +242,18 @@
      "sorteer": "2026-10-10T08:46:38+00:00"
     },
     {
+     "titel": "AI",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS09iWXRCOEk4bjBsQy12UDJ0cGc5elFJNXR5Zjl0b3RiQThnR3FHdElMdGx1WVlpRVlJZ250WW5vSXg1Z0pqckhiZF9zYXNIS3BaQzAwRm5yYWVEUllaalRFeUZZa2lQeUxDUVdVX013ZWdEaEpsbExqamVHa1FqM2dnZnM0TnZQdVE?oc=5",
+     "bron": "linkmagazine.nl",
+     "tijd": "10:37",
+     "sorteer": "2026-10-10T08:37:05+00:00"
+    },
+    {
      "titel": "Een onrustig gevoel bij AI-gebruik? Paul Schenderling helpt morele keuzes te maken",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYm1wbTdhNUstM1VHbUk5UnhReDFOVmxMdWw2bkZ3REd3RjFwY1BPZGEzMDVoakt1bDJiSm1wTkJEMXJuUnFLZUdTVk4zZ3BrTjhBNFI4QWYySkFFUDMwbDV2QTd6MG9rY0JCVTlDZ3B6RV9aNThkdXJjVTBSN0hKa1cySXRzTkV5S2FOVk9xRkFzV05FQ1BWOHAwYmRIMWJoUkFIa2tPNA?oc=5",
      "bron": "Nederlands Dagblad",
      "tijd": "10:15",
      "sorteer": "2026-10-10T08:15:00+00:00"
-    },
-    {
-     "titel": "Sandra Molenaar: beleggen met hulp van een AI-robot, hoe slim is dat?",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeExuaE8wdTNWUFpxUE9EMERqblhwdmJiS3NwOXdRUXoxNGplXzJrUWpUb1RKYUJ4allfbTdiMDVMWERCTDRkZzJKUmlwX1VyeVItSl9aSzRRZjE5WTFfS2g3QVZodWNybjZ4Rk1fRk5abzlpZXJtaFdhZkVFcmJVSTBYSTRfcG5wc2x2djhPVDBHNkxYYXRFM3h5M09EQW1GbzdKTFAwdjVYODh6QlRneUNPVXhGM3hn?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "00:30",
-     "sorteer": "2026-10-09T22:30:00+00:00"
-    },
-    {
-     "titel": "TypeSafe AI haalt $870 miljoen Series A op bij een waardering van $7,5 miljard om meer AI-modellen te leveren",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT205TlRkcGZMdDZsZ1JBaUtUVm13dEZZb1ZZcDEwaWRkTW50UHd3aElLMzJkZVpUOWZOUEZpVGU5X3ZJcmR1bnE0U3FobUpjbFEtb3lINktUN2xGaXl6NjY4RFV0cDhmZVk0b21Cem1vZElTVzk0NlNSWVFnZDBCcFp4YXVUeGQ4SHp6dF9odU9jdkUtWEdraWVIMUs0LU0?oc=5",
-     "bron": "Unite.AI",
-     "tijd": "00:05",
-     "sorteer": "2026-10-09T22:05:42+00:00"
     }
    ]
   },
@@ -436,20 +443,20 @@
      "sorteer": "2026-10-10T04:45:00+00:00"
     },
     {
-     "titel": "Hoe de wolf zich aanpast aan Nederland",
-     "toelichting": "De wolf leeft in Nederland in een dichtbevolkt en intensief gebruikt landschap. Monitoring op de Veluwe laat zien dat de soort zijn gedrag daaraan aanpast en dat prooidieren op hun beurt reageren op zijn aanwezigheid. Ti",
-     "bron": "Nature Today",
-     "tijd": "13:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35906",
-     "sorteer": "2026-10-09T11:00:00+00:00"
-    },
-    {
      "titel": "Duizenden burgerwetenschappers in het hele land zijn op zoek naar bodemdieren",
      "toelichting": "Maar liefst 25 steden uit 12 provincies strijden op dit moment om de titel ‘Bodemdierenstad van het Jaar’. Bij deze 12e editie van de Bodemdierendagen zijn daar – en ook elders in het land – weer duizenden burgerwetensch",
      "bron": "Nature Today",
      "tijd": "07:00",
      "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35922",
      "sorteer": "2026-10-10T05:00:00+00:00"
+    },
+    {
+     "titel": "Chinese wolhandkrabben in Europa hebben Japans DNA",
+     "toelichting": "Veel Chinese wolhandkrabben in Nederland bezitten stukjes DNA van Japanse wolhandkrabben. Waarschijnlijk kwam lang geleden een Chinese wolhandkrab met Japanse DNA-fragmenten naar Europa. Het aantal wolhandkrabben met Jap",
+     "bron": "Nature Today",
+     "tijd": "10:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35920",
+     "sorteer": "2026-10-10T08:00:00+00:00"
     },
     {
      "titel": "Olifantengedrag ontrafelt: onderzoekers vinden 41 gebaren die olifanten regelmatig gebruiken",
@@ -488,6 +495,14 @@
    "titel": "Vogels",
    "emoji": "🐦",
    "items": [
+    {
+     "titel": "Gestreepte Strandloper",
+     "kop": "Zeldzaamheden",
+     "bron": "Friesland",
+     "tijd": "12:25",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-10T12:25:00+02:00"
+    },
     {
      "titel": "Dwergaalscholver",
      "kop": "Zeldzaamheden",
@@ -529,14 +544,6 @@
      "sorteer": "2026-10-10T08:23:00+02:00"
     },
     {
-     "titel": "Gestreepte Strandloper",
-     "kop": "Zeldzaamheden",
-     "bron": "Friesland",
-     "tijd": "08:04",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-10T08:04:00+02:00"
-    },
-    {
      "titel": "Dalfsen (nacht)",
      "kop": "Vogeltrek",
      "bron": "09-10",
@@ -556,42 +563,42 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 159 soorten, 99.321 vogels geteld",
+     "titel": "Landelijk vandaag: 161 soorten, 109.703 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
-     "titel": "Spreeuw — 38.568",
+     "titel": "Spreeuw — 41.009",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
-     "titel": "Vink — 25.357",
+     "titel": "Vink — 27.909",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
-     "titel": "Kleine Mantelmeeuw — 4.291",
+     "titel": "Kleine Mantelmeeuw — 5.431",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
-     "titel": "Kolgans — 4.007",
+     "titel": "Kolgans — 4.514",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
-     "titel": "Graspieper — 3.123",
+     "titel": "Graspieper — 4.380",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -599,15 +606,15 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Jan-van-gent springt eruit — 2.820, normaal 71",
-     "bron": "40× het gewone niveau",
+     "titel": "Jan-van-gent springt eruit — 3.070, normaal 71",
+     "bron": "43× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Zilverplevier springt eruit — 693, normaal 22",
+     "titel": "Zilverplevier springt eruit — 699, normaal 22",
      "bron": "32× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch",
@@ -615,7 +622,7 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Bonte Strandloper springt eruit — 1.057, normaal 52",
+     "titel": "Bonte Strandloper springt eruit — 1.058, normaal 52",
      "bron": "20× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch",
@@ -631,23 +638,23 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Rustig gisteren — 10 meldingen, samen 317 vogels",
+     "titel": "Rustig vandaag — 5 meldingen, samen 6 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "oplopend — dag ervoor 6 · afgelopen week gemiddeld 37 per dag"
+     "vergelijking": "aflopend — dag ervoor 10 · afgelopen week gemiddeld 34 per dag"
     },
     {
      "kop": "Kraanvogels",
      "titel": "1 binnen 75 km van Dalfsen",
-     "bron": "dichtstbij: Assen - Diepstroeten, 55 km",
-     "tijd": "16:01",
+     "bron": "dichtstbij: Loo Esch, 42 km",
+     "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "6 meldingen vertrek uit het noorden",
-     "bron": "DE 4, DK 2",
+     "titel": "4 meldingen vertrek uit het noorden",
+     "bron": "DE 4",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -684,9 +691,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 13.9,
-    "gevoel": 12.0,
-    "wind": "WZW 4",
+    "nu": 13.6,
+    "gevoel": 11.8,
+    "wind": "ZW 4",
     "station": "Heino",
     "bericht": "Het weekend verloopt sterk wisselvallig, met de meest actieve buien in het noorden van het land. Die buien kunnen daar vergezeld gaan van onweer, windstoten en korrelhagel.",
     "vooruit": "Rustig herfstweer met regelmatig zon en temperaturen boven het langjarig gemiddelde. Op dinsdag is er tijdelijk meer bewolking en kan het af en toe regenen. Op vrijdag neemt de bewolking toe, is er kans op regen en daalt de maximumtemperatuur waarschijnlijk naar waarden rond het langjarig gemiddelde.",
