@@ -1,22 +1,52 @@
 {
- "datum": "2026-10-09",
- "naam": "Avondbriefing",
+ "datum": "2026-10-10",
+ "naam": "Ochtendbriefing",
  "status": {
-  "ronde": "Avondbriefing",
-  "opgehaald": "23:00",
+  "ronde": "Ochtendbriefing",
+  "opgehaald": "05:55",
   "blokken": 10,
-  "berichten": 81,
-  "problemen": [],
-  "audio_herkomst": "vangnet"
+  "berichten": 77,
+  "problemen": [
+   "geen toegang tot /Users/thuismap/Library/Mobile Documents/com~apple~CloudDocs/Ochtendbriefing — overgeslagen"
+  ],
+  "audio_herkomst": null
  },
- "opgehaald": "2026-10-09T23:00+02:00",
- "audio": "audio/20261009.mp3",
+ "opgehaald": "2026-10-10T05:55+02:00",
+ "audio": null,
  "blokken": [
   {
    "id": "internationaal",
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Braziliaanse politie doodt man die dertien jonge kinderen gijzelde",
+     "link": "https://nos.nl/l/2634373",
+     "bron": "NOS",
+     "tijd": "03:56",
+     "sorteer": "2026-10-10T03:56:10+02:00"
+    },
+    {
+     "titel": "Rechtse politiek commentator Katie Zacharia nieuwe perschef van het Witte Huis",
+     "link": "https://nos.nl/l/2634371",
+     "bron": "NOS",
+     "tijd": "01:24",
+     "sorteer": "2026-10-10T01:24:41+02:00"
+    },
+    {
+     "titel": "Amerikaanse sancties 'mokerslag' voor Internationaal Strafhof, wat doet Nederland?",
+     "link": "https://nos.nl/l/2634366",
+     "bron": "NOS",
+     "tijd": "23:38",
+     "sorteer": "2026-10-09T23:38:56+02:00"
+    },
+    {
+     "titel": "Rusland gaat diesel leveren aan de VS en aan de wereld",
+     "link": "https://nos.nl/l/2634362",
+     "bron": "NOS",
+     "tijd": "23:15",
+     "sorteer": "2026-10-09T23:15:06+02:00"
+    },
     {
      "titel": "110 arrestaties op dag vol geweld in centrum Brussel",
      "link": "https://nos.nl/l/2634349",
@@ -32,46 +62,18 @@
      "sorteer": "2026-10-09T22:05:42+02:00"
     },
     {
-     "titel": "Zware aardbeving in Panama, stroom uitgevallen en schade aan gebouwen",
-     "link": "https://nos.nl/l/2634340",
-     "bron": "NOS",
-     "tijd": "21:32",
-     "sorteer": "2026-10-09T21:32:09+02:00"
+     "titel": "Het maakt haast niet uit wie er in dit kabinet zitten. Als ze maar een poosje blíjven zitten",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQVdJbFF5MktGR3NRY1ltNzJXdXJ3V09aMFBXeFlUc3RrLTdmZ0ZSTWlIRWptWmJMTHdhXzNlZkNGNkNYMDY1R2l2dWN0SUFxRWdBb09qb3ZiU2ZhNVU5NXB3V2Z0QnNkUzhORUg4d0R2emU0OWZYbHRwZFlmeG9RQTF4RVpKUjE2RUpaOEY1VE5OaUNKSmYxZi1iX0NrUHRRS3ZURUxHVEN2UHc3N21Tek1wcVJkbVZjZzJzdGlKdHdGbkdYWUVrNkxHUEpxaHZvOFNmNzh5aV92UjJ4N0JR?oc=5",
+     "bron": "de Volkskrant",
+     "tijd": "05:00",
+     "sorteer": "2026-10-10T03:00:31+00:00"
     },
     {
-     "titel": "Geen BMW voor AfD'er Tobias Rausch na intrekken leaseaanbod",
-     "link": "https://nos.nl/l/2634336",
-     "bron": "NOS",
-     "tijd": "21:07",
-     "sorteer": "2026-10-09T21:07:00+02:00"
-    },
-    {
-     "titel": "Drie mannen aangehouden in Gent voor schietpartij Overasselt",
-     "link": "https://nos.nl/l/2634327",
-     "bron": "NOS",
-     "tijd": "20:15",
-     "sorteer": "2026-10-09T20:15:57+02:00"
-    },
-    {
-     "titel": "Vlaamse politicus Filip Dewinter krijgt klappen bij ruzie met bruiloftsgasten",
-     "link": "https://nos.nl/l/2634326",
-     "bron": "NOS",
-     "tijd": "20:05",
-     "sorteer": "2026-10-09T20:05:00+02:00"
-    },
-    {
-     "titel": "Trump start nieuwe poging om fed-gouverneur Lisa Cook te verwijderen wegens hypotheekbeschuldigingen",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWDhaWTJCaXJ5SzE1Q0VGX0NnY1N6VVdSTkZiMDVySWFOVUhma3pScjlZQWZmQ0ZxVnhFbklPRmU4ZGFEV2Jfa3FYX1lkdG9OUDFZNnJmVFZGUTJuSDM0UnBKRFMtR2RJTFBUQ292bXVkNTRXb1gxY1VNQW5LbmxoRTlMd21HMmRGVlNnRW5pUlZvUE9BRFpueEU5Ty12ajlVc05Qa29aZGN2YWxkY0tVN3dSTXpuSUtselY3RzhGNFVmWFNXTFBQdldBTUx2eU52R2c?oc=5",
+     "titel": "Documentaire '14th' van Ava DuVernay belicht het amendement centraal in multiraciale democratie",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMnVDMHVucllHNVZKUEJxTUQ1ekJWYWxmeFVIOHdPX3lxdU96YUNOUF9wUVl0V1dmcVhGNUpHajF2bFR4Y3BYSVF5VmFQb1hDYWV0anAyblIyVExsOE5hOEpSV3IwTklENy02OGZwcEZTZklVRkFkWjVadmU5WVdpUE00MW9aWkdQQVlOUTUzN2pUbXVMWVhVb05Pa0tTVGtYeEd1ejduM3lTa19PZFdYVGV6elZuZUdJT1dMZjVZeFVRUQ?oc=5",
      "bron": "Headliner.nl",
-     "tijd": "22:46",
-     "sorteer": "2026-10-09T20:46:59+00:00"
-    },
-    {
-     "titel": "Historicus en journalist Jill Lepore: ‘Als je geen datacenter voor je deur wilt, stop dan met alles aan AI te vragen’",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWWxYREQ3eVYwdS1haVpPVWctVFBvRm9JTEZwWkR1MV9iMXZUNm5iaW1xY3pZUkxraV9pcXJXUDZ6Q2s5TkN4VjU5NTJOWW9JY2YzX3UyUERIN0FWeHFvN3FEWVVxSzlEUTA3SFQ1c0ZLd3pDeFJGVUFkd2UzblJkNm54SFZneFJSVmFxLTBDZHBkelBWcmpOMFc5dW9nTDh2N1JHN05haGEyZVB0cVVnQnBDYjF5ZDF6RndiYjFTWU9sRGJTa2VienR2REQ3UXRSWWlXZmt1NkpWUm80YVdiV0JYR2JoNkR2bTNB?oc=5",
-     "bron": "Trouw",
-     "tijd": "22:00",
-     "sorteer": "2026-10-09T20:00:06+00:00"
+     "tijd": "03:05",
+     "sorteer": "2026-10-10T01:05:20+00:00"
     }
    ]
   },
@@ -80,6 +82,13 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Drie mannen aangehouden in Gent voor schietpartij Overasselt",
+     "link": "https://nos.nl/l/2634327",
+     "bron": "NOS",
+     "tijd": "20:15",
+     "sorteer": "2026-10-09T20:15:57+02:00"
+    },
     {
      "titel": "IJsbanen open ondanks hoge temperatuur: 'Anders in de knel met wedstrijden'",
      "link": "https://nos.nl/l/2634314",
@@ -109,11 +118,11 @@
      "sorteer": "2026-10-09T17:28:14+02:00"
     },
     {
-     "titel": "Olympisch Stadion ongeschonden na brand in garage, kantoren wel getroffen",
-     "link": "https://nos.nl/l/2634304",
-     "bron": "NOS",
-     "tijd": "17:16",
-     "sorteer": "2026-10-09T17:16:31+02:00"
+     "titel": "Yesilgöz ondanks kritiek: 'Ik ben volgende lijsttrekker van VVD'",
+     "link": "https://nos.nl/l/2634363",
+     "bron": "NOS politiek",
+     "tijd": "23:28",
+     "sorteer": "2026-10-09T23:28:55+02:00"
     },
     {
      "titel": "Kabinet veroordeelt sancties VS tegen Strafhof, maar hoopt nog op diplomatie",
@@ -135,34 +144,6 @@
      "bron": "NOS politiek",
      "tijd": "17:58",
      "sorteer": "2026-10-09T17:58:39+02:00"
-    },
-    {
-     "titel": "Ook hobbyvisser ingezet om schadelijke rivierkreeften weg te krijgen",
-     "link": "https://nos.nl/l/2634281",
-     "bron": "NOS politiek",
-     "tijd": "14:07",
-     "sorteer": "2026-10-09T14:07:21+02:00"
-    },
-    {
-     "titel": "‘Dwingende controle haalt het slachtoffer uit zijn of haar leven’",
-     "link": "https://decorrespondent.nl/17305",
-     "bron": "De Correspondent · Milou Klein Lankhorst",
-     "tijd": "05:45",
-     "sorteer": "2026-10-09T03:45:06+00:00"
-    },
-    {
-     "titel": "Wat te doen met al die woede (en met Christenen voor Israël)?",
-     "link": "https://decorrespondent.nl/17312",
-     "bron": "De Correspondent · Rinke Verkerk",
-     "tijd": "05:45",
-     "sorteer": "2026-10-09T03:45:06+00:00"
-    },
-    {
-     "titel": "Deze beroemde Deense vrijplaats is helemaal niet zo vrij – juist daarom is ze een succes",
-     "link": "https://decorrespondent.nl/17311",
-     "bron": "De Correspondent · Josta van Bockxmeer",
-     "tijd": "05:45",
-     "sorteer": "2026-10-09T03:45:05+00:00"
     }
    ]
   },
@@ -172,18 +153,18 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Heilmann: 'Groot compliment voor de jongens' | Oranjevrouwen vermorzelen Hongarije",
+     "link": "https://www.oost.nl/sport/3704522/heilmann-groot-compliment-voor-de-jongens-oranjevrouwen-vermorzelen-hongarije",
+     "bron": "RTV Oost",
+     "tijd": "23:08",
+     "sorteer": "2026-10-09T21:08:52+00:00"
+    },
+    {
      "titel": "Heracles zet tegen RKC winnende thuisreeks door en pakt eerste periode",
      "link": "https://www.oost.nl/sport/3705212/heracles-zet-tegen-rkc-winnende-thuisreeks-door-en-pakt-eerste-periode",
      "bron": "RTV Oost",
      "tijd": "21:54",
      "sorteer": "2026-10-09T19:54:43+00:00"
-    },
-    {
-     "titel": "Oranjevrouwen vermorzelen Hongarije | Eikelboom maakt eerste in betaald voetbal",
-     "link": "https://www.oost.nl/sport/3704522/oranjevrouwen-vermorzelen-hongarije-eikelboom-maakt-eerste-in-betaald-voetbal",
-     "bron": "RTV Oost",
-     "tijd": "21:51",
-     "sorteer": "2026-10-09T19:51:07+00:00"
     },
     {
      "titel": "Wethouder eist metingen in alle UF-woningen Rijssen: 'Linksom of rechtsom'",
@@ -235,39 +216,46 @@
    "emoji": "🤖",
    "items": [
     {
-     "titel": "Davy (35) uit Brunssum vergat wachtwoord en kon niet meer bij waardevolle bitcoin, tot AI te hulp schoot",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdjljZFhudmVzZzBIWnhjUVdXV2JQNnhQNnlnSUVDWGtNUWtfNlNLa1FBWWJoTUNyTjlaZXhBOUdoWHVfSHVXRDhPQ0lrYXRQeF9uQy1iM01jQVA5M0JlX1RmOERuNWkyVHJsS0NObDNrMENIZ3JVOVBiUkJ3Y0l1cFpaZExPV3NYS2ZfM19fZlhhVklSYUcxYlNkUk1RUUt4ODRHa29NME1qUVk5VUVuNC01MmQ3azZQYUwwQUVjcC1QXzJTZXdJRWZTNldOaWFNV0NiOE1VRFFqSzhWR3BIVDBBLXM?oc=5",
-     "bron": "De Limburger",
-     "tijd": "20:16",
-     "sorteer": "2026-10-09T18:16:14+00:00"
+     "titel": "AI-model Anthropic, stuurde valse tip over moordzaak naar politie: ’Onacceptabel’",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYmZKSnVJY1lwT09HaHNqSk5nMEZsTFpMVzRuZjJ0bjBDUVJrWGNWQ0poeFZQcWk4NmU3THNXdkNocERad3YzbVFzMHhrVy1scG1IenJFemh6dERJUDJ1OEpraHlRUjBtbzRIZ0FtRFg2aW1vcjdFeG0zcUF0YTBhWVZwOHhoNlNZc0JORXpnRXN2UUJ0MkxIMklXZjNMY2NxX05WTGFaWHVuYk52ZDZtUlBKdFFSTUIzR0xpbGVPSDFHdzhmYlFBUkcyVXo?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "05:45",
+     "sorteer": "2026-10-10T03:45:52+00:00"
     },
     {
-     "titel": "Voor je het weet, zitten de hackende AI-agents overal in je systeem: grote zorgen bij bedrijven om virulente cyberaanvallen",
-     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdTFWT3pJa3dGT09RcElkVWUwTXJ0S21ReUlaOVNkak94bFptOWpvVEFWZ29LYUIzZU1RRTBCWGZadFB5b1pXUDlsRVB0LXdibzB0U1VQdzFaSzdud3JnN1YyNVp0eV8yck02UW5ZeXY1NmVLbldtVTJfbDFtakNGcERMVWNpTEVhOHF6anlCbjNzVnB0NkFBOGc1dEJHVVdKUWlLa0RYa3J1WG12MjNXVjhoN1hxU1hSSXRYZXdyMmRwWElDNERyS0RuZmZ4NUJHTzcyZDNzeFk2M3plcE1xQi0xMXI4TkpzeFNueVpQcklmZUU2WnFISnZxWQ?oc=5",
-     "bron": "de Volkskrant",
-     "tijd": "18:08",
-     "sorteer": "2026-10-09T16:08:49+00:00"
+     "titel": "TypeSafe AI haalt $870 miljoen Series A op bij een waardering van $7,5 miljard om meer AI-modellen te leveren",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT205TlRkcGZMdDZsZ1JBaUtUVm13dEZZb1ZZcDEwaWRkTW50UHd3aElLMzJkZVpUOWZOUEZpVGU5X3ZJcmR1bnE0U3FobUpjbFEtb3lINktUN2xGaXl6NjY4RFV0cDhmZVk0b21Cem1vZElTVzk0NlNSWVFnZDBCcFp4YXVUeGQ4SHp6dF9odU9jdkUtWEdraWVIMUs0LU0?oc=5",
+     "bron": "Unite.AI",
+     "tijd": "00:05",
+     "sorteer": "2026-10-09T22:05:42+00:00"
     },
     {
-     "titel": "Hart van Nederland - Late Editie: AI geeft Boudewijn opnieuw een stem na kanker",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcXN0YTFDYnowZldnWS1zcnlpVU5wb05HU2hjUlI0UDVXb3lVVTZKS0djY05rRlFfSUZaX0J0dkM1T004NDFQS1l3UTZuOFUzR0xxSndZYWFDTHo5N3ZaN3dWbVdRUWpMcE1tWlRUQzN2WkkzT1FEbFlibzJ6VmdhMmJB?oc=5",
-     "bron": "KIJK",
-     "tijd": "17:50",
-     "sorteer": "2026-10-09T15:50:34+00:00"
-    },
-    {
-     "titel": "OpenAI ontkent ontslag 3 medewerkers om AI-risico’s: “Er was een vertrouwensbreuk”",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVYwbnFZTWNZTkc4SUg5ZnB4SUZPLXZKeG0wcC1QdXFPT1VDWnQ3ck9lZXY4Y3R0d2hFdS02WExyZkhlUzhmbENvX2pMNWRjcEt0aGdfOTI5NVZXM3QtNUVVSkJXakZaNmZRam5MYlVtMXVzOHdVNUlSZUN6WHdNemNWNjhCX2M4NFN3bmJVbzAzOXVxMXRwSjJnT25GZFgzYjA0c2s4cXV6cW5lQmRlYWpR?oc=5",
-     "bron": "HLN",
-     "tijd": "17:37",
-     "sorteer": "2026-10-09T15:37:00+00:00"
+     "titel": "CHOP modelleert kinderharten met opensource-AI-hulpmiddelen van NVIDIA",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb2ctXy13VTJGTzVDd0FpNmpWTXlYV3hJVjdNdk0zOWRaWHZOVENzMGM1eUpMTDE4N3h3cXhwUHNyUDFHTXMxTFQyNFZzVlFnaEUtcWJaSEFVTklieS1sYmdfZkRqY29QWjZWcndpVTB5cloyTDZURmhMcUI0NmppM2NzaFVmeldXU2g0QTg0OA?oc=5",
+     "bron": "Unite.AI",
+     "tijd": "23:58",
+     "sorteer": "2026-10-09T21:58:04+00:00"
     },
     {
      "titel": "Omroep Fryn flatert met AI-foto van burgemeesters. ’Vanwege volle agenda’s konden we ze niet bijeen krijgen’",
      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZUVLMXhSYUVTTUpibWpSZzh5OE5DRE4wZWxMUmRla3QzRU1tcjV1OXhHbEg3dzg3QTVkRDBhN1N1ODlJYkhzMDdnTlB6UHpwZGR0NVdVYkpwR0laRVFrS3pEdWs1d0FkZ0RsMnJZU1JSRmcxcTJwb0xQZDZyZFdoRGVtUlJlWDdpUXk5QnpLTm81SzU4c1ZHaVFLZHR0aldzUGI5ejBRYURIaHdvc0lmenBYd1VJdnVHamExRWVHbF9kR3I2ckhJeDNrVEt2ZzJlckRIai1RSUZCQm42QkRVWEtsQ1pXZnhaSUU1cVo4cElVN01VYUowSA?oc=5",
      "bron": "Leeuwarder Courant",
-     "tijd": "16:42",
-     "sorteer": "2026-10-09T14:42:35+00:00"
+     "tijd": "23:42",
+     "sorteer": "2026-10-09T21:42:35+00:00"
+    },
+    {
+     "titel": "Sophos zegt dat Daybreak AI-agenten de gemiddelde responstijd per incident verlagen tot 89 seconden",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbmNidTdPMlA1bmxLaFRsU2FtZEZmZXFpNFh3OXFHdWt6azBxcjV5ZnpDZU1JalNsSUdNa1B2RGRSdlBRUGYwWnUzNktPMk1FaWJvMHpyeGlQanRIMHl1Smp5dm1NNGFPT0NVcTNPWDFwZzUwMjRYTDBjNDdZN0JfdkNqOTBMY19OWFhRVUdyV2c1YWpCbHRvRkdyRQ?oc=5",
+     "bron": "Unite.AI",
+     "tijd": "23:32",
+     "sorteer": "2026-10-09T21:32:54+00:00"
+    },
+    {
+     "titel": "AI en banen: hoe verandert kunstmatige intelligentie ons werk?",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDTW5UVlAxMTFnZkRQWkFKaXo2TkZNVVprY2RocFlSeUp4U0oySHpic1JhWVFOczVjNldGbHdFWXNOZk9BcVVEWTRSZ01jTXlBcmJlMkFyM196UDlYRTBMa3dPMWhCb1U4a0FEUmxWRmlNclpha0JZ?oc=5",
+     "bron": "Parkstad Actueel",
+     "tijd": "23:01",
+     "sorteer": "2026-10-09T21:01:25+00:00"
     }
    ]
   },
@@ -276,38 +264,6 @@
    "titel": "Tweede Kamer",
    "emoji": "🏛️",
    "items": [
-    {
-     "titel": "Staatssecretaris Boswijk over ondermijning",
-     "bron": "Begroting Defensie (37020-X) (1e TK)",
-     "toelichting": "De brief die ik drie weken geleden heb gestuurd, ging inderdaad over de supervezels, maar ik heb daar duidelijk in gezegd dat we de aanpak van de supervezels nu eigenlijk op alle terreinen willen gaan gebruiken. Ik heb dus ook actief doorgegeven, ook intern, dat we deze systematiek overal moeten toepassen. Toevallig ben ik ook nog bij het bedrijf geweest waar u aan refereert. Dat was buitengewoon indrukwekkend, maar…",
-     "kop": "Transcriptie",
-     "tijd": "08-10",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering"
-    },
-    {
-     "titel": "De heer Van der Burg over ondermijning",
-     "bron": "Begroting Koninkrijksrelaties (37020-IV) (voortzetting)",
-     "toelichting": "Sommigen begonnen over de Caribische landen. Daar valt nog het een en ander te doen, ook wat betreft slagvaardig bestuur. Een van de dingen die daar heel nadrukkelijk speelt, is dat Aruba, Curaçao en Sint-Maarten een verhoogd risico lopen op ondermijning, door de context waarin ze moeten opereren. Het gaat om de geopolitieke context en de geografische context, maar ook om het simpele feit dat de drie landen…",
-     "kop": "Transcriptie",
-     "tijd": "08-10",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering"
-    },
-    {
-     "titel": "Mevrouw Den Hollander (VVD) over ondermijning",
-     "bron": "Begroting Koninkrijksrelaties (37020-IV) (voortzetting)",
-     "toelichting": "Dank aan de staatssecretaris voor die appreciatie; daar zijn we blij mee. We hopen en vertrouwen erop dat de Kamer ermee zal instemmen. Mijn vraag gaat over de gevangenis op Sint-Maarten. Daar gaat 30 miljoen Nederlands geld naartoe. Ik hoorde de staatssecretaris net iets zeggen over ondermijning, criminaliteit en personeelsbezetting. In hoeverre worden al die zaken goed ingevuld in de gevangenis in Sint-Maarten?…",
-     "kop": "Transcriptie",
-     "tijd": "08-10",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering"
-    },
-    {
-     "titel": "Mevrouw Yeşilgöz-Zegerius over politie",
-     "bron": "Begroting Defensie (37020-X) (1e TK)",
-     "toelichting": "Voorzitter. De heer Struijs wilde weten of we voldoende wettelijke mogelijkheden hebben om politie, Defensie, MIVD, AIVD en NCTV nationaal en internationaal goed te laten samenwerken en snel tot besluiten te laten komen. Dat geldt bijvoorbeeld ook voor de informatie-uitwisseling met vertrouwende bondgenoten. Ja, ik onderschrijf de noodzaak om bij de vele dreigingen waar we het over hebben, soms dus ook bij…",
-     "kop": "Transcriptie",
-     "tijd": "08-10",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering"
-    },
     {
      "titel": "De uitgestelde wijziging van de Wet particuliere beveiligingsorganisaties en recherchebureaus (WPBR)",
      "bron": "Kamervraag",
@@ -465,6 +421,13 @@
      "bron": "A Beginner's Guide to AI",
      "tijd": "20:55",
      "sorteer": "2026-10-09T18:55:53+00:00"
+    },
+    {
+     "titel": "Is de normalisering van extreem rechts onvermijdelijk?",
+     "link": "",
+     "bron": "NRC Haagse Zaken",
+     "tijd": "05:30",
+     "sorteer": "2026-10-10T03:30:00+00:00"
     }
    ]
   },
@@ -512,20 +475,20 @@
      "link": "https://scientias.nl/waarom-je-een-prairie-niet-zomaar-kan-terugzaaien/"
     },
     {
-     "titel": "Painted wind turbines can dramatically reduce bird deaths, study finds",
-     "toelichting": "Wind energy is a valuable tool for addressing the climate crisis, but wind turbines can be deadly for birds. A recent study found that a low-tech, relatively inexpensive fix can dramatically reduce bird collisions with t",
+     "titel": "Paraguay meets UN deadline for improving governance in Chaco Biosphere Reserve",
+     "toelichting": "Paraguay has provided updated information to the United Nations about the Chaco Biosphere Reserve, a protected area where deforestation from farming and cattle ranching threatens the survival of Indigenous communities. T",
      "bron": "Mongabay (Engels)",
-     "tijd": "21:42",
-     "link": "https://news.mongabay.com/short-article/2026/10/painted-wind-turbines-can-dramatically-reduce-bird-deaths-study-finds/",
-     "sorteer": "2026-10-09T19:42:23+00:00"
+     "tijd": "01:58",
+     "link": "https://news.mongabay.com/short-article/2026/10/paraguay-meets-un-deadline-for-improving-governance-in-chaco-biosphere-reserve/",
+     "sorteer": "2026-10-09T23:58:15+00:00"
     },
     {
-     "titel": "Sri Lanka elephant found with a gunshot wound. How can tuskers be protected?",
-     "toelichting": "COLOMBO –- Wildlife enthusiast Pathum Bandara watched Kavantissa, believed to be Sri Lanka’s tallest living tusker, moving gently through the landscape on Sept. 20 around Galgamuwa in the island’s northwestern dry zone, ",
+     "titel": "Brazilian ranchers block government officials from demarcating Indigenous land",
+     "toelichting": "Since Sept. 23, a group of rural producers has maintained a blockade on the road to the Paquiçamba Indigenous Land in the Volta Grande do Xingu region of Brazil’s Pará state. The blockade is supported by local politician",
      "bron": "Mongabay (Engels)",
-     "tijd": "18:39",
-     "link": "https://news.mongabay.com/2026/10/sri-lanka-elephant-found-with-a-gunshot-wound-how-can-tuskers-be-protected/",
-     "sorteer": "2026-10-09T16:39:57+00:00"
+     "tijd": "23:54",
+     "link": "https://news.mongabay.com/short-article/2026/10/brazilian-ranchers-block-government-officials-from-demarcating-indigenous-land/",
+     "sorteer": "2026-10-09T21:54:29+00:00"
     }
    ]
   },
@@ -586,7 +549,7 @@
      "titel": "Dalfsen (nacht)",
      "kop": "Vogeltrek",
      "bron": "09-10",
-     "wanneer": "vannacht",
+     "wanneer": "de nacht van donderdag op vrijdag",
      "tijd": "19:30–05:30",
      "link": "https://trektellen.org/count/view/2364/20261009",
      "soorten": [
@@ -606,54 +569,46 @@
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261009?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
      "titel": "Kleine Mantelmeeuw — 1.365",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261009?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
      "titel": "Smient — 543",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261009?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
      "titel": "Zilvermeeuw — 376",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261009?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
      "titel": "Aalscholver — 248",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261009?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
      "titel": "Brandgans — 225",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261009?language=dutch"
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Jan-van-gent springt eruit — 207, normaal 59",
-     "bron": "4× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261009?language=dutch",
-     "sein": false
+     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Rustig vandaag — 9 meldingen, samen 316 vogels",
+     "titel": "Rustig gisteren — 9 meldingen, samen 316 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -681,9 +636,21 @@
    "emoji": "🌙",
    "items": [
     {
-     "titel": "Vanochtend kunnen we, onder gunstige omstandigheden, de laatste maansikkel zien voor de komende Nieuwe Maan.",
+     "titel": "Vannacht zijn een bedekking door de planeetschijf van Jupiter en verduistering van Io volledig waar te nemen.",
      "bron": "hemel.waarnemen.com",
-     "tijd": "08:26",
+     "tijd": "03:35",
+     "link": "https://hemel.waarnemen.com/astrokal/"
+    },
+    {
+     "titel": "Tot 5:03 zijn van de Galileïsche manen van Jupiter alleen Europa en Callisto zichtbaar.",
+     "bron": "hemel.waarnemen.com",
+     "tijd": "03:35",
+     "link": "https://hemel.waarnemen.com/astrokal/"
+    },
+    {
+     "titel": "Vannacht is een bedekking door de Jupiterschijf en een verduistering door de Jupiterschaduw van Ganymedes in zijn geheel waar te nemen.",
+     "bron": "hemel.waarnemen.com",
+     "tijd": "05:03",
      "link": "https://hemel.waarnemen.com/astrokal/"
     }
    ]
@@ -694,13 +661,13 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 13.7,
-    "gevoel": 12.4,
-    "wind": "W 3",
+    "nu": 10.4,
+    "gevoel": 8.8,
+    "wind": "ZW 2",
     "station": "Heino",
-    "bericht": "Het is volop herfst de komende dagen met veel regen, wind en de temperatuur komt rond 15 graden uit. Dit vrij gemiddeld voor deze tijd van het jaar, maar na een lange zachte periode is het wel echt weer even wennen.Vanavond passeert vanuit het noordwesten een actieve buienlijn.",
-    "vooruit": "Zondag enkele buien, vrij veel wind en middagtemperaturen rond 15°C. Vanaf maandag rustiger weer met afnemende neerslagkansen en geleidelijk warmer.",
-    "omslag": "Vanaf maandag droog: de regenkans zakt van 80% naar 20%.",
+    "bericht": "Het is volop herfst de komende dagen met veel regen, wind en de temperatuur komt rond 15 graden uit. Dit vrij gemiddeld voor deze tijd van het jaar, maar na een lange zachte periode is het wel echt weer even wennen.Vannacht trekt het koufront met flinke regen vrij snel via Duitsland het land uit.Opklaringen en wolken wisselen elkaar af.",
+    "vooruit": "Rustig herfstweer met regelmatig zon en temperaturen boven het langjarig gemiddelde. Op dinsdag is er tijdelijk meer bewolking en kan het af en toe regenen. Op vrijdag neemt de bewolking toe, is er kans op regen en daalt de maximumtemperatuur waarschijnlijk naar waarden rond het langjarig gemiddelde.",
+    "omslag": "Vanaf maandag droog: de regenkans zakt van 70% naar 30%.",
     "min": null,
     "max": null,
     "regenkans": null,
@@ -708,21 +675,21 @@
     "omschrijving": null,
     "morgen": {
      "omschrijving": "Afwisselend bewolkt met (mogelijk) wat lichte regen",
-     "min": "11",
+     "min": "8",
      "max": "15",
-     "regenkans": 80
+     "regenkans": 70
     }
    }
   }
  ],
  "archief": [
+  "2026-10-10",
   "2026-10-09",
   "2026-10-08",
   "2026-10-07",
   "2026-10-06",
   "2026-10-05",
   "2026-10-04",
-  "2026-10-03",
-  "2026-10-02"
+  "2026-10-03"
  ]
 }
