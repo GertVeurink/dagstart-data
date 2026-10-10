@@ -3,13 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "10:00",
+  "opgehaald": "11:00",
   "blokken": 10,
-  "berichten": 78,
+  "berichten": 79,
   "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-10T10:00+02:00",
+ "opgehaald": "2026-10-10T11:00+02:00",
  "audio": "audio/20261010.mp3",
  "blokken": [
   {
@@ -17,6 +17,13 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Orkaan Isaias aan land in Florida, zuiden VS maakt zich op voor noodweer",
+     "link": "https://nos.nl/l/2634400",
+     "bron": "NOS",
+     "tijd": "10:39",
+     "sorteer": "2026-10-10T10:39:41+02:00"
+    },
     {
      "titel": "AI tipt over moordzaak Philadelphia, maar kletst uit zijn nek",
      "link": "https://nos.nl/l/2634395",
@@ -53,25 +60,18 @@
      "sorteer": "2026-10-10T03:56:10+02:00"
     },
     {
-     "titel": "Rechtse politiek commentator Katie Zacharia nieuwe perschef van het Witte Huis",
-     "link": "https://nos.nl/l/2634371",
-     "bron": "NOS",
-     "tijd": "01:24",
-     "sorteer": "2026-10-10T01:24:41+02:00"
-    },
-    {
      "titel": "Lale Gül: elke liberaal krijgt enorme stress van de standpunten van Pro",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSEo5V1k3czVwOXQxRFZXTDJsOGJ0UmdRakdNZE95SmxUNF9FdFdWbFVqTVNwTkpmdDExR2ptUVFhemdadjE5RHpfQ0d2Q3BBcEZqZnE1V245VnZZZHdNRzBtVlpqVTlQaGlzUDdXMmUtNy1jcVZpMDJjd04tbF9wNU5iNWgxRkVHai0zUkVvUDZ4QkQtcFhrb2pUamJJTzhRcDZwNnpNcThpRXlJSDFid3JGQlVPR1FR?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "09:41",
-     "sorteer": "2026-10-10T07:41:08+00:00"
+     "tijd": "10:32",
+     "sorteer": "2026-10-10T08:32:04+00:00"
     },
     {
-     "titel": "Trump dag 628: Trump koopt Russische diesel, is boos op Nobelcomité, legt sancties op aan ICC, wil heropening onderzoeken Lisa Cook en Hillary Clinton, postdienst zet 1000 gewapende beveiligers in bij verkiezingen, beelden tonen National Guard bij ste",
-     "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxObGlENzhZMmNlNWxOQnNuSnl3UGVidXlMdWpTSHVDcFBvSjBlOUhwaWZ2VDg3UnZwMjBmNm4wc3lfRnRNQ3FuZnZ6V1FsWU1BMlRqVV9IZm1QTTJlRnVtZFhCamVkRENjaUZMWk1EZHdIdjJvTXJyZkJVM0lUb3dPakdKZjhJbkxnVHhaY0FxYW00WHR0TDlZbmRXWk1nRlNWVFQ0amY0VUg5NmxLTDJURWRpVVVjYnJKX190bnllUkUyNGJiRUM4V2lGaFZnWTFZVG1wWUFubEp3UEJock9SQUhudjN3SERGak9rdmRqcG9rSUVDaUl5a3FOYWdLb1VBNWkwemMyNWJfNFNOcVV3NFlxdXY4S0xqOGl2V01GeWtNOWN5ODdFNE9wdS1CbUN2cGJUd0ZkQThfbEk3TVF3ZFRMVW1VZw?oc=5",
-     "bron": "Reporters Online",
-     "tijd": "07:53",
-     "sorteer": "2026-10-10T05:53:30+00:00"
+     "titel": "Amerika zet sancties tegen ‘schurkachtig’ Internationaal Strafhof in Den Haag door: nieuwe rel dreigt",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWjdBZmdfLVFadUZmeU83cE1ONjlsRkpMUklsTEJHdUlDTlVNNldQUU03a3hIZFpOekJRbzVMTVRHbTVSSkdMaWlNTkIwaVJUWlpmZFQ5azVYeHRvT0U1aVhKZkhoMkk3Tkk2bU5fRGw0V2hTQ2RDbUxqMnZQUEsxUVdKOXpQY2g5SV9hVUtiMkU3ZTFIVlBoa2J4RkdoVl91UmNNSkdBZGJIUG5ZYzRhRnMyVTNfZHhLa2hYNC1fU2hiUnNYOXZJWHJJUjVQWjB5?oc=5",
+     "bron": "AD.nl",
+     "tijd": "09:47",
+     "sorteer": "2026-10-10T07:47:23+00:00"
     }
    ]
   },
@@ -80,6 +80,13 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Storing bij KPN, veel universitaire ziekenhuizen slecht bereikbaar",
+     "link": "https://nos.nl/l/2634396",
+     "bron": "NOS",
+     "tijd": "10:06",
+     "sorteer": "2026-10-10T10:06:16+02:00"
+    },
     {
      "titel": "Brandstichting bij het spoor, geen treinen tussen Rotterdam en Delft",
      "link": "https://nos.nl/l/2634388",
@@ -107,13 +114,6 @@
      "bron": "NOS",
      "tijd": "07:00",
      "sorteer": "2026-10-10T07:00:01+02:00"
-    },
-    {
-     "titel": "Amerikaanse sancties 'mokerslag' voor Internationaal Strafhof, wat doet Nederland?",
-     "link": "https://nos.nl/l/2634366",
-     "bron": "NOS",
-     "tijd": "23:38",
-     "sorteer": "2026-10-09T23:38:56+02:00"
     },
     {
      "titel": "Yesilgöz ondanks kritiek: 'Ik ben volgende lijsttrekker van VVD'",
@@ -151,6 +151,34 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Esters dierenkunst werd nage-aapt, maar haar originelen hangen nu in China",
+     "link": "https://www.oost.nl/nieuws/3704572/esters-dierenkunst-werd-nage-aapt-maar-haar-originelen-hangen-nu-in-china",
+     "bron": "RTV Oost",
+     "tijd": "10:29",
+     "sorteer": "2026-10-10T08:29:13+00:00"
+    },
+    {
+     "titel": "Code geel in Overijssel: kans op onweersbuien en zware windstoten",
+     "link": "https://www.oost.nl/nieuws/3705334/code-geel-in-overijssel-kans-op-onweersbuien-en-zware-windstoten",
+     "bron": "RTV Oost",
+     "tijd": "09:22",
+     "sorteer": "2026-10-10T07:22:14+00:00"
+    },
+    {
+     "titel": "Bestuurder gewond bij botsing in Lemelerveld",
+     "link": "https://www.oost.nl/nieuws/3705318/bestuurder-gewond-bij-botsing-in-lemelerveld",
+     "bron": "RTV Oost",
+     "tijd": "08:20",
+     "sorteer": "2026-10-10T06:20:02+00:00"
+    },
+    {
+     "titel": "Krista sliep op straat, maar vond onderdak bij De Herberg: 'Enorm dankbaar'",
+     "link": "https://www.oost.nl/nieuws/3704580/krista-sliep-op-straat-maar-vond-onderdak-bij-de-herberg-enorm-dankbaar",
+     "bron": "RTV Oost",
+     "tijd": "08:00",
+     "sorteer": "2026-10-10T06:00:00+00:00"
+    },
+    {
      "titel": "Bijrijder vast in auto na botsing op N50",
      "link": "https://www.oost.nl/nieuws/3705297/bijrijder-vast-in-auto-na-botsing-op-n50",
      "bron": "RTV Oost",
@@ -163,34 +191,6 @@
      "bron": "RTV Oost",
      "tijd": "07:15",
      "sorteer": "2026-10-10T05:15:59+00:00"
-    },
-    {
-     "titel": "Van der Vegt na bewogen weken: 'Dat mensen roepen dat je moet oprotten, is niet prettig'",
-     "link": "https://www.oost.nl/sport/3705153/van-der-vegt-na-bewogen-weken-dat-mensen-roepen-dat-je-moet-oprotten-is-niet-prettig",
-     "bron": "RTV Oost",
-     "tijd": "07:00",
-     "sorteer": "2026-10-10T05:00:14+00:00"
-    },
-    {
-     "titel": "Zorgondernemer met strafblad gaat 'gewoon' door met opvang kwetsbare cliënten",
-     "link": "https://www.oost.nl/nieuws/3682708/zorgondernemer-met-strafblad-gaat-gewoon-door-met-opvang-kwetsbare-clienten",
-     "bron": "RTV Oost",
-     "tijd": "06:01",
-     "sorteer": "2026-10-10T04:01:00+00:00"
-    },
-    {
-     "titel": "Drie Overijsselse verbinders tussen boer en burger ontvangen Waarde-Ring",
-     "link": "https://www.oost.nl/nieuws/3705137/drie-overijsselse-verbinders-tussen-boer-en-burger-ontvangen-waarde-ring",
-     "bron": "RTV Oost",
-     "tijd": "05:04",
-     "sorteer": "2026-10-10T03:04:34+00:00"
-    },
-    {
-     "titel": "Heilmann: 'Groot compliment voor de jongens' | Oranjevrouwen vermorzelen Hongarije",
-     "link": "https://www.oost.nl/sport/3704522/heilmann-groot-compliment-voor-de-jongens-oranjevrouwen-vermorzelen-hongarije",
-     "bron": "RTV Oost",
-     "tijd": "23:08",
-     "sorteer": "2026-10-09T21:08:52+00:00"
     },
     {
      "titel": "Brandweer op pad voor stormschade",
@@ -214,11 +214,25 @@
    "emoji": "🤖",
    "items": [
     {
+     "titel": "AI-hausse stuwt Nederlandse industrie, maar knelpunten remmen groei",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON25nUHBndUtwbGhnOEZmTFN5TUFZY1ZZWGlpVUNLTzc2OUZ3N2hlNUdnUzk4eFVMN1BNOFpCbjlsY1cxLUloWnd3alhIVV9wWEJRRTI0dDNDNmQ3NHlndkQzQjJCbGVBUkY4ZGNyZHNhWHJfc051WjluQVpjb1Q4T2hGSTA0amJFaGRCQWVoQmNLeEpqR2c?oc=5",
+     "bron": "Link Magazine",
+     "tijd": "10:46",
+     "sorteer": "2026-10-10T08:46:38+00:00"
+    },
+    {
      "titel": "AI-model Anthropic stuurde valse tip over moordzaak naar politie: ’Onacceptabel’",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYmZKSnVJY1lwT09HaHNqSk5nMEZsTFpMVzRuZjJ0bjBDUVJrWGNWQ0poeFZQcWk4NmU3THNXdkNocERad3YzbVFzMHhrVy1scG1IenJFemh6dERJUDJ1OEpraHlRUjBtbzRIZ0FtRFg2aW1vcjdFeG0zcUF0YTBhWVZwOHhoNlNZc0JORXpnRXN2UUJ0MkxIMklXZjNMY2NxX05WTGFaWHVuYk52ZDZtUlBKdFFSTUIzR0xpbGVPSDFHdzhmYlFBUkcyVXo?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "09:20",
-     "sorteer": "2026-10-10T07:20:45+00:00"
+     "tijd": "10:23",
+     "sorteer": "2026-10-10T08:23:23+00:00"
+    },
+    {
+     "titel": "Een onrustig gevoel bij AI-gebruik? Paul Schenderling helpt morele keuzes te maken",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYm1wbTdhNUstM1VHbUk5UnhReDFOVmxMdWw2bkZ3REd3RjFwY1BPZGEzMDVoakt1bDJiSm1wTkJEMXJuUnFLZUdTVk4zZ3BrTjhBNFI4QWYySkFFUDMwbDV2QTd6MG9rY0JCVTlDZ3B6RV9aNThkdXJjVTBSN0hKa1cySXRzTkV5S2FOVk9xRkFzV05FQ1BWOHAwYmRIMWJoUkFIa2tPNA?oc=5",
+     "bron": "Nederlands Dagblad",
+     "tijd": "10:15",
+     "sorteer": "2026-10-10T08:15:00+00:00"
     },
     {
      "titel": "Sandra Molenaar: beleggen met hulp van een AI-robot, hoe slim is dat?",
@@ -233,20 +247,6 @@
      "bron": "Unite.AI",
      "tijd": "00:05",
      "sorteer": "2026-10-09T22:05:42+00:00"
-    },
-    {
-     "titel": "CHOP modelleert kinderharten met opensource-AI-hulpmiddelen van NVIDIA",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb2ctXy13VTJGTzVDd0FpNmpWTXlYV3hJVjdNdk0zOWRaWHZOVENzMGM1eUpMTDE4N3h3cXhwUHNyUDFHTXMxTFQyNFZzVlFnaEUtcWJaSEFVTklieS1sYmdfZkRqY29QWjZWcndpVTB5cloyTDZURmhMcUI0NmppM2NzaFVmeldXU2g0QTg0OA?oc=5",
-     "bron": "Unite.AI",
-     "tijd": "23:58",
-     "sorteer": "2026-10-09T21:58:04+00:00"
-    },
-    {
-     "titel": "Omroep Fryn flatert met AI-foto van burgemeesters. ’Vanwege volle agenda’s konden we ze niet bijeen krijgen’",
-     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZUVLMXhSYUVTTUpibWpSZzh5OE5DRE4wZWxMUmRla3QzRU1tcjV1OXhHbEg3dzg3QTVkRDBhN1N1ODlJYkhzMDdnTlB6UHpwZGR0NVdVYkpwR0laRVFrS3pEdWs1d0FkZ0RsMnJZU1JSRmcxcTJwb0xQZDZyZFdoRGVtUlJlWDdpUXk5QnpLTm81SzU4c1ZHaVFLZHR0aldzUGI5ejBRYURIaHdvc0lmenBYd1VJdnVHamExRWVHbF9kR3I2ckhJeDNrVEt2ZzJlckRIai1RSUZCQm42QkRVWEtsQ1pXZnhaSUU1cVo4cElVN01VYUowSA?oc=5",
-     "bron": "Leeuwarder Courant",
-     "tijd": "23:42",
-     "sorteer": "2026-10-09T21:42:35+00:00"
     }
    ]
   },
@@ -492,9 +492,17 @@
      "titel": "Notenkraker",
      "kop": "Zeldzaamheden",
      "bron": "Utrecht",
-     "tijd": "09:32",
+     "tijd": "10:09",
      "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-10T09:32:00+02:00"
+     "sorteer": "2026-10-10T10:09:00+02:00"
+    },
+    {
+     "titel": "Diksnavelnotenkraker",
+     "kop": "Zeldzaamheden",
+     "bron": "Drenthe",
+     "tijd": "09:37",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-10T09:37:00+02:00"
     },
     {
      "titel": "Dwerggors",
@@ -521,14 +529,6 @@
      "sorteer": "2026-10-10T08:04:00+02:00"
     },
     {
-     "titel": "Vale Braamsluiper",
-     "kop": "Zeldzaamheden",
-     "bron": "Friesland",
-     "tijd": "14:05",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-09T14:05:00+02:00"
-    },
-    {
      "titel": "Dalfsen (nacht)",
      "kop": "Vogeltrek",
      "bron": "09-10",
@@ -548,42 +548,42 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 133 soorten, 61.051 vogels geteld",
+     "titel": "Landelijk vandaag: 144 soorten, 83.980 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
-     "titel": "Spreeuw — 35.767",
+     "titel": "Spreeuw — 37.913",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
-     "titel": "Vink — 11.575",
+     "titel": "Vink — 20.200",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
-     "titel": "Kolgans — 1.924",
+     "titel": "Kolgans — 2.722",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
-     "titel": "Graspieper — 1.341",
+     "titel": "Grauwe Gans — 2.524",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
-     "titel": "Kleine Mantelmeeuw — 1.302",
+     "titel": "Kleine Mantelmeeuw — 2.438",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -591,31 +591,39 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Jan-van-gent springt eruit — 518, normaal 71",
-     "bron": "7× het gewone niveau",
+     "titel": "Zilverplevier springt eruit — 638, normaal 22",
+     "bron": "29× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch",
-     "sein": false
+     "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Zilverplevier springt eruit — 145, normaal 22",
-     "bron": "7× het gewone niveau",
+     "titel": "Jan-van-gent springt eruit — 1.617, normaal 71",
+     "bron": "23× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch",
-     "sein": false
+     "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Grote Mantelmeeuw springt eruit — 142, normaal 36",
-     "bron": "4× het gewone niveau",
+     "titel": "Bonte Strandloper springt eruit — 1.020, normaal 52",
+     "bron": "20× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Grote Mantelmeeuw springt eruit — 283, normaal 36",
+     "bron": "8× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch",
      "sein": false
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Rustig gisteren — 9 meldingen, samen 316 vogels",
+     "titel": "Rustig gisteren — 10 meldingen, samen 317 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -668,8 +676,8 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 11.2,
-    "gevoel": 9.5,
+    "nu": 12.7,
+    "gevoel": 11.0,
     "wind": "ZW 3",
     "station": "Heino",
     "bericht": "Het weekend verloopt sterk wisselvallig, met de meest actieve buien in het noorden van het land. Die buien kunnen daar vergezeld gaan van onweer, windstoten en korrelhagel.",
