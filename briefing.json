@@ -3,13 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "10:52",
+  "opgehaald": "10:53",
   "blokken": 10,
   "berichten": 81,
   "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-11T10:52+02:00",
+ "opgehaald": "2026-10-11T10:53+02:00",
  "audio": "audio/20261011.mp3",
  "blokken": [
   {
@@ -72,14 +72,6 @@
      "bron": "de Volkskrant",
      "tijd": "08:34",
      "sorteer": "2026-10-11T06:34:00+00:00"
-    },
-    {
-     "titel": "12 doden na Houthi-aanval op internationale luchthaven Saudi-Arabië",
-     "context": "",
-     "link": "https://www.trouw.nl/buitenland/live-oorlog-midden-oosten-vs-veroordelen-houthi-aanval-op-vliegveld-saoedi-arabie~b4cda6da/",
-     "bron": "Trouw",
-     "tijd": "05:00",
-     "sorteer": "2026-10-11T03:00:00+00:00"
     }
    ]
   },
@@ -536,6 +528,14 @@
    "emoji": "🐦",
    "items": [
     {
+     "titel": "Dwerggors",
+     "kop": "Zeldzaamheden",
+     "bron": "Friesland",
+     "tijd": "10:18",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-11T10:18:00+02:00"
+    },
+    {
      "titel": "Notenkraker",
      "kop": "Zeldzaamheden",
      "bron": "Overijssel",
@@ -600,7 +600,7 @@
      "sorteer": "2026-10-10T10:54:00+02:00"
     },
     {
-     "titel": "Landelijk vandaag: 129 soorten, 31.198 vogels geteld",
+     "titel": "Landelijk vandaag: 129 soorten, 31.199 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
