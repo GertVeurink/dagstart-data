@@ -3,13 +3,14 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "07:00",
-  "blokken": 10,
-  "berichten": 82,
+  "opgehaald": "07:17",
+  "blokken": 9,
+  "berichten": 78,
   "problemen": [],
-  "audio_herkomst": "vangnet"
+  "audio_herkomst": "vangnet",
+  "audio_aangehaakt": "07:20"
  },
- "opgehaald": "2026-10-11T07:00+02:00",
+ "opgehaald": "2026-10-11T07:17+02:00",
  "audio": "audio/20261011.mp3",
  "blokken": [
   {
@@ -58,13 +59,6 @@
      "bron": "NOS",
      "tijd": "23:33",
      "sorteer": "2026-10-10T23:33:56+02:00"
-    },
-    {
-     "titel": "Geen klachten over aanpak houtverkoop na wijziging van de voorwaarden",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX2ZhY2VKdHRzZk5IQ3pJNmFnNUhWY1l4RGszb0lKS0V0cTZuRnVnOVBPY1R6U1lQMkNkOTQybURxTzRiOHotaklWRUM2U0xZSUlrSllLSEhTdks1OE1aSmZGREtNUVRIYzFVZ1dXMklLWHRzd2ZITUN4Z0ZDWElrUzdDYVpHd0FkLWJyeU94T1NMTDQ5X0Vmdk82aDBKVER2dVFuWkhFUm9hSDlLbWJhOHpETW03M0t6YkJaM29iRFpNY0pj?oc=5",
-     "bron": "nunspeethuisaanhuis.nl",
-     "tijd": "06:01",
-     "sorteer": "2026-10-11T04:01:00+00:00"
     },
     {
      "titel": "‘Ik werk niet op basis van een soort Champions League van gruwelijkheden’",
@@ -116,20 +110,6 @@
      "sorteer": "2026-10-10T11:13:08+02:00"
     },
     {
-     "titel": "OM pakt € 2,1 miljoen af van speler na grootschalige bonusfraude bij online casino’s",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZWZaQlpjU2tYc1RLT1Jnczl0OU9zbDZWcG04b044TUl1YndvWGllX2xhdktkVHp6S3pnSkJRZDRLdDRsSXVqQkZ2eWM0OGZrdzY3QVZVeWswanNHbFkwbWNTS1pIYktDUHFvLTl5eHprMk1BU21SZU8wSHU5SmVfUnczWXNfTXlvMGVfTk5yQ2lsRW9PYzBTWF9QdF9xQnBPblhMc2hjdTdzeUlYNnRjYVNMaHQ3TFotUHc?oc=5",
-     "bron": "CasinoNieuws.nl",
-     "tijd": "05:12",
-     "sorteer": "2026-10-11T03:12:46+00:00"
-    },
-    {
-     "titel": "Werkgroep Opdracht 2: Fases in het Strafrecht en Betrokken Instanties",
-     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSTJtU0lzTTFya2JxZkF1Q21EUFgyTWZYdEI5WTI3M1NjQ3hyU2RmcHAzU0VuTmpTR3d4U0dzcmtzc25kTG1HYjRBckxTMVJJY25wYV9vV1hfdmR2OExGd2thaEx2OHVlZ1JtcHZCSGVfMFVKNUhNLXhQdUJuVlpENG5DZHY2NlhGVzA0NkExMkdSRzJMalVKSnZvQmlIbGhnQ3VxeEhXSkxEc21zVzUzanVWTlQyZ0tZVS1xbEhsQ2FBM0ZaUzhINnpHOWcyTlU2SGpjd1FsbFp6SWZWVEdPaG9NZTkzSUZoeTJLS3JtUjd2WmMwSEllM2lUUmdDcTlfbkJRVFRhMDg0SG8?oc=5",
-     "bron": "Studeersnel",
-     "tijd": "02:46",
-     "sorteer": "2026-10-11T00:46:26+00:00"
-    },
-    {
      "titel": "Ongeval met letsel op Oranjestraat in Arnhem",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmk0VWd6RHg1OUpMc3lWNmtvX0hVdW9BUjlaTkRjMzg5dWVzeW0tbGhkZ09uU3ZQd2NSU3FkcUtyWG0tU2Y1dld5NUxuY0tnVE84VDZreVdPOFJyemZsVFNIYlRULUJZSW5mUThXRHVnRG5zTTdnM1hIQ3ZlV2pwdnBxb1ZUWWJXaDZoQ0NSWXc0UzFnZXdrMGhhRUlGV2hZRlE?oc=5",
      "bron": "De Gelderlander",
@@ -137,11 +117,11 @@
      "sorteer": "2026-10-10T22:22:05+00:00"
     },
     {
-     "titel": "Geldtransfers naar Marokko stijgen door dalende dirham",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYmU3a25Tc0pxRWhfaGwtZ1p2X2JUc0NWMzNjQkFpcTIxbnhyRnk0ZVBXTTVEUUhaeDZQS1I4UlZYSS1NUFFhY1o2ZU1uLTZhUU4yY09ndTVFdTQ3QTBaWFdmalQ5d1pGekxBM2VpQ3dITHMweGd3ZXRlWHQ1M0J5clZ0cmxqWWhsMFIxZVVVLVpadw?oc=5",
-     "bron": "MAROKKO.nl",
-     "tijd": "23:34",
-     "sorteer": "2026-10-10T21:34:48+00:00"
+     "titel": "Minder ambtenaren nodig? ‘Je kunt ook zeggen dat politiek beter haar werk moet doen’",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTWN3N3Y3N21uRXBHMW93aENnUzZhY0JDZjBjTHFLQVdZb0Nuemt3dnBHbDd3OHFvd2Z6U3JNRzNKMmMwMzZ2U08tdjdiZlRaRXVoTy1DYmxjNlAtUVlWbno0SWZWdU9hQ29lZkZTdk9lcEtPanR2NUloSEM1bzZFWjNwT2JZQUFCaTRqaDRMSTRIeGtUNWRfYVFiZGh4N1Q0RXRRdEQwNk9lNExmUmU2MXdxSkRIUzJkbkFJb1p1cUMzMkxHT0hIdXR0QlE?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "21:00",
+     "sorteer": "2026-10-10T19:00:00+00:00"
     },
     {
      "titel": "Nieuwsuur: Russische aanvallen op Kyiv • Oekraïne valt 'Russische Google' aan • Discotentoonstelling",
@@ -173,13 +153,6 @@
      "sorteer": "2026-10-11T03:00:39+00:00"
     },
     {
-     "titel": "Auto slaat over de kop op Oldenzaalsestraat",
-     "link": "https://www.oost.nl/nieuws/3705460/auto-slaat-over-de-kop-op-oldenzaalsestraat",
-     "bron": "RTV Oost",
-     "tijd": "23:03",
-     "sorteer": "2026-10-10T21:03:19+00:00"
-    },
-    {
      "titel": "Twee gewonden bij ernstig ongeval tussen twee auto's bij Markelo",
      "link": "https://www.oost.nl/nieuws/3705433/twee-gewonden-bij-ernstig-ongeval-tussen-twee-autos-bij-markelo",
      "bron": "RTV Oost",
@@ -194,11 +167,18 @@
      "sorteer": "2026-10-10T17:02:00+00:00"
     },
     {
-     "titel": "Auto slaat over de kop bij Sint Jansklooster",
-     "link": "https://www.oost.nl/nieuws/3705423/auto-slaat-over-de-kop-bij-sint-jansklooster",
+     "titel": "Als man met jerrycans thuis komt slaat de buurt alarm",
+     "link": "https://www.oost.nl/nieuws/3705411/als-man-met-jerrycans-thuis-komt-slaat-de-buurt-alarm",
      "bron": "RTV Oost",
-     "tijd": "18:46",
-     "sorteer": "2026-10-10T16:46:23+00:00"
+     "tijd": "17:53",
+     "sorteer": "2026-10-10T15:53:10+00:00"
+    },
+    {
+     "titel": "De 'nachtdienst' komt lopend in Ommen aan en vertrekt op twee gestolen e-bikes",
+     "link": "https://www.oost.nl/nieuws/3701638/de-nachtdienst-komt-lopend-in-ommen-aan-en-vertrekt-op-twee-gestolen-e-bikes",
+     "bron": "RTV Oost",
+     "tijd": "17:05",
+     "sorteer": "2026-10-10T15:05:41+00:00"
     },
     {
      "titel": "2 jarigen onder 1 dak bij de fam. van Amerongen",
@@ -276,20 +256,6 @@
      "kop": "Europol",
      "tijd": "",
      "link": "https://www.europol.europa.eu/media-press/newsroom/news/europol-urges-early-action-to-protect-cryptocurrencies-and-sensitive-data-quantum-threats"
-    }
-   ]
-  },
-  {
-   "id": "ai",
-   "titel": "AI",
-   "emoji": "🤖",
-   "items": [
-    {
-     "titel": "Het Amerikaanse platteland betaalt de rekening van de AI-wedloop: ’Mensen maken zich zorgen’",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaGpvOFFjd0V2c29QdnljMFdKelhlLVg5d2UtZEJCQVNvSTNTdTg1Qlh5UXpLTldlZzlBYUotVmJOWlQySmtHVVRtUWZfSFljQ2pyenQzTXpVZGkzeGFmdmkweFZVSktraTNNQVhpU2RTdVkzRl91OU1fZ3lIandMZElpU2pfZndReFRDVzlnamppZnBQdlpaeDNVbFJvcVdLdXFIUi1TWTI2WEx6WGpmTDRjeHJQUmFMcTlHbUVFRXBsZm9VdE5QZTk3bkdoOHozUFI2WF9ZNA?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "22:00",
-     "sorteer": "2026-10-10T20:00:00+00:00"
     }
    ]
   },
@@ -583,61 +549,61 @@
      "sorteer": "2026-10-10T08:40:00+02:00"
     },
     {
-     "titel": "Landelijk vandaag: 187 soorten, 154.830 vogels geteld",
+     "titel": "Landelijk gisteren: 187 soorten, 154.830 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
      "titel": "Spreeuw — 49.146",
      "kop": "Vogeltrek",
-     "bron": "landelijk, vandaag",
+     "bron": "landelijk, gisteren",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
      "titel": "Vink — 41.584",
      "kop": "Vogeltrek",
-     "bron": "landelijk, vandaag",
+     "bron": "landelijk, gisteren",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
      "titel": "Kleine Mantelmeeuw — 8.838",
      "kop": "Vogeltrek",
-     "bron": "landelijk, vandaag",
+     "bron": "landelijk, gisteren",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
      "titel": "Graspieper — 7.978",
      "kop": "Vogeltrek",
-     "bron": "landelijk, vandaag",
+     "bron": "landelijk, gisteren",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
      "titel": "Kolgans — 6.190",
      "kop": "Vogeltrek",
-     "bron": "landelijk, vandaag",
+     "bron": "landelijk, gisteren",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
     },
     {
      "kop": "Vogeltrek",
      "titel": "Jan-van-gent springt eruit — 4.857, normaal 71",
      "bron": "68× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Bonte Strandloper springt eruit — 3.235, normaal 66",
-     "bron": "49× het gewone niveau",
+     "titel": "Bonte Strandloper springt eruit — 3.235, normaal 52",
+     "bron": "62× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch",
      "sein": true
     },
     {
@@ -645,7 +611,7 @@
      "titel": "Zilverplevier springt eruit — 722, normaal 22",
      "bron": "33× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch",
      "sein": true
     },
     {
@@ -653,7 +619,7 @@
      "titel": "Kleine Mantelmeeuw springt eruit — 8.838, normaal 518",
      "bron": "17× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch",
      "sein": true
     },
     {
@@ -699,7 +665,7 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 8.4,
+    "nu": 8.8,
     "gevoel": 6.0,
     "wind": "ZW 3",
     "station": "Heino",
