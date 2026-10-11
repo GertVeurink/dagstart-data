@@ -3,13 +3,15 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "14:00",
+  "opgehaald": "15:00",
   "blokken": 10,
-  "berichten": 76,
-  "problemen": [],
+  "berichten": 75,
+  "problemen": [
+   "npo eva: HTTPError"
+  ],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-11T14:00+02:00",
+ "opgehaald": "2026-10-11T15:00+02:00",
  "audio": "audio/20261011.mp3",
  "blokken": [
   {
@@ -18,8 +20,16 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Doden bij busongeluk Turkije",
+     "context": "Bij een zwaar busongeluk in Turkije zijn zeker elf mensen om het leven gekomen. Ook raakten 27 mensen gewond. De touringcar verongelukte op de toerit van een snelweg tussen de steden Bursa en Izmir, in het westen van het land. Wat er precies fout is gegaan, is onduidelijk. Op beelden is te zien dat de bus op zijn kant ligt. Daarnaast ligt een vrachtwagen die geladen was met hout. Ook die wagen is ",
+     "link": "https://nos.nl/l/2634570",
+     "bron": "NOS",
+     "tijd": "14:51",
+     "sorteer": "2026-10-11T14:51:03+02:00"
+    },
+    {
      "titel": "Paus Leo moet operatie ondergaan vanwege longknobbel",
-     "context": "Paus Leo XIV moet worden geopereerd aan een nodule, een soort knobbeltje op een van zijn longen. Dat heeft hij gezegd bij het traditionele zondagse angelusgebed. Hij zal deze week nog worden geopereerd. Een nodule op long hoeft niet direct ernstig te zijn. Het knobbeltje zal na de operatie worden onderzocht. In ongeveer vijf procent van de gevallen blijkt het kanker te zijn, schrijft persbureau Re",
+     "context": "Paus Leo XIV moet worden geopereerd aan een nodule, een soort knobbeltje op een van zijn longen. Dat heeft hij gezegd bij het traditionele zondagse angelusgebed. Hij zal komende week nog worden geopereerd. Een nodule op long hoeft niet direct ernstig te zijn. Het knobbeltje zal na de operatie worden onderzocht. In ongeveer vijf procent van de gevallen blijkt het kanker te zijn, schrijft persbureau",
      "link": "https://nos.nl/l/2634564",
      "bron": "NOS",
      "tijd": "13:46",
@@ -35,7 +45,7 @@
     },
     {
      "titel": "'Oekraïne valt olieinstallaties Rusland niet aan, als Russen ook stoppen'",
-     "context": "Oekraïne is bereid om aanvallen op Russische olie-installaties te staken als Rusland ophoudt met het aanvallen van de Oekraïense energievoorziening. Dat is het antwoord van president Zelensky op de eis van president Trump dat Oekraïne stopt met het aanvallen van Russische olieraffinaderijen. Het is niet voor het eerst dat Zelensky dit zegt, maar het kom nu na de aanval van Trump op hem gisteren. D",
+     "context": "Oekraïne is bereid om aanvallen op Russische olie-installaties te staken als Rusland ophoudt met het aanvallen van de Oekraïense energievoorziening. Dat is het antwoord van president Zelensky op de eis van president Trump dat Oekraïne stopt met het aanvallen van Russische olieraffinaderijen. Het is niet voor het eerst dat Zelensky dit zegt, maar het komt nu na de aanval van Trump op hem gisteren. ",
      "link": "https://nos.nl/l/2634561",
      "bron": "NOS",
      "tijd": "13:38",
@@ -50,28 +60,20 @@
      "sorteer": "2026-10-11T12:48:26+02:00"
     },
     {
-     "titel": "Fans mogen stukje van New Yorkse metro mee naar huis nemen",
-     "context": "Harlem, Uptown, 42nd street, of gewoon do not cross the tracks . Borden met deze opschriften en andere afgedankte stukken konden metrofans afgelopen week kopen bij de jaarlijkse rommelmarkt van de New Yorkse metro. Vervoerder MTA begon vijf jaar geleden met een tweedaagse verkoop van verouderd materiaal: stationsborden, vuilnisbakken, de grab holds waar forenzen zich aan kunnen vasthouden als er g",
-     "link": "https://nos.nl/l/2634559",
-     "bron": "NOS",
-     "tijd": "12:39",
-     "sorteer": "2026-10-11T12:39:16+02:00"
+     "titel": "Zelensky: Oekraïne klaar om aanvallen op energie-infrastructuur te staken, mits Rusland dat ook doet",
+     "context": "",
+     "link": "https://www.volkskrant.nl/buitenland/liveblog-oekraine-rusland-poetin-zelensky-kyiv~b9aa79c8/",
+     "bron": "de Volkskrant",
+     "tijd": "14:55",
+     "sorteer": "2026-10-11T12:55:00+00:00"
     },
     {
-     "titel": "109 vluchtelingen verdronken bij scheepsramp Djibouti: ‘Verschrikkelijk verlies van mensenlevens’",
+     "titel": "Justitie VS overweegt nieuwsomroepen aan te pakken met ‘concurrentiewet’",
      "context": "",
-     "link": "https://www.volkskrant.nl/buitenland/109-vluchtelingen-verdronken-bij-scheepsramp-djibouti-verschrikkelijk-verlies-van-mensenlevens~bf5d1571/",
+     "link": "https://www.volkskrant.nl/buitenland/justitie-vs-overweegt-nieuwsomroepen-aan-te-pakken-met-concurrentiewet~b1c004a5/",
      "bron": "de Volkskrant",
-     "tijd": "12:24",
-     "sorteer": "2026-10-11T10:24:00+00:00"
-    },
-    {
-     "titel": "Migrantenkamp Ceuta ontruimd voor komst Spaanse koning",
-     "context": "",
-     "link": "https://www.volkskrant.nl/buitenland/migrantenkamp-ceuta-ontruimd-voor-komst-spaanse-koning~b195b505/",
-     "bron": "de Volkskrant",
-     "tijd": "11:11",
-     "sorteer": "2026-10-11T09:11:07+00:00"
+     "tijd": "14:15",
+     "sorteer": "2026-10-11T12:15:16+00:00"
     },
     {
      "titel": "Aanval op vliegveld Riyadh laat zien hoe de oorlog met Iran de regio ontwricht",
@@ -80,6 +82,13 @@
      "bron": "Trouw",
      "tijd": "11:36",
      "sorteer": "2026-10-11T09:36:06+00:00"
+    },
+    {
+     "titel": "Vuurpeloton, testosteronchecks en oorlog tegen woke: Amerikaanse minister van Defensie Hegseth wordt steeds extremer",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRUxZZHpkZ0FWeEVQNHZ0dzdvLVZOVTBEWWZZNVFNOWtpVWc1SXpqZnI1LW1qNmFUZG9BNmlFSmM0aXZFZ1NJQkphRndmTFgya1FvWEEtNWluSEtFMkNzcE5JeFhEZkRFNFNBUDAxVl9oSGxUMEc3dGUtd3RaRVNRT1M5eUVGYWY1cWpyWm1yS0NMMEtLV21NT2hycDh2ZHBYc1JxakR3bzRuRjFaemhnY2NaYy1JYnRpZ1pTWWxsbTZkQmdid2tCTF9kd05XRHY5Q25makZGaFFHdEMyUk96YUZVLUpoV0RD?oc=5",
+     "bron": "Het Parool",
+     "tijd": "14:51",
+     "sorteer": "2026-10-11T12:51:00+00:00"
     }
    ]
   },
@@ -129,20 +138,20 @@
      "sorteer": "2026-10-10T20:38:56+02:00"
     },
     {
+     "titel": "In Oldebroek laat de regenboog zich niet verbieden: ‘Ik sta voor het recht om lief te hebben’",
+     "context": "",
+     "link": "https://www.volkskrant.nl/binnenland/in-oldebroek-laat-de-regenboog-zich-niet-verbieden-ik-sta-voor-het-recht-om-lief-te-hebben~bbe824aa/",
+     "bron": "de Volkskrant",
+     "tijd": "14:45",
+     "sorteer": "2026-10-11T12:45:00+00:00"
+    },
+    {
      "titel": "Meldingen van gestolen regenboogvlaggen in Oldebroek, ook vlag bij Kruiskerk verdwenen",
      "context": "",
      "link": "https://www.volkskrant.nl/binnenland/meldingen-van-gestolen-regenboogvlaggen-in-oldebroek-ook-vlag-bij-kruiskerk-verdwenen~b17d6c0d/",
      "bron": "de Volkskrant",
      "tijd": "10:58",
      "sorteer": "2026-10-11T08:58:00+00:00"
-    },
-    {
-     "titel": "Landelijk Woonprotest op de Dam trekt geen Spaanse aantallen demonstranten",
-     "context": "",
-     "link": "https://www.volkskrant.nl/binnenland/landelijk-woonprotest-op-de-dam-trekt-geen-spaanse-aantallen-demonstranten~b81e6ff0/",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-10-11T03:00:29+00:00"
     },
     {
      "titel": "In Ter Apel wordt gesleept met asielzoekers. De bus in, kort naar bed, terug de bus in, en dan morgen weer",
@@ -153,25 +162,25 @@
      "sorteer": "2026-10-10T20:48:00+00:00"
     },
     {
-     "titel": "Brand op Velperweg in Arnhem",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObzNxUlpIRUNuTi1Ta2ZDTHZFZG9GaF9PWnAzYTZnalJJRWstd1Y3cFdDd0NzUnpFdWU3MlhiT3NCMjBTcVNfVDVRZTZybk91eXpLOVhISzF5YnFEUFc4dFlaU24yVHlVZUEzNV9ra1RPYWk0ZXlGWl9JdXdsWVlaczhhYUdseGhaSm5ndw?oc=5",
+     "titel": "Woningbrand op Burgemeester Weertsstraat in Arnhem",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDZOd2hrMWpQVTJycDFKbGxzazRkeW9FRUJIRVdhOVFXSXdhZTRGejhYeFZNeU9nbXQ1SnRaTldZQVJkc3BFN0xIU29DOS1rYWF2MU40bFdCS1ZnbFVNbmE3OGFUbHFsZUFNSTRYdVU1ZTYwRDJaR3dfeUpsQm1qVUo4azJQeGh5NndoYm9JazhUNmdZR0U2YWtCMmZQakVMZUFpeVZtZkZEdw?oc=5",
      "bron": "De Gelderlander",
-     "tijd": "13:44",
-     "sorteer": "2026-10-11T11:44:18+00:00"
+     "tijd": "14:51",
+     "sorteer": "2026-10-11T12:51:55+00:00"
     },
     {
-     "titel": "Jonge boeren en stikstofregels: zo nemen zij het familiebedrijf over",
-     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPS196STNrWklWX2NjWFVkWEVXNy1US1d0OFpIazJ5dzBSUjlRWnR0OVRBNWVZRk9ZWHY2UzJqUHhSQ29QdW9lRkhLT2ZNWjlydW9KSzRxVVJ5anRySXNPdkRwWE54dEFDYUpDSVJXdzF1UVc5ckhFU3NFaHAtQ0ExZ0wwOHdNd0pVaVg2eFdXSGpJTzJ1Y1VJcXNMem1mU1liV3hyeXAyV1NLWWZqR2hlRDdFMkpHSVVRbzU2NEdwWm5ORER5OWlTYzlUdWNsaTlzbFQydXJIRUwwZUxTRUpVZk15QkRiVnVPczNmQ1h4V19NSXNPWWtiUkh6U29vbmtXdVhZ?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "12:55",
-     "sorteer": "2026-10-11T10:55:00+00:00"
+     "titel": "Voertuigbrand op Zuidhovenplantsoen in Arnhem",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdUpqbTdxR3VfcnlhYWZXUVBhNC1sei1pcnNWYk9wZ1gyX3BDTHM0RGM5bW9oWEcybXA3cUwzZlljZWNqXzFfTHdvTlU1ek5xMm5nczJTcVdxRVI0Y2F4UW10SnZ5YlNodVFwbzQ5d3haTkoxTHpreDE5NF9KZTU5Vk5CYjN4bXFSNXpRSnFkUkQybW5Cdk1ybzBSMXhsdEJtYXNF?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "14:31",
+     "sorteer": "2026-10-11T12:31:24+00:00"
     },
     {
-     "titel": "Kameleon Klaver: hoe de PRO-leider zichzelf telkens opnieuw uitvindt",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmxGdGZqTFppTVU1NnI4YS1WQTdtWDdQT1YtcGlSVEl1OE1yM08tSmRVaGVKaF9fREtYeTNyRzRuQmtiT1hVN3c3MzV6bGJQbHFUekxBOVlzVWVyZmNTTUJVQkIzcFBldjhHUWlya21lWWd0R3J6RmFMU1FnMjVscWtjYnJDNFgxNE5xYVpyYW10Z0x4ZksxZk1KQlRHcUdlY212YnFWcw?oc=5",
+     "titel": "Jonge vandaal ‘Bloedworst’ vernielde de ‘Spoetnikkijker’, daarna was het beeld nóg drie keer doelwit",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaEVtTFpDZmV5RGVXb1RMMTliMTVaRWhMdzEtaXE5clVDeHRTM2dYc2VlYzljWjJkejBLaEgwSHlJWUs4OTdGRjRvaDFVS3dKUEd6S0NFZnJaYkpPTkNuZm5LWC04b0xsU3R5MmtqMkN2S2FYYzBPM1QyOUlfZFdLTkF6Q0xGSFlVU3ZNeTJtMV80QXpVU0VnUl9jX21WOFh5MnVGaHFNY0I4TmV5QUdMVUhBcjNjVVVJRC1WNmJKcnVialFNbWd6UmhpNA?oc=5",
      "bron": "AD.nl",
-     "tijd": "11:30",
-     "sorteer": "2026-10-11T09:30:08+00:00"
+     "tijd": "14:00",
+     "sorteer": "2026-10-11T12:00:45+00:00"
     }
    ]
   },
@@ -180,6 +189,14 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Rattenoverlast in binnenstad Enschede: gemeente vraagt bezoekers om een gunst",
+     "context": "Het is een van de drukste winkelpleinen van Oost-Nederland en nu ook in trek bij ratten: het Van Heekplein in Enschede. De gemeente vraagt bezoekers om geen brood en andere etensresten meer aan de vogels te geven, omdat dat ongedierte zou aantrekken.",
+     "link": "https://www.oost.nl/nieuws/3705398/rattenoverlast-in-binnenstad-enschede-gemeente-vraagt-bezoekers-om-een-gunst",
+     "bron": "RTV Oost",
+     "tijd": "14:33",
+     "sorteer": "2026-10-11T12:33:48+00:00"
+    },
     {
      "titel": "Eerste Cultuurnacht Oldenzaal is experiment dat naar meer smaakt: 'Verrassend'",
      "context": "De eerste Cultuurnacht in Oldenzaal verrast met experimenten op bijzondere locaties. Zo is er een cacao-ceremonie in een museumzaal en spelen tegelijkertijd bands op verschillende plekken in de binnenstad. \"We proberen met deze programmering onder meer een jongere doelgroep te bereiken.\"",
@@ -205,6 +222,14 @@
      "sorteer": "2026-10-11T08:31:22+00:00"
     },
     {
+     "titel": "Buurtbewoners ontdekken brand in woning Deventer",
+     "context": "Buurtbewoners ontdekten zaterdagavond een woningbrand aan de Koningspage in Deventer. Uit de woning kwam aan alle kanten rook. De bewoner bleek niet thuis te zijn.",
+     "link": "https://www.oost.nl/nieuws/3705532/buurtbewoners-ontdekken-brand-in-woning-deventer",
+     "bron": "RTV Oost",
+     "tijd": "08:20",
+     "sorteer": "2026-10-11T06:20:07+00:00"
+    },
+    {
      "titel": "Modeshow in Enschede zet duurzame kleding in de schijnwerpers",
      "context": "Goedkope kleding die in hoog tempo wordt geproduceerd en vaak maar kort wordt gedragen: dat is fast fashion. De productie en consumptie van textiel leggen een flinke druk op het milieu. Met een modeshow in de Performance Factory vraagt Enschede aandacht voor een alternatief: duurzame mode.",
      "link": "https://www.oost.nl/nieuws/3705076/modeshow-in-enschede-zet-duurzame-kleding-in-de-schijnwerpers",
@@ -213,20 +238,12 @@
      "sorteer": "2026-10-11T06:03:42+00:00"
     },
     {
-     "titel": "112 Nieuws: Auto uitgebrand in Enschede | Botsing op kruising in Zwolle",
-     "context": "In dit bericht houden we je op de hoogte van het laatste 112-nieuws in Overijssel. Je vindt hier een overzicht van onder meer ongelukken, branden en misdrijven van zondag 11 oktober.",
-     "link": "https://www.oost.nl/nieuws/3705526/112-nieuws-auto-uitgebrand-in-enschede-botsing-op-kruising-in-zwolle",
-     "bron": "RTV Oost",
-     "tijd": "07:36",
-     "sorteer": "2026-10-11T05:36:17+00:00"
-    },
-    {
-     "titel": "Dit nieuwe museum is alleen voor kinderen: 'Je kunt zoveel leren van kunst'",
-     "context": "Kinderen al van jongs af aan in aanraking laten komen met kunst: dat is het doel van het nieuwe kindermuseum Maak! in Almelo dat dit weekend haar deuren opende. Het museum is bedacht en opgezet door Susan Wemekamp (35) en Daphne de Bruin (25). \"Je kunt zoveel leren van kunst\", is hun overtuiging.",
-     "link": "https://www.oost.nl/cultuur/3705025/dit-nieuwe-museum-is-alleen-voor-kinderen-je-kunt-zoveel-leren-van-kunst",
-     "bron": "RTV Oost",
-     "tijd": "07:02",
-     "sorteer": "2026-10-11T05:02:52+00:00"
+     "titel": "Hinkepotten",
+     "context": "DALFSEN – Gisteren hoorde ik op tv het woord ‘hinkepotten’. Ik had dat woord in jaren niet meer gehoord. Vroeger speelden ze dit spel op het schoolplein van de lagere school. Dan werden er met krijt vakken getekend, zoals op het bijgaande plaatje. Ik heb ook even de spelregels opgezocht. Hinkepotten is een spel waarbij […]",
+     "link": "https://www.dalfsennet.nl/nieuws/554245/hinkepotten.html",
+     "bron": "DalfsenNet",
+     "tijd": "14:12",
+     "sorteer": "2026-10-11T12:12:01+00:00"
     },
     {
      "titel": "d’ommerdieck J3 veldkampioen",
@@ -235,14 +252,6 @@
      "bron": "DalfsenNet",
      "tijd": "13:13",
      "sorteer": "2026-10-11T11:13:37+00:00"
-    },
-    {
-     "titel": "Femmie ontdekt groot dooiermos",
-     "context": "NIEUWLEUSEN – Wie als natuurfotograaf de ogen goed openhoudt, ontdekt telkens weer iets bijzonders. Zo vond Femmie Smink op de grond enkele takjes met opvallend gekleurd groot dooiermos. Een mooie aanleiding om dit korstmos van dichtbij te fotograferen én er wat leuke weetjes over te delen. Een korstmos is een samenlevingsvorm van een schimmel en […]",
-     "link": "https://www.dalfsennet.nl/nieuws/554236/femmie-ontdekt-groot-dooiermos.html",
-     "bron": "DalfsenNet",
-     "tijd": "13:08",
-     "sorteer": "2026-10-11T11:08:29+00:00"
     }
    ]
   },
@@ -319,6 +328,13 @@
    "emoji": "🤖",
    "items": [
     {
+     "titel": "Topman Microsoft wil ’noodrem’ inbouwen om AI-modellen in toom te houden",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTERDcEREX1E4dHBKcXEyTV9URkd0bmhNSk5wWjh0dmFBREdlNnU0amRXY0RMZkI4dmR2Zlo0SGRHUkg4blZNalFGNExzekk0My1YZVpHdUhxUjBkY1FmZ0R3aVQzMFBsQTFra0pXSy1YcXMwbWszSDJqWk51X3RMeVRjRXBKdUVJZUREc0FmTHVpS3BmeUJuekNnZTVCMDhPUGpTWkU2VHEwdUczRW9VcVE1b3dPTDlOeXVBR0Z3?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "14:52",
+     "sorteer": "2026-10-11T12:52:20+00:00"
+    },
+    {
      "titel": "Slim antwoord op cybercrime: AI laat oplichters in hun eigen val lopen",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU1hWRkpiU0ZNOF9sMk9FODVuSHdudmZiZTRNOEJ6UjF6Q3BrV1A4R0NPZ3oxZ2hHdWg5S2JqWEVrQXkyTlRaZVVvTk1PamMySl9MQW1iRDJWLVUyMEhZaV9NbWIwS2M3OTY0SWhheWR4NUZ3YlVYb1VqSmdCdnBOQWNRbHI5TG1yZG5YbkwwQXVxNG5uZVZjZlltMzExdVhqXzBudG12R0VZVDBvaHVHV1lCekN3WVM5VlRn?oc=5",
      "bron": "bnr.nl",
@@ -353,38 +369,6 @@
      "tijd": "18-09",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D44447",
      "sorteer": "2026-10-09T17:26:23.913+02:00"
-    },
-    {
-     "titel": "De sluiting van Huize Soria in Spanje en de veiligheid van Nederlandse kinderen",
-     "bron": "Kamervraag",
-     "kop": "Kamervragen",
-     "tijd": "01-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D47762",
-     "sorteer": "2026-10-09T16:22:39.617+02:00"
-    },
-    {
-     "titel": "Signalen van politiemedewerkers over knelpunten binnen de politieorganisatie",
-     "bron": "Kamervraag",
-     "kop": "Kamervragen",
-     "tijd": "18-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D44441",
-     "sorteer": "2026-10-09T16:00:19.81+02:00"
-    },
-    {
-     "titel": "Motie van het lid Struijs c.s. over de samenwerking tussen het ministerie van Defensie en de veiligheidsregio's verder versterken",
-     "bron": "Motie",
-     "kop": "Brieven en moties",
-     "tijd": "08-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49866",
-     "sorteer": "2026-10-09T16:30:11.767+02:00"
-    },
-    {
-     "titel": "Motie van het lid Dobbe c.s. over inzichtelijk maken hoeveel Nederlands publiek geld gaat naar winsten van wapenbedrijven",
-     "bron": "Motie",
-     "kop": "Brieven en moties",
-     "tijd": "08-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49861",
-     "sorteer": "2026-10-09T16:30:01.453+02:00"
     },
     {
      "titel": "Implementatie van Richtlijn (EU) 2024/1203 van het Europees Parlement en de Raad van 11 april 2024 inzake de…",
@@ -482,6 +466,14 @@
      "sorteer": "2026-10-11T05:00:00+00:00"
     },
     {
+     "titel": "Kan de Puntige blaashoren beter tegen de vraatzucht van rivierkreeften?",
+     "toelichting": "Rivierkreeften zijn een probleem. Vooral de Rode en de Geknobbelde Amerikaanse rivierkreeft richten fikse schade aan. Ook de slakkenstand staat onder druk, een belangrijke schakel in de voedselketen en een deel van het n",
+     "bron": "Nature Today",
+     "tijd": "14:15",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35925",
+     "sorteer": "2026-10-11T12:15:00+00:00"
+    },
+    {
      "titel": "Hoe blijft schildpad Jonathan op zijn 194e zo jong? Het antwoord zit in zijn genen",
      "toelichting": "Schildpad Jonathan, 194 jaar oud, houdt een deel van zijn genen opvallend jong. Bij enkele honderden genen is de aansturing zelfs even ordelijk als bij dieren van 5 en 12. Dat blijkt uit een analyse van zijn erfelijk mat",
      "bron": "Scientias",
@@ -559,42 +551,42 @@
      "sorteer": "2026-10-10T15:32:00+02:00"
     },
     {
-     "titel": "Landelijk vandaag: 151 soorten, 55.254 vogels geteld",
+     "titel": "Landelijk vandaag: 152 soorten, 63.772 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
-     "titel": "Vink — 13.343",
+     "titel": "Vink — 18.498",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
-     "titel": "Spreeuw — 9.898",
+     "titel": "Spreeuw — 10.011",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
-     "titel": "Kleine Mantelmeeuw — 7.352",
+     "titel": "Kleine Mantelmeeuw — 7.379",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
-     "titel": "Jan-van-gent — 3.263",
+     "titel": "Graspieper — 3.615",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
-     "titel": "Graspieper — 3.045",
+     "titel": "Jan-van-gent — 3.311",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -602,16 +594,16 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Jan-van-gent springt eruit — 3.263, normaal 71",
-     "bron": "46× het gewone niveau",
+     "titel": "Alk/Zeekoet springt eruit — 914, normaal 15",
+     "bron": "61× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Alk/Zeekoet springt eruit — 639, normaal 15",
-     "bron": "43× het gewone niveau",
+     "titel": "Jan-van-gent springt eruit — 3.311, normaal 71",
+     "bron": "47× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
      "sein": true
@@ -626,15 +618,15 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Alk springt eruit — 67, normaal 3",
-     "bron": "22× het gewone niveau",
+     "titel": "Alk springt eruit — 68, normaal 3",
+     "bron": "23× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
      "sein": true
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Rustig vandaag — 5 meldingen, samen 78 vogels",
+     "titel": "Rustig vandaag — 6 meldingen, samen 86 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -675,8 +667,8 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 12.7,
-    "gevoel": 10.7,
+    "nu": 13.8,
+    "gevoel": 11.8,
     "wind": "WZW 4",
     "station": "Heino",
     "bericht": "Vandaag zien we een tweedeling, waarbij het zuiden de beste papieren heeft. Daar blijft het vanmiddag vrijwel droog en laat de zon zich geregeld zien. In het noorden van het land gaan de buien nog door, al worden ze vanmiddag wel minder actief.",
