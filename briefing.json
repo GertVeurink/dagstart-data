@@ -1,22 +1,52 @@
 {
- "datum": "2026-10-10",
- "naam": "Avondbriefing",
+ "datum": "2026-10-11",
+ "naam": "Ochtendbriefing",
  "status": {
-  "ronde": "Avondbriefing",
-  "opgehaald": "23:00",
-  "blokken": 11,
-  "berichten": 89,
-  "problemen": [],
-  "audio_herkomst": "vangnet"
+  "ronde": "Ochtendbriefing",
+  "opgehaald": "05:55",
+  "blokken": 10,
+  "berichten": 84,
+  "problemen": [
+   "geen toegang tot /Users/thuismap/Library/Mobile Documents/com~apple~CloudDocs/Ochtendbriefing — overgeslagen"
+  ],
+  "audio_herkomst": null
  },
- "opgehaald": "2026-10-10T23:00+02:00",
- "audio": "audio/20261010.mp3",
+ "opgehaald": "2026-10-11T05:55+02:00",
+ "audio": null,
  "blokken": [
   {
    "id": "internationaal",
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Justitie Amerika onderzoekt tv-zenders na protest tegen uitsluiting journalisten",
+     "link": "https://nos.nl/l/2634521",
+     "bron": "NOS",
+     "tijd": "04:37",
+     "sorteer": "2026-10-11T04:37:48+02:00"
+    },
+    {
+     "titel": "Vier doden in zuidoosten VS door storm Isaias, meer kans op overstromingen",
+     "link": "https://nos.nl/l/2634520",
+     "bron": "NOS",
+     "tijd": "02:22",
+     "sorteer": "2026-10-11T02:22:47+02:00"
+    },
+    {
+     "titel": "Man overlijdt na tijgeraanval in dierentuin Engeland",
+     "link": "https://nos.nl/l/2634518",
+     "bron": "NOS",
+     "tijd": "00:33",
+     "sorteer": "2026-10-11T00:33:48+02:00"
+    },
+    {
+     "titel": "12 doden en 300 gewonden bij aanval op luchthaven Riyad",
+     "link": "https://nos.nl/l/2634508",
+     "bron": "NOS",
+     "tijd": "23:33",
+     "sorteer": "2026-10-10T23:33:56+02:00"
+    },
     {
      "titel": "Zeker veertig doden in Sudan door droneaanval op vluchtelingenkamp",
      "link": "https://nos.nl/l/2634492",
@@ -32,46 +62,18 @@
      "sorteer": "2026-10-10T20:59:15+02:00"
     },
     {
-     "titel": "Vier vragen over de dieseldeal tussen de Verenigde Staten en Rusland",
-     "link": "https://nos.nl/l/2634479",
-     "bron": "NOS",
-     "tijd": "19:56",
-     "sorteer": "2026-10-10T19:56:27+02:00"
+     "titel": "‘Ik werk niet op basis van een soort Champions League van gruwelijkheden’",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSks0ZVFhWkVDaGtHdTRkcXZJaDk1ZURhaE0zdnV2Qno4Z1J1UldfaWIxOV9TdFB5Q2ttN2JxTTNJNWpwbHJPR0stNUdsTGZJM3Q0elduby1jdDdVa2JMMS1hcldycE90S1BPM0VKZHJKU3hTa21qSDBaajRYcmMtRWVCSXR6N2JudUE4ekg5UlQ1Y2s1bHQ2dUc1MlNFSW5yejRWcHRDR1gxNHRVcWFoRUZuWmttM24x?oc=5",
+     "bron": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+     "tijd": "05:30",
+     "sorteer": "2026-10-11T03:30:00+00:00"
     },
     {
-     "titel": "Christa Pike terug in gevangenis, maar krijgt nog wel medische zorg",
-     "link": "https://nos.nl/l/2634467",
-     "bron": "NOS",
-     "tijd": "18:55",
-     "sorteer": "2026-10-10T18:55:19+02:00"
-    },
-    {
-     "titel": "Gewonden bij aanval op luchthaven in Saudische hoofdstad Riyad, vliegverkeer ligt stil",
-     "link": "https://nos.nl/l/2634465",
-     "bron": "NOS",
-     "tijd": "18:46",
-     "sorteer": "2026-10-10T18:46:02+02:00"
-    },
-    {
-     "titel": "Instabiele rotspartij bedreigt Zwitsers dorp, maar een Nepal-scenario vreest men niet",
-     "link": "https://nos.nl/l/2634454",
-     "bron": "NOS",
-     "tijd": "17:23",
-     "sorteer": "2026-10-10T17:23:07+02:00"
-    },
-    {
-     "titel": "Stop laf wegkijken van Amerikaanse chantage en kies voor democratie",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc25GbGFsOVFqSnRtNk9lZlhodUFiWWtRbkhkY2VlVTJTV054MnU5R3g2bjNMQXBmY0hmS2RRa3QxYU51NGtjYUZjLU1MRmcwakpFTjJTUVlySTl2UFVjUzlGbEhRdFp3TFB4dzk2OFQyVnRuSUQ4S09DdDVlQm5EeVV1TTVSV0RDcXgzNHdYQmRGS3BHRGhhOURHbFRoWU9FbDRWNXI5U18zN0k?oc=5",
-     "bron": "Petities.nl",
-     "tijd": "20:56",
-     "sorteer": "2026-10-10T18:56:08+00:00"
-    },
-    {
-     "titel": "Woman Life Freedom",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kQVA5azhHZHJmWFNXQjRGS3VYNEZLTE1LV3ViWTdtZVd0OUhETUlfeDR6bXhwV1dMd042M1BlMXZCblh6eEV4RW04TVpaMmZoZWlNNlN6d1VBYU0?oc=5",
-     "bron": "Vfonds",
-     "tijd": "20:53",
-     "sorteer": "2026-10-10T18:53:08+00:00"
+     "titel": "'Barbertje Beels moet hangen: spelregels herschrijven tijdens de wedstrijd is blamage voor onze democratie'",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMmhwbjRHT1BpZW9mdnUzMGtPY1pNeEh4MUNRX3VyWVBocHlqSUlKQmx0c2FwelljbDl5ODBDTXoyRmFrbW1ocm5wSGlYX20tV3RqZG8xbGJWQ2tNQTlwajRBN0dyelJjeGlmNEhjNHRVdmFzQS1TZ2w4TUhyVmRsc21ELUJ5bWs5LXFBVjVuVEJxR24yM1FmMWlRbjlWUGx0Wk0yX2dkZHJhczVHZ0U4dlo1bVZBOTBGR3JNYThUTkJvaklueWZiTmVCT3ltcjRHZ21Ca1hFTUF1SG1Qdk4tUi1XZw?oc=5",
+     "bron": "Knack",
+     "tijd": "05:00",
+     "sorteer": "2026-10-11T03:00:00+00:00"
     }
    ]
   },
@@ -123,32 +125,32 @@
      "sorteer": "2026-10-10T11:13:08+02:00"
     },
     {
-     "titel": "Yesilgöz ondanks kritiek: 'Ik ben volgende lijsttrekker van VVD'",
-     "link": "https://nos.nl/l/2634363",
-     "bron": "NOS politiek",
-     "tijd": "23:28",
-     "sorteer": "2026-10-09T23:28:55+02:00"
+     "titel": "OM pakt € 2,1 miljoen af van speler na grootschalige bonusfraude bij online casino’s",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZWZaQlpjU2tYc1RLT1Jnczl0OU9zbDZWcG04b044TUl1YndvWGllX2xhdktkVHp6S3pnSkJRZDRLdDRsSXVqQkZ2eWM0OGZrdzY3QVZVeWswanNHbFkwbWNTS1pIYktDUHFvLTl5eHprMk1BU21SZU8wSHU5SmVfUnczWXNfTXlvMGVfTk5yQ2lsRW9PYzBTWF9QdF9xQnBPblhMc2hjdTdzeUlYNnRjYVNMaHQ3TFotUHc?oc=5",
+     "bron": "CasinoNieuws.nl",
+     "tijd": "05:12",
+     "sorteer": "2026-10-11T03:12:46+00:00"
     },
     {
-     "titel": "Brandje in rijwoning van schepen Ludo Van Campenhout",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS05BTzBHYUQ2bUhGZnhNZjk2RGRLTG4zVG1iTEYwd1A2R1RoNFZySVNCT0t1N3BST1hrby1qQWFFRDItTnNVcUgtSjFZclVVRV8xdldHcGd2eTdETDlCZ0F0N25TdEtmT2FpQTItdDBfRTVybWRKSk9qX2JOZDZEbXR4Z0dMamJpNTRQTjVQRE5fTFZYNnc?oc=5",
-     "bron": "pzc.nl",
-     "tijd": "22:44",
-     "sorteer": "2026-10-10T20:44:37+00:00"
-    },
-    {
-     "titel": "Gaslekkage op Weegbreestraat in Arnhem",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcjRKS2NXRE5RYldTUmlwMlJmb3JnOVYxSGo4aWx4NWJRaVJUaHhpYnBzQ3p3VXFnWHpyRXc4ZFB3cUFEVl8zSUlDSnNPdkdwcXFsT2xIT2VWbjJjNjU0VU55YTRRMkUzZEJGZl9uQjBrRFdScm5veWZqQndsX3pNUkxpMlhCNE9YY2NXcHRVaUx5SThTN0o3aDd3?oc=5",
+     "titel": "Ongeval met letsel op Oranjestraat in Arnhem",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmk0VWd6RHg1OUpMc3lWNmtvX0hVdW9BUjlaTkRjMzg5dWVzeW0tbGhkZ09uU3ZQd2NSU3FkcUtyWG0tU2Y1dld5NUxuY0tnVE84VDZreVdPOFJyemZsVFNIYlRULUJZSW5mUThXRHVnRG5zTTdnM1hIQ3ZlV2pwdnBxb1ZUWWJXaDZoQ0NSWXc0UzFnZXdrMGhhRUlGV2hZRlE?oc=5",
      "bron": "De Gelderlander",
-     "tijd": "22:31",
-     "sorteer": "2026-10-10T20:31:59+00:00"
+     "tijd": "00:22",
+     "sorteer": "2026-10-10T22:22:05+00:00"
     },
     {
-     "titel": "Geen akkoord over EU-begroting, Nederland stuurt voorstel ‘per omgaande retour’",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzdKVkxIUnlBNXU3Qm15RVdjaUZyREdPbVhGWlZnd1AtWUxrN1lIVzRabkJkZkxkbmRmc25wUlFPOS11bGR2OFZzVTFpZHVsSzFrbTZGMzd5WTFUQ0RPNEpnT0NJR0ROei00LW9BUnlJdTVoMWdYcXJscE5iUVFiSFVlVmQ5SHg3RThpSGN0T28wX3VVeGVKSzVGeDlUbHE2bjZmSjRlcXo?oc=5",
-     "bron": "Nederlands Dagblad",
-     "tijd": "21:29",
-     "sorteer": "2026-10-10T19:29:00+00:00"
+     "titel": "Geldtransfers naar Marokko stijgen door dalende dirham",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYmU3a25Tc0pxRWhfaGwtZ1p2X2JUc0NWMzNjQkFpcTIxbnhyRnk0ZVBXTTVEUUhaeDZQS1I4UlZYSS1NUFFhY1o2ZU1uLTZhUU4yY09ndTVFdTQ3QTBaWFdmalQ5d1pGekxBM2VpQ3dITHMweGd3ZXRlWHQ1M0J5clZ0cmxqWWhsMFIxZVVVLVpadw?oc=5",
+     "bron": "MAROKKO.nl",
+     "tijd": "23:34",
+     "sorteer": "2026-10-10T21:34:48+00:00"
+    },
+    {
+     "titel": "Aanhouding in Tanger na onderzoek naar mogelijke aanslagplannen",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ0xXc0lndUtjT1RDcWZSR0xtU0lVdjhSOXUxeFhXRFhsVVFCX0JKYzM5cG40Tk1nN21tdnUzRlZ0eHpIMjZma3VlTnFDSFpkQlJKcGtQaWNRbDR3QWN4MDNqWjRNcmNuVzRyZW50c3QwTnFGbDV5RmxRSklMS3o3Y3JkX3VMM2hXUW9UT0UzMWx3bnhzUUxfZ3o4ck5rZw?oc=5",
+     "bron": "MAROKKO.nl",
+     "tijd": "23:12",
+     "sorteer": "2026-10-10T21:12:03+00:00"
     },
     {
      "titel": "Nieuwsuur: Russische aanvallen op Kyiv • Oekraïne valt 'Russische Google' aan • Discotentoonstelling",
@@ -180,20 +182,6 @@
      "sorteer": "2026-10-10T17:02:00+00:00"
     },
     {
-     "titel": "Auto slaat over de kop bij Sint Jansklooster",
-     "link": "https://www.oost.nl/nieuws/3705423/auto-slaat-over-de-kop-bij-sint-jansklooster",
-     "bron": "RTV Oost",
-     "tijd": "18:46",
-     "sorteer": "2026-10-10T16:46:23+00:00"
-    },
-    {
-     "titel": "Karin, Rob en Eric testen website en app RTV Oost: waar loopt het digitaal mis?",
-     "link": "https://www.oost.nl/nieuws/3704836/karin-rob-en-eric-testen-website-en-app-rtv-oost-waar-loopt-het-digitaal-mis",
-     "bron": "RTV Oost",
-     "tijd": "18:36",
-     "sorteer": "2026-10-10T16:36:57+00:00"
-    },
-    {
      "titel": "Als man met jerrycans thuis komt slaat de buurt alarm",
      "link": "https://www.oost.nl/nieuws/3705411/als-man-met-jerrycans-thuis-komt-slaat-de-buurt-alarm",
      "bron": "RTV Oost",
@@ -208,18 +196,32 @@
      "sorteer": "2026-10-10T15:05:41+00:00"
     },
     {
+     "titel": "Heb jij het nieuws uit Overijssel de afgelopen week gevolgd? Doe de quiz!",
+     "link": "https://www.oost.nl/nieuws/3705118/heb-jij-het-nieuws-uit-overijssel-de-afgelopen-week-gevolgd-doe-de-quiz",
+     "bron": "RTV Oost",
+     "tijd": "16:00",
+     "sorteer": "2026-10-10T14:00:00+00:00"
+    },
+    {
+     "titel": "Vrouw (38) belandt onder auto bij ongeval in Hengelo en raakt zwaargewond",
+     "link": "https://www.oost.nl/nieuws/3705357/vrouw-38-belandt-onder-auto-bij-ongeval-in-hengelo-en-raakt-zwaargewond",
+     "bron": "RTV Oost",
+     "tijd": "15:58",
+     "sorteer": "2026-10-10T13:58:48+00:00"
+    },
+    {
+     "titel": "2 jarigen onder 1 dak bij de fam. van Amerongen",
+     "link": "https://www.dalfsennet.nl/nieuws/554177/2-jarigen-onder-1-dak-bij-de-fam-van-amerongen.html",
+     "bron": "DalfsenNet",
+     "tijd": "00:15",
+     "sorteer": "2026-10-10T22:15:24+00:00"
+    },
+    {
      "titel": "De takkendagen komen er weer aan",
      "link": "https://www.dalfsennet.nl/nieuws/554214/de-takkendagen-komen-er-weer-aan-2.html",
      "bron": "DalfsenNet",
      "tijd": "22:04",
      "sorteer": "2026-10-10T20:04:09+00:00"
-    },
-    {
-     "titel": "Jeugd BC Trefzeker wint ruim van Hoogerheijne uit Heino",
-     "link": "https://www.dalfsennet.nl/nieuws/554187/jeugd-bc-trefzeker-wint-ruim-van-hoogerheijne-uit-heino.html",
-     "bron": "DalfsenNet",
-     "tijd": "21:54",
-     "sorteer": "2026-10-10T19:54:09+00:00"
     }
    ]
   },
@@ -292,18 +294,11 @@
    "emoji": "🤖",
    "items": [
     {
-     "titel": "AI zorgt voor revolutie in de operatiekamer: ‘De computer moet leren denken als een chirurg’",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRzRYbGtQZXd5VjZIWVpneDh6WHFwRk1iclJSVmFJOTVqb0FSaGkxQ1pxcWNXb2dWbGpGTmJkZ29lY3NOSUJ2WmNtdGpMYnp6TENTTFhaUEtSOWExdTJ1UmpnZGFOZnJjcThhT0kxMHIzS3hQNUhwUG1DRzRNdnZHR3kzU0ZpTDhSVTdKQVdadTdHcmxBWVNRUHN2NmdFZmp4WTJySUgzSURPMjBMcWp4Z2cyeWxBZ0d2c2pTeWYtMEd2aHM0RUxhR2EzSWFzRTJVbGhlVw?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "18:30",
-     "sorteer": "2026-10-10T16:30:00+00:00"
-    },
-    {
-     "titel": "AI-model Anthropic stuurde valse tip over moordzaak naar politie: ’Onacceptabel’",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYmZKSnVJY1lwT09HaHNqSk5nMEZsTFpMVzRuZjJ0bjBDUVJrWGNWQ0poeFZQcWk4NmU3THNXdkNocERad3YzbVFzMHhrVy1scG1IenJFemh6dERJUDJ1OEpraHlRUjBtbzRIZ0FtRFg2aW1vcjdFeG0zcUF0YTBhWVZwOHhoNlNZc0JORXpnRXN2UUJ0MkxIMklXZjNMY2NxX05WTGFaWHVuYk52ZDZtUlBKdFFSTUIzR0xpbGVPSDFHdzhmYlFBUkcyVXo?oc=5",
+     "titel": "Het Amerikaanse platteland betaalt de rekening van de AI-wedloop: ’Mensen maken zich zorgen’",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaGpvOFFjd0V2c29QdnljMFdKelhlLVg5d2UtZEJCQVNvSTNTdTg1Qlh5UXpLTldlZzlBYUotVmJOWlQySmtHVVRtUWZfSFljQ2pyenQzTXpVZGkzeGFmdmkweFZVSktraTNNQVhpU2RTdVkzRl91OU1fZ3lIandMZElpU2pfZndReFRDVzlnamppZnBQdlpaeDNVbFJvcVdLdXFIUi1TWTI2WEx6WGpmTDRjeHJQUmFMcTlHbUVFRXBsZm9VdE5QZTk3bkdoOHozUFI2WF9ZNA?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "14:42",
-     "sorteer": "2026-10-10T12:42:58+00:00"
+     "tijd": "22:00",
+     "sorteer": "2026-10-10T20:00:00+00:00"
     },
     {
      "titel": "Anthropic sluit AI-agents af van het internet tijdens tests",
@@ -466,20 +461,6 @@
    ]
   },
   {
-   "id": "podcasts",
-   "titel": "Podcasts",
-   "emoji": "🎧",
-   "items": [
-    {
-     "titel": "Is de normalisering van extreem rechts onvermijdelijk?",
-     "link": "",
-     "bron": "NRC Haagse Zaken",
-     "tijd": "05:30",
-     "sorteer": "2026-10-10T03:30:00+00:00"
-    }
-   ]
-  },
-  {
    "id": "natuur",
    "titel": "Natuur",
    "emoji": "🌿",
@@ -618,80 +599,61 @@
      "sorteer": "2026-10-10T08:40:00+02:00"
     },
     {
-     "titel": "Dalfsen (nacht)",
-     "kop": "Vogeltrek",
-     "bron": "09-10",
-     "wanneer": "de nacht van donderdag op vrijdag",
-     "tijd": "19:30–05:30",
-     "link": "https://trektellen.org/count/view/2364/20261009",
-     "soorten": [
-      "Zanglijster 17",
-      "Koperwiek 17",
-      "Grote Canadese Gans 2",
-      "Krakeend 2"
-     ],
-     "aantal_soorten": 6,
-     "opmerkingen": [
-      "regen na 05.30h"
-     ],
-     "tellers": "Vincent Martens"
-    },
-    {
-     "titel": "Landelijk vandaag: 187 soorten, 154.576 vogels geteld",
+     "titel": "Landelijk vandaag: 187 soorten, 154.816 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
      "titel": "Spreeuw — 49.145",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
      "titel": "Vink — 41.584",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
      "titel": "Kleine Mantelmeeuw — 8.838",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
      "titel": "Graspieper — 7.978",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
      "titel": "Kolgans — 6.190",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
      "kop": "Vogeltrek",
      "titel": "Jan-van-gent springt eruit — 4.857, normaal 71",
      "bron": "68× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Bonte Strandloper springt eruit — 3.030, normaal 52",
-     "bron": "58× het gewone niveau",
+     "titel": "Bonte Strandloper springt eruit — 3.235, normaal 66",
+     "bron": "49× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
      "sein": true
     },
     {
@@ -699,7 +661,7 @@
      "titel": "Zilverplevier springt eruit — 722, normaal 22",
      "bron": "33× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
      "sein": true
     },
     {
@@ -707,12 +669,12 @@
      "titel": "Kleine Mantelmeeuw springt eruit — 8.838, normaal 518",
      "bron": "17× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261010?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
      "sein": true
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Rustig vandaag — 17 meldingen, samen 146 vogels",
+     "titel": "Rustig gisteren — 17 meldingen, samen 146 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -740,21 +702,9 @@
    "emoji": "🌙",
    "items": [
     {
-     "titel": "Vannacht zijn een bedekking door de planeetschijf van Jupiter en verduistering van Io volledig waar te nemen.",
+     "titel": "De Maan staat 2.5° ten zuidwesten van Spica, de helderste ster van het sterrenbeeld Maagd (+1,0m).",
      "bron": "hemel.waarnemen.com",
-     "tijd": "03:35",
-     "link": "https://hemel.waarnemen.com/astrokal/"
-    },
-    {
-     "titel": "Tot 5:03 zijn van de Galileïsche manen van Jupiter alleen Europa en Callisto zichtbaar.",
-     "bron": "hemel.waarnemen.com",
-     "tijd": "03:35",
-     "link": "https://hemel.waarnemen.com/astrokal/"
-    },
-    {
-     "titel": "Vannacht is een bedekking door de Jupiterschijf en een verduistering door de Jupiterschaduw van Ganymedes in zijn geheel waar te nemen.",
-     "bron": "hemel.waarnemen.com",
-     "tijd": "05:03",
+     "tijd": "05:10",
      "link": "https://hemel.waarnemen.com/astrokal/"
     }
    ]
@@ -765,35 +715,35 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 9.2,
-    "gevoel": 8.2,
-    "wind": "ZZW 2",
+    "nu": 8.5,
+    "gevoel": 6.0,
+    "wind": "ZW 3",
     "station": "Heino",
     "bericht": "De rest van het weekend verloopt sterk wisselvallig, met de meest actieve buien in het noorden van het land. Die buien kunnen daar vergezeld gaan van onweer, windstoten en korrelhagel.",
     "vooruit": "Rustig herfstweer met regelmatig zon en temperaturen boven het langjarig gemiddelde. Op dinsdag is er tijdelijk meer bewolking en kan het af en toe regenen. Op vrijdag neemt de bewolking toe, is er kans op regen en daalt de maximumtemperatuur waarschijnlijk naar waarden rond het langjarig gemiddelde.",
-    "omslag": "Vanaf maandag droog: de regenkans zakt van 70% naar 30%.",
+    "omslag": null,
     "min": null,
     "max": null,
     "regenkans": null,
     "zonkans": null,
     "omschrijving": null,
     "morgen": {
-     "omschrijving": "Afwisselend bewolkt met (mogelijk) wat lichte regen",
-     "min": "8",
-     "max": "15",
-     "regenkans": 70
+     "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
+     "min": "6",
+     "max": "17",
+     "regenkans": 20
     }
    }
   }
  ],
  "archief": [
+  "2026-10-11",
   "2026-10-10",
   "2026-10-09",
   "2026-10-08",
   "2026-10-07",
   "2026-10-06",
   "2026-10-05",
-  "2026-10-04",
-  "2026-10-03"
+  "2026-10-04"
  ]
 }
