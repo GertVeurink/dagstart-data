@@ -7,7 +7,8 @@
   "blokken": 10,
   "berichten": 76,
   "problemen": [],
-  "audio_herkomst": "vangnet"
+  "audio_herkomst": "vangnet",
+  "audio_aangehaakt": "09:29"
  },
  "opgehaald": "2026-10-11T09:00+02:00",
  "audio": "audio/20261011.mp3",
@@ -585,42 +586,42 @@
      "sorteer": "2026-10-10T09:37:00+02:00"
     },
     {
-     "titel": "Landelijk vandaag: 81 soorten, 9.814 vogels geteld",
+     "titel": "Landelijk vandaag: 103 soorten, 20.341 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
-     "titel": "Spreeuw — 3.779",
+     "titel": "Spreeuw — 8.963",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
-     "titel": "Vink — 2.212",
+     "titel": "Vink — 3.713",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
-     "titel": "Graspieper — 522",
+     "titel": "Zwarte Zee-eend — 1.457",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
-     "titel": "Goudplevier — 450",
+     "titel": "Kleine Mantelmeeuw — 933",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
-     "titel": "Kleine Mantelmeeuw — 441",
+     "titel": "Graspieper — 756",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -628,8 +629,24 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Goudplevier springt eruit — 450, normaal 73",
+     "titel": "Jan-van-gent springt eruit — 476, normaal 71",
+     "bron": "7× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
+     "sein": false
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Goudplevier springt eruit — 439, normaal 73",
      "bron": "6× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
+     "sein": false
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Grote Mantelmeeuw springt eruit — 177, normaal 36",
+     "bron": "5× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
      "sein": false
@@ -698,5 +715,15 @@
     }
    }
   }
+ ],
+ "archief": [
+  "2026-10-11",
+  "2026-10-10",
+  "2026-10-09",
+  "2026-10-08",
+  "2026-10-07",
+  "2026-10-06",
+  "2026-10-05",
+  "2026-10-04"
  ]
 }
