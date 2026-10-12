@@ -1,15 +1,17 @@
 {
  "datum": "2026-10-12",
- "naam": "Ochtendbriefing",
+ "naam": "Middagbriefing",
  "status": {
-  "ronde": "Ochtendbriefing",
-  "opgehaald": "11:00",
+  "ronde": "Middagbriefing",
+  "opgehaald": "12:01",
   "blokken": 11,
-  "berichten": 83,
-  "problemen": [],
+  "berichten": 80,
+  "problemen": [
+   "kamerstukken Schriftelijke vragen: HTTPError"
+  ],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-12T11:00+02:00",
+ "opgehaald": "2026-10-12T12:01+02:00",
  "audio": "audio/20261012.mp3",
  "blokken": [
   {
@@ -63,6 +65,15 @@
      "sorteer": "2026-10-12T04:30:28+02:00"
     },
     {
+     "titel": "Luchthaven in Riyad blijft voor passagiers gesloten na Houthi-aanvallen",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/middenoosten-liveblog-iran-houthi-yemen-saoediarabie-vs~ba2c7027/",
+     "bron": "de Volkskrant",
+     "tijd": "11:35",
+     "sorteer": "2026-10-12T09:35:51+00:00"
+    },
+    {
      "titel": "EU breidt zwarte lijst uit: ruim 1.600 Russische burgers en bedrijven gesanctioneerd",
      "context": "",
      "rubrieken": [],
@@ -72,15 +83,6 @@
      "sorteer": "2026-10-12T08:33:00+00:00"
     },
     {
-     "titel": "Britse premier beticht Russen van inmenging in Brexit-referendum en waarschuwt Frankrijk en Duitsland",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/britse-premier-beticht-russen-van-inmenging-in-brexit-referendum-en-waarschuwt-frankrijk-en-duitsland~b3767a6a/",
-     "bron": "de Volkskrant",
-     "tijd": "10:10",
-     "sorteer": "2026-10-12T08:10:00+00:00"
-    },
-    {
      "titel": "Kallas roept VS op sancties tegen Rusland in te stellen",
      "context": "",
      "rubrieken": [],
@@ -88,13 +90,6 @@
      "bron": "Trouw",
      "tijd": "09:20",
      "sorteer": "2026-10-12T07:20:00+00:00"
-    },
-    {
-     "titel": "De opvolger van de Leopard 2‑tank is springlevend",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYXhwMm5ubmh6QzdUM0Vlbl9sN25sV2xHNFVUeU02YTBkMTV4RV9tNmdtbTFEel9PQm9HOGJ0YUVsT3llNkN1VDMtU2Rza0trQkpRZFBlYXU3cVViVlJ6Y2JvUkdkczItRG9hRHBWRFNtS0ZaM0syMDZTdklWX1RqS3FxWmRuUQ?oc=5",
-     "bron": "Het Financieele Dagblad",
-     "tijd": "10:55",
-     "sorteer": "2026-10-12T08:55:21+00:00"
     },
     {
      "titel": "Geen enkel land ondermijnt het bestaansrecht van Israël zo vakkundig als Israël zelf",
@@ -112,7 +107,7 @@
    "items": [
     {
      "titel": "Explosie bij kapper Vlaardingen, mogelijk verband met 'kappersoorlog'",
-     "context": "In Vlaardingen heeft gisteravond rond 23.00 uur een explosie plaatsgevonden bij een kapperszaak. Door de explosie is er schade aan de gevel. Een winkelruit is volledig weggeblazen. De oorzaak van de explosie is niet bekendgemaakt. Op foto's is een stuk zwaar vuurwerk en een losse baksteen te zien. In Vlaardingen zijn vaker incidenten rond kapperszaken. Rijnmond en het AD berichtten afgelopen zomer",
+     "context": "In Vlaardingen heeft gisteravond rond 23.00 uur een explosie plaatsgevonden bij een kapperszaak. Door de explosie is er schade aan de gevel. Een winkelruit is volledig weggeblazen. De oorzaak van de explosie is niet bekendgemaakt. Op foto's is een stuk zwaar vuurwerk en een losse baksteen te zien. In Vlaardingen zijn vaker incidenten rond kapperszaken. Regionale omroep Rijnmond en het AD berichtte",
      "rubrieken": [],
      "link": "https://nos.nl/l/2634632",
      "bron": "NOS",
@@ -174,32 +169,18 @@
      "sorteer": "2026-10-12T05:00:00+00:00"
     },
     {
+     "titel": "Stichting in Vroomshoop stopt en doet nu boekje open over politie-inval",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXpENFl5LWptX2xvcXp3Y3R4b193Wjc2SkJRQzZ1X1dDb3doOGw5U05FblIzTl8xcXoySlZYbDhpR3N3cjBlY183SG44M2N1TGFaQVBnSW12UzVTUGl3Y3F6M2piTzVYTlduWE4wUElmMnhOSUE3SThXODFvMEw1eUZIUGpBN0gtQ1lKQ0VqeTd6bmFMVmFHcGdjdzZNYnhOdndSalkzZ3JKanoxX0hJbWlBMFpHb1U?oc=5",
+     "bron": "Tubantia",
+     "tijd": "11:00",
+     "sorteer": "2026-10-12T09:00:00+00:00"
+    },
+    {
      "titel": "De eeuwigdurende soap van het kabinet rond gokadvertenties",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTmR2cFlqak1NdkJ2T1BuQlhienprNEhrRDIyWW5raWQxYml4REZnLWYwa3p6ZVVISW9FQzJBd3VTNjJpWGlqZ2dJMjNoYXNMVVFEV0dsZnhNN2tDNmo5OUFfUHdwTnptdWN2Z1hOekZwR29GRlVSX2lHU1AxdVdsZlBIdHRoUFZrMTFTVXBiOUkyTHhTbGVfVFQyUXlzNklYVjZlVmVJOA?oc=5",
      "bron": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
      "tijd": "10:44",
      "sorteer": "2026-10-12T08:44:37+00:00"
-    },
-    {
-     "titel": "Veldhoven doctor charged 44,000 euros per session for illegal treatment, but pays only a 9,000-euro fine: how is that possible?",
-     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTnMzTjROQUYxdk9GakJ5UUxZZmhkd09OSGFFdldnMnkzbzRMT0NxUm9VdkZETDhQWVgxSFIzU2ZQZmI2c2hGbGFjaUVKYWF1RzF4eGlvaExxbmM5N2F4dzQ5bDQyelZicmF4WGZ5U2hHek4xMUROYXVHV0U5dGlaeDhNZlJ3ODFpYmtHMk9TWExVa3BEb3N1NzBpOXo5bURSMmhicTV4d3NuZjNMUW14ZjczRG5KWWZuLXIzdHNWM2libG5iS0plb1ItVHVpZkt6dUUzS2xaU0ZHTHlfdFV6LVhHc0RSQlNVOVkwMGFuVUZ5ZTVqNXFyVEh3?oc=5",
-     "bron": "Eindhovens Dagblad",
-     "tijd": "10:22",
-     "sorteer": "2026-10-12T08:22:59+00:00"
-    },
-    {
-     "titel": "Albert Heijn kampt met ’IT-incident’, app en website uit de lucht",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTGIySnlxOXRXM3YyQW1ZQXdKOUxocEl3YUFCXzNuUDNET1BRWlZCM2d4ZEVOSGlKd3JUTU10TjQ2MV9zY2FYNmF0ak9zVnd3Q1NBaXE5aFFxa1c5bHRLYnU2T2pwdXBfT3JLbXlvczlYcW5vUTk3THJWODRScVVzLWlZaldFU1A5U3Y0dUZtb3YxRmFZX0RGWjRYcDZSc0J1cm40RGtCbVB6QQ?oc=5",
-     "bron": "Leeuwarder Courant",
-     "tijd": "09:53",
-     "sorteer": "2026-10-12T07:53:03+00:00"
-    },
-    {
-     "titel": "Kabinet komt met extra onderzoeksgeld voor postcovid en wil ernstig zieken registreren",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTkc0MHljNXJRcU0yTHNvMG5HR19vci15WEtCS1k5WVdHTHJhbkR0NEpNSFowdFBzZjdwZndWeGRqS1FVWVY0UVVOZHZObG1rb0RrU2gyakpVeUtrbHYxSVYydmM2ckdJVW9Pb21yNkxLMkR6cDUwa1MwaHp6SUZhSXlXcjdaakprcVhkYWNmVGZvdG8zcG1Tanl3Y01vdUpxbml5Q3B2cw?oc=5",
-     "bron": "Nederlands Dagblad",
-     "tijd": "10:24",
-     "sorteer": "2026-10-12T08:24:00+00:00"
     },
     {
      "titel": "Heeft je kind ADHD, of is-ie toevallig de jongste van de klas?",
@@ -252,10 +233,10 @@
      "sorteer": "2026-10-12T04:54:37+00:00"
     },
     {
-     "titel": "112 Nieuws: Fietser gewond in Rijssen | Gasleiding geraakt in Zwartsluis",
+     "titel": "112 Nieuws: Wielrenner ten val in Kamperveen | Gasleiding geraakt in Zwartsluis",
      "context": "In dit bericht houden we je op de hoogte van het laatste 112-nieuws in Overijssel. Je vindt hier een overzicht van onder meer ongelukken, branden en misdrijven van maandag 12 oktober.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3705744/112-nieuws-fietser-gewond-in-rijssen-gasleiding-geraakt-in-zwartsluis",
+     "link": "https://www.oost.nl/nieuws/3705744/112-nieuws-wielrenner-ten-val-in-kamperveen-gasleiding-geraakt-in-zwartsluis",
      "bron": "RTV Oost",
      "tijd": "06:31",
      "sorteer": "2026-10-12T04:31:32+00:00"
@@ -281,31 +262,29 @@
      "sorteer": "2026-10-11T18:08:40+00:00"
     },
     {
-     "titel": "Aalt Westerman viert 70 jaar als muzikant bij ’t Witte Peerd",
-     "context": "NIEUWLEUSEN – Van accordeons en mondharmonica’s tot koorzang en streektaalliedjes: vanmiddag stond ’t Witte Peerd in Nieuwleusen volop in het teken van muziek. Naast de twintigste editie van de accordeon- en harmonicadag werd het zeventigjarig muzikale jubileum van Aalt Westerman gevierd. Twintig jaar muziek en saamhorigheid De accordeon- en harmonicadag begon met een gezamenlijke opening […]",
-     "rubrieken": [
-      "Laatste nieuws",
-      "Nieuwleusen",
-      "Regio"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/554259/aalt-westerman-viert-70-jaar-als-muzikant-bij-t-witte-peerd.html",
-     "bron": "DalfsenNet",
-     "tijd": "16:38",
-     "sorteer": "2026-10-11T14:38:46+00:00"
-    },
-    {
-     "titel": "Fiets gevonden: mogelijk gestolen",
-     "context": "DALFSEN – Deze elektrische fiets staat in het Gernerbos. Ik denk dat deze gestolen is. Wilt u dit plaatsen op DN. De eigenaar kan mij bellen, zodat ik de plek kan wijzen. 06 – 401 984 89 Groet, Janny",
+     "titel": "Begin Again try-out in De Stoomfabriek",
+     "context": "DALFSEN – Theater De Stoomfabriek vormt op woensdag 21 oktober het decor voor de allereerste try-out van BEGIN AGAIN, de nieuwe voorstelling van kunstenaarscollectief BrotherTill en schrijver Lisa Weeda. Wat als een steen meer weet dan een mens? En wat als die steen plotseling begint te zingen in je hand? In BEGIN AGAIN nemen BrotherTill […]",
      "rubrieken": [
       "Dalfsen",
       "Ingezonden bericht",
-      "Kwiet en weer terechte",
       "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/554255/fiets-gevonden-mogelijk-gestolen.html",
+     "link": "https://www.dalfsennet.nl/nieuws/554267/begin-again-try-out-in-de-stoomfabriek-in-dalfsen-op-21-oktober.html",
      "bron": "DalfsenNet",
-     "tijd": "16:23",
-     "sorteer": "2026-10-11T14:23:19+00:00"
+     "tijd": "11:54",
+     "sorteer": "2026-10-12T09:54:40+00:00"
+    },
+    {
+     "titel": "Stroomstoring ten Noorden van de Hessenweg",
+     "context": "DALFSEN – (Door John Til) De afgelopen nacht was er een kleine stroomstoring in Dalfsen die ongeveer een uur heeft geduurd. Als je wekker vanmorgen niet op tijd af ging, zat je misschien in het getroffen gebied. Op het kaartje kun je goed zien welk gebied last had van die storing. Dat was ten Noorden […]",
+     "rubrieken": [
+      "Dalfsen",
+      "Laatste nieuws"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/554271/stroomstoring-ten-noorden-van-de-hessenweg.html",
+     "bron": "DalfsenNet",
+     "tijd": "10:00",
+     "sorteer": "2026-10-12T08:00:18+00:00"
     }
    ]
   },
@@ -414,14 +393,6 @@
    "emoji": "🏛️",
    "items": [
     {
-     "titel": "De vervolging van beledigende uitlatingen en de prioriteiten van het Openbaar Ministerie",
-     "bron": "Kamervraag",
-     "kop": "Kamervragen",
-     "tijd": "02-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D48126",
-     "sorteer": "2026-10-12T07:47:47.797+02:00"
-    },
-    {
      "titel": "Antwoord op vragen van het lid Dassen over het bericht ‘OM vervolgt Tata Steel strafrechtelijk voor opzettelijk vervuilen’",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
@@ -430,12 +401,12 @@
      "sorteer": "2026-10-12T09:39:23.653+02:00"
     },
     {
-     "titel": "Motie van de leden Wiersma en Schutz over onderzoeken hoe kleine brandstofpunten met alternatieve maatregelen aan de milieu- en…",
+     "titel": "Motie van het lid Van Baarle over de ondermijning van het Internationaal Strafhof door Israël veroordelen en de Israëlische…",
      "bron": "Motie",
      "kop": "Brieven en moties",
      "tijd": "08-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49976",
-     "sorteer": "2026-10-12T10:48:27.967+02:00"
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49999",
+     "sorteer": "2026-10-12T11:25:53.007+02:00"
     },
     {
      "titel": "Implementatie van Richtlijn (EU) 2024/1203 van het Europees Parlement en de Raad van 11 april 2024 inzake de…",
@@ -572,13 +543,6 @@
      "link": "https://scientias.nl/hoe-blijft-schildpad-jonathan-op-zijn-194e-zo-jong-het-antwoord-zit-in-zijn-genen/"
     },
     {
-     "titel": "Zo jaagden de prehistorische heersers van de zee",
-     "toelichting": "Waar de T. rex bekend staat als het prehistorische toproofdier op het vaste land, was de mosasaurus een berucht jager in de zee. De hagedisachtige reptielen konden wel acht tot vijftien meter lang. Door te onderzoeken ho",
-     "bron": "Scientias",
-     "tijd": "15:00",
-     "link": "https://scientias.nl/zo-jaagden-de-prehistorische-heersers-van-de-zee/"
-    },
-    {
      "titel": "Wildlife disease surveillance at global scale needs stronger local networks: Study",
      "toelichting": "A recent study has proposed a road map for countries to better monitor wildlife health and disease outbreaks. Previous research found that nearly 60% of the 107 countries it surveyed showed no evidence of a functional wi",
      "bron": "Mongabay (Engels)",
@@ -602,12 +566,28 @@
    "emoji": "🐦",
    "items": [
     {
+     "titel": "Bruine Klauwier",
+     "kop": "Zeldzaamheden",
+     "bron": "Friesland",
+     "tijd": "11:38",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-12T11:38:00+02:00"
+    },
+    {
      "titel": "Notenkraker",
      "kop": "Zeldzaamheden",
-     "bron": "Gelderland",
-     "tijd": "09:58",
+     "bron": "Flevoland",
+     "tijd": "11:15",
      "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-12T09:58:00+02:00"
+     "sorteer": "2026-10-12T11:15:00+02:00"
+    },
+    {
+     "titel": "Vale Braamsluiper",
+     "kop": "Zeldzaamheden",
+     "bron": "Friesland",
+     "tijd": "10:50",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-12T10:50:00+02:00"
     },
     {
      "titel": "Daurische Klauwier",
@@ -642,42 +622,42 @@
      "sorteer": "2026-10-11T13:00:00+02:00"
     },
     {
-     "titel": "Landelijk vandaag: 140 soorten, 188.035 vogels geteld",
+     "titel": "Landelijk vandaag: 160 soorten, 265.121 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Vink — 128.441",
+     "titel": "Vink — 190.461",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Spreeuw — 15.010",
+     "titel": "Spreeuw — 18.862",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Graspieper — 6.380",
+     "titel": "Graspieper — 7.918",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Kolgans — 5.793",
+     "titel": "Kolgans — 6.188",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Kneu — 4.631",
+     "titel": "Kneu — 5.742",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -685,55 +665,55 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Goudplevier springt eruit — 1.537, normaal 121",
+     "titel": "Goudplevier springt eruit — 1.860, normaal 121",
+     "bron": "15× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Lepelaar springt eruit — 170, normaal 12",
+     "bron": "14× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Rietgors springt eruit — 2.034, normaal 147",
+     "bron": "14× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Beflijster springt eruit — 80, normaal 6",
      "bron": "13× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
      "sein": true
     },
     {
-     "kop": "Vogeltrek",
-     "titel": "Lepelaar springt eruit — 146, normaal 12",
-     "bron": "12× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Rietgors springt eruit — 1.521, normaal 147",
-     "bron": "10× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Rotgans springt eruit — 1.067, normaal 118",
-     "bron": "9× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
-     "sein": false
-    },
-    {
      "kop": "Kraanvogels",
-     "titel": "Rustig gisteren — 20 meldingen, samen 3441 vogels",
+     "titel": "Rustig vandaag — 6 meldingen, samen 8 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "gelijk aan de dag ervoor (20) · afgelopen week gemiddeld 29 per dag"
+     "vergelijking": "aflopend — dag ervoor 21 · afgelopen week gemiddeld 22 per dag"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "4 binnen 75 km van Dalfsen",
-     "bron": "dichtstbij: Wierden - Zunasche Heide, 26 km",
-     "tijd": "14:47",
+     "titel": "2 binnen 75 km van Dalfsen",
+     "bron": "dichtstbij: Huurner Veld - Bruine Hoopsweg, 25 km",
+     "tijd": "09:31",
      "link": "https://waarneming.nl/species/19/observations/"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "12 meldingen vertrek uit het noorden",
-     "bron": "DE 11, SE 1",
+     "titel": "3 meldingen vertrek uit het noorden",
+     "bron": "DE 3",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -770,13 +750,13 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 11.7,
-    "gevoel": 11.7,
-    "wind": "ZW 1",
+    "nu": 13.1,
+    "gevoel": 13.1,
+    "wind": "ZW 2",
     "station": "Heino",
-    "bericht": "Het weer ziet er deze week helemaal niet verkeerd uit. Op de meeste dagen zijn er zonnige perioden. Morgen en ook vrijdag is het wel bewolkt en valt er af en toe wat lichte regen of motregen.",
-    "vandaag": "Vanochtend is het fraai weer met veel zon en blijft het vrijwel overal droog. Vanmiddag is er flink wat zon en blijft het droog.",
-    "temperatuur": "De middagtemperatuur varieert van 16 graden in het Waddengebied tot 17 graden in het midden van het land.",
+    "bericht": "Het weer ziet er deze week helemaal niet verkeerd uit voor de vakantiegangers in Regio Noord. Met uitzondering van morgen en vrijdag zijn er alle dagen zonnige perioden en blijft het droog. Verder is het vrij zacht voor de tijd van het jaar.",
+    "vandaag": "Vanmiddag is er flink wat zon en blijft het droog. Vanavond neemt vanuit het westen de bewolking toe en later op de avond kan in het westen een spat regen vallen.",
+    "temperatuur": "Het wordt een zachte nazomerdag met de maxima tussen 16 graden in het noordoosten tot zo'n 18 graden in het zuiden.",
     "dalfsen": {
      "zin": "Voor Dalfsen zelf: 5 tot 15 graden, 4% kans op neerslag, ruim 10 uur zon, wind uit het zuiden, kracht 3.",
      "max": 15,
