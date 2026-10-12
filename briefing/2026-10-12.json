@@ -7,7 +7,8 @@
   "blokken": 11,
   "berichten": 82,
   "problemen": [],
-  "audio_herkomst": "vangnet"
+  "audio_herkomst": "vangnet",
+  "audio_aangehaakt": "07:20"
  },
  "opgehaald": "2026-10-12T07:00+02:00",
  "audio": "audio/20261012.mp3",
@@ -593,69 +594,69 @@
      "sorteer": "2026-10-11T09:09:00+02:00"
     },
     {
-     "titel": "Landelijk vandaag: 171 soorten, 80.234 vogels geteld",
+     "titel": "Landelijk gisteren: 171 soorten, 80.236 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
      "titel": "Vink — 19.350",
      "kop": "Vogeltrek",
-     "bron": "landelijk, vandaag",
+     "bron": "landelijk, gisteren",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
      "titel": "Spreeuw — 10.123",
      "kop": "Vogeltrek",
-     "bron": "landelijk, vandaag",
+     "bron": "landelijk, gisteren",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
      "titel": "Kleine Mantelmeeuw — 9.136",
      "kop": "Vogeltrek",
-     "bron": "landelijk, vandaag",
+     "bron": "landelijk, gisteren",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
      "titel": "Zwarte Zee-eend — 4.915",
      "kop": "Vogeltrek",
-     "bron": "landelijk, vandaag",
+     "bron": "landelijk, gisteren",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
      "titel": "Jan-van-gent — 4.031",
      "kop": "Vogeltrek",
-     "bron": "landelijk, vandaag",
+     "bron": "landelijk, gisteren",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Alk/Zeekoet springt eruit — 1.482, normaal 27",
-     "bron": "55× het gewone niveau",
+     "titel": "Alk/Zeekoet springt eruit — 1.482, normaal 15",
+     "bron": "99× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Dwergmeeuw springt eruit — 417, normaal 9",
-     "bron": "46× het gewone niveau",
+     "titel": "Jan-van-gent springt eruit — 4.031, normaal 71",
+     "bron": "57× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Grauwe Pijlstormvogel springt eruit — 157, normaal 4",
-     "bron": "39× het gewone niveau",
+     "titel": "Grote Mantelmeeuw springt eruit — 1.088, normaal 36",
+     "bron": "30× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
      "sein": true
     },
     {
@@ -663,7 +664,7 @@
      "titel": "Rotgans springt eruit — 3.412, normaal 118",
      "bron": "29× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
      "sein": true
     },
     {
@@ -742,5 +743,15 @@
     }
    }
   }
+ ],
+ "archief": [
+  "2026-10-12",
+  "2026-10-11",
+  "2026-10-10",
+  "2026-10-09",
+  "2026-10-08",
+  "2026-10-07",
+  "2026-10-06",
+  "2026-10-05"
  ]
 }
