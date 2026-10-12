@@ -3,15 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "10:00",
+  "opgehaald": "11:00",
   "blokken": 11,
-  "berichten": 81,
-  "problemen": [
-   "pauw & de wit: HTTPError"
-  ],
+  "berichten": 83,
+  "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-12T10:00+02:00",
+ "opgehaald": "2026-10-12T11:00+02:00",
  "audio": "audio/20261012.mp3",
  "blokken": [
   {
@@ -19,6 +17,15 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Staking België om bezuinigingen openbare diensten: minder treinen, ook VRT staakt",
+     "context": "In België protesteren vakbonden vandaag opnieuw tegen aangekondigde bezuinigingen van de regering. De stakingsdag zal gevolgen hebben voor scholen, het openbaar vervoer en het ophalen van afval. Ook medewerkers van de Vlaamse omroep VRT leggen het werk neer. De staking is een initiatief van de socialistische vakbond ACOD. Het protest is gericht op de bezuinigingen die de regering-De Wever heeft aa",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2634660",
+     "bron": "NOS",
+     "tijd": "10:11",
+     "sorteer": "2026-10-12T10:11:52+02:00"
+    },
     {
      "titel": "Litouwen en Polen bereiden zich met oefening voor op vluchtelingencrisis",
      "context": "Litouwen en Polen werken aan plannen voor massale evacuaties voor het geval een oorlog met Rusland uitbreekt. In dat scenario houden de landen er rekening mee dat een miljoen burgers van de Baltische landen via de Suwalki-corridor willen vluchten. Deze corridor is een smalle landverbinding tussen Polen en Litouwen. Hij wordt gezien als het kwetsbaarste punt van het NAVO-grondgebied. De bekendmakin",
@@ -56,31 +63,22 @@
      "sorteer": "2026-10-12T04:30:28+02:00"
     },
     {
-     "titel": "Dode en elf gewonden bij nieuwe aanval op luchthaven Riyad",
-     "context": "Bij een nieuwe aanval op de luchthaven van Riyad is gisteren één dode gevallen en zijn elf mensen gewond geraakt. Dat meldt de Algemene Autoriteit voor Burgerluchtvaart van Saudi-Arabië (GACA) in een verklaring. Het was de vierde aanval op het vliegveld in vijf dagen. De dode heeft de Pakistaanse nationaliteit. De gewonden zijn naar het ziekenhuis gebracht. De aanval heeft ook materiële schade ver",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2634630",
-     "bron": "NOS",
-     "tijd": "01:03",
-     "sorteer": "2026-10-12T01:03:21+02:00"
-    },
-    {
-     "titel": "Drie doden en 25 gewonden door Russische raketaanval op Charkiv",
+     "titel": "EU breidt zwarte lijst uit: ruim 1.600 Russische burgers en bedrijven gesanctioneerd",
      "context": "",
      "rubrieken": [],
      "link": "https://www.volkskrant.nl/buitenland/liveblog-oekraine-zelensky-nieuws-poetin-trump~bb03466a/",
      "bron": "de Volkskrant",
-     "tijd": "08:36",
-     "sorteer": "2026-10-12T06:36:41+00:00"
+     "tijd": "10:33",
+     "sorteer": "2026-10-12T08:33:00+00:00"
     },
     {
-     "titel": "Rechter verbiedt met belastinggeld betaalde tv-spots Trump",
+     "titel": "Britse premier beticht Russen van inmenging in Brexit-referendum en waarschuwt Frankrijk en Duitsland",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-hegseth-pentagon~bcd4a5c7/",
+     "link": "https://www.volkskrant.nl/buitenland/britse-premier-beticht-russen-van-inmenging-in-brexit-referendum-en-waarschuwt-frankrijk-en-duitsland~b3767a6a/",
      "bron": "de Volkskrant",
-     "tijd": "05:59",
-     "sorteer": "2026-10-12T03:59:00+00:00"
+     "tijd": "10:10",
+     "sorteer": "2026-10-12T08:10:00+00:00"
     },
     {
      "titel": "Kallas roept VS op sancties tegen Rusland in te stellen",
@@ -90,6 +88,20 @@
      "bron": "Trouw",
      "tijd": "09:20",
      "sorteer": "2026-10-12T07:20:00+00:00"
+    },
+    {
+     "titel": "De opvolger van de Leopard 2‑tank is springlevend",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYXhwMm5ubmh6QzdUM0Vlbl9sN25sV2xHNFVUeU02YTBkMTV4RV9tNmdtbTFEel9PQm9HOGJ0YUVsT3llNkN1VDMtU2Rza0trQkpRZFBlYXU3cVViVlJ6Y2JvUkdkczItRG9hRHBWRFNtS0ZaM0syMDZTdklWX1RqS3FxWmRuUQ?oc=5",
+     "bron": "Het Financieele Dagblad",
+     "tijd": "10:55",
+     "sorteer": "2026-10-12T08:55:21+00:00"
+    },
+    {
+     "titel": "Geen enkel land ondermijnt het bestaansrecht van Israël zo vakkundig als Israël zelf",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTFBlTFAzR1ZVZ0hkWmx1SjZJVTlBeElUbUpMYnE0enJNdjVCbnE3ay04LVhmLWtyNTMxcUtVRWFZNHFmdGNFazl5am9YZVB4ZUtfbHZFN2NocWFFcEF3SDZlYWNIX2tYTS1wdlVGSDZBRXJtU0tFTDUtdEUwS3g4ZHRzWXRwb1puaHBteUI1QXFTNURRcHhIS1pYRzRnUktxd0pCbFVCb2g3d3JMQkQzdGtqb05GUU4yVGpjRkhYQQ?oc=5",
+     "bron": "Trouw",
+     "tijd": "10:25",
+     "sorteer": "2026-10-12T08:25:00+00:00"
     }
    ]
   },
@@ -135,6 +147,15 @@
      "sorteer": "2026-10-11T21:38:23+02:00"
     },
     {
+     "titel": "Albert Heijn en Etos getroffen door IT-incident, boodschappen niet bezorgd",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/binnenland/albert-heijn-en-etos-getroffen-door-it-incident-boodschappen-niet-bezorgd~b528b06d/",
+     "bron": "de Volkskrant",
+     "tijd": "10:01",
+     "sorteer": "2026-10-12T08:01:00+00:00"
+    },
+    {
      "titel": "Als het aan de provincie Limburg ligt, krijgen straks alle peuters les in Nederlands én Limburgs: ‘Onderdeel van onze identiteit’",
      "context": "",
      "rubrieken": [],
@@ -142,15 +163,6 @@
      "bron": "de Volkskrant",
      "tijd": "05:00",
      "sorteer": "2026-10-12T03:00:00+00:00"
-    },
-    {
-     "titel": "‘Ik golf nog elke week, met mijn twee vriendjes van 92 en 93 jaar’",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/ik-golf-nog-elke-week-met-mijn-twee-vriendjes-van-92-en-93-jaar~bc117488/",
-     "bron": "de Volkskrant",
-     "tijd": "21:00",
-     "sorteer": "2026-10-11T19:00:41+00:00"
     },
     {
      "titel": "SCP: Ambtenaren, praat mét mensen in moeilijke leefsituaties",
@@ -162,6 +174,20 @@
      "sorteer": "2026-10-12T05:00:00+00:00"
     },
     {
+     "titel": "De eeuwigdurende soap van het kabinet rond gokadvertenties",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTmR2cFlqak1NdkJ2T1BuQlhienprNEhrRDIyWW5raWQxYml4REZnLWYwa3p6ZVVISW9FQzJBd3VTNjJpWGlqZ2dJMjNoYXNMVVFEV0dsZnhNN2tDNmo5OUFfUHdwTnptdWN2Z1hOekZwR29GRlVSX2lHU1AxdVdsZlBIdHRoUFZrMTFTVXBiOUkyTHhTbGVfVFQyUXlzNklYVjZlVmVJOA?oc=5",
+     "bron": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+     "tijd": "10:44",
+     "sorteer": "2026-10-12T08:44:37+00:00"
+    },
+    {
+     "titel": "Veldhoven doctor charged 44,000 euros per session for illegal treatment, but pays only a 9,000-euro fine: how is that possible?",
+     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTnMzTjROQUYxdk9GakJ5UUxZZmhkd09OSGFFdldnMnkzbzRMT0NxUm9VdkZETDhQWVgxSFIzU2ZQZmI2c2hGbGFjaUVKYWF1RzF4eGlvaExxbmM5N2F4dzQ5bDQyelZicmF4WGZ5U2hHek4xMUROYXVHV0U5dGlaeDhNZlJ3ODFpYmtHMk9TWExVa3BEb3N1NzBpOXo5bURSMmhicTV4d3NuZjNMUW14ZjczRG5KWWZuLXIzdHNWM2libG5iS0plb1ItVHVpZkt6dUUzS2xaU0ZHTHlfdFV6LVhHc0RSQlNVOVkwMGFuVUZ5ZTVqNXFyVEh3?oc=5",
+     "bron": "Eindhovens Dagblad",
+     "tijd": "10:22",
+     "sorteer": "2026-10-12T08:22:59+00:00"
+    },
+    {
      "titel": "Albert Heijn kampt met ’IT-incident’, app en website uit de lucht",
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTGIySnlxOXRXM3YyQW1ZQXdKOUxocEl3YUFCXzNuUDNET1BRWlZCM2d4ZEVOSGlKd3JUTU10TjQ2MV9zY2FYNmF0ak9zVnd3Q1NBaXE5aFFxa1c5bHRLYnU2T2pwdXBfT3JLbXlvczlYcW5vUTk3THJWODRScVVzLWlZaldFU1A5U3Y0dUZtb3YxRmFZX0RGWjRYcDZSc0J1cm40RGtCbVB6QQ?oc=5",
      "bron": "Leeuwarder Courant",
@@ -169,25 +195,11 @@
      "sorteer": "2026-10-12T07:53:03+00:00"
     },
     {
-     "titel": "Nederlander (34) gearresteerd in de Dominicaanse Republiek met 25 verstopte pakketten cocaïne in koffer",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYmFteFp2TGd0TGFWX3JLeF9MQjZPdHd0RkF0Nnhyck5wRGZ0cHBNdEkyUWNFYVdPZG5XUmhoVVphemlfYnlSWWo1QXNtZDZxQUFoR3VrNFVYRjMwVlRGZjhvcWhiWGxJNHhxeGRNVzk0U21RNkdsWk45SVFTcmN4ckRQTVV5M3lKSkNwZnhJZjk1anRMYnRqM2YzdTZRYV9SSjRZeDhpYVo3MmNoY0tzTlF5cWZ5M2pMdzBmNzU4cXl2bzdwT0g0czB6b2FjT2M4UE4tM0ktaHJZMEt0NjJqWA?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "09:40",
-     "sorteer": "2026-10-12T07:40:45+00:00"
-    },
-    {
-     "titel": "Hakim had 6 shells, 10 supercobra’s en 19 kilo vuurwerk in huis",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeXdtOGhSNzRtbWU3VUItS2lyOW9PakE1SXNjOVRHQWtqZ2IweXoyakJEdmZnTkpQWExhMF9FX2Z0M19WQi1XcXVaLXRKeW5nWGk1dWJaRjVvTnF5UDV3REZ3Z3dnLV82cUZ5WmFzelVBTGgyYjFyWGZHX01GcGdfYllud1VuWjhDMnNtbjNLYzRKY0tVaDE0WDhWUl80eWJLVGV6TVFld3RmT00?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "09:29",
-     "sorteer": "2026-10-12T07:29:42+00:00"
-    },
-    {
-     "titel": "Albert Heijn, Etos en Gall & Gall getroffen door ’IT-incident’: geen bezorging online bestelde boodschappen",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQmRsVmVpS0syRUxnaDZhVnNtcEh4bWkwLTNHQ09nVGxSRk04ZTJ2UkEyRmc1UzFOZHRFc0dxSmNHX3UwT0VhUW91M2hLeFFmR2FHZk9WRFFZWmhYWmUzeVJ4cmlMQXJUSTduc210QTBVTk5ON0dBV1ZjcVlRNG9oNWwzSjB2amR1QVFzTUhvTFdKLWdzZnRkcjNuM3dnQWVEUnRmTDdScWRoRm5TRmhKclFWOV9TbGd1Sk9ZTUV2ZkxIaTRvYjEzU0lORnVIeVlLdjBRWXVGRUJ2LTk2eEE?oc=5",
-     "bron": "Leeuwarder Courant",
-     "tijd": "08:32",
-     "sorteer": "2026-10-12T06:32:58+00:00"
+     "titel": "Kabinet komt met extra onderzoeksgeld voor postcovid en wil ernstig zieken registreren",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTkc0MHljNXJRcU0yTHNvMG5HR19vci15WEtCS1k5WVdHTHJhbkR0NEpNSFowdFBzZjdwZndWeGRqS1FVWVY0UVVOZHZObG1rb0RrU2gyakpVeUtrbHYxSVYydmM2ckdJVW9Pb21yNkxLMkR6cDUwa1MwaHp6SUZhSXlXcjdaakprcVhkYWNmVGZvdG8zcG1Tanl3Y01vdUpxbml5Q3B2cw?oc=5",
+     "bron": "Nederlands Dagblad",
+     "tijd": "10:24",
+     "sorteer": "2026-10-12T08:24:00+00:00"
     },
     {
      "titel": "Heeft je kind ADHD, of is-ie toevallig de jongste van de klas?",
@@ -211,6 +223,15 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Geen eenrichtingsverkeer meer voor schepen op de IJssel",
+     "context": "Na ruim twee weken mogen schepen vanaf vandaag weer in beide richtingen over de IJssel varen. Door de lage waterstand was dat niet mogelijk en mochten schepen er maar in één richting doorheen. Dat had ook gevolgen voor schepen die naar het Twentekanaal wilden.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3705780/geen-eenrichtingsverkeer-meer-voor-schepen-op-de-ijssel",
+     "bron": "RTV Oost",
+     "tijd": "10:28",
+     "sorteer": "2026-10-12T08:28:31+00:00"
+    },
+    {
      "titel": "Bijna 90 procent Overijsselaars zegt nog geen volledig noodpakket in huis te hebben",
      "context": "Met de campagne Denk Vooruit roept de overheid Nederlanders op zich voor te bereiden op noodsituaties. Geven Overijsselaars hier gehoor aan? Volgens onderzoek van Kien in opdracht van RTV Oost blijkt dat 12,2 procent van de ondervraagden een volledig noodpakket heeft.",
      "rubrieken": [
@@ -231,10 +252,10 @@
      "sorteer": "2026-10-12T04:54:37+00:00"
     },
     {
-     "titel": "112 Nieuws: Gasleiding geraakt in Zwartsluis | Auto belandt in sloot langs N50",
+     "titel": "112 Nieuws: Fietser gewond in Rijssen | Gasleiding geraakt in Zwartsluis",
      "context": "In dit bericht houden we je op de hoogte van het laatste 112-nieuws in Overijssel. Je vindt hier een overzicht van onder meer ongelukken, branden en misdrijven van maandag 12 oktober.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3705744/112-nieuws-gasleiding-geraakt-in-zwartsluis-auto-belandt-in-sloot-langs-n50",
+     "link": "https://www.oost.nl/nieuws/3705744/112-nieuws-fietser-gewond-in-rijssen-gasleiding-geraakt-in-zwartsluis",
      "bron": "RTV Oost",
      "tijd": "06:31",
      "sorteer": "2026-10-12T04:31:32+00:00"
@@ -258,15 +279,6 @@
      "bron": "RTV Oost",
      "tijd": "20:08",
      "sorteer": "2026-10-11T18:08:40+00:00"
-    },
-    {
-     "titel": "Bijna 100 jaar oud en nog steeds in trek: Lego blijkt op deze beurs onverwoestbaar",
-     "context": "Bijna honderd jaar oud en toch tijdloos: Lego is nog altijd enorm in trek onder jong en oud in Overijssel. Dit weekend was er een grote legobeurs in Losser, waar duizenden bezoekers op afkwamen. Hier blijkt dat Lego ook met z'n tijd meegaat: het speelgoed wordt een beetje digitaler.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3705579/bijna-100-jaar-oud-en-nog-steeds-in-trek-lego-blijkt-op-deze-beurs-onverwoestbaar",
-     "bron": "RTV Oost",
-     "tijd": "19:29",
-     "sorteer": "2026-10-11T17:29:43+00:00"
     },
     {
      "titel": "Aalt Westerman viert 70 jaar als muzikant bij ’t Witte Peerd",
@@ -374,18 +386,25 @@
    "emoji": "🤖",
    "items": [
     {
-     "titel": "Topman Microsoft wil ’noodrem’ inbouwen om AI-modellen in toom te houden",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTERDcEREX1E4dHBKcXEyTV9URkd0bmhNSk5wWjh0dmFBREdlNnU0amRXY0RMZkI4dmR2Zlo0SGRHUkg4blZNalFGNExzekk0My1YZVpHdUhxUjBkY1FmZ0R3aVQzMFBsQTFra0pXSy1YcXMwbWszSDJqWk51X3RMeVRjRXBKdUVJZUREc0FmTHVpS3BmeUJuekNnZTVCMDhPUGpTWkU2VHEwdUczRW9VcVE1b3dPTDlOeXVBR0Z3?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "23:50",
-     "sorteer": "2026-10-11T21:50:00+00:00"
+     "titel": "Hoe herken je AI-gegenereerde muziek? ‘Zo’n nummer zit vol clichés en herhalingen, het kabbelt voort’",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUtJZmxYS09SR3lUYmZRamtDYTNJc0JYbEFsMG9uLXRBTUhmREdoZGxpVHJqX05RRzk4b1RYLW9FMDRMaktyOW4zMGVUdXVBQkJ2UFYyRExnMUJEME1ZZGJqWGplWmViZWltLWpqVktMTkVzNkE1UXpmVG1NazVnbjhoM1dMZEpXWFlvc0RmVzQxVTdzRmEtZ2JUWVJyTXBm?oc=5",
+     "bron": "Nederlands Dagblad",
+     "tijd": "10:34",
+     "sorteer": "2026-10-12T08:34:03+00:00"
+    },
+    {
+     "titel": "AP richt directie voor AI-toezicht op, maar er is nog altijd geen bevoegdheid",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSnFZalI0NUpwZDFqd2NGanBpN05fdW5leUg3ZkFyNEdvZEtwTDUxVVpHNWR3RV9TdVFVcXN2WFc2ZllaWVFTRUFFcGFBa0xlSmxIQlNWUjFFbE9ZMVRhTDlRREhKM1Q1dEh6WkpFT2o4a2o2OXpVc3hyc0VYYXBEYnFyblhGX3BIRlE?oc=5",
+     "bron": "iBestuur",
+     "tijd": "10:32",
+     "sorteer": "2026-10-12T08:32:00+00:00"
     },
     {
      "titel": "Nederland krijgt gigantische AI-fabriek in Rotterdamse haven: ’Dit staat nog nergens in de Europese Unie’",
      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN3JibDdSWVNtT1ROTnlfZ1FNemF0dGZpbHFqZlJ0dmZLcWt0YjJwZ29PeFViVzFhLUFEdGZEMXI1aEZwTWhtREdNZWJsWVZDWDgtUkw0YXpOM0ZOa3Q3SGkwZ1owc3VzdnNudWVNaTlrYW96WldPMkJvTlQ0dkx4ZHpSVlNJLTZtNXZMMUdIcW1aa1RHZmNzYU1YUXJzU3h2VVR1cC1ZM2Fpd2RPWFA2Q3lraVB5dndMLVp5b0RXcXVVZW56TFluQUpDbFBmaEhpZUFCdUZjVTBWWmRKZkpGeFJFZmFVQlVK?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "09:31",
-     "sorteer": "2026-10-12T07:31:24+00:00"
+     "tijd": "10:32",
+     "sorteer": "2026-10-12T08:32:03+00:00"
     }
    ]
   },
@@ -411,12 +430,12 @@
      "sorteer": "2026-10-12T09:39:23.653+02:00"
     },
     {
-     "titel": "Motie van het lid Dobbe over een wapenembargo instellen tegen de Israëlische regering",
+     "titel": "Motie van de leden Wiersma en Schutz over onderzoeken hoe kleine brandstofpunten met alternatieve maatregelen aan de milieu- en…",
      "bron": "Motie",
      "kop": "Brieven en moties",
      "tijd": "08-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49983",
-     "sorteer": "2026-10-12T09:18:59.85+02:00"
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49976",
+     "sorteer": "2026-10-12T10:48:27.967+02:00"
     },
     {
      "titel": "Implementatie van Richtlijn (EU) 2024/1203 van het Europees Parlement en de Raad van 11 april 2024 inzake de…",
@@ -586,9 +605,9 @@
      "titel": "Notenkraker",
      "kop": "Zeldzaamheden",
      "bron": "Gelderland",
-     "tijd": "08:30",
+     "tijd": "09:58",
      "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-12T08:30:00+02:00"
+     "sorteer": "2026-10-12T09:58:00+02:00"
     },
     {
      "titel": "Daurische Klauwier",
@@ -623,50 +642,42 @@
      "sorteer": "2026-10-11T13:00:00+02:00"
     },
     {
-     "titel": "Dwerggors",
-     "kop": "Zeldzaamheden",
-     "bron": "Friesland",
-     "tijd": "10:18",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-11T10:18:00+02:00"
-    },
-    {
-     "titel": "Landelijk vandaag: 123 soorten, 99.148 vogels geteld",
+     "titel": "Landelijk vandaag: 140 soorten, 188.035 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Vink — 63.774",
+     "titel": "Vink — 128.441",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Spreeuw — 9.689",
+     "titel": "Spreeuw — 15.010",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Kolgans — 3.801",
+     "titel": "Graspieper — 6.380",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Graspieper — 3.344",
+     "titel": "Kolgans — 5.793",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Kneu — 2.846",
+     "titel": "Kneu — 4.631",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -674,39 +685,39 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Rotgans springt eruit — 932, normaal 118",
-     "bron": "8× het gewone niveau",
+     "titel": "Goudplevier springt eruit — 1.537, normaal 121",
+     "bron": "13× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
-     "sein": false
+     "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Rietgors springt eruit — 842, normaal 147",
-     "bron": "6× het gewone niveau",
+     "titel": "Lepelaar springt eruit — 146, normaal 12",
+     "bron": "12× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
-     "sein": false
+     "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Pijlstaart springt eruit — 558, normaal 131",
-     "bron": "4× het gewone niveau",
+     "titel": "Rietgors springt eruit — 1.521, normaal 147",
+     "bron": "10× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
-     "sein": false
+     "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Keep springt eruit — 1.233, normaal 295",
-     "bron": "4× het gewone niveau",
+     "titel": "Rotgans springt eruit — 1.067, normaal 118",
+     "bron": "9× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
      "sein": false
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Rustig gisteren — 19 meldingen, samen 441 vogels",
+     "titel": "Rustig gisteren — 20 meldingen, samen 3441 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -721,8 +732,8 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "11 meldingen vertrek uit het noorden",
-     "bron": "DE 10, SE 1",
+     "titel": "12 meldingen vertrek uit het noorden",
+     "bron": "DE 11, SE 1",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -759,12 +770,12 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 9.1,
-    "gevoel": 9.1,
-    "wind": "ZZW 1",
+    "nu": 11.7,
+    "gevoel": 11.7,
+    "wind": "ZW 1",
     "station": "Heino",
     "bericht": "Het weer ziet er deze week helemaal niet verkeerd uit. Op de meeste dagen zijn er zonnige perioden. Morgen en ook vrijdag is het wel bewolkt en valt er af en toe wat lichte regen of motregen.",
-    "vandaag": "Vanochtend komt slechts lokaal wat nevel of een mistbank voor. Alleen in het noorden van het land valt vanochtend nog plaatselijk een buitje, maar die kans neemt in de loop van de ochtend verder af.",
+    "vandaag": "Vanochtend is het fraai weer met veel zon en blijft het vrijwel overal droog. Vanmiddag is er flink wat zon en blijft het droog.",
     "temperatuur": "De middagtemperatuur varieert van 16 graden in het Waddengebied tot 17 graden in het midden van het land.",
     "dalfsen": {
      "zin": "Voor Dalfsen zelf: 5 tot 15 graden, 4% kans op neerslag, ruim 10 uur zon, wind uit het zuiden, kracht 3.",
