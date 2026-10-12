@@ -3,15 +3,15 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "14:00",
+  "opgehaald": "15:00",
   "blokken": 11,
   "berichten": 85,
   "problemen": [
-   "pauw & de wit: timeout"
+   "npo eva: HTTPError"
   ],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-12T14:00+02:00",
+ "opgehaald": "2026-10-12T15:00+02:00",
  "audio": "audio/20261012.mp3",
  "blokken": [
   {
@@ -20,8 +20,8 @@
    "emoji": "🌍",
    "items": [
     {
-     "titel": "Hoogste NAVO-militair wil aanval van 'vijand tegenhouden, afzwakken en breken'",
-     "context": "\"We zullen een aanval van de vijand tegenhouden, hem verzwakken als hij aanhoudt en uiteindelijk het operationeel gevechtssysteem uitschakelen.\" Dat is de boodschap van de Amerikaanse opperbevelhebber van de NAVO, generaal Alexus Grynkewich, op de veiligheidstop in Warschau. Hij zei erbij dat hij hoopt dat het nooit zover hoeft te komen en dat hij vooral wilde geruststellen en afschrikken. \"Een co",
+     "titel": "Hoogste NAVO-militair: 'Bij aanval vijand tegenhouden, afzwakken en breken'",
+     "context": "\"We zullen een aanval van de vijand tegenhouden, hem afzwakken als hij aanhoudt en uiteindelijk het operationeel gevechtssysteem uitschakelen.\" Dat is de boodschap van de Amerikaanse opperbevelhebber van de NAVO, generaal Alexus Grynkewich, op de veiligheidstop in Warschau. Hij zei erbij dat hij hoopt dat het nooit zover hoeft te komen en dat hij vooral wilde geruststellen en afschrikken. \"Een con",
      "rubrieken": [],
      "link": "https://nos.nl/l/2634678",
      "bron": "NOS",
@@ -65,29 +65,31 @@
      "sorteer": "2026-10-12T12:23:13+02:00"
     },
     {
-     "titel": "VS dreigen met wapenblokkade als Oekraïne niet stopt met aanvallen op Russische olieraffinaderijen",
+     "titel": "‘De koeienbel zit nu in mijn handtas, voor als ik onder het puin beland – al veroorzaakt het alleen angst bij me’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/liveblog-oekraine-zelensky-nieuws-poetin-trump~bb03466a/",
+     "link": "https://www.volkskrant.nl/buitenland/de-koeienbel-zit-nu-in-mijn-handtas-voor-als-ik-onder-het-puin-beland-al-veroorzaakt-het-alleen-angst-bij-me~b4ba4bc2/",
      "bron": "de Volkskrant",
-     "tijd": "12:47",
-     "sorteer": "2026-10-12T10:47:00+00:00"
+     "tijd": "14:48",
+     "sorteer": "2026-10-12T12:48:18+00:00"
     },
     {
-     "titel": "Kremlin wil niet zeggen of energiebestand met Kyiv van kracht is",
+     "titel": "WSJ: Saoedi-Arabië heeft grote moeite met luchtverdediging",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/live-oorlog-oekraine-kremlin-wil-niet-zeggen-of-energiebestand-met-kyiv-van-kracht-is~ba2815bb/",
-     "bron": "Trouw",
-     "tijd": "12:51",
-     "sorteer": "2026-10-12T10:51:00+00:00"
+     "link": "https://www.volkskrant.nl/buitenland/middenoosten-liveblog-iran-houthi-yemen-saoediarabie-vs~ba2c7027/",
+     "bron": "de Volkskrant",
+     "tijd": "14:33",
+     "sorteer": "2026-10-12T12:33:00+00:00"
     },
     {
-     "titel": "Op langere termijn daalt de vraag naar nieuwe woningen juist: ‘Wees voorzichtig met bouwplannen’",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT05YWFA5SHJxX2RhYXVSaW1hVURVcFhSZjNvNWdTX3pJRTRvWGtZQ3Mta0NmRjVmSElYdXZDd3hGLXk1U0FELWxab0FpYzJYbmttZWZnbGhpNHU2S2w1NTdZcEZxVzEyM05CSlJrdE5kUWc3WHhVR3U5ZHgwZFRaM0J2Ml9KR1NWc2M0N0VlYjVHcElfRkRiQzRaMzFmeWV3U2xWYnVuaExobWdtRmtFWm9ZRmpQY0tXcG5lZDF6YmM1R3hDV1JUMDhla2IwNmtX?oc=5",
+     "titel": "‘Overwinningsstrategie’ NAVO: blokkeren, bot maken en breken",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.trouw.nl/buitenland/overwinningsstrategie-navo-blokkeren-bot-maken-en-breken~b7634e86/",
      "bron": "Trouw",
-     "tijd": "12:02",
-     "sorteer": "2026-10-12T10:02:01+00:00"
+     "tijd": "14:37",
+     "sorteer": "2026-10-12T12:37:00+00:00"
     }
    ]
   },
@@ -133,13 +135,13 @@
      "sorteer": "2026-10-12T01:32:41+02:00"
     },
     {
-     "titel": "Strand Scheveningen tijd lang afgezet: 'zeemijn' blijkt ongevaarlijke stalen bal",
-     "context": "In Scheveningen is gisteravond uren onderzoek gedaan naar een aangespoelde bal waarvan gevreesd werd dat het een oude zeemijn was. Uiteindelijk bleek het een ongevaarlijke stalen bal te zijn. Op beelden is te zien hoe de Explosieven Opruimingsdienst Defensie te werk ging: De metalen bal spoelde zondag rond 15.00 uur aan op het strand. Voorbijgangers waarschuwden de politie, die met meerdere eenhed",
+     "titel": "NS, ProRail en 113 starten nieuwe campagne om suïcides op het spoor terug te dringen",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2634629",
-     "bron": "NOS",
-     "tijd": "00:08",
-     "sorteer": "2026-10-12T00:08:32+02:00"
+     "link": "https://www.volkskrant.nl/binnenland/ns-prorail-en-113-starten-nieuwe-campagne-om-suicides-op-het-spoor-terug-te-dringen~bbbfe1b4/",
+     "bron": "de Volkskrant",
+     "tijd": "14:07",
+     "sorteer": "2026-10-12T12:07:00+00:00"
     },
     {
      "titel": "Albert Heijn en Etos getroffen door IT-incident, boodschappen niet bezorgd",
@@ -151,15 +153,6 @@
      "sorteer": "2026-10-12T08:01:00+00:00"
     },
     {
-     "titel": "Als het aan de provincie Limburg ligt, krijgen straks alle peuters les in Nederlands én Limburgs: ‘Onderdeel van onze identiteit’",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/als-het-aan-de-provincie-limburg-ligt-krijgen-straks-alle-peuters-les-in-nederlands-en-limburgs-onderdeel-van-onze-identiteit~b5eda9dd/",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-10-12T03:00:00+00:00"
-    },
-    {
      "titel": "Vrouwen met klachten voelen zich vaak niet serieus genomen in de zorg",
      "context": "",
      "rubrieken": [],
@@ -169,25 +162,25 @@
      "sorteer": "2026-10-12T10:30:18+00:00"
     },
     {
-     "titel": "Vrouw dagenlang vastgehouden, zwaar mishandeld en gedumpt langs A12: nu blijkt ex-partner ook slachtoffer van Mustafa el B.",
-     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPSUtuLUdRbHhIa1BrMmFaeUtja2NFcE5SZ1IzY3pzVHVVZHc2Qk5RNW1GTXg5Z21UNUJyX1cyWW11eHdQMmc3aE5YdzlBWkRCb3Vzb2p5OXpiNmk5V0RMbzRzd2l4WmpxaTczcnJPY1hEX2JtTGxOTHUybGJMLUFYUnBfQk5XNk9VUlVza0I3d29DRzh6aU8xSEFXUWZsU00yNkJtZEFya2MydVAzNkZzSkJVTVVkakl4ZWlFTE5TWkhPQWRZRVJqR25iVHFiV1BTdjdkQmRWb19uYkg2NHVjRWYzT2Q4NjBlTTdBakp5dlU2RmV6N1dTUko3TEJueUItU1poZGpzQ2N0UQ?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "13:05",
-     "sorteer": "2026-10-12T11:05:59+00:00"
-    },
-    {
-     "titel": "Nederlander wil vliegtuig pakken naar Parijs, reiskoffer blijkt vol gesmokkelde cocaïne te zitten",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSE1KVzRoTDRmaFB3blpyTTI0a0VBa3Q1LVRkRGx6Y1hVODAyYzJLNml5NHJ1cHNGMTE1UkN1UklOSmVIRlhZQzg0bklIZXlhOENZYWNjUUJNdlRBU1Eyb3c0aVpHXy1BaHA0X2ZQQjZIZG1BVHF6OC1Gcm8zNVloa0ZxQURiY3ktZHliQU4yREJrRG4xYWQ5MEVjMDJtUk0tcmJta2x5d3FzZ0cwZnM0bVZpVFdabjFEblBHV1BHd3ZvOWwxcFI1cmsxLVVCN3lU?oc=5",
+     "titel": "Laatste kans voor man die Henk Bos (62) doodsloeg en beroofde: ‘Ben niet van plan het te verpesten’",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRmg3RDRmT1duMTVCR0RITTZIbEZKS2F0Vkpnd3hldEd1R1JGOW51RTZ6Mk9pdFFranZhbVJOeWZoZHdiMUZzVnhTeHhPbEZfZGoxdklNLVJDRE9ENm42dk9Qa2dpV2RGN2tIdl9ScjdwTmFmVllkMVdndDJ1WVlzanB4RjFTby12dlVTMF90amVmSGI2YjBINXFSdWEyTmlXSkhoT2hJc1E4YnhOVXJMVm45SElWTlRlS3lxcEZFU0hpZndja2lkUUJPOA?oc=5",
      "bron": "AD.nl",
-     "tijd": "13:00",
-     "sorteer": "2026-10-12T11:00:38+00:00"
+     "tijd": "14:28",
+     "sorteer": "2026-10-12T12:28:02+00:00"
     },
     {
      "titel": "Twee broers persten mannen af die dachten date te hebben met een 15-jarig meisje: 4 jaar celstraf",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYkozR0lrLTh2Q2YtbmhpUFBaQlRmaXMtRDZmOVFzd25kUGhEV04xcDFKN29kSUUtcWw2Y3J5dGZyLV9sQjVBNUsyOHJlZ3lLbG9nM2tVQVNTOTltUUJGajU5YjZ2SEFQbHh5b0VKMjJnUDBuR2FXX2NyZlVLakNrYi1Yc1EtYkxMRHp0Uk1fVEpsUElnVENhbkpQNDFUZjdIVzJWNkhjVVVhZHVpYmM2VThfUDNaYVI3SW9OYlEyMkxIbExfLTdLcmtoaXEtM3cwZUhwOA?oc=5",
-     "bron": "Het Parool",
-     "tijd": "13:00",
-     "sorteer": "2026-10-12T11:00:00+00:00"
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWTlDR0Z4QUQySTI0UlhLQXNQS0sxWE9mdDJxZ1dnUXlOSzdYbWNxZXpMV1ZudWVoNnAxN0xKVmlnRnJ4TXk4ODJSNmxKYThHWDNrWVhJc2V4RFpKYkNENXFUbmU1Szd6bWYwZHZ3N212Ukxzak1TMDBHRmFrZ0M3LXJKRDUwV2lqZFJsemFiM2Nfa1Z1S3BERE5Ua25OcDAwNl80RDhWM1VNaG8wUHl2NTgwb1Z3YkJpblJRMTUtc0VDVlQ1SGpWUElqZkxmREsw?oc=5",
+     "bron": "AD.nl",
+     "tijd": "14:04",
+     "sorteer": "2026-10-12T12:04:38+00:00"
+    },
+    {
+     "titel": "Voorstelling van Martijn Crins in Theater Hofpoort Coevorden gaat niet door",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGlVRVBRazlWa2RTclhEeDdwU0RBU1VPRkVQQWpqYjVjbUIwamNIZlhUNDdudk1YcERzak9QWklQY1hseWJjTGVmLWRfUHpPMDRtUE56Q0pOaE5zZFYtN2dIWmJ5a0U3Z21KbDVndDhOcEU3Si1YODBtYjdNMHJ3cUJnd2hLTUxSMHF4Q3puWmhmMkZlcE5TZm9yQlRYNEIzc0tUM2RpQVJWWHA0UTQtYlItVQ?oc=5",
+     "bron": "AD.nl",
+     "tijd": "14:41",
+     "sorteer": "2026-10-12T12:41:40+00:00"
     },
     {
      "titel": "Heeft je kind ADHD, of is-ie toevallig de jongste van de klas?",
@@ -202,6 +195,16 @@
      "bron": "De Correspondent · Valentijn De Hingh",
      "tijd": "05:45",
      "sorteer": "2026-10-12T03:45:05+00:00"
+    },
+    {
+     "titel": "Nieuwsuur: Toespraak hoogste NAVO-militair • NS-campagne tegen zelfdoding spoor",
+     "context": "Toespraak hoogste NAVO-militair We zullen een aanval van de vijand tegenhouden, hem afzwakken als hij aanhoudt en uiteindelijk het operationeel gevechtssysteem uitschakelen.\" Dat is de boodschap van de Amerikaanse opperbevelhebber van de NAVO, generaal Alexus Grynkewich, op de veiligheidstop in Warschau. De militair commandant van het bondgenootschap, die de naam Rusland tijdens zijn toespraak nie",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2634684",
+     "bron": "NOS",
+     "tijd": "",
+     "sorteer": "21:30",
+     "kop": "Vanavond op tv"
     }
    ]
   },
@@ -269,30 +272,28 @@
      "sorteer": "2026-10-11T19:04:32+00:00"
     },
     {
-     "titel": "Komkommertijd? Dalfsen zit vol mooie verhalen!",
-     "context": "DALFSEN – In de pers noemen ze het ‘komkommertijd’ als er even minder nieuws te melden is. Meestal denken we daarbij aan de zomer, wanneer veel mensen op vakantie zijn en het verenigingsleven op een lager pitje draait. Maar ook zoals nu, in de herfstvakantie. Maar minder groot nieuws betekent natuurlijk niet dat er niets […]",
+     "titel": "Kidsconcert verzorgt door Excelsior en meer",
+     "context": "DALFSEN – Afgelopen zaterdag, 10 oktober, verzorgde muziekvereniging Excelsior Dalfsen een kidsconcert in het Emmagebouw in Dalfsen. Er werd muziek gemaakt, gedanst, bewonderd en vooral veel plezier gemaakt. Het was een geslaagde middag. Na afloop van dit concert is er een buitengewone algemene ledenvergadering gehouden in clubgebouw ‘De Vier Gezichten’ met één agendapunt, namelijk […]",
      "rubrieken": [
       "Dalfsen",
       "Ingezonden bericht",
       "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/554283/komkommertijd-dalfsen-zit-vol-mooie-verhalen.html",
+     "link": "https://www.dalfsennet.nl/nieuws/554295/kidsconcert-verzorgt-door-excelsior-en-meer.html",
      "bron": "DalfsenNet",
-     "tijd": "12:40",
-     "sorteer": "2026-10-12T10:40:04+00:00"
+     "tijd": "14:53",
+     "sorteer": "2026-10-12T12:53:39+00:00"
     },
     {
-     "titel": "Femmie met spinnenwebben aan de slag",
-     "context": "NIEUWLEUSEN – Gisteren stond er op DalfsenNet een leuk stukje over spinnenwebben. Daar ben ik vanmorgen ook mee aan de slag gegaan. Ik heb geprobeerd wat onscherpe foto’s te maken. Zelf vind ik dat erg apart: je houdt ervan of niet. Zo ontstaat een mooie bokeh door het zonlicht en de waterdruppels. Femmie Smink",
+     "titel": "Apres ski – BINGO – ’t Asje",
+     "context": "Een avond vol bingo, muziek en gezelligheid! zaterdag 24 oktober om 19.30 uur Leuke prijzen te winnen, voor de persoon met de leukste apres ski outfit een extra prijs dus leef je uit! & dansen bij ’t Asje zaterdag 21 November 21:00 uur reserveer via: info@auberge-asje.nl ’t Asje www.auberge-asje.nl 0529-431181 Haersolteweg 15 ,Dalfsen",
      "rubrieken": [
-      "Ingezonden bericht",
-      "Laatste nieuws",
-      "Nieuwleusen"
+      "Ingezonden bericht"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/554277/femmie-met-spinnenwebben-aan-de-slag.html",
+     "link": "https://www.dalfsennet.nl/nieuws/554287/apres-ski-bingo-t-asje.html",
      "bron": "DalfsenNet",
-     "tijd": "12:03",
-     "sorteer": "2026-10-12T10:03:03+00:00"
+     "tijd": "14:45",
+     "sorteer": "2026-10-12T12:45:10+00:00"
     }
    ]
   },
@@ -373,6 +374,13 @@
    "emoji": "🤖",
    "items": [
     {
+     "titel": "Eerste klant voor geplande AI-fabriek in Rotterdamse haven",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcGphTGZTQzQ0cERNNFdtX0I5c0pRLXg4R3NPdzFXYlNXSUNUanJBVFhKR21pSUd4dVdHeXdvcm1HbWJGX2xzUGZQczh1eEFYVERQOUpVaENNeFRFVlpzSjZKMDZYRm9VVTlxVUxDdEJFekJKczJENXRxRjJRNGg1VHRhZkdNWnF1ZWtrczJKbHI4UDIzRFBta3hySE1wcEk0bFZzaEZYWk9kQlhyWjVvWFZLX2lZS19CbEVnSg?oc=5",
+     "bron": "AG Connect",
+     "tijd": "14:40",
+     "sorteer": "2026-10-12T12:40:38+00:00"
+    },
+    {
      "titel": "10 minuten AI gebruiken maakt je al minder volhardend",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFAwbG1UbDFVUmJVSG1oLS1CSE1lQm41MENPZlFqeTBVbHFmTjdHMld1TW1VQ0E5WFJzaDhfT0NHaE85d1RPLTZxYmNpSl90S2JxNGI3XzlqeE5PV2ZremJ4YVB2MnozcnRNMkZlcTlxRV84X1Nhbm16bHc0U2ZJNThCbVY1Yk5sakxLVndIMFBRSi1FcGpOVTllVQ?oc=5",
      "bron": "Bright",
@@ -380,25 +388,18 @@
      "sorteer": "2026-10-12T11:41:02+00:00"
     },
     {
+     "titel": "Foutmarge bij aanvallen op Gaza kan nooit de schuld zijn van AI",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORlFkakZoeS04V2VaZ3RyZmI4dW1fR3dZTk5xcDVweXpMay16X001azdZazd5Y2hRNnQwUGtDUXhidWVJVUxHVGxyS3I1clZYZFc4dUoxcUVQU0VkMDVHdUF5N1g2ZGhPWjY2SFdWeUNvaXZqOUJmQ1hHcnA4c1pBNGdkSkgyY20zSVdBR0dNUlp1T3pxY0lvMV9lajZIQ3FJRnJNaGVn?oc=5",
+     "bron": "AD.nl",
+     "tijd": "13:29",
+     "sorteer": "2026-10-12T11:29:51+00:00"
+    },
+    {
      "titel": "AP richt directie voor AI-toezicht op, maar er is nog altijd geen bevoegdheid",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMm5uY2FUN2JPMUxVNEtkU2V0TTc4VmpCZEtoRHpCYkJxQ1UwbXFfWjNXZ21VbGswNTdrUVRTSVhvVFEwOHQtZlVKS2dSbldOZ0xWVHFtTkgtNDhKY2N3c0pTcjVpcExOLVoxQ1ByRHo1dkdqcEkxRUc4eE5Ka0dvaVB6R1kwSGM?oc=5",
      "bron": "Binnenlands Bestuur",
      "tijd": "12:00",
      "sorteer": "2026-10-12T10:00:00+00:00"
-    },
-    {
-     "titel": "Nederland krijgt gigantische AI-fabriek in Rotterdamse haven: ’Dit staat nog nergens in de Europese Unie’",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN3JibDdSWVNtT1ROTnlfZ1FNemF0dGZpbHFqZlJ0dmZLcWt0YjJwZ29PeFViVzFhLUFEdGZEMXI1aEZwTWhtREdNZWJsWVZDWDgtUkw0YXpOM0ZOa3Q3SGkwZ1owc3VzdnNudWVNaTlrYW96WldPMkJvTlQ0dkx4ZHpSVlNJLTZtNXZMMUdIcW1aa1RHZmNzYU1YUXJzU3h2VVR1cC1ZM2Fpd2RPWFA2Q3lraVB5dndMLVp5b0RXcXVVZW56TFluQUpDbFBmaEhpZUFCdUZjVTBWWmRKZkpGeFJFZmFVQlVK?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "13:32",
-     "sorteer": "2026-10-12T11:32:03+00:00"
-    },
-    {
-     "titel": "Foutmarge bij aanvallen op Gaza kan nooit de schuld zijn van AI",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ0VEWE1NaEFpLUZ1ZGtyekRzbzNJT0FHQ09mOFk5NkVWa01ERk1UallWSGhtREh5Yl8wVzJfMlI4NVBTZEt1T3pQUFp4cVBVd3Y1eXVqSWMzTGE5SHpJWlZkMHBkMjlYZGRxTk5Ya0ozN1BCTUJWd2dSZE55TTJ1TFpRcExHZFZaVXRfQzlxSEJUUFpHMGs4alhKRUF4Mk5NXzRV?oc=5",
-     "bron": "Brabants Dagblad",
-     "tijd": "13:29",
-     "sorteer": "2026-10-12T11:29:51+00:00"
     }
    ]
   },
@@ -407,6 +408,14 @@
    "titel": "Tweede Kamer",
    "emoji": "🏛️",
    "items": [
+    {
+     "titel": "Structurele extra politiecapaciteit voor gemeenten met een aanmeldcentra",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "02-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D48128",
+     "sorteer": "2026-10-12T14:09:58.487+02:00"
+    },
     {
      "titel": "De vervolging van beledigende uitlatingen en de prioriteiten van het Openbaar Ministerie",
      "bron": "Kamervraag",
@@ -424,6 +433,14 @@
      "sorteer": "2026-10-12T09:39:23.653+02:00"
     },
     {
+     "titel": "Wetgevingsplanning asiel en migratie",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "25-09",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D46445",
+     "sorteer": "2026-10-12T14:45:05.76+02:00"
+    },
+    {
      "titel": "Reactie op toezegging gedaan tijdens het Commissiedebat over verkeersveiligheid van 21 mei 2026 inzake stikstofemissie wegverkeer",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
@@ -432,12 +449,12 @@
      "sorteer": "2026-10-12T13:54:54.01+02:00"
     },
     {
-     "titel": "Reactie op de initiatiefnota het lid Dassen  over ‘Hoe de politiek richting moet geven aan AI’",
-     "bron": "Brief van de regering",
+     "titel": "Motie van het lid Van Baarle over de ondermijning van het Internationaal Strafhof door Israël veroordelen en de Israëlische…",
+     "bron": "Motie",
      "kop": "Brieven en moties",
-     "tijd": "25-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D46392",
-     "sorteer": "2026-10-12T12:58:50.89+02:00"
+     "tijd": "08-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49999",
+     "sorteer": "2026-10-12T14:26:41.923+02:00"
     },
     {
      "titel": "Motie van de leden Wiersma en Schutz over onderzoeken hoe kleine brandstofpunten met alternatieve maatregelen aan de milieu- en…",
@@ -559,20 +576,20 @@
      "sorteer": "2026-10-12T04:45:00+00:00"
     },
     {
-     "titel": "Kan de Puntige blaashoren beter tegen de vraatzucht van rivierkreeften?",
-     "toelichting": "Rivierkreeften zijn een probleem. Vooral de Rode en de Geknobbelde Amerikaanse rivierkreeft richten fikse schade aan. Ook de slakkenstand staat onder druk, een belangrijke schakel in de voedselketen en een deel van het n",
-     "bron": "Nature Today",
-     "tijd": "14:15",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35925",
-     "sorteer": "2026-10-11T12:15:00+00:00"
-    },
-    {
      "titel": "Nog steeds zijn luzernevlinders te zien",
      "toelichting": "Luzernevlinders staan nog bekend als vrij schaars voorkomende vlinders, maar de laatste jaren worden ze veel gezien. Dat heeft vast en zeker te maken met klimaatverandering en met name opwarming. Beide soorten, de gele e",
      "bron": "Nature Today",
      "tijd": "07:00",
      "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35919",
      "sorteer": "2026-10-12T05:00:00+00:00"
+    },
+    {
+     "titel": "RAVON-dag 2026: dé ontmoetingsdag voor iedereen met interesse in reptielen, amfibieën en vissen",
+     "toelichting": "Op zaterdag 7 november 2026 is de jaarlijkse RAVON-dag in het Linnaeusgebouw op de Radboudcampus in Nijmegen. Dit is hét nationale evenement voor iedereen die gefascineerd is door reptielen, amfibieën en vissen, of je nu",
+     "bron": "Nature Today",
+     "tijd": "12:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35918",
+     "sorteer": "2026-10-12T10:00:00+00:00"
     },
     {
      "titel": "Sterkste El Niño ooit gemeten op komst: dit merken wij ervan in Nederland en België",
@@ -582,27 +599,20 @@
      "link": "https://scientias.nl/sterkste-el-nino-ooit-gemeten-op-komst-dit-merken-wij-ervan-in-nederland-en-belgie/"
     },
     {
-     "titel": "Hoe blijft schildpad Jonathan op zijn 194e zo jong? Het antwoord zit in zijn genen",
-     "toelichting": "Schildpad Jonathan, 194 jaar oud, houdt een deel van zijn genen opvallend jong. Bij enkele honderden genen is de aansturing zelfs even ordelijk als bij dieren van 5 en 12. Dat blijkt uit een analyse van zijn erfelijk mat",
-     "bron": "Scientias",
-     "tijd": "11:11",
-     "link": "https://scientias.nl/hoe-blijft-schildpad-jonathan-op-zijn-194e-zo-jong-het-antwoord-zit-in-zijn-genen/"
+     "titel": "Oil pollution is drifting into marine protected areas, report finds",
+     "toelichting": "Oil slicks from vessels and offshore oil operations repeatedly drifted into marine protected areas around the world between 2022 and 2025, a new analysis has found. The report raises concerns for important habitats for a",
+     "bron": "Mongabay (Engels)",
+     "tijd": "14:37",
+     "link": "https://news.mongabay.com/short-article/2026/10/oil-pollution-is-drifting-into-marine-protected-areas-report-finds/",
+     "sorteer": "2026-10-12T12:37:55+00:00"
     },
     {
-     "titel": "As Colombo heats up, passive cooling offers a low-energy solution — but at a cost",
-     "toelichting": "COLOMBO — Fathima Rinoza lives on the fourth floor of a 14-story apartment block in Dematagoda, a suburb of Sri Lanka’s commercial capital, Colombo. She rarely keeps the two windows in her house open for long. The heat b",
+     "titel": "Indonesia says it no longer needs forests for rice. What happens to projects underway?",
+     "toelichting": "JAKARTA — Indonesia says it no longer needs to expand rice cultivation into forest areas, but it has yet to explain what the announcement means for large-scale food and energy projects already underway in Papua and Kalim",
      "bron": "Mongabay (Engels)",
-     "tijd": "13:26",
-     "link": "https://news.mongabay.com/2026/10/as-colombo-heats-up-passive-cooling-offers-a-low-energy-solution-but-at-a-cost/",
-     "sorteer": "2026-10-12T11:26:29+00:00"
-    },
-    {
-     "titel": "Community action to protect Cambodia’s seas: Interview with commune leader Sorn Srenh",
-     "toelichting": "PHNOM PENH — In Cambodia’s Koh Sdach archipelago, where turquoise waters hide mounting environmental pressures from overfishing and plastic waste to climate change, one local leader has turned grassroots action into a mo",
-     "bron": "Mongabay (Engels)",
-     "tijd": "11:53",
-     "link": "https://news.mongabay.com/2026/10/community-action-to-protect-cambodias-seas-interview-with-commune-leader-sorn-srenh/",
-     "sorteer": "2026-10-12T09:53:15+00:00"
+     "tijd": "14:12",
+     "link": "https://news.mongabay.com/2026/10/indonesia-says-it-no-longer-needs-forests-for-rice-what-happens-to-projects-underway/",
+     "sorteer": "2026-10-12T12:12:07+00:00"
     }
    ]
   },
@@ -614,10 +624,10 @@
     {
      "titel": "Notenkraker",
      "kop": "Zeldzaamheden",
-     "bron": "Drenthe",
-     "tijd": "12:26",
+     "bron": "Flevoland",
+     "tijd": "13:22",
      "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-12T12:26:00+02:00"
+     "sorteer": "2026-10-12T13:22:00+02:00"
     },
     {
      "titel": "Humes Bladkoning",
@@ -652,50 +662,42 @@
      "sorteer": "2026-10-12T08:19:00+02:00"
     },
     {
-     "titel": "Dunsnavelnotenkraker",
-     "kop": "Zeldzaamheden",
-     "bron": "Overijssel",
-     "tijd": "18:01",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-11T18:01:00+02:00"
-    },
-    {
-     "titel": "Landelijk vandaag: 177 soorten, 465.489 vogels geteld",
+     "titel": "Landelijk vandaag: 183 soorten, 584.611 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Vink — 340.220",
+     "titel": "Vink — 415.050",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Spreeuw — 33.286",
+     "titel": "Spreeuw — 43.617",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Graspieper — 13.748",
+     "titel": "Graspieper — 16.699",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Kolgans — 10.138",
+     "titel": "Kneu — 12.968",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Veldleeuwerik — 9.758",
+     "titel": "Veldleeuwerik — 11.998",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -703,55 +705,55 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Lepelaar springt eruit — 346, normaal 12",
-     "bron": "29× het gewone niveau",
+     "titel": "Rotgans springt eruit — 3.643, normaal 118",
+     "bron": "31× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Rotgans springt eruit — 3.270, normaal 118",
-     "bron": "28× het gewone niveau",
+     "titel": "Lepelaar springt eruit — 367, normaal 12",
+     "bron": "31× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Beflijster springt eruit — 154, normaal 6",
-     "bron": "26× het gewone niveau",
+     "titel": "Beflijster springt eruit — 160, normaal 6",
+     "bron": "27× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Rietgors springt eruit — 2.953, normaal 147",
-     "bron": "20× het gewone niveau",
+     "titel": "Bonte Strandloper springt eruit — 1.869, normaal 77",
+     "bron": "24× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
      "sein": true
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Rustig vandaag — 10 meldingen, samen 13 vogels",
+     "titel": "Rustig vandaag — 16 meldingen, samen 104 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "aflopend — dag ervoor 20 · afgelopen week gemiddeld 21 per dag"
+     "vergelijking": "gelijk aan de dag ervoor (19) · afgelopen week gemiddeld 20 per dag"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "2 binnen 75 km van Dalfsen",
+     "titel": "6 binnen 75 km van Dalfsen",
      "bron": "dichtstbij: Huurner Veld - Bruine Hoopsweg, 25 km",
      "tijd": "09:31",
      "link": "https://waarneming.nl/species/19/observations/"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "6 meldingen vertrek uit het noorden",
-     "bron": "DE 6",
+     "titel": "8 meldingen vertrek uit het noorden",
+     "bron": "DE 8",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -788,15 +790,15 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 14.9,
-    "gevoel": 14.9,
-    "wind": "ZZW 2",
+    "nu": 15.3,
+    "gevoel": 15.3,
+    "wind": "ZO 2",
     "station": "Heino",
     "bericht": "Het weer ziet er deze week helemaal niet verkeerd uit voor de vakantiegangers in Regio Noord. Met uitzondering van morgen en vrijdag zijn er alle dagen zonnige perioden en blijft het droog. Verder is het vrij zacht voor de tijd van het jaar.",
     "vandaag": "Vanmiddag is er flink wat zon en blijft het droog. Vanavond neemt vanuit het westen de bewolking toe en later op de avond kan in het westen een spat regen vallen.",
     "temperatuur": "Het wordt een zachte nazomerdag met de maxima tussen 16 graden in het noordoosten tot zo'n 18 graden in het zuiden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: 5 tot 15 graden, 4% kans op neerslag, ruim 10 uur zon, wind uit het zuiden, kracht 3.",
+     "zin": "Voor Dalfsen zelf: 5 tot 15 graden, 4% kans op neerslag, ruim 10 uur zon, wind uit het zuiden, kracht 2.",
      "max": 15,
      "min": 5,
      "regenkans": 4,
