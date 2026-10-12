@@ -3,14 +3,15 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "07:39",
+  "opgehaald": "07:47",
   "blokken": 11,
-  "berichten": 79,
-  "problemen": [],
-  "audio_herkomst": "vangnet",
-  "audio_aangehaakt": "07:41"
+  "berichten": 75,
+  "problemen": [
+   "pauw & de wit: timeout"
+  ],
+  "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-12T07:39+02:00",
+ "opgehaald": "2026-10-12T07:47+02:00",
  "audio": "audio/20261012.mp3",
  "blokken": [
   {
@@ -187,15 +188,6 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Vuurwerkverkoper Janwillem vreest voor de toekomst: 'Het is allemaal onzeker'",
-     "context": "Het vuurwerkverbod zorgt bij verkopers voor onzekerheid over de verkoop, vergunningen en de toekomst van hun bedrijven. Zoals bij vuurwerkverkoper Janwillem van Wendel uit Genemuiden die alleen nog 'klein vuurwerk' inkoopt : \"Er is altijd een groep die in België of Duitsland zwaar vuurwerk koopt.\"",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3705092/vuurwerkverkoper-janwillem-vreest-voor-de-toekomst-het-is-allemaal-onzeker",
-     "bron": "RTV Oost",
-     "tijd": "06:54",
-     "sorteer": "2026-10-12T04:54:37+00:00"
-    },
-    {
      "titel": "112 Nieuws: Auto belandt in sloot langs N50 bij Kampen, bestuurder spoorloos",
      "context": "In dit bericht houden we je op de hoogte van het laatste 112-nieuws in Overijssel. Je vindt hier een overzicht van onder meer ongelukken, branden en misdrijven van maandag 12 oktober.",
      "rubrieken": [],
@@ -214,33 +206,40 @@
      "sorteer": "2026-10-11T19:04:32+00:00"
     },
     {
-     "titel": "Papa's krijgen twee kindjes met draagmoeder: 'Zo dankbaar dat het ons gegund is'",
-     "context": "Wouter en Michael uit Heino zijn al twee jaar de trotse vaders van zoon Micky. In december verwacht het stel ook nog een dochtertje. Dat is voor een groot deel te danken aan hun goede vriendin Martine Bökkers, die al voor de tweede keer zwanger is voor het stel.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3704507/papas-krijgen-twee-kindjes-met-draagmoeder-zo-dankbaar-dat-het-ons-gegund-is",
+     "titel": "Vrouw (80) uit Ootmarsum raakt 5000 euro kwijt door deze oplichter",
+     "context": "Hoodie op, telefoon in de aanslag en de bankpas van een vrouw van 80 op zak. Deze jonge man haalt in Ootmarsum 5.000 euro van de rekening van zijn slachtoffer. De 80-jarige vrouw vertrouwde op mensen die beweerden haar geld en sieraden veilig te stellen.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3702072/vrouw-80-uit-ootmarsum-raakt-5000-euro-kwijt-door-deze-oplichter",
      "bron": "RTV Oost",
-     "tijd": "20:08",
-     "sorteer": "2026-10-11T18:08:40+00:00"
+     "tijd": "18:06",
+     "sorteer": "2026-10-11T16:06:24+00:00"
     },
     {
-     "titel": "Bijna 100 jaar oud en nog steeds in trek: lego blijkt op deze beurs onverwoestbaar",
-     "context": "Bijna honderd jaar oud en toch tijdloos: lego is nog altijd enorm in trek onder jong en oud in Overijssel. Dit weekend was er een grote legobeurs in Losser, waar duizenden bezoekers op afkwamen. Hier blijkt dat lego ook met z'n tijd meegaat: het speelgoed wordt een beetje digitaler.",
+     "titel": "Rattenoverlast in binnenstad Enschede: gemeente vraagt bezoekers om een gunst",
+     "context": "Het is een van de drukste winkelpleinen van Oost-Nederland en nu ook in trek bij ratten: het Van Heekplein in Enschede. De gemeente vraagt bezoekers om geen brood en andere etensresten meer aan de vogels te geven, omdat dat ongedierte zou aantrekken.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3705579/bijna-100-jaar-oud-en-nog-steeds-in-trek-lego-blijkt-op-deze-beurs-onverwoestbaar",
+     "link": "https://www.oost.nl/nieuws/3705398/rattenoverlast-in-binnenstad-enschede-gemeente-vraagt-bezoekers-om-een-gunst",
      "bron": "RTV Oost",
-     "tijd": "19:29",
-     "sorteer": "2026-10-11T17:29:43+00:00"
+     "tijd": "14:33",
+     "sorteer": "2026-10-11T12:33:48+00:00"
     },
     {
-     "titel": "Tien jaar beloften over toegankelijkheid, maar Overijssel is er nog lang niet",
-     "context": "Tien jaar na de ondertekening van het VN-verdrag Handicap is Overijssel nog altijd niet voor iedereen toegankelijk. Gedeputeerde Martijn Dadema vertelt welke stappen de provincie zet, waar het beter moet en wanneer mensen met een beperking echt kunnen meedoen. \"We moeten hard door blijven werken.\"",
+     "titel": "Eerste Cultuurnacht Oldenzaal is experiment dat naar meer smaakt: 'Verrassend'",
+     "context": "De eerste Cultuurnacht in Oldenzaal verrast met experimenten op bijzondere locaties. Zo is er een cacao-ceremonie in een museumzaal en spelen tegelijkertijd bands op verschillende plekken in de binnenstad. \"We proberen met deze programmering onder meer een jongere doelgroep te bereiken.\"",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3704937/tien-jaar-beloften-over-toegankelijkheid-maar-overijssel-is-er-nog-lang-niet",
+     "link": "https://www.oost.nl/cultuur/3705549/eerste-cultuurnacht-oldenzaal-is-experiment-dat-naar-meer-smaakt-verrassend",
      "bron": "RTV Oost",
-     "tijd": "19:02",
-     "sorteer": "2026-10-11T17:02:42+00:00"
+     "tijd": "13:00",
+     "sorteer": "2026-10-11T11:00:01+00:00"
+    },
+    {
+     "titel": "Buurtbewoners ontdekken brand in woning Deventer",
+     "context": "Buurtbewoners ontdekten zaterdagavond een woningbrand aan de Koningspage in Deventer. Uit de woning kwam aan alle kanten rook. De bewoner bleek niet thuis te zijn.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3705532/buurtbewoners-ontdekken-brand-in-woning-deventer",
+     "bron": "RTV Oost",
+     "tijd": "08:20",
+     "sorteer": "2026-10-11T06:20:07+00:00"
     },
     {
      "titel": "Aalt Westerman viert 70 jaar als muzikant bij ’t Witte Peerd",
@@ -610,78 +609,46 @@
      "sorteer": "2026-10-11T09:09:00+02:00"
     },
     {
-     "titel": "Landelijk gisteren: 172 soorten, 80.245 vogels geteld",
+     "titel": "Landelijk vandaag: 21 soorten, 102 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Vink — 19.350",
+     "titel": "Vink — 44",
      "kop": "Vogeltrek",
-     "bron": "landelijk, gisteren",
+     "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Spreeuw — 10.123",
+     "titel": "Kolgans — 20",
      "kop": "Vogeltrek",
-     "bron": "landelijk, gisteren",
+     "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Kleine Mantelmeeuw — 9.136",
+     "titel": "Kneu — 8",
      "kop": "Vogeltrek",
-     "bron": "landelijk, gisteren",
+     "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Zwarte Zee-eend — 4.915",
+     "titel": "Blauwe Reiger — 3",
      "kop": "Vogeltrek",
-     "bron": "landelijk, gisteren",
+     "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Jan-van-gent — 4.031",
+     "titel": "Wilde Eend — 3",
      "kop": "Vogeltrek",
-     "bron": "landelijk, gisteren",
+     "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch"
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Alk/Zeekoet springt eruit — 1.482, normaal 15",
-     "bron": "99× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Jan-van-gent springt eruit — 4.031, normaal 71",
-     "bron": "57× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Grote Mantelmeeuw springt eruit — 1.088, normaal 36",
-     "bron": "30× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Rotgans springt eruit — 3.412, normaal 118",
-     "bron": "29× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261011?language=dutch",
-     "sein": true
+     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
      "kop": "Kraanvogels",
@@ -738,13 +705,20 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 6.9,
-    "gevoel": 6.9,
-    "wind": "ZZW 1",
+    "nu": 6.6,
+    "gevoel": 6.6,
+    "wind": "ZW 1",
     "station": "Heino",
     "bericht": "Het weer ziet er deze week helemaal niet verkeerd uit. Op de meeste dagen zijn er zonnige perioden. Morgen en ook vrijdag is het wel bewolkt en valt er af en toe wat lichte regen of motregen.",
     "vandaag": "Vanochtend komt slechts lokaal wat mist of een mistbank voor. Alleen in het noorden van het land valt vanochtend nog plaatselijk een buitje, maar die kans neemt in de loop van de ochtend verder af.",
     "temperatuur": "De middagtemperatuur varieert van 16 graden in het Waddengebied tot 17 graden in het midden van het land.",
+    "dalfsen": {
+     "zin": "Voor Dalfsen zelf: 5 tot 15 graden, 4% kans op neerslag, ruim 10 uur zon, wind uit het zuiden, kracht 3.",
+     "max": 15,
+     "min": 5,
+     "regenkans": 4,
+     "omschrijving": "lichte motregen"
+    },
     "vooruit": "Zonnige perioden en droog met temperaturen boven het langjarig gemiddelde. Op vrijdag neemt de bewolking toe, is er kans op regen en daalt de maximumtemperatuur waarschijnlijk naar waarden rond het langjarig gemiddelde. In de loop van het weekend wordt het geleidelijk droog en komt de zon weer tevoorschijn.",
     "omslag": "Vanaf morgen 5 graden warmer, een graad of 20.",
     "min": "6",
@@ -760,15 +734,5 @@
     }
    }
   }
- ],
- "archief": [
-  "2026-10-12",
-  "2026-10-11",
-  "2026-10-10",
-  "2026-10-09",
-  "2026-10-08",
-  "2026-10-07",
-  "2026-10-06",
-  "2026-10-05"
  ]
 }
