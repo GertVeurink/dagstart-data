@@ -3,15 +3,13 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "15:00",
+  "opgehaald": "16:00",
   "blokken": 11,
-  "berichten": 85,
-  "problemen": [
-   "npo eva: HTTPError"
-  ],
+  "berichten": 83,
+  "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-12T15:00+02:00",
+ "opgehaald": "2026-10-12T16:00+02:00",
  "audio": "audio/20261012.mp3",
  "blokken": [
   {
@@ -19,6 +17,24 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Podcast De Dag: Trump versus het Internationaal Strafhof",
+     "context": "De Amerikaanse president Trump valt het Internationaal Strafhof al tijden aan. Vrijdag voegde hij daar een nieuw hoofdstuk aan toe: de regering kondigde nieuwe sancties aan die voor het hele hof moeten gaan gelden. Over zes maanden wordt werken met of via Amerikaanse bedrijven onmogelijk gemaakt, wat vrijwel alles gaat raken bij het Strafhof. De aanvallen vanuit de VS zijn niet nieuw, Amerikanen v",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2634692",
+     "bron": "NOS",
+     "tijd": "15:24",
+     "sorteer": "2026-10-12T15:24:11+02:00"
+    },
+    {
+     "titel": "Cyberaanval treft Franse supermarkten, koelsystemen op 50 graden gezet",
+     "context": "Meerdere Franse supermarktketens zijn getroffen door een cyberaanval. Hackers hebben koelsystemen in supermarkten ontregeld. In plaats van koelen gingen die warmte afgeven; sommige systemen waren ingesteld op 50 graden boven nul. Tal van supermarkten hebben hun voorraad moeten weggooien. Honderden winkels in heel Frankrijk zijn getroffen. Het gaat om filialen van onder meer Intermarché, E.Leclerc,",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2634691",
+     "bron": "NOS",
+     "tijd": "15:20",
+     "sorteer": "2026-10-12T15:20:12+02:00"
+    },
     {
      "titel": "Hoogste NAVO-militair: 'Bij aanval vijand tegenhouden, afzwakken en breken'",
      "context": "\"We zullen een aanval van de vijand tegenhouden, hem afzwakken als hij aanhoudt en uiteindelijk het operationeel gevechtssysteem uitschakelen.\" Dat is de boodschap van de Amerikaanse opperbevelhebber van de NAVO, generaal Alexus Grynkewich, op de veiligheidstop in Warschau. Hij zei erbij dat hij hoopt dat het nooit zover hoeft te komen en dat hij vooral wilde geruststellen en afschrikken. \"Een con",
@@ -47,49 +63,38 @@
      "sorteer": "2026-10-12T12:47:16+02:00"
     },
     {
-     "titel": "Duitse minister en SPD-leider weg na aanvallen coalitiegenoot CDU in 'zware tijd'",
-     "context": "Bärbel Bas, de covoorzitter van de Duitse regeringspartij SPD, is onverwacht opgestapt. Ook legt ze haar functie als minister van Sociale Zaken en Werkgelegenheid neer. Het vertrek volgt op een sterfgeval in de familie en aanvallen op haar persoon. \"Na de dood van mijn stiefdochter besefte ik dat ik meer tijd nodig heb om het verdriet te verwerken\", schrijft Bas in een verklaring. Juist in deze \"p",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2634672",
-     "bron": "NOS",
-     "tijd": "12:47",
-     "sorteer": "2026-10-12T12:47:07+02:00"
-    },
-    {
-     "titel": "Oudste overdekte markt van Parijs verwoest door brand",
-     "context": "Een grote brand in het centrum van Parijs brand heeft de Marché des Enfants Rouges verwoest. De markt was de oudste overdekte markt van Parijs. Hoe de brand is ontstaan, is nog onduidelijk. De brand woedde vannacht. Voor het blussen werden 150 brandweerlieden ingezet en zo'n vijftig brandweervoertuigen. Brandweerlieden meldden aan de Parijse krant Le Parisien dat 1000 vierkante meter door de brand",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2634668",
-     "bron": "NOS",
-     "tijd": "12:23",
-     "sorteer": "2026-10-12T12:23:13+02:00"
-    },
-    {
-     "titel": "‘De koeienbel zit nu in mijn handtas, voor als ik onder het puin beland – al veroorzaakt het alleen angst bij me’",
+     "titel": "Amerikaanse media: autoriteiten doen inval bij bekende Democratische afgevaardigde Omar",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/de-koeienbel-zit-nu-in-mijn-handtas-voor-als-ik-onder-het-puin-beland-al-veroorzaakt-het-alleen-angst-bij-me~b4ba4bc2/",
+     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-hegseth-pentagon~bcd4a5c7/",
      "bron": "de Volkskrant",
-     "tijd": "14:48",
-     "sorteer": "2026-10-12T12:48:18+00:00"
+     "tijd": "15:55",
+     "sorteer": "2026-10-12T13:55:00+00:00"
     },
     {
-     "titel": "WSJ: Saoedi-Arabië heeft grote moeite met luchtverdediging",
+     "titel": "Opnieuw overstroming in Nepal: vijf mensen vermist, infrastructuur verwoest",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/middenoosten-liveblog-iran-houthi-yemen-saoediarabie-vs~ba2c7027/",
+     "link": "https://www.volkskrant.nl/buitenland/opnieuw-overstroming-in-nepal-vijf-mensen-vermist-infrastructuur-verwoest~b6d9b4bb/",
      "bron": "de Volkskrant",
-     "tijd": "14:33",
-     "sorteer": "2026-10-12T12:33:00+00:00"
+     "tijd": "15:41",
+     "sorteer": "2026-10-12T13:41:00+00:00"
     },
     {
-     "titel": "‘Overwinningsstrategie’ NAVO: blokkeren, bot maken en breken",
+     "titel": "Russische techgigant Yandex onder Oekraïens vuur, wat betekent dat voor de gemiddelde Rus?",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/overwinningsstrategie-navo-blokkeren-bot-maken-en-breken~b7634e86/",
+     "link": "https://www.trouw.nl/buitenland/russische-techgigant-yandex-onder-oekraiens-vuur-wat-betekent-dat-voor-de-gemiddelde-rus~b80db07e/",
      "bron": "Trouw",
-     "tijd": "14:37",
-     "sorteer": "2026-10-12T12:37:00+00:00"
+     "tijd": "15:12",
+     "sorteer": "2026-10-12T13:12:46+00:00"
+    },
+    {
+     "titel": "Opinie: Wij, jongeren, weigeren ons leven beschikbaar te stellen aan een oorlogspolitiek die wij afwijzen",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZHg1SzdrbHRjMXNIb1dWeHVteEVqM1pzbkFJZkt0anRwRk4wSVA2U01NOENMdnZBbE1UaktOblM2OUpjcE9UT3prcVFtZDh0UjhZTVVpTkdkNk5QclRxanpaVC1ldFl6bHZhQ0haU1FSajlNdi1rOEVHVGE2bUJrQ05vc0tPTFp0Y25yR01Xa1hBTVl5bzA0WlppcHlHVi1XNlZaU3J4TmRrSTFyaDJHYUdPeTB6eWo4dkxSN1IwVU91VU5HbmRwemJIcUw0OURrTllOOGZRT3pNSXJjZWlEY3FseExfaktR?oc=5",
+     "bron": "de Volkskrant",
+     "tijd": "15:34",
+     "sorteer": "2026-10-12T13:34:15+00:00"
     }
    ]
   },
@@ -98,6 +103,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Aantal abortussen in Nederland vorig jaar licht gestegen",
+     "context": "Het aantal abortussen in Nederland is in 2025 licht gestegen ten opzichte van het jaar ervoor. Dat blijkt uit jaarcijfers van de Inspectie Gezondheidszorg en Jeugd (IGJ). In totaal ondergingen 39.931 vrouwen vorig jaar een abortus, tegenover 39.438 een jaar eerder. Dat zijn er 493 meer, een stijging van 1,25 procent. De meeste zwangerschapsafbrekingen waren bij vrouwen tussen de 25 en 34 jaar: 18.",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2634688",
+     "bron": "NOS",
+     "tijd": "15:00",
+     "sorteer": "2026-10-12T15:00:17+02:00"
+    },
     {
      "titel": "Kabinet wil het dierentuinen makkelijker maken om verblijven te verbeteren",
      "context": "Er moeten nieuwe regels voor dierentuinen komen, vindt staatssecretaris Erkens van Landbouw, Visserij, Voedselzekerheid en Natuur. Dierentuinen die willen vernieuwen krijgen nu met te veel extra regels en vergunningen te maken, vindt hij. Terwijl dierentuinen die alles bij het oude laten nergens last van hebben, juist omdát ze niet innoveren. \"Dierentuinen zijn al sinds jaar en dag een geliefd uit",
@@ -117,28 +131,10 @@
      "sorteer": "2026-10-12T07:00:10+02:00"
     },
     {
-     "titel": "Explosie bij kapper Vlaardingen, mogelijk verband met 'kappersoorlog'",
-     "context": "In Vlaardingen heeft gisteravond rond 23.00 uur een explosie plaatsgevonden bij een kapperszaak. Door de explosie is er schade aan de gevel. Een winkelruit is volledig weggeblazen. De oorzaak van de explosie is niet bekendgemaakt. Op foto's is een stuk zwaar vuurwerk en een losse baksteen te zien. In Vlaardingen zijn vaker incidenten rond kapperszaken. Regionale omroep Rijnmond en het AD berichtte",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2634632",
-     "bron": "NOS",
-     "tijd": "02:59",
-     "sorteer": "2026-10-12T02:59:30+02:00"
-    },
-    {
-     "titel": "Twee doden en twee gewonden bij verkeersongeluk Kesteren",
-     "context": "Op de N233 bij Kesteren zijn bij een ernstig ongeluk gisteravond twee mensen om het leven gekomen en twee anderen gewond geraakt. Het ongeluk gebeurde kort voor 23.00 uur. Dagblad De Gelderlander meldt dat de brandweer, zes ambulances en twee traumahelikopters werden opgeroepen. Een van de auto's kwam op de kop in de berm terecht. De bestuurder van die auto is een van de dodelijke slachtoffers, al",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2634631",
-     "bron": "NOS",
-     "tijd": "01:32",
-     "sorteer": "2026-10-12T01:32:41+02:00"
-    },
-    {
-     "titel": "NS, ProRail en 113 starten nieuwe campagne om suïcides op het spoor terug te dringen",
+     "titel": "NS, ProRail en 113 lanceren nieuwe campagne om suïcides op het spoor terug te dringen",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/ns-prorail-en-113-starten-nieuwe-campagne-om-suicides-op-het-spoor-terug-te-dringen~bbbfe1b4/",
+     "link": "https://www.volkskrant.nl/binnenland/ns-prorail-en-113-lanceren-nieuwe-campagne-om-suicides-op-het-spoor-terug-te-dringen~bbbfe1b4/",
      "bron": "de Volkskrant",
      "tijd": "14:07",
      "sorteer": "2026-10-12T12:07:00+00:00"
@@ -153,34 +149,27 @@
      "sorteer": "2026-10-12T08:01:00+00:00"
     },
     {
-     "titel": "Vrouwen met klachten voelen zich vaak niet serieus genomen in de zorg",
+     "titel": "Benzineprijs sinds zaterdag op recordhoogte",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/vrouwen-met-klachten-voelen-zich-vaak-niet-serieus-genomen-in-de-zorg~b844e172/",
+     "link": "https://www.trouw.nl/binnenland/benzineprijs-sinds-zaterdag-op-recordhoogte~b5f7f86e/",
      "bron": "Trouw",
-     "tijd": "12:30",
-     "sorteer": "2026-10-12T10:30:18+00:00"
+     "tijd": "15:09",
+     "sorteer": "2026-10-12T13:09:10+00:00"
     },
     {
-     "titel": "Laatste kans voor man die Henk Bos (62) doodsloeg en beroofde: ‘Ben niet van plan het te verpesten’",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRmg3RDRmT1duMTVCR0RITTZIbEZKS2F0Vkpnd3hldEd1R1JGOW51RTZ6Mk9pdFFranZhbVJOeWZoZHdiMUZzVnhTeHhPbEZfZGoxdklNLVJDRE9ENm42dk9Qa2dpV2RGN2tIdl9ScjdwTmFmVllkMVdndDJ1WVlzanB4RjFTby12dlVTMF90amVmSGI2YjBINXFSdWEyTmlXSkhoT2hJc1E4YnhOVXJMVm45SElWTlRlS3lxcEZFU0hpZndja2lkUUJPOA?oc=5",
-     "bron": "AD.nl",
-     "tijd": "14:28",
-     "sorteer": "2026-10-12T12:28:02+00:00"
+     "titel": "Albert Heijn kampt met ’IT-incident’, app en website uit de lucht",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTGIySnlxOXRXM3YyQW1ZQXdKOUxocEl3YUFCXzNuUDNET1BRWlZCM2d4ZEVOSGlKd3JUTU10TjQ2MV9zY2FYNmF0ak9zVnd3Q1NBaXE5aFFxa1c5bHRLYnU2T2pwdXBfT3JLbXlvczlYcW5vUTk3THJWODRScVVzLWlZaldFU1A5U3Y0dUZtb3YxRmFZX0RGWjRYcDZSc0J1cm40RGtCbVB6QQ?oc=5",
+     "bron": "Leeuwarder Courant",
+     "tijd": "15:53",
+     "sorteer": "2026-10-12T13:53:04+00:00"
     },
     {
-     "titel": "Twee broers persten mannen af die dachten date te hebben met een 15-jarig meisje: 4 jaar celstraf",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWTlDR0Z4QUQySTI0UlhLQXNQS0sxWE9mdDJxZ1dnUXlOSzdYbWNxZXpMV1ZudWVoNnAxN0xKVmlnRnJ4TXk4ODJSNmxKYThHWDNrWVhJc2V4RFpKYkNENXFUbmU1Szd6bWYwZHZ3N212Ukxzak1TMDBHRmFrZ0M3LXJKRDUwV2lqZFJsemFiM2Nfa1Z1S3BERE5Ua25OcDAwNl80RDhWM1VNaG8wUHl2NTgwb1Z3YkJpblJRMTUtc0VDVlQ1SGpWUElqZkxmREsw?oc=5",
-     "bron": "AD.nl",
-     "tijd": "14:04",
-     "sorteer": "2026-10-12T12:04:38+00:00"
-    },
-    {
-     "titel": "Voorstelling van Martijn Crins in Theater Hofpoort Coevorden gaat niet door",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGlVRVBRazlWa2RTclhEeDdwU0RBU1VPRkVQQWpqYjVjbUIwamNIZlhUNDdudk1YcERzak9QWklQY1hseWJjTGVmLWRfUHpPMDRtUE56Q0pOaE5zZFYtN2dIWmJ5a0U3Z21KbDVndDhOcEU3Si1YODBtYjdNMHJ3cUJnd2hLTUxSMHF4Q3puWmhmMkZlcE5TZm9yQlRYNEIzc0tUM2RpQVJWWHA0UTQtYlItVQ?oc=5",
-     "bron": "AD.nl",
-     "tijd": "14:41",
-     "sorteer": "2026-10-12T12:41:40+00:00"
+     "titel": "Reanimatie op Hugo de Grootstraat in Arnhem",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSHFaMWZyQnRSemltWXpPOG05eFJDRUJvcHBkREg4dTNzaGJHNFUydk1YYTIyTWM5ZGY2OXR3N0JPYTlZeUlxZzRKMl82YU1rcHpwQUhTQThxM1JKSmlXazNqVllBQjJnN0RaLXVkZUxlVnA2N19hREk2SFhPRzV5NV9wZVZTai1ZaXFGXzFVT3RXRDhSa3pKdHJmTV9zRU11?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "15:52",
+     "sorteer": "2026-10-12T13:52:33+00:00"
     },
     {
      "titel": "Heeft je kind ADHD, of is-ie toevallig de jongste van de klas?",
@@ -213,6 +202,15 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Verdachte wurgmoord op man in rolstoel ook vervolgd voor schokkende zedenzaak",
+     "context": "De 43-jarige Almeloër, die wordt verdacht van de wurgmoord in een Duits hotel, blijft voorlopig in Nederland achter de tralies. Hij blijkt in Nederland verdachte in een schokkende zedenzaak. Reden waarom hij voorlopig niet aan Duitsland wordt overgeleverd. Volgens Duitse justitie wurgde hij afgelopen juli een rolstoelgebonden man uit Enschede.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3705884/verdachte-wurgmoord-op-man-in-rolstoel-ook-vervolgd-voor-schokkende-zedenzaak",
+     "bron": "RTV Oost",
+     "tijd": "15:18",
+     "sorteer": "2026-10-12T13:18:52+00:00"
+    },
     {
      "titel": "Legendarische politie-Porsche wordt geveild: vorige bracht recordbedrag op",
      "context": "Het is één van de meest iconische auto's die ooit op de Nederlandse wegen reed: de Porsche 911 van de vroegere Rijkspolitie. Er zijn er maar een paar bewaard gebleven. Deze zomer werd er één geveild en dat leverde een recordbedrag op. Nu biedt een verzamelaar uit Borne zijn bolide te koop aan.",
@@ -263,37 +261,30 @@
      "sorteer": "2026-10-12T04:31:32+00:00"
     },
     {
-     "titel": "Politiebureau in Enschede verlicht in kleuren van regenboogvlag",
-     "context": "Politie Enschede heeft vanavond de gevel van het politiebureau verlicht in de kleuren van de regenboogvlag. Dat doet de politie, omdat 11 oktober Coming-Out Day is. De dag moet symboliseren dat iedereen zichzelf kan zijn en er wordt extra stilgestaan bij mensen die uit de kast willen komen.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3705637/politiebureau-in-enschede-verlicht-in-kleuren-van-regenboogvlag",
-     "bron": "RTV Oost",
-     "tijd": "21:04",
-     "sorteer": "2026-10-11T19:04:32+00:00"
+     "titel": "Protestactie jongeren gaf aanzet tot tien starterswoningen in Hoonhorst",
+     "context": "HOONHORST – Een protestactie met spandoeken vormde de aanzet tot de bouw van tien starterswoningen in Hoonhorst. Maandagochtend gaven de toekomstige bewoners op de bouwplaats aan de Hoge Belt, een zijstraat van de Marsweg, het symbolische startsein voor het bouwproject De Koele II. Daarmee krijgen tien jonge gezinnen de kans om in hun eigen dorp […]",
+     "rubrieken": [
+      "Hoonhorst",
+      "Laatste nieuws",
+      "Regio"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/554302/protestactie-jongeren-gaf-aanzet-tot-tien-starterswoningen-in-hoonhorst.html",
+     "bron": "DalfsenNet",
+     "tijd": "15:29",
+     "sorteer": "2026-10-12T13:29:37+00:00"
     },
     {
-     "titel": "Kidsconcert verzorgt door Excelsior en meer",
-     "context": "DALFSEN – Afgelopen zaterdag, 10 oktober, verzorgde muziekvereniging Excelsior Dalfsen een kidsconcert in het Emmagebouw in Dalfsen. Er werd muziek gemaakt, gedanst, bewonderd en vooral veel plezier gemaakt. Het was een geslaagde middag. Na afloop van dit concert is er een buitengewone algemene ledenvergadering gehouden in clubgebouw ‘De Vier Gezichten’ met één agendapunt, namelijk […]",
+     "titel": "Mooie herfst tekst",
+     "context": "DALFSEN – Een inzending van Janny Meedendorp:",
      "rubrieken": [
       "Dalfsen",
       "Ingezonden bericht",
       "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/554295/kidsconcert-verzorgt-door-excelsior-en-meer.html",
+     "link": "https://www.dalfsennet.nl/nieuws/554303/mooie-herfst-tekst.html",
      "bron": "DalfsenNet",
-     "tijd": "14:53",
-     "sorteer": "2026-10-12T12:53:39+00:00"
-    },
-    {
-     "titel": "Apres ski – BINGO – ’t Asje",
-     "context": "Een avond vol bingo, muziek en gezelligheid! zaterdag 24 oktober om 19.30 uur Leuke prijzen te winnen, voor de persoon met de leukste apres ski outfit een extra prijs dus leef je uit! & dansen bij ’t Asje zaterdag 21 November 21:00 uur reserveer via: info@auberge-asje.nl ’t Asje www.auberge-asje.nl 0529-431181 Haersolteweg 15 ,Dalfsen",
-     "rubrieken": [
-      "Ingezonden bericht"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/554287/apres-ski-bingo-t-asje.html",
-     "bron": "DalfsenNet",
-     "tijd": "14:45",
-     "sorteer": "2026-10-12T12:45:10+00:00"
+     "tijd": "15:27",
+     "sorteer": "2026-10-12T13:27:16+00:00"
     }
    ]
   },
@@ -425,12 +416,20 @@
      "sorteer": "2026-10-12T07:47:47.797+02:00"
     },
     {
-     "titel": "Antwoord op vragen van het lid Dassen over het bericht ‘OM vervolgt Tata Steel strafrechtelijk voor opzettelijk vervuilen’",
+     "titel": "Antwoord op vragen van het lid Van Houwelingen over mogelijke contacten tussen de NCTV en journalisten",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
-     "tijd": "31-08",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D39939",
-     "sorteer": "2026-10-12T09:39:23.653+02:00"
+     "tijd": "01-09",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D40053",
+     "sorteer": "2026-10-12T15:28:35.353+02:00"
+    },
+    {
+     "titel": "Inwerkingtreding verruimd kader Mobiel Toezicht Veiligheid (MTV)",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "24-09",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D46063",
+     "sorteer": "2026-10-12T15:13:47.253+02:00"
     },
     {
      "titel": "Wetgevingsplanning asiel en migratie",
@@ -439,14 +438,6 @@
      "tijd": "25-09",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D46445",
      "sorteer": "2026-10-12T14:45:05.76+02:00"
-    },
-    {
-     "titel": "Reactie op toezegging gedaan tijdens het Commissiedebat over verkeersveiligheid van 21 mei 2026 inzake stikstofemissie wegverkeer",
-     "bron": "Brief van de regering",
-     "kop": "Brieven en moties",
-     "tijd": "30-06",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D33961",
-     "sorteer": "2026-10-12T13:54:54.01+02:00"
     },
     {
      "titel": "Motie van het lid Van Baarle over de ondermijning van het Internationaal Strafhof door Israël veroordelen en de Israëlische…",
@@ -599,20 +590,20 @@
      "link": "https://scientias.nl/sterkste-el-nino-ooit-gemeten-op-komst-dit-merken-wij-ervan-in-nederland-en-belgie/"
     },
     {
-     "titel": "Oil pollution is drifting into marine protected areas, report finds",
-     "toelichting": "Oil slicks from vessels and offshore oil operations repeatedly drifted into marine protected areas around the world between 2022 and 2025, a new analysis has found. The report raises concerns for important habitats for a",
+     "titel": "First Nation-led effort replants kelp forests in Clayoquot Sound",
+     "toelichting": "Founder’s Briefs: An occasional series where Mongabay founder Rhett Ayers Butler shares analysis, perspectives and story summaries. In Clayoquot Sound, in the Canadian province of British Columbia, a partnership between ",
      "bron": "Mongabay (Engels)",
-     "tijd": "14:37",
-     "link": "https://news.mongabay.com/short-article/2026/10/oil-pollution-is-drifting-into-marine-protected-areas-report-finds/",
-     "sorteer": "2026-10-12T12:37:55+00:00"
+     "tijd": "15:27",
+     "link": "https://news.mongabay.com/short-article/2026/10/first-nation-led-effort-replants-kelp-forests-in-clayoquot-sound/",
+     "sorteer": "2026-10-12T13:27:56+00:00"
     },
     {
-     "titel": "Indonesia says it no longer needs forests for rice. What happens to projects underway?",
-     "toelichting": "JAKARTA — Indonesia says it no longer needs to expand rice cultivation into forest areas, but it has yet to explain what the announcement means for large-scale food and energy projects already underway in Papua and Kalim",
+     "titel": "Researcher who listens to forests wins 2026 Pritzker Environmental Genius Award",
+     "toelichting": "Zuzana Burivalova, a tropical forest ecologist who uses sound to understand the health of forests globally, was recently named the winner of the 2026 Pritzker Emerging Environmental Genius Award. The award is an initiati",
      "bron": "Mongabay (Engels)",
-     "tijd": "14:12",
-     "link": "https://news.mongabay.com/2026/10/indonesia-says-it-no-longer-needs-forests-for-rice-what-happens-to-projects-underway/",
-     "sorteer": "2026-10-12T12:12:07+00:00"
+     "tijd": "15:21",
+     "link": "https://news.mongabay.com/short-article/2026/10/researcher-who-listens-to-forests-wins-2026-pritzker-environmental-genius-award/",
+     "sorteer": "2026-10-12T13:21:12+00:00"
     }
    ]
   },
@@ -621,6 +612,14 @@
    "titel": "Vogels",
    "emoji": "🐦",
    "items": [
+    {
+     "titel": "Bruine Klauwier",
+     "kop": "Zeldzaamheden",
+     "bron": "Friesland",
+     "tijd": "15:56",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-12T15:56:00+02:00"
+    },
     {
      "titel": "Notenkraker",
      "kop": "Zeldzaamheden",
@@ -638,14 +637,6 @@
      "sorteer": "2026-10-12T12:12:00+02:00"
     },
     {
-     "titel": "Bruine Klauwier",
-     "kop": "Zeldzaamheden",
-     "bron": "Friesland",
-     "tijd": "11:38",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-12T11:38:00+02:00"
-    },
-    {
      "titel": "Vale Braamsluiper",
      "kop": "Zeldzaamheden",
      "bron": "Friesland",
@@ -654,54 +645,54 @@
      "sorteer": "2026-10-12T10:50:00+02:00"
     },
     {
-     "titel": "Daurische Klauwier",
-     "kop": "Zeldzaamheden",
-     "bron": "Overijssel",
-     "tijd": "08:19",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-12T08:19:00+02:00"
-    },
-    {
-     "titel": "Landelijk vandaag: 183 soorten, 584.611 vogels geteld",
+     "titel": "Landelijk vandaag: 189 soorten, 600.546 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Vink — 415.050",
+     "titel": "Vink — 425.406",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Spreeuw — 43.617",
+     "titel": "Spreeuw — 45.414",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Graspieper — 16.699",
+     "titel": "Graspieper — 17.237",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Kneu — 12.968",
+     "titel": "Kneu — 13.273",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
     },
     {
-     "titel": "Veldleeuwerik — 11.998",
+     "titel": "Veldleeuwerik — 12.740",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Ringmus springt eruit — 138, normaal 4",
+     "bron": "34× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
+     "sein": true
     },
     {
      "kop": "Vogeltrek",
@@ -721,23 +712,15 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Beflijster springt eruit — 160, normaal 6",
-     "bron": "27× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Bonte Strandloper springt eruit — 1.869, normaal 77",
-     "bron": "24× het gewone niveau",
+     "titel": "Beflijster springt eruit — 181, normaal 6",
+     "bron": "30× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
      "sein": true
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Rustig vandaag — 16 meldingen, samen 104 vogels",
+     "titel": "Rustig vandaag — 17 meldingen, samen 105 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -752,8 +735,8 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "8 meldingen vertrek uit het noorden",
-     "bron": "DE 8",
+     "titel": "9 meldingen vertrek uit het noorden",
+     "bron": "DE 9",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -790,15 +773,15 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 15.3,
-    "gevoel": 15.3,
+    "nu": 15.5,
+    "gevoel": 15.5,
     "wind": "ZO 2",
     "station": "Heino",
     "bericht": "Het weer ziet er deze week helemaal niet verkeerd uit voor de vakantiegangers in Regio Noord. Met uitzondering van morgen en vrijdag zijn er alle dagen zonnige perioden en blijft het droog. Verder is het vrij zacht voor de tijd van het jaar.",
     "vandaag": "Vanmiddag is er flink wat zon en blijft het droog. Vanavond neemt vanuit het westen de bewolking toe en later op de avond kan in het westen een spat regen vallen.",
     "temperatuur": "Het wordt een zachte nazomerdag met de maxima tussen 16 graden in het noordoosten tot zo'n 18 graden in het zuiden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: 5 tot 15 graden, 4% kans op neerslag, ruim 10 uur zon, wind uit het zuiden, kracht 2.",
+     "zin": "Voor Dalfsen zelf: 5 tot 15 graden, 4% kans op neerslag, ruim 10 uur zon, wind uit het zuiden, kracht 3.",
      "max": 15,
      "min": 5,
      "regenkans": 4,
