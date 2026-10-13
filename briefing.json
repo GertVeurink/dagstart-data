@@ -3,14 +3,15 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "07:00",
+  "opgehaald": "08:01",
   "blokken": 11,
-  "berichten": 91,
-  "problemen": [],
-  "audio_herkomst": "vangnet",
-  "audio_aangehaakt": "07:20"
+  "berichten": 85,
+  "problemen": [
+   "DalfsenNet: URLError"
+  ],
+  "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-13T07:00+02:00",
+ "opgehaald": "2026-10-13T08:01+02:00",
  "audio": "audio/20261013.mp3",
  "blokken": [
   {
@@ -28,8 +29,8 @@
      "sorteer": "2026-10-13T06:35:01+02:00"
     },
     {
-     "titel": "Dode bij achtbaanongeluk in VS, man zou uit kar zijn geslingerd",
-     "context": "Bij een ongeluk met een achtbaan in de Amerikaanse staat Georgia is een persoon om het leven gekomen en zijn er meerdere mensen gewond geraakt. Dat gebeurde in het pretpark Six Flags Over Georgia, iets ten westen van de stad Atlanta. De politie maakte geen doodsoorzaak bekend; de afdeling Ernstige Misdrijven van het lokale politiecorps heeft de zaak in onderzoek. Ooggetuigen zeggen tegen de lokale",
+     "titel": "Dode bij achtbaanongeluk in VS, man werd uit kar geslingerd",
+     "context": "Bij een ongeluk met een achtbaan in de Amerikaanse staat Georgia is iemand om het leven gekomen en zijn meerdere mensen gewond geraakt. Dat gebeurde in het pretpark Six Flags Over Georgia, iets ten westen van de stad Atlanta. Over de oorzaak is niets bekendgemaakt, maar ooggetuigen zeggen tegen de lokale zender WXIA dat een man uit de Goliath-achtbaan viel. Tijdens zijn val kwam hij meermaals in a",
      "rubrieken": [],
      "link": "https://nos.nl/l/2634751",
      "bron": "NOS",
@@ -105,8 +106,17 @@
    "emoji": "🇳🇱",
    "items": [
     {
+     "titel": "Aanleg nieuwe bossen blijft ver achter bij doelstellingen",
+     "context": "Er komt nog maar weinig terecht van een nationaal plan om meer bossen aan te planten. In 2020 presenteerde het ministerie van Landbouw de Bossenstrategie. Daarin stond dat er in tien jaar tijd 37.000 hectare bos bij moest komen. Provincies zijn voor een belangrijk deel verantwoordelijk voor het aanplanten, maar zes jaar later zijn hun doelstellingen nog ver uit zicht. Dat blijkt uit een rondgang v",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2634756",
+     "bron": "NOS",
+     "tijd": "07:00",
+     "sorteer": "2026-10-13T07:00:02+02:00"
+    },
+    {
      "titel": "Meldpunt Veilig Thuis alarmeert: 'We kunnen het werk niet meer aan'",
-     "context": "Een melding van huiselijk geweld of kindermishandeling belandt vaak op een grote stapel. Al jaren duurt het te lang voordat er actie wordt ondernomen. Kritiek van buitenaf was er al, maar nu trekt Veilig Thuis zelf aan de bel. Het komt doordat het aantal adviezen en meldingen maar blijft stijgen, de situaties die complexer worden en de tekorten overal in de zorg. Per jaar worden tienduizenden situ",
+     "context": "Een melding van huiselijk geweld of kindermishandeling belandt vaak op een grote stapel. Al jaren duurt het te lang voordat er actie wordt ondernomen. Kritiek van buitenaf was er al, maar nu trekt Veilig Thuis zelf aan de bel. Het komt doordat het aantal adviezen en meldingen maar blijft stijgen, de situaties complexer worden en er overal in de zorg tekorten zijn. Per jaar worden tienduizenden sit",
      "rubrieken": [],
      "link": "https://nos.nl/l/2634752",
      "bron": "NOS",
@@ -115,7 +125,7 @@
     },
     {
      "titel": "Pandajong Lang Yue verhuist van Ouwehands Dierenpark naar China",
-     "context": "Het tweejarige pandajong Lang Yue verhuist aan het eind van deze maand van het Ouwehands Dierenpark in Rhenen naar China. Dat is nodig om de populatie van reuzenpanda's in stand te houden, zo meldt het park in een verklaring . Lang Yue werd in 2024 geboren in Ouwehands. Het is de afspraak met de China Wildlife Conservation Association dat panda's die buiten China worden geboren daarheen verhuizen ",
+     "context": "Het tweejarige pandajong Lang Yue verhuist aan het eind van deze maand van Ouwehands Dierenpark in Rhenen naar China. Dat is nodig om de populatie van reuzenpanda's in stand te houden, meldt het park in een verklaring . Lang Yue werd in 2024 geboren in Ouwehands. Het is de afspraak met de China Wildlife Conservation Association dat panda's die buiten China worden geboren naar China verhuizen voord",
      "rubrieken": [],
      "link": "https://nos.nl/l/2634750",
      "bron": "NOS",
@@ -123,8 +133,8 @@
      "sorteer": "2026-10-13T02:28:54+02:00"
     },
     {
-     "titel": "Storing bij AH zou cyberaanval kunnen zijn: 'Je neemt niet zomaar zulke maatregelen'",
-     "context": "Cybersecuritydeskundigen zeggen dat het mogelijk is dat er iemand is binnengedrongen in de systemen van de Albert Heijn. Sinds zondagmiddag worstelt de supermarktketen met een grote storing, Albert Heijn noemt het zelf een digitaal veiligheidsincident . Wat de storing heeft veroorzaakt, is vooralsnog niet bekendgemaakt. Albert Heijn wil niet ingaan op de vraag of de supermarkt gehackt is. \"Zo'n gr",
+     "titel": "Groot cyberincident bij Albert Heijn: 'Je neemt niet zomaar zulke maatregelen'",
+     "context": "Cybersecuritydeskundigen noemen het zeer aannemelijk dat er iemand is binnengedrongen in de systemen van Albert Heijn. Sinds zondagmiddag liggen de online systemen van de supermarktketen uit voorzorg plat, wat tot grote problemen in de winkels leidt. Albert Heijn wil niet zeggen of er sprake is van een hack en spreekt zelf vooralsnog van een digitaal veiligheidsincident . \"Zo'n grote organisatie n",
      "rubrieken": [],
      "link": "https://nos.nl/l/2634740",
      "bron": "NOS",
@@ -132,13 +142,13 @@
      "sorteer": "2026-10-12T22:34:22+02:00"
     },
     {
-     "titel": "Einde dreigt voor Zeehondencentrum, dure nieuwbouw en tegenvallers nekslag",
-     "context": "Het Zeehondencentrum Pieterburen, dat recent is opgegaan in het Werelderfgoedcentrum Waddenzee, dreigt binnen twee weken failliet te gaan. Het centrum kampt al langer met financiële problemen. Die zijn vorige week verder verslechterd en nu is het einde echt nabij, zegt het bestuur. Directe aanleiding voor de aankondiging is het wegvallen van financiële steun waarop was gerekend. Het centrum zegt d",
+     "titel": "EU komt met grootste uitbreiding van sanctielijst tot dusver: ruim 1.600 Russische burgers en bedrijven toegevoegd aan zwarte lijst",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2634733",
-     "bron": "NOS",
-     "tijd": "21:35",
-     "sorteer": "2026-10-12T21:35:16+02:00"
+     "link": "https://www.volkskrant.nl/binnenland/eu-komt-met-grootste-uitbreiding-van-sanctielijst-tot-dusver-ruim-1-600-russische-burgers-en-bedrijven-toegevoegd-aan-zwarte-lijst~b5863b5a/",
+     "bron": "de Volkskrant",
+     "tijd": "05:00",
+     "sorteer": "2026-10-13T03:00:00+00:00"
     },
     {
      "titel": "Zeehondenopvang Waddenzee binnen twee weken failliet zonder financiële hulp",
@@ -150,15 +160,6 @@
      "sorteer": "2026-10-12T21:24:12+00:00"
     },
     {
-     "titel": "Gesteggel over historische ‘nazibunker’ van Seyss-Inquart: wie krijgt de commandopost in handen?",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/gesteggel-over-historische-nazibunker-van-seyss-inquart-wie-krijgt-de-commandopost-in-handen~b2c48902/",
-     "bron": "de Volkskrant",
-     "tijd": "18:48",
-     "sorteer": "2026-10-12T16:48:24+00:00"
-    },
-    {
      "titel": "Meta is na publieke verontwaardiging niet van plan AI-brillen van de markt te halen",
      "context": "",
      "rubrieken": [],
@@ -168,25 +169,18 @@
      "sorteer": "2026-10-12T20:03:00+00:00"
     },
     {
-     "titel": "Wat gebeurt er als Justitie besluit niet te vervolgen en de aangever dat niet pikt?",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUjY2OTRXeHZXTDA3X2t6U1RVV0FmMjhKdGhubjQxYTV1S0xwaVcwb2s3a3lYek1uUjZ2RXl6cjdfQUJGSmZyaHNEdF9JUFhYVE11TzI3OThaM2R1Vzl3QTFsdnN5VzR4V28tSTZfb3hTWXNUd09Ua2hWUnRTTlQzeUNqUE80Xzl3Y3oyTUZyQ2YtTngzRTZqY0pNQUF4Z2tMa3ZtbUdJc0VUcl9Gelo4NVZhQUUxMjhjQmdFd3pNY2d6S2c?oc=5",
-     "bron": "Trouw",
-     "tijd": "22:00",
-     "sorteer": "2026-10-12T20:00:04+00:00"
+     "titel": "Ongeval met letsel op Velperplein in Arnhem",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMnVPQXdkb0NpNFE5UTdMRWtkYnljVHBJdmo3UW9lQmVmb29DSUlGdTI0c291TE9MR2hLVkZMaHB2N3RHR0U5ajBWcW4yRTBETHZaVmg5R0kySnBfWVN1MUYwX2tUU3ZlWUNtZDE1QzlDSW1OMXEzaXRpZy1XaC1sbVhnUUxOSjdoOE9kNDE2NF9EaG5vQzRxcmZZX1JTUlBV?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "22:16",
+     "sorteer": "2026-10-12T20:16:00+00:00"
     },
     {
-     "titel": "Rechtbank laat vier inbrekers die auto’s met gps-trackers volgden in de cel",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZEE2RXlaLVczOU42YXotVEM2M1FMYlEyUU9pbG91MFhGMnVVUUZMUG5lOHhwSTkzQ0RQa0MzeFdydUl6LWNwQXRKTjdYbU9ReTIzT3AtbUtHc1BBTnZjekZVcDQzRGc5R1JScEVaUXhrTTFlYXd4cE0wZ25Va3RmZFhsLUg3MlBGdkdFd21jd0NfNkFDal9fZEF2VGNXQ1p3Nzk2N05rMlc5dnFNekVN?oc=5",
-     "bron": "Eindhovens Dagblad",
-     "tijd": "21:36",
-     "sorteer": "2026-10-12T19:36:00+00:00"
-    },
-    {
-     "titel": "Rechtbank vindt verklaringen onbetrouwbaar: militair vrijgesproken van verkrachting in Deventer",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVDR4Y1JmY0Q4WWZIWW5WRlEtZmJiOUw2djA3NGt2d0pFeFhiY3VFeXlnOExObDZUcUEtZ1BQYWxsNm12NXUtNllXeGxsOWhodU4yb09Wek96Z3ZxTmF0MTZiQ0lzaGZXVm0ycjRYRnUzTzBRVjBQN3hNeGpqRC1CSzg0SnBYM1lFZFdiY1ExX2hzMGdvSUtjSXZHS2tUcjRlWDhXdFFyMm1VTVJMbUhQd2hjQU9xRDltSmpHeHhNYUE1Y0VaSi0wRFByaVJhMk5MRXZMUQ?oc=5",
-     "bron": "de Stentor",
-     "tijd": "21:12",
-     "sorteer": "2026-10-12T19:12:23+00:00"
+     "titel": "‘We beschermen heel erg de dader en absoluut niet de slachtoffers’",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVG1CMDFlWXJpNi1xek1mdHhiZThidVdMbGR5VlUwRkZ0R19abGdYV3V3UFJQYm1yTlQzaWw1R3M3MUg5amdSMVBISEVJNm85dDFVTG5HX1hRNVhnMUFaV1lzNnFVZ1liX0I0WU8zT0VrVDliaWY3YXRxUzZBcFZLemg0bmFMdUhNRlZOVnlhdEx1YXhQN19IQmZPaFRIWUdpZ0gtMTFQTWYxQ3F4d1dj?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "07:57",
+     "sorteer": "2026-10-13T05:57:07+00:00"
     },
     {
      "titel": "Vrouw (21) overleden nadat zelfgebouwde constructie om te bungeejumpen het begeeft",
@@ -194,6 +188,13 @@
      "bron": "De Telegraaf",
      "tijd": "05:49",
      "sorteer": "2026-10-13T03:49:28+00:00"
+    },
+    {
+     "titel": "Robot betast 16-jarig meisje, twee tieners verdacht in opvallende zaak",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV09mZ2xfYzB1a3k0YUYtLVROS3pfM001ZkFjaHBMSWNSUzdMZnZiaGpmU1JRaVE4SDU4VTVPR1NKNFpWNmx1U2dlWFMxR2RwM0VpczFKcFh0THVscEEtUW1TYXZmMzZLSzY3X1Q4dW1JQTNTYV8xRWY3ckQ4TTluRUxmMDRRN1hFYWVlZzJfZkhxdWI5OWRxOVE1ZkFkZHIwQ2ZJUVRQMzRXRG1CbngzVUtqc2RNcld4Y0M3cg?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "05:44",
+     "sorteer": "2026-10-13T03:44:05+00:00"
     },
     {
      "titel": "Dwingende controle: als weggaan bij je partner net zo gevaarlijk is als blijven",
@@ -224,6 +225,15 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Fietser ernstig gewond na aanrijding op Weerseloseweg in Enschede",
+     "context": "Op de Weerseloseweg in Enschede is maandagavond laat een fietser ernstig gewond geraakt bij een aanrijding met een personenauto. De weg werd volledig afgesloten.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3706119/fietser-ernstig-gewond-na-aanrijding-op-weerseloseweg-in-enschede",
+     "bron": "RTV Oost",
+     "tijd": "06:48",
+     "sorteer": "2026-10-13T04:48:31+00:00"
+    },
+    {
      "titel": "Hulp bij huiselijk geweld in de knel: Veilig Thuis kan drukte niet aan",
      "context": "Meldingen van huiselijk geweld en kindermishandeling stapelen zich op. Maar Veilig Thuis kan de hoeveelheid werk niet meer aan en roept het kabinet op om met extra geld over de brug te komen. Ook de organisaties in Overijssel zeggen dat de druk behoorlijk oploopt.",
      "rubrieken": [],
@@ -231,15 +241,6 @@
      "bron": "RTV Oost",
      "tijd": "06:01",
      "sorteer": "2026-10-13T04:01:10+00:00"
-    },
-    {
-     "titel": "Deal met justitie voorkomt terugkeer naar cel voor vuurwerkhandelaar uit Diepenheim",
-     "context": "Een 40-jarige man uit Diepenveen die honderden kilo's illegaal vuurwerk verhandelde, hoeft niet opnieuw de cel in. Hij is veroordeeld tot 141 dagen gevangenisstraf, precies de tijd die hij al in voorarrest heeft gezeten. De straf volgt na een deal met het Openbaar Ministerie.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706039/deal-met-justitie-voorkomt-terugkeer-naar-cel-voor-vuurwerkhandelaar-uit-diepenheim",
-     "bron": "RTV Oost",
-     "tijd": "21:00",
-     "sorteer": "2026-10-12T19:00:00+00:00"
     },
     {
      "titel": "'Ik vind het flauwekul': Overijsselaars reageren op noodpakket",
@@ -278,32 +279,6 @@
      "bron": "RTV Oost",
      "tijd": "17:02",
      "sorteer": "2026-10-12T15:02:42+00:00"
-    },
-    {
-     "titel": "Oud-wethouder Jan van Lenteren krijgt gouden speld",
-     "context": "De Dalfser oud-wethouder Jan van Lenteren heeft een gouden jubilarisspeld gekregen voor zijn 50-jarig lidmaatschap van de Partij van de Arbeid. Afgelopen zaterdag kwam een delegatie van het bestuur van PRO Dalfsen – Amke Vrielink, Bram Neppelenbroek en Korrie van den Ende – bij Jan en zijn vrouw Janke van Lenteren op bezoek om hem […]",
-     "rubrieken": [
-      "Dalfsen",
-      "Ingezonden bericht",
-      "Politiek"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/554346/oud-wethouder-jan-van-lenteren-krijgt-gouden-speld-voor-50-jaar-lidmaatschap-pvda.html",
-     "bron": "DalfsenNet",
-     "tijd": "22:54",
-     "sorteer": "2026-10-12T20:54:31+00:00"
-    },
-    {
-     "titel": "Eerste Open Podium Dalfsen in het Oude Station",
-     "context": "DALFSEN – Op zaterdag 17 oktober staat het Oude Station Dalfsen in het teken van de eerste editie van Open Podium Dalfsen. Het programma start om 21:00 en duurt tot circa 1:00 uur. Het avondvullend programma is met 11 opgegegeven acts vol en bestaat uit diverse solisten, duo’s en bands. De muziekstijlen zijn zeer divers […]",
-     "rubrieken": [
-      "Dalfsen",
-      "Ingezonden bericht",
-      "Laatste nieuws"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/554343/eerste-open-podium-dalfsen-in-het-oude-station-2.html",
-     "bron": "DalfsenNet",
-     "tijd": "22:12",
-     "sorteer": "2026-10-12T20:12:22+00:00"
     }
    ]
   },
@@ -394,11 +369,11 @@
    "emoji": "🤖",
    "items": [
     {
-     "titel": "KLM verhuist Nederlandse klantenservice naar Filipijnen: klachten afgehandeld met AI-vertaaltool",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWHEzalhrb19wX0lLdEw2MTl0NXRNSDhLUUZldVBPVDdDQVlKS0RkazIwRlZfTTRpMUhIWGc2cXA3TkgzeXE2SVF0QW1FRDVsTlRtMzRKUXUtXzhZYzBCYmp4SDk0S01WaGs0d3dDazltbUUtM3ptTzhpbzNfZ3pGeE9tZW5xeUpBbi1pOU9MdVVfUGlxRk9BVzY0aXpQbktOc003d1c0X3ppVWh3VVptWUhHNWI3aGczZzh5QjcyRmdxSUUxSEF4M2UyVHZUQkdaVkw1MHZZRHU4cFU2Z3Zn?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "04:15",
-     "sorteer": "2026-10-13T02:15:00+00:00"
+     "titel": "Makers van Fortnite gaan over naar AI-first gameontwikkeling",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmVmRkk1UmFjak9hMkU3T05JS0pXV0xpMzd6cmt5NGJ3TTk3S2E0VGJ4Qm1DZG12Q19zcG9DMTJWNFY4VXFxUTROdWszZzM4WUp0QVp5ZTBPZE5fN1JkX3F5VmZmQ0hXM3FQS1piSkU0dENUZks0aTFXOWpTUHRobnEzNzRLLV80ZjFXd1FYdTM3aFNINXhWM0E5YWk3Z0tPU2ljSQ?oc=5",
+     "bron": "Bright",
+     "tijd": "07:37",
+     "sorteer": "2026-10-13T05:37:48+00:00"
     },
     {
      "titel": "In deze broze wereldeconomie verzacht de AI-hausse de ergste oorlogsklappen, zegt het IMF",
@@ -495,20 +470,20 @@
      "sorteer": "2026-10-12T16:57:25.647+02:00"
     },
     {
+     "titel": "Voorlopige politiek akkoord Verordening Kritieke Geneesmiddelen (Critical Medicines Act)",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "16-07",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D36934",
+     "sorteer": "2026-10-13T07:56:10.767+02:00"
+    },
+    {
      "titel": "Inwerkingtreding verruimd kader Mobiel Toezicht Veiligheid (MTV)",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
      "tijd": "24-09",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D46063",
      "sorteer": "2026-10-12T15:13:47.253+02:00"
-    },
-    {
-     "titel": "Wetgevingsplanning asiel en migratie",
-     "bron": "Brief van de regering",
-     "kop": "Brieven en moties",
-     "tijd": "25-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D46445",
-     "sorteer": "2026-10-12T14:45:05.76+02:00"
     },
     {
      "titel": "Motie van het lid Van Baarle over de ondermijning van het Internationaal Strafhof door Israël veroordelen en de Israëlische…",
@@ -715,82 +690,50 @@
      "sorteer": "2026-10-12T12:12:00+02:00"
     },
     {
-     "titel": "Landelijk gisteren: 206 soorten, 669.118 vogels geteld",
+     "titel": "Landelijk vandaag: 33 soorten, 1.846 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261013?language=dutch"
     },
     {
-     "titel": "Vink — 457.298",
+     "titel": "Vink — 1.063",
      "kop": "Vogeltrek",
-     "bron": "landelijk, gisteren",
+     "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261013?language=dutch"
     },
     {
-     "titel": "Spreeuw — 48.391",
+     "titel": "Kolgans — 247",
      "kop": "Vogeltrek",
-     "bron": "landelijk, gisteren",
+     "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261013?language=dutch"
     },
     {
-     "titel": "Graspieper — 23.437",
+     "titel": "Graspieper — 152",
      "kop": "Vogeltrek",
-     "bron": "landelijk, gisteren",
+     "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261013?language=dutch"
     },
     {
-     "titel": "Veldleeuwerik — 18.329",
+     "titel": "Witte Kwikstaart — 86",
      "kop": "Vogeltrek",
-     "bron": "landelijk, gisteren",
+     "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261013?language=dutch"
     },
     {
-     "titel": "Kolgans — 16.811",
+     "titel": "Kauw — 57",
      "kop": "Vogeltrek",
-     "bron": "landelijk, gisteren",
+     "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch"
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Ringmus springt eruit — 150, normaal 4",
-     "bron": "38× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Beflijster springt eruit — 221, normaal 6",
-     "bron": "37× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Rotgans springt eruit — 4.143, normaal 118",
-     "bron": "35× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Lepelaar springt eruit — 397, normaal 12",
-     "bron": "33× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261012?language=dutch",
-     "sein": true
+     "link": "https://trektellen.org/count/daytotals/1/0/20261013?language=dutch"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Trek komt op gang gisteren — 51 meldingen, samen 3410 vogels",
+     "titel": "Trek komt op gang gisteren — 54 meldingen, samen 3448 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -805,8 +748,8 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "34 meldingen vertrek uit het noorden",
-     "bron": "DE 34",
+     "titel": "37 meldingen vertrek uit het noorden",
+     "bron": "DE 37",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -837,19 +780,19 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 12.0,
-    "gevoel": 12.0,
+    "nu": 12.4,
+    "gevoel": 12.4,
     "wind": "ZZO 2",
     "station": "Heino",
     "bericht": "Vandaag krijgen we te maken met het binnenstromen van zachtere lucht. Dat gaat gepaard met veel bewolking en plaatselijk wat lichte regen of motregen. Morgen keert de zon volop terug, met wat vriendelijke stapelwolken, en blijft het droog.Vanochtend is het bewolkt en plaatselijk valt wat motregen.",
     "vandaag": "Vandaag krijgen we te maken met het binnenstromen van zachtere lucht. Vanochtend is het bewolkt en plaatselijk valt wat motregen.",
     "temperatuur": "Tegen het einde van de ochtend varieert de temperatuur van ongeveer 12 graden in het oosten tot 16 graden in het westen van het land.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: lichte motregen, 10 tot 18 graden, 55% kans op neerslag, weinig zon, wind uit het zuiden, kracht 4.",
-     "max": 18,
+     "zin": "Voor Dalfsen zelf: motregen, 10 tot 17 graden, 88% kans op neerslag, weinig zon, wind uit het zuiden, kracht 4.",
+     "max": 17,
      "min": 10,
-     "regenkans": 55,
-     "omschrijving": "lichte motregen"
+     "regenkans": 88,
+     "omschrijving": "motregen"
     },
     "vooruit": "Zonnige perioden en droog weer, met temperaturen boven het langjarig gemiddelde. Op vrijdag en gedurende het weekend neemt de bewolking toe en valt er af en toe regen. De temperaturen dalen dan tot iets onder het langjarig gemiddelde.",
     "omslag": "Vanaf vrijdag regen: de kans loopt op van 10% naar 80%.",
