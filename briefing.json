@@ -1,15 +1,17 @@
 {
  "datum": "2026-10-13",
- "naam": "Middagbriefing",
+ "naam": "Avondbriefing",
  "status": {
-  "ronde": "Middagbriefing",
-  "opgehaald": "17:00",
+  "ronde": "Avondbriefing",
+  "opgehaald": "18:00",
   "blokken": 11,
   "berichten": 97,
-  "problemen": [],
+  "problemen": [
+   "weer Dalfsen: HTTPError"
+  ],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-13T17:00+02:00",
+ "opgehaald": "2026-10-13T18:00+02:00",
  "audio": "audio/20261013.mp3",
  "blokken": [
   {
@@ -17,6 +19,24 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Russische turnbond boos om weigeren atleten voor WK: 'Discriminatie'",
+     "context": "De Russische gymnastiekfederatie is woedend over het besluit van de Nederlandse autoriteiten om onder anderen regerend wereldkampioene meerkamp Angelina Melnikova geen visum te geven om in Rotterdam mee te doen aan de WK. Ook twee andere topturnsters, Viktoria Listoenova en Anna Kalmykova, werd een visum ontzegd. Volgens de Russische bond kregen de drie te horen dat \"een of meer lidstaten van het ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2634821",
+     "bron": "NOS",
+     "tijd": "17:49",
+     "sorteer": "2026-10-13T17:49:16+02:00"
+    },
+    {
+     "titel": "Zelensky: Rusland houdt zich al dagen niet aan 'energiebestand' Trump",
+     "context": "Oekraïne heeft zich de afgelopen twee dagen gehouden aan het \"energiebestand\" dat de Amerikaanse president Trump zondag op eigen houtje afkondigde , maar Rusland heeft zich er niets van aangetrokken. Dat zegt de Oekraïense president Zelensky. Hij wijst erop dat zijn leger geen aanvallen heeft uitgevoerd op Russische olieraffinaderijen en de energiesector, zoals Trump wilde. \"Maar Rusland heeft gee",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2634816",
+     "bron": "NOS",
+     "tijd": "17:15",
+     "sorteer": "2026-10-13T17:15:32+02:00"
+    },
     {
      "titel": "China legt sancties op aan Paraguay en Belize om steun aan Taiwan",
      "context": "China heeft sancties opgelegd aan ministers uit Paraguay en Belize omdat deze landen diplomatieke betrekkingen met Taiwan onderhouden. China beschouwt Taiwan als een afvallige provincie die desnoods met geweld moet worden herenigd met de Volksrepubliek. Ministers uit deze Zuid-Amerikaanse landen hadden vorige maand ontmoetingen met hun Taiwanese collega's. Volgens China hebben ze desinformatie ver",
@@ -45,24 +65,6 @@
      "sorteer": "2026-10-13T14:47:30+02:00"
     },
     {
-     "titel": "Podcast De Dag: de 'peptalk' van de hoogste NAVO-militair",
-     "context": "Het komt niet vaak voor dat de oppergeneraal van de NAVO in de spotlight staat. Dus toen werd aangekondigd dat Alexus Grynkewich een toespraak ging houden over de kwestie-Rusland, richtten alle ogen zich op hem. Hij wilde met de speech NAVO-burgers in een tijd van hybride aanvallen geruststellen en tegelijk een stevige waarschuwing geven aan Rusland. Luisteren? Deze aflevering van De Dag luister j",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2634797",
-     "bron": "NOS",
-     "tijd": "14:39",
-     "sorteer": "2026-10-13T14:39:34+02:00"
-    },
-    {
-     "titel": "Paus in ziekenhuis voor operatie aan longknobbel",
-     "context": "Paus Leo XIV is aangekomen in het ziekenhuis in Rome waar hij vanmiddag zal worden geopereerd aan zijn long. De 71-jarige kerkvorst stapte aan het begin van de middag uit de auto die hem naar het ziekenhuis had gebracht en zwaaide naar de honderden belangstellenden die hem verwelkomden. De paus maakte zondag bekend dat bij een medische controle een knobbeltje was ontdekt op een van zijn longen. In",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2634794",
-     "bron": "NOS",
-     "tijd": "13:59",
-     "sorteer": "2026-10-13T13:59:10+02:00"
-    },
-    {
      "titel": "Witte Huis vraagt ambassadeur in Griekenland om op te stappen na reeks schandalen",
      "context": "",
      "rubrieken": [],
@@ -81,27 +83,27 @@
      "sorteer": "2026-10-13T14:37:00+00:00"
     },
     {
-     "titel": "Na droneaanvallen kijkt Navo naar extra bescherming Zwarte Zee",
+     "titel": "Oud-president Kabila bundelt gewapende groepen in Congo: ‘Met alle noodzakelijke middelen, inclusief geweld’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/na-droneaanvallen-kijkt-navo-naar-extra-bescherming-zwarte-zee~b85f799c/",
+     "link": "https://www.trouw.nl/buitenland/oud-president-kabila-bundelt-gewapende-groepen-in-congo-met-alle-noodzakelijke-middelen-inclusief-geweld~bbce1272/",
      "bron": "Trouw",
-     "tijd": "16:39",
-     "sorteer": "2026-10-13T14:39:30+00:00"
+     "tijd": "17:55",
+     "sorteer": "2026-10-13T15:55:42+00:00"
     },
     {
-     "titel": "Harderwijker met tien granaten in huis gaat geen dag extra de cel in",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRlVHUGlvakZNNFlySXlOanlnYUJncDNrQllmTnZvT1dBSnhtbjVwUG1EejVINGRCNFdvNW9XcjZMVzhpakh2MkJfdXJqcERlTzdNTDVSQVVNTzlpVk1iS3VOZ1NTMjNqNGtnTmRuRHBrSGhFczFiZ0hZUU9oanV0dUJyOFZPZzZ1enJsYVdxYTBZaUdJTEh4SUNlSUJQQUZtSkRGM2IySnFieUszYnRNUVJXVXQ?oc=5",
-     "bron": "de Stentor",
-     "tijd": "16:53",
-     "sorteer": "2026-10-13T14:53:46+00:00"
+     "titel": "Opinie | Schaf privébezit niet af,maar verdeel het gelijker, en over meer mensen",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ1BJa0NtcnNKckFRd05qS3Q1VTRjSlhZdldJMm9vY1F3T2ZadGRYWGU3QUI1RkJaZndha3AxNGVUV0twUzZ2b0tmSVp0aW1MSDdSclpuVTRlTGZrNU42SlVDUjJNbDE5TTdHZWxvVVB6TXlPMXR2Zms1Y1BHZUplckh2WmtQbFQwODVNRVluVXR6M3daSnVlSEhfd3ZuS0Vza3poSXE0ejBQWXZvWVkwTzRPRy1udw?oc=5",
+     "bron": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+     "tijd": "17:35",
+     "sorteer": "2026-10-13T15:35:00+00:00"
     },
     {
      "titel": "De erfenis van Neurenberg: waarom was de VS destijds voor en nu tegen internationale berechting?",
      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZjFLWktJSEdtOHlKb3R2X3dWS2YzRVRxRnJJU1lCRnJWMnNXcUpncE5vRnZkWFFHNHdnenU0UlV5QTg4UEJpYlJrcFFNbXRUem9wZ1pPcE5FdWF3RkVFMmxKODlqcjlkMUNCRVZwRjh2eGNDbUQ4TnBGc1RJLVV2aQ?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "15:31",
-     "sorteer": "2026-10-13T13:31:30+00:00"
+     "tijd": "16:00",
+     "sorteer": "2026-10-13T14:00:00+00:00"
     }
    ]
   },
@@ -110,6 +112,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Van Weel gaat met Halsema in gesprek over Hamas-steun bij demonstratie",
+     "context": "Minister Van Weel van Justitie gaat in gesprek met burgemeester Halsema van Amsterdam over de pro-Palestijnse demonstratie van zondag in de hoofdstad. Daar werden vlaggen getoond van Hamas en werd steun uitgesproken voor die Palestijnse terroristische organisatie. \"Dit ging ver over mijn grens\", zei Van Weel vanmiddag in de Tweede Kamer. De BBB had hem naar het vragenuur gehaald om uitleg te geven",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2634822",
+     "bron": "NOS",
+     "tijd": "17:51",
+     "sorteer": "2026-10-13T17:51:56+02:00"
+    },
     {
      "titel": "Morgen eerste stakingsdag in streekvervoer, ov in grote steden rijdt wel",
      "context": "Morgen is de eerste stakingsdag in het streekvervoer, als onderdeel van een reeks stakingen die tot de kerst doorgaan. In grote delen van het land rijden geen treinen en bussen van streekvervoerders Arriva, EBS, Qbuzz, Transdev en Keolis. De treinen van NS rijden wel gewoon. Vorige week vrijdag kondigden de vakbonden FNV en CNV aan iedere week een dag te staken vanwege mislukte cao-onderhandelinge",
@@ -138,22 +149,13 @@
      "sorteer": "2026-10-13T13:39:19+02:00"
     },
     {
-     "titel": "Twaalf dagen geen treinen tussen Arnhem en Utrecht vanwege werkzaamheden",
-     "context": "Van dinsdag 20 tot en met zaterdag 31 oktober rijden er geen treinen op delen van het traject tussen Arnhem en Utrecht. ProRail werkt in die periode aan het spoor en de aanleg van een nieuwe spooronderdoorgang bij station Wolfheze. De werkzaamheden vinden plaats in twee fasen. Van 20 tot en met vrijdag 23 oktober rijden er geen treinen tussen Driebergen-Zeist en Arnhem Centraal en tussen Drieberge",
+     "titel": "Anes A. stichtte twee keer brand tijdens de Pride, maar ontkent terroristisch motief",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2634789",
-     "bron": "NOS",
-     "tijd": "13:08",
-     "sorteer": "2026-10-13T13:08:57+02:00"
-    },
-    {
-     "titel": "Varkens in Nood wint staarten-zaak: staatssecretaris moet coupeerverbod handhaven",
-     "context": "Staatssecretaris Erkens van Landbouw moet alsnog beoordelen of drie varkensboeren zich houden aan de regels over het couperen van de staarten van hun dieren. Dat heeft het College van Beroep voor het bedrijfsleven (CBb) geoordeeld in een zaak die was aangespannen door Varkens in Nood. Varkenshouders zeggen dat het afknippen of inkorten van de krulstaarten nodig is om te voorkomen dat de varkens el",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2634786",
-     "bron": "NOS",
-     "tijd": "12:39",
-     "sorteer": "2026-10-13T12:39:35+02:00"
+     "link": "https://www.volkskrant.nl/binnenland/anes-a-stichtte-twee-keer-brand-tijdens-de-pride-maar-ontkent-terroristisch-motief~be9b8fb4/",
+     "bron": "de Volkskrant",
+     "tijd": "17:29",
+     "sorteer": "2026-10-13T15:29:13+00:00"
     },
     {
      "titel": "Wat gebeurt er met de zeehondenpups als het WEC door een faillissement moet sluiten?",
@@ -165,22 +167,41 @@
      "sorteer": "2026-10-13T14:09:43+00:00"
     },
     {
-     "titel": "De Nederlandse wegen en het spoor voldoen niet aan Navo-eisen voor militair transport, meldt de Rekenkamer",
+     "titel": "Algemene Rekenkamer: ‘Nederlandse wegen en spoor niet klaar voor grote militaire transporten’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/de-nederlandse-wegen-en-het-spoor-voldoen-niet-aan-navo-eisen-voor-militair-transport-meldt-de-rekenkamer~b742396b/",
-     "bron": "de Volkskrant",
-     "tijd": "16:00",
-     "sorteer": "2026-10-13T14:00:00+00:00"
+     "link": "https://www.trouw.nl/binnenland/algemene-rekenkamer-nederlandse-wegen-en-spoor-niet-klaar-voor-grote-militaire-transporten~be04fb7a7/",
+     "bron": "Trouw",
+     "tijd": "17:56",
+     "sorteer": "2026-10-13T15:56:27+00:00"
     },
     {
-     "titel": "Albert Heijn start systemen weer op, geen aanwijzing dat klantdata zijn buitgemaakt",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/albert-heijn-start-systemen-weer-op-geen-aanwijzing-dat-klantdata-zijn-buitgemaakt~ba7ffc48/",
-     "bron": "Trouw",
-     "tijd": "13:50",
-     "sorteer": "2026-10-13T11:50:00+00:00"
+     "titel": "Slachtoffer (15) mentaal in de kreukels, ontuchtverdachten horen flinke celstraf eisen",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNemkzNzZSV2E0NG1hRHUtR2VzNWhzY1NBMU9kMXllZEU1TmRXX3hMblhfeFV0cFZoUVNSLXA1Z05WQWtybFI4OERSZEZSd25CdlpwV2cybHJxYVBjZDd0d0gxVEJrVVRld3hsZmw0LXRncDBnWVRNeDlMTk9zOXM2ZHFuTDFYQ2R3dE5NaGIzZllOYmVHRE5hM1dPZTVadjhPNHVPUzRKZXAzRkNaOEFGSUxqNGRERWxuRHZZ?oc=5",
+     "bron": "AD.nl",
+     "tijd": "17:28",
+     "sorteer": "2026-10-13T15:28:17+00:00"
+    },
+    {
+     "titel": "Onderzoek naar in brandgestoken Paul (69) nog niet afgerond, zaak volgend jaar hervat",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUTdqVEpjcURFRlVnY0VGUUNvQ2hvV2ZYOW9pcUZCRkphdnU3S0tfT3ZFangzdS1acV84VDlSakZJdkxkUEV6MkY3YlJ0SWdlOV9OaGxoTU5tclZjVmJLdDdLVGRvbGVPWUxWRXdfM0hhZkxiS25ia3poQVJmNTV4blV0RnlkTnZUY2hYazRQRmV3YTV6MTFYUU53VkFpZTRLczc0TFZ2NEF4dHU3VDBSQU0ybC1pT09RZEE?oc=5",
+     "bron": "AD.nl",
+     "tijd": "17:19",
+     "sorteer": "2026-10-13T15:19:23+00:00"
+    },
+    {
+     "titel": "Minister Van Weel wil haast met wet die ’terreuraanbidders’ strafbaar maakt, oppostie niet onder de indruk: ’Slap, slap, slap’",
+     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZGFnOGREWDc5aEg3bnVJN0E5UHRSU3JHUFRBc3pqNGxEVFJRVU40ekxlc21Mb1JxajFXNFNzVnNWZUNsMVFhZjhsWXdGdlExU2djdDJ3Z2hkUFk0bjlaNE81bXJBWlV3VWw5STFRa2g3Skx1ZGZ0NDRsUzhIdTJWTkFUYlNNc2tpbHM3eV9DZGFYZnBLZW5OeWpISGZFNndJN3FWdkNib1JzYjlJYkw0czNhSEJZdXJiRnU1WXhMSVlsMjdwWmE4SmV1MFhRMEVTUG56Uk9McG9fei0zeUpnaW1iWE05bi1uZ3pDTjNTVGxWbklNcWVGbGZFQQ?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "17:06",
+     "sorteer": "2026-10-13T15:06:45+00:00"
+    },
+    {
+     "titel": "OM waarschuwt voor fascinatie met moord en dood, tbs moordenaar Ximena opnieuw verlengd",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSXlRcnhfZ0FfQXc3bFdfZHlmbVJlT3dySjBkZTBObVBWczNGWGIxNWU4TGQxU1EtRGVlMXVELWtlcjlHMm1WY1g2WEppYlBvLTNGQnNyMi1JeU1uSDZLb3hwQ2QwbUZWcV96VmFZLVA1WFZkZTZVUmxlbzA4R0NQZ0lUTnVQNUJ5LXZHNVNkVWxYUFNDREpKeDZQQTE2Znlib2F1Zko2cVc1TUJlQ01HOGU2Z1VuTHZZY2pKaWlTY2ppVDFocE1ZY0trMzB2QQ?oc=5",
+     "bron": "AD.nl",
+     "tijd": "17:03",
+     "sorteer": "2026-10-13T15:03:47+00:00"
     },
     {
      "titel": "Man gaat niet voor sextortion, wel voor witwassen de cel in: ‘Enorm leed toegebracht’",
@@ -188,27 +209,6 @@
      "bron": "De Gelderlander",
      "tijd": "16:52",
      "sorteer": "2026-10-13T14:52:49+00:00"
-    },
-    {
-     "titel": "Automobilist die klusjesman Gijs (75) dodelijk aanreed, krijgt lagere straf dan geëist",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZVVNejd1RE1Yakg1Y2hMa3dYb0dmaEd0R0R0UGp6VVA4VFkxZEI1STFpVzQxWTNmdVJWNUxyUUJ1NnlEODM5RU14Mnd5ckVFTjFpZnVDX1UzU1JOTWNXRF9lbWxCbGpkR05ILVNaUjlzNjdQeHJoNkU4NXo2VDRyb1k5ODJVbTZuYng1TzNDUTY1RF9UdnVPRWJTMFV2N2dFNTRaRlFPMlg4dUpsYVNWc2NlYllzMVNpaTRtV055RlIzY1k?oc=5",
-     "bron": "de Stentor",
-     "tijd": "16:37",
-     "sorteer": "2026-10-13T14:37:00+00:00"
-    },
-    {
-     "titel": "Susanne uit Lent werd doodgestoken door haar ex: de rechtszaak moet duidelijk maken hoe het zo enorm mis kon gaan",
-     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWTZnSS1XUjZUNkphU3ZobXU2OE5VS2EteXBpYzdjblUyVUNIWDF0akZFTHJKRkxxQU9Ycmw5Sndnc3JGZjEtWTRnMmNKZTFBVzhPUUZwZUVReV9Hc01BckRWTnZMbXcxbGp0MjFCaE0wRVZCMlFIWWFhR2FZVUtrUXBOTUlZVFg1c2s0dkd2cXAzNVRxREprLXNQSW1zZ0IxbllqVjRTcmZocDB3NG92ejJUUHA5R2s5XzlYbjNyb0R6V2stdUhjWkpOT3ludE54QUJzTzUxVktPX0tKazVGY2t4MUlvLXV6aG5hRnFLVFk?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "16:30",
-     "sorteer": "2026-10-13T14:30:42+00:00"
-    },
-    {
-     "titel": "Vijf burgemeesters eisen maatregelen tegen zwartrijders op Vechtdallijn",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZXB0V2dXT0czdlpnMGE2YXg3XzFlNVdzYWp2VzNxZHpkLTE4eUhaMHotMWZ0TnBiVkkyNTJDSWp5d2VPNURDRUx6bkdMcS1MMENHajB0YkxaM2YwWEs1Wi1pakFEa2tZZTdRU0VlOFFOYmVLMmlGTkUxSTA1MW1BS0dXNlphWXFad1V1UW1GaU56dXQyY1BGX2RKZDA1NF95ZGl5a2d6d1FkMjAzSnpxS0ZB?oc=5",
-     "bron": "Tubantia",
-     "tijd": "16:18",
-     "sorteer": "2026-10-13T14:18:45+00:00"
     },
     {
      "titel": "Kom ook los van big tech: meld je aan voor mijn nieuwsbrief!",
@@ -230,6 +230,16 @@
      "bron": "De Correspondent · Lotte Kok",
      "tijd": "05:45",
      "sorteer": "2026-10-13T03:45:06+00:00"
+    },
+    {
+     "titel": "Nieuwsuur: Nederland weigert visum Russische turnsters • Infrastructuur Nederland voldoet niet aan Navo-eisen • Aanleg nieuwe bossen blijft achter",
+     "context": "Nederland weigert visum Russische turnsters De Russische regerend wereldkampioene meerkamp Angelina Melnikova krijgt van Nederland - net als twee andere Russische topturnsters - geen visum voor het WK in Rotterdam dat zaterdag begint. De Russische turnbond is woedend en spreekt van \"directe discriminatie van Russische atleten en een grove schending van het beginsel van gelijke voorwaarden voor oly",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2634818",
+     "bron": "NOS",
+     "tijd": "",
+     "sorteer": "21:30",
+     "kop": "Vanavond op tv"
     }
    ]
   },
@@ -238,6 +248,24 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Twenterand is tonnen kwijt aan chalets die nauwelijks zijn gebruikt voor opvang",
+     "context": "Twenterand is een vermogen kwijt aan vier chalets die zouden worden ingezet voor crisisopvang. De gehuurde chalets blijven leegstaan. De woningen staan in Hardenberg, die de noodopvang geen goed idee vindt. Twenterand heeft de huisjes nu gekocht om ze te verplaatsen naar eigen grondgebied.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3706137/twenterand-is-tonnen-kwijt-aan-chalets-die-nauwelijks-zijn-gebruikt-voor-opvang",
+     "bron": "RTV Oost",
+     "tijd": "17:01",
+     "sorteer": "2026-10-13T15:01:14+00:00"
+    },
+    {
+     "titel": "'Tikkende tijdbom' die Roy doodreed minder lang de cel in: 'We zijn lamgeslagen'",
+     "context": "De nabestaanden van Roy hadden hem nog zo gevraagd de eerder opgelegde straf te accepteren. Maar Z. (23), die met 186 km/u door de bebouwde kom jakkerde en een dodelijk ongeval veroorzaakte, ging niettemin in hoger beroep. Tijdens dit appèl wist hij twee jaar van de opgelegde celstraf te krijgen.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3705783/tikkende-tijdbom-die-roy-doodreed-minder-lang-de-cel-in-we-zijn-lamgeslagen",
+     "bron": "RTV Oost",
+     "tijd": "16:26",
+     "sorteer": "2026-10-13T14:26:50+00:00"
+    },
     {
      "titel": "Trucker zag AJ (14) totaal over het hoofd: maximale taakstraf na dodelijk ongeval",
      "context": "Hij zag hem helemaal over het hoofd. Een 68-jarige vrachtwagenchauffeur uit Harbrinkhoek is veroordeeld tot de maximale taakstraf van 240 uur voor het doodrijden van de 14-jarige Angelo Junior uit Almelo. Ook raakt de trucker een halfjaar zijn rijbewijs kwijt.",
@@ -275,46 +303,32 @@
      "sorteer": "2026-10-13T11:01:07+00:00"
     },
     {
-     "titel": "Oost-Nederland roept kabinet op tot actie tegen laagwater",
-     "context": "Het kabinet moet snel maatregelen nemen tegen de gevolgen van laagwater, zeggen meerdere partijen in Oost-Nederland. Daarom bieden zij vandaag een brief aan de minister aan. Ze willen betere wateraanvoer, tijdelijke pompen en duidelijke afspraken over wat er gebeurt als vaarwegen opnieuw dichtgaan.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706133/oost-nederland-roept-kabinet-op-tot-actie-tegen-laagwater",
-     "bron": "RTV Oost",
-     "tijd": "12:01",
-     "sorteer": "2026-10-13T10:01:07+00:00"
-    },
-    {
-     "titel": "De website en app van RTV Oost zijn vernieuwd: dit is er veranderd",
-     "context": "De website en app van RTV Oost zijn vernieuwd. De vertrouwde voorpagina heeft plaatsgemaakt voor een ontdekpagina en het nieuws is overzichtelijker ingedeeld. Ook vind je makkelijker het nieuws uit je eigen omgeving. We leggen uit wat er is veranderd.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3705991/de-website-en-app-van-rtv-oost-zijn-vernieuwd-dit-is-er-veranderd",
-     "bron": "RTV Oost",
-     "tijd": "09:53",
-     "sorteer": "2026-10-13T07:53:37+00:00"
-    },
-    {
-     "titel": "Jessica Geerdsen exposeert in vitrines AH Dalfsen",
-     "context": "DALFSEN – Maandagmiddag heeft Jessica Geerdsen haar expositie in de drie vitrines van AH in Dalfsen ingericht. Ze laat een selectie zien van haar vele tekeningen die ze heeft gemaakt met pastelkrijt. Ook zijn er prints van tekeningen die ze maakte met digitale pen op haar tablet. De expositie is tot en met november 2026. […]",
+     "titel": "Zwerfinator Dirk Groot komt op 24 oktober naar Dalfsen: samen op zwerfafvalsafari",
+     "context": "DALFSEN – Ergert u zich wel eens aan zwerfafval op straat, in het park of langs fietspaden? Doe dan mee aan de Zwerfafvalsafari op 24 oktober van 09:30 tot 12.30 bij de Gemeentewerf in Dalfsen. Samen met andere inwoners gaan we op pad om zwerfafval op te ruimen en te registreren. Met een eenvoudige app […]",
      "rubrieken": [
       "Dalfsen",
-      "Evenementen"
+      "Ingezonden bericht",
+      "Laatste nieuws",
+      "Regio"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/554392/jessica-geerdsen-exposeert-in-vitrines-ah-dalfsen.html",
+     "link": "https://www.dalfsennet.nl/nieuws/554409/zwerfinator-dirk-groot-komt-op-24-oktober-naar-dalfsen-samen-op-zwerfafvalsafari.html",
      "bron": "DalfsenNet",
-     "tijd": "14:59",
-     "sorteer": "2026-10-13T12:59:49+00:00"
+     "tijd": "17:50",
+     "sorteer": "2026-10-13T15:50:38+00:00"
     },
     {
-     "titel": "Kleding en speelgoedbeurs gaan morgen wel gewoon door",
-     "context": "DALFSEN – De Tweedehands kinderkleding-en speelgoedbeurs 2026 is morgen woensdag 14 oktober 2026 in de Trefkoele+ van 10-13.00 uur. Dit keer opnieuw in onze sporthal, zodat er voldoende ruimte is voor de deelnemers om spullen op en om de tafel te etaleren. Voor de bezoekers betekent dit dat er beter te zien is wat er […]",
+     "titel": "Pakketbezorger gewond bij aanrijding op Mataramweg in Dalfsen",
+     "context": "DALFSEN – Op de Mataramweg in het buitengebied van Dalfsen, tussen Hoonhorst en de Marshoek, heeft een aanrijding plaatsgevonden waarbij een pakketbezorger betrokken was. De bestuurder was kort daarvoor bij een woning in het buitengebied vertrokken. Omwonenden hoorden even later een enorme klap. Toen zij poolshoogte gingen nemen, troffen ze de bestelbus aan en schoten […]",
      "rubrieken": [
-      "Dalfsen",
-      "Laatste nieuws"
+      "112-nieuws",
+      "Hoonhorst",
+      "Ingezonden bericht",
+      "Regio"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/554389/kleding-en-speelgoedbeurs-gaan-morgen-wel-gewoon-door.html",
+     "link": "https://www.dalfsennet.nl/nieuws/554407/pakketbezorger-gewond-bij-aanrijding-op-mataramweg-in-dalfsen.html",
      "bron": "DalfsenNet",
-     "tijd": "14:16",
-     "sorteer": "2026-10-13T12:16:37+00:00"
+     "tijd": "17:43",
+     "sorteer": "2026-10-13T15:43:35+00:00"
     }
    ]
   },
@@ -395,18 +409,18 @@
    "emoji": "🤖",
    "items": [
     {
+     "titel": "Kraakt AI de cryptografie van bitcoin sneller dan gedacht? | 451 A",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGd0bUR6bFVFdWFGMi12WnQyREhMbEF3VndGQkJXelJnYjRXNmdib2FKcnp3OF9LMUNNTTJfQlJ5VVloTnRNa2xROWJqdGxxd29iQV8zTVdJbkVsdVFYVDU4MUo4MmxoN3JTZXNFV1B4MmRTbkpYS0Z6SzhRLU5Kb0NoY3BUV1VGQTJXRVo2X0NmLW0yaElQemp0WGZWbmNpZmxWOVpBZjlGWjBuMWxR?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "16:29",
+     "sorteer": "2026-10-13T14:29:39+00:00"
+    },
+    {
      "titel": "Groep wetenschappers eist onafhankelijk toezicht op AI",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeGM5SkYwSjRLUTNaUGQtNlFXcVZtV1hBODlZUl9BWUdLb1g3VVg4cnY0bTYzQjBHZGM3cThVWGtYTl9sV0w1QVQyNWl2RWF5UDRsSlJDSm94X2ktWDY2Tmh3UmxUeUxsN1B2elFlWElSVTlmUW5PNDMzVHNzeUJxZjJXaTdHSTA?oc=5",
      "bron": "Reformatorisch Dagblad",
      "tijd": "13:56",
      "sorteer": "2026-10-13T11:56:08+00:00"
-    },
-    {
-     "titel": "Gebruikers kunnen AI-muziek vóór eind 2026 volledig uit Deezer weren",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObE0wdC1Dc2xfeU9RdTB4ZFZOQ1FGOGRrSk44SVVWUzBvNVpJVnJMR0tPSTgxcVp4SXdBdmstVmFYWE1nckNuVDJWZFNWck9fNDZyd1p1UXJyVWFRRkl2bVVoVEd0azRnWnA3eE1kVlpiNG91aF9tb1ZSM0ZFTTZUMjA0QTEzUG96cEotemFzRmUycGszSmFDT1pFU2E5Wkp0SFZwUURVYmV3d0ZI?oc=5",
-     "bron": "Tweakers",
-     "tijd": "14:28",
-     "sorteer": "2026-10-13T12:28:25+00:00"
     }
    ]
   },
@@ -688,20 +702,20 @@
      "link": "https://scientias.nl/waar-een-olifant-sterft-groeit-jarenlang-het-voedzaamste-gras-van-de-savanne/"
     },
     {
+     "titel": "A study unravels the genetic mystery of a cobra divided by sea",
+     "toelichting": "COLOMBO – Sri Lanka’s spectacled cobra (Naja naja) carries a two-million-year-old genetic mystery, and a new study finds that the island’s cobras form a genetically distinct lineage, reopening a taxonomic question raised",
+     "bron": "Mongabay (Engels)",
+     "tijd": "17:41",
+     "link": "https://news.mongabay.com/2026/10/a-study-unravels-the-genetic-mystery-of-a-cobra-divided-by-sea/",
+     "sorteer": "2026-10-13T15:41:15+00:00"
+    },
+    {
      "titel": "Shedding light on the sea: Interview with Thai photographer Sirachai Arunrugstichai",
      "toelichting": "BANGKOK — Marine biologist and photojournalist Sirachai “Shin” Arunrugstichai has taken many notable photographs in Thailand, from white bleached coral reefs to beaches blackened by oil spills. He shot the viral, award-w",
      "bron": "Mongabay (Engels)",
      "tijd": "16:17",
      "link": "https://news.mongabay.com/2026/10/shedding-light-on-the-sea-interview-with-thai-photographer-sirachai-arunrugstichai/",
      "sorteer": "2026-10-13T14:17:06+00:00"
-    },
-    {
-     "titel": "Protected areas are not for mining: Interview with WWF’s Nadège Nzoyem",
-     "toelichting": "“Protected areas are protected areas,” says Nadège Nzoyem, WWF’s regional director for the Congo Basin. For her, mining has no place in landscapes that governments have committed to conserve. Yet keeping extractive indus",
-     "bron": "Mongabay (Engels)",
-     "tijd": "13:58",
-     "link": "https://news.mongabay.com/2026/10/protected-areas-are-not-for-mining-interview-with-wwfs-nadege-nzoyem/",
-     "sorteer": "2026-10-13T11:58:28+00:00"
     }
    ]
   },
@@ -751,22 +765,14 @@
      "sorteer": "2026-10-13T09:45:00+02:00"
     },
     {
-     "titel": "Grijze Wouw",
-     "kop": "Zeldzaamheden",
-     "bron": "Gelderland",
-     "tijd": "09:00",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-13T09:00:00+02:00"
-    },
-    {
-     "titel": "Landelijk vandaag: 155 soorten, 376.987 vogels geteld",
+     "titel": "Landelijk vandaag: 158 soorten, 377.583 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261013?language=dutch"
     },
     {
-     "titel": "Vink — 234.453",
+     "titel": "Vink — 234.769",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -780,21 +786,21 @@
      "link": "https://trektellen.org/count/daytotals/1/0/20261013?language=dutch"
     },
     {
-     "titel": "Veldleeuwerik — 25.434",
+     "titel": "Veldleeuwerik — 25.472",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261013?language=dutch"
     },
     {
-     "titel": "Graspieper — 9.915",
+     "titel": "Graspieper — 9.919",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261013?language=dutch"
     },
     {
-     "titel": "Sijs — 5.419",
+     "titel": "Sijs — 5.428",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -810,7 +816,7 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Veldleeuwerik springt eruit — 25.434, normaal 646",
+     "titel": "Veldleeuwerik springt eruit — 25.472, normaal 646",
      "bron": "39× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261013?language=dutch",
@@ -826,24 +832,24 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Merel springt eruit — 920, normaal 62",
-     "bron": "15× het gewone niveau",
+     "titel": "Merel springt eruit — 1.000, normaal 62",
+     "bron": "16× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261013?language=dutch",
      "sein": true
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Rustig vandaag — 9 meldingen, samen 1644 vogels",
+     "titel": "Rustig vandaag — 17 meldingen, samen 1748 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "aflopend — dag ervoor 55 · afgelopen week gemiddeld 24 per dag"
+     "vergelijking": "aflopend — dag ervoor 56 · afgelopen week gemiddeld 24 per dag"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "8 meldingen vertrek uit het noorden",
-     "bron": "DE 7, SE 1",
+     "titel": "11 meldingen vertrek uit het noorden",
+     "bron": "DE 10, SE 1",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -874,20 +880,14 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 18.1,
-    "gevoel": 18.1,
-    "wind": "ZZW 2",
+    "nu": 17.8,
+    "gevoel": 17.8,
+    "wind": "ZW 3",
     "station": "Heino",
     "bericht": "Vandaag is de minste dag van de week; Er is veel bewolking en plaatselijk valt wat lichte regen of motregen. Morgen en donderdag is het prachtig najaarsweer. Er is volop zon met wat vriendelijke stapelwolken, en blijft het droog.",
     "vandaag": "Vandaag is de minste dag van de week; Er is veel bewolking en plaatselijk valt wat lichte regen of motregen. Vanmiddag blijft het bewolkt en is het wat druilerig, met plaatselijk lichte regen of motregen.",
     "temperatuur": "In het westen en zuiden kan het plaatselijk zelfs 20 graden worden.",
-    "dalfsen": {
-     "zin": "Voor Dalfsen zelf: lichte regen, 10 tot 17 graden, 88% kans op neerslag, wind uit het zuiden, kracht 4.",
-     "max": 17,
-     "min": 10,
-     "regenkans": 88,
-     "omschrijving": "lichte regen"
-    },
+    "dalfsen": null,
     "vooruit": "Zonnige perioden en droog weer, met temperaturen boven het langjarig gemiddelde. Op vrijdag en gedurende het weekend neemt de bewolking toe en valt er af en toe regen. De temperaturen dalen dan tot iets onder het langjarig gemiddelde.",
     "omslag": "Vanaf vrijdag regen: de kans loopt op van 10% naar 80%.",
     "min": null,
