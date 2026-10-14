@@ -3,13 +3,15 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "15:00",
+  "opgehaald": "16:00",
   "blokken": 11,
-  "berichten": 100,
-  "problemen": [],
+  "berichten": 101,
+  "problemen": [
+   "weer Dalfsen: HTTPError"
+  ],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-14T15:00+02:00",
+ "opgehaald": "2026-10-14T16:00+02:00",
  "audio": "audio/20261014.mp3",
  "blokken": [
   {
@@ -17,6 +19,15 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Arrestaties en inval bij Turkse oppositiezender Halk TV: 'Zwarte dag voor Turkije'",
+     "context": "De Turkse autoriteiten hebben vanochtend een inval gedaan bij het hoofdkantoor van oppositiezender Halk TV in Istanbul. Dit is vooral bij de oppositie een populaire zender. Critici zeggen dan ook dat de inval politiek gemotiveerd is. Volgens de zender vielen honderden politieagenten rond 06.30 uur lokale tijd het gebouw binnen. Op sociale media circuleren beelden waarop medewerkers de agenten film",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2634951",
+     "bron": "NOS",
+     "tijd": "15:44",
+     "sorteer": "2026-10-14T15:44:08+02:00"
+    },
     {
      "titel": "In presidentsrace Brazilië lijkt Bolsonaro op sociale media overal en Lula nergens",
      "context": "Over ruim tien dagen gaat Brazilië opnieuw naar de stembus voor de tweede en beslissende ronde tussen de linkse president Lula da Silva en zijn radicaal-rechtse tegenstander Flavio Bolsonaro. In aanloop naar die spannende race merkte het campagneteam van Lula's Arbeiderspartij (PT) dat op Instagram berichten die vanuit Lula's officiële profiel zijn geplaatst niet goed zichtbaar zijn. Pagina's van ",
@@ -54,47 +65,45 @@
      "sorteer": "2026-10-14T11:41:46+02:00"
     },
     {
-     "titel": "Brit die in tijgerverblijf werd doodgebeten had mentale problemen, zegt familie",
-     "context": "De man die zaterdag in een Engelse dierentuin werd doodgebeten in het tijgerverblijf, kampte al jaren met mentale problemen. Zijn familie heeft dat bekendgemaakt in een verklaring, geciteerd door Britse media. De 23-jarige William Chapman betrad zaterdagmiddag het tijgerverblijf in de dierentuin bij Doncaster en overleefde dat niet. De nabestaanden van Chapman schrijven dat hij een \"slimme, warme ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2634915",
-     "bron": "NOS",
-     "tijd": "10:47",
-     "sorteer": "2026-10-14T10:47:50+02:00"
-    },
-    {
-     "titel": "Vrachtschip bij Straat van Hormuz gezonken na luchtaanval, meldt Reuters",
+     "titel": "VN-orgaan waarschuwt voor ‘humanitaire catastrofe’ in Jemen, bijna miljoen mensen krijgen geen hulp",
      "context": "",
      "rubrieken": [],
      "link": "https://www.volkskrant.nl/buitenland/middenoosten-liveblog-iran-houthi-yemen-saoediarabie-vs~ba2c7027/",
      "bron": "de Volkskrant",
-     "tijd": "14:48",
-     "sorteer": "2026-10-14T12:48:00+00:00"
+     "tijd": "15:37",
+     "sorteer": "2026-10-14T13:37:00+00:00"
     },
     {
-     "titel": "Rusland bouwt hangars om nucleaire bommenwerpers te beschermen tegen Oekraïense drones",
+     "titel": "Belangrijkste kritische Turkse tv-zender op zwart na politie-inval: ‘Iets wat alleen dictators zouden doen’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/liveblog-oekraine-zelensky-nieuws-poetin-trump~bb03466a/",
+     "link": "https://www.volkskrant.nl/buitenland/belangrijkste-kritische-turkse-tv-zender-op-zwart-na-politie-inval-iets-wat-alleen-dictators-zouden-doen~b7b105ad/",
      "bron": "de Volkskrant",
-     "tijd": "14:21",
-     "sorteer": "2026-10-14T12:21:00+00:00"
+     "tijd": "15:23",
+     "sorteer": "2026-10-14T13:23:18+00:00"
     },
     {
-     "titel": "Qatar Airways schort vluchten naar Riyad en Dammam op wegens aanvallen Houthi’s op luchthavens",
+     "titel": "Garrie van Pinxteren zag China veranderen. ‘Ik weet dat mijn vrienden open met me willen praten, maar dat wordt steeds lastiger’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/live-oorlog-midden-oosten-gewonden-bij-nieuwe-houthi-aanvallen-op-saoedi-arabie~b4cda6da/",
+     "link": "https://www.trouw.nl/buitenland/garrie-van-pinxteren-zag-china-veranderen-ik-weet-dat-mijn-vrienden-open-met-me-willen-praten-maar-dat-wordt-steeds-lastiger~b14e90df/",
      "bron": "Trouw",
-     "tijd": "03:13",
-     "sorteer": "2026-10-14T01:13:00+00:00"
+     "tijd": "15:48",
+     "sorteer": "2026-10-14T13:48:15+00:00"
     },
     {
-     "titel": "Het Israëlische leger sloopt, de kolonisten vallen aan – zo verdwijnen de dorpjes van No Other Land. ‘Ze willen dat we hier weggaan, zodat ze het land kunnen afpakken’",
-     "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNWTQxZ2lzaExWYV9BVXdJYm9veG9FZm9yX1p0TENlMFJPTF95X3NBaEV4TUdmTlZScTZSc3ZWNjB6ZDh6ZXhNMHExQzlqLW1ka2ZiSk94TmN6eUcxQTJ1YzNUS0p0M1ZfNVJoOFYyWDdJSmd2dUFhbEhiQlZrbU5TQXItaXVja1hCZV8xZk8yOUJpb29ISnlKQXRLaDByeG9MLTRXMi1kbXZwSzNKcDAxYk1VRFQ2ZjY2Nlc5X2NPZ2FxRWV5QmR0VlpUMVFHMlhlckRDMF83TV9kZEYyUXhiNmdHR2dvOW5SbURKX1lRQXhrbkpXdmhqU3k2QUZUYjBOblZhTUlxbk1ucllKU1dGREhhU215bGRVcGM3TXduLVB6MTNYd1otTEdORW9UeTA?oc=5",
+     "titel": "Turkse autoriteiten vallen binnen bij oppositiegezinde tv-zender en stellen bewindvoerder aan",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVzUtYVR1WnU3Wk95ckoyUGUyY1pPTXZRU0h4TWFtNjZYTTVyQWdrcXhOLXNOdlVzdE5kMjZuYmg0OVAwd1pra0tYZXdUZUlkV3JBYk1OdFluZ3d4b1d0V0dxeTFEX2pzc29EcTB0Y0Z4RmFfTlNYM2UyUHNITi1BOEhFbXJjZllXYU1IYlJxc2ZzOWI0bWhUWFBjYVFjdzdJdlp0RzZFSmxJT1R6QmNET1VYZ1FmekpJNG41NmdMQ2FIMkRfUlkzSms4bjB1VG5VUndRTUpR?oc=5",
      "bron": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-     "tijd": "13:58",
-     "sorteer": "2026-10-14T11:58:35+00:00"
+     "tijd": "15:47",
+     "sorteer": "2026-10-14T13:47:08+00:00"
+    },
+    {
+     "titel": "Opinie | Stel abortus veilig tegen de onvermijdelijke backlash",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUE5vbExFN0d2V2dyU0lKSjEzSHJ3SHNmYXBHSExJeW9GUEVlRWtua3lBaGduWjlKQzBmeGxfQlhZR19mYzVTbk1vSmhOaW1lejhrZVNSVm94SDFoaHJ6VTNtUWNOTXVLQXZzQUZVMmpfeDNMakJJbjRIbEhmcjE2WnZ4Q21PVEhTeWMzbFZUZFVEb1RLaEo5QXVoZVFiTFl6?oc=5",
+     "bron": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+     "tijd": "15:35",
+     "sorteer": "2026-10-14T13:35:00+00:00"
     }
    ]
   },
@@ -103,6 +112,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Nog drie aanhoudingen voor dodelijk schietincident Vierdaagsefeesten Nijmegen",
+     "context": "De politie heeft drie nieuwe aanhoudingen verricht in het onderzoek naar het dodelijke schietincident tijdens de Vierdaagsefeesten in Nijmegen. Het gaat om een 18-jarige man uit Zwaag, een minderjarige jongen uit Hoorn en een 19-jarige man uit Avenhorn. Maandag maakte de politie bekend een 19-jarige Amsterdammer en 21-jarige man uit Hoorn te hebben aangehouden voor de schietpartij. De verdachten z",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2634948",
+     "bron": "NOS",
+     "tijd": "15:05",
+     "sorteer": "2026-10-14T15:05:27+02:00"
+    },
     {
      "titel": "Oud-burgemeester Schuiling opnieuw veroordeeld voor masturberen, krijgt boete",
      "context": "Oud-burgemeester van Groningen Koen Schuiling moet 250 euro betalen voor wat officieel schennispleging heet. Het gerechtshof in Zwolle acht bewezen dat hij heeft gemasturbeerd in zijn auto in maart 2024. Het Openbaar Ministerie had 250 euro boete geëist. Dat is hetzelfde bedrag als Schuiling vorig jaar kreeg opgelegd door de rechtbank. De oud-burgemeester heeft altijd volgehouden dat hij niet aan ",
@@ -122,22 +140,13 @@
      "sorteer": "2026-10-14T13:09:58+02:00"
     },
     {
-     "titel": "Boom van het jaar is rode beuk in Middelstum",
-     "context": "De rode beuk bij de ingang van de Sint-Hippolytuskerk in Middelstum (Groningen) heeft de publieksverkiezing voor Boom van het Jaar gewonnen. De boom van ruim 150 jaar oud kreeg bijna 3000 stemmen meer dan de nummer twee, die in Utrecht staat. De verkiezing wordt gehouden door het SBNL Natuurfonds. Met de prijs wil het fonds aandacht vestigen op mooie, bijzondere of monumentale bomen, of bomen die ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2634908",
-     "bron": "NOS",
-     "tijd": "09:59",
-     "sorteer": "2026-10-14T09:59:29+02:00"
-    },
-    {
      "titel": "Oud-burgemeester Groningen ook in hoger beroep veroordeeld voor masturberen in auto",
      "context": "",
      "rubrieken": [],
      "link": "https://www.volkskrant.nl/nieuws-achtergrond/oud-burgemeester-groningen-ook-in-hoger-beroep-veroordeeld-voor-masturberen-in-auto~bcc05a77/",
      "bron": "de Volkskrant",
      "tijd": "14:44",
-     "sorteer": "2026-10-14T12:44:42+00:00"
+     "sorteer": "2026-10-14T12:44:00+00:00"
     },
     {
      "titel": "Albert Heijn verwacht alle distributiecentra ‘in de loop van de dag’ weer op te starten",
@@ -149,6 +158,29 @@
      "sorteer": "2026-10-14T09:39:00+00:00"
     },
     {
+     "titel": "Afschaffen van dwangsommen gaat hardnekkige problemen bij de IND niet oplossen",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.trouw.nl/binnenland/afschaffen-van-dwangsommen-gaat-hardnekkige-problemen-bij-de-ind-niet-oplossen~b009b3b1/",
+     "bron": "Trouw",
+     "tijd": "15:48",
+     "sorteer": "2026-10-14T13:48:00+00:00"
+    },
+    {
+     "titel": "Drankrijder die 4-jarig jongetje doodreed moet vijf jaar cel in",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSXhnTHkyQTNBQ0h5VDQxN3BUOWNsQUdmNlh6UUVTeXZMZjN3VnU1cFNVOUE3YnYyQmtLUHl5U2M2c2ZKaTN1MVNvU0pyM3JjQ0NrNFc3VEdvRWlxUF9wV1dHcG94S2djelZ1Y0tWcXZXdTJQYk1td0xBNVZ4NVBNMzREMDh1VFpicjRnRTc3bTNvOWV4Z3V2dlBubldGVVNHdjQw?oc=5",
+     "bron": "RTL.nl",
+     "tijd": "15:58",
+     "sorteer": "2026-10-14T13:58:26+00:00"
+    },
+    {
+     "titel": "Pro opent jacht op zorgcowboys: vooraf screenen moet fraude met belastinggeld tegengaan",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWm1xWXZUYnlJX2lfVkxicE16a3dycF8yOWlVVTZrS0hvY0VKdWhWM1pZZktiZWFjZmRQZjV5Tzd5MkgyMndVUXVrVHVEMGFxOXl3WUxPdWNpbFlVM2JQaHB0Um5UN2dTYkhHZF91NXFpNFpCRDlTOEF2aEtMSjNmcGZKaGFQS3pXRUNhc3kwYkw0U2tKRW03NFRYYjA4RzlpdlRzckd4REJNVEVBYXoyMnZpYXhaaGFLZmpFdjFPYTZEWl9QeUUtZjh5N2lPb0Fv?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "15:00",
+     "sorteer": "2026-10-14T13:00:00+00:00"
+    },
+    {
      "titel": "Janus K. (30) krijgt vijf jaar cel en rijontzegging voor doodrijden jongetje (4) in Maastricht",
      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZk54NFNOSWVVWmU2azNGX1RhUS1wT1JGN1NzbVk2SUF6NEt3TzQxTXF6NXRvRUxxLXFMMmZDU0Z2Y0hNYkV3bTRzempPOE5jLWZvdGtwVlJQbWRxOE5kczdXTDkyZF81RVBsWVFDZlFUU2RzbW5ua2phLU9GNzl4WGd6MnBBaUhBT3BoNFU1TVNRS0VJX18yeVM1Y0hUalRVR19RTzRVOXlvMjYzLVFMNjd1bjJ3UFRVWDlWVkVEMGhDd0wtbUtBOGc4a3VkWGZSSHlYaEtUZHM?oc=5",
      "bron": "De Telegraaf",
@@ -156,32 +188,11 @@
      "sorteer": "2026-10-14T12:56:11+00:00"
     },
     {
-     "titel": "Fries echtpaar houdt woningbouwplannen voor jongeren tegen: ’Ik stond bijna huilend voor hun deur’",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeHpJa0ZSNHh3Ym9OLWJJR29ManhVdDlSNnV0RFdrdEtMTncyNUt2RnNQaXdFYVZJWTR1SzdZa2ljdENwalF3M21ubWh1NVZXRnBwT0pvQ09tdFBrWkxESzRfNmFsbmdMWHQ1WXBLU21henVUOEFoQmZBQ0V6V0FJZTRwdnNMaG5IS2h3dzFYY2hmbTByYWdOLTdDbDEyY1dmYnB1Y0ozQmJoNXgwMmxuZ1FUSGxLeEllYzlGN19jaTNmbHBNNmwwbWJvTFlHUm9UN0ZKWWNJc2lyN0x1VkVn?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "14:15",
-     "sorteer": "2026-10-14T12:15:10+00:00"
-    },
-    {
-     "titel": "William (23) sprong in tijgerverblijf en filmde het dier dat hem doodde: ’Hopen te achterhalen waarom onze zoon dit deed’",
-     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZG41N25oWmRkWW9hZ04wVnlwX0ZsSWM0RG44cWpiSGJDRXJ5eGxEcnVEaWxiYzliUXkxNGk1QnRaSk0tSFdMTjluVC1IeXVET29ScE1GTDdWbFVJN3h4eFFWRnhrUzVPQncxdFJZN1JCS0xPVEJWWlBsSmlENE92bjJkWkdhbkJwdFJTYVRzOEw3WUxUa0k5b2ZyVEVya01IYklVTkhRNVdnQVJhSS1zbUJCUG9lT0N4Q1Q1X1VUTVp5dllfdGc5dG1tRGNlMVBHam5qLXlMcjJmN09VQ0Y1TGxSZUZ3NnRNT1JXbGJyaVpzZEJTYlhXN2tJcw?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "14:10",
-     "sorteer": "2026-10-14T12:10:43+00:00"
-    },
-    {
-     "titel": "Pro opent jacht op zorgcowboys: vooraf screenen moet fraude met belastinggeld tegengaan",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWm1xWXZUYnlJX2lfVkxicE16a3dycF8yOWlVVTZrS0hvY0VKdWhWM1pZZktiZWFjZmRQZjV5Tzd5MkgyMndVUXVrVHVEMGFxOXl3WUxPdWNpbFlVM2JQaHB0Um5UN2dTYkhHZF91NXFpNFpCRDlTOEF2aEtMSjNmcGZKaGFQS3pXRUNhc3kwYkw0U2tKRW03NFRYYjA4RzlpdlRzckd4REJNVEVBYXoyMnZpYXhaaGFLZmpFdjFPYTZEWl9QeUUtZjh5N2lPb0Fv?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "13:31",
-     "sorteer": "2026-10-14T11:31:51+00:00"
-    },
-    {
-     "titel": "Saskia Noort opnieuw in race voor NS Publieksprijs",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdmtpdGNYNUNEM1JfN3ZQRjNkbVRLWnlqa1lPZExNSFFZUi1ycElncC1TdmtIN3l1M1V6bVNENTFkbl9RZ2RxeFJMbFVYQ3Rqc2pwYy1OYlZYVVFUeGtReURqTWFrRUdMYVVtYnZsVUg0WmpWc2Z5RlZvNi1vREFLQ1pn?oc=5",
+     "titel": "OM eist vijftien jaar cel en tbs voor moord op echtgenote in Lent",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTDN4ZUpLYWFuT1V0aGNYb0ZpalpWaFZvWnVPWXo0dWdXdEIwa0RWQ0dLWU9tanpJV204OXFSeTl2dzd4VEt5VHc3U3BlMEE2QldOa2lTaGdGYm1ENEVobzZlRGRXM3B0REZEYmNHbklDYjlCRm1HWkhLVjRSMWxlMVh5eWpseXlncXd6amtR?oc=5",
      "bron": "Reformatorisch Dagblad",
-     "tijd": "13:31",
-     "sorteer": "2026-10-14T11:31:16+00:00"
+     "tijd": "15:46",
+     "sorteer": "2026-10-14T13:46:55+00:00"
     },
     {
      "titel": "Deze speelplek is ook leuk als je blind bent of in een rolstoel zit",
@@ -371,6 +382,13 @@
      "sorteer": "2026-10-14T12:10:16+00:00"
     },
     {
+     "titel": "CTO VodafoneZiggo: 'Weerbaarheid telecom behoeft meer aandacht gezien AI-dreiging'",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU2xTSV9LSWJEcVR1WXhPNG9uczBnWEpCeDloWDhKZHJhYUcwZTRCbEhaMDB1bXNFVTNsNEtjVWgtQ2g4UW05SktPMnNnTnprRVVqUk10d2NacWJkREFwaGNGZVRlNUpBcWVMY2Z2d1liQ2ZVT0ZiN1dYTTNZSUpxS1NWTU95YzUzMWdVNjg0RXA4QkNFQ29Bem1Ja1ViX191M2hsbm1SUlpYeUlCblA4elVleTI0WTBOYi1kVzN3b2NPLTBxOWRnZ21KQQ?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "15:11",
+     "sorteer": "2026-10-14T13:11:36+00:00"
+    },
+    {
      "titel": "ASML profiteert van groei AI-investeringen, chipgigant scherpt verwachtingen aan",
      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNFBycEZzTGJ6bU5raWxkbXlWZ25UUi1CUTJTZ0d6ZHNUTFlyblJHT2ViVjdxU3JHalAxT2VQd3c4SFUyLTA0Wk9PYThGUXlEVjBubXlLM2VZcVRZNDRxaXlxTUtsN0xFNDZqQ01yVHNBMFdjdWFQMWJuU2dzTXZzSW15X28yZzkyNjdvWHpBaFNlNEtEZUJkYmk5Q0hfLXJQTnhVMEZxcHZwLTRqUVVVLVZLN3NwX3hkU2ctWGpoNUk3Y0wwaHBsTnh3?oc=5",
      "bron": "De Telegraaf",
@@ -385,18 +403,18 @@
      "sorteer": "2026-10-14T12:00:07+00:00"
     },
     {
+     "titel": "Oorlogsvoering met hulp van chatbot: ’Houthi’s gebruikten AI-model Claude om hypersonische raketten te ontwikkelen’",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPR3BBZnBmZkZzZUZveS10VkJxRHFELWVBWk1lbFRsRnlTQ3ZoUENVZ0tDQkdmMkR2SkNSeGlpS1Z4eHdRQ2o0MkNpbXZESW5xNU02N0hGeVk5ZFRHcUNmaHduV2dTcnhBcXpnRVFxaWVCSXZKLTRtMUtIM2JlWUhUTGdEV21tMFJka3BUZTdsY3ZHT0xMZnRpRm0wWmtGVENqcnkzbkpKbmNZdkVDeWxCdDNFQnFHZVk0Q3lGM2xNSUJtM3pzVTNnTWliMXRlaGR3Sy14NWE2bjNsMGF3NnVZVkRuY1I4YlBsWFdlV2J4d0xHenpv?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "13:15",
+     "sorteer": "2026-10-14T11:15:55+00:00"
+    },
+    {
      "titel": "Plagiaatchecker wil studentenscripties gebruiken om AI te trainen",
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMEwtaHQwYzRmcC1ta1BtY2p5WnRxcURuWkJFWklwQ081VVdWUWZtV3o4MXhpdGN6Z3YxTVAzYWk3eG9TT1UzQTVjeFZPM2xKS3ZFaTdnMlc3anRHWEt4aktZbndINnJFVVdlTE1ZVHVPVmE3bzNIWlowVC1oUWw2QUgyWUgxMXZaZEFYS0tiNFFZYmZJb1E3Z1plVnVUb0dKQjl3eHJIQmJ0dw?oc=5",
      "bron": "Trouw",
      "tijd": "11:12",
-     "sorteer": "2026-10-14T09:12:14+00:00"
-    },
-    {
-     "titel": "Facebook wil dat je zijn nieuwe algoritme omarmt en traint",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZlItSU54Vy00M09uaUNTMDducWMyRjRwQUZDWkpPRERFR0xHU3VKVXJhdXE1MzBYQVFpU2VGeWQtMG52dkViVXBranVTRjQzdUQyYVp3WllqamZXV2luZF9jMDZIa0lfN3BNeHJrVHlGdVhoSUxMWHZ1dmpmUVk0SVh1NmhEbEhaRUVOVkJxbGxPMkNIXzFJcG1WWW56WVV5eGc?oc=5",
-     "bron": "Bright",
-     "tijd": "09:20",
-     "sorteer": "2026-10-14T07:20:56+00:00"
+     "sorteer": "2026-10-14T09:12:00+00:00"
     }
    ]
   },
@@ -427,18 +445,18 @@
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z21648"
     },
     {
+     "titel": "Motie van het lid Van der Plas over inzetten op een gezamenlijke harde aanpak van antisemitisme en terrorismeverering",
+     "bron": "motie verworpen",
+     "kop": "Stemmingen",
+     "tijd": "",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z22177"
+    },
+    {
      "titel": "Motie van het lid Vondeling over een totale asielstop invoeren",
      "bron": "motie verworpen",
      "kop": "Stemmingen",
      "tijd": "",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z21483"
-    },
-    {
-     "titel": "Motie van het lid Russcher over gedwongen terugkeer naar Syrië van Syrische asielzoekers die de openbare orde verstoren of…",
-     "bron": "motie verworpen",
-     "kop": "Stemmingen",
-     "tijd": "",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z21482"
     },
     {
      "titel": "Mevrouw Sterk over opsporing",
@@ -567,14 +585,6 @@
      "tijd": "12-10",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D50530",
      "sorteer": "2026-10-14T12:39:46.26+02:00"
-    },
-    {
-     "titel": "Motie van de leden Straatman en Bikkers over alleen in uitzonderlijke gevallen strafrechtelijk handhaven als iemand een…",
-     "bron": "Motie",
-     "kop": "Brieven en moties",
-     "tijd": "12-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D50526",
-     "sorteer": "2026-10-14T12:39:41.163+02:00"
     },
     {
      "titel": "Rondetafelgesprek Detentie en marteling in bezet Oekraïne",
@@ -712,10 +722,10 @@
     {
      "titel": "Notenkraker",
      "kop": "Zeldzaamheden",
-     "bron": "Noord-Brabant",
-     "tijd": "14:05",
+     "bron": "Zuid-Holland",
+     "tijd": "15:52",
      "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-14T14:05:00+02:00"
+     "sorteer": "2026-10-14T15:52:00+02:00"
     },
     {
      "titel": "Pallas' Boszanger",
@@ -775,35 +785,35 @@
      "tellers": ""
     },
     {
-     "titel": "Landelijk vandaag: 185 soorten, 415.914 vogels geteld",
+     "titel": "Landelijk vandaag: 193 soorten, 438.869 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch"
     },
     {
-     "titel": "Vink — 206.660",
+     "titel": "Vink — 215.578",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch"
     },
     {
-     "titel": "Spreeuw — 60.812",
+     "titel": "Spreeuw — 65.051",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch"
     },
     {
-     "titel": "Kolgans — 54.749",
+     "titel": "Kolgans — 56.338",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch"
     },
     {
-     "titel": "Veldleeuwerik — 19.768",
+     "titel": "Veldleeuwerik — 23.399",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -834,7 +844,7 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Tafeleend springt eruit — 575, normaal 31",
+     "titel": "Veldleeuwerik springt eruit — 23.399, normaal 1.233",
      "bron": "19× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch",
@@ -842,15 +852,15 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Veldleeuwerik springt eruit — 19.768, normaal 1.233",
-     "bron": "16× het gewone niveau",
+     "titel": "Tafeleend springt eruit — 575, normaal 31",
+     "bron": "19× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch",
      "sein": true
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Rustig vandaag — 14 meldingen, samen 219 vogels",
+     "titel": "Rustig vandaag — 16 meldingen, samen 250 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -858,15 +868,15 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "1 binnen 75 km van Dalfsen",
-     "bron": "dichtstbij: Losser, 57 km",
-     "tijd": "12:09",
+     "titel": "2 binnen 75 km van Dalfsen",
+     "bron": "dichtstbij: Hardenberg - Baalder, 27 km",
+     "tijd": "11:35",
      "link": "https://waarneming.nl/species/19/observations/"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "5 meldingen vertrek uit het noorden",
-     "bron": "DE 5",
+     "titel": "6 meldingen vertrek uit het noorden",
+     "bron": "DE 5, SE 1",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -903,20 +913,14 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 16.5,
-    "gevoel": 16.5,
+    "nu": 16.7,
+    "gevoel": 16.7,
     "wind": "ZW 2",
     "station": "Heino",
     "bericht": "Vandaag en morgen profiteren we van geweldig herfstweer met veel zonneschijn en droog weer. Morgen krijgen we daarbij de hoogste temperaturen, met in Zeeuws-Vlaanderen een maximum van 21 graden. Vrijdag begint met zon.",
     "vandaag": "Vanmiddag is er veel ruimte voor de zon. Vanavond schijnt eerst nog de zon.",
     "temperatuur": "Morgen krijgen we daarbij de hoogste temperaturen, met in Zeeuws-Vlaanderen een maximum van 21 graden.",
-    "dalfsen": {
-     "zin": "Voor Dalfsen zelf: 8 tot 17 graden, 0% kans op neerslag, ruim 9 uur zon, wind uit het zuidwesten, kracht 2.",
-     "max": 17,
-     "min": 8,
-     "regenkans": 0,
-     "omschrijving": "bewolkt"
-    },
+    "dalfsen": null,
     "vooruit": "Eerst is er meer bewolking en valt er af en toe regen. Na het weekend is er meer ruimte voor de zon en blijft het droog. De temperatuur ligt rond of iets beneden het langjarig gemiddelde.",
     "omslag": "Vanaf vrijdag regen: de kans loopt op van 20% naar 80%.",
     "min": "10",
