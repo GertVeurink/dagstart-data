@@ -3,13 +3,15 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "13:00",
+  "opgehaald": "14:01",
   "blokken": 11,
-  "berichten": 100,
-  "problemen": [],
+  "berichten": 98,
+  "problemen": [
+   "kamerstukken Schriftelijke vragen: HTTPError"
+  ],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-14T13:00+02:00",
+ "opgehaald": "2026-10-14T14:01+02:00",
  "audio": "audio/20261014.mp3",
  "blokken": [
   {
@@ -17,6 +19,15 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "100 jaar Winnie de Poeh: 'Zonder de Eerste Wereldoorlog was hij er niet geweest'",
+     "context": "Op avontuur in het Honderd Bunderbos en altijd op zoek naar honing. Dat kan er maar één zijn: de wereldberoemde beer Winnie de Poeh. Honderd jaar geleden verscheen het eerste boek over hem, later gevolgd door vele tekenfilms van Disney. De verhalenbundel van de Britse schrijver Alan Alexander Milne verscheen op 14 oktober 1926. Milne was al een succesvol auteur, maar schreef tot dan toe vooral ton",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2634936",
+     "bron": "NOS",
+     "tijd": "13:58",
+     "sorteer": "2026-10-14T13:58:23+02:00"
+    },
     {
      "titel": "Slachtoffers Vietnamoorlog opnieuw begraven na poging hen te identificeren",
      "context": "Honderden slachtoffers van de Vietnamoorlog zijn in Ho Chi Minhstad herdacht en opnieuw begraven. Vermoedelijk werden zij gedood tijdens het Tet-offensief in 1968. De lichamen werden de afgelopen maanden opgegraven uit massagraven in de stad met als doel hen alsnog te identificeren. Bij het merendeel is dat nog niet gelukt. De ruim 700 slachtoffers zijn bijgezet op een begraafplaats. Duizenden men",
@@ -54,13 +65,13 @@
      "sorteer": "2026-10-14T08:51:24+02:00"
     },
     {
-     "titel": "Boot kapseist in India: dertien kinderen omgekomen",
-     "context": "Bij een ongeluk met een boot in India zijn dertien kinderen om het leven gekomen. De boot kapseisde op de rivier de Ganges. Volgens The Times Of India waren de kinderen onderweg naar een feest. De reddingsoperatie is nog altijd in volle gang. De krant schrijft dat drie of vier mensen nog vermist zijn. Zeven andere opvarenden zijn inmiddels gered en zijn naar het ziekenhuis gebracht. Hoe het mis ko",
+     "titel": "Zwaveltekort door Iran-oorlog dreigt voedselprijzen op te drijven",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2634896",
-     "bron": "NOS",
-     "tijd": "08:01",
-     "sorteer": "2026-10-14T08:01:32+02:00"
+     "link": "https://www.volkskrant.nl/buitenland/middenoosten-liveblog-iran-houthi-yemen-saoediarabie-vs~ba2c7027/",
+     "bron": "de Volkskrant",
+     "tijd": "13:08",
+     "sorteer": "2026-10-14T11:08:00+00:00"
     },
     {
      "titel": "Oudste restaurant van Londen (228 jaar) wordt rijksmonument: in elite-eetkamer Rules aten koningen en supersterren",
@@ -72,15 +83,6 @@
      "sorteer": "2026-10-14T10:58:51+00:00"
     },
     {
-     "titel": "SpaceX legt Oekraïense militairen snelheidslimiet op voor gebruik satellietinternet, meldt Oekraïne",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/liveblog-oekraine-zelensky-nieuws-poetin-trump~bb03466a/",
-     "bron": "de Volkskrant",
-     "tijd": "11:07",
-     "sorteer": "2026-10-14T09:07:00+00:00"
-    },
-    {
      "titel": "Qatar Airways schort vluchten naar Riyad en Dammam op wegens aanvallen Houthi’s op luchthavens",
      "context": "",
      "rubrieken": [],
@@ -90,18 +92,18 @@
      "sorteer": "2026-10-14T01:13:00+00:00"
     },
     {
-     "titel": "Christelijke migrant in Saoedi-Arabië: doodstraf na Facebook-reactie vernietigd",
-     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMElYdWh3OTVWUVI0cUdIRXZ2V3k0cUVLMEpzVXpqaXNVRUs2ZDRVRjk4d1hIdHY5NDdJT2dzWHhoeVkzdENCNEllNENKWThySGdpekFzVVhJdW5oaEJCd0p4NHlWTVozQU1jaFhtX2N3b3JHU01KQmR2SmFFN2RWT25UeTliV3ZLT0M5VjZWSnpYTXdoMG9LZG9TMmVMOTZkZWNlVmdvdFkzVXNQUDJSYzRwbTVXWUd1Y0VacmpGNE9TbjlpMjlzSXNZSnNYRTkzMDlUZUhKXzRmcHhJTHdoLUhEc01LWTVJclFmRzFqNXQ3THQ3b1JqbVF4anByVVMwUEQ0V0F3?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "12:43",
-     "sorteer": "2026-10-14T10:43:48+00:00"
+     "titel": "Precies op het moment dat Trump deals sluit met Poetin worden de Oekraïense strijdkrachten ernstig gehinderd bij de verdediging van hun land",
+     "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPXzhnNGhZa3RabkVzenp4SnNvUkFHWFdyRGctVXhLZ3pILUdYLXl3cF9sQUZERVhlNmxJZHVPeTc5eVljREp0bGhWOTR2eUhkSXREUk1KTnB5a0xlSDFmTXA2NHdmU0NmRk9CYWtIMEhiZ1lIUm9UazFlRU9Hb1QxSXA1aC1LRlZrS1BTZTZ6WDRBbnFKekVqTi1fcHZmaGQwUHJfbVRTWVhrZ21DOFZjU3haOVBxVGhyN2pfbVJrTXV6WWJqTkdXbm9CZmdaemVraW0ycC05ZlBEODhlMVR5el9BWTlZYl92ZWlVMFFBT25xcm5UOXlWREcwc19xMUdIUVlHVGhWeEFQeHJjMUladlNieEs?oc=5",
+     "bron": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+     "tijd": "13:50",
+     "sorteer": "2026-10-14T11:50:10+00:00"
     },
     {
-     "titel": "Hoge rechter Maleisië vernietigt uitspraak in zaak rond model Ivana Smit, heropening onderzoek van de baan",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZnVROFBmalFiNmdsLUVqQUVEN2JNRVdsRkdKakxXeWNsM2w2aHd2XzgwTGllTXF4YmpPNnB6LW5NTk9QNnY2aTZSSVY2SzRVcUpIcG95dGg0U2ZiZXNhaWwwU205RnVhTWM5NjNaMVpaTVNwbmY1M0REbmNyUHE4cjJ3X2JPZlc3NWw1Wk9wUGpYMFkyQkxmM2FkMzJBMG5qUWtkVmNHLVFkVGhRY0JNXzVuUFVraXpKRVJod2syazAtTGNiMGxOQ0pxNkVES2hZWWxQWjJyX09WMF9maGlPYjdRWDNsVVlkdkU1aQ?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "11:37",
-     "sorteer": "2026-10-14T09:37:37+00:00"
+     "titel": "Kamer wil aanpassingen regels rond nieuwe scholen",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlhXcWk3WWVsR3Bxc0h2X3pkdVFXZkNzTzhTajI0WWpnNm5TTVo5WU9Hd21yZ2dpSjBWNjhDenEtZkRGOTktYjRhNUtSTnZ4RTBlNFY0NkZNd25HVl9JSlFrOWl5X2FpcG9tdnhsa0tYQ0VpOU5QZDBQSXBaRVRPOA?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "13:35",
+     "sorteer": "2026-10-14T11:35:04+00:00"
     }
    ]
   },
@@ -110,6 +112,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Opnieuw eenrichtingsverkeer voor scheepvaart op IJssel door lage waterstand",
+     "context": "De scheepvaart op de IJssel tussen de IJsselkop en Zutphen mag sinds vanochtend opnieuw maar in één richting varen. Rijkswaterstaat heeft de maatregel opnieuw ingesteld vanwege de lage waterstand. Schepen moeten daardoor weer zo'n 300 kilometer omvaren. Maandag werd het eenrichtingsverkeer nog opgeheven , omdat de minimaal gepeilde diepte op de Boven-IJssel de vereiste 1,45 meter had bereikt. Door",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2634929",
+     "bron": "NOS",
+     "tijd": "13:09",
+     "sorteer": "2026-10-14T13:09:58+02:00"
+    },
     {
      "titel": "Boom van het jaar is rode beuk in Middelstum",
      "context": "De rode beuk bij de ingang van de Sint-Hippolytuskerk in Middelstum (Groningen) heeft de publieksverkiezing voor Boom van het Jaar gewonnen. De boom van ruim 150 jaar oud kreeg bijna 3000 stemmen meer dan de nummer twee, die in Utrecht staat. De verkiezing wordt gehouden door het SBNL Natuurfonds. Met de prijs wil het fonds aandacht vestigen op mooie, bijzondere of monumentale bomen, of bomen die ",
@@ -127,24 +138,6 @@
      "bron": "NOS",
      "tijd": "09:37",
      "sorteer": "2026-10-14T09:37:51+02:00"
-    },
-    {
-     "titel": "Wekdienst 14/10: Busstakingen door hele land • Proces Nord Stream-aanslag van start",
-     "context": "Goedemorgen! Busreizigers opgelet: door het hele land rijden er vandaag minder bussen door stakingen. En in Duitsland gaat vandaag het proces rondom de Nord Stream-aanslag in 2022 van start. Eerst het weer: het is droog en vooral vanochtend is de zon regelmatig te zien. Van tijd tot tijd trekken sluierwolken over. Vanmiddag komen ook stapelwolken voor. Bij een zwakke tot matige zuidwestenwind word",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2634886",
-     "bron": "NOS",
-     "tijd": "06:07",
-     "sorteer": "2026-10-14T06:07:01+02:00"
-    },
-    {
-     "titel": "Staking in streekvervoer, gevolgen in regio's verschillen",
-     "context": "In het streekvervoer wordt vandaag gestaakt. Reizigers moeten rekening houden met vertragingen en uitval van ritten. De impact verschilt per regio. Door de staking rijden geen treinen van Arriva in Limburg. In andere delen van het land rijden de Arriva-treinen wel volgens dienstregeling. Zo rijden alle treinen tussen Zwolle en Emmen, tussen Almelo en Hardenberg en tussen Zutphen en Oldenzaal. Ook ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2634885",
-     "bron": "NOS",
-     "tijd": "05:28",
-     "sorteer": "2026-10-14T05:28:11+02:00"
     },
     {
      "titel": "Albert Heijn verwacht alle distributiecentra ‘in de loop van de dag’ weer op te starten",
@@ -174,32 +167,39 @@
      "sorteer": "2026-10-14T10:00:00+00:00"
     },
     {
+     "titel": "Hoe een Gazaanse student werd aangemerkt als potentiële terrorist",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcWp6REs4blFubC0teUVISk9seTBlVkN5dFE1N0lEem9tUnNGZjdCUHJjOE9WVVM3NU1ZX0RFNTJtSmtqSS0tMTJKQXJ5LVlHdFJWSkd0cHJnMER2S3RJZHE1VEljOWYzMUJZU2VZTXZnaTl1LW5FSmRmbk9YWXhNUGpLWkxDYXBBdFFzcTIyZFFrMnVLNmZ5TFBBQ2xVV1R6LU0tNVFkdFg3dw?oc=5",
+     "bron": "Trouw",
+     "tijd": "13:43",
+     "sorteer": "2026-10-14T11:43:37+00:00"
+    },
+    {
      "titel": "Pro opent jacht op zorgcowboys: vooraf screenen moet fraude met belastinggeld tegengaan",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWm1xWXZUYnlJX2lfVkxicE16a3dycF8yOWlVVTZrS0hvY0VKdWhWM1pZZktiZWFjZmRQZjV5Tzd5MkgyMndVUXVrVHVEMGFxOXl3WUxPdWNpbFlVM2JQaHB0Um5UN2dTYkhHZF91NXFpNFpCRDlTOEF2aEtMSjNmcGZKaGFQS3pXRUNhc3kwYkw0U2tKRW03NFRYYjA4RzlpdlRzckd4REJNVEVBYXoyMnZpYXhaaGFLZmpFdjFPYTZEWl9QeUUtZjh5N2lPb0Fv?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "12:44",
-     "sorteer": "2026-10-14T10:44:52+00:00"
+     "tijd": "13:31",
+     "sorteer": "2026-10-14T11:31:51+00:00"
     },
     {
      "titel": "Jongerenwerk Nieuw-West verdacht van betrokkenheid bij witwassen 38 miljoen euro",
      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPcGY2Znk5ZEtjZktVeG1feFprYnFYU3I2eHREN21hZndJbi1sNmpuNm9qYTM1WG9sckxyUXd6WGR4ZEZkOU1heGlsanJ1MWFHVXotQWF6dDFNbnlDaldGYzFrRmNsVExoZlZyZnMtRXZmVWo0SnJoWWEzemlVSlpCTHQ4ZWg3RlFIWTNkcjVDWmozTW1DYTRmR09kc2kzWnoydXJoSXFFb1R5WkxYS3lJVVRReGQ4X21rVmFCbUQ0S0hoTlVnTTlwV09ONE14QUxHb3RLYzZ2M0RHbFVGR3pYUlVIOGNIQ0ZMeVN1ZVpBSGdWV01nVkpkRWVtcG9PYXFGZnpzLQ?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "12:18",
-     "sorteer": "2026-10-14T10:18:02+00:00"
+     "tijd": "13:28",
+     "sorteer": "2026-10-14T11:28:19+00:00"
+    },
+    {
+     "titel": "Christelijke migrant in Saoedi-Arabië: doodstraf na Facebook-reactie vernietigd",
+     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMElYdWh3OTVWUVI0cUdIRXZ2V3k0cUVLMEpzVXpqaXNVRUs2ZDRVRjk4d1hIdHY5NDdJT2dzWHhoeVkzdENCNEllNENKWThySGdpekFzVVhJdW5oaEJCd0p4NHlWTVozQU1jaFhtX2N3b3JHU01KQmR2SmFFN2RWT25UeTliV3ZLT0M5VjZWSnpYTXdoMG9LZG9TMmVMOTZkZWNlVmdvdFkzVXNQUDJSYzRwbTVXWUd1Y0VacmpGNE9TbjlpMjlzSXNZSnNYRTkzMDlUZUhKXzRmcHhJTHdoLUhEc01LWTVJclFmRzFqNXQ3THQ3b1JqbVF4anByVVMwUEQ0V0F3?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "12:43",
+     "sorteer": "2026-10-14T10:43:48+00:00"
     },
     {
      "titel": "Nederlander (22) vast in België na nachtelijke brandbom bij woning in Deurne",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPelZ3aG5KMnpqdy01enh3SzlodVpQR3FQMHg1WFZUckJvbUJfWWdLVmNIODNuRUNSSS1XaXNqdmtkYzZUTzRrZWw0MTBGLWx3OV8zcTlCUHhQNHNzdld6Tlg1dFVUaERFamxwVnl5Mndpcms0YkQzVkFNZm5TOU5pc3pFM0J5c2VLQ3lWSlBxX3B1dzFXczY3ZHR2NmhoNm04eG44aHA4WDJYZDZUUVNXdFlVQmpubTVmNllvMGVUY2Vsenc?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "11:51",
-     "sorteer": "2026-10-14T09:51:12+00:00"
-    },
-    {
-     "titel": "Uitlevering Almelose moordverdachte uitgesteld na zedenzaak",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRnc0aVFIa1FRaTJuUzJaNHc2OEVEY2Y2R3VXS2pSM2xEUkt6MU5RVUVtN3FZZmJ3dW9qQkR1TERYSWVqNEhKaUwydjZkV3N1R1dlUnNmYmkxWGxFOVpXaElqU2lUMDNKbThOQ1NWTGRUTTFveXZnODM3Q1BrYkdvWXMtdlJpMWFSS0ltY0VCTzJFV3ZuMlVuclFDdWI1Sy0yQUE?oc=5",
-     "bron": "Tubantia",
-     "tijd": "11:43",
-     "sorteer": "2026-10-14T09:43:35+00:00"
+     "tijd": "12:18",
+     "sorteer": "2026-10-14T10:18:48+00:00"
     },
     {
      "titel": "Deze speelplek is ook leuk als je blind bent of in een rolstoel zit",
@@ -287,29 +287,29 @@
      "sorteer": "2026-10-14T04:01:45+00:00"
     },
     {
-     "titel": "Albert Heijn in Dalfsen goed bevoorraad ondanks onrust",
-     "context": "DALFSEN – (Door John Til) De winkelketen Albert Heijn is dezer dagen volop in het nieuws. Uw reporter nam vandaag een kijkje bij de AH aan de Raadhuisstraat om te zien of de supermarkt zijn lijfspreuk – ‘Dat is het lekkere van Albert Heijn’ – ook in deze onrustige periode nog waar kan maken. En […]",
-     "rubrieken": [
-      "Dalfsen",
-      "Laatste nieuws"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/554468/albert-heijn-in-dalfsen-goed-bevoorraad-ondanks-onrust.html",
-     "bron": "DalfsenNet",
-     "tijd": "12:58",
-     "sorteer": "2026-10-14T10:58:46+00:00"
-    },
-    {
-     "titel": "Buurtbus lijn 591",
-     "context": "Zojuist bericht ontvangen van EBS dat ivm de staking in het OV ook de buurtbus lijn 591 (Nieuwleusen – via Oudleusen – station Dalfsen vv) vandaag 14.10.2026 niet zal rijden.",
+     "titel": "Buurtkamer in de Trefkoele+",
+     "context": "DALFSEN – Kom je langs bij de buurtkamer in de Trefkoele+ ? Een vrije inloop om gezellig te kletsen, een kop koffie te doen en eventueel een activiteit. Wekelijks kan je langs komen. Heb je een idee om te doen, laat het ons weten.",
      "rubrieken": [
       "Dalfsen",
       "Ingezonden bericht",
       "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/554432/buurtbus-lijn-591.html",
+     "link": "https://www.dalfsennet.nl/nieuws/554445/buurtkamer.html",
      "bron": "DalfsenNet",
-     "tijd": "12:55",
-     "sorteer": "2026-10-14T10:55:35+00:00"
+     "tijd": "13:33",
+     "sorteer": "2026-10-14T11:33:51+00:00"
+    },
+    {
+     "titel": "Kruising Wilhelminastraat – Brethouwerstraat morgen weer open?",
+     "context": "DALFSEN – (Door John Til) Boven de grond lijkt er weinig veranderd, maar onder de grond des te meer. Het werk aan de kruising Wilhelminastraat – Brethouwerstraat is bijna afgerond. De laatste stenen worden gelegd, het overtollige zand wordt afgevoerd en ook het tijdelijke buitentoilet lijkt aan zijn laatste werkdagen bezig. Als de gemeente het […]",
+     "rubrieken": [
+      "Dalfsen",
+      "Laatste nieuws"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/554480/kruising-wilhelminastraat-brethouwerstraat-morgen-weer-open.html",
+     "bron": "DalfsenNet",
+     "tijd": "13:27",
+     "sorteer": "2026-10-14T11:27:43+00:00"
     }
    ]
   },
@@ -380,18 +380,18 @@
    "emoji": "🤖",
    "items": [
     {
-     "titel": "Schrikbarend veel scripties geschreven met AI: 'Universiteiten zijn naïef'",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORS1aOVEzSVo1MnlVYXZ1Rzl6NTY1S1B6UXo5a09tcHVwbk1Fd282Y01BaUZkRzlLV0Z1ZVZMN3lESzh1V1JhMTRtd0pVSXVvWFdxZWFDUlBtbkc2V29YVDlFSkJib09taUJ0RDFYVW03dUtfcWVxdXRsSkdnb3JUTVJETHJqdXpweG53dzRoY0E5bjVVY1RjZkF5c3dQbjRvM3J4Y09wTGVSUGYtbFE?oc=5",
-     "bron": "RTL.nl",
-     "tijd": "06:08",
-     "sorteer": "2026-10-14T04:08:59+00:00"
-    },
-    {
      "titel": "ASML profiteert van groei AI-investeringen, chipgigant scherpt verwachtingen aan",
      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNFBycEZzTGJ6bU5raWxkbXlWZ25UUi1CUTJTZ0d6ZHNUTFlyblJHT2ViVjdxU3JHalAxT2VQd3c4SFUyLTA0Wk9PYThGUXlEVjBubXlLM2VZcVRZNDRxaXlxTUtsN0xFNDZqQ01yVHNBMFdjdWFQMWJuU2dzTXZzSW15X28yZzkyNjdvWHpBaFNlNEtEZUJkYmk5Q0hfLXJQTnhVMEZxcHZwLTRqUVVVLVZLN3NwX3hkU2ctWGpoNUk3Y0wwaHBsTnh3?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "11:57",
-     "sorteer": "2026-10-14T09:57:27+00:00"
+     "tijd": "13:53",
+     "sorteer": "2026-10-14T11:53:52+00:00"
+    },
+    {
+     "titel": "Angst voor AI die de mensheid uitroeit, leidt de aandacht af van schade die nu wordt aangericht",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSkt4QklPNC1NcFhCbmU3eWMzYUg0dVNseXpQcDE1dl9FaEJTNUNnRXlMMEVDdTJUbUFMVzBKdTBObnBuVVpBYWZDQjFYa2s5X3hhb3U2M1F5YTRiSnYtQ2dLM2xFbzNTOTZGVWMxaUhONDU5WnhxcWNfaTdXWEwxN0RORTJYVy03dVgxSkdLYjBVTUtvc0NTREs0bnB2Wm9VU1V3?oc=5",
+     "bron": "Nederlands Dagblad",
+     "tijd": "13:23",
+     "sorteer": "2026-10-14T11:23:00+00:00"
     },
     {
      "titel": "Plagiaatchecker wil studentenscripties gebruiken om AI te trainen",
@@ -522,30 +522,6 @@
      "link": "https://www.tweedekamer.nl/debat_en_vergadering"
     },
     {
-     "titel": "De berichtgeving over discriminatie bij de afdeling Handhaving van UWV",
-     "bron": "Kamervraag",
-     "kop": "Kamervragen",
-     "tijd": "08-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49721",
-     "sorteer": "2026-10-13T16:16:04.157+02:00"
-    },
-    {
-     "titel": "De inzet van drones door politie en andere opsporingsinstanties",
-     "bron": "Kamervraag",
-     "kop": "Kamervragen",
-     "tijd": "22-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D45256",
-     "sorteer": "2026-10-13T16:03:32.667+02:00"
-    },
-    {
-     "titel": "Het bericht ‘Maandenlange zoektocht van Defensie naar opvanglocatie voor asielzoekers levert nul plaatsen op. ‘We zijn…",
-     "bron": "Kamervraag",
-     "kop": "Kamervragen",
-     "tijd": "22-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D45262",
-     "sorteer": "2026-10-13T15:48:56.28+02:00"
-    },
-    {
      "titel": "Antwoord op vragen van het lid Armut over het bericht 'Vrouwen die suïcide plegen, blijken opvallend vaak slachtoffer van…",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
@@ -554,20 +530,20 @@
      "sorteer": "2026-10-14T09:42:39.583+02:00"
     },
     {
-     "titel": "Voortgang van de aanpak van geweld tegen vrouwen, huiselijk geweld en kindermishandeling",
+     "titel": "Werkprogramma Inspectie Justitie en Veiligheid 2027",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
-     "tijd": "03-07",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D35138",
-     "sorteer": "2026-10-14T12:53:33.61+02:00"
+     "tijd": "28-09",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D46899",
+     "sorteer": "2026-10-14T13:40:24.347+02:00"
     },
     {
-     "titel": "Cijfermatige analyse van asielaanvragen na MVV",
+     "titel": "Voortgangsbrief discriminatie en racisme oktober 2026",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
-     "tijd": "02-07",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D34800",
-     "sorteer": "2026-10-14T09:25:07.857+02:00"
+     "tijd": "14-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51270",
+     "sorteer": "2026-10-14T13:07:59.797+02:00"
     },
     {
      "titel": "Motie van het lid Teunissen over zich uitspreken voor een vierde aanvullend protocol over milieucriminaliteit",
@@ -719,6 +695,14 @@
    "emoji": "🐦",
    "items": [
     {
+     "titel": "Pallas' Boszanger",
+     "kop": "Zeldzaamheden",
+     "bron": "Noord-Holland",
+     "tijd": "12:35",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-14T12:35:00+02:00"
+    },
+    {
      "titel": "Sperwergrasmus",
      "kop": "Zeldzaamheden",
      "bron": "Friesland",
@@ -776,42 +760,42 @@
      "tellers": ""
     },
     {
-     "titel": "Landelijk vandaag: 168 soorten, 347.636 vogels geteld",
+     "titel": "Landelijk vandaag: 176 soorten, 375.088 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch"
     },
     {
-     "titel": "Vink — 177.110",
+     "titel": "Vink — 191.715",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch"
     },
     {
-     "titel": "Spreeuw — 54.127",
+     "titel": "Spreeuw — 55.458",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch"
     },
     {
-     "titel": "Kolgans — 43.123",
+     "titel": "Kolgans — 46.945",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch"
     },
     {
-     "titel": "gans spec. — 16.442",
+     "titel": "Veldleeuwerik — 16.553",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch"
     },
     {
-     "titel": "Veldleeuwerik — 13.757",
+     "titel": "gans spec. — 16.489",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -819,7 +803,7 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "gans spec. springt eruit — 16.442, normaal 123",
+     "titel": "gans spec. springt eruit — 16.489, normaal 123",
      "bron": "134× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch",
@@ -843,8 +827,8 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Veldleeuwerik springt eruit — 13.757, normaal 1.233",
-     "bron": "11× het gewone niveau",
+     "titel": "Veldleeuwerik springt eruit — 16.553, normaal 1.233",
+     "bron": "13× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch",
      "sein": true
@@ -904,9 +888,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 15.6,
-    "gevoel": 15.6,
-    "wind": "ZW 3",
+    "nu": 16.0,
+    "gevoel": 16.0,
+    "wind": "ZW 2",
     "station": "Heino",
     "bericht": "Vandaag en morgen profiteren we van geweldig herfstweer met veel zonneschijn en droog weer. Morgen krijgen we daarbij de hoogste temperaturen, met in Zeeuws-Vlaanderen een maximum van 21 graden. Vrijdag begint met zon.",
     "vandaag": "Vanmiddag is er veel ruimte voor de zon. Vanavond schijnt eerst nog de zon.",
