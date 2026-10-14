@@ -3,13 +3,15 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "08:00",
+  "opgehaald": "09:00",
   "blokken": 11,
-  "berichten": 97,
-  "problemen": [],
+  "berichten": 96,
+  "problemen": [
+   "weer Dalfsen: HTTPError"
+  ],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-14T08:00+02:00",
+ "opgehaald": "2026-10-14T09:00+02:00",
  "audio": "audio/20261014.mp3",
  "blokken": [
   {
@@ -17,6 +19,33 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Lichaam 'vergeten' Fransman ligt 14 jaar in mortuarium in Toulouse",
+     "context": "In het universitair ziekenhuis van Toulouse is een lichaam gevonden dat al zo'n veertien jaar in het mortuarium lag. Dat ontdekte de regionale krant La Dépêche . De man overleed in 2012 in zijn huis in het dorp Castelnau-d'Auzan. Hij was 58 jaar. \"We kregen op 1 oktober een telefoontje\", zegt de burgemeester van Castelnau-d'Auzan tegen La Dépêche. \"Ik dacht dat het een grap was.\" Na de autopsie in",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2634900",
+     "bron": "NOS",
+     "tijd": "08:51",
+     "sorteer": "2026-10-14T08:51:24+02:00"
+    },
+    {
+     "titel": "Boot kapseist in India: dertien kinderen omgekomen",
+     "context": "Bij een ongeluk met een boot in India zijn dertien kinderen om het leven gekomen. De boot kapseisde op de rivier de Ganges. Volgens The Times Of India waren de kinderen onderweg naar een feest. De reddingsoperatie is nog altijd in volle gang. De krant schrijft dat drie of vier mensen nog vermist zijn. Zeven andere opvarenden zijn inmiddels gered en zijn naar het ziekenhuis gebracht. Hoe het mis ko",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2634896",
+     "bron": "NOS",
+     "tijd": "08:01",
+     "sorteer": "2026-10-14T08:01:32+02:00"
+    },
+    {
+     "titel": "Costa Rica opent megagevangenis, 'juist voedingsbodem voor drugskartels'",
+     "context": "Een nieuwe megagevangenis in Costa Rica moet de georganiseerde misdaad daar gaan indammen. Het Midden-Amerikaanse land krijgt zo'n 40 procent meer detentieplekken. Costa Rica, dat lang bekendstond als het veiligste land in de regio, kampt de laatste jaren met toenemend geweld door rivaliserende drugsbendes. Vandaag opent het Center for High Containment of Organized Crime (CACCO) - zoals de gevange",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2634895",
+     "bron": "NOS",
+     "tijd": "08:00",
+     "sorteer": "2026-10-14T08:00:01+02:00"
+    },
     {
      "titel": "Costa Rica opent in navolging van El Salvador strenge megagevangenis",
      "context": "De Costa Ricaanse president Fernández opent vandaag een nieuwe megagevangenis in haar land. In de gevangenis in Alajuela, op een half uur rijden van hoofdstad San José, is plek voor ruim 5000 gedetineerden. De opening van de gevangenis is een nieuwe stap in de strijd die de regering van het Midden-Amerikaanse land voert tegen de georganiseerde misdaad. Bij de bouw van de gevangenis is zeer nadrukk",
@@ -36,40 +65,22 @@
      "sorteer": "2026-10-14T06:55:07+02:00"
     },
     {
-     "titel": "Opname-apparaatje ontdekt in vergaderzaal OpenAI, medewerker opgepakt",
-     "context": "AI-ontwikkelaar OpenAI heeft opname-apparatuur ontdekt in een van de eigen kantoren. Het Amerikaanse bedrijf spreekt van een \"geavanceerd opname-apparaat\". Het was geplaatst in een vergaderzaal in San Francisco waar vaak bedrijfsgevoelige informatie wordt besproken. OpenAI deed de ontdekking eind september. Het apparaatje was gewikkeld in wc-papier en zat in de usb-poort van een televisie. Daar za",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2634884",
-     "bron": "NOS",
-     "tijd": "04:24",
-     "sorteer": "2026-10-14T04:24:33+02:00"
-    },
-    {
-     "titel": "Marsrover Perseverance vestigt afstandsrecord (maar snel gaat het niet)",
-     "context": "De Marsrover Perseverance van ruimtevaartorganisatie NASA heeft vijf jaar na aankomst op Mars een record gevestigd. Nog nooit reed een door mensen gemaakt voertuig zo ver op een andere planeet dan de aarde: 45,22 kilometer. Perseverance (doorzettingsvermogen) heeft daarmee het oude record van de Marsrover Opportunity verbroken. Dat karretje legde 45,16 kilometer af tussen 2014 en 2018. De gemiddel",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2634882",
-     "bron": "NOS",
-     "tijd": "02:06",
-     "sorteer": "2026-10-14T02:06:29+02:00"
-    },
-    {
-     "titel": "Geruchtmakende Nord Stream-zaak in volgende fase: eerste verdachte van aanval vandaag voor Duitse rechter",
+     "titel": "‘Er worden heel veel leugens verspreid over Democratische kandidaten’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/geruchtmakende-nord-stream-zaak-in-volgende-fase-eerste-verdachte-van-aanval-voor-duitse-rechter~bdfd68b3/",
+     "link": "https://www.volkskrant.nl/buitenland/er-worden-heel-veel-leugens-verspreid-over-democratische-kandidaten~b15b5189/",
      "bron": "de Volkskrant",
-     "tijd": "07:40",
-     "sorteer": "2026-10-14T05:40:49+00:00"
+     "tijd": "08:16",
+     "sorteer": "2026-10-14T06:16:02+00:00"
     },
     {
-     "titel": "Trump: Taiwan gaat miljarden investeren in gasproject Alaska",
+     "titel": "Stroomuitval en drie doden in Kyiv na Russische raketaanval",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-hegseth-pentagon~bcd4a5c7/",
+     "link": "https://www.volkskrant.nl/buitenland/liveblog-oekraine-zelensky-nieuws-poetin-trump~bb03466a/",
      "bron": "de Volkskrant",
-     "tijd": "05:35",
-     "sorteer": "2026-10-14T03:35:00+00:00"
+     "tijd": "08:11",
+     "sorteer": "2026-10-14T06:11:00+00:00"
     },
     {
      "titel": "Qatar Airways schort vluchten naar Riyad en Dammam op wegens aanvallen Houthi’s op luchthavens",
@@ -79,20 +90,6 @@
      "bron": "Trouw",
      "tijd": "03:13",
      "sorteer": "2026-10-14T01:13:00+00:00"
-    },
-    {
-     "titel": "Theologische Hogeschool Bazel stapt niet naar Zwitsers hooggerechtshof om erkenning",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaFNKTV9IdzhvTXlnYmxSLVZ1b0pxRl9Tc1FoWGw3SHhKRk1fRzdJTHB1bVZVWWZRRk9Jakw2YTN5QnB1OGd3WmlNSUtuNHUtYWZkLWFHcDRETk5TaFo5SWZnbzU4UEE1eTFPVmx4VXhRamprcDM2bmN2NFNkaGZGTlpwM1ZUUUljVXN3QjlpckRSMGVwbXJGN2d1Y0pQUjZrcWg4MkNLb0F6bm5ZbEE?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "06:55",
-     "sorteer": "2026-10-14T04:55:48+00:00"
-    },
-    {
-     "titel": "Meditatie: Horen én doen",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NVllVa1B3Z0JQdWtsbXY0MHV4Z3BZcGdBclhtdENqZE1WM3hRX2Frb09rNk5XdUdSSFM3T1ZqOVg0Q0ZrUjNmZU1FMF9ZaVJFU3Rrc1lrNVpqcUxjWnc?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "06:32",
-     "sorteer": "2026-10-14T04:32:38+00:00"
     }
    ]
   },
@@ -138,7 +135,7 @@
      "sorteer": "2026-10-13T21:19:04+02:00"
     },
     {
-     "titel": "In no time lege schappen: storing Albert Heijn laat zien hoe kwetsbaar voedselketen is",
+     "titel": "In no time lege schappen: cyberaanval Albert Heijn toont hoe kwetsbaar voedselketen is",
      "context": "Niet zozeer de productie, maar vooral de distributie van producten is een kwetsbaar punt bij de voedselzekerheid in Nederland. Dat zeggen deskundigen over het cyberincident bij Albert Heijn , waardoor werkzaamheden werden stilgelegd en supermarkten gisteren met lege schappen kwamen te zitten. Volgens Pieter Zwaan van onderzoeksinstituut Clingendael werken supermarkten en leveranciers zo efficiënt ",
      "rubrieken": [],
      "link": "https://nos.nl/l/2634854",
@@ -147,13 +144,13 @@
      "sorteer": "2026-10-13T20:53:31+02:00"
     },
     {
-     "titel": "Seksueel geweld tegen vrouwen in interneringkampen na WOII was structureel; getuigenissen belandden in een la",
+     "titel": "Seksueel geweld tegen vrouwen in interneringskampen na WOII was structureel; getuigenissen belandden in een la",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/seksueel-geweld-tegen-vrouwen-in-interneringkampen-na-woii-was-structureel-getuigenissen-belandden-in-een-la~b9d57b3b/",
+     "link": "https://www.volkskrant.nl/binnenland/seksueel-geweld-tegen-vrouwen-in-interneringskampen-na-woii-was-structureel-getuigenissen-belandden-in-een-la~b9d57b3b/",
      "bron": "de Volkskrant",
      "tijd": "05:00",
-     "sorteer": "2026-10-14T03:00:40+00:00"
+     "sorteer": "2026-10-14T03:00:00+00:00"
     },
     {
      "titel": "Baas Ahold Delhaize: duurt nog ‘paar dagen tot een week’ totdat alle systemen bij Albert Heijn zijn hersteld",
@@ -171,7 +168,14 @@
      "link": "https://www.trouw.nl/binnenland/in-de-berichtgeving-over-gaza-gaven-nederlandse-media-israel-de-meeste-ruimte~b7410e50/",
      "bron": "Trouw",
      "tijd": "22:00",
-     "sorteer": "2026-10-13T20:00:02+00:00"
+     "sorteer": "2026-10-13T20:00:00+00:00"
+    },
+    {
+     "titel": "Geruchtmakende Nord Stream-zaak in volgende fase: eerste verdachte van aanval voor Duitse rechter",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb0FCd1BtY3hMVHJWRXdBS1hNUEZ3cTJ3Q1ZJZ3ZtNnN0Q2puQ0FFa3BMNUU5aE5JX2RwRUQ3SzhfSGUtdmViLVIzdnZZTF9lR2xOR1NOdDdsU29NN1preXZGQVZGWlE3dnpNaHZaUHhsSkQ5X09ZeG12VENyRVJKTUd0YTNlbVFUbFE3SldSWUg1Ym5KUnZTU2N0cXVVdnA5M1BpTzJJUG9GS0NYWTFrZzE5ZWx2dEhUSkdscXBTb2k1R2hvTTg5dHRKc1NNb3pYZ3hqM0xBT2tiRFk?oc=5",
+     "bron": "de Volkskrant",
+     "tijd": "07:40",
+     "sorteer": "2026-10-14T05:40:49+00:00"
     },
     {
      "titel": "Pro opent jacht op zorgcowboys: vooraf screenen moet fraude met belastinggeld tegengaan",
@@ -184,15 +188,8 @@
      "titel": "Brandstichting tijdens Pride in 2025 was gepland, zegt Openbaar Ministerie",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3kxbzdKZzhZdTZFcEJSNDBMcGVKUVgxWXVQZU52QVNLeHhwN2xFQ3o5bENQbVFLVnZodm9uMWtETzFVdU9KdDlGTWNjTklyZXN5SXBhR0JvaTF6bnhQbDF0NjYtaUNlSUQtODI3eVI1OGplVU92WEhUWG9fSUl3MWQtcnBnNGlTWmNuMlp6VUVVbWRsVUM2b1Nuc25vc085dl9hTGhtYzRIdEVyVy1FS053TkVSakE?oc=5",
      "bron": "Nederlands Dagblad",
-     "tijd": "06:36",
-     "sorteer": "2026-10-14T04:36:56+00:00"
-    },
-    {
-     "titel": "Minister Van Weel wil haast met wet die ’terreuraanbidders’ strafbaar maakt, oppostie niet onder de indruk: ’Slap, slap, slap’",
-     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZGFnOGREWDc5aEg3bnVJN0E5UHRSU3JHUFRBc3pqNGxEVFJRVU40ekxlc21Mb1JxajFXNFNzVnNWZUNsMVFhZjhsWXdGdlExU2djdDJ3Z2hkUFk0bjlaNE81bXJBWlV3VWw5STFRa2g3Skx1ZGZ0NDRsUzhIdTJWTkFUYlNNc2tpbHM3eV9DZGFYZnBLZW5OeWpISGZFNndJN3FWdkNib1JzYjlJYkw0czNhSEJZdXJiRnU1WXhMSVlsMjdwWmE4SmV1MFhRMEVTUG56Uk9McG9fei0zeUpnaW1iWE05bi1uZ3pDTjNTVGxWbklNcWVGbGZFQQ?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "00:22",
-     "sorteer": "2026-10-13T22:22:00+00:00"
+     "tijd": "02:21",
+     "sorteer": "2026-10-14T00:21:14+00:00"
     },
     {
      "titel": "Deze speelplek is ook leuk als je blind bent of in een rolstoel zit",
@@ -223,58 +220,49 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Staking in streekvervoer: dit merken reizigers vandaag in Overijssel",
-     "context": "Reizigers in Overijssel moeten vandaag rekening houden met uitvallende bussen en treinen. Medewerkers van het streekvervoer leggen 24 uur lang hun werk neer. Toch rijdt een groot deel van het openbaar vervoer gewoon. Dit is wat we tot nu toe weten over de gevolgen in Overijssel.",
+     "titel": "Door kippenschuur, kerk en sportschool: Wandelvierdaagse verrast op eerste dag",
+     "context": "Honderden wandelaars die dwars door een kippenschuur lopen, vervolgens een kerk aandoen en tenslotte hun weg vervolgen via een sportschool. Het gebeurde allemaal tijdens de eerste dag van de Sallandse Wandelvierdaagse (SW4D). \"Dit is waarom we elk jaar meedoen\", vertelt een Fries echtpaar.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706435/staking-in-streekvervoer-dit-merken-reizigers-vandaag-in-overijssel",
+     "link": "https://www.oost.nl/cultuur/3706305/door-kippenschuur-kerk-en-sportschool-wandelvierdaagse-verrast-op-eerste-dag",
      "bron": "RTV Oost",
-     "tijd": "07:14",
-     "sorteer": "2026-10-14T05:14:59+00:00"
+     "tijd": "20:02",
+     "sorteer": "2026-10-13T18:02:48+00:00"
     },
     {
-     "titel": "Brand bij woning in Zwolle na gooien brandbaar materiaal door brievenbus",
-     "context": "Bij een woning aan de Molenweg in Zwolle is dinsdagavond brand ontstaan nadat iemand brandbaar materiaal door de brievenbus naar binnen had gegooid. Buren ontdekten de brand en belden direct 112. Op dat moment was er niemand thuis.",
+     "titel": "'Eén stemmetje klonk zuiver': hoe Thomas Berge ontdekt werd door Rinus",
+     "context": "Hij kan er nu om lachen, maar voor zanger Chiel Ottink was het achteraf gezien helemaal niet nodig z'n naam te veranderen. Hij deed dat ooit in de hoop op een carrière in Duitsland. Maar uiteindelijk zette Thomas Berge - want over hem hebben we het - nooit een voet op een Duits podium.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706432/brand-bij-woning-in-zwolle-na-gooien-brandbaar-materiaal-door-brievenbus",
+     "link": "https://www.oost.nl/cultuur/3705079/een-stemmetje-klonk-zuiver-hoe-thomas-berge-ontdekt-werd-door-rinus",
      "bron": "RTV Oost",
-     "tijd": "06:29",
-     "sorteer": "2026-10-14T04:29:26+00:00"
+     "tijd": "19:05",
+     "sorteer": "2026-10-13T17:05:57+00:00"
     },
     {
-     "titel": "Stroomnet is betrouwbaar, toch oefent Enexis op blackout: 'Simuleren hele jaar door'",
-     "context": "Het Nederlandse elektriciteitsnet behoort tot de meest betrouwbare van de wereld. Desondanks bereidt regionale netbeheerder Enexis zich voor op een noodsituatie, waarbij klanten langdurig zonder stroom zitten. \"Wij trainen het hele jaar op dit soort situaties\", zegt directeur Jan Willem Keur.",
+     "titel": "Twenterand is tonnen kwijt aan chalets die nauwelijks zijn gebruikt voor opvang",
+     "context": "Twenterand is een vermogen kwijt aan vier chalets die zouden worden ingezet voor crisisopvang. De gehuurde chalets blijven leegstaan. De woningen staan in Hardenberg, die de noodopvang geen goed idee vindt. Twenterand heeft de huisjes nu gekocht om ze te verplaatsen naar eigen grondgebied.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3704153/stroomnet-is-betrouwbaar-toch-oefent-enexis-op-blackout-simuleren-hele-jaar-door",
+     "link": "https://www.oost.nl/nieuws/3706137/twenterand-is-tonnen-kwijt-aan-chalets-die-nauwelijks-zijn-gebruikt-voor-opvang",
      "bron": "RTV Oost",
-     "tijd": "06:01",
-     "sorteer": "2026-10-14T04:01:45+00:00"
+     "tijd": "17:01",
+     "sorteer": "2026-10-13T15:01:14+00:00"
     },
     {
-     "titel": "Brandweerbaas trekt aan de bel over angstcultuur, maar wordt zelf ontslagen",
-     "context": "Een hoge leidinggevende van de brandweer IJsselland is afgelopen april ontslagen. Hij diende een klacht in over vermeende kleinerende opmerkingen door een collega, maar het onderzoek dat daarop volgde keerde zich tegen hemzelf. Volgens de rechter was de arbeidsrelatie uiteindelijk onherstelbaar verstoord.",
+     "titel": "Vrouw naar ziekenhuis na aanrijding met vrachtwagen bij bouwplaats in Zwolle",
+     "context": "Een fietsster is vanmiddag aan de Luttenbergerstraat in Zwolle gewond geraakt bij een aanrijding met een vrachtwagen. De vrouw is naar het ziekenhuis gebracht.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706308/brandweerbaas-trekt-aan-de-bel-over-angstcultuur-maar-wordt-zelf-ontslagen",
+     "link": "https://www.oost.nl/nieuws/3706242/vrouw-naar-ziekenhuis-na-aanrijding-met-vrachtwagen-bij-bouwplaats-in-zwolle",
      "bron": "RTV Oost",
-     "tijd": "05:04",
-     "sorteer": "2026-10-14T03:04:42+00:00"
+     "tijd": "13:15",
+     "sorteer": "2026-10-13T11:15:27+00:00"
     },
     {
-     "titel": "Tweede Kamer stemt voor meer bevoegdheden boa's op treinlijn Emmen-Zwolle",
-     "context": "De Tweede Kamer heeft gestemd voor meer bevoegdheden voor boa's van Arriva, meldt RTV Drenthe. Daarmee moet de overlast van zwartrijdende veiligelanders op de treinlijn tussen Emmen en Zwolle worden aangepakt. Asielminister Bart van den Brink (CDA) moet er zo snel mogelijk werk van maken.",
+     "titel": "Oost-Nederland roept kabinet op tot actie tegen laagwater",
+     "context": "Het kabinet moet snel maatregelen nemen tegen de gevolgen van laagwater, zeggen meerdere partijen in Oost-Nederland. Daarom bieden zij vandaag een brief aan de minister aan. Ze willen betere wateraanvoer, tijdelijke pompen en duidelijke afspraken over wat er gebeurt als vaarwegen opnieuw dichtgaan.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706333/tweede-kamer-stemt-voor-meer-bevoegdheden-boas-op-treinlijn-emmen-zwolle",
+     "link": "https://www.oost.nl/nieuws/3706133/oost-nederland-roept-kabinet-op-tot-actie-tegen-laagwater",
      "bron": "RTV Oost",
-     "tijd": "21:37",
-     "sorteer": "2026-10-13T19:37:24+00:00"
-    },
-    {
-     "titel": "Acht maanden cel geëist tegen chauffeur met 972 kilo lachgas in bestelwagen",
-     "context": "Hij dacht dat hij wijn vervoerde, maar bij een controle in Deventer had een 24-jarige man uit Amsterdam 972 kilo lachgas in zijn bestelwagen. De officier van justitie eist acht maanden celstraf. Ook wil hij dat de chauffeur de kosten voor het opruimen van het gas betaalt.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706253/acht-maanden-cel-geeist-tegen-chauffeur-met-972-kilo-lachgas-in-bestelwagen",
-     "bron": "RTV Oost",
-     "tijd": "20:58",
-     "sorteer": "2026-10-13T18:58:49+00:00"
+     "tijd": "12:01",
+     "sorteer": "2026-10-13T10:01:07+00:00"
     },
     {
      "titel": "De Zonnebloem zingt",
@@ -390,15 +378,22 @@
      "titel": "ASML profiteert van groei AI-investeringen, chipgigant scherpt verwachtingen aan",
      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNFBycEZzTGJ6bU5raWxkbXlWZ25UUi1CUTJTZ0d6ZHNUTFlyblJHT2ViVjdxU3JHalAxT2VQd3c4SFUyLTA0Wk9PYThGUXlEVjBubXlLM2VZcVRZNDRxaXlxTUtsN0xFNDZqQ01yVHNBMFdjdWFQMWJuU2dzTXZzSW15X28yZzkyNjdvWHpBaFNlNEtEZUJkYmk5Q0hfLXJQTnhVMEZxcHZwLTRqUVVVLVZLN3NwX3hkU2ctWGpoNUk3Y0wwaHBsTnh3?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "07:32",
-     "sorteer": "2026-10-14T05:32:45+00:00"
+     "tijd": "08:57",
+     "sorteer": "2026-10-14T06:57:27+00:00"
     },
     {
      "titel": "Oorlogsvoering met hulp van chatbot: ’Houthi’s gebruikten AI-model Claude om hypersonische raketten te ontwikkelen’",
      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPR3BBZnBmZkZzZUZveS10VkJxRHFELWVBWk1lbFRsRnlTQ3ZoUENVZ0tDQkdmMkR2SkNSeGlpS1Z4eHdRQ2o0MkNpbXZESW5xNU02N0hGeVk5ZFRHcUNmaHduV2dTcnhBcXpnRVFxaWVCSXZKLTRtMUtIM2JlWUhUTGdEV21tMFJka3BUZTdsY3ZHT0xMZnRpRm0wWmtGVENqcnkzbkpKbmNZdkVDeWxCdDNFQnFHZVk0Q3lGM2xNSUJtM3pzVTNnTWliMXRlaGR3Sy14NWE2bjNsMGF3NnVZVkRuY1I4YlBsWFdlV2J4d0xHenpv?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "07:15",
-     "sorteer": "2026-10-14T05:15:55+00:00"
+     "tijd": "07:45",
+     "sorteer": "2026-10-14T05:45:00+00:00"
+    },
+    {
+     "titel": "Laat creativiteit niet over aan zielloze chatbots",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSHBCRnpGS1pnRVpWSnBoUDR6OU1yc295U3FHZjlNbHpJSzZCOU5hREd3U1kxTEQxalFRVDRJc2IwVE5YVWFKSkdnSDBsMzE0Yk1tSzhab2ZKSThJY2F3aFpKUHlmTExGaldKRTFKT09idHhnWjFpOU9zT1JabE93eg?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "05:49",
+     "sorteer": "2026-10-14T03:49:23+00:00"
     },
     {
      "titel": "Nederlandse tv-makers mikken in Cannes op nieuwe wereldhit à la ’Big brother’ en ’The voice’: ’AI biedt ons alleen maar kansen’",
@@ -553,12 +548,12 @@
      "sorteer": "2026-10-13T15:48:56.28+02:00"
     },
     {
-     "titel": "Antwoord op vragen van het lid Podt over de beelden van Nederlandse fokkers die geweld tonen tegen konijnen",
+     "titel": "Antwoord op vragen van het lid Moinat over de documentaire Nachtkinderen en de normalisering van drugsgebruik onder jongeren",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
-     "tijd": "31-08",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D39999",
-     "sorteer": "2026-10-13T14:49:57.803+02:00"
+     "tijd": "01-09",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D40096",
+     "sorteer": "2026-10-14T08:23:40.97+02:00"
     },
     {
      "titel": "Evaluatie geloofwaardigheidsbeoordeling asielrelaas",
@@ -577,20 +572,20 @@
      "sorteer": "2026-10-13T16:54:44.613+02:00"
     },
     {
+     "titel": "Motie van het lid Van der Plas over inzetten op een gezamenlijke harde aanpak van antisemitisme en terrorismeverering",
+     "bron": "Motie",
+     "kop": "Brieven en moties",
+     "tijd": "13-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51079",
+     "sorteer": "2026-10-14T08:52:26.553+02:00"
+    },
+    {
      "titel": "Motie van het lid Van Baarle over de ondermijning en intimidatie van het Internationaal Strafhof door de VS veroordelen en de…",
      "bron": "Motie",
      "kop": "Brieven en moties",
      "tijd": "08-10",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49998",
      "sorteer": "2026-10-13T11:49:09.617+02:00"
-    },
-    {
-     "titel": "Motie van het lid Van der Plas over in kaart brengen of en waar sterk verouderde vergunningen met strafrechtelijke risico's…",
-     "bron": "Motie",
-     "kop": "Brieven en moties",
-     "tijd": "12-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D50537",
-     "sorteer": "2026-10-13T09:28:31.777+02:00"
     },
     {
      "titel": "Rondetafelgesprek Detentie en marteling in bezet Oekraïne",
@@ -735,10 +730,18 @@
     {
      "titel": "Notenkraker",
      "kop": "Zeldzaamheden",
-     "bron": "Limburg",
-     "tijd": "14:00",
+     "bron": "Gelderland",
+     "tijd": "08:46",
      "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-13T14:00:00+02:00"
+     "sorteer": "2026-10-14T08:46:00+02:00"
+    },
+    {
+     "titel": "Daurische Klauwier",
+     "kop": "Zeldzaamheden",
+     "bron": "Overijssel",
+     "tijd": "08:42",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-14T08:42:00+02:00"
     },
     {
      "titel": "Bosgors",
@@ -757,22 +760,6 @@
      "sorteer": "2026-10-13T11:37:00+02:00"
     },
     {
-     "titel": "Daurische Klauwier",
-     "kop": "Zeldzaamheden",
-     "bron": "Overijssel",
-     "tijd": "09:51",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-13T09:51:00+02:00"
-    },
-    {
-     "titel": "Siberische Boompieper",
-     "kop": "Zeldzaamheden",
-     "bron": "Noord-Holland",
-     "tijd": "09:45",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-13T09:45:00+02:00"
-    },
-    {
      "titel": "Dalfsen",
      "kop": "Vogeltrek",
      "bron": "14-10",
@@ -780,60 +767,68 @@
      "tijd": "",
      "link": "https://trektellen.org/count/view/1919/20261014",
      "soorten": [
-      "Kolgans 29",
-      "Koperwiek 12",
-      "Sperwer 3",
-      "Witte Kwikstaart 3"
+      "Houtduif 108",
+      "Kolgans 79",
+      "Koperwiek 31",
+      "Kleine Rietgans 25"
      ],
-     "aantal_soorten": 7,
+     "aantal_soorten": 23,
      "opmerkingen": [],
      "tellers": ""
     },
     {
-     "titel": "Landelijk vandaag: 38 soorten, 6.305 vogels geteld",
+     "titel": "Landelijk vandaag: 96 soorten, 58.531 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch"
     },
     {
-     "titel": "Spreeuw — 2.292",
+     "titel": "Vink — 27.619",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch"
     },
     {
-     "titel": "Vink — 1.940",
+     "titel": "Spreeuw — 17.440",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch"
     },
     {
-     "titel": "Kolgans — 1.717",
+     "titel": "Kolgans — 6.717",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch"
     },
     {
-     "titel": "Graspieper — 77",
+     "titel": "Veldleeuwerik — 1.070",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch"
     },
     {
-     "titel": "Grauwe Gans — 41",
+     "titel": "Grauwe Gans — 1.045",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch"
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "gans spec. springt eruit — 592, normaal 123",
+     "bron": "5× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch",
+     "sein": false
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Rustig gisteren — 44 meldingen, samen 3289 vogels",
+     "titel": "Rustig gisteren — 45 meldingen, samen 3349 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -880,19 +875,13 @@
    "items": [],
    "weer": {
     "nu": 7.7,
-    "gevoel": 6.1,
+    "gevoel": 6.5,
     "wind": "ZW 2",
     "station": "Heino",
-    "bericht": "Vandaag en morgen profiteren we van geweldig herfstweer met veel zonneschijn en blijft het overal droog. Morgen krijgen we daarbij de hoogste temperaturen, met in Zeeuws-Vlaanderen een maximum van 21 graden. Vrijdag begint met zon.",
+    "bericht": "Vandaag en morgen profiteren we van geweldig herfstweer met veel zonneschijn en droog weer. Morgen krijgen we daarbij de hoogste temperaturen, met in Zeeuws-Vlaanderen een maximum van 21 graden. Vrijdag begint met zon.",
     "vandaag": "Vanochtend is het schitterend weer. Vanmiddag zien we veel zon, met in het binnenland wat onschuldige stapelwolkjes.",
     "temperatuur": "Morgen krijgen we daarbij de hoogste temperaturen, met in Zeeuws-Vlaanderen een maximum van 21 graden.",
-    "dalfsen": {
-     "zin": "Voor Dalfsen zelf: 8 tot 17 graden, 0% kans op neerslag, ruim 10 uur zon, wind uit het zuidwesten, kracht 2.",
-     "max": 17,
-     "min": 8,
-     "regenkans": 0,
-     "omschrijving": "bewolkt"
-    },
+    "dalfsen": null,
     "vooruit": "Eerst is er meer bewolking en valt er af en toe regen. Na het weekend is er meer ruimte voor de zon en blijft het droog. De temperatuur ligt rond of iets beneden het langjarig gemiddelde.",
     "omslag": "Vanaf vrijdag regen: de kans loopt op van 20% naar 80%.",
     "min": "10",
