@@ -3,15 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "09:00",
+  "opgehaald": "10:01",
   "blokken": 11,
-  "berichten": 96,
-  "problemen": [
-   "weer Dalfsen: HTTPError"
-  ],
+  "berichten": 100,
+  "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-14T09:00+02:00",
+ "opgehaald": "2026-10-14T10:01+02:00",
  "audio": "audio/20261014.mp3",
  "blokken": [
   {
@@ -19,6 +17,15 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Zelensky: ruim 600.000 Oekraïners zonder stroom na nieuwe Russische aanvallen",
+     "context": "Door grootschalige Russische aanvallen op Oekraïense energie-infrastructuur zitten meer dan 600.000 Oekraïners zonder stroom. Dat zegt president Zelensky op X . Bij de aanvallen op Kyiv en Charkiv heeft Rusland ballistische raketten gebruikt. Volgens Zelensky vuurde Rusland vannacht in totaal 39 ballistische raketten en 120 drones af. In Kyiv werd een appartementencomplex geraakt. Daarbij kwamen d",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2634905",
+     "bron": "NOS",
+     "tijd": "09:22",
+     "sorteer": "2026-10-14T09:22:31+02:00"
+    },
     {
      "titel": "Lichaam 'vergeten' Fransman ligt 14 jaar in mortuarium in Toulouse",
      "context": "In het universitair ziekenhuis van Toulouse is een lichaam gevonden dat al zo'n veertien jaar in het mortuarium lag. Dat ontdekte de regionale krant La Dépêche . De man overleed in 2012 in zijn huis in het dorp Castelnau-d'Auzan. Hij was 58 jaar. \"We kregen op 1 oktober een telefoontje\", zegt de burgemeester van Castelnau-d'Auzan tegen La Dépêche. \"Ik dacht dat het een grap was.\" Na de autopsie in",
@@ -56,13 +63,13 @@
      "sorteer": "2026-10-14T07:08:23+02:00"
     },
     {
-     "titel": "Proces Nord Stream-aanslag van start: 6 vragen over ‘sabotage van de eeuw’",
-     "context": "In Hamburg begint vandaag het strafproces tegen de Oekraïner Serhii K. Hij staat terecht voor het opblazen van de Nord Stream-pijpleidingen tussen Rusland en Duitsland in 2022. K. zou de sabotage van het meest omstreden energieproject van Europa hebben gecoördineerd, in opdracht van Oekraïne. Vanwege de schaal en de impact wordt wel gesproken van \"de sabotage van de eeuw\". Over de achtergronden is",
+     "titel": "Trump moet CNN en andere verbannen media van rechter weer toelaten tot Witte Huis",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2634888",
-     "bron": "NOS",
-     "tijd": "06:55",
-     "sorteer": "2026-10-14T06:55:07+02:00"
+     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-hegseth-pentagon~bcd4a5c7/",
+     "bron": "de Volkskrant",
+     "tijd": "09:33",
+     "sorteer": "2026-10-14T07:33:00+00:00"
     },
     {
      "titel": "‘Er worden heel veel leugens verspreid over Democratische kandidaten’",
@@ -74,15 +81,6 @@
      "sorteer": "2026-10-14T06:16:02+00:00"
     },
     {
-     "titel": "Stroomuitval en drie doden in Kyiv na Russische raketaanval",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/liveblog-oekraine-zelensky-nieuws-poetin-trump~bb03466a/",
-     "bron": "de Volkskrant",
-     "tijd": "08:11",
-     "sorteer": "2026-10-14T06:11:00+00:00"
-    },
-    {
      "titel": "Qatar Airways schort vluchten naar Riyad en Dammam op wegens aanvallen Houthi’s op luchthavens",
      "context": "",
      "rubrieken": [],
@@ -90,6 +88,20 @@
      "bron": "Trouw",
      "tijd": "03:13",
      "sorteer": "2026-10-14T01:13:00+00:00"
+    },
+    {
+     "titel": "Tijgeraanval Yorkshire Wildlife Park: wie was William (23)?",
+     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZG41N25oWmRkWW9hZ04wVnlwX0ZsSWM0RG44cWpiSGJDRXJ5eGxEcnVEaWxiYzliUXkxNGk1QnRaSk0tSFdMTjluVC1IeXVET29ScE1GTDdWbFVJN3h4eFFWRnhrUzVPQncxdFJZN1JCS0xPVEJWWlBsSmlENE92bjJkWkdhbkJwdFJTYVRzOEw3WUxUa0k5b2ZyVEVya01IYklVTkhRNVdnQVJhSS1zbUJCUG9lT0N4Q1Q1X1VUTVp5dllfdGc5dG1tRGNlMVBHam5qLXlMcjJmN09VQ0Y1TGxSZUZ3NnRNT1JXbGJyaVpzZEJTYlhXN2tJcw?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "09:52",
+     "sorteer": "2026-10-14T07:52:49+00:00"
+    },
+    {
+     "titel": "Iris uit B&B vol liefde vindt plotseling liefde bij oud-deelnemer Thomas: ’Je hebt me tóch gevonden, helemaal leuk’",
+     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVTV2bXdSdjdkMEo5SUQwVFJMTU1yWHpYTUtsS0pzVVdoNHpMWkpjaFhwRUdfRHhmSWFvaFFzNWw5NzNod3piQVdmYk4xQV9fWVJhVi1yYUczb3c5ZVNVbE91NUFLdW5RLVpmNk4zMVZXWmJSZGVRTW1hNGZobG9OMThaN0ZkZmQ5Z014eEl4Sm9nZ2wtdFY1SFBxZW1NdDBDZXBRMkhpMnhUUE9OZ3czR0tVdG0xMDNzbS0ycENYWGlzWkhLamNrcE5OSGtQRm9pTGxTZWhFd3RZM3gyZmJNQ2JjMnN6amR6bWh3N2NB?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "09:48",
+     "sorteer": "2026-10-14T07:48:13+00:00"
     }
    ]
   },
@@ -98,6 +110,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Achttien Ajax-supporters opgepakt in Kroatië, 'hadden wapens bij zich'",
+     "context": "In de Kroatische stad Split zijn gisteren achttien Ajax-supporters aangehouden, schrijven Kroatische media . Van de arrestaties gaan foto's en video's rond op sociale media. De Amsterdamse club speelt morgen een uitwedstrijd tegen Hajduk Split in de Conference League. Op beelden van onder meer de nieuwssite Tportal is te zien dat de supporters worden opgepakt op een terras in het centrum van Split",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2634907",
+     "bron": "NOS",
+     "tijd": "09:37",
+     "sorteer": "2026-10-14T09:37:51+02:00"
+    },
     {
      "titel": "Wekdienst 14/10: Busstakingen door hele land • Proces Nord Stream-aanslag van start",
      "context": "Goedemorgen! Busreizigers opgelet: door het hele land rijden er vandaag minder bussen door stakingen. En in Duitsland gaat vandaag het proces rondom de Nord Stream-aanslag in 2022 van start. Eerst het weer: het is droog en vooral vanochtend is de zon regelmatig te zien. Van tijd tot tijd trekken sluierwolken over. Vanmiddag komen ook stapelwolken voor. Bij een zwakke tot matige zuidwestenwind word",
@@ -135,15 +156,6 @@
      "sorteer": "2026-10-13T21:19:04+02:00"
     },
     {
-     "titel": "In no time lege schappen: cyberaanval Albert Heijn toont hoe kwetsbaar voedselketen is",
-     "context": "Niet zozeer de productie, maar vooral de distributie van producten is een kwetsbaar punt bij de voedselzekerheid in Nederland. Dat zeggen deskundigen over het cyberincident bij Albert Heijn , waardoor werkzaamheden werden stilgelegd en supermarkten gisteren met lege schappen kwamen te zitten. Volgens Pieter Zwaan van onderzoeksinstituut Clingendael werken supermarkten en leveranciers zo efficiënt ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2634854",
-     "bron": "NOS",
-     "tijd": "20:53",
-     "sorteer": "2026-10-13T20:53:31+02:00"
-    },
-    {
      "titel": "Seksueel geweld tegen vrouwen in interneringskampen na WOII was structureel; getuigenissen belandden in een la",
      "context": "",
      "rubrieken": [],
@@ -171,25 +183,25 @@
      "sorteer": "2026-10-13T20:00:00+00:00"
     },
     {
-     "titel": "Geruchtmakende Nord Stream-zaak in volgende fase: eerste verdachte van aanval voor Duitse rechter",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb0FCd1BtY3hMVHJWRXdBS1hNUEZ3cTJ3Q1ZJZ3ZtNnN0Q2puQ0FFa3BMNUU5aE5JX2RwRUQ3SzhfSGUtdmViLVIzdnZZTF9lR2xOR1NOdDdsU29NN1preXZGQVZGWlE3dnpNaHZaUHhsSkQ5X09ZeG12VENyRVJKTUd0YTNlbVFUbFE3SldSWUg1Ym5KUnZTU2N0cXVVdnA5M1BpTzJJUG9GS0NYWTFrZzE5ZWx2dEhUSkdscXBTb2k1R2hvTTg5dHRKc1NNb3pYZ3hqM0xBT2tiRFk?oc=5",
-     "bron": "de Volkskrant",
-     "tijd": "07:40",
-     "sorteer": "2026-10-14T05:40:49+00:00"
-    },
-    {
      "titel": "Pro opent jacht op zorgcowboys: vooraf screenen moet fraude met belastinggeld tegengaan",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWm1xWXZUYnlJX2lfVkxicE16a3dycF8yOWlVVTZrS0hvY0VKdWhWM1pZZktiZWFjZmRQZjV5Tzd5MkgyMndVUXVrVHVEMGFxOXl3WUxPdWNpbFlVM2JQaHB0Um5UN2dTYkhHZF91NXFpNFpCRDlTOEF2aEtMSjNmcGZKaGFQS3pXRUNhc3kwYkw0U2tKRW03NFRYYjA4RzlpdlRzckd4REJNVEVBYXoyMnZpYXhaaGFLZmpFdjFPYTZEWl9QeUUtZjh5N2lPb0Fv?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "07:31",
-     "sorteer": "2026-10-14T05:31:51+00:00"
+     "tijd": "09:44",
+     "sorteer": "2026-10-14T07:44:39+00:00"
     },
     {
-     "titel": "Brandstichting tijdens Pride in 2025 was gepland, zegt Openbaar Ministerie",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3kxbzdKZzhZdTZFcEJSNDBMcGVKUVgxWXVQZU52QVNLeHhwN2xFQ3o5bENQbVFLVnZodm9uMWtETzFVdU9KdDlGTWNjTklyZXN5SXBhR0JvaTF6bnhQbDF0NjYtaUNlSUQtODI3eVI1OGplVU92WEhUWG9fSUl3MWQtcnBnNGlTWmNuMlp6VUVVbWRsVUM2b1Nuc25vc085dl9hTGhtYzRIdEVyVy1FS053TkVSakE?oc=5",
-     "bron": "Nederlands Dagblad",
-     "tijd": "02:21",
-     "sorteer": "2026-10-14T00:21:14+00:00"
+     "titel": "Hoger beroep Koningsdagverkrachting in december, maar dader zat flink deel straf al uit, hoe zit dat?",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUmxScUNTRWFMUWw2THphVHVmOFpBYUhHT1l5TnBPNS1HQlB6WmdCcDZkbFF3a0JJWVg4U2I0allmbVB2MlE3X29WN3NqdUtScXNQTGJtQmNHOWc5NDZ6RU5fMzNmb21VVk1KOVhkQkt6dUlvazgwNEJaOC1lc1VtUmFuM0hibnpzMl9iSWlPS2FZbmVJcVZsaEMyVVhRejhYS1g5Sl9XLWs0VVZudGxTelRLZ1JBWXpKb2dnUnlPMmZFMmVaVWJpczd2dFE2b2hXd3ZFVTNYSkg3VlE?oc=5",
+     "bron": "Tubantia",
+     "tijd": "09:21",
+     "sorteer": "2026-10-14T07:21:00+00:00"
+    },
+    {
+     "titel": "Ontuchtzaak voorkomt uitlevering naar Duitsland van Almelose moordverdachte",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXJDeTYtS1FSRjdHMW9sVVExbk9zb0hfYXR2THlLVndCTG5lRW5COUtRUEdHb1MyVGd5bFJSc0pTOVQ2VlZCZzNYQVdVSjhBTkNrdTZLZUdsMm44c01tNnIxdzJ2X0g5RWtzNEFnZVR6NVhqNU84MWF4QTVDT3VfdVRkcDZNdUMtSWt3dnh5UHl0VW5uV25NcHkwTVRGWTFyazZ5c3RnX1BPS3puNUdIRnlFd1BUN0U?oc=5",
+     "bron": "Tubantia",
+     "tijd": "09:09",
+     "sorteer": "2026-10-14T07:09:58+00:00"
     },
     {
      "titel": "Deze speelplek is ook leuk als je blind bent of in een rolstoel zit",
@@ -220,6 +232,44 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Staking in streekvervoer: dit merken reizigers vandaag in Overijssel",
+     "context": "Reizigers in Overijssel moeten vandaag rekening houden met uitvallende bussen en treinen. Medewerkers van het streekvervoer leggen 24 uur lang hun werk neer. Toch rijdt een groot deel van het openbaar vervoer gewoon. Dit is wat we tot nu toe weten over de gevolgen in Overijssel.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3706435/staking-in-streekvervoer-dit-merken-reizigers-vandaag-in-overijssel",
+     "bron": "RTV Oost",
+     "tijd": "07:14",
+     "sorteer": "2026-10-14T05:14:59+00:00"
+    },
+    {
+     "titel": "Brandweerbaas dient klacht in over collega, maar onderzoek kost hem zelf de kop",
+     "context": "Een hoge leidinggevende van de brandweer IJsselland is afgelopen april ontslagen. Hij diende een klacht in over vermeende kleinerende opmerkingen door een collega, maar het onderzoek dat daarop volgde keerde zich tegen hemzelf. Volgens de rechter was de arbeidsrelatie uiteindelijk onherstelbaar verstoord.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3706308/brandweerbaas-dient-klacht-in-over-collega-maar-onderzoek-kost-hem-zelf-de-kop",
+     "bron": "RTV Oost",
+     "tijd": "05:04",
+     "sorteer": "2026-10-14T03:04:42+00:00"
+    },
+    {
+     "titel": "Buschauffeurs staken tot kerst: ‘Waardering is mooi, met mond én portemonnee’",
+     "context": "Buschauffeurs en machinisten staken tot kerst iedere week een dag vanwege vastgelopen cao-onderhandelingen. Voor de ervaren chauffeur 'Teun' is de maat vol. Hij vreest langere werkdagen en minder grip op zijn rooster: \"Ik staak niet omdat het mijn hobby is.\"",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3706358/buschauffeurs-staken-tot-kerst-waardering-is-mooi-met-mond-en-portemonnee",
+     "bron": "RTV Oost",
+     "tijd": "05:00",
+     "sorteer": "2026-10-14T03:00:21+00:00"
+    },
+    {
+     "titel": "Acht maanden cel geëist tegen chauffeur met 972 kilo lachgas in bestelwagen",
+     "context": "Hij dacht dat hij wijn vervoerde, maar bij een controle in Deventer had een 24-jarige man uit Amsterdam 972 kilo lachgas in zijn bestelwagen. De officier van justitie eist acht maanden celstraf. Ook wil hij dat de chauffeur de kosten voor het opruimen van het gas betaalt.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3706253/acht-maanden-cel-geeist-tegen-chauffeur-met-972-kilo-lachgas-in-bestelwagen",
+     "bron": "RTV Oost",
+     "tijd": "20:58",
+     "sorteer": "2026-10-13T18:58:49+00:00"
+    },
+    {
      "titel": "Door kippenschuur, kerk en sportschool: Wandelvierdaagse verrast op eerste dag",
      "context": "Honderden wandelaars die dwars door een kippenschuur lopen, vervolgens een kerk aandoen en tenslotte hun weg vervolgen via een sportschool. Het gebeurde allemaal tijdens de eerste dag van de Sallandse Wandelvierdaagse (SW4D). \"Dit is waarom we elk jaar meedoen\", vertelt een Fries echtpaar.",
      "rubrieken": [],
@@ -238,31 +288,15 @@
      "sorteer": "2026-10-13T17:05:57+00:00"
     },
     {
-     "titel": "Twenterand is tonnen kwijt aan chalets die nauwelijks zijn gebruikt voor opvang",
-     "context": "Twenterand is een vermogen kwijt aan vier chalets die zouden worden ingezet voor crisisopvang. De gehuurde chalets blijven leegstaan. De woningen staan in Hardenberg, die de noodopvang geen goed idee vindt. Twenterand heeft de huisjes nu gekocht om ze te verplaatsen naar eigen grondgebied.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706137/twenterand-is-tonnen-kwijt-aan-chalets-die-nauwelijks-zijn-gebruikt-voor-opvang",
-     "bron": "RTV Oost",
-     "tijd": "17:01",
-     "sorteer": "2026-10-13T15:01:14+00:00"
-    },
-    {
-     "titel": "Vrouw naar ziekenhuis na aanrijding met vrachtwagen bij bouwplaats in Zwolle",
-     "context": "Een fietsster is vanmiddag aan de Luttenbergerstraat in Zwolle gewond geraakt bij een aanrijding met een vrachtwagen. De vrouw is naar het ziekenhuis gebracht.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706242/vrouw-naar-ziekenhuis-na-aanrijding-met-vrachtwagen-bij-bouwplaats-in-zwolle",
-     "bron": "RTV Oost",
-     "tijd": "13:15",
-     "sorteer": "2026-10-13T11:15:27+00:00"
-    },
-    {
-     "titel": "Oost-Nederland roept kabinet op tot actie tegen laagwater",
-     "context": "Het kabinet moet snel maatregelen nemen tegen de gevolgen van laagwater, zeggen meerdere partijen in Oost-Nederland. Daarom bieden zij vandaag een brief aan de minister aan. Ze willen betere wateraanvoer, tijdelijke pompen en duidelijke afspraken over wat er gebeurt als vaarwegen opnieuw dichtgaan.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706133/oost-nederland-roept-kabinet-op-tot-actie-tegen-laagwater",
-     "bron": "RTV Oost",
-     "tijd": "12:01",
-     "sorteer": "2026-10-13T10:01:07+00:00"
+     "titel": "Sfeervol en veelzijdig wonen met de Scandinavische blokhutten van Olwood",
+     "context": "DALFSEN – Wie op zoek is naar een sfeervolle blokhut met een Scandinavische uitstraling, kan terecht bij Olwood uit Dalfsen. Het bedrijf maakt blokhutten die niet alleen mooi zijn om te zien, maar ook voor verschillende doeleinden kunnen worden ingezet. Zo bieden ze mogelijkheden als tiny house of mantelzorgwoning. Een blokhut kan, afhankelijk van de […]",
+     "rubrieken": [
+      "Ingezonden bericht"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/554434/sfeervol-en-veelzijdig-wonen-met-de-scandinavische-blokhutten-van-olwood.html",
+     "bron": "DalfsenNet",
+     "tijd": "09:12",
+     "sorteer": "2026-10-14T07:12:30+00:00"
     },
     {
      "titel": "De Zonnebloem zingt",
@@ -276,18 +310,6 @@
      "bron": "DalfsenNet",
      "tijd": "22:45",
      "sorteer": "2026-10-13T20:45:40+00:00"
-    },
-    {
-     "titel": "Druiven bijna klaar voor de oogst: prachtige trossen in de regio",
-     "context": "REGIO – Soms kom je een tafereel tegen dat je graag even vastlegt. Prachtige trossen druiven, die er veelbelovend uitzien en bijna klaar lijken voor de oogst. De precieze locatie houden we bewust voor onszelf. Het is natuurlijk niet de bedoeling dat voorbijgangers op eigen houtje gaan plukken. Vooral de blauwe druiven trekken de […]",
-     "rubrieken": [
-      "Laatste nieuws",
-      "Regio"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/554423/druiven-bijna-klaar-voor-de-oogst-prachtige-trossen-in-de-regio.html",
-     "bron": "DalfsenNet",
-     "tijd": "20:50",
-     "sorteer": "2026-10-13T18:50:23+00:00"
     }
    ]
   },
@@ -375,6 +397,13 @@
      "sorteer": "2026-10-14T04:08:59+00:00"
     },
     {
+     "titel": "Facebook wil dat je zijn nieuwe algoritme omarmt en traint",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZlItSU54Vy00M09uaUNTMDducWMyRjRwQUZDWkpPRERFR0xHU3VKVXJhdXE1MzBYQVFpU2VGeWQtMG52dkViVXBranVTRjQzdUQyYVp3WllqamZXV2luZF9jMDZIa0lfN3BNeHJrVHlGdVhoSUxMWHZ1dmpmUVk0SVh1NmhEbEhaRUVOVkJxbGxPMkNIXzFJcG1WWW56WVV5eGc?oc=5",
+     "bron": "Bright",
+     "tijd": "09:20",
+     "sorteer": "2026-10-14T07:20:56+00:00"
+    },
+    {
      "titel": "ASML profiteert van groei AI-investeringen, chipgigant scherpt verwachtingen aan",
      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNFBycEZzTGJ6bU5raWxkbXlWZ25UUi1CUTJTZ0d6ZHNUTFlyblJHT2ViVjdxU3JHalAxT2VQd3c4SFUyLTA0Wk9PYThGUXlEVjBubXlLM2VZcVRZNDRxaXlxTUtsN0xFNDZqQ01yVHNBMFdjdWFQMWJuU2dzTXZzSW15X28yZzkyNjdvWHpBaFNlNEtEZUJkYmk5Q0hfLXJQTnhVMEZxcHZwLTRqUVVVLVZLN3NwX3hkU2ctWGpoNUk3Y0wwaHBsTnh3?oc=5",
      "bron": "De Telegraaf",
@@ -382,32 +411,11 @@
      "sorteer": "2026-10-14T06:57:27+00:00"
     },
     {
-     "titel": "Oorlogsvoering met hulp van chatbot: ’Houthi’s gebruikten AI-model Claude om hypersonische raketten te ontwikkelen’",
-     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPR3BBZnBmZkZzZUZveS10VkJxRHFELWVBWk1lbFRsRnlTQ3ZoUENVZ0tDQkdmMkR2SkNSeGlpS1Z4eHdRQ2o0MkNpbXZESW5xNU02N0hGeVk5ZFRHcUNmaHduV2dTcnhBcXpnRVFxaWVCSXZKLTRtMUtIM2JlWUhUTGdEV21tMFJka3BUZTdsY3ZHT0xMZnRpRm0wWmtGVENqcnkzbkpKbmNZdkVDeWxCdDNFQnFHZVk0Q3lGM2xNSUJtM3pzVTNnTWliMXRlaGR3Sy14NWE2bjNsMGF3NnVZVkRuY1I4YlBsWFdlV2J4d0xHenpv?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "07:45",
-     "sorteer": "2026-10-14T05:45:00+00:00"
-    },
-    {
      "titel": "Laat creativiteit niet over aan zielloze chatbots",
      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSHBCRnpGS1pnRVpWSnBoUDR6OU1yc295U3FHZjlNbHpJSzZCOU5hREd3U1kxTEQxalFRVDRJc2IwVE5YVWFKSkdnSDBsMzE0Yk1tSzhab2ZKSThJY2F3aFpKUHlmTExGaldKRTFKT09idHhnWjFpOU9zT1JabE93eg?oc=5",
      "bron": "Reformatorisch Dagblad",
      "tijd": "05:49",
      "sorteer": "2026-10-14T03:49:23+00:00"
-    },
-    {
-     "titel": "Nederlandse tv-makers mikken in Cannes op nieuwe wereldhit à la ’Big brother’ en ’The voice’: ’AI biedt ons alleen maar kansen’",
-     "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUWNHSGxZNDNxWjhkS3owQllLeDZQUTdZR0pLcklZbERYUlJfLXJ5bDVmRjlwMjg5SlZMaWtNWVZQa3ZMZVNhWS1DQnNWMXpaLUh2bHMtWklsRTFVaUpUa3d2akp3UWdHb2lJNjBmRDJ5V0dYcWlzaDhsS1pQdjR3ckFCcTNUVlJycEZ1QTNndEZ1eDBXbVJDQ2tKVEFyaDdwV0VhZGtUMXhFT3dmbjZFWVJsc2pRUGxxaTZVNjh6Z1JEYm0yZjlxUmF1NGpibjNJOHBwNXNmdG42Y1diOHVlbkJ0OVlhODFFX1RoNTlwQVl6RnNRM0NfLXgzVmVCVWM1UjdVWHYwdWRweDV5?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "05:15",
-     "sorteer": "2026-10-14T03:15:00+00:00"
-    },
-    {
-     "titel": "AI plant zelf monteurs in en bestelt onderdelen: ’Industrie laat veel liggen’",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNU1CUDAtRDIwYlFVeGtGYTZKYzhzWkdCZVU0clF4YVN5Y1NoTnMzbkFnR0tCSW0yWUZFcmlwajBXQjBObmpSeTNRZXhTM2FqS0VmQTkzY1ZpNDFFQm5vdnJPcFNTbTJaNmNNLS11a3NyTW5CWm5uR3hEZnNTRUEybFdjRE9lQnpnQi1RNXRwakJqbjFwYWR1MUZmX0FQVFNqeEYxbmlDM0JtVkU5ZUc5NFNTQWpLdUlIMFlDbFFhdDJrYUU?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "03:45",
-     "sorteer": "2026-10-14T01:45:00+00:00"
     }
    ]
   },
@@ -548,28 +556,28 @@
      "sorteer": "2026-10-13T15:48:56.28+02:00"
     },
     {
-     "titel": "Antwoord op vragen van het lid Moinat over de documentaire Nachtkinderen en de normalisering van drugsgebruik onder jongeren",
+     "titel": "Antwoord op vragen van het lid Armut over het bericht 'Vrouwen die suïcide plegen, blijken opvallend vaak slachtoffer van…",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
      "tijd": "01-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D40096",
-     "sorteer": "2026-10-14T08:23:40.97+02:00"
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D40051",
+     "sorteer": "2026-10-14T09:42:39.583+02:00"
     },
     {
-     "titel": "Evaluatie geloofwaardigheidsbeoordeling asielrelaas",
+     "titel": "Cijfermatige analyse van asielaanvragen na MVV",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
      "tijd": "02-07",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D34747",
-     "sorteer": "2026-10-14T07:28:50.673+02:00"
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D34800",
+     "sorteer": "2026-10-14T09:25:07.857+02:00"
     },
     {
-     "titel": "Rapport zbo-evaluatie Centraal Orgaan opvang asielzoekers",
+     "titel": "Appreciatie van de motie van het lid Van Brenk over instandhouding van het team Integere Bedrijfsvoering en Zorgverwaarlozing…",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
      "tijd": "02-07",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D34988",
-     "sorteer": "2026-10-13T16:54:44.613+02:00"
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D34518",
+     "sorteer": "2026-10-14T09:16:19.317+02:00"
     },
     {
      "titel": "Motie van het lid Van der Plas over inzetten op een gezamenlijke harde aanpak van antisemitisme en terrorismeverering",
@@ -705,20 +713,20 @@
      "link": "https://scientias.nl/waar-een-olifant-sterft-groeit-jarenlang-het-voedzaamste-gras-van-de-savanne/"
     },
     {
+     "titel": "Chinese squid tied to labor abuses finds an easy route into Western markets",
+     "toelichting": "In recent years, a series of high-profile investigations implicated the Chinese fleets targeting squid in international waters in illegal fishing practices, environmental violations, and poor working conditions, includin",
+     "bron": "Mongabay (Engels)",
+     "tijd": "09:00",
+     "link": "https://news.mongabay.com/2026/10/chinese-squid-tied-to-labor-abuses-finds-an-easy-route-into-western-markets/",
+     "sorteer": "2026-10-14T07:00:31+00:00"
+    },
+    {
      "titel": "Two rare pregnancies spark hope for Sumatran rhinos — but also concerns about inbreeding",
      "toelichting": "Two critically endangered Sumatran rhinos are pregnant at an Indonesian sanctuary, a rare success for a species reduced to a few dozen animals in the wild. The pregnancies also highlight the genetic constraints facing th",
      "bron": "Mongabay (Engels)",
      "tijd": "06:39",
      "link": "https://news.mongabay.com/2026/10/two-rare-pregnancies-spark-hope-for-sumatran-rhinos-but-also-concerns-about-inbreeding/",
      "sorteer": "2026-10-14T04:39:52+00:00"
-    },
-    {
-     "titel": "‘Patrick’ sea star went viral, but Argentine deep-sea canyon held 57 new species",
-     "toelichting": "A sea cucumber with two horn-like appendages sits on the mud in the deep South Atlantic Ocean. Scientists named it Loki, after the horned Norse trickster god. Loki lives 2,577 meters (8,455 feet) below the surface, nearl",
-     "bron": "Mongabay (Engels)",
-     "tijd": "00:11",
-     "link": "https://news.mongabay.com/2026/10/patrick-sea-star-went-viral-but-argentine-deep-sea-canyon-held-57-new-species/",
-     "sorteer": "2026-10-13T22:11:43+00:00"
     }
    ]
   },
@@ -730,10 +738,18 @@
     {
      "titel": "Notenkraker",
      "kop": "Zeldzaamheden",
-     "bron": "Gelderland",
-     "tijd": "08:46",
+     "bron": "Flevoland",
+     "tijd": "09:33",
      "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-14T08:46:00+02:00"
+     "sorteer": "2026-10-14T09:33:00+02:00"
+    },
+    {
+     "titel": "Dwerggors",
+     "kop": "Zeldzaamheden",
+     "bron": "Friesland",
+     "tijd": "09:18",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-14T09:18:00+02:00"
     },
     {
      "titel": "Daurische Klauwier",
@@ -752,14 +768,6 @@
      "sorteer": "2026-10-13T11:45:00+02:00"
     },
     {
-     "titel": "Bruine Klauwier",
-     "kop": "Zeldzaamheden",
-     "bron": "Friesland",
-     "tijd": "11:37",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-13T11:37:00+02:00"
-    },
-    {
      "titel": "Dalfsen",
      "kop": "Vogeltrek",
      "bron": "14-10",
@@ -767,52 +775,52 @@
      "tijd": "",
      "link": "https://trektellen.org/count/view/1919/20261014",
      "soorten": [
-      "Houtduif 108",
-      "Kolgans 79",
-      "Koperwiek 31",
-      "Kleine Rietgans 25"
+      "Houtduif 160",
+      "Kolgans 134",
+      "Veldleeuwerik 67",
+      "Koperwiek 31"
      ],
-     "aantal_soorten": 23,
+     "aantal_soorten": 26,
      "opmerkingen": [],
      "tellers": ""
     },
     {
-     "titel": "Landelijk vandaag: 96 soorten, 58.531 vogels geteld",
+     "titel": "Landelijk vandaag: 126 soorten, 151.143 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch"
     },
     {
-     "titel": "Vink — 27.619",
+     "titel": "Vink — 82.661",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch"
     },
     {
-     "titel": "Spreeuw — 17.440",
+     "titel": "Spreeuw — 23.892",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch"
     },
     {
-     "titel": "Kolgans — 6.717",
+     "titel": "Kolgans — 18.766",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch"
     },
     {
-     "titel": "Veldleeuwerik — 1.070",
+     "titel": "Veldleeuwerik — 4.836",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch"
     },
     {
-     "titel": "Grauwe Gans — 1.045",
+     "titel": "Aalscholver — 3.522",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -820,15 +828,39 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "gans spec. springt eruit — 592, normaal 123",
-     "bron": "5× het gewone niveau",
+     "titel": "anser spec. springt eruit — 656, normaal 16",
+     "bron": "41× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "gans spec. springt eruit — 1.872, normaal 123",
+     "bron": "15× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Veldleeuwerik springt eruit — 4.836, normaal 1.233",
+     "bron": "4× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch",
+     "sein": false
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Kolgans springt eruit — 18.766, normaal 4.792",
+     "bron": "4× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261014?language=dutch",
      "sein": false
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Rustig gisteren — 45 meldingen, samen 3349 vogels",
+     "titel": "Trek komt op gang gisteren — 55 meldingen, samen 5902 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -836,8 +868,8 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "34 meldingen vertrek uit het noorden",
-     "bron": "DE 29, SE 5",
+     "titel": "44 meldingen vertrek uit het noorden",
+     "bron": "DE 39, SE 5",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -874,14 +906,20 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 7.7,
-    "gevoel": 6.5,
+    "nu": 11.1,
+    "gevoel": 11.1,
     "wind": "ZW 2",
     "station": "Heino",
     "bericht": "Vandaag en morgen profiteren we van geweldig herfstweer met veel zonneschijn en droog weer. Morgen krijgen we daarbij de hoogste temperaturen, met in Zeeuws-Vlaanderen een maximum van 21 graden. Vrijdag begint met zon.",
-    "vandaag": "Vanochtend is het schitterend weer. Vanmiddag zien we veel zon, met in het binnenland wat onschuldige stapelwolkjes.",
+    "vandaag": "Vanochtend is het schitterend weer met flink wat zon. Vanmiddag is er veel ruimte voor de zon.",
     "temperatuur": "Morgen krijgen we daarbij de hoogste temperaturen, met in Zeeuws-Vlaanderen een maximum van 21 graden.",
-    "dalfsen": null,
+    "dalfsen": {
+     "zin": "Voor Dalfsen zelf: 8 tot 17 graden, 0% kans op neerslag, ruim 10 uur zon, wind uit het zuidwesten, kracht 2.",
+     "max": 17,
+     "min": 8,
+     "regenkans": 0,
+     "omschrijving": "bewolkt"
+    },
     "vooruit": "Eerst is er meer bewolking en valt er af en toe regen. Na het weekend is er meer ruimte voor de zon en blijft het droog. De temperatuur ligt rond of iets beneden het langjarig gemiddelde.",
     "omslag": "Vanaf vrijdag regen: de kans loopt op van 20% naar 80%.",
     "min": "10",
