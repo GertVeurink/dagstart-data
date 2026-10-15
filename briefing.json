@@ -3,13 +3,16 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "21:14",
+  "opgehaald": "22:30",
   "blokken": 10,
   "berichten": 87,
-  "problemen": [],
+  "problemen": [
+   "google '\"minister van Justitie\" OR \"Ju': timeout",
+   "trektellen 1919: ConnectionResetError"
+  ],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-15T21:14+02:00",
+ "opgehaald": "2026-10-15T22:30+02:00",
  "audio": "audio/20261015.mp3",
  "blokken": [
   {
@@ -17,6 +20,24 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Busje botst op goederentrein bij Kanaaltunnel, meerdere gewonden",
+     "context": "In de buurt van de ingang van de Kanaaltunnel bij de Franse stad Calais zijn 19 mensen gewond geraakt bij een ongeluk met een trein en een busje. Het ongeluk gebeurde op het laadplatform voor voertuigen die op de trein richting Groot-Brittannië gaan. Volgens Franse media botste een busje op een stilstaande goederentrein. In het busje zaten vrachtwagenchauffeurs die op het punt stonden aan boord va",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635139",
+     "bron": "NOS",
+     "tijd": "21:50",
+     "sorteer": "2026-10-15T21:50:44+02:00"
+    },
+    {
+     "titel": "Schrikkelseconde niet meer van deze tijd, internationale meetautoriteit schaft hem af",
+     "context": "Het doek is gevallen voor de schrikkelseconde: de Algemene Conferentie voor Maten en Gewichten (CGMP) heeft in Parijs besloten dat de extra seconde verdwijnt. In plaats daarvan kiest de hoogste internationale autoriteit op het gebied van meetstandaarden voor een schrikkeluur. Het bestaan van de seconde heeft te maken met het draaien van de aarde. De aarde draait door smeltend ijs, veranderende wee",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635136",
+     "bron": "NOS",
+     "tijd": "21:14",
+     "sorteer": "2026-10-15T21:14:59+02:00"
+    },
     {
      "titel": "EU hekelt Trumps dieseldeal, maar koopt nog altijd voor miljarden aan Russisch gas",
      "context": "De dieseldeal die de Amerikaanse president Donald Trump afgelopen week sloot met Rusland leverde hem in binnen- en buitenland felle kritiek op. Ook van Europese leiders, terwijl de EU zelf nog altijd voor miljarden aan Russisch gas importeert. Hoe zit dat precies? Rusland gaat per direct 300.000 ton diesel op de wereldmarkt brengen. Tot aan april volgend jaar kan dat oplopen tot 4,8 miljoen ton . ",
@@ -45,31 +66,22 @@
      "sorteer": "2026-10-15T16:38:33+02:00"
     },
     {
-     "titel": "Alcoholverbod op Duitse treinstations ingegaan na geweldsincidenten",
-     "context": "Snel een biertje drinken, een likeurtje shotten of schnaps achterover slaan zit er op Duitse treinstations niet meer in. Vandaag is op alle 5700 treinstations in Duitsland een alcoholverbod ingegaan. Afgelopen zomer werd de alcoholstop al aangekondigd . Het spoorbedrijf Deutsche Bahn (DB) stelt het verbod in om de veiligheid op stations te verbeteren. In Duitsland vonden afgelopen jaar volgens DB ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635091",
-     "bron": "NOS",
-     "tijd": "15:26",
-     "sorteer": "2026-10-15T15:26:53+02:00"
-    },
-    {
-     "titel": "Nederland en Frankrijk praten voor het eerst over samenwerking rond kernwapens",
-     "context": "Delegaties van Nederland en Frankrijk hebben voor het eerst overlegd over samenwerken op het gebied van kernwapens. Dat meldt het Nederlandse ministerie van Defensie. De bespreking, gisteren in Parijs, komt niet uit de lucht vallen: president Macron kondigde in maart aan in gesprek te willen gaan met een aantal andere Europese NAVO-landen, waaronder Nederland. Nederland en Frankrijk spraken over m",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635089",
-     "bron": "NOS",
-     "tijd": "15:11",
-     "sorteer": "2026-10-15T15:11:03+02:00"
-    },
-    {
-     "titel": "Houthi’s vallen presidentieel paleis van Jemenitische regering aan",
+     "titel": "CNN: Oekraïense luchtverdediging door voorraad Patriot-munitie heen",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/middenoosten-liveblog-iran-houthi-yemen-saoediarabie-vs~ba2c7027/",
+     "link": "https://www.volkskrant.nl/buitenland/liveblog-oekraine-zelensky-nieuws-poetin-trump~bb03466a/",
      "bron": "de Volkskrant",
-     "tijd": "18:50",
-     "sorteer": "2026-10-15T16:50:00+00:00"
+     "tijd": "21:35",
+     "sorteer": "2026-10-15T19:35:00+00:00"
+    },
+    {
+     "titel": "‘Gênante’ uitgelekte mailwisseling tussen regeringsleden verraadt frictie binnen team-Trump",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/genante-uitgelekte-mailwisseling-tussen-regeringsleden-verraadt-frictie-binnen-team-trump~b04b7f0e/",
+     "bron": "de Volkskrant",
+     "tijd": "21:32",
+     "sorteer": "2026-10-15T19:32:49+00:00"
     },
     {
      "titel": "Europa blijft Zelensky steunen, maar komt niet met extra geld over de brug",
@@ -93,13 +105,6 @@
      "bron": "Tweakers",
      "tijd": "17:23",
      "sorteer": "2026-10-15T15:23:25+00:00"
-    },
-    {
-     "titel": "Hoofd Spaanse al-Qaida krijgt 27 jaar cel",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9La2Z5ZkhISnA5eV9TZXlsdWNZSDJqTzFuRTdsUTQ3RkRJTlZhOXVCbUZ1RW43aG5KX2ZfbW9tekd5a0tLX0tBVUpoSXkzQzIyejVOYjVmNnp4bC1MZWg5X3ZqY1NDMzU1N2hOcy12d2hvcXBQOUE?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "17:02",
-     "sorteer": "2026-10-15T15:02:54+00:00"
     }
    ]
   },
@@ -136,15 +141,6 @@
      "sorteer": "2026-10-15T16:31:38+02:00"
     },
     {
-     "titel": "57 mensen aangehouden in Kroatië bij confrontatie tussen Ajax en Hajduk Split-fans",
-     "context": "In de Kroatische stad Split zijn vannacht 57 mensen aangehouden door de politie na een confrontatie tussen fans van voetbalclubs Ajax en Hajduk Split. De voetbalclubs spelen vanavond tegen elkaar in de Conference League. De politie moest ingrijpen om te voorkomen dat honderden relschoppers met elkaar op de vuist gingen in het stadscentrum, schrijven Kroatische media . Het ging om ongeveer 200 Ajax",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635045",
-     "bron": "NOS",
-     "tijd": "11:15",
-     "sorteer": "2026-10-15T11:15:07+02:00"
-    },
-    {
      "titel": "Als er in de hele wereld geen baby’s meer zonder pfas worden geboren, wat tegenwoordig het geval is, kun je niet anders dan ingrijpen’",
      "context": "",
      "rubrieken": [],
@@ -163,41 +159,41 @@
      "sorteer": "2026-10-15T18:31:00+00:00"
     },
     {
-     "titel": "Al maanden houdt de gemeenteraad van Nijmegen de benoeming van twee FvD’ers tegen",
+     "titel": "Het doek valt voor de schrikkelseconde",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/al-maanden-houdt-de-gemeenteraad-van-nijmegen-de-benoeming-van-twee-fvd-ers-tegen~b324fb11/",
+     "link": "https://www.trouw.nl/binnenland/het-doek-valt-voor-de-schrikkelseconde~b873b714/",
      "bron": "Trouw",
-     "tijd": "15:55",
-     "sorteer": "2026-10-15T13:55:00+00:00"
+     "tijd": "21:13",
+     "sorteer": "2026-10-15T19:13:11+00:00"
     },
     {
-     "titel": "Albert Heijn bezorgt tot en met zondag nog geen boodschappen",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUk9ZWXpJaFJUY3F6a3hpaHV4NGpYdnhXdUJlUkhiRlpuYUJzdkxhcU12QXFzSDI5eTd4djVtWTMxaC11RU9CZlBwRzFnbEFJUS03MkdPMDd3UVNQN0dDS20waTF4aElpcmdXQlNORXJKak5uOUlJaVAtWlRGMFpLdDNEdUltbHNqYXBqUEpYWDNoV3hmYkxxVlA4TXh4aVpMY1Z2VnM2TXprTWZCTjRWUw?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "21:07",
-     "sorteer": "2026-10-15T19:07:56+00:00"
+     "titel": "SGP dient motie van afkeuring in tegen zorgminister over late abortus",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTlpYcHFZcU1UNHVVTEV0UU9YakRGbGRJWVZid0xVdWVhZTVvWEF6WFM3NVdFcENpaUswRXVpXzFHaktVVDBIRG1QR1VSVnlOVDAtYUtRM1FIeTh6Y09YUVl4S1FFX1VKazRMcS1LaHdZVFR1dms1cEo2OTVTUjg4ajRFdnEyX2NuZ0xYWEtiN2ZBLXZfcU5HckJBQQ?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "21:29",
+     "sorteer": "2026-10-15T19:29:30+00:00"
     },
     {
-     "titel": "Tot 2 jaar cel geëist voor mishandeling en vernedering Haarlemmer (17) in Beverwijk",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV2xrb195WjZRZFc5akVpMmNVN3piUVVYeUpJQ1ppa3ZlSU4yanQzTmJjeU5ObzEyTWxnUVNzRjZKazJsZUI1dmZlSTh2VFIwWThMbnF2QjV4Y0N0WjhpSXBsQU1PdkJZZkREOTE5Rl84NkZzTXRrSk9PdUl1ZEpLSGFMcHcwT0FxdlVjblVsSkFhaDl4RlNscFctdmg1MUQzMVhpckVzRzhxRGpYZy1qM0ZR?oc=5",
-     "bron": "NOS",
-     "tijd": "20:52",
-     "sorteer": "2026-10-15T18:52:12+00:00"
+     "titel": "Opeens gonst het in de Haagse gangen: een deal ‘over rechts’ kan ook (al zijn de eisen fors)",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWGo3czgxdTNKczREWTBTVE1GMnRsTUdhbVAxWVZ2WDRBZ0ZYYWhaTjNjUnZNa0d4ZjltUVdOdUdlcUVfSF8wdlBNNDJSME1PdGdiSlA4cFF0cW9PM1JFbmJ1dlJVRVRBRnpxYk01RmVqRU5yUUVsd2lnM3VLcHQ5WFI3NTRDcE5SZ3dCclhTZVcxc2FzekJwY296aUx3QnQtc0d0SmFXZDBUd0dnUnlaZk1iOUtiMkhmc3l3NTdoT0p3UQ?oc=5",
+     "bron": "AD.nl",
+     "tijd": "20:30",
+     "sorteer": "2026-10-15T18:30:00+00:00"
     },
     {
-     "titel": "Stond er wel of niet een snelheidsbord bij De Trieme? Automobilist is geflitst, maar rechter veegt boete van tafel",
-     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTTVIclR0VHhEWC01cjlsWmRlVzJuR2NxM0VrbWtFc3QzY1VkSGtJeHNadDVNejk0V25jVUl0Zk93OVJ6d3VscXpYU1JDMUlZSkRvZGFoaHFmcHZNcElRZl9CUzZnT0E3b1ZEaXFPTDFpUkRBb2lKX2ZGbm9VLWpNMWhJVFVta2cwTUc2LTBCcDRQckVPT2pvMzhIeWo5OVo2WFhkVTN1ZWM2M2xKTXhTVXh1X1pRdEVYZ3ljWFEtRHlXQy1SSWEwUU9zZE1mNFlWZTNfUVdmRjVzNmtVXzE5Wk8yUml2LUZBVy05eTFJZUQ3dFQycVlkNVk3Sl9KbDBTMDBJTkN1S3JGcWc?oc=5",
-     "bron": "Leeuwarder Courant",
-     "tijd": "19:51",
-     "sorteer": "2026-10-15T17:51:00+00:00"
+     "titel": "Parlijn Zorg uit Eibergen failliet: curator heeft haast met redding van de zorg voor 95 cliënten",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZDRzcGZBR0Z6TEVkUm5ScElmUUhKRkJNcjVPM1RNTGV1UXhIV3l2VTIzUmhQckdQOWVYeFR4ZW85TDU4OGY3TmtycDRBMkg4Y3BmT1BzYlpSdUR0dGU1QWdSei13WkNDRUZFQ1JxaDlIckU5dXFtNVNFZjNXZ0Q2MUxuMnBlTElYNUhDZmRLdUNXVlFfNVcxd3ExZDlaczUyRkxidzB6cHFNRXY0RWs0NlZsUXloSEgyTnVJRUdUNmhHY3VOY2cwV0hrbTQtcmtnSEJpck1uaGw?oc=5",
+     "bron": "de Stentor",
+     "tijd": "19:30",
+     "sorteer": "2026-10-15T17:30:07+00:00"
     },
     {
-     "titel": "Politie Amsterdam staat op verzoek van VS data van Nederlandse server af",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdl9Bd0hVSEc0TkNINlBpQzdHXzZkT0s4WDdBWWtLWEhnU1QzZVUzdjFwcDhDekhFQzRRTlNnbjE2cVNpdFdCbTBxYXlJZm5TSFJobmw1SF8xZUxyLXhybGVzeTIwNXp6dmJGUVFSc28taWJ5WEpSLXd3VlEzTHJQSnRwUFMtd2lVcHlReldnRXozNHZmRlF5RUpBbW15aG1lNnZyV0hoaEE5Um4xODU0VXQ3cmo5R2N4VDFsU0JrU3FOTTg?oc=5",
-     "bron": "Trouw",
-     "tijd": "19:37",
-     "sorteer": "2026-10-15T17:37:09+00:00"
+     "titel": "Regels aangescherpt: zonder raster straks geen vergoeding meer voor wolvenaanval",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOXIwRU5pcmVNZXZkMkZIaVBXM2lVVDRjTVdYLTVsS1BPZDhsSlFCZ0FpTkE3Q21WaHVBOG9HMGNXMmlZRWVuakU0WmhmRWxoVVBIMHRGX0xuVW5XSUt0MFdkRGVKVnJ5cHdMa0ljQkdycFpBbFdlc09mSVpXb0lxWWpwYnd5d3JGNlNNeUV4YUoyVURpUkE0WFc5eTRQd09zb2p5VkUyUjBSejBwQk96amdLMU0wX0JTNDFrenVB?oc=5",
+     "bron": "de Stentor",
+     "tijd": "19:10",
+     "sorteer": "2026-10-15T17:10:31+00:00"
     },
     {
      "titel": "Een AI-model kan nog zo krachtig zijn, macht krijgt het pas als wij die geven",
@@ -247,22 +243,15 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "LIVE | Honderdste Europese thuisduel FC Twente: kan FC Thun worden verslagen?",
-     "context": "Na een succesvolle campagne in de voorrondes van de Conference League, gaat vanavond eindelijk het hoofdtoernooi beginnen voor FC Twente. Alles rondom de Europese wedstrijd van de Enschedese club is vandaag te volgen in ons liveblog. Van interviews en voorbeschouwingen tot het live verslag van de wedstrijd.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706658/live-honderdste-europese-thuisduel-fc-twente-kan-fc-thun-worden-verslagen",
+     "titel": "Raven met ranja in een bunker: volwassenen niet welkom bij dit feestje",
+     "context": "Stevige beats en flitsende discolampen tijdens een rave in Zwolle, maar dan zonder volwassen feestgangers. De afgelopen twee dagen gingen juist jonge kinderen los in een bunker voor museum De Fundatie. Met een buitenwipper aan de deur en een mascotte in berenpak maakten zij kennis met de clubwereld.",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/cultuur/3706955/raven-met-ranja-in-een-bunker-volwassenen-niet-welkom-bij-dit-feestje",
      "bron": "RTV Oost",
-     "tijd": "20:58",
-     "sorteer": "2026-10-15T18:58:52+00:00"
-    },
-    {
-     "titel": "Connie huilt tranen met tuiten: door artrose moet ze Wandelvierdaagse staken",
-     "context": "De tranen lopen over haar wangen als Connie Bos uit Lunteren op een muurtje naast de kerk in Mariënheem gaat zitten. Ze kan niet verder, na nog geen vijf kilometer lopen wordt de pijn in haar voet haar te veel. \"Ik hou zo veel van de Sallandse Wandelvierdaagse, maar artrose breekt me op. Zo jammer.\"",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3706918/connie-huilt-tranen-met-tuiten-door-artrose-moet-ze-wandelvierdaagse-staken",
-     "bron": "RTV Oost",
-     "tijd": "20:30",
-     "sorteer": "2026-10-15T18:30:42+00:00"
+     "tijd": "19:41",
+     "sorteer": "2026-10-15T17:41:57+00:00"
     },
     {
      "titel": "Explosie slaat groot gat in raam van grand café in Dedemsvaart",
@@ -283,15 +272,6 @@
      "sorteer": "2026-10-15T16:01:28+00:00"
     },
     {
-     "titel": "Sekteslachtoffers en experts willen terugkeer landelijk meldpunt",
-     "context": "Er is dringend behoefte aan een landelijk sektemeldpunt. Die noodkreet komt van zowel slachtoffers als professionele hulpverleners en sekte-experts. De politiek is nu aan zet om te zorgen dat Nederland zo'n meldpunt terugkrijgt. Om slachtoffers op te vangen, maar ook om sektes een halt toe te roepen.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706239/sekteslachtoffers-en-experts-willen-terugkeer-landelijk-meldpunt",
-     "bron": "RTV Oost",
-     "tijd": "17:34",
-     "sorteer": "2026-10-15T15:34:03+00:00"
-    },
-    {
      "titel": "Overal in onze provincie minder woninginbraken, behalve in deze twee gemeenten",
      "context": "Inbrekers zijn veel minder actief in Overijssel: het aantal woninginbraken is in het afgelopen kwartaal bijna gehalveerd ten opzichte van een jaar eerder. Waar de politie in het derde kwartaal van vorig jaar nog 312 woninginbraken registreerde, waren dat er dit jaar 161. Dat blijkt uit politiedata.",
      "rubrieken": [],
@@ -299,6 +279,24 @@
      "bron": "RTV Oost",
      "tijd": "16:29",
      "sorteer": "2026-10-15T14:29:48+00:00"
+    },
+    {
+     "titel": "Uitbater pizzeria wil na ontploffing zaak in Zwolle in 2014 nog 120.000 euro",
+     "context": "Na de ontploffing in pizzeria Da Vinci in Zwolle in 2014 weigerde de verzekeraar schade te vergoeden, omdat de uitbater verdachte was. Hij probeerde na zijn vrijspraak alsnog geld te krijgen, maar door een fout van zijn advocaat was de zaak verjaard. Nu eist hij schadevergoeding.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3706855/uitbater-pizzeria-wil-na-ontploffing-zaak-in-zwolle-in-2014-nog-120000-euro",
+     "bron": "RTV Oost",
+     "tijd": "15:02",
+     "sorteer": "2026-10-15T13:02:04+00:00"
+    },
+    {
+     "titel": "Intercity maakt noodstop vanwege rokende passagier: trein ontruimd",
+     "context": "De intercity tussen Zwolle en Groningen maakte vanochtend een noodstop op station Meppel vanwege een brandmelding vanuit de trein.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3706734/intercity-maakt-noodstop-vanwege-rokende-passagier-trein-ontruimd",
+     "bron": "RTV Oost",
+     "tijd": "10:05",
+     "sorteer": "2026-10-15T08:05:10+00:00"
     },
     {
      "titel": "Koesteeg: negen borden en nog steeds rechtdoor?",
@@ -390,13 +388,6 @@
      "sorteer": "2026-10-15T18:24:58+00:00"
     },
     {
-     "titel": "Beurzen over heel de wereld in het rood door zorgen over AI",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUXJydTVXcVdwVmZwZnFVYnpTd2NnOXM4TzF3clVXdUd4QTZFdFJELTF0cTROY0U0VjhpZjlhdG5uMXM2Mkl5azZjWDBfcHFoR1VnS1o0MEkyNE1HcnloSWtnU0RBTGxTSHdpMVlLTkc3LTlXQlduNGtIeGF6STZrNlgzYlNQZTZ5VFNjQWRDY2tqOXBqblFDbmhEV0I4WDJzdFUyaTFIYm90UQ?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "16:20",
-     "sorteer": "2026-10-15T14:20:00+00:00"
-    },
-    {
      "titel": "Mee in de AI-wedloop met de VS en China? Deze onderzoeker liet liever technologie die mensen echt dient",
      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNzFtRF9FYkJ3OUtRTHY3RWVUT0FZRUt1aG5HNFpxRUpXU252V1pyVk5ja05VZzQyV2lLaWh4S3Y5MS1zQkhwSWRCTXFwQzdLRk85aTh4bDROdW5zeml3blNtV1p4TVV3Z2FMWU9WS2JicmVWTllVbmszM2FPTVFiN19mT2txOWw3c0Nxd29QOUJSb2dDZDJrNkxzbHlfbW9GazFJejdaZEZHTmNFaHJpSlA3TzFYRlp2QjhNTGJ5NDZGTWNRN1o1U3VTMWJXQmNnenJVamZWbFRqckhi?oc=5",
      "bron": "de Volkskrant",
@@ -416,6 +407,13 @@
      "bron": "RTL.nl",
      "tijd": "17:22",
      "sorteer": "2026-10-15T15:22:47+00:00"
+    },
+    {
+     "titel": "Beurzen over heel de wereld in het rood door zorgen over AI",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUXJydTVXcVdwVmZwZnFVYnpTd2NnOXM4TzF3clVXdUd4QTZFdFJELTF0cTROY0U0VjhpZjlhdG5uMXM2Mkl5azZjWDBfcHFoR1VnS1o0MEkyNE1HcnloSWtnU0RBTGxTSHdpMVlLTkc3LTlXQlduNGtIeGF6STZrNlgzYlNQZTZ5VFNjQWRDY2tqOXBqblFDbmhEV0I4WDJzdFUyaTFIYm90UQ?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "16:20",
+     "sorteer": "2026-10-15T14:20:00+00:00"
     }
    ]
   },
@@ -434,19 +432,11 @@
     },
     {
      "titel": "Mevrouw Sterk over opsporing",
-     "bron": "Begroting Volksgezondheid, Welzijn en Sport 2027",
-     "toelichting": "Voorzitter. Geld voor de zorg mag nooit over de ruggen van kwetsbare mensen verdwijnen in de zakken van criminelen. Ik zei dat al aan het begin. Daarom pakken we zorgfraude, of liever gezegd zorgcriminaliteit, keihard aan. Ik vind het heel goed om te zien dat er in deze Kamer brede steun is, van links tot rechts, voor een stevige aanpak van zorgfraude. Wat mij betreft — dat zeg ik een beetje met een knipoog naar…",
+     "bron": "Goed bestuur en toezicht in de zorg (plus IGJ en Zorgfraude) (CD d.d.…",
+     "toelichting": "De motie op stuk nr. 189 krijgt wat mij betreft ook oordeel Kamer. Het verzoek loopt mee in de verkenning naar meer regie op de keten van toezicht, handhaving en opsporing. Het is ook een van de opdrachten van de Taskforce Ondermijning. Wij hopen daar in Q3 van volgend jaar een besluit over te hebben genomen.",
      "kop": "Transcriptie",
-     "tijd": "15-10",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07510"
-    },
-    {
-     "titel": "Minister Sterk over politie",
-     "bron": "Begroting Volksgezondheid, Welzijn en Sport 2027",
-     "toelichting": "Wij doen een heleboel dingen. Daarom is het zo moeilijk om daar één antwoord op te geven. Ik hoop dat het lukt om het nu even te vinden, want we doen namelijk een heleboel. Een aantal zaken worden al in het najaar geregeld. Ik heb hier net al iets gezegd over het belang van gegevensdeling, ook tussen politie en zorgverzekeraars als zij dingen zien, zodat dat ook snel kan. Dat doen we dus al op dit moment. We zijn al…",
-     "kop": "Transcriptie",
-     "tijd": "15-10",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07510"
+     "tijd": "14-10",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07163"
     },
     {
      "titel": "Mevrouw Van Meetelen (PVV) over politie",
@@ -471,6 +461,22 @@
      "kop": "Transcriptie",
      "tijd": "14-10",
      "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05407"
+    },
+    {
+     "titel": "Mevrouw Coenradie (JA21) over politie",
+     "bron": "Begroting Volksgezondheid, Welzijn en Sport 2027",
+     "toelichting": "Voorzitter. Vooral de bezuinigingen op de ggz baren ons grote zorgen. Stel je het volgende voor. Iemand met ernstige psychische problemen verliest langzaam de grip op zijn leven en heeft hulp nodig, maar krijgt die niet of te laat. De problemen stapelen zich op, de situatie escaleert. Uiteindelijk staat daar geen hulpverlener meer voor de deur maar de politieagent. Dan hebben we niet bespaard op de zorg, maar dan…",
+     "kop": "Transcriptie",
+     "tijd": "14-10",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05407"
+    },
+    {
+     "titel": "Mevrouw Beckerman (SP) over politie",
+     "bron": "Begrotingen Economische Zaken en Nationaal Groeifonds 2027",
+     "toelichting": "Wij zijn hier heel kritisch over, omdat wij juist ook zien dat het economische risico's met zich meebrengt. Zo'n bubbel kan barsten. Dat is ook al eerder gebeurd, natuurlijk. Daar worden we nu ook voor gewaarschuwd door economen. Dat is een eerste kant. Een tweede kant daaraan is dat er geopolitieke risico's aan zitten. Misschien heeft u het vandaag gezien: de politie in Amsterdam moest op last van de Trumpregering…",
+     "kop": "Transcriptie",
+     "tijd": "14-10",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05408"
     },
     {
      "titel": "Het bericht ‘Je paspoort inleveren bij je baas en voor je vlucht een telefoontje van de politie. China maakt buitenlandse reizen…",
@@ -663,59 +669,59 @@
      "sorteer": "2026-10-15T13:47:00+02:00"
     },
     {
-     "titel": "Dalfsen",
+     "titel": "Dalfsen (nacht)",
      "kop": "Vogeltrek",
-     "bron": "14-10",
-     "wanneer": "woensdag",
-     "tijd": "",
-     "link": "https://trektellen.org/count/view/1919/20261014",
+     "bron": "15-10",
+     "wanneer": "vannacht",
+     "tijd": "19:20–05:00",
+     "link": "https://trektellen.org/count/view/2364/20261015",
      "soorten": [
-      "Kolgans 413",
-      "Houtduif 168",
-      "Spreeuw 44",
-      "Koperwiek 32"
+      "Zanglijster 63",
+      "Koperwiek 53",
+      "Kolgans 4",
+      "Roodborst 3"
      ],
-     "aantal_soorten": 34,
+     "aantal_soorten": 6,
      "opmerkingen": [],
-     "tellers": ""
+     "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 196 soorten, 736.592 vogels geteld",
+     "titel": "Landelijk vandaag: 194 soorten, 749.421 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
     },
     {
-     "titel": "Vink — 437.678",
+     "titel": "Vink — 444.187",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
     },
     {
-     "titel": "Spreeuw — 165.130",
+     "titel": "Spreeuw — 169.399",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
     },
     {
-     "titel": "Veldleeuwerik — 28.137",
+     "titel": "Veldleeuwerik — 28.196",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
     },
     {
-     "titel": "Kolgans — 19.754",
+     "titel": "Kolgans — 20.149",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
     },
     {
-     "titel": "Graspieper — 14.366",
+     "titel": "Graspieper — 14.499",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -723,7 +729,7 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Veldleeuwerik springt eruit — 28.137, normaal 1.233",
+     "titel": "Veldleeuwerik springt eruit — 28.196, normaal 1.233",
      "bron": "23× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch",
@@ -747,19 +753,19 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Keep springt eruit — 6.496, normaal 353",
-     "bron": "18× het gewone niveau",
+     "titel": "Keep springt eruit — 6.570, normaal 353",
+     "bron": "19× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch",
      "sein": true
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Rustig — vandaag 35 meldingen, samen 5.196 vogels",
+     "titel": "Rustig — vandaag 37 meldingen, samen 5.261 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "aflopend — dag ervoor 59 · afgelopen week gemiddeld 35 per dag"
+     "vergelijking": "aflopend — dag ervoor 58 · afgelopen week gemiddeld 34 per dag"
     },
     {
      "kop": "Kraanvogels",
@@ -770,8 +776,8 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "21 meldingen vertrek uit het noorden",
-     "bron": "DE 15, SE 6",
+     "titel": "22 meldingen vertrek uit het noorden",
+     "bron": "DE 16, SE 6",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -796,8 +802,8 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 17.7,
-    "gevoel": 17.7,
+    "nu": 17.2,
+    "gevoel": 17.2,
     "wind": "Z 2",
     "station": "Heino",
     "bericht": "De komende uren neemt de bewolking toe. Morgen volgt in de loop van de middag regen. Met een naar noordwest draaiende wind gaat de temperatuur omlaag.",
