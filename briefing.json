@@ -3,13 +3,15 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "10:00",
+  "opgehaald": "11:00",
   "blokken": 10,
-  "berichten": 84,
-  "problemen": [],
+  "berichten": 85,
+  "problemen": [
+   "tweede kamer: timeout"
+  ],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-15T10:00+02:00",
+ "opgehaald": "2026-10-15T11:00+02:00",
  "audio": "audio/20261015.mp3",
  "blokken": [
   {
@@ -17,6 +19,15 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Advocaat of alleen jurist? Nieuwe Witte Huis-woordvoerder direct onder vuur",
+     "context": "De nieuwe woordvoerder van het Witte Huis ligt onder vuur omdat ze haar cv onterecht opgepoetst lijkt te hebben. Katie Zacharia zei dat ze gekwalificeerd was om als advocaat te werken, maar daar is geen bewijs voor. Zelf vindt Zacharia het vooral een misverstand, maar critici menen dat de betrouwbaarheid van het gezicht van het Witte Huis op het spel staat. Juist in haar functie doen de juiste for",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635043",
+     "bron": "NOS",
+     "tijd": "10:34",
+     "sorteer": "2026-10-15T10:34:37+02:00"
+    },
     {
      "titel": "Meerdere doden door hevige regenval in Istanbul, 14-jarige jongen geëlektrocuteerd",
      "context": "Bij hevige overstromingen in de Turkse stad Istanbul zijn zeker twee doden gevallen. Dat melden meerdere nieuwszenders uit Turkije. Een 14-jarige jongen overleed nadat hij in een plas water stapte en daardoor werd geëlektrocuteerd. Het kind zakte in elkaar en raakte bewusteloos. Hij werd overgebracht naar het ziekenhuis, maar overleed daar. De Turkse autoriteiten hebben een onderzoek ingesteld naa",
@@ -27,8 +38,8 @@
      "sorteer": "2026-10-15T07:43:49+02:00"
     },
     {
-     "titel": "Oekraïne hervat aanvallen op Russische energiedoelen",
-     "context": "Oekraïne hervat na drie dagen de aanvallen op Russische energiedoelen. President Zelensky zegt in een interview met de Britse krant Financial Times dat hij aanvallen weer toestaat omdat Rusland zich niet aan het bestand hield. \"De aanvalspauze is afgelopen, heb ik het leger gezegd nadat er weer zoveel mensen zijn omgekomen bij aanvallen\", zei Zelensky in het interview. Hij voegt eraan toe het besl",
+     "titel": "Oekraïne hervat aanvallen op Russische oliesector, Rusland meldt aanval op raffinaderij",
+     "context": "Oekraïne heeft na drie dagen van pauze de aanvallen op de Russische energiesector hervat. President Zelensky kondigde in een interview met Britse krant Financial Times aan dat het tijdelijke stopzetten van bombardementen officieel voorbij is. Afgelopen nacht is volgens Russische autoriteiten al een droneaanval uitgevoerd op een olieraffinaderij in de regio Rjazan, in het westen van het land. \"De a",
      "rubrieken": [],
      "link": "https://nos.nl/l/2635029",
      "bron": "NOS",
@@ -37,7 +48,7 @@
     },
     {
      "titel": "Brug tussen Noord-Korea en China opent na twaalf jaar uitstel",
-     "context": "Met twaalf jaar vertraging hebben China en Noord-Korea een brug over een grensrivier tussen beide landen in gebruik genomen. De Nieuwe Yalurivierbrug verbindt het Chinese Dandong met Sinuiju aan de overzijde. De brug was al in 2014 grotendeels afgebouwd, maar Noord-Korea traineerde de aansluiting ervan op het wegennet. Experts vermoeden dat dat was om de economische afhankelijkheid van China te be",
+     "context": "Met twaalf jaar vertraging hebben China en Noord-Korea een brug over een grensrivier tussen beide landen in gebruik genomen. De Nieuwe Yalurivierbrug verbindt het Chinese Dandong met Sinuiju aan de overzijde. De brug was al in 2014 grotendeels afgebouwd, maar Noord-Korea traineerde de aansluiting ervan op het wegennet. De relatie tussen Noord-Korea en China bekoelde in de jaren daarna vanwege het ",
      "rubrieken": [],
      "link": "https://nos.nl/l/2635026",
      "bron": "NOS",
@@ -54,22 +65,13 @@
      "sorteer": "2026-10-15T07:00:02+02:00"
     },
     {
-     "titel": "Druk verkiezingsjaar legt extra druk op Europese begrotingsonderhandelingen",
-     "context": "De leiders van de EU-landen spreken vandaag in Brussel over een nieuwe Europese begroting, de hoge energieprijzen en nieuwe financiële steun voor Oekraïne. De discussie staat onder druk van naderende verkiezingen in vier van de vijf grootste EU-landen, die de verhoudingen binnen de EU komend jaar flink overhoop kunnen gooien. De Spanjaarden (2026), Fransen, Polen en Italianen (2027) mogen tussen n",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635021",
-     "bron": "NOS",
-     "tijd": "06:57",
-     "sorteer": "2026-10-15T06:57:29+02:00"
-    },
-    {
-     "titel": "Zelensky voelt zich ‘verraden’ door Trump na wegvallen Starlinktoegang",
+     "titel": "Oekraïne valt Russische olieraffinaderij aan, voor het eerst sinds poging tot energie-staakt-het-vuren",
      "context": "",
      "rubrieken": [],
      "link": "https://www.volkskrant.nl/buitenland/liveblog-oekraine-zelensky-nieuws-poetin-trump~bb03466a/",
      "bron": "de Volkskrant",
-     "tijd": "09:23",
-     "sorteer": "2026-10-15T07:23:00+00:00"
+     "tijd": "10:59",
+     "sorteer": "2026-10-15T08:59:00+00:00"
     },
     {
      "titel": "Oud-president Congo slaat handen ineen met rebellengroep M23 in strijd tegen regering",
@@ -90,11 +92,11 @@
      "sorteer": "2026-10-15T06:55:00+00:00"
     },
     {
-     "titel": "Het geweld dat ooit Iran overspoelde kan ook hier uitbreken, vreest gevluchte schrijver: ’Ik wil niet opnieuw vertrekken’",
-     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdGxjU1A5SnNaRzJ5b2pRSHFMaThaOENCcXR1bkVEMVUxdTZoM2ZWcTVDT0c3Z3FCd1RiRE50SHowbzJFR3N1MlFuMnhjUVVNeUdYYlhUeUcxUmxOcFd6MXBQTUNydjIzM1lyMVFrOG9aQmxXOUlNWmNMTWhNN2JlaS1zQXQ2ajBOOVc2R3NjT1FVX3RRYUhXMm14ZmthNDllYW1aNmk4UXZubTIyUktNel9VWlYxZkttcmo1RU5GcXFaZy00cEM0d3VEcm9ITVo0RTVwNmFqS014Mk1xd0xCQldxS0hHUXlueUtyc1NpV1BKb01SM3lUcFhHRHA?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "09:07",
-     "sorteer": "2026-10-15T07:07:12+00:00"
+     "titel": "Hooggerechtshof Pakistan bevestigt doodstraf Pakistaanse christen wegens godslastering",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX25DVUpaay1WcDN0YTNFWkFrNlZ1OGdZbUR6T2ZjZHR4TEkzZHBwMTFoMjJ6SXJEYnJpSTdWUUZINzROQU80MjhuQWZOcC1RVnJXS0JVQWpSOXFiQTFZaWtiYWtzM0p5ZWlaZGwtUVBUNVhMRl9CdXpiQ1VjSjFCeW96VzJJcS1VaTdVeHZpWFpSN3BRUTNIVUdTUGlHMGVTdWZ0Q19od1BPTkZxU1V5bVdB?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "10:43",
+     "sorteer": "2026-10-15T08:43:42+00:00"
     }
    ]
   },
@@ -158,13 +160,13 @@
      "sorteer": "2026-10-15T06:35:00+00:00"
     },
     {
-     "titel": "Eurocommissaris is duidelijk: ‘De enige manier om energiecrises te voorkomen is afstappen van dure fossiele brandstoffen’",
+     "titel": "Eurocommissaris voor Energie heeft ‘realistische en botte’ boodschap: ‘Winter wordt zwaar, zeker voor burgers’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/eurocommissaris-is-duidelijk-de-enige-manier-om-energiecrises-te-voorkomen-is-afstappen-van-dure-fossiele-brandstoffen~ba56751f/",
+     "link": "https://www.volkskrant.nl/binnenland/eurocommissaris-voor-energie-heeft-realistische-en-botte-boodschap-winter-wordt-zwaar-zeker-voor-burgers~ba56751f/",
      "bron": "de Volkskrant",
      "tijd": "05:00",
-     "sorteer": "2026-10-15T03:00:17+00:00"
+     "sorteer": "2026-10-15T03:00:00+00:00"
     },
     {
      "titel": "Wiegels papieren liggen wel in het Nationaal Archief, maar of die van Jetten er ook komen? Toekomstvisie Nationaal Archief zorgt voor ophef",
@@ -176,6 +178,20 @@
      "sorteer": "2026-10-15T06:00:00+00:00"
     },
     {
+     "titel": "Stelling: Het openbaar tonen van terreursymbolen zoals vlaggen en logo’s moet strafbaar worden",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNemxQZU8zMzd3NWVCZEU2T205ZlZpWXRQdmZ1WFZ6djJ5dnB0LWFpMXpyOXlEVGpDTm03ZUtwMDBlN01SYy1Sc0RVMk41ZHMybFdfU2d6bzNoSC16ZnBuTGc0Rms3bHFmdTFqZVZjNTN3SlBDUC1EdXNSX041cFJrSU5ZdFR5RVhseEQ1cXI0RGV1T3RTeDI5NUl5OHhUV0FWMHJZY0QxcG9LYWdPamRwY3FlOGI3bjRQUk5DQm15dkJRdkw5eGNQOTJ6d1BscGRRVGllc1NfQms5WGM?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "10:34",
+     "sorteer": "2026-10-15T08:34:11+00:00"
+    },
+    {
+     "titel": "Hoofdredactie: Kamer moet alles uit de kast trekken om terreuraanbidders aan te pakken",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRWZKX0hkWHcxOHIxMnZPaDE2b3c1cHBpZ25yOTZzU0dJNVV4S1pYU1FTaktfYVZTa0c5M0xmSVhvNzI2dW1STWhaVDF0bnRtVVpRTVVxYnRIVk8tSm5iVkhCYUIxTUkzR3ZTMXRhU210QzVQV2hCRDRvTGtPSkdJVmIzWXp1dmNSNnhOTnl2LU1Tc0szeGNmNnk0cGdwMkl2V2hfOE91dTRMVWNJbHlibHJFel9UTjJPMkd3a2RiT1BuQlRoNENNWUhqRE0tU2tISHc?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "10:33",
+     "sorteer": "2026-10-15T08:33:07+00:00"
+    },
+    {
      "titel": "Nederlands OM en politie vragen Albert Heijn om aangifte te doen van hackaanval",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMkw4Q1ctUzRVdmNlNGFGTGdFOHIzdFhXSkxFWWtJYWItWTNyaTZXMWtIM0VROWcxU3dqWFJacnVoUTBvZml2WXI4bkhWNFo3VS01RW9XZjNuOHNxUWlES01VQVVadXBTNV9RSzluanNITmxxbTBLekc2ODVDR051ME03VWFGRTF0UF9uM0ktNFRQT1JYT2xvSUdPckVRZVhwZ1FFLWZXTjd4eC1DbEtDUkFRd2NBUnRKZDlR?oc=5",
      "bron": "Tweakers",
@@ -183,25 +199,11 @@
      "sorteer": "2026-10-15T07:27:46+00:00"
     },
     {
-     "titel": "Hoofdredactie: Kamer moet alles uit de kast trekken om terreuraanbidders aan te pakken",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRWZKX0hkWHcxOHIxMnZPaDE2b3c1cHBpZ25yOTZzU0dJNVV4S1pYU1FTaktfYVZTa0c5M0xmSVhvNzI2dW1STWhaVDF0bnRtVVpRTVVxYnRIVk8tSm5iVkhCYUIxTUkzR3ZTMXRhU210QzVQV2hCRDRvTGtPSkdJVmIzWXp1dmNSNnhOTnl2LU1Tc0szeGNmNnk0cGdwMkl2V2hfOE91dTRMVWNJbHlibHJFel9UTjJPMkd3a2RiT1BuQlRoNENNWUhqRE0tU2tISHc?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "09:21",
-     "sorteer": "2026-10-15T07:21:18+00:00"
-    },
-    {
      "titel": "Door nazi's geroofde Kandinsky voor bijna 32 miljoen euro geveild",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTDVRTWpVNy1QSTB6bGdWMEhPbzluN0pXcG8zOWtaMlJidDVKZldTTGJzYVhTdFNwcmRCRmV4aTZYSUh5TjFLQndlMW5QY2pHeURmUlNNTkxCc3VHY2Y3LTJWRFdsRmotcnhxMGEwZkkxaU13cExBRjQtZ0dUa2RLZVVyNUZrX0haZEVUMWZYaGZWNGU0R1pLOXpoci0?oc=5",
      "bron": "NOS",
      "tijd": "05:18",
      "sorteer": "2026-10-15T03:18:15+00:00"
-    },
-    {
-     "titel": "Man krijgt twee jaar cel voor gijzelen en mishandelen Bas Muijs",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeFJJZ1kxNW1uak5HaENEamluRWhkekljU2VRbFdXRjFRbVl2ampfNUtqU01YcEF4Q0FCUV9BMU9HWnBoQWRxTDhuU3owQ19RVWs5a2w1OERUWlhjNXlwcjU1S2ZCSTdYUlM4OHpTakZFaVZiMEZlc1ZUV0d0OFdKSVIyWnRGTW1YVDBQSjFWQWQ1S1FvRDJmTWdDb1FwZ3NsVC1CbDdwNG5wS1VVVWNhc1M3OHpmLXNpUzkxWkJXdHBqNFE?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "01:04",
-     "sorteer": "2026-10-14T23:04:57+00:00"
     },
     {
      "titel": "Een AI-model kan nog zo krachtig zijn, macht krijgt het pas als wij die geven",
@@ -251,6 +253,33 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Intercity maakt noodstop vanwege rokende passagier: trein ontruimd",
+     "context": "De intercity tussen Zwolle en Meppel maakte vanochtend een noodstop op station Meppel vanwege een brandmelding vanuit de trein.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3706734/intercity-maakt-noodstop-vanwege-rokende-passagier-trein-ontruimd",
+     "bron": "RTV Oost",
+     "tijd": "10:05",
+     "sorteer": "2026-10-15T08:05:10+00:00"
+    },
+    {
+     "titel": "LIVEBLOG | Matchday! FC Twente neemt het in Europa op tegen FC Thun",
+     "context": "Na een succesvolle campagne in de voorrondes van de Conference League, gaat vanavond eindelijk het hoofdtoernooi beginnen voor FC Twente. Alles rondom de Europese wedstrijd van de Enschedese club is vandaag te volgen in ons liveblog. Van interviews en voorbeschouwingen tot het live verslag van de wedstrijd.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3706658/liveblog-matchday-fc-twente-neemt-het-in-europa-op-tegen-fc-thun",
+     "bron": "RTV Oost",
+     "tijd": "09:00",
+     "sorteer": "2026-10-15T07:00:48+00:00"
+    },
+    {
+     "titel": "Droogte legt Twentse bedrijven lam: ondernemers redden zich, maar tegen welke prijs?",
+     "context": "Welke schade lijden bedrijven rond de Twentekanalen als gevolg van de droogte? Havenbedrijf Port of Twente maakt voor het eerst balans op en concludeert dat gedupeerde bedrijven veel zelf hebben opgelost. Dat betekent echter niet dat het logistieke systeem robuust is.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3706606/droogte-legt-twentse-bedrijven-lam-ondernemers-redden-zich-maar-tegen-welke-prijs",
+     "bron": "RTV Oost",
+     "tijd": "08:00",
+     "sorteer": "2026-10-15T06:00:00+00:00"
+    },
+    {
      "titel": "Van metaalrecycling tot bandenhandel: deze bedrijven gingen afgelopen week failliet",
      "context": "In het overzicht van faillissementen onder meer aandacht voor een traprenoveerder, ijzerhandelaar en bandenhandel. Verder ging een zonnepanelenhandelaar op de fles en deed AI een softwareontwikkelaar de das om.",
      "rubrieken": [],
@@ -260,51 +289,24 @@
      "sorteer": "2026-10-15T05:00:00+00:00"
     },
     {
-     "titel": "Komt er een nieuwe zoektocht naar het lijk van Jatti? 'Er zijn nieuwe aanwijzingen'",
-     "context": "Op het moment dat de rockopera over de vermoorde Jatti uit Overdinkel in het theater te zien is, lijkt er een nieuwe zoektocht naar zijn lichaam te komen. Dat is nooit gevonden, maar volgens historicus Marco Krijnsen zijn er nieuwe aanwijzingen opgedoken. \"Het is afwachten, maar ik ben hoopvol.\"",
+     "titel": "Samenwerken en trainen: Overijsselse ziekenhuizen bereiden zich voor op crisissituaties",
+     "context": "Langdurige stroomuitval, cyberaanvallen of een overvolle spoedeisende hulp: ziekenhuizen in Overijssel bereiden zich op diverse manieren voor op noodsituaties. Samenwerken en personeel trainen zijn daarbij belangrijk. \"Dan heb je bijna geen crisis meer.\"",
      "rubrieken": [
       "breaking"
      ],
-     "link": "https://www.oost.nl/cultuur/3706547/komt-er-een-nieuwe-zoektocht-naar-het-lijk-van-jatti-er-zijn-nieuwe-aanwijzingen",
+     "link": "https://www.oost.nl/nieuws/3704162/samenwerken-en-trainen-overijsselse-ziekenhuizen-bereiden-zich-voor-op-crisissituaties",
      "bron": "RTV Oost",
-     "tijd": "20:43",
-     "sorteer": "2026-10-14T18:43:49+00:00"
+     "tijd": "06:01",
+     "sorteer": "2026-10-15T04:01:40+00:00"
     },
     {
-     "titel": "Geweldsincident in woning Deventer, slachtoffer naar ziekenhuis",
-     "context": "In een woning aan de Brinkgreverweg in Deventer heeft zich vanavond een geweldsincident voorgedaan. Daarbij is één slachtoffer gewond geraakt en naar het ziekenhuis vervoerd. Eén persoon is aangehouden.",
+     "titel": "Wie saboteerde het spoor? Maand na chaos in Overijssel nog altijd geen doorbraak",
+     "context": "IJzeren staven op het spoor, ontregeld treinverkeer en op tientallen plekken in het land onderzoek. Precies een maand na de sabotage op Prinsjesdag is het opvallend stil rond de zoektocht naar de daders. Ook in Overijssel sloegen saboteurs toe, maar de politie kan op dit moment nog niets kwijt over het onderzoek.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706610/geweldsincident-in-woning-deventer-slachtoffer-naar-ziekenhuis",
+     "link": "https://www.oost.nl/nieuws/3706589/wie-saboteerde-het-spoor-maand-na-chaos-in-overijssel-nog-altijd-geen-doorbraak",
      "bron": "RTV Oost",
-     "tijd": "18:36",
-     "sorteer": "2026-10-14T16:36:49+00:00"
-    },
-    {
-     "titel": "Jarenlange celstraffen voor verhandelen van honderden kilo's coke in Deventer",
-     "context": "Zeker 200 kilo cocaïne zou via een woning aan de Keizer Frederikstraat in Deventer zijn verhandeld. Drie mannen zijn woensdag veroordeeld tot celstraffen van zes en zeven jaar. Ook de bewoonster is veroordeeld. Een van de verdachten beweert dat achter deze cokehandel niemand minder dan drugsbaas Bolle Jos zit.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706539/jarenlange-celstraffen-voor-verhandelen-van-honderden-kilos-coke-in-deventer",
-     "bron": "RTV Oost",
-     "tijd": "16:26",
-     "sorteer": "2026-10-14T14:26:22+00:00"
-    },
-    {
-     "titel": "Bert van Losser voorlopig aan de zijlijn na hartstilstand: 'Ik blijf positief'",
-     "context": "Presentator Bert van Losser zal de komende maanden niet te zien of te horen zijn bij RTV Oost. Van Losser moet binnenkort een bypassoperatie ondergaan. Afgelopen zaterdag werd hij getroffen door een hartstilstand tijdens de rust van een voetbalwedstrijd waarbij hij als scheidsrechter actief was.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706489/bert-van-losser-voorlopig-aan-de-zijlijn-na-hartstilstand-ik-blijf-positief",
-     "bron": "RTV Oost",
-     "tijd": "12:30",
-     "sorteer": "2026-10-14T10:30:27+00:00"
-    },
-    {
-     "titel": "Ernstig ongeval met schoolbus bij Gronau, Nederlandse hulpdiensten helpen Duitse collega's",
-     "context": "Meerdere kinderen en volwassenen raakten vanmorgen gewond bij een ernstig busongeluk net over de grens bij Enschede. Duitse en Nederlandse hulpdiensten werken samen bij de hulpverlening. Een zwaargewonde leraar is naar het Medisch Spectrum Twente in Enschede gebracht.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706479/ernstig-ongeval-met-schoolbus-bij-gronau-nederlandse-hulpdiensten-helpen-duitse-collegas",
-     "bron": "RTV Oost",
-     "tijd": "11:44",
-     "sorteer": "2026-10-14T09:44:53+00:00"
+     "tijd": "05:03",
+     "sorteer": "2026-10-15T03:03:00+00:00"
     },
     {
      "titel": "Arriva breidt treinaanbod tussen Emmen en Zwolle uit",
@@ -408,6 +410,13 @@
      "sorteer": "2026-10-15T02:45:36+00:00"
     },
     {
+     "titel": "Cabaretier Freek de Jonge (82) uit Westernieland werkt aan AI-versie van zichzelf",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSkZJSWR2U2E2N3FoVTlRTUZGSEF5dXRfQ0g5dVVyNHlmSGpBYXNpZzFFQkdDZTdfTElFRUxTS1hXV2FpSE5POXB4Z1BVQllrN2JuemI0aHNGUmx0SG9mektjWmFPVGlfVzFVX2plS2dQVnhleEJTUXhpc0pSZ1FmU0xMSDNtVDNsTEFxNDVwaWM1UUl6d3ZubE00dG5pUEI5dE15WWNLRjdsOXpVUlBWOVNHVTBOY2UyWDZDTmNB?oc=5",
+     "bron": "Leeuwarder Courant",
+     "tijd": "10:25",
+     "sorteer": "2026-10-15T08:25:08+00:00"
+    },
+    {
      "titel": "TSMC boekt opnieuw recordwinst door sterke vraag naar AI-chips",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRXRUT1d6QnZCamVqSEFaZ2dwR3RUclRRc3BQNFZGZElIMk9qMkNDeGJEODJpZ1Y5bXZZT2dldzVGRDhZbU1aWmNET1RJclI1ZHRvSlRtYjU0N2FJQjFqQ3RGX09SblA3R2hLdWxnSWp6VVNwTjhQcWJUaFhOeE9wOTBTdHR6RkFnTVNGMjZaNC16dw?oc=5",
      "bron": "Reformatorisch Dagblad",
@@ -485,6 +494,14 @@
      "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05408"
     },
     {
+     "titel": "Het gebruik van mogelijk excessief geweld door de politie op geweldloze klimaatactivisten",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "08-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49729",
+     "sorteer": "2026-10-15T10:54:35.723+02:00"
+    },
+    {
      "titel": "Het bericht ‘Onderzoeksraad: 7000 kinderen in asielnoodopvang structureel verwaarloosd’",
      "bron": "Kamervraag",
      "kop": "Kamervragen",
@@ -499,14 +516,6 @@
      "tijd": "23-09",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D45608",
      "sorteer": "2026-10-15T09:50:31.413+02:00"
-    },
-    {
-     "titel": "De berichtgeving over discriminatie bij de afdeling Handhaving van UWV",
-     "bron": "Kamervraag",
-     "kop": "Kamervragen",
-     "tijd": "08-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49721",
-     "sorteer": "2026-10-13T16:16:04.157+02:00"
     },
     {
      "titel": "Antwoord op vragen van het lid Armut over het bericht 'Vrouwen die suïcide plegen, blijken opvallend vaak slachtoffer van…",
@@ -539,46 +548,6 @@
      "tijd": "12-10",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D50530",
      "sorteer": "2026-10-14T12:39:46.26+02:00"
-    },
-    {
-     "titel": "Procedurevergadering tijdelijke commissie Grondrechten en constitutionele toetsing",
-     "bron": "Procedurevergadering",
-     "kop": "Komende week",
-     "tijd": "donderdag 15/10 09:30",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01591",
-     "sorteer": "2026-10-15T09:30"
-    },
-    {
-     "titel": "Criminaliteitsbestrijding, ondermijning en georganiseerde criminaliteit",
-     "bron": "Commissiedebat",
-     "kop": "Komende week",
-     "tijd": "donderdag 15/10 14:00",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02851",
-     "sorteer": "2026-10-15T14:00"
-    },
-    {
-     "titel": "Goedkeuring van het op 4 december 2025 te Wenen tot stand gekomen Aanvullend Protocol bij de Overeenkomst tussen het…",
-     "bron": "Inbreng verslag (wetsvoorstel)",
-     "kop": "Komende week",
-     "tijd": "donderdag 15/10 14:00",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07430",
-     "sorteer": "2026-10-15T14:00"
-    },
-    {
-     "titel": "WODC rapport 'evaluatie praktijktest nieuwe werkwijze hulpverlening aan slachtoffers van seksueel geweld' (33552-157)",
-     "bron": "Inbreng schriftelijk overleg",
-     "kop": "Komende week",
-     "tijd": "donderdag 15/10 14:00",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06409",
-     "sorteer": "2026-10-15T14:00"
-    },
-    {
-     "titel": "Wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering, het Wetboek van Strafrecht BES en het Wetboek…",
-     "bron": "Inbreng verslag (wetsvoorstel)",
-     "kop": "Komende week",
-     "tijd": "donderdag 15/10 14:00",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06504",
-     "sorteer": "2026-10-15T14:00"
     }
    ]
   },
@@ -645,10 +614,42 @@
     {
      "titel": "Notenkraker",
      "kop": "Zeldzaamheden",
-     "bron": "Groningen",
-     "tijd": "09:58",
+     "bron": "Flevoland",
+     "tijd": "10:34",
      "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-15T09:58:00+02:00"
+     "sorteer": "2026-10-15T10:34:00+02:00"
+    },
+    {
+     "titel": "Siberische Braamsluiper",
+     "kop": "Zeldzaamheden",
+     "bron": "Noord-Holland",
+     "tijd": "10:30",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-15T10:30:00+02:00"
+    },
+    {
+     "titel": "Kaspische Roodborsttapuit",
+     "kop": "Zeldzaamheden",
+     "bron": "Noord-Holland",
+     "tijd": "10:26",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-15T10:26:00+02:00"
+    },
+    {
+     "titel": "Dwerggors",
+     "kop": "Zeldzaamheden",
+     "bron": "Noord-Holland",
+     "tijd": "09:35",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-15T09:35:00+02:00"
+    },
+    {
+     "titel": "Pallas' Boszanger",
+     "kop": "Zeldzaamheden",
+     "bron": "Noord-Holland",
+     "tijd": "09:30",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-15T09:30:00+02:00"
     },
     {
      "titel": "Sperwergrasmus",
@@ -657,14 +658,6 @@
      "tijd": "16:40",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-10-14T16:40:00+02:00"
-    },
-    {
-     "titel": "Pallas' Boszanger",
-     "kop": "Zeldzaamheden",
-     "bron": "Noord-Holland",
-     "tijd": "12:35",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-14T12:35:00+02:00"
     },
     {
      "titel": "Dalfsen",
@@ -684,42 +677,42 @@
      "tellers": ""
     },
     {
-     "titel": "Landelijk vandaag: 106 soorten, 151.271 vogels geteld",
+     "titel": "Landelijk vandaag: 126 soorten, 254.072 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
     },
     {
-     "titel": "Vink — 98.664",
+     "titel": "Vink — 171.026",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
     },
     {
-     "titel": "Spreeuw — 28.663",
+     "titel": "Spreeuw — 43.196",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
     },
     {
-     "titel": "Veldleeuwerik — 4.569",
+     "titel": "Veldleeuwerik — 10.064",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
     },
     {
-     "titel": "Kolgans — 3.453",
+     "titel": "Kolgans — 4.253",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
     },
     {
-     "titel": "Keep — 2.748",
+     "titel": "Graspieper — 3.514",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -727,7 +720,15 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Keep springt eruit — 2.748, normaal 353",
+     "titel": "Keep springt eruit — 3.488, normaal 353",
+     "bron": "10× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch",
+     "sein": false
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Veldleeuwerik springt eruit — 10.064, normaal 1.233",
      "bron": "8× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch",
@@ -735,15 +736,23 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Veldleeuwerik springt eruit — 4.569, normaal 1.233",
+     "titel": "Vink springt eruit — 171.026, normaal 41.584",
      "bron": "4× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch",
      "sein": false
     },
     {
+     "kop": "Vogeltrek",
+     "titel": "Kauw springt eruit — 1.384, normaal 403",
+     "bron": "3× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch",
+     "sein": false
+    },
+    {
      "kop": "Kraanvogels",
-     "titel": "Trek komt op gang — gisteren 58 meldingen, samen 11.320 vogels",
+     "titel": "Trek komt op gang — gisteren 60 meldingen, samen 11.323 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -758,8 +767,8 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "30 meldingen vertrek uit het noorden",
-     "bron": "DE 29, SE 1",
+     "titel": "31 meldingen vertrek uit het noorden",
+     "bron": "DE 30, SE 1",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -784,8 +793,8 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 11.6,
-    "gevoel": 10.2,
+    "nu": 13.6,
+    "gevoel": 13.6,
     "wind": "Z 2",
     "station": "Heino",
     "bericht": "Het is vandaag genieten van een fraaie najaarsdag met hoge temperaturen. Morgen volgt in de loop van de middag regen. Met een naar noordwest draaiende wind gaat de temperatuur omlaag.",
