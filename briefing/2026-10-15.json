@@ -3,15 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "08:00",
+  "opgehaald": "08:05",
   "blokken": 10,
   "berichten": 82,
-  "problemen": [
-   "weer Dalfsen: HTTPError"
-  ],
+  "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-15T08:00+02:00",
+ "opgehaald": "2026-10-15T08:05+02:00",
  "audio": "audio/20261015.mp3",
  "blokken": [
   {
@@ -613,20 +611,20 @@
      "sorteer": "2026-10-15T05:00:00+00:00"
     },
     {
+     "titel": "World Mushroom Day: From food to plastic replacement",
+     "toelichting": "A mushroom is analogous to a flower on a plant — it’s the reproductive organ of a fungus, which protects and distributes fungal spores. Mushrooms are critical part of our ecosystems. For humans and other animals, mushroo",
+     "bron": "Mongabay (Engels)",
+     "tijd": "07:56",
+     "link": "https://news.mongabay.com/short-article/2026/10/world-mushroom-day-from-food-to-plastic-replacement/",
+     "sorteer": "2026-10-15T05:56:31+00:00"
+    },
+    {
      "titel": "From paper parks to lasting protection, here’s what works in marine conservation",
      "toelichting": "In recent years, there has been a steady stream of ocean conservation pledges, from French Polynesia extending marine protection across its nearly 5 million-square-kilometer exclusive economic zone, including more than 1",
      "bron": "Mongabay (Engels)",
      "tijd": "05:23",
      "link": "https://news.mongabay.com/2026/10/from-paper-parks-to-lasting-protection-heres-what-works-in-marine-conservation/",
      "sorteer": "2026-10-15T03:23:39+00:00"
-    },
-    {
-     "titel": "Artificial mangrove roots offer a stopgap for Thailand’s eroding coastline",
-     "toelichting": "Residents of Phra Samut Chedi, one of Thailand’s most erosion-prone districts, have long struggled against coastal erosion. It’s located in the muddy heart of the Chao Phraya River Delta, where Bangkok’s major watercours",
-     "bron": "Mongabay (Engels)",
-     "tijd": "04:01",
-     "link": "https://news.mongabay.com/2026/10/artificial-mangrove-roots-offer-a-stopgap-for-thailands-eroding-coastline/",
-     "sorteer": "2026-10-15T02:01:49+00:00"
     }
    ]
   },
@@ -685,42 +683,42 @@
      "tellers": ""
     },
     {
-     "titel": "Landelijk vandaag: 35 soorten, 2.949 vogels geteld",
+     "titel": "Landelijk vandaag: 40 soorten, 3.713 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
     },
     {
-     "titel": "Vink — 1.859",
+     "titel": "Vink — 2.318",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
     },
     {
-     "titel": "Kolgans — 544",
+     "titel": "Kolgans — 556",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
     },
     {
-     "titel": "Keep — 120",
+     "titel": "Keep — 137",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
     },
     {
-     "titel": "Graspieper — 71",
+     "titel": "Graspieper — 127",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
     },
     {
-     "titel": "Grauwe Gans — 67",
+     "titel": "Spreeuw — 107",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -728,7 +726,7 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Trek komt op gang gisteren — 57 meldingen, samen 10760 vogels",
+     "titel": "Trek komt op gang — gisteren 57 meldingen, samen 10.760 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -769,14 +767,20 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 10.0,
-    "gevoel": 8.7,
-    "wind": "Z 2",
+    "nu": 9.9,
+    "gevoel": 8.6,
+    "wind": "ZZO 2",
     "station": "Heino",
-    "bericht": "Vandaag kunnen we andermaal genieten van heerlijk herfstweer en vooral in het zuiden schiet de temperatuur uit zijn slof, met maxima tot 21 graden. Morgen domineert de bewolking en later op de dag gaat het vanuit het westen regenen. Vanochtend is het heerlijk weer met volop zon en alleen wat sluierbewolking.",
-    "vandaag": "Vandaag kunnen we andermaal genieten van heerlijk herfstweer en vooral in het zuiden schiet de temperatuur uit zijn slof, met maxima tot 21 graden. Vanochtend is het heerlijk weer met volop zon en alleen wat sluierbewolking.",
-    "temperatuur": "Vandaag kunnen we andermaal genieten van heerlijk herfstweer en vooral in het zuiden schiet de temperatuur uit zijn slof, met maxima tot 21 graden.",
-    "dalfsen": null,
+    "bericht": "Het is vandaag genieten van een fraaie najaarsdag met hoge temperaturen. Morgen volgt in de loop van de middag regen. Met een naar noordwest draaiende wind gaat de temperatuur omlaag.",
+    "vandaag": "Het is vandaag genieten van een fraaie najaarsdag met hoge temperaturen. Vanochtend is het heerlijk weer met volop zon en alleen wat sluierbewolking.",
+    "temperatuur": "Aan het eind van de ochtend is het 15 graden in het noordoosten en plaatselijk 17 graden in het zuiden.",
+    "dalfsen": {
+     "zin": "Voor Dalfsen zelf: 10 tot 19 graden, droog, ruim 7 uur zon, wind uit het zuiden, kracht 3.",
+     "max": 19,
+     "min": 10,
+     "regenkans": 0,
+     "omschrijving": "bewolkt"
+    },
     "vooruit": "Eerst is er meer bewolking en valt er af en toe regen. Na het weekend is er meer ruimte voor de zon en blijft het droog. De temperatuur ligt rond of iets beneden het langjarig gemiddelde.",
     "omslag": "Vanaf morgen regen: de kans loopt op van 20% naar 80%.",
     "min": "10",
