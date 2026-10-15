@@ -1,17 +1,15 @@
 {
  "datum": "2026-10-15",
- "naam": "Middagbriefing",
+ "naam": "Avondbriefing",
  "status": {
-  "ronde": "Middagbriefing",
-  "opgehaald": "17:00",
+  "ronde": "Avondbriefing",
+  "opgehaald": "18:00",
   "blokken": 10,
-  "berichten": 85,
-  "problemen": [
-   "Nature Today: timeout"
-  ],
+  "berichten": 88,
+  "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-15T17:00+02:00",
+ "opgehaald": "2026-10-15T18:00+02:00",
  "audio": "audio/20261015.mp3",
  "blokken": [
   {
@@ -19,6 +17,15 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Nederlands kennisplatform Raam op zwarte lijst gezet in Rusland",
+     "context": "Het Nederlandse kennisplatform Raam, dat informatie deelt over Rusland en Oost-Europa, is in Rusland bestempeld als ongewenste organisatie. Het is voor het eerst dat een Nederlandstalig medium op deze lijst is gezet. Hierdoor lopen Russische en Belarussische auteurs die voor Raam schrijven mogelijk extra risico's. Volgens het platform riskeren die journalisten een boete of strafvervolging. Een bui",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635106",
+     "bron": "NOS",
+     "tijd": "17:47",
+     "sorteer": "2026-10-15T17:47:21+02:00"
+    },
     {
      "titel": "Executie majoor die aanslag pleegde toch niet live uitgezonden, zegt Trump",
      "context": "De executie van oud-militair Nidal Hasan gaat niet live uitgezonden worden. Dat schrijft de Amerikaanse president Trump op zijn platform Truth Social. \"Hij zal, zoals gepland, worden geëxecuteerd door een vuurpeloton, maar deze gebeurtenis zal niet worden uitgezonden\", aldus Trump. Nidal Hasan was majoor en werkte in het leger als psychiater toen hij in 2009 dertien mensen doodschoot op een legerb",
@@ -56,40 +63,38 @@
      "sorteer": "2026-10-15T14:52:25+02:00"
     },
     {
-     "titel": "Podcast De Dag: De opmars van de Houthi's",
-     "context": "Saudi-Arabië ligt onder vuur van de Houthi's. Na de aanvallen op het belangrijkste vliegveld van het land in hoofdstad Riyad, raken de gewapende strijders ook olie-installaties en een ander vliegveld. Vliegverkeer naar Riyad ligt nog altijd stil. Luisteren? Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abonneren. Correspondent ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635081",
-     "bron": "NOS",
-     "tijd": "14:18",
-     "sorteer": "2026-10-15T14:18:08+02:00"
-    },
-    {
-     "titel": "Trump ziet af van live uitzenden executie Amerikaanse ex-militair",
+     "titel": "’VS sluiten inzet ‘Moeder aller Bommen’ niet uit in nieuwe aanvalsplannen Iran",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-hegseth-pentagon~bcd4a5c7/",
+     "link": "https://www.volkskrant.nl/buitenland/vs-sluiten-inzet-moeder-aller-bommen-niet-uit-in-nieuwe-aanvalsplannen-iran~b8460ca15/",
      "bron": "de Volkskrant",
-     "tijd": "16:33",
-     "sorteer": "2026-10-15T14:33:00+00:00"
+     "tijd": "17:46",
+     "sorteer": "2026-10-15T15:46:00+00:00"
     },
     {
-     "titel": "Israël blokkeert bouw van internationale basis voor vredesmacht in Gaza",
+     "titel": "Hoofdredacteur onafhankelijke Russische krant na huisinval ondervraagd door autoriteiten",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/middenoosten-liveblog-iran-houthi-yemen-saoediarabie-vs~ba2c7027/",
+     "link": "https://www.volkskrant.nl/buitenland/hoofdredacteur-onafhankelijke-russische-krant-na-huisinval-ondervraagd-door-autoriteiten~b2e74ae0/",
      "bron": "de Volkskrant",
-     "tijd": "15:33",
-     "sorteer": "2026-10-15T13:33:00+00:00"
+     "tijd": "17:38",
+     "sorteer": "2026-10-15T15:38:57+00:00"
     },
     {
-     "titel": "Twee containerschepen gezonken bij de Straat van Hormuz",
+     "titel": "Ook al wordt de klant door eigen nalatigheid opgelicht, de bank moet toch betalen",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/twee-containerschepen-gezonken-bij-de-straat-van-hormuz~b89ef389/",
+     "link": "https://www.trouw.nl/buitenland/ook-al-wordt-de-klant-door-eigen-nalatigheid-opgelicht-de-bank-moet-toch-betalen~b23c4fa9/",
      "bron": "Trouw",
-     "tijd": "16:34",
-     "sorteer": "2026-10-15T14:34:11+00:00"
+     "tijd": "17:58",
+     "sorteer": "2026-10-15T15:58:18+00:00"
+    },
+    {
+     "titel": "Turkse oppositie woest na inval politie bij oppositiezender: ’Een samenleving zonder vrije pers blijft in het duister tasten’",
+     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZWY5VXNpaDd3R0tveV9nZjh2SFJ1a3pvOFZpNWUyOGVKQmpZM2hKM0k0bFNnWGdOSjMzMkUxMDVtOVFQMU55RlB1RGlqSVo2eUgzbG9YVmd4aWpkbVhoemxCTjRpRkdLWkJDWkVxNFllQ0s4T0ZJd1BSdDlQVmR4cjZfUXJ3cjZGQzE4amMzeklEZzdSLUp3SmR6SS1OOURSdkV1Nzdqa3RWVHo3VWQ3YXdrRXEwQ25Pb05xcVlBYml0U1FKOVVQX0h5TDFBbFRfV1k3WV9TUTJnRGwxeFRPMlR3ZldIV3NUai1Jd0hfVDFOWWdQQU0wSkhxeWE4STRIWnFr?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "17:53",
+     "sorteer": "2026-10-15T15:53:37+00:00"
     },
     {
      "titel": "Een bestsellerauteur als mogelijke financier van terrorisme: de opmerkelijke kwestie Sally Rooney",
@@ -97,13 +102,6 @@
      "bron": "de Volkskrant",
      "tijd": "16:04",
      "sorteer": "2026-10-15T14:04:15+00:00"
-    },
-    {
-     "titel": "De boeken van Sally Rooney verdwijnen uit de Britse boekhandel. Is dat censuur?",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY0Z6MkhaNG4zZ1NtRW1qc3VCOVB6ZGZMSm9rNEU2bnNOdlk2NVFZeHdEbk9QVVFwNml2eXpHTkV5cTlRV0diaDNIVWRpSnlkNUZUS3VSOUszWUdZOEl4U1BRd2ZzQ29XU2U4eXI0QWZVcGVzRnlhMzgxY3hfQ213XzFSdnRFUUR6bmdLak92NHd1aWtwd0lUTzFqeGtEVWIzdjJQX3FrVmJMQWdXamlCbTVzcFdQZHFoRjVOTQ?oc=5",
-     "bron": "de Volkskrant",
-     "tijd": "16:04",
-     "sorteer": "2026-10-15T14:04:00+00:00"
     }
    ]
   },
@@ -149,15 +147,6 @@
      "sorteer": "2026-10-14T23:51:09+02:00"
     },
     {
-     "titel": "UWV trekt stekker uit ICT-project dat 55 miljoen euro heeft gekost",
-     "context": "Uitkeringsinstantie UWV stopt na vijf jaar met de ontwikkeling en implementatie van een nieuw digitaal systeem. De Bemiddelingsservice (BMS) moest werkgevers en werkzoekenden beter met elkaar verbinden, maar volgens het UWV voldoet het systeem niet aan de verwachtingen. Het project heeft zo'n 55 miljoen euro gekost, aldus het UWV. De uitkeringsinstantie heeft BMS op kleine schaal getest en aanvull",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2634994",
-     "bron": "NOS",
-     "tijd": "21:08",
-     "sorteer": "2026-10-14T21:08:40+02:00"
-    },
-    {
      "titel": "Verdachte van poging tot doodslag en openlijke geweldpleging in Beverwijk: ‘Het leek wel een bosgevecht’",
      "context": "",
      "rubrieken": [],
@@ -182,21 +171,28 @@
      "link": "https://www.trouw.nl/binnenland/al-maanden-houdt-de-gemeenteraad-van-nijmegen-de-benoeming-van-twee-fvd-ers-tegen~b324fb11/",
      "bron": "Trouw",
      "tijd": "15:55",
-     "sorteer": "2026-10-15T13:55:32+00:00"
+     "sorteer": "2026-10-15T13:55:00+00:00"
     },
     {
-     "titel": "Reeks grote hacks baart OM zorgen: ’De schaal neemt toe’",
-     "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNYlVNcTc0TjZJQ2p2TC1uYVJES2ZoekJURWdza2Jfc0pTa1p5NWxnalJMeXhIOU9lNGVlQXdJaUZSX3g4UW15WEl3bHJkTi0wSm4wbmtWTUp2OFdFZjBvVDNQa1hKeVoybEJ3cjlFVnlEU3pXMUJrU0M5WVc1VDdVZXZsLVFwVElKQ1N1TU1ncFZEMnpHeTdvb1d4SDEyS0pwQU9QRGF4bklOeDFaazAyNUlUel9UcDM5MHJpc1gzbjlDQlpEZ3hXZXFZYmlfZkZEaTZJSC00U0xoUnZtNkhHekl3cXVrSFU5LXFvUkpua0xncnZkalJsLVo0Ri1BWlJvMGVYaFJyYk5PaWttRnhFYXlyeXYzcDh0bW9JbWFGc3U2dw?oc=5",
+     "titel": "Verdachte in moordzaak Susanna Boon houdt de kaken stijf op elkaar: ’Soms betekent zwijgen ook schuld’",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVU1IaUIxWkZNTUdpS0M5S1lpaFVVb0xZc1NkeFhOcklYaUpCeDRHSmpUNGJ6aWdUT2FSR0s2bWE2OW1kbzVvcFh2NFd2Rm56WFVMclc5YU5ZUTNfRUxxUE96R3VhTEFMMDJOeExLV1pvVW1nV0pvcDVqZWdOeEVKcDNJc2ktS2M1c0N4ZzN2SDhHd0g0bUh3TzYzam93Z2hOVHVCbDB1NF9MeFhOdFA2S0ZKM0xnWXNzRGdEN2xabHhwNWtwb3VwMkZkU3hhM1FIb1puZkVLVDNrNmx1LW81dnZZLTM?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "15:44",
-     "sorteer": "2026-10-15T13:44:33+00:00"
+     "tijd": "17:20",
+     "sorteer": "2026-10-15T15:20:44+00:00"
     },
     {
-     "titel": "Opinie | We hebben maatschappelijke cohesie nodig, maar de politiek kiest voor symbolische afbraak",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaXVlZ2JSMjdkWmF2WlRaQ1FZSWFsSkMtcl9rMzZMVGd5ZG9ORVc2YmlPX1AtUUp0UUY0MXQ1UHBBOXVWTU9CRkE4cEQyRXZ0QlRnSFJoN25HN2wxNVJlQVk4TURJRTh5blZuYklKc3d0dUxOVjVPWnZIRE1YMFIxQUJBSjZQOW5OQ1p4M3ZKY2tSUE4yelRsY3Y3YUhBSC1pR24zeDFCRnpKMkFYa1NwQkx1dHk2b2pkQU93NDh2dzA0X2tOby15UE5JTG1JVGc?oc=5",
-     "bron": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-     "tijd": "15:00",
-     "sorteer": "2026-10-15T13:00:00+00:00"
+     "titel": "Leiders bepalen wanneer leden eten, slapen en met wie ze trouwen: hulppunt luidt noodklok",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTGpZN2VhVmNrRHVpazlOdXhRQWdYcHZMQVJMd2NhTzhhZkxnblUwZ1YxcTFRcDV6cUZtMGQ5VzAxTE1Hb1FpMDFEOW5iU0dDek05Z0xFeUZWRVhqTFBVVy0zeVpqbzM0Mkoxdld6bFdxSHVWTHl0bU5wZExmV2JQN0pRSk5YUHFFSHpJR2ZlOElmblVnaXBiZ282QmIzenRCWnpQYW9EQ18tNGRjZkw3S2RzVTk3cnptQ2lCU0hLa3RxYVQzaVYxbg?oc=5",
+     "bron": "de Stentor",
+     "tijd": "17:00",
+     "sorteer": "2026-10-15T15:00:17+00:00"
+    },
+    {
+     "titel": "Hermans komt komende maand met ander voorstel aftrek zorgkosten",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMWJiX1ZTcURvX3dFOXdIbngxNHp4V2JmYVNieE9hTlRndEV2ZEJjUUZwZ3NFekxMQk1ZUTFmdzZQZWRJeFBFOG11cGU4cGxYQ1BIT25kNVIweENrTzZ3T19feXprelAxbDVMSmQtemZWb0lQblM2Q3JsZVEzRXdib01hZ2s0UURrcC1z?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "15:34",
+     "sorteer": "2026-10-15T13:34:34+00:00"
     },
     {
      "titel": "Hoofdredactie: Kamer moet alles uit de kast trekken om terreuraanbidders aan te pakken",
@@ -204,13 +200,6 @@
      "bron": "De Telegraaf",
      "tijd": "15:00",
      "sorteer": "2026-10-15T13:00:00+00:00"
-    },
-    {
-     "titel": "Zorgde oorzaak van buitenaf voor explosie Visscherssteeg in Utrecht? Antwoord laat nog even op zich wachten",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdVppRTAwdy1NSS05Wks2MTh2eHA2V3Z2Zk1xNXB5MkNqY0hSWnBOU0t0VTVqZGFoN3VyYk1IMjVOalhzbFZ1SFVVaS1MVEVUX21jSF9VRTJ6enN1RERyUl95MC0xZkJ4ZVlEU0h5UlBaaXZYdHZ3c3RkSy1GN1dLV09QZXFhV2N2d3U4Q3lOaWRvd25YQWtxS0VQN0lwc3lZQXBHV0xKQkU4bmJnYUgyODFoY0NMQ2xmMnpwVDB1MkN2eXVHU25MSEFGMUxCbXhIU05IMlhlZUw1QQ?oc=5",
-     "bron": "AD.nl",
-     "tijd": "14:59",
-     "sorteer": "2026-10-15T12:59:00+00:00"
     },
     {
      "titel": "Een AI-model kan nog zo krachtig zijn, macht krijgt het pas als wij die geven",
@@ -260,6 +249,15 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Noodkreet voor terugkeer sektemeldpunt: politiek is nu aan zet",
+     "context": "Er is dringend behoefte aan een landelijk sektemeldpunt. Die noodkreet komt van zowel slachtoffers als professionele hulpverleners en sekte-experts. De politiek is nu aan zet om te zorgen dat Nederland zo'n meldpunt terugkrijgt. Om slachtoffers op te vangen, maar ook om sektes een halt toe te roepen.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3706239/noodkreet-voor-terugkeer-sektemeldpunt-politiek-is-nu-aan-zet",
+     "bron": "RTV Oost",
+     "tijd": "17:34",
+     "sorteer": "2026-10-15T15:34:03+00:00"
+    },
+    {
      "titel": "Aantal inbraken in Overijssel bijna gehalveerd, grote daling in Enschede",
      "context": "Inbrekers zijn veel minder actief in Overijssel: het aantal woninginbraken is in het afgelopen kwartaal bijna gehalveerd ten opzichte van een jaar eerder. Waar de politie in het derde kwartaal van vorig jaar nog 312 woninginbraken registreerde, waren dat er dit jaar 161. Dat blijkt uit politiedata.",
      "rubrieken": [],
@@ -305,41 +303,32 @@
      "sorteer": "2026-10-15T06:00:00+00:00"
     },
     {
-     "titel": "Van metaalrecycling tot bandenhandel: deze bedrijven gingen afgelopen week failliet",
-     "context": "In het overzicht van faillissementen onder meer aandacht voor een traprenoveerder, ijzerhandelaar en bandenhandel. Verder ging een zonnepanelenhandelaar op de fles en deed AI een softwareontwikkelaar de das om.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706449/van-metaalrecycling-tot-bandenhandel-deze-bedrijven-gingen-afgelopen-week-failliet",
-     "bron": "RTV Oost",
-     "tijd": "07:00",
-     "sorteer": "2026-10-15T05:00:00+00:00"
-    },
-    {
-     "titel": "Er is een nieuw overlijdens bericht",
-     "context": "HOONHORST – LEMELERVELD – DALFSEN – Er is een nieuw overlijdensbericht geplaatst op DalfsenNet.nl. Het is heel goed mogelijk dat dit bericht over een goede bekende van u gaat. Klik hier om dat bericht te kunnen lezen.",
-     "rubrieken": [
-      "Dalfsen",
-      "Hoonhorst",
-      "Ingezonden bericht",
-      "Laatste nieuws",
-      "Lemelerveld"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/554557/er-is-een-nieuw-overlijdens-bericht-29.html",
-     "bron": "DalfsenNet",
-     "tijd": "12:35",
-     "sorteer": "2026-10-15T10:35:44+00:00"
-    },
-    {
-     "titel": "Kleine koper van speelgoedmandje gezocht!",
-     "context": "DALFSEN -Gisteren stonden wij op de tweedehands kinderkleding- en speelgoedmarkt bij de Trefkoele. Een kindje heeft bij ons een leuk winkelmandje gekocht, maar helaas is het bijbehorende boodschappenlijstje bij ons blijven liggen. We maken het setje natuurlijk graag compleet! Ben of ken jij het kindje dat gisteren het winkelmandje heeft gekocht? Neem dan even contact […]",
+     "titel": "Trouwring gevonden",
+     "context": "DALFSEN – Iets voor de rubriek Kwiet en weer terechte. In het centrum van Dalfsen, vandaag 15-10-2026, eind van de middag heb ik een gouden trouwring gevonden. info: 0529 433 037 De getoonde afbeelding is ter illustratie.",
      "rubrieken": [
       "Dalfsen",
       "Ingezonden bericht",
+      "Kwiet en weer terechte",
       "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/554541/kleine-koper-van-speelgoedmandje-gezocht.html",
+     "link": "https://www.dalfsennet.nl/nieuws/554564/trouwring-gevonden-6.html",
      "bron": "DalfsenNet",
-     "tijd": "12:27",
-     "sorteer": "2026-10-15T10:27:37+00:00"
+     "tijd": "17:55",
+     "sorteer": "2026-10-15T15:55:21+00:00"
+    },
+    {
+     "titel": "Overijssel onderzoekt slimme manieren",
+     "context": "NIEUWLEUSEN – Overijssel onderzoekt slimme manieren om levensduur bruggen en viaducten beter te bepalen. De provincie Overijssel heeft afgelopen dinsdag 13 oktober een bijzondere proef uitgevoerd op een bijna 60 jaar oude brug bij Nieuwleusen. Met zware testgewichten van in totaal 95 ton (vergelijkbaar met 30 bestelbusjes) is onderzocht hoe sterk de brug daadwerkelijk is. […]",
+     "rubrieken": [
+      "Ingezonden bericht",
+      "Laatste nieuws",
+      "Nieuwleusen",
+      "Regio"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/554569/overijssel-onderzoekt-slimme-manieren.html",
+     "bron": "DalfsenNet",
+     "tijd": "17:47",
+     "sorteer": "2026-10-15T15:47:40+00:00"
     }
    ]
   },
@@ -366,16 +355,6 @@
      "bron": "Politie Zwolle",
      "tijd": "17:15",
      "sorteer": "2026-10-08T15:15:00+00:00",
-     "kop": "Politie"
-    },
-    {
-     "titel": "Zwolle - Geld gestolen uit Zwolse bakkerij",
-     "context": "Aan de Assendorperstraat in Zwolle stal een man geld uit de kassa van een bakkerij. Herkent u hem? Dan horen wij graag van u!",
-     "rubrieken": [],
-     "link": "https://www.politie.nl/gezocht/opsporingsbericht/2026/juni/02-geld-gestolen-uit-zwolse-bakkerij",
-     "bron": "Politie Zwolle",
-     "tijd": "17:30",
-     "sorteer": "2026-10-01T15:30:00+00:00",
      "kop": "Politie"
     },
     {
@@ -415,6 +394,13 @@
      "bron": "De Gelderlander",
      "tijd": "14:39",
      "sorteer": "2026-10-15T12:39:00+00:00"
+    },
+    {
+     "titel": "Beurzen over heel de wereld in het rood door zorgen over AI",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMFhuMk5Xam82cTFHRVB3YjcxNUJLWG4yUDVGQjlfYWo0TklKMGFjSHI4bllpaFBveGZuWlpDUjZPZGtEdDR4Y3dDdHU5WDFQNjE1R1MyZzZMZzFGdlBZNjVzZFVzazBvbkk2TTBQcVA5MHFfTE1DT1ViZklLd21QVlNxOG5YQU9yZHdVZGJqamU0Qnlibl9DN29PNFI?oc=5",
+     "bron": "AD.nl",
+     "tijd": "16:20",
+     "sorteer": "2026-10-15T14:20:00+00:00"
     }
    ]
   },
@@ -480,6 +466,14 @@
      "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05408"
     },
     {
+     "titel": "Het bericht ‘Je paspoort inleveren bij je baas en voor je vlucht een telefoontje van de politie. China maakt buitenlandse reizen…",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "22-09",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D45259",
+     "sorteer": "2026-10-15T17:32:41.777+02:00"
+    },
+    {
      "titel": "De berichtgeving over discriminatie bij de afdeling Handhaving van UWV",
      "bron": "Kamervraag",
      "kop": "Kamervragen",
@@ -496,20 +490,12 @@
      "sorteer": "2026-10-15T15:49:04.083+02:00"
     },
     {
-     "titel": "Racisme bij Uitvoeringsinstituut Werknemersverzekeringen (UWV)",
-     "bron": "Kamervraag",
-     "kop": "Kamervragen",
-     "tijd": "15-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51568",
-     "sorteer": "2026-10-15T13:49:56.817+02:00"
-    },
-    {
-     "titel": "Antwoord op vragen van het lid Teunissen over de aangifte van seksueel geweld door Nederlandse opvarenden van de Gaza Freedom…",
+     "titel": "Antwoord op vragen van het lid Maes over het bericht ‘Je paspoort inleveren bij je baas en voor je vlucht een telefoontje van de…",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
-     "tijd": "01-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D40048",
-     "sorteer": "2026-10-15T16:04:06.02+02:00"
+     "tijd": "15-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51667",
+     "sorteer": "2026-10-15T17:35:17.193+02:00"
     },
     {
      "titel": "Intrekking van de Rijkswet van 10 februari 2017, houdende wijziging van de Rijkswet op het Nederlanderschap in verband met het…",
@@ -591,6 +577,38 @@
    "emoji": "🌿",
    "items": [
     {
+     "titel": "Vandaag in de natuur",
+     "toelichting": "Tussen steeds meer bruine, gele en rode bladeren is nog steeds veel groen te vinden. Een daarvan is een schermbloemige, zevenblad.",
+     "bron": "Nature Today",
+     "tijd": "",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35774",
+     "sein": true
+    },
+    {
+     "titel": "Natuurjournaal 15 oktober 2026",
+     "toelichting": "Tuiniers hoeven van deze plant niet verdrietig te worden en zwerflustige doodshoofdvlinders zijn op bezoek en piepen soms.",
+     "bron": "Nature Today",
+     "tijd": "06:45",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35774",
+     "sorteer": "2026-10-15T04:45:00+00:00"
+    },
+    {
+     "titel": "Gigantische krachten bij luchtgevechten",
+     "toelichting": "Libellen zijn echte luchtacrobaten en kunnen hun vier vleugels individueel gebruiken. Ze hebben dat ook nodig als ze vliegen om insecten te vangen als voedsel. Maar bij foerageervluchten vliegen ze in redelijk rechte lij",
+     "bron": "Nature Today",
+     "tijd": "07:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35935",
+     "sorteer": "2026-10-15T05:00:00+00:00"
+    },
+    {
+     "titel": "Hoe maak je het stedelijk gebied aantrekkelijker voor de egel? Nieuw rapport geeft inzichten en laat kansen zien",
+     "toelichting": "De egel is een van de meest bekende en geliefde zoogdieren van ons land, maar gaat hard achteruit. In dertig jaar tijd is de soort met de helft afgenomen en op de Rode Lijst staat hij inmiddels als kwetsbaar. De natuurli",
+     "bron": "Nature Today",
+     "tijd": "10:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35934",
+     "sorteer": "2026-10-15T08:00:00+00:00"
+    },
+    {
      "titel": "New tool reveals siege on Indigenous lands in Bolivia’s Amazon",
      "toelichting": "For most Indigenous peoples in the Bolivian Amazon, the forest is far more than a collection of trees. It is the casa grande, Spanish for “the main house”, where communities, rivers, wildlife, spiritual beings and ancest",
      "bron": "Mongabay (Engels)",
@@ -620,6 +638,14 @@
      "tijd": "16:33",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-10-15T16:33:00+02:00"
+    },
+    {
+     "titel": "Dwergaalscholver",
+     "kop": "Zeldzaamheden",
+     "bron": "Overijssel",
+     "tijd": "16:30",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-15T16:30:00+02:00"
     },
     {
      "titel": "Bruine Boszanger",
@@ -654,14 +680,6 @@
      "sorteer": "2026-10-15T11:33:00+02:00"
     },
     {
-     "titel": "Siberische Braamsluiper",
-     "kop": "Zeldzaamheden",
-     "bron": "Noord-Holland",
-     "tijd": "10:30",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-15T10:30:00+02:00"
-    },
-    {
      "titel": "Dalfsen",
      "kop": "Vogeltrek",
      "bron": "14-10",
@@ -679,42 +697,42 @@
      "tellers": ""
     },
     {
-     "titel": "Landelijk vandaag: 184 soorten, 685.323 vogels geteld",
+     "titel": "Landelijk vandaag: 185 soorten, 703.767 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
     },
     {
-     "titel": "Vink — 410.782",
+     "titel": "Vink — 423.764",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
     },
     {
-     "titel": "Spreeuw — 157.282",
+     "titel": "Spreeuw — 158.343",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
     },
     {
-     "titel": "Veldleeuwerik — 26.353",
+     "titel": "Veldleeuwerik — 27.540",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
     },
     {
-     "titel": "Kolgans — 13.643",
+     "titel": "Kolgans — 14.791",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
     },
     {
-     "titel": "Graspieper — 13.128",
+     "titel": "Graspieper — 13.515",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -722,15 +740,15 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Veldleeuwerik springt eruit — 26.353, normaal 1.233",
-     "bron": "21× het gewone niveau",
+     "titel": "Veldleeuwerik springt eruit — 27.540, normaal 1.233",
+     "bron": "22× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Keep springt eruit — 6.289, normaal 353",
+     "titel": "Keep springt eruit — 6.330, normaal 353",
      "bron": "18× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch",
@@ -746,7 +764,7 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Kauw springt eruit — 6.322, normaal 403",
+     "titel": "Kauw springt eruit — 6.463, normaal 403",
      "bron": "16× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch",
@@ -754,11 +772,11 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Rustig — vandaag 19 meldingen, samen 2.460 vogels",
+     "titel": "Rustig — vandaag 24 meldingen, samen 4.286 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "aflopend — dag ervoor 59 · afgelopen week gemiddeld 34 per dag"
+     "vergelijking": "aflopend — dag ervoor 59 · afgelopen week gemiddeld 35 per dag"
     },
     {
      "kop": "Kraanvogels",
@@ -769,8 +787,8 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "6 meldingen vertrek uit het noorden",
-     "bron": "DE 4, SE 2",
+     "titel": "11 meldingen vertrek uit het noorden",
+     "bron": "DE 7, SE 4",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -795,15 +813,15 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 19.4,
-    "gevoel": 19.4,
+    "nu": 18.8,
+    "gevoel": 18.8,
     "wind": "ZZW 2",
     "station": "Heino",
-    "bericht": "Het is vandaag genieten van een fraaie najaarsdag met hoge temperaturen. Morgen volgt in de loop van de middag regen. Met een naar noordwest draaiende wind gaat de temperatuur omlaag.",
-    "vandaag": "Het is vandaag genieten van een fraaie najaarsdag met hoge temperaturen. Vanmiddag zijn er nog flinke zonnige perioden naast sluierwolken.",
-    "temperatuur": "Voor half oktober is het zacht met 18 graden in het noorden tot 21 in het zuidoosten van het land.",
+    "bericht": "De komende uren neemt de bewolking toe. Morgen volgt in de loop van de middag regen. Met een naar noordwest draaiende wind gaat de temperatuur omlaag.",
+    "vandaag": "Vanavond raakt het meer en meer bewolkt. Vannacht kan in het noorden nog een enkele licht buitje vallen.",
+    "temperatuur": "In het zuiden breiden de opklaringen zich uit en daar kan de minimumtemperatuur dan nog iets verder dalen tot rond de 11 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: 10 tot 19 graden, droog, ruim 8 uur zon, wind uit het zuiden, kracht 3.",
+     "zin": "Voor Dalfsen zelf: 10 tot 19 graden, droog, ruim 9 uur zon, wind uit het zuiden, kracht 3.",
      "max": 19,
      "min": 10,
      "regenkans": 0,
