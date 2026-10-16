@@ -3,13 +3,15 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "15:00",
-  "blokken": 10,
-  "berichten": 87,
-  "problemen": [],
+  "opgehaald": "16:00",
+  "blokken": 9,
+  "berichten": 85,
+  "problemen": [
+   "hemel: HTTPError"
+  ],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-16T15:00+02:00",
+ "opgehaald": "2026-10-16T16:00+02:00",
  "audio": "audio/20261016.mp3",
  "blokken": [
   {
@@ -17,6 +19,24 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Neanderthaler Shanidar A werd 75.000 jaar geleden verzorgd én vermoord",
+     "context": "Wetenschappers zijn gestuit op een van de oudste moordzaken in de geschiedenis van de mensachtigen. Onderzoek wijst uit dat de neanderthaler Shanidar A in de steentijd waarschijnlijk is gedood met een speer. Tegelijkertijd hebben de onderzoekers aanwijzingen gevonden dat het slachtoffer eerst jarenlang zorg heeft gehad van anderen. De mannelijke neanderthaler werd zo'n 75.000 jaar geleden begraven",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635234",
+     "bron": "NOS",
+     "tijd": "15:27",
+     "sorteer": "2026-10-16T15:27:57+02:00"
+    },
+    {
+     "titel": "Gewonden bij aanval op olijfboomgaard Westelijke Jordaanoever",
+     "context": "In het dorp Abu Falah op de bezette Westelijke Jordaanoever hebben tientallen Israëlische kolonisten Palestijnen op een olijfbomengaard aangevallen. Onder meer een journalist die verslag kwam doen van de olijfoogst raakte gewond. De aanval vond plaats tijdens de jaarlijkse oogst van olijfbomen door dorpelingen. Zo'n tachtig Israëlische kolonisten gingen erheen, van wie sommige met jerrycans met br",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635228",
+     "bron": "NOS",
+     "tijd": "15:10",
+     "sorteer": "2026-10-16T15:10:21+02:00"
+    },
     {
      "titel": "Aanvallen op Russische datacenters legden trollenlegers niet stil",
      "context": "Afgelopen week leek het even alsof Russische trollenlegers tot stilte waren gebracht. Oekraïense drones hadden meermaals datacentra getroffen van Yandex, een groot Russisch technologiebedrijf. President Zelensky beweerde maandag dat er op sociale media \"minder haat, minder verdeeldheid en minder provocaties\" te zien was. Op sociale media ging een grafiek van cloudbedrijf Cloudflare viraal. Daarin ",
@@ -45,22 +65,13 @@
      "sorteer": "2026-10-16T11:39:59+02:00"
     },
     {
-     "titel": "Nieuwe Witte Huis-woordvoerder geeft toe geen advocaat te zijn",
-     "context": "Witte Huis-woordvoerder Katie Zacharia zegt in een interview met Fox News inderdaad geen advocaat te zijn. De net aangestelde woordvoerder ligt onder vuur omdat ze haar cv zou hebben opgepoetst door de beschermde titel attorney , advocaat, te gebruiken. De 42-jarige politiek commentator Zacharia werd dit weekend aangesteld als de nieuwe woordvoerder van president Trump. Trump zei dat Zacharia voor",
+     "titel": "Problemen met Starlink-verbinding nog niet voorbij voor Oekraïense leger, meldt Zelensky",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2635185",
-     "bron": "NOS",
-     "tijd": "11:03",
-     "sorteer": "2026-10-16T11:03:20+02:00"
-    },
-    {
-     "titel": "Luchtverkeer Italië verstoord door storing, ook op Schiphol vertraagde vluchten",
-     "context": "Door een technische storing bij de luchtverkeersleiding in Italië is het vliegverkeer in het land verstoord. De luchtverkeersleidingsautoriteit ENAV zegt dat het daarom op halve kracht werkt en er minder vluchten gaan en vertragingen zijn. De storing werd vannacht bekend. Sinds vanochtend vroeg zijn er daarom maatregelen genomen zodat het luchtverkeer niet te hevig verstoord zou worden. De vluchte",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635184",
-     "bron": "NOS",
-     "tijd": "10:59",
-     "sorteer": "2026-10-16T10:59:52+02:00"
+     "link": "https://www.volkskrant.nl/buitenland/liveblog-oekraine-zelensky-nieuws-poetin-trump~bb03466a/",
+     "bron": "de Volkskrant",
+     "tijd": "15:01",
+     "sorteer": "2026-10-16T13:01:00+00:00"
     },
     {
      "titel": "‘Amerikaanse politici praten liever met influencers dan dat ze irritante vragen beantwoorden van journalisten zoals ik’",
@@ -72,36 +83,20 @@
      "sorteer": "2026-10-16T12:00:10+00:00"
     },
     {
-     "titel": "Staatssecretaris Tielen: ‘Als scholen zeggen geen zin te hebben in een telefoonverbod, dan denk ik: kom op, jongens’",
+     "titel": "Duitsland veroordeelt twee mannen voor het beramen van moordaanslagen op Joodse leiders",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/staatssecretaris-tielen-als-scholen-zeggen-geen-zin-te-hebben-in-een-telefoonverbod-dan-denk-ik-kom-op-jongens~bb180f2d1/",
-     "bron": "de Volkskrant",
-     "tijd": "13:57",
-     "sorteer": "2026-10-16T11:57:00+00:00"
-    },
-    {
-     "titel": "Ontslagen FBI-agenten die Trump onderzochten dienen klacht in tegen directeur en willen baan terug",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/live-vs-ontslagen-fbi-agenten-die-trump-onderzochten-dienen-klacht-in-tegen-directeur-en-willen-baan-terug~bbc0cf3d/",
+     "link": "https://www.trouw.nl/buitenland/duitsland-veroordeelt-twee-mannen-voor-het-beramen-van-moordaanslagen-op-joodse-leiders~b9a6ef13/",
      "bron": "Trouw",
-     "tijd": "03:38",
-     "sorteer": "2026-10-16T01:38:00+00:00"
+     "tijd": "15:24",
+     "sorteer": "2026-10-16T13:24:47+00:00"
     },
     {
-     "titel": "Column | Iedere burger zou jeuk moeten krijgen bij het woord ‘staatsnoodrecht’",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjc1QVNjR05rbENvcTJLaFZVM0ZmSGduTmNvMFk1REU5MUVIZ0FIek9uX3VhdnA2LVE2UXE2d1hNbW1QTVA0T2tOV0xWTXp4U1Y4bG5KWDQ1NTVfOFpYUDM3YnZFYzdiaGx2eHYyeHhlQmE3OUJHTmpSd0lyR0toMG1oSmNHYXlIUzBkbEdvWEZtZGp2dGY0bnRsNW94VHJBUmg4aVBFQlVzTWNmNk11UWVobw?oc=5",
+     "titel": "Opinie | Waarom uiterst links en uiterst rechts elkaar in het huidige Europa vinden",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTjVNWm0wWlQ1QlYwX0dwRDBpWTRFYVZEOVE4WW91dDBKdWdnSVpxYm1YaDJ6Wk5zM2RIYl9WbEMxTmRRN2ZXd1ZtSjRCeFBhaDN3MVgtSHF3aUFRYU5XbHZ2MlQtUjRfOTJreVRVUUZvYWJkblc3Wlg2RkNIVlR2TGpCQ3MxWTI5LWhpTjlDM21MeFhRcUNwdFhfNldXX1BqQXJGR2w3NGRzdnlTTWxJNHdiWEJ4TENWUE0xWA?oc=5",
      "bron": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-     "tijd": "13:57",
-     "sorteer": "2026-10-16T11:57:26+00:00"
-    },
-    {
-     "titel": "Kamer wil opheldering over inbeslagname van server op verzoek van VS",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUsxRXROc2MxNll1TV9aWHVLLWw2UU5vdkx5ZnNjZWlhN1RuQVlWMEdwZ2Rhb0ZReEJSR1FLUWMxWE9zOEk3b1pBbTFxOFVMT2RJWDVXTHFNMzJocHdlQVRXSkVMemVkZ2ZwSDJiTGx3TkN1c014VEEzdXdydlc5dnpPODNmTUVlVnB3X0JsWVZsM2RKVzRhc1NRX1hLUkFHb3RhQW85THg1dVk?oc=5",
-     "bron": "Security.NL",
-     "tijd": "13:49",
-     "sorteer": "2026-10-16T11:49:00+00:00"
+     "tijd": "15:00",
+     "sorteer": "2026-10-16T13:00:00+00:00"
     }
    ]
   },
@@ -183,6 +178,13 @@
      "sorteer": "2026-10-15T19:13:11+00:00"
     },
     {
+     "titel": "Misbruikzaak splijt kerk Elspeet: ’Dominee wist mogelijk van seksueel misbruik door eigen dochter’",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0wtVFp0cmRJeVZMenUxN0txdldqM2xRRk9VRHJYV2Vtek5vUFFGalh5WmM2M054MndoT1gwd3ROblAyWUlWaWQ0bzRMZmVybEhXWFk1eVVJVmpCRWstVHRsTnpOZ3JTaDlLcHQzb1ZTX3ZtV19XVFI0bUx4V3BfNFJRb3BrNnh0ZzBqR2V5ZWppOS1zVFkyRC10UElYYXY4ZzZkLXZxel9QX3hWRFg0VVlESl9KbE9xUjhQNTg5X2ZKZy1vSThBQjlScHdRZ25BYVJCdmVpa1FKR19iSUZ3?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "15:23",
+     "sorteer": "2026-10-16T13:23:53+00:00"
+    },
+    {
      "titel": "Politie wacht met onderzoek naar ‘cybersecurityincident’ nog op aangifte van Albert Heijn",
      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQc1NjNVFNLV9YOVdYQnNISmgzcUFuMkZKSjBEcEdkQUhzYlducmVTTFNBNzNPaVU2TkdBRkJ2RDZYTWN4WWlPRlNZa3NSeEtWeko0S2dyZG5BV0tsTzJidXpjcllRQTg4RVZERWhwUlA2Nl9TU0lzaXJyYndLWDJhaEFSSTdPSS14bWdFOVg0NWVKTkdOT0lOaHJzMUZ3Z1NwWFNsRmxta3JTbVdISUcwUmg4bUJBTFkybGJiM2Y2amNnOXdJbW9VREFLWjRnczZCQ2Nod2gyMA?oc=5",
      "bron": "Trouw",
@@ -190,25 +192,18 @@
      "sorteer": "2026-10-16T12:10:26+00:00"
     },
     {
-     "titel": "Misbruikzaak splijt kerk Elspeet: ’Dominee wist mogelijk van seksueel misbruik door eigen dochter’",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0wtVFp0cmRJeVZMenUxN0txdldqM2xRRk9VRHJYV2Vtek5vUFFGalh5WmM2M054MndoT1gwd3ROblAyWUlWaWQ0bzRMZmVybEhXWFk1eVVJVmpCRWstVHRsTnpOZ3JTaDlLcHQzb1ZTX3ZtV19XVFI0bUx4V3BfNFJRb3BrNnh0ZzBqR2V5ZWppOS1zVFkyRC10UElYYXY4ZzZkLXZxel9QX3hWRFg0VVlESl9KbE9xUjhQNTg5X2ZKZy1vSThBQjlScHdRZ25BYVJCdmVpa1FKR19iSUZ3?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "13:59",
-     "sorteer": "2026-10-16T11:59:36+00:00"
+     "titel": "Drugsdealer ontvangt 17.000 euro aan bijstand, maar dan leest de gemeente zijn appjes terug",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRndzU05kaHU5Z2JQbWduT3hlWGpUamhrczNvZ09pZU55MHBMXzhSXzFWb3p2X01KRlBjQXJKTTRNLWhBMkw4RFFmMHFrcWR6aUFwdWxGUXJoREp6RVY5TDV2LUpkdFN1cTJtSTkzcVBXMzlrZFZCX0tHcUVuek9mLXdnUV9Jd3MxQ1JEV3BDeDRNLVlYaUg3a3FDM28xWmFJVUw2U0s5X19Ra0dHcjd5WDd4eDFxREZqTDZyN1dySWFKZXUzSHRPYWROZlNuM085M1E?oc=5",
+     "bron": "de Stentor",
+     "tijd": "12:51",
+     "sorteer": "2026-10-16T10:51:00+00:00"
     },
     {
-     "titel": "Demonstrant die Holocaust vergoelijkte krijgt voorwaardelijke taakstraf",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnI0VDVqNVVIMUFzdlJmbzlyTTdGVlJNbjVtY1pOX2VmcTZYVjZETTBleC1Xd3VNWnZkeXZxYzd1OUc0S29VTG5IMk5UOGVjeG9KTXdUSThwdnlzUm00QXhIVVJpZ055S1VoZ0FvWnBwUjQ2OUhNYXR3NTBSODFUQmtWeGgxTUtnZURtM3gyS0pheVU4czF5ekVCVWJYQXY4cEFINWpGS0Rkc1BhWE1oTmlwNA?oc=5",
-     "bron": "Het Parool",
-     "tijd": "12:46",
-     "sorteer": "2026-10-16T10:46:00+00:00"
-    },
-    {
-     "titel": "Ze kochten een huis en vonden een videotheek",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM3lfdklWNlM3LW1WcHNjNEFzeFlaa0tqNm1jXzdXRXpIdzFpMVZVcVUzSk9uS0ZaMUQ0NVNqTTFBX2ZFSkdPdmo2Wmt1MGszTWZSRzlTYVpvVV9GcmV5U1EtcWxTRmcyZlBmM3IxejBzSlZkX3ZWeTk0LUZxY0RCRjh2WkJsajBacXFnOHZOajc?oc=5",
-     "bron": "Tubantia",
-     "tijd": "13:40",
-     "sorteer": "2026-10-16T11:40:13+00:00"
+     "titel": "Nog steeds rood licht voor A58, aanpak Haringvlietbrug lijkt door te gaan",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeDBlZHhnWkhlc3V5R1pVb1hSVFZlc1hMVE5BamdDY3NPclFVdDBkeDdrUm94NC16UzhaZTRTVEgzazFobEpVLWlKaFp2a0o2dlV0MzFHdXowYTBXNW1RSG5lbW1qWnpCRFNRbVdtZnVlY240dlB6X09HMGMzTy1BRmdqNUhmTGptMXFQNEVtYjQyMkRlYTFqd2M1dWJCak1DOFFFcmQ2dWZSbWZmZmc?oc=5",
+     "bron": "Brabants Dagblad",
+     "tijd": "15:41",
+     "sorteer": "2026-10-16T13:41:04+00:00"
     },
     {
      "titel": "Wie zijn die uiterst rechtse demonstranten precies? Deze hoogleraar relativeert én alarmeert",
@@ -307,6 +302,17 @@
      "sorteer": "2026-10-16T05:01:05+00:00"
     },
     {
+     "titel": "Wat als je lichaam nog vasthoudt wat je hoofd allang heeft losgelaten?",
+     "context": "Soms weet je dat er iets speelt, maar kun je er niet precies de vinger op leggen. Je voelt spanning, loopt steeds tegen dezelfde patronen aan of merkt dat bepaalde situaties meer met je doen dan je zou willen. Beatrijs, eigenaar van NEI-Praktijk EGT Lekker In Je Vel, legt uit hoe zij persoonlijk de betekenis […]",
+     "rubrieken": [
+      "Ingezonden bericht"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/554666/wat-als-je-lichaam-nog-vasthoudt-wat-je-hoofd-allang-heeft-losgelaten.html",
+     "bron": "DalfsenNet",
+     "tijd": "15:22",
+     "sorteer": "2026-10-16T13:22:49+00:00"
+    },
+    {
      "titel": "Bakfietse",
      "context": "Samenwerkingsverband. Foto:jpeg.",
      "rubrieken": [
@@ -319,20 +325,6 @@
      "bron": "DalfsenNet",
      "tijd": "13:54",
      "sorteer": "2026-10-16T11:54:13+00:00"
-    },
-    {
-     "titel": "Reactie op trouwring gevonden 15-10-2026",
-     "context": "DALFSEN – Vindersgeluk is: de emotie ervaren bij iemand die zijn verloren trouwring terugkrijgt. De gevonden trouwring (15-10-2026) is inmiddels weer dierbaar geschoven om de vinger waar die hoort. De ongelukkige verliezer was zielsgelukkig dat hij zijn trouwring van zijn overleden vrouw weer terughad.",
-     "rubrieken": [
-      "Dalfsen",
-      "Ingezonden bericht",
-      "Kwiet en weer terechte",
-      "Laatste nieuws"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/554638/reactie-op-trouwring-gevonden-15-10-2026.html",
-     "bron": "DalfsenNet",
-     "tijd": "13:52",
-     "sorteer": "2026-10-16T11:52:47+00:00"
     }
    ]
   },
@@ -341,16 +333,6 @@
    "titel": "Politie en justitie",
    "emoji": "🚔",
    "items": [
-    {
-     "titel": "Holten - Doorbraak in onderzoek naar gewelddadige woningoverval in Holten",
-     "context": "Op woensdag 7 oktober hebben we twee verdachten aangehouden voor een woningoverval op de Burgemeester van der Borchstraat in Holten. Het gaat hierbij om twee 18-jarige mannen uit Zwolle. Ten tijde van de overval waren ze minderjarig.",
-     "rubrieken": [],
-     "link": "https://www.politie.nl/nieuws/2026/oktober/9/02-doorbraak-in-onderzoek-naar-gewelddadige-woningoverval-in-holten.html",
-     "bron": "Politie Overijssel",
-     "tijd": "15:59",
-     "sorteer": "2026-10-09T13:59:00+00:00",
-     "kop": "Politie"
-    },
     {
      "titel": "Zwolle - Beschieting coffeeshop in Zwolle",
      "context": "Aan de Kamperstraat in Zwolle schoot een man ’s nachts op een coffeeshop. Herkent u hem? Neem dan alstublieft contact met ons op!",
@@ -393,6 +375,13 @@
    "emoji": "🤖",
    "items": [
     {
+     "titel": "Gratis bijeenkomst in Zandvoort legt basis van AI uit",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNGhxQXIxcTFINmpVUVM1UTRuOEdpNlpZSmtqaEZicFBqdWM0aVRLT1hzbnNMTWRfTUc5U2RjZTFuMEJzYmpZSHE1TFI3ZHJBYjJTMmxmSnZKRzIxY0R1cXBJaUd4US1qUHMxVG9uaTk3UXd4Z1FkM1dmS01QNGhsZ0xrMVRNMVB1Y3ZraE1qeHZxaTJ1bFE?oc=5",
+     "bron": "AD.nl",
+     "tijd": "15:18",
+     "sorteer": "2026-10-16T13:18:19+00:00"
+    },
+    {
      "titel": "Google was jarenlang heilig, nu wil iedereen in ChatGPT: deze Hengeloër gooit zijn hengel vast uit",
      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRnFlQmRHZXBMTkNod0xEMWVBVG1RemNka0xlWExqX25Gb29KeE1VX0xoWFV3OE5nZjR3TjNSMUItbFp3UXZmQlJHamNIdk5WTEVDSzNLVnVUWHZXZG1UUmhkOFpVcUZOOG5MN2dxOTZjelFEd0U5RWNSNkhqQzlxclFTVFNVNmd2SnlOMTF5VGZhSjAtalRYNE5ZVlJfU19GOW5PRUJDbWNybGN5NGs4WmZ3WlZaRnpBakszUFlQMUZoNUNPY1NPMEZRZFZyZDB6TTJuNg?oc=5",
      "bron": "Tubantia",
@@ -400,18 +389,18 @@
      "sorteer": "2026-10-16T10:30:06+00:00"
     },
     {
-     "titel": "Gemeente Woerden onder vuur om AI-foto’s voor Koeiemart",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzhpVW0xQzFZUVdnbHI2eEp4VGFWelNXQkxCWlVsMGhoWXM1WWozcjB2SG81U1cxY2NuU2hyWmRWczdnLVNIU3VRYXIxU0I4TktsUzkzeG8zdW5WUnRfX25mQ1N0YTl2ZTNXVi1YNW1hRzlUMlF4MllCdVZOWlVSYXdxaGkxMk1mYmw1dENHSEcyUlI2?oc=5",
-     "bron": "Binnenlands Bestuur",
-     "tijd": "10:49",
-     "sorteer": "2026-10-16T08:49:03+00:00"
+     "titel": "Lopen door een gigantisch ei of een shirt van AI-camouflage, Dutch Design Week laat bezoekers meedenken: ’Dit ze je nergens ter wereld’",
+     "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQeGtJNU10TVlla1NvRV9RUWlrQTAyX0VUX1pQN3hwenRSUElnYTMxWWlKOFgxbjFtd2F1STMyQ0QxQTd1OXZ6MzJVY1FqSjZfUWpOUFh2b2RHbWxQbXhaTHVMLWx4Z3dJRWpLVEVLUjBnZ3hFNjdmMWpfSlVVNUNXUnpuamZ3dzBoRGlMSm9TWmdtblVuaER4MGlnM0o0Vk84VjhZdUxKQUhYaFMzUUMzc3VhaEdHNmU1MGxpckdTcVdWRG9Dc084NlN0M3VLbnJ1OG5MNGthaEpZS3U5T2VZekZZeEMwNHNqR0lOUHpUeUZ1SDlqTHhNUTVWZW02SmN5ZUd6UTRUQ1I2b2VzNzJiNWpwZG1nU29xWlIwVA?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "15:35",
+     "sorteer": "2026-10-16T13:35:57+00:00"
     },
     {
      "titel": "Bina Ayar: natuurlijk heeft AI gevaarlijke kanten, maar om nu paniek te zaaien?",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQjhUdVhNM2VYa3VqNWp3d1A2MjZmaTJsd3g2d2FfQXg4NG5FdG5SblFkOGtEOEhPU1g3T1RTVDhWUy1ZREJ0elFnanA4U29fZXg2Yk85RWZVV2xqV3V6WWQxOEFhSEhXMGVDdkNKOWR1RkhvaHVZb2FvSnVveEpRV0wtdnlBX3l6cENodERGQUVoX2NVdEItZXVVc082LURLREw1OE9NRmFZejNRTURUcHhWdVNoM09vZ1pEV01ld3k?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "14:04",
-     "sorteer": "2026-10-16T12:04:41+00:00"
+     "tijd": "15:31",
+     "sorteer": "2026-10-16T13:31:38+00:00"
     },
     {
      "titel": "Europees AI-bedrijf Mistral gaat CERN helpen om geheimen van het universum te ontrafelen",
@@ -426,13 +415,6 @@
      "bron": "Bright",
      "tijd": "12:58",
      "sorteer": "2026-10-16T10:58:00+00:00"
-    },
-    {
-     "titel": "Opinie | De AI-schuldenmallemolen",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ0JUZUM2NG5pNzZhc0RIZXhqOE1pZEd0ZDVZX2Z0OHcybFJ6MmlId3QzSXN1Ync0OVFodm81XzZ1cmM0ZWtLTlJNeWtrdzZRYURDZEdpWHhlMXdSVU5fVXhoZUdJYW0yV1BkNWVJY0l2d0k1dXkzZ0pGcko5cDVTVzlwVndiYWdWR1pz?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "12:55",
-     "sorteer": "2026-10-16T10:55:13+00:00"
     }
    ]
   },
@@ -482,52 +464,60 @@
      "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07510"
     },
     {
-     "titel": "De inbeslagname van een server door de Amsterdamse politie op verzoek van de Amerikaanse regering",
+     "titel": "De gezinshereniging van een verdachte met 114 politieregistraties",
      "bron": "Kamervraag",
      "kop": "Kamervragen",
-     "tijd": "16-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51787",
-     "sorteer": "2026-10-16T12:24:00.587+02:00"
+     "tijd": "09-09",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D42098",
+     "sorteer": "2026-10-16T15:57:12.607+02:00"
     },
     {
-     "titel": "Het optreden tegen een anti-Hamas-bord tijdens een demonstratie in Amsterdam en de positie van burgemeester Halsema",
+     "titel": "De veiligheid van lhbtiq+-personen en andere minderheden in opvangcentra",
      "bron": "Kamervraag",
      "kop": "Kamervragen",
-     "tijd": "16-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51785",
-     "sorteer": "2026-10-16T12:23:18.013+02:00"
+     "tijd": "21-09",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D44886",
+     "sorteer": "2026-10-16T15:09:28.233+02:00"
     },
     {
-     "titel": "Veiligheid van bruggen",
+     "titel": "De sluiting van Huize Soria in Spanje en de veiligheid van Nederlandse kinderen",
      "bron": "Kamervraag",
      "kop": "Kamervragen",
-     "tijd": "16-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51784",
-     "sorteer": "2026-10-16T12:22:38.243+02:00"
+     "tijd": "01-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D47762",
+     "sorteer": "2026-10-16T14:55:48.027+02:00"
     },
     {
-     "titel": "Antwoord op vragen van het lid Teunissen naar aanleiding van een bericht dat een Nederlands schip wapens of onderdelen zou hebben…",
+     "titel": "Antwoord op vragen van de leden Ceulemans en Boomsma over de gezinshereniging van een verdachte met 114 politieregistraties",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
-     "tijd": "02-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D40446",
-     "sorteer": "2026-10-16T14:00:03.943+02:00"
+     "tijd": "16-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51925",
+     "sorteer": "2026-10-16T15:59:24.66+02:00"
     },
     {
-     "titel": "Toezegging gedaan tijdens het commissiedebat Externe Veiligheid 10 juni 2026 over aanpak PFAS om de blootstelling terug te…",
-     "bron": "Brief van de regering",
-     "kop": "Brieven en moties",
-     "tijd": "28-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D46903",
-     "sorteer": "2026-10-16T11:03:17.507+02:00"
+     "titel": "Antwoord op vragen van het lid Westerveld over de veiligheid van lhbtiq+-personen en andere minderheden in opvangcentra",
+     "bron": "Antwoord op Kamervragen",
+     "kop": "Kamervragen",
+     "tijd": "16-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51843",
+     "sorteer": "2026-10-16T15:11:14.047+02:00"
     },
     {
-     "titel": "Toestemming voor deelname aan een rondetafelgesprek over het Dreigingsbeeld Ondermijning Nederland op 7 oktober 2026",
+     "titel": "Rijksbrede Risicoanalyse Nationale Veiligheid 2026",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
-     "tijd": "30-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D47343",
-     "sorteer": "2026-10-16T10:06:14.62+02:00"
+     "tijd": "16-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51864",
+     "sorteer": "2026-10-16T15:42:18.33+02:00"
+    },
+    {
+     "titel": "Noodplan asielketen EUAA",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "16-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51888",
+     "sorteer": "2026-10-16T15:41:47.88+02:00"
     },
     {
      "titel": "Motie van de leden Verkuijlen en Poortman over zorgkosten als gevolg van drugsgebruik in kaart brengen",
@@ -536,14 +526,6 @@
      "tijd": "15-10",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51704",
      "sorteer": "2026-10-16T14:19:40.767+02:00"
-    },
-    {
-     "titel": "Motie van het lid Van der Plas over inzetten op een gezamenlijke harde aanpak van antisemitisme en terrorismeverering",
-     "bron": "Motie",
-     "kop": "Brieven en moties",
-     "tijd": "13-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51079",
-     "sorteer": "2026-10-14T17:08:39.69+02:00"
     }
    ]
   },
@@ -625,9 +607,9 @@
      "titel": "Turkestaanse Klauwier",
      "kop": "Zeldzaamheden",
      "bron": "Overijssel",
-     "tijd": "14:30",
+     "tijd": "15:11",
      "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-16T14:30:00+02:00"
+     "sorteer": "2026-10-16T15:11:00+02:00"
     },
     {
      "titel": "Notenkraker",
@@ -636,6 +618,14 @@
      "tijd": "13:52",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-10-16T13:52:00+02:00"
+    },
+    {
+     "titel": "Dwergaalscholver",
+     "kop": "Zeldzaamheden",
+     "bron": "Overijssel",
+     "tijd": "13:44",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-16T13:44:00+02:00"
     },
     {
      "titel": "Dwerggors",
@@ -687,42 +677,42 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 164 soorten, 528.999 vogels geteld",
+     "titel": "Landelijk vandaag: 168 soorten, 570.256 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261016?language=dutch"
     },
     {
-     "titel": "Vink — 326.364",
+     "titel": "Vink — 354.638",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261016?language=dutch"
     },
     {
-     "titel": "Spreeuw — 114.466",
+     "titel": "Spreeuw — 118.312",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261016?language=dutch"
     },
     {
-     "titel": "Kolgans — 29.559",
+     "titel": "Kolgans — 31.356",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261016?language=dutch"
     },
     {
-     "titel": "Graspieper — 7.572",
+     "titel": "Graspieper — 8.628",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261016?language=dutch"
     },
     {
-     "titel": "Veldleeuwerik — 6.974",
+     "titel": "Veldleeuwerik — 7.509",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -746,8 +736,8 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Baardman springt eruit — 85, normaal 4",
-     "bron": "21× het gewone niveau",
+     "titel": "Baardman springt eruit — 94, normaal 4",
+     "bron": "24× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261016?language=dutch",
      "sein": true
@@ -762,7 +752,7 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Rustig — vandaag 15 meldingen, samen 88 vogels",
+     "titel": "Rustig — vandaag 18 meldingen, samen 226 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -777,23 +767,10 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "7 meldingen vertrek uit het noorden",
-     "bron": "DE 7",
+     "titel": "8 meldingen vertrek uit het noorden",
+     "bron": "DE 8",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
-    }
-   ]
-  },
-  {
-   "id": "hemel",
-   "titel": "Aan de hemel",
-   "emoji": "🌙",
-   "items": [
-    {
-     "titel": "De Maan bedekt SAO 186328, een ster met een helderheid van +4,5m in het sterrenbeeld Boogschutter.",
-     "bron": "hemel.waarnemen.com",
-     "tijd": "20:30",
-     "link": "https://hemel.waarnemen.com/astrokal/"
     }
    ]
   },
@@ -803,19 +780,19 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 18.1,
-    "gevoel": 18.1,
-    "wind": "ZZW 2",
+    "nu": 18.0,
+    "gevoel": 18.0,
+    "wind": "ZW 2",
     "station": "Heino",
     "bericht": "Vanmiddag en vanavond wordt de warme lucht vanuit het westen verdreven door koelere lucht. De overgang gaat gepaard met regen en morgen vallen enkele buien. In het weekend is het gevoelig frisser.Vanmiddag is het bewolkt, al kan in het oosten en zuidoosten de zon af en toe tevoorschijn komen.",
     "vandaag": "Vanmiddag en vanavond wordt de warme lucht vanuit het westen verdreven door koelere lucht. Vanmiddag is het bewolkt, al kan in het oosten en zuidoosten de zon af en toe tevoorschijn komen.",
     "temperatuur": "De temperatuur loopt uiteen van 17 graden in het noorden tot 20 of 21 graden langs de oostgrens en in Limburg.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: regen, 12 tot 18 graden, 97% kans op neerslag, weinig zon, wind uit het zuidwesten, kracht 4.",
-     "max": 18,
+     "zin": "Voor Dalfsen zelf: lichte regen, 12 tot 19 graden, 97% kans op neerslag, weinig zon, wind uit het zuidwesten, kracht 4.",
+     "max": 19,
      "min": 12,
      "regenkans": 97,
-     "omschrijving": "regen"
+     "omschrijving": "lichte regen"
     },
     "vooruit": "Zondag bewolkt, af en toe wat regen en maxima rond 12°C. Maandag en dinsdag geleidelijk meer zon en iets hogere maxima. Vanaf woensdag licht wisselvallig met soms wat regen maar ook wat zon met maxima rond 15°C.",
     "omslag": null,
