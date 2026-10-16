@@ -3,14 +3,15 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "07:00",
+  "opgehaald": "08:00",
   "blokken": 10,
-  "berichten": 76,
-  "problemen": [],
-  "audio_herkomst": "vangnet",
-  "audio_aangehaakt": "07:20"
+  "berichten": 73,
+  "problemen": [
+   "weer Dalfsen: HTTPError"
+  ],
+  "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-16T07:00+02:00",
+ "opgehaald": "2026-10-16T08:00+02:00",
  "audio": "audio/20261016.mp3",
  "blokken": [
   {
@@ -18,6 +19,33 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Hilda (99) is nu oudste 'wingwalker', 97-jarige wil revanche: 'Wacht maar tot ik 100 ben'",
+     "context": "Een Britse vrouw van 99 heeft het record voor oudste ' wingwalker ' gebroken. Vastgebonden op de vleugel van een dubbeldekker maakte ze in Gloucestershire een vlucht om geld in te zamelen. \"Het is een eigenaardig gevoel. Bang was ik niet, omdat ik er zo'n zin in had\", reageerde Hilda Duffy achteraf. \"Het zal de adrenaline zijn geweest, gemixt met iets anders.\" Ze zei tijdens de vlucht aan haar vad",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635167",
+     "bron": "NOS",
+     "tijd": "07:36",
+     "sorteer": "2026-10-16T07:36:27+02:00"
+    },
+    {
+     "titel": "Rechter: Meta moet Braziliaanse presidentskandidaten gelijk behandelen",
+     "context": "Techgigant Meta moet er in Brazilië per direct voor zorgen dat de twee overgebleven kandidaten voor de presidentsverkiezingen gelijk worden behandeld. Dat heeft een rechter van het Braziliaanse electoraal hof bepaald na een klacht van zittend president Lula, een van de kandidaten. De linkse president neemt het op 25 oktober in de beslissende tweede ronde van de verkiezingen op tegen de radicaal-re",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635166",
+     "bron": "NOS",
+     "tijd": "07:35",
+     "sorteer": "2026-10-16T07:35:13+02:00"
+    },
+    {
+     "titel": "Relatie Trump en Zelensky op nieuw dieptepunt, Oekraïners betalen de prijs",
+     "context": "De relatie tussen de Oekraïense president Volodymyr Zelensky en de Amerikaanse president Donald Trump heeft een nieuw dieptepunt bereikt. Zelensky voelt zich verraden door Trumps dieseldeal met Rusland. Trump stelt dat het tijd wordt voor een nieuwe Oekraïense president. \"Het is het diepste punt sinds die rampzalige ontmoeting in het Witte Huis, anderhalf jaar geleden\", zegt Bob Deen, Oekraïnedesk",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635162",
+     "bron": "NOS",
+     "tijd": "07:00",
+     "sorteer": "2026-10-16T07:00:01+02:00"
+    },
     {
      "titel": "Gevecht over nieuwe Europese begroting zit muurvast",
      "context": "Een akkoord over een nieuwe Europese begroting is nog altijd ver weg. De leiders van de 27 EU-landen deden gisteravond tijdens de Europese top in Brussel een poging om dichter bij elkaar te komen, maar zijn daar vooralsnog niet in geslaagd. \"We staan voor zeer moeilijke onderhandelingen\", zei de Duitse bondkanselier Merz voorafgaand aan de onderhandelingen. Eens in de zeven jaar moeten alle EU-lan",
@@ -35,33 +63,6 @@
      "bron": "NOS",
      "tijd": "06:25",
      "sorteer": "2026-10-16T06:25:49+02:00"
-    },
-    {
-     "titel": "Jongen (16) schiet lerares en drie basisschoolkinderen dood in VS",
-     "context": "Op een basisschool in de Amerikaanse staat Oregon heeft een jongen van 16 drie kinderen en een lerares doodgeschoten. De dader is door een buurtbewoner die dat zag gebeuren in de school achtervolgd en doodgeschoten, zegt de politie. De slachtoffers zijn jonge kinderen van 5, 8 en 11 jaar oud; de leeftijd van de gedode lerares is niet bekendgemaakt. Twee anderen, een kind van 7 en een schoolmedewer",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635153",
-     "bron": "NOS",
-     "tijd": "04:05",
-     "sorteer": "2026-10-16T04:05:59+02:00"
-    },
-    {
-     "titel": "Opnieuw protest in Albanië tegen corruptie, duur onderwijs en Trump-resort",
-     "context": "In Albanië zijn studenten en andere demonstranten voor de derde avond op rij slaags geraakt met de politie. In de hoofdstad Tirana en in andere steden werd met stenen en molotovcocktails gegooid naar de oproerpolitie, die waterkanonnen en traangas inzette. Ook zijn winkels geplunderd en overheidsgebouwen met vuurwerk bekogeld. Tientallen agenten raakten de afgelopen dagen gewond en meer dan honder",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635148",
-     "bron": "NOS",
-     "tijd": "01:20",
-     "sorteer": "2026-10-16T01:20:23+02:00"
-    },
-    {
-     "titel": "BBC: onderzoeken van Israëlische leger blijven vaak op de plank liggen",
-     "context": "Honderden onderzoeken naar dodelijke aanvallen van het Israëlische leger blijven op de plank liggen, blijkt uit onderzoek van de BBC. Ook wordt er niet of nauwelijks informatie gedeeld over de onderzoeken. Het Israëlische leger zegt al drie jaar dat vermeende oorlogsmisdaden worden \"bekeken, beoordeeld, nagegaan of onderzocht\". Dat is vaak het laatste wat er van dat soort zaken wordt vernomen, ste",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635145",
-     "bron": "NOS",
-     "tijd": "23:36",
-     "sorteer": "2026-10-15T23:36:18+02:00"
     },
     {
      "titel": "China maant Israël te stoppen met nederzettingen op Westoever",
@@ -113,7 +114,7 @@
    "items": [
     {
      "titel": "Grote brand in parkeergarage in Amsterdam Nieuw-West, zeker 55 woningen ontruimd",
-     "context": "In een parkeergarage aan de Theodoor van Hoytemastraat in Amsterdam Nieuw-West is rond 02.45 uur een grote brand uitgebroken. Zeker 55 woningen boven de parkeergarage moesten worden ontruimd, meldt de Veiligheidsregio Amsterdam-Amstelland. De brand is inmiddels onder controle. De bewoners zijn opgevangen in een hotel in de buurt. Het is onduidelijk wanneer zij terug kunnen, eerst moet worden vastg",
+     "context": "In een parkeergarage aan de Theodoor van Hoytemastraat in Amsterdam Nieuw-West is rond 02.45 uur een grote brand uitgebroken. Zeker 55 woningen boven de parkeergarage moesten worden ontruimd, meldt de Veiligheidsregio Amsterdam-Amstelland. De brand is inmiddels onder controle. Er kwam veel rook vrij: De bewoners zijn opgevangen in een hotel in de buurt. Het is onduidelijk wanneer zij terug kunnen,",
      "rubrieken": [],
      "link": "https://nos.nl/l/2635161",
      "bron": "NOS",
@@ -175,6 +176,20 @@
      "sorteer": "2026-10-15T19:13:11+00:00"
     },
     {
+     "titel": "Misbruikzaak splijt kerk Elspeet: ’dominee wist mogelijk van seksueel misbruik door eigen dochter’",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0wtVFp0cmRJeVZMenUxN0txdldqM2xRRk9VRHJYV2Vtek5vUFFGalh5WmM2M054MndoT1gwd3ROblAyWUlWaWQ0bzRMZmVybEhXWFk1eVVJVmpCRWstVHRsTnpOZ3JTaDlLcHQzb1ZTX3ZtV19XVFI0bUx4V3BfNFJRb3BrNnh0ZzBqR2V5ZWppOS1zVFkyRC10UElYYXY4ZzZkLXZxel9QX3hWRFg0VVlESl9KbE9xUjhQNTg5X2ZKZy1vSThBQjlScHdRZ25BYVJCdmVpa1FKR19iSUZ3?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "07:55",
+     "sorteer": "2026-10-16T05:55:18+00:00"
+    },
+    {
+     "titel": "Voormalige dirigent Gereformeerde Gemeente verdacht van seksueel misbruik minderjarig meisje",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWlRNYXNVYnhNRmNhNjhTM0VrRE4xS1NqSUFJdGl4MGdNN3h3VWtjVml3N01kMDM0OURaMVExUFlwRTI4bWwyeFNDem1RaHVKMDExU3hyVko0R1ZqQlh5cXRmUXBqZUhnUUNKZGdRSGhvbG1WTDZUZmRkQlpCZmFTYUNBM3N6YkF6UE1JYkp5Vjg0S0h4R0RtSUZUUTJFQjczVkNORGZ0N1VPMkR1WWxWMFdYZGJLT2tMS1pRMkJmVFBIRExLTldwVHZCM25TeWZFaEREeXpxY2lfQTQ?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "07:27",
+     "sorteer": "2026-10-16T05:27:51+00:00"
+    },
+    {
      "titel": "Jan G. uit Overasselt overgeleverd uit Duitsland",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRmFQX0hPcXlnSUI4WkZIX1J5WG1wSzF2cnZEc2U1Zk03cERiLVhCb0l0RlU4OVEwNXExdDRpLVVxaVR0bHR6SEEydFIzZzdrZFhZZUgxZHd5Z0dDSlRXaTlObE9zbUl3cW9kc3o4ekllaDY3QnBRSU9TUTBCazhfZDFjUDY2OGJnemsyRkppYWl2S2xobFhYRjd1eTlJWWxJ?oc=5",
      "bron": "De Telegraaf",
@@ -182,25 +197,11 @@
      "sorteer": "2026-10-16T01:51:55+00:00"
     },
     {
-     "titel": "Stond er wel of niet een snelheidsbord bij De Trieme? Automobilist is geflitst, maar rechter veegt boete van tafel",
-     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTTVIclR0VHhEWC01cjlsWmRlVzJuR2NxM0VrbWtFc3QzY1VkSGtJeHNadDVNejk0V25jVUl0Zk93OVJ6d3VscXpYU1JDMUlZSkRvZGFoaHFmcHZNcElRZl9CUzZnT0E3b1ZEaXFPTDFpUkRBb2lKX2ZGbm9VLWpNMWhJVFVta2cwTUc2LTBCcDRQckVPT2pvMzhIeWo5OVo2WFhkVTN1ZWM2M2xKTXhTVXh1X1pRdEVYZ3ljWFEtRHlXQy1SSWEwUU9zZE1mNFlWZTNfUVdmRjVzNmtVXzE5Wk8yUml2LUZBVy05eTFJZUQ3dFQycVlkNVk3Sl9KbDBTMDBJTkN1S3JGcWc?oc=5",
-     "bron": "Leeuwarder Courant",
-     "tijd": "02:51",
-     "sorteer": "2026-10-16T00:51:00+00:00"
-    },
-    {
-     "titel": "Nog geen aangifte Albert Heijn na cyberincident, ook nog geen politieonderzoek",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNekZYNjI2Sm5NNWsyeXlBNnZaNTJVUFBqTGZHQUlMdkVlS0w5RUxMRlVIdFV2ZEFjbU53QUZlZTJIMC0xRHZsU3lfQTFhVy1VaW8xQldQQmZYaGw4dUdjc3MzVEFsbERJdmVQUGpXaVFuQ1dleWNNUHpwTjNaVkVWOHNqT3BVUE9aNmhMdTBpYkNtdWc2NndlNjNDTkFFSlFlbGdn?oc=5",
-     "bron": "RTL.nl",
-     "tijd": "02:32",
-     "sorteer": "2026-10-16T00:32:05+00:00"
-    },
-    {
-     "titel": "Verdachte in moordzaak Susanna Boon houdt de kaken stijf op elkaar: ’Soms betekent zwijgen ook schuld’",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVU1IaUIxWkZNTUdpS0M5S1lpaFVVb0xZc1NkeFhOcklYaUpCeDRHSmpUNGJ6aWdUT2FSR0s2bWE2OW1kbzVvcFh2NFd2Rm56WFVMclc5YU5ZUTNfRUxxUE96R3VhTEFMMDJOeExLV1pvVW1nV0pvcDVqZWdOeEVKcDNJc2ktS2M1c0N4ZzN2SDhHd0g0bUh3TzYzam93Z2hOVHVCbDB1NF9MeFhOdFA2S0ZKM0xnWXNzRGdEN2xabHhwNWtwb3VwMkZkU3hhM1FIb1puZkVLVDNrNmx1LW81dnZZLTM?oc=5",
+     "titel": "16-jarige opent vuur op Amerikaanse basisschool, kinderen en lerares komen om",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmtLU3R3RjhxeW5EcnZ6N2Nwbkx0TV9SM2hqbHFaUVR6TDdMVkxfUHNBTHktLVo1MVc5ZGdDMkNuNGlRQlZacFJJaHVXS1ZnakFXQU1CeVRIUTVmUW00M2dyd3lNajBPRVBWdFE1TlJEbTBzWGlnelU0c3RGbzdRenJFSXFwbUo1MmxVTEM3NDZlLUZ2aktBaTVVX3BjWUdlR0lIUW9uWUtJdGExVGVJc1RpSUdmelFhZEhnc0xFbmJnLUhDN0E?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "02:17",
-     "sorteer": "2026-10-16T00:17:00+00:00"
+     "tijd": "05:44",
+     "sorteer": "2026-10-16T03:44:44+00:00"
     },
     {
      "titel": "Wie zijn die uiterst rechtse demonstranten precies? Deze hoogleraar relativeert én alarmeert",
@@ -241,24 +242,6 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Zelf maken in plaats van weggooien: duurzaamheidsweek op de Universiteit Twente",
-     "context": "Zelf producten leren maken of kapotte spullen repareren en een tweede leven geven. Tijdens Sustainability Week ontdekken UT-studenten hoe ze met kleine, praktische keuzes duurzamer kunnen leven. Voor Efia, coördinator van de Green Hub op de campus, gaat deze themaweek verder dan alleen workshops.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706767/zelf-maken-in-plaats-van-weggooien-duurzaamheidsweek-op-de-universiteit-twente",
-     "bron": "RTV Oost",
-     "tijd": "06:01",
-     "sorteer": "2026-10-16T04:01:02+00:00"
-    },
-    {
-     "titel": "Overijssel was deze week in Brussel, maar wat levert dat op?",
-     "context": "Bestuurlijk Overijssel trok deze week naar Brussel. Burgemeesters, wethouders, bedrijven en belangenorganisaties deden op de European Week of Regions and Cities hun best om de provincie onder de aandacht te brengen bij de beleidsbepalers van de Europese Unie. Maar hoe weet je of dat gelukt is?",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706677/overijssel-was-deze-week-in-brussel-maar-wat-levert-dat-op",
-     "bron": "RTV Oost",
-     "tijd": "05:02",
-     "sorteer": "2026-10-16T03:02:13+00:00"
-    },
-    {
      "titel": "Van den Brom tevreden met thuiszege op FC Thun: 'Winnen is het belangrijkst'",
      "context": "FC Twente is de hoofdfase van de Conference League gestart met een magere 1-0 overwinning tegen FC Thun. De ploeg van trainer John van den Brom was heer en meester in De Grolsch Veste, maar kwam pas tot scoren nadat FC Thun na een dubieuze rode kaart met tien man verder moest. Zerrouki kroonde zich tot matchwinner.",
      "rubrieken": [],
@@ -295,6 +278,24 @@
      "bron": "RTV Oost",
      "tijd": "19:41",
      "sorteer": "2026-10-15T17:41:57+00:00"
+    },
+    {
+     "titel": "Sekteslachtoffers en experts willen terugkeer landelijk meldpunt",
+     "context": "Er is dringend behoefte aan een landelijk sektemeldpunt. Die noodkreet komt van zowel slachtoffers als professionele hulpverleners en sekte-experts. De politiek is nu aan zet om te zorgen dat Nederland zo'n meldpunt terugkrijgt. Om slachtoffers op te vangen, maar ook om sektes een halt toe te roepen.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3706239/sekteslachtoffers-en-experts-willen-terugkeer-landelijk-meldpunt",
+     "bron": "RTV Oost",
+     "tijd": "17:34",
+     "sorteer": "2026-10-15T15:34:03+00:00"
+    },
+    {
+     "titel": "Uitbater pizzeria wil na ontploffing zaak in Zwolle in 2014 nog 120.000 euro",
+     "context": "Na de ontploffing in pizzeria Da Vinci in Zwolle in 2014 weigerde de verzekeraar schade te vergoeden, omdat de uitbater verdachte was. Hij probeerde na zijn vrijspraak alsnog geld te krijgen, maar door een fout van zijn advocaat was de zaak verjaard. Nu eist hij schadevergoeding.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3706855/uitbater-pizzeria-wil-na-ontploffing-zaak-in-zwolle-in-2014-nog-120000-euro",
+     "bron": "RTV Oost",
+     "tijd": "15:02",
+     "sorteer": "2026-10-15T13:02:04+00:00"
     },
     {
      "titel": "Een tip op de ondernemersbeurs leidt naar volop bedrijvigheid aan de Bese",
@@ -528,6 +529,13 @@
      "sorteer": "2026-10-15T10:30:00+00:00"
     },
     {
+     "titel": "Nobelprijs voor neutrino’s: hoe IceCube het heelal onderzoekt – Scientias Podcast 93",
+     "toelichting": "Diep onder het ijs van Antarctica bevindt zich een gigantische detector die de meest ongrijpbare deeltjes van het heelal probeert te vangen: neutrino’s. De Belgische natuurkundige Francis Halzen kreeg er dit jaar de Nobe",
+     "bron": "Scientias",
+     "tijd": "07:27",
+     "link": "https://scientias.nl/scientias-podcast-93/"
+    },
+    {
      "titel": "Heavy rain shuts down Istanbul, causing flooding and 3 deaths",
      "toelichting": "ISTANBUL (AP) — A heavy downpour has shut down Istanbul, flooded homes and roads and killed at least three people, officials said Thursday, as rescuers evacuated hundreds of stranded people. The downpour Wednesday night ",
      "bron": "Mongabay (Engels)",
@@ -600,78 +608,46 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk gisteren: 194 soorten, 749.936 vogels geteld",
+     "titel": "Landelijk vandaag: 30 soorten, 2.284 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261016?language=dutch"
     },
     {
-     "titel": "Vink — 444.381",
+     "titel": "Spreeuw — 1.209",
      "kop": "Vogeltrek",
-     "bron": "landelijk, gisteren",
+     "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261016?language=dutch"
     },
     {
-     "titel": "Spreeuw — 169.569",
+     "titel": "Vink — 484",
      "kop": "Vogeltrek",
-     "bron": "landelijk, gisteren",
+     "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261016?language=dutch"
     },
     {
-     "titel": "Veldleeuwerik — 28.196",
+     "titel": "Kolgans — 234",
      "kop": "Vogeltrek",
-     "bron": "landelijk, gisteren",
+     "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261016?language=dutch"
     },
     {
-     "titel": "Kolgans — 20.222",
+     "titel": "Graspieper — 83",
      "kop": "Vogeltrek",
-     "bron": "landelijk, gisteren",
+     "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261016?language=dutch"
     },
     {
-     "titel": "Graspieper — 14.504",
+     "titel": "Grauwe Gans — 73",
      "kop": "Vogeltrek",
-     "bron": "landelijk, gisteren",
+     "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch"
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Veldleeuwerik springt eruit — 28.196, normaal 1.233",
-     "bron": "23× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "gans spec. springt eruit — 7.641, normaal 387",
-     "bron": "20× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Barmsijs springt eruit — 78, normaal 4",
-     "bron": "20× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Keep springt eruit — 6.570, normaal 353",
-     "bron": "19× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261015?language=dutch",
-     "sein": true
+     "link": "https://trektellen.org/count/daytotals/1/0/20261016?language=dutch"
     },
     {
      "kop": "Kraanvogels",
@@ -716,20 +692,14 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 16.0,
-    "gevoel": 16.0,
+    "nu": 15.7,
+    "gevoel": 15.7,
     "wind": "Z 2",
     "station": "Heino",
     "bericht": "Vanmiddag en vanavond wordt de warme lucht vanuit het westen verdreven door koelere lucht. De overgang gaat gepaard met enige regen en morgen vallen enkele buien. Dat gaan we in het weekend goed merken aan de temperatuur.",
     "vandaag": "Vanmiddag en vanavond wordt de warme lucht vanuit het westen verdreven door koelere lucht. Vanochtend is er vooral veel bewolking in het westen en noorden, in het oosten en zuidoosten laat de zon zich ook nog geregeld zien.",
     "temperatuur": "Tegen het einde van de ochtend is het 16 graden in het noordwestelijke kustgebied en 19 graden in Limburg.",
-    "dalfsen": {
-     "zin": "Voor Dalfsen zelf: regen, 13 tot 17 graden, 97% kans op neerslag, wind uit het zuiden, kracht 4.",
-     "max": 17,
-     "min": 13,
-     "regenkans": 97,
-     "omschrijving": "regen"
-    },
+    "dalfsen": null,
     "vooruit": "Zondag bewolkt, af en toe wat regen en maxima rond 12°C. Maandag en dinsdag geleidelijk meer zon en iets hogere maxima. Vanaf woensdag licht wisselvallig met soms wat regen maar ook wat zon met maxima rond 15°C.",
     "omslag": null,
     "min": null,
