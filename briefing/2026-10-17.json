@@ -3,13 +3,15 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "08:00",
+  "opgehaald": "09:00",
   "blokken": 10,
-  "berichten": 72,
-  "problemen": [],
+  "berichten": 73,
+  "problemen": [
+   "weer Dalfsen: HTTPError"
+  ],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-17T08:00+02:00",
+ "opgehaald": "2026-10-17T09:00+02:00",
  "audio": "audio/20261017.mp3",
  "blokken": [
   {
@@ -63,6 +65,15 @@
      "sorteer": "2026-10-17T03:25:36+02:00"
     },
     {
+     "titel": "WSJ: Iran helpt Houthi’s met inlichtingen over doelwitten bij aanvallen op Saoedi-Arabië",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/middenoosten-liveblog-iran-houthi-yemen-saoediarabie-vs~ba2c7027/",
+     "bron": "de Volkskrant",
+     "tijd": "08:05",
+     "sorteer": "2026-10-17T06:05:00+00:00"
+    },
+    {
      "titel": "Trump blokkeert invoering van sancties en enorme importheffingen op Russische energie",
      "context": "",
      "rubrieken": [],
@@ -70,15 +81,6 @@
      "bron": "de Volkskrant",
      "tijd": "05:16",
      "sorteer": "2026-10-17T03:16:00+00:00"
-    },
-    {
-     "titel": "India houdt grootste volkstelling ter wereld. Hoe tel je 1,4 miljard mensen?",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/india-houdt-grootste-volkstelling-ter-wereld-hoe-tel-je-1-4-miljard-mensen~b89a30d1/",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-10-17T03:00:21+00:00"
     },
     {
      "titel": "Trump draait heffingen en sancties op Russische energie terug",
@@ -111,6 +113,24 @@
    "emoji": "🇳🇱",
    "items": [
     {
+     "titel": "Acteur en presentator Maarten Spanjer (73) overleden",
+     "context": "Acteur en presentator Maarten Spanjer is op 73-jarige leeftijd overleden. Dat meldt De Telegraaf op basis van een goede vriendin. Spanjer is onder meer bekend van het programma Taxi . Als acteur speelde hij in onder meer de film Spetters. Spanjer leed al enige tijd aan blaas- en prostaatkanker. Bij een operatie werden zijn blaas en zijn prostaat verwijderd. Desondanks was hij deze zomer nog optimi",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635317",
+     "bron": "NOS",
+     "tijd": "08:42",
+     "sorteer": "2026-10-17T08:42:34+02:00"
+    },
+    {
+     "titel": "Wolf maakt zwijnen en herten op Veluwe alerter: 'Vroeger zat er weinig pit in'",
+     "context": "Wilde zwijnen, edelherten en reeën op de Veluwe hebben hun gedrag de afgelopen jaren aangepast aan de aanwezigheid van de wolf. Dat concludeert de Faunabeheereenheid Gelderland na monitoring. Die organisatie is verantwoordelijk voor het tellen van wilde dieren en het beheer ervan, oftewel de jacht. Op de Veluwe leven momenteel een kleine honderd wolven, verdeeld over meerdere roedels. Hun aanwezig",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635314",
+     "bron": "NOS",
+     "tijd": "08:20",
+     "sorteer": "2026-10-17T08:20:37+02:00"
+    },
+    {
      "titel": "Dode vrouw in woning Beek en Donk, politie gaat uit van misdrijf",
      "context": "In het Brabantse Beek en Donk, bij Helmond, is om 02.00 uur een dode vrouw gevonden in een huis. De politie gaat ervan uit dat ze door een misdrijf om het leven is gekomen. Er is iemand aangehouden. Het is niet duidelijk hoe de vrouw is omgekomen en wie de aangehouden persoon is. Op beelden is te zien dat de ruiten van de voordeur kapot zijn. De politie zegt dat er onderzoek wordt gedaan naar de t",
      "rubrieken": [],
@@ -118,24 +138,6 @@
      "bron": "NOS",
      "tijd": "04:05",
      "sorteer": "2026-10-17T04:05:45+02:00"
-    },
-    {
-     "titel": "Brand in Arnhemse flat die eerder was ontruimd vanwege krakers",
-     "context": "In een flat in Arnhem is vrijdagavond brand uitgebroken. De flat was eerder op de dag ontruimd en dichtgetimmerd. Er woonden krakers. Voor zover bekend is er niemand gewond geraakt. De brand brak rond 22.30 uit en was ongeveer een uur later weer geblust. Volgens De Gelderlander was er nog iemand in het verzegelde pand aan de Paasberglaan tijdens de brand. Hij liep geen ernstige verwondingen op. Hi",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635293",
-     "bron": "NOS",
-     "tijd": "00:16",
-     "sorteer": "2026-10-17T00:16:15+02:00"
-    },
-    {
-     "titel": "Frustratie en teleurstelling na bekendmaking infrastructuurplannen kabinet",
-     "context": "Vanuit verschillende hoeken van het land klinken frustratie en teleurstelling na de bekendmaking van de plannen van het kabinet voor onderhoud en vernieuwing van verouderde bruggen, wegen, sluizen en andere infrastructuur. Vandaag maakten minister Karremans en staatssecretaris Bertram bekend dat er in totaal 18 miljard euro voor wordt uitgetrokken. Een groot deel van dat bedrag wordt weggehaald bi",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635287",
-     "bron": "NOS",
-     "tijd": "22:50",
-     "sorteer": "2026-10-16T22:50:11+02:00"
     },
     {
      "titel": "Toen duizenden boze tieners in 1999 een slagveld maakten van de Haagse binnenstad",
@@ -165,25 +167,11 @@
      "sorteer": "2026-10-16T20:00:04+00:00"
     },
     {
-     "titel": "Dit is de nieuwe flitser waar Arnhemmers elkaar al voor waarschuwen",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS1hOcHBVQVdtQ0doamhJellEMHlRc0dqSy1YY1dKOW9NYnptM2M0TUpiN2ZLcS1YcTB1UnhKWGNvQk9kaEh0elR0cUlDWjhHemZCaGtrUndYenFPd0lCd2lrN1JXbVhHcDg0ZTh4WmtobXg0dmd5dnZtRnBLUmM5bm1UcGtUZDJfNDB2cXdOSUJNUDh0a1pwdlVjUExoRzRPQ01qdlVJQ0dnamx2aXVzZHRaWQ?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "22:10",
-     "sorteer": "2026-10-16T20:10:00+00:00"
-    },
-    {
-     "titel": "Dode en zwaargewonden bij aanval in Duits verzorgingshuis",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzlWTjVJNThpamJSWEE3dEItLTJISHBKZ21GSElvTUo2dG5ZN0w4d3AxWXE3MnRfWmFhQndhYmVOQ1hSYW5JQTYxRkNjcFNndnRhSjZPMHNTeG5FajlJS08wMmhQcHdCcExtY3d0NWxBRkczMmI0S2pWaHQtRHJKd0pjRjdwSGJBVktN?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "05:51",
-     "sorteer": "2026-10-17T03:51:48+00:00"
-    },
-    {
-     "titel": "Tegen abortus zijn hoort in het rijtje tegen asielzoekers, tegen klimaatbeleid, tegen lhbti’ers en tegen leuke mensen zijn",
-     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOclF4Q1hoUExoWk83YWEyOFEydk5PcXpseTY2OGQ5aVpId0doM1E2enpLc1Z4NjZjUGRydXVnZ0tGb2h3V1l0WFdLOUd3NWw3Mzk0aVEyazBiYWEyeWF1aHdkRkE0SGdHclROcWNyX1pTenZmZ2Vnb3NLUEpFMVY5Sm5HMGpOendzeHdhZTFQMi0tOHVIVVJsWEwyWkNfcFZySndTLXJoT09xWlJ3emRLaHYtbEpSUUJ2UlJFZHhQS3NPd3ZNdm9IUU41Z0lxWFF0ZmxFd1VLaE5CcEtBZEhzUzIydWhld0luQXUyMUNZaWV1NEtMREVVaUNrZnVwTUVsSkROZUdn?oc=5",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-10-17T03:00:21+00:00"
+     "titel": "Losser, verlies de menselijke maat niet uit het oog",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORndob21zeTFURUU5YV9JejhVSlZQenpMNmFzSGNnNkRoWktGTk1sYVlEaGI5bGRrNUNaUUF0LVdsRXN2V2NoN2NINlJrRFp2aTRwbWQ0VFVZUVdYN0dRQTlyc2tKY0hJZnh0Y2daYTFOa192RlY2UzRrMGFqRmM1Q2FjdkRld211Rzh4QThxMmZveGNCNEE?oc=5",
+     "bron": "Tubantia",
+     "tijd": "23:30",
+     "sorteer": "2026-10-16T21:30:00+00:00"
     },
     {
      "titel": "Nieuwsuur: Tussentijdse verkiezingen in VS • Miljarden naar infrastructuur • Overlast door straatpredikers",
@@ -203,58 +191,60 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Herfstpracht in bos en landgoed, maar pas op voor vallende takken na droge zomer",
+     "titel": "'Deze laan haalt de 100 jaar niet': landgoedeigenaar in Diepenheim ziet bomen bezwijken",
      "context": "Het is herfstvakantie en de natuur is op z’n mooist. Maar wie het bos in stapt op landgoederen als Nijenhuis in Diepenheim, doet er goed aan even omhoog te kijken. De recorddroge zomer heeft bomen verzwakt en daardoor is de kans op vallende takken vergroot.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706208/herfstpracht-in-bos-en-landgoed-maar-pas-op-voor-vallende-takken-na-droge-zomer",
+     "link": "https://www.oost.nl/nieuws/3706208/deze-laan-haalt-de-100-jaar-niet-landgoedeigenaar-in-diepenheim-ziet-bomen-bezwijken",
      "bron": "RTV Oost",
      "tijd": "06:01",
      "sorteer": "2026-10-17T04:01:55+00:00"
     },
     {
-     "titel": "Vermoeden van vogelgriep in Kristalbad: houd honden aan de lijn",
-     "context": "In het Kristalbad tussen Hengelo en Enschede zijn de afgelopen twee weken acht vogels aangetroffen die mogelijk vogelgriep hebben. Het gaat vooral om eenden. Waterschap Vechstromen waarschuwt wandelaars om hun honden aan de lijn te houden en zieke of dode vogels vooral niet aan te raken.",
+     "titel": "Na 22 jaar krijgt ijsmeester Tonnie het ijs niet op de baan: 'Doet pijn'",
+     "context": "Geen ijspret deze herfstvakantie op IJsbaan De Scheg in Deventer. De baan had afgelopen zaterdag al moeten openen, maar een kapot koelsysteem gooit roet in het eten. Er draait nu een noodinstallatie die zo snel mogelijk voor een laag ijs op de baan moet zorgen, maar ook dat werkt nog niet optimaal.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3707396/vermoeden-van-vogelgriep-in-kristalbad-houd-honden-aan-de-lijn",
+     "link": "https://www.oost.nl/nieuws/3705805/na-22-jaar-krijgt-ijsmeester-tonnie-het-ijs-niet-op-de-baan-doet-pijn",
      "bron": "RTV Oost",
-     "tijd": "05:07",
-     "sorteer": "2026-10-17T03:07:27+00:00"
+     "tijd": "19:04",
+     "sorteer": "2026-10-16T17:04:00+00:00"
     },
     {
-     "titel": "Oekraïners spreken plan drugslab in opvang tegen: 'Zoutzuur voor ontvetten metaal'",
-     "context": "De rechter beslist binnen een week of de gemeente Hengelo twee Oekraïners weer toegang moet verlenen tot de gemeentelijke opvang aan de Hazenweg in Hengelo. Vandaag diende een kort geding in Zwolle over het besluit van de gemeente om de twee de toegang tot de opvang te ontzeggen.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3707368/oekrainers-spreken-plan-drugslab-in-opvang-tegen-zoutzuur-voor-ontvetten-metaal",
+     "titel": "Vooral opluchting in Overijssel na miljardenpuzzel van minister Karremans",
+     "context": "Overijsselse bestuurders reageren overwegend positief op de nieuwe verdeling van rijksgeld voor infrastructuur, die minister Karremans vandaag presenteerde. Er blijft geld beschikbaar voor bijna alle grote Overijsselse projecten. \"De plannen zijn er, nu moet echt die schop in de grond.\"",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3707362/vooral-opluchting-in-overijssel-na-miljardenpuzzel-van-minister-karremans",
      "bron": "RTV Oost",
-     "tijd": "21:32",
-     "sorteer": "2026-10-16T19:32:37+00:00"
+     "tijd": "18:37",
+     "sorteer": "2026-10-16T16:37:23+00:00"
     },
     {
-     "titel": "Pizzabezorger eindigt in sloot bij Zuidveen",
-     "context": "Wie vrijdagavond rond een uur of negen pizza heeft besteld in de omgeving van Zuidveen komt bedrogen uit. Een pizzabezorger reed daar met zijn bestelbus de sloot in en raakte gewond.",
+     "titel": "Rechter fluit Zwolse tennisclub terug om geluidsoverlast bij padelbanen",
+     "context": "Tennisclub Ittersum in Zwolle riskeert dwangsommen als padelspelers 's avonds te veel geluid maken. De club wilde de maatregel van de gemeente tegenhouden, maar de rechter wees dat verzoek af. Bij iedere overtreding dreigt een dwangsom van 2500 euro.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3707441/pizzabezorger-eindigt-in-sloot-bij-zuidveen",
+     "link": "https://www.oost.nl/nieuws/3707263/rechter-fluit-zwolse-tennisclub-terug-om-geluidsoverlast-bij-padelbanen",
      "bron": "RTV Oost",
-     "tijd": "21:22",
-     "sorteer": "2026-10-16T19:22:05+00:00"
+     "tijd": "16:31",
+     "sorteer": "2026-10-16T14:31:07+00:00"
     },
     {
-     "titel": "Gladiolen, bier en verbroedering; finish Sallandse Wandelvierdaagse 'na topdagen'",
-     "context": "Gladiolen, bier, verbroedering, veel korte broeken en vooral heel veel lachende gezichten. In het centrum van Raalte is vanmiddag de 19e editie van de Sallandse Wandelvierdaagse gefinisht bij een temperatuur van 19 graden Celcius. \"Het was een topweek met een topweertje\", zegt voorzitter Jurgen Bruggeman.",
+     "titel": "Oekraïners in opvang hadden stoffen in huis waarmee ze drugslab konden opzetten",
+     "context": "Twee Oekraïners zijn uit een opvanglocatie in Hengelo gezet, omdat ze grondstoffen op hun kamer hadden waarmee ze een drugslab konden opzetten. De mannen hadden nog geen strafbare feiten gepleegd en vechten het besluit van de gemeente bij de rechter aan.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3707361/gladiolen-bier-en-verbroedering-finish-sallandse-wandelvierdaagse-na-topdagen",
+     "link": "https://www.oost.nl/nieuws/3707123/oekrainers-in-opvang-hadden-stoffen-in-huis-waarmee-ze-drugslab-konden-opzetten",
      "bron": "RTV Oost",
-     "tijd": "21:00",
-     "sorteer": "2026-10-16T19:00:11+00:00"
+     "tijd": "13:29",
+     "sorteer": "2026-10-16T11:29:26+00:00"
     },
     {
-     "titel": "Eerst bier de auto in, daarna een vuistslag tijdens Ommer Bissingh",
-     "context": "Een man krijgt tijdens Ommer Bissingh bier over zich heen en wordt daarna tegen zijn kaak geslagen. De jongeman die hem mishandelt, doet eerst een bitje in zijn mond. De beelden gaan daarna snel rond op social media, maar de politie heeft nog geen tips ontvangen over zijn identiteit.",
+     "titel": "Nederlander rijdt met bierblikje in hand grenscontrole binnen",
+     "context": "Agenten hebben afgelopen nacht aan de Duits-Nederlandse grens bij De Lutte een opvallende drankrijder aangehouden. De man reed met een blikje bier in zijn hand rechtstreeks een controlepost van de Duitse politie binnen.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3704686/eerst-bier-de-auto-in-daarna-een-vuistslag-tijdens-ommer-bissingh",
+     "link": "https://www.oost.nl/nieuws/3707232/nederlander-rijdt-met-bierblikje-in-hand-grenscontrole-binnen",
      "bron": "RTV Oost",
-     "tijd": "20:08",
-     "sorteer": "2026-10-16T18:08:15+00:00"
+     "tijd": "13:11",
+     "sorteer": "2026-10-16T11:11:45+00:00"
     },
     {
      "titel": "Woningen in aanbouw",
@@ -592,56 +582,80 @@
      "tijd": "",
      "link": "https://trektellen.org/count/view/1919/20261017",
      "soorten": [
-      "Vink 2",
-      "Keep 2",
-      "Zanglijster 1",
-      "Witte Kwikstaart 1"
+      "Spreeuw 556",
+      "Kolgans 231",
+      "Sijs 13",
+      "Aalscholver 7"
      ],
-     "aantal_soorten": 4,
+     "aantal_soorten": 10,
      "opmerkingen": [],
      "tellers": ""
     },
     {
-     "titel": "Landelijk vandaag: 24 soorten, 163 vogels geteld",
+     "titel": "Landelijk vandaag: 105 soorten, 20.397 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch"
     },
     {
-     "titel": "Vink — 45",
+     "titel": "Spreeuw — 9.340",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch"
     },
     {
-     "titel": "Spreeuw — 24",
+     "titel": "Kolgans — 2.031",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch"
     },
     {
-     "titel": "Keep — 18",
+     "titel": "anser spec. — 1.980",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch"
     },
     {
-     "titel": "Kolgans — 15",
+     "titel": "Rotgans — 1.481",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch"
     },
     {
-     "titel": "Pimpelmees — 9",
+     "titel": "Vink — 1.335",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch"
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "anser spec. springt eruit — 1.980, normaal 278",
+     "bron": "7× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch",
+     "sein": false
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Rotgans springt eruit — 1.481, normaal 292",
+     "bron": "5× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch",
+     "sein": false
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Dwergmeeuw springt eruit — 61, normaal 20",
+     "bron": "3× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch",
+     "sein": false
     },
     {
      "kop": "Kraanvogels",
@@ -649,7 +663,7 @@
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "gelijk aan de dag ervoor (76) · afgelopen week gemiddeld 44 per dag"
+     "vergelijking": "gelijk aan de dag ervoor (79) · afgelopen week gemiddeld 45 per dag"
     },
     {
      "kop": "Kraanvogels",
@@ -686,20 +700,14 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 10.3,
-    "gevoel": 10.3,
-    "wind": "NNW 1",
+    "nu": 9.9,
+    "gevoel": 9.9,
+    "wind": "WNW 0",
     "station": "Heino",
     "bericht": "Het weekend verloopt wisselvallig en aan de temperatuur zal het best even wennen zijn. Morgen wordt het bijvoorbeeld nog maar 12 graden. Maandag en dinsdag volgt tijdelijk een weersverbetering met meer zon en blijft het vrijwel overal droog.Vanochtend is het wisselend bewolkt, met ook zonnige momenten.",
     "vandaag": "Vanochtend is het wisselend bewolkt, met ook zonnige momenten. Vanmiddag zien we een mix van zon en stapelbewolking en vallen verspreid enkele buien.",
     "temperatuur": "Morgen wordt het bijvoorbeeld nog maar 12 graden.",
-    "dalfsen": {
-     "zin": "Voor Dalfsen zelf: regen, 9 tot 14 graden, 78% kans op neerslag, ruim 8 uur zon, wind uit het noorden, kracht 4.",
-     "max": 14,
-     "min": 9,
-     "regenkans": 78,
-     "omschrijving": "regen"
-    },
+    "dalfsen": null,
     "vooruit": "Maandag en dinsdag droog en vooral op dinsdag veel zon. Vanaf woensdag af en toe regen en soms mogelijk ook meer wind. De maximumtemperaturen liggen rond 14⁰C.",
     "omslag": "Vanaf woensdag regen: de kans loopt op van 10% naar 70%.",
     "min": null,
