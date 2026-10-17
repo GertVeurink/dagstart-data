@@ -3,15 +3,13 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "13:00",
+  "opgehaald": "14:00",
   "blokken": 10,
-  "berichten": 77,
-  "problemen": [
-   "weer Dalfsen: HTTPError"
-  ],
+  "berichten": 73,
+  "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-17T13:00+02:00",
+ "opgehaald": "2026-10-17T14:00+02:00",
  "audio": "audio/20261017.mp3",
  "blokken": [
   {
@@ -20,8 +18,17 @@
    "emoji": "🌍",
    "items": [
     {
-     "titel": "Tientallen arrestaties op dag van massaprotest in Frankrijk",
-     "context": "In Frankrijk zijn al tientallen arrestaties verricht op de dag van de grote protesten. Na weken van scholierenprotesten gaan vandaag verschillende groepen de straat op om te protesteren tegen de stijgende kosten van het levensonderhoud. Zo is de gelehesjesbeweging terug van weggeweest. Rond 09.30 uur waren in de omgeving van Parijs veertig mensen gearresteerd, meldt de Franse politie. De meeste me",
+     "titel": "Snelweg bij Luik versperd na ongeluk, man dreigt zijn auto op te blazen",
+     "context": "Bij de Belgische gemeente Sprimont, zo'n 25 kilometer ten zuiden van Luik, is een snelweg versperd na een ongeluk. Een van de betrokken chauffeurs zegt gewapend te zijn en dreigt zijn auto op te blazen. Het gaat om de E25-snelweg van Luik in de richting van Luxemburg. Het ongeluk vond plaats tussen Sprimont en Aywaille. Er waren drie auto's bij betrokken en er viel één gewonde. De toedracht is ond",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635345",
+     "bron": "NOS",
+     "tijd": "13:36",
+     "sorteer": "2026-10-17T13:36:24+02:00"
+    },
+    {
+     "titel": "Traangas ingezet en vele tientallen arrestaties op dag van megaprotest Frankrijk",
+     "context": "De politie in Frankrijk heeft traangas ingezet bij protesten tegen de stijgende kosten van het levensonderhoud. Na weken van scholierenprotesten gaan vandaag verschillende groepen de straat op, zoals de gelehesjesbeweging. Vele tientallen mensen zijn al aangehouden. Rond 12.00 uur waren in Parijs ongeveer honderd mensen gearresteerd, melden Franse media op basis van de politie. De meeste aanhoudin",
      "rubrieken": [],
      "link": "https://nos.nl/l/2635331",
      "bron": "NOS",
@@ -56,31 +63,22 @@
      "sorteer": "2026-10-17T09:39:15+02:00"
     },
     {
-     "titel": "Van scholieren tot gele hesjes: Frankrijk maakt zich op voor dag van massaprotesten",
-     "context": "Demonstraties, snelwegblokkades en acties bij brandstofdepots: in heel Frankrijk zijn vandaag protesten. Scholieren en studenten hebben, zoals in de afgelopen weken, opnieuw aangekondigd de straat op te gaan, maar dit keer hebben ze gezelschap. Want ook boeren, taxichauffeurs en, terug van weggeweest, de gele hesjes sluiten zich aan. Voor de regering is het een bepalende dag: grijpt de woede van d",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635308",
-     "bron": "NOS",
-     "tijd": "07:00",
-     "sorteer": "2026-10-17T07:00:47+02:00"
-    },
-    {
-     "titel": "Ontbossing Braziliaanse Amazone op laagste niveau sinds 1988, maar vrees voor terugval bij winst Bolsonaro",
+     "titel": "Paus Leo XIV na vijf dagen ontslagen uit ziekenhuis, leidt zondagsmis in Vaticaan",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/ontbossing-braziliaanse-amazone-op-laagste-niveau-sinds-1988-maar-vrees-voor-terugval-bij-winst-bolsonaro~bd8cd820/",
+     "link": "https://www.volkskrant.nl/buitenland/paus-leo-xiv-na-vijf-dagen-ontslagen-uit-ziekenhuis-leidt-zondagsmis-in-vaticaan~b973a7e8/",
      "bron": "de Volkskrant",
-     "tijd": "12:54",
-     "sorteer": "2026-10-17T10:54:00+00:00"
+     "tijd": "13:55",
+     "sorteer": "2026-10-17T11:55:00+00:00"
     },
     {
-     "titel": "Begrotingstekort VS stijgt naar bijna twee biljoen dollar, derde hoogste ooit",
+     "titel": "Vrouw van Britse veiligheidsadviseur deelt bericht op X waarin ze Palestine Action lijkt te steunen",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-hegseth-pentagon~bcd4a5c7/",
+     "link": "https://www.volkskrant.nl/buitenland/vrouw-van-britse-veiligheidsadviseur-deelt-bericht-op-x-waarin-ze-palestine-action-lijkt-te-steunen~bf107f2a/",
      "bron": "de Volkskrant",
-     "tijd": "12:51",
-     "sorteer": "2026-10-17T10:51:00+00:00"
+     "tijd": "13:25",
+     "sorteer": "2026-10-17T11:25:00+00:00"
     },
     {
      "titel": "Juridische chaos in Polen wacht op ontknoping",
@@ -97,13 +95,6 @@
      "bron": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
      "tijd": "10:52",
      "sorteer": "2026-10-17T08:52:07+00:00"
-    },
-    {
-     "titel": "Woningmarkt, warmtepomp, box-3? Onze eigen specialist legt het uit",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZmFwTnBYaXFveXQzXzA4MmhHQUo1akNidlFKemlLMEhEQnM5OUtIai1tZ19VREZrekdzUG1LUnVMcHBKa3VUVGdRVktLWF8xNnR2RHZ5SWFybUdQUW9LcU41Qnl0LWEyRVgwelBaelRjUnAtSVk5b3RhMlNXU2xkdk9BRFNVeHZQVmJtUnhvR19JRzZoZ2NkRUREeVRQcWVXbDQwU3FFXy1MT2thVVJv?oc=5",
-     "bron": "AD.nl",
-     "tijd": "10:00",
-     "sorteer": "2026-10-17T08:00:08+00:00"
     }
    ]
   },
@@ -186,41 +177,31 @@
     },
     {
      "titel": "Rapper Appa veroordeeld tot taakstraf voor doxen Joodse vrouw en journalist",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSmphb2h6VkQtVVIyWDVtUXEzeEZ2a3g0SWRUa09WeHM2LXZNclpLNVdWQi0xX2RXZndlNnFyTk5TSTYzUjdfMGZrMWhtNU9SZ05BRzJfVHhzSjNYZ2VmYTEyRlZkUUV3QlBhejFSSEVtRnhlaVprMXJ5U0I4b3YwNlQ2Z2QzZjc4bHUyRTBrMi02RzlLUEp0UUVITWJudjNoN0h2TzRLSFdpVEZXWUtMbGJRejQ?oc=5",
-     "bron": "AD.nl",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZzM1UE5sWGk1MDMtNXRkeU9KaTRNa2lJNjRma2FubjRGSWQzRnl6eThZSFJ2SWdpbnF4M2xJQWFzZlRSNk1ua0hCY1hud05vS2RuRUd6NmNrRXpmeF8tOGZqcDFTRGNkNWc5UzJ1bkRaWmdfVXprbWtabUN4aDRNQzhwN0NVdkcxai1FNW15dVNCOFIxY3ltd3lsT0V6cDlkY3lWTWNIdnR1d1pkT1N0aW14NHdXQWp5ZXptX19VQzBHdw?oc=5",
+     "bron": "De Gelderlander",
      "tijd": "10:12",
      "sorteer": "2026-10-17T08:12:36+00:00"
     },
     {
-     "titel": "Borsato en justitie verschillen ‘op twee punten’ van mening over advocaatkosten na zedenzaak",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSXNHVXRGX1dZQ3VTWGFtMDFtd2pDZFpvcG0wU0c1bWJhbzJQSU5BTmpqWGJDZGZnVXhpNjRhaldBckpDRXc2bEVVajdCZnhOS1p4d2xLZ29XQ18tY1djWlFyd2pMOWI5OXlsTEFYMHNPTzNjOXUtZjR3eUlTRDhjUGhUZzZsZjJaSzJzbkdVYkdEbzZpS2Z5NXVZM21qRUljYm8wdE1KdkI0emdGaVh4LUtlSkIyM2t0QkFia1NKOTVNbjRoNmtfMEJn?oc=5",
-     "bron": "de Stentor",
-     "tijd": "07:31",
-     "sorteer": "2026-10-17T05:31:00+00:00"
+     "titel": "Politie gebruikt geweld bij Franse en Belgische protesten",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeG85RU82N01IZW9MUUR3dEplRWd4OEdNVHNzNTdXa3J6a003ZmVqbGxzMURGajNSVmhyeVMtOGpXeXdGVnYzVVVXalZ1ZUQ2TldONTY0UWl2U0E3dkVzMDJQbWdtcGpFVEZSWFl1SkFpVlhGQlYwV2pURGphV3hCTHllblJndS10WjVz?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "13:39",
+     "sorteer": "2026-10-17T11:39:31+00:00"
     },
     {
-     "titel": "7 x instapklare huizen in Almelo onder de 4 ton",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQWFVOVhQbGFrUl9pbWJmQXNjcTY4NGFuQlpGTVpYWmpRNnFrZXo4V1h3UUYwVWdSZVdwNUM3WHRsTjFwOWd4Z2d0YjM1cmM3TnNhNzhLNEVVX2h2aFh5bEtsejB5bTFNYjlKTWdOWHFqNHJ5a2RKM29XdzRZU0pkaFNDUlctYmY2SlRQSGplV3RBdw?oc=5",
-     "bron": "Tubantia",
-     "tijd": "12:00",
-     "sorteer": "2026-10-17T10:00:35+00:00"
+     "titel": "Amateurisme slaat toe in Tweede Kamer: ervaring verdwijnt in hoog tempo",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX20wQ2ZKaG8yV1FnNWxSX3dUVkFFLUt1ZUdINmxEeV9MZDJPZ0JqOVRYX2xsQm81V1hRbnNIQmtJdmkxVmJCejF1YjdYWkIxRUpvYVhzZk5rZXpwa2J3SFJxdFRET2RtNmZaTldBVExvUFZHQlNJWEhEWkpzMGNNa1pTZF9UWmcyZmJGb2VWM0RTanJKM0QxaUx6S0JQYXlxX1VkMGdzUUYzbzFOci1ZYzZNWFJYeGN0ODdR?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "13:01",
+     "sorteer": "2026-10-17T11:01:33+00:00"
     },
     {
-     "titel": "Een kijkje achter de schermen tijdens grote politiecontrole bij Terneuzen, twee aanhoudingen na vondst vuurwapen",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORjhqVkdGekJ2SEJRZHFzcjZPSGNpd2F1Q0hkMTJhbGpkdm9JbVlGcGczR3U5N0ViT0ZqYVFpUkxLTUhYdmVVZC1XZHBmZUdDNW9vTUtJUnVMdEk2WUd0YXVvM243TzNYTUd6MGNDZjR5S2dERVVBSVpQcFYzbDA1emU3RGFqVHVnRzFIcXI3bHc0VUhZTTJXUDQ1VWdjVjNYZ3NWb0hUT2tnbGhZRjhnUXlJQ0dEV3M5U2JUSUpwNTRpMDZfWE04U1pySjNwazJjdzFXZ25EZEh1YkJPS3g0ZVdZRQ?oc=5",
-     "bron": "AD.nl",
-     "tijd": "11:57",
-     "sorteer": "2026-10-17T09:57:58+00:00"
-    },
-    {
-     "titel": "Nieuwsuur: Tussentijdse verkiezingen in VS • Miljarden naar infrastructuur • Overlast door straatpredikers",
-     "context": "Tussentijdse verkiezingen VS Over drie weken zijn de tussentijdse verkiezingen in de Verenigde Staten. Daarbij wordt onder meer gestemd over alle zetels in het Huis van Afgevaardigden en een deel van de Senaat. De uitslag bepaalt hoeveel steun Trump de rest van zijn presidentschap in het Congres kan verwachten. Inmiddels zijn er al miljoenen dollars in de campagne rondgepompt. Enkel Elon Musk stak",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635216",
-     "bron": "NPO2 · 22:00",
-     "tijd": "22:00",
-     "sorteer": "2026-10-17T22:00:00",
-     "kop": "Vanavond op tv"
+     "titel": "Waarom de funderingsproblemen in Nederland nu ineens zo goed zichtbaar worden",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZGJXbGJQOUd1QzV1VmRaRWx6TTZQRmdhc0poa0hMUFVjbVpiUWl2MFVldnNxYjZ5d2Q2Rnk0dVB6QzE1ZFc2RXJfMjdkNVR3V19WQUVzc1NJZDFaNzhYT0dPRGRaWlRUcVdCYl80NXlxNzVOV1g2ZzUxMVZuSExiV1l2S1l1VjFGQTR2U21HWHdQOVBfRzhiXzNva0tDZFM4eXU1eE9zNmtHcGl0aDNSampvenVVMXM?oc=5",
+     "bron": "Eindhovens Dagblad",
+     "tijd": "13:01",
+     "sorteer": "2026-10-17T11:01:00+00:00"
     }
    ]
   },
@@ -229,6 +210,15 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Wegwerkzaamheden hinderen brandweer in Hardenberg: scooters bieden uitkomst",
+     "context": "In Hardenberg rijden brandweerlieden op elektrische scooters naar de kazerne. Door wegwerkzaamheden kunnen de vrijwilligers er niet snel genoeg komen. De scooters moeten ervoor zorgen dat de brandweer toch op tijd kan uitrukken. Want bij de brandweer telt elke seconde.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3706026/wegwerkzaamheden-hinderen-brandweer-in-hardenberg-scooters-bieden-uitkomst",
+     "bron": "RTV Oost",
+     "tijd": "12:02",
+     "sorteer": "2026-10-17T10:02:05+00:00"
+    },
     {
      "titel": "Na dertig jaar is opluchting bij Gerard groot na zekerheid over rondweg Mariënheem",
      "context": "Een gevoel van rechtvaardigheid maakt zich vrijdagmiddag even na drieën meester van Gerard Nij Bijvank. Zijn strijd met Plaatselijk Belang Mariënheem voor een rondweg om het dorp lijkt succesvol, nu het kabinet het geld voor de rondweg in stand houdt. \"Ik ben opgelucht, maar het was al toegezegd.\"",
@@ -241,6 +231,15 @@
      "sorteer": "2026-10-17T09:28:26+00:00"
     },
     {
+     "titel": "In Beeld: Vrienden van Rossum Live 2026",
+     "context": "Wat een feestje! Bekende artiesten zetten Rossum compleet op z'n kop met een avond vol live muziek. Fotograaf Dominique was erbij en maakte een reportage.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/cultuur/3707516/in-beeld-vrienden-van-rossum-live-2026",
+     "bron": "RTV Oost",
+     "tijd": "10:48",
+     "sorteer": "2026-10-17T08:48:31+00:00"
+    },
+    {
      "titel": "Kiek in de pot en ondergeschoven kind: wandeling door Deventer met oude uitdrukkingen",
      "context": "Een ondergeschoven kind, of iemand naar de kiek in de pot brengen. Sommige eeuwenoude uitdrukkingen gebruiken we nog altijd, andere zijn bijna vergeten. Historicus Girbe Buist hoopt in Deventer de oude streektaal nieuw leven te kunnen geven. \"Veel uitdrukkingen zijn weggezakt bij de mensen.\"",
      "rubrieken": [],
@@ -248,6 +247,15 @@
      "bron": "RTV Oost",
      "tijd": "10:24",
      "sorteer": "2026-10-17T08:24:39+00:00"
+    },
+    {
+     "titel": "Trein Zwolle-Emmen kampt met structurele toiletproblemen",
+     "context": "De toiletten in de trein tussen Emmen en Zwolle zijn vaak dicht. Zo schrijft RTV Drenthe. Voor mensen die kampen met incontinentieklachten is dat een ramp.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3707437/trein-zwolle-emmen-kampt-met-structurele-toiletproblemen",
+     "bron": "RTV Oost",
+     "tijd": "09:02",
+     "sorteer": "2026-10-17T07:02:13+00:00"
     },
     {
      "titel": "Enschede en Hengelo verdelen 100 miljoen euro: deze wegen worden aangepakt",
@@ -261,31 +269,17 @@
      "sorteer": "2026-10-17T05:03:53+00:00"
     },
     {
-     "titel": "'Deze laan haalt de 100 jaar niet': landgoedeigenaar in Diepenheim ziet bomen bezwijken",
-     "context": "Het is herfstvakantie en de natuur is op z’n mooist. Maar wie het bos in stapt op landgoederen als Nijenhuis in Diepenheim, doet er goed aan even omhoog te kijken. De recorddroge zomer heeft bomen verzwakt en daardoor is de kans op vallende takken vergroot.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706208/deze-laan-haalt-de-100-jaar-niet-landgoedeigenaar-in-diepenheim-ziet-bomen-bezwijken",
-     "bron": "RTV Oost",
-     "tijd": "06:01",
-     "sorteer": "2026-10-17T04:01:55+00:00"
-    },
-    {
-     "titel": "Vermoeden van vogelgriep in Kristalbad: houd honden aan de lijn",
-     "context": "In het Kristalbad tussen Hengelo en Enschede zijn de afgelopen twee weken acht vogels aangetroffen die mogelijk vogelgriep hebben. Het gaat vooral om eenden. Waterschap Vechstromen waarschuwt wandelaars om hun honden aan de lijn te houden en zieke of dode vogels vooral niet aan te raken.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3707396/vermoeden-van-vogelgriep-in-kristalbad-houd-honden-aan-de-lijn",
-     "bron": "RTV Oost",
-     "tijd": "05:07",
-     "sorteer": "2026-10-17T03:07:27+00:00"
-    },
-    {
-     "titel": "Oekraïners spreken plan drugslab in opvang tegen: 'Zoutzuur voor ontvetten metaal'",
-     "context": "De rechter beslist binnen een week of de gemeente Hengelo twee Oekraïners weer toegang moet verlenen tot de gemeentelijke opvang aan de Hazenweg in Hengelo. Vandaag diende een kort geding in Zwolle over het besluit van de gemeente om de twee de toegang tot de opvang te ontzeggen.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3707368/oekrainers-spreken-plan-drugslab-in-opvang-tegen-zoutzuur-voor-ontvetten-metaal",
-     "bron": "RTV Oost",
-     "tijd": "21:32",
-     "sorteer": "2026-10-16T19:32:37+00:00"
+     "titel": "De kraanvogels komen er aan",
+     "context": "REGIO – Vanaf zondag ligt de migratieroute voor kraanvogels vanuit Noord-Duitsland naar het zuiden helemaal open. Een draaiende wind en lagere temperaturen zorgen vanaf dit weekend voor ideale omstandigheden voor kraanvogels om in beweging te komen. En dat op het moment dat hun aantallen in onze regio flink zijn toegenomen. Dat kan dus een mooie […]",
+     "rubrieken": [
+      "Ingezonden bericht",
+      "Laatste nieuws",
+      "Snavel en veren"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/554729/de-kraanvogels-komen-er-aan.html",
+     "bron": "DalfsenNet",
+     "tijd": "13:13",
+     "sorteer": "2026-10-17T11:13:01+00:00"
     },
     {
      "titel": "De rode eekhoorn: een razendsnelle bosbewoner",
@@ -299,20 +293,6 @@
      "bron": "DalfsenNet",
      "tijd": "12:38",
      "sorteer": "2026-10-17T10:38:59+00:00"
-    },
-    {
-     "titel": "Hulpdiensten naar ongeval Hessenweg",
-     "context": "DALFSEN – Rond middernacht zijn politie, brandweer en ambulance uitgerukt voor een ongeval op de Hessenweg in Dalfsen. De melding kwam om 23.57 uur binnen. Bij het ongeval waren twee personenauto’s betrokken. De brandweer heeft geholpen om een persoon uit een van de auto’s te halen. Eén persoon is naar het ziekenhuis vervoerd. Een persoon […]",
-     "rubrieken": [
-      "112-nieuws",
-      "Dalfsen",
-      "Ingezonden bericht",
-      "Laatste nieuws"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/554716/hulpdiensten-naar-ongeval-hessenweg.html",
-     "bron": "DalfsenNet",
-     "tijd": "07:00",
-     "sorteer": "2026-10-17T05:00:23+00:00"
     }
    ]
   },
@@ -389,20 +369,6 @@
      "bron": "de Volkskrant",
      "tijd": "10:00",
      "sorteer": "2026-10-17T08:00:31+00:00"
-    },
-    {
-     "titel": "De opverende groei van de arbeidsproductiviteit kan best te danken zijn aan AI",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYlVQWXJ4cHd0aFBicFozbFpVZkFaRW1IZGVLZXdoNnZZRUUxZHZGTkxBc3NKLWZfb2pBRi1IeFlmZC1JOF9lWnptT2MzRE85Zi1xWFlnVFB2R09lR1ROamMwLTZHWk5vaUxLY0FqMUFJdGhsVzRIMHA2dUpPLUsxZ0dnQmI5cy1kdVVrcWtkSVl1bnFZQXl0VkU4VDExb01JQjU2bXBydVR4UjFjWEMyMVhfay1MMEIyUUE4dXNfQmFnM3QyZGFtRjNPZmZmQQ?oc=5",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-10-17T03:00:21+00:00"
-    },
-    {
-     "titel": "Wall Street sluit opnieuw in het rood door onzekerheid over AI",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVUdMTHN0XzU2U1Y2OFd4ODJELVM4eXZzMm9USFJkbG5KUVV3N2YwRVlhZGFNWGE3VkFudk5FMm95U09GOFlsaGQzV0tETFhDQkRiRDJwMGNwOG1HRm5oNm16cWdXRUYxOXVyaEwzeUZ2eFlSbE5fUE90SGdjZWx0Z0NraThia2NQeHh0UC1ZTWdfZw?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "04:14",
-     "sorteer": "2026-10-17T02:14:10+00:00"
     }
    ]
   },
@@ -515,18 +481,18 @@
      "sorteer": "2026-10-17T05:00:00+00:00"
     },
     {
+     "titel": "Stuk minder bijen op Fiji: Europese kolonisatie speelt mogelijk mee",
+     "toelichting": "De Britse kolonisatie van Fiji heeft wellicht geleid tot nadelige gevolgen voor de bijenpopulatie op het eiland. Er werd onderzoek gedaan naar de factoren die meegespeeld kunnen hebben bij het afnemen van het bijenaantal",
+     "bron": "Scientias",
+     "tijd": "13:00",
+     "link": "https://scientias.nl/stuk-minder-bijen-op-fiji-europese-kolonisatie-speelt-mogelijk-mee/"
+    },
+    {
      "titel": "De zee rukt op rond koraaleilanden, maar waar zeevogels broeden groeit het rif mee",
      "toelichting": "Ratten die eieren roven en kokospalmen die het oorspronkelijke bos verdringen: op veel lage koraaleilanden in de tropen is de natuur flink uit balans. Herstel levert meer op dan alleen extra vogels. Waar zeevogels ongest",
      "bron": "Scientias",
      "tijd": "20:00",
      "link": "https://scientias.nl/de-zee-rukt-op-rond-koraaleilanden-maar-waar-zeevogels-broeden-groeit-het-rif-mee/"
-    },
-    {
-     "titel": "Wetenschappers ontdekken per ongeluk dat verbleekt koraal in recordtempo te redden is",
-     "toelichting": "Uit een nieuw onderzoek blijkt dat verbleekt koraal kan herstellen als het simpelweg tussen gezond koraal wordt gezet. Schrijf je in voor de nieuwsbrief! Ook elke dag vers het laatste wetenschapsnieuws in je inbox? Of el",
-     "bron": "Scientias",
-     "tijd": "17:00",
-     "link": "https://scientias.nl/wetenschappers-ontdekken-per-ongeluk-dat-verbleekt-koraal-in-recordtempo-te-redden-is/"
     },
     {
      "titel": "Indonesian women cash in on mangrove restoration: Interview with community leader Wisye Sahambangung",
@@ -618,42 +584,42 @@
      "tellers": ""
     },
     {
-     "titel": "Landelijk vandaag: 163 soorten, 125.291 vogels geteld",
+     "titel": "Landelijk vandaag: 171 soorten, 137.993 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch"
     },
     {
-     "titel": "Spreeuw — 47.299",
+     "titel": "Spreeuw — 51.529",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch"
     },
     {
-     "titel": "Kolgans — 21.292",
+     "titel": "Kolgans — 25.999",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch"
     },
     {
-     "titel": "Vink — 9.366",
+     "titel": "Vink — 10.441",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch"
     },
     {
-     "titel": "Rotgans — 6.122",
+     "titel": "Rotgans — 6.116",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch"
     },
     {
-     "titel": "anser spec. — 3.793",
+     "titel": "Kokmeeuw — 3.812",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -661,15 +627,15 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Dwergmeeuw springt eruit — 2.348, normaal 20",
-     "bron": "117× het gewone niveau",
+     "titel": "Dwergmeeuw springt eruit — 2.656, normaal 20",
+     "bron": "133× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Rotgans springt eruit — 6.122, normaal 292",
+     "titel": "Rotgans springt eruit — 6.116, normaal 292",
      "bron": "21× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch",
@@ -677,15 +643,15 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Eider springt eruit — 178, normaal 12",
-     "bron": "15× het gewone niveau",
+     "titel": "Kramsvogel springt eruit — 1.672, normaal 101",
+     "bron": "17× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Kramsvogel springt eruit — 1.461, normaal 101",
+     "titel": "anser spec. springt eruit — 3.793, normaal 278",
      "bron": "14× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch",
@@ -693,23 +659,23 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Rustig — vandaag 18 meldingen, samen 280 vogels",
+     "titel": "Rustig — vandaag 28 meldingen, samen 499 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "aflopend — dag ervoor 76 · afgelopen week gemiddeld 56 per dag"
+     "vergelijking": "aflopend — dag ervoor 77 · afgelopen week gemiddeld 57 per dag"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "4 binnen 75 km van Dalfsen",
+     "titel": "5 binnen 75 km van Dalfsen",
      "bron": "dichtstbij: Wierdense Veld - N2000, 23 km",
      "tijd": "08:42",
      "link": "https://waarneming.nl/species/19/observations/"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "12 meldingen vertrek uit het noorden",
-     "bron": "DE 12",
+     "titel": "19 meldingen vertrek uit het noorden",
+     "bron": "DE 19",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -734,14 +700,20 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 13.6,
-    "gevoel": 13.6,
+    "nu": 14.5,
+    "gevoel": 14.5,
     "wind": "N 2",
     "station": "Heino",
     "bericht": "Het weekend verloopt wisselvallig en aan de temperatuur zal het best even wennen zijn. Morgen wordt het bijvoorbeeld nog maar 12 graden. Maandag en dinsdag volgt tijdelijk een weersverbetering met meer zon en blijft het vrijwel overal droog.Vanmiddag vooral in de kustprovincies de meeste buien, verder landinwaarts veel ruimte voor de zon met stapelwolken die later ook kunnen uitgroeien tot een enkele bui.",
     "vandaag": "Vanmiddag vooral in de kustprovincies de meeste buien, verder landinwaarts veel ruimte voor de zon met stapelwolken die later ook kunnen uitgroeien tot een enkele bui. Vanavond is het noorden nog gevoelig voor enkele buien en meer bewolking, met name in de zuidelijke helft klaart het breed op.",
     "temperatuur": "Morgen wordt het bijvoorbeeld nog maar 12 graden.",
-    "dalfsen": null,
+    "dalfsen": {
+     "zin": "Voor Dalfsen zelf: lichte regen, 9 tot 14 graden, 78% kans op neerslag, ruim 6 uur zon, wind uit het noorden, kracht 4.",
+     "max": 14,
+     "min": 9,
+     "regenkans": 78,
+     "omschrijving": "lichte regen"
+    },
     "vooruit": "Maandag en dinsdag droog en vooral op dinsdag veel zon. Vanaf woensdag af en toe regen en soms mogelijk ook meer wind. De maximumtemperaturen liggen rond 14⁰C.",
     "omslag": "Vanaf woensdag regen: de kans loopt op van 10% naar 70%.",
     "min": null,
