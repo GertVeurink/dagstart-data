@@ -1,15 +1,15 @@
 {
  "datum": "2026-10-17",
- "naam": "Middagbriefing",
+ "naam": "Avondbriefing",
  "status": {
-  "ronde": "Middagbriefing",
-  "opgehaald": "17:00",
+  "ronde": "Avondbriefing",
+  "opgehaald": "18:00",
   "blokken": 10,
   "berichten": 76,
   "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-17T17:00+02:00",
+ "opgehaald": "2026-10-17T18:00+02:00",
  "audio": "audio/20261017.mp3",
  "blokken": [
   {
@@ -17,6 +17,24 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Onrust Albanië houdt aan: betogers vijf dagen op rij slaags met de politie",
+     "context": "Niet alleen in Frankrijk en België is het vandaag onrustig door protesten, ook in Albanië zijn duizenden mensen de straat op gegaan vanwege ontevredenheid over hun regering. Voor de vijfde dag op rij demonstreren Albaniërs, onder leiding van studenten, in de hoofdstad Tirana om premier Rama tot aftreden te dwingen. Het protest van vandaag begon rustig, maar liep volgens persbureau Reuters uit de h",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635379",
+     "bron": "NOS",
+     "tijd": "17:59",
+     "sorteer": "2026-10-17T17:59:38+02:00"
+    },
+    {
+     "titel": "Paus Leo XIV ontslagen uit het ziekenhuis, kan zijn taken volledig hervatten",
+     "context": "Paus Leo heeft het ziekenhuis in Rome verlaten, vier dagen na zijn operatie aan longkanker. De 71-jarige paus liep vanmiddag zonder hulp naar de auto die op hem stond te wachten en stopte even om te praten met mensen die hem buiten het Gemelli-ziekenhuis een hart onder de riem wilden te steken. De paus werd vandaag door zijn artsen ontslagen uit het ziekenhuis . Zij hadden al aangegeven dat hij vo",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635375",
+     "bron": "NOS",
+     "tijd": "17:35",
+     "sorteer": "2026-10-17T17:35:03+02:00"
+    },
     {
      "titel": "Trumps schoonzoon Kushner onderhandelt over vrede, maar verdient aan oorlog",
      "context": "Jared Kushner, de schoonzoon van de Amerikaanse president Donald Trump, is betrokken bij onderhandelingen over vrede in Oekraïne, Gaza en Iran. En dat terwijl hij óók zakelijke belangen heeft in die gebieden. Recent speelde hij een sleutelrol bij de omstreden deal die Trump sloot met de Russische president Poetin over de aankoop van Russische diesel. Onderhandelt Kushner voor vrede of voor zijn ei",
@@ -45,22 +63,13 @@
      "sorteer": "2026-10-17T15:18:05+02:00"
     },
     {
-     "titel": "Snelweg bij Luik uren versperd, man dreigde auto op te blazen",
-     "context": "Bij de Belgische gemeente Sprimont, zo'n 25 kilometer ten zuiden van Luik, is een snelweg urenlang versperd geweest na een ongeluk. Een van de betrokken chauffeurs zei gewapend te zijn en dreigde zijn auto op te blazen. Dat gebeurde op snelweg E25, van Luik in de richting van Luxemburg. Het ongeluk vond plaats tussen de plaatsen Sprimont en Aywaille en werd veroorzaakt door een man die daarna drei",
+     "titel": "Europese diplomaten aangevallen door Israëlische kolonisten op Westelijke Jordaanoever",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2635345",
-     "bron": "NOS",
-     "tijd": "13:36",
-     "sorteer": "2026-10-17T13:36:24+02:00"
-    },
-    {
-     "titel": "Rellen bij protesten in Frankrijk, politie zet traangas en waterkanon in",
-     "context": "In verschillende Franse steden zijn protesten tegen de stijgende kosten van het levensonderhoud op rellen uitgelopen. De politie in Parijs heeft traangas en een waterkanon ingezet. Rond 15.00 uur waren in het hele land 272 mensen aangehouden. Na weken van scholierenprotesten zijn vandaag verschillende groepen de straat op gegaan in Frankrijk, zoals de gelehesjesbeweging. De protesten verlopen onru",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635331",
-     "bron": "NOS",
-     "tijd": "11:45",
-     "sorteer": "2026-10-17T11:45:57+02:00"
+     "link": "https://www.volkskrant.nl/buitenland/middenoosten-liveblog-iran-houthi-yemen-saoediarabie-vs~ba2c7027/",
+     "bron": "de Volkskrant",
+     "tijd": "17:27",
+     "sorteer": "2026-10-17T15:27:00+00:00"
     },
     {
      "titel": "Trouwe Trump-vriend en gezant Paolo Zampolli permitteerde zich net iets te veel politieke vrijheden",
@@ -70,15 +79,6 @@
      "bron": "de Volkskrant",
      "tijd": "16:07",
      "sorteer": "2026-10-17T14:07:40+00:00"
-    },
-    {
-     "titel": "Ziekenhuizen melden vijf doden door Israëlische drone-aanvallen in Gaza",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/middenoosten-liveblog-iran-houthi-yemen-saoediarabie-vs~ba2c7027/",
-     "bron": "de Volkskrant",
-     "tijd": "16:04",
-     "sorteer": "2026-10-17T14:04:00+00:00"
     },
     {
      "titel": "Juridische chaos in Polen wacht op ontknoping",
@@ -93,8 +93,8 @@
      "titel": "Assita Kanko: waarom blijven we polariserend protest van radicale actiegroepen toch pikken?",
      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc0QyTFp1NEZrZ3NUM0VWMHVzUE1sREVKTDM5OWxzbEp0cFNVT2pjU2xxVGlZdHBBUjY4RjNoX1BPUGY2UHJpeDY5SDFUM25wUHU0Q2lmRDU4S2dhbmZvbnoxeEdPSnpINTdLdDF4UXVtVlRKaGxORmJDaVd5SzJxSENqeHhDbzJZRi1DRmhTR0V2V3hlVWJvakJDUHNqd3UyWVl4YUFHU2V5UFRybzRnTFFWckc1Y05LY2FUZzhPWDFxVXAzODZBMGJWSG5VeHQ1Ymc?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "15:33",
-     "sorteer": "2026-10-17T13:33:04+00:00"
+     "tijd": "17:22",
+     "sorteer": "2026-10-17T15:22:12+00:00"
     }
    ]
   },
@@ -176,6 +176,13 @@
      "sorteer": "2026-10-17T13:59:00+00:00"
     },
     {
+     "titel": "Bestuurder die Belgische wielrenner Lars (16) doodreed, eist geld van zijn ouders voor autoschade",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb3JJQVBqT0ZOeGNMVVBsTEgzZkR5cHdaUkl1RDlqR1djOENkNXowdDNOZ0RsdGdSeU4wRHJraGkyalQ1WUJ0Q3BBOW1RNlh1aU1EdDZfY2xzWGQ2LVlFSU93d3ZXWVVIS1ZCdWptV2RIa3JRWHhZLUdSa2hSTk9pRHFBRHc2V1BqaVJPQ2NMNUZ6NjFMc2I5UlItRnZQdVlrUlI0MWZzZ2Z3VHlmLTN5c2hWS0ZZOGRUVTJkYlJlQkU?oc=5",
+     "bron": "RTL.nl",
+     "tijd": "17:45",
+     "sorteer": "2026-10-17T15:45:59+00:00"
+    },
+    {
      "titel": "Marco Borsato voor de rechter om advocaatkosten: 'We verschillen van mening'",
      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdVdtMGVjNmplbDZvNTlvV3lKQ2xoY25ua0NBTTNXYlI2UlZhRjh6NU1id0lLRU90bTRMY0s4MVBIZF9pcG9FN2dQeF8zLVZTOHc5SGJYU0YwOUkyZnpzTWpzTHpDY3d1M2d2Z2RsR3drSFQ1aDNpelJBZXNRM3BhQWQtV1Z0VGlPMnc?oc=5",
      "bron": "RTL.nl",
@@ -183,18 +190,11 @@
      "sorteer": "2026-10-17T14:51:28+00:00"
     },
     {
-     "titel": "Straf voor Amsterdammer via supersnelrecht voor onrust Floradorp",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV3g3bERVeUxSZEpkRTlKb0lWamlfMlc3SzlqRGhXQktoaHhzT1UwalRBLWE0VFg2a0xfa0V3R3BfYmc0QjVkTThGWUNzY1VNTnFZbjVZRG5Ca3dKakpiS283QnEzbmpFNktpNTRKaGU4eTU1ZHlEeHJQdUhxWUpfRExKaldjTE5HLVJJaU40ZlQxU2JB?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "15:40",
-     "sorteer": "2026-10-17T13:40:57+00:00"
-    },
-    {
-     "titel": "Online bestellen bij Delhaize weer mogelijk, Albert Heijn bezorgt nog zeker tot en met dinsdag niet",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQendqVFFzcWtIOWprRDc5UU1TZjdQeHNIWlVTSnh4NUFzQkxJaHlJaXQwbXUwb0xOWUhtV2hCc0dNS25yZ0g1VkJ4dm5jNU5zODlTQ1lrNU41VmhCOHg1RzVpVHFQQURUNHdBdUZHak15TWE4WkF5RkVkUDVIUkk5OGt3RFZwNVczdUlkM0xjSno5V1NmV1FWX2JsbEIxZVY2akR3bkdsVThiUmVyZFVwM0lNY3FHOEh1cWVaNVljR2JjaTNHVnl5UlFDdURFclc1SXBxQzA4NFE1dGc?oc=5",
-     "bron": "de Volkskrant",
-     "tijd": "14:10",
-     "sorteer": "2026-10-17T12:10:29+00:00"
+     "titel": "Kinderslaapkamers ruiken nog steeds naar rotte eieren: bedrijf weet niet wanneer stank weg is",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdmN1WGtKSDl2TzZESzJiclBKWEFNaHRYem1pR09HTzZIMldkMXYza1BObmo2TDUwLUxVcGpOcGtrNVdhOTlwQTZEZ1UxTFlSdDU0dnRrU01BZlJwOXhPWGhaVW9Pbzh2Q0lNbUhORUtlcjlGNFd6Y0ZXQ0c2R05ReWR2ZTlfUFFZV1JVNDFYeVZBNkpPZkxHN2dUSFQ4Y2t0NVJJWFZOS0x1bEd1djZEM2ZKSTlRSVZIeTlJckRIRTdXRWFrSU9icDV6NElMdVk?oc=5",
+     "bron": "Tubantia",
+     "tijd": "17:31",
+     "sorteer": "2026-10-17T15:31:01+00:00"
     },
     {
      "titel": "Wedstrijdverslagen amateurvoetbal (derde divisie) en uitslagen bekerduels",
@@ -202,6 +202,16 @@
      "bron": "AD.nl",
      "tijd": "16:53",
      "sorteer": "2026-10-17T14:53:00+00:00"
+    },
+    {
+     "titel": "Nieuwsuur: Protesten in Frankrijk • CBL over incident bij Albert Heijn • Poolse buitenlandminister Sikorski",
+     "context": "Protesten in Frankrijk In verschillende Franse steden zijn protesten tegen de stijgende kosten van het levensonderhoud op rellen uitgelopen. De politie in Parijs heeft traangas en een waterkanon ingezet. Na weken van scholierenprotesten zijn vandaag verschillende groepen de straat op gegaan in Frankrijk, zoals de gelehesjesbeweging. We spreken erover in de studio met Niek Pas , Frankrijkdeskundige",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635378",
+     "bron": "NPO2 · 22:00",
+     "tijd": "22:00",
+     "sorteer": "2026-10-17T22:00:00",
+     "kop": "Vanavond op tv"
     }
    ]
   },
@@ -210,6 +220,15 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Frontlady Wies (15) rockt er met haar maatjes van Caliber Crash 'onwies' op los",
+     "context": "Voor Wies wordt het extra speciaal. Want in de kroeg waar haar ouders jarenlang de scepter zwaaiden, presenteert ze samen met haar muzikale maatjes hun eigen nummers. Wies rockt er die avond dus extra 'onwies' op los. Maar met mate, want met haar 15 lentes mag ze nog geen alcohol drinken.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/cultuur/3706336/frontlady-wies-15-rockt-er-met-haar-maatjes-van-caliber-crash-onwies-op-los",
+     "bron": "RTV Oost",
+     "tijd": "17:05",
+     "sorteer": "2026-10-17T15:05:08+00:00"
+    },
     {
      "titel": "Weet jij alles over het nieuws uit Overijssel? Speel de quiz!",
      "context": "Lege winkelschappen, een opvallend veilingitem en ongedierte in de binnenstad. Weet jij nog precies waarover dit ging? Test je kennis met de nieuwsquiz!",
@@ -220,13 +239,13 @@
      "sorteer": "2026-10-17T14:00:00+00:00"
     },
     {
-     "titel": "Wegwerkzaamheden hinderen brandweer in Hardenberg: scooters bieden uitkomst",
-     "context": "In Hardenberg rijden brandweerlieden op elektrische scooters naar de kazerne. Door wegwerkzaamheden kunnen de vrijwilligers er niet snel genoeg komen. De scooters moeten ervoor zorgen dat de brandweer toch op tijd kan uitrukken. Want bij de brandweer telt elke seconde.",
+     "titel": "Zijn petje belooft 'Happy Days', de rekening legt deze pinner bij anderen neer",
+     "context": "Twee opgelichte vrouwen zijn samen 1500 euro kwijtgeraakt aan een man met een nogal vrolijke tekst op zijn petje. Er staat \"Happy Days\" op. Een vrolijke dag was het ongetwijfeld voor hem, maar zeker niet voor zijn slachtoffers. De politie is op zoek naar de man.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706026/wegwerkzaamheden-hinderen-brandweer-in-hardenberg-scooters-bieden-uitkomst",
+     "link": "https://www.oost.nl/nieuws/3704683/zijn-petje-belooft-happy-days-de-rekening-legt-deze-pinner-bij-anderen-neer",
      "bron": "RTV Oost",
-     "tijd": "12:02",
-     "sorteer": "2026-10-17T10:02:05+00:00"
+     "tijd": "13:05",
+     "sorteer": "2026-10-17T11:05:59+00:00"
     },
     {
      "titel": "Straatpredikers on tour? Ook buiten Zwolle duiken geloofsovertuigers vaker op",
@@ -236,24 +255,6 @@
      "bron": "RTV Oost",
      "tijd": "11:32",
      "sorteer": "2026-10-17T09:32:25+00:00"
-    },
-    {
-     "titel": "In Beeld: Vrienden van Rossum Live 2026",
-     "context": "Wat een feestje! Bekende artiesten zetten Rossum compleet op z'n kop met een avond vol live muziek. Fotograaf Dominique was erbij en maakte een reportage.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3707516/in-beeld-vrienden-van-rossum-live-2026",
-     "bron": "RTV Oost",
-     "tijd": "10:48",
-     "sorteer": "2026-10-17T08:48:31+00:00"
-    },
-    {
-     "titel": "Trein Zwolle-Emmen kampt met structurele toiletproblemen",
-     "context": "De toiletten in de trein tussen Emmen en Zwolle zijn vaak dicht. Zo schrijft RTV Drenthe. Voor mensen die kampen met incontinentieklachten is dat een ramp.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3707437/trein-zwolle-emmen-kampt-met-structurele-toiletproblemen",
-     "bron": "RTV Oost",
-     "tijd": "09:02",
-     "sorteer": "2026-10-17T07:02:13+00:00"
     },
     {
      "titel": "Enschede en Hengelo verdelen 100 miljoen euro: deze wegen worden aangepakt",
@@ -267,6 +268,28 @@
      "sorteer": "2026-10-17T05:03:53+00:00"
     },
     {
+     "titel": "Vermoeden van vogelgriep in Kristalbad: houd honden aan de lijn",
+     "context": "In het Kristalbad tussen Hengelo en Enschede zijn de afgelopen twee weken acht vogels aangetroffen die mogelijk vogelgriep hebben. Het gaat vooral om eenden. Waterschap Vechstromen waarschuwt wandelaars om hun honden aan de lijn te houden en zieke of dode vogels vooral niet aan te raken.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3707396/vermoeden-van-vogelgriep-in-kristalbad-houd-honden-aan-de-lijn",
+     "bron": "RTV Oost",
+     "tijd": "05:07",
+     "sorteer": "2026-10-17T03:07:27+00:00"
+    },
+    {
+     "titel": "Er is een nieuw overlijdensbericht",
+     "context": "DALFSEN – Er staat een nieuw overlijdensbericht op DalfsenNet.nl. Mogelijk gaat dit bericht over een goede bekende van u. Klik hier om het bericht te kunnen lezen.",
+     "rubrieken": [
+      "Dalfsen",
+      "Ingezonden bericht",
+      "Laatste nieuws"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/554734/er-is-een-nieuw-overlijdensbericht-104.html",
+     "bron": "DalfsenNet",
+     "tijd": "17:20",
+     "sorteer": "2026-10-17T15:20:13+00:00"
+    },
+    {
      "titel": "De kraanvogels komen er aan",
      "context": "REGIO – Vanaf zondag ligt de migratieroute voor kraanvogels vanuit Noord-Duitsland naar het zuiden helemaal open. Een draaiende wind en lagere temperaturen zorgen vanaf dit weekend voor ideale omstandigheden voor kraanvogels om in beweging te komen. En dat op het moment dat hun aantallen in onze regio flink zijn toegenomen. Dat kan dus een mooie […]",
      "rubrieken": [
@@ -278,19 +301,6 @@
      "bron": "DalfsenNet",
      "tijd": "13:13",
      "sorteer": "2026-10-17T11:13:01+00:00"
-    },
-    {
-     "titel": "De rode eekhoorn: een razendsnelle bosbewoner",
-     "context": "NIEUWLEUSEN – STEENWIJK – Een eekhoorn laat zich tijdens een wandeling door het bos niet altijd zien. Bij een boshut aan de bosrand in Steenwijk kreeg Femmie Smink de kans om deze vlugge dieren te fotograferen. Met hun roodoranje tot kastanjebruine vacht, witte buik en prachtige pluimstaart zijn rode eekhoorns een opvallende verschijning. Hun staart […]",
-     "rubrieken": [
-      "Ingezonden bericht",
-      "Laatste nieuws",
-      "Regio"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/554720/de-rode-eekhoorn-een-razendsnelle-bosbewoner.html",
-     "bron": "DalfsenNet",
-     "tijd": "12:38",
-     "sorteer": "2026-10-17T10:38:59+00:00"
     }
    ]
   },
@@ -360,13 +370,6 @@
      "bron": "AD.nl",
      "tijd": "15:10",
      "sorteer": "2026-10-17T13:10:21+00:00"
-    },
-    {
-     "titel": "Laat AI niet meeschrijven aan uw bijdragen voor de opiniepagina",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0lYU0UtTVBxZHhBa1VGczY3ckF1NHZtWEFPOExFanlOYjd2dkVYSGllWERfbURfWkZpa1Zjc2ZnSm90S3Yxc1dyR0pjZXgxbFU4YTNMQVBnb1Zsbkc2UXNsZ0ZsTnBhLWZYMnJrOGRlVXNib3E0dmpPc2RPYlFDNFRnLU5qRUtISjhBQ1N6TkUyekkwRm9hNlc2VUFZMjVqNjFHb1p3?oc=5",
-     "bron": "Leeuwarder Courant",
-     "tijd": "12:30",
-     "sorteer": "2026-10-17T10:30:00+00:00"
     },
     {
      "titel": "Politico: Anthropic doet eigen voorstel voor AI-veiligheidswet",
@@ -493,18 +496,18 @@
      "sorteer": "2026-10-17T08:00:00+00:00"
     },
     {
+     "titel": "Niet al je vet is slecht: deze soort gaat samen met een gezonder hart en hoofd",
+     "toelichting": "Mensen met actief bruin vet krijgen minder vaak diabetes en hartproblemen, en ook minder vaak een depressie of angststoornis. Dat komt naar voren uit het grootste onderzoek ooit naar dit ‘goede’ vet, bij meer dan 100.000",
+     "bron": "Scientias",
+     "tijd": "17:00",
+     "link": "https://scientias.nl/niet-al-je-vet-is-slecht-deze-soort-gaat-samen-met-een-gezonder-hart-en-hoofd/"
+    },
+    {
      "titel": "Stuk minder bijen op Fiji: Europese kolonisatie speelt mogelijk mee",
      "toelichting": "De Britse kolonisatie van Fiji heeft wellicht geleid tot nadelige gevolgen voor de bijenpopulatie op het eiland. Er werd onderzoek gedaan naar de factoren die meegespeeld kunnen hebben bij het afnemen van het bijenaantal",
      "bron": "Scientias",
      "tijd": "13:00",
      "link": "https://scientias.nl/stuk-minder-bijen-op-fiji-europese-kolonisatie-speelt-mogelijk-mee/"
-    },
-    {
-     "titel": "De zee rukt op rond koraaleilanden, maar waar zeevogels broeden groeit het rif mee",
-     "toelichting": "Ratten die eieren roven en kokospalmen die het oorspronkelijke bos verdringen: op veel lage koraaleilanden in de tropen is de natuur flink uit balans. Herstel levert meer op dan alleen extra vogels. Waar zeevogels ongest",
-     "bron": "Scientias",
-     "tijd": "20:00",
-     "link": "https://scientias.nl/de-zee-rukt-op-rond-koraaleilanden-maar-waar-zeevogels-broeden-groeit-het-rif-mee/"
     },
     {
      "titel": "Indonesian women cash in on mangrove restoration: Interview with community leader Wisye Sahambangung",
@@ -604,35 +607,35 @@
      "tellers": ""
     },
     {
-     "titel": "Landelijk vandaag: 190 soorten, 170.885 vogels geteld",
+     "titel": "Landelijk vandaag: 192 soorten, 172.355 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch"
     },
     {
-     "titel": "Spreeuw — 58.393",
+     "titel": "Spreeuw — 58.515",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch"
     },
     {
-     "titel": "Kolgans — 37.401",
+     "titel": "Kolgans — 37.675",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch"
     },
     {
-     "titel": "Vink — 13.021",
+     "titel": "Vink — 13.048",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch"
     },
     {
-     "titel": "Rotgans — 6.412",
+     "titel": "Rotgans — 6.515",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -647,15 +650,15 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Dwergmeeuw springt eruit — 5.138, normaal 20",
-     "bron": "257× het gewone niveau",
+     "titel": "Dwergmeeuw springt eruit — 5.159, normaal 20",
+     "bron": "258× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Rotgans springt eruit — 6.412, normaal 292",
+     "titel": "Rotgans springt eruit — 6.515, normaal 292",
      "bron": "22× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch",
@@ -679,7 +682,7 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Trek komt op gang — vandaag 71 meldingen, samen 5.900 vogels",
+     "titel": "Trek komt op gang — vandaag 85 meldingen, samen 7.679 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -687,15 +690,15 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "10 binnen 75 km van Dalfsen",
-     "bron": "dichtstbij: Wierdense Veld - N2000, 23 km",
-     "tijd": "08:42",
+     "titel": "12 binnen 75 km van Dalfsen",
+     "bron": "dichtstbij: Witharen - Ommerveld, 12 km",
+     "tijd": "16:41",
      "link": "https://waarneming.nl/species/19/observations/"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "48 meldingen vertrek uit het noorden",
-     "bron": "DE 46, SE 1, PL 1",
+     "titel": "56 meldingen vertrek uit het noorden",
+     "bron": "DE 54, SE 1, PL 1",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -720,19 +723,19 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 12.2,
-    "gevoel": 12.2,
-    "wind": "NW 1",
+    "nu": 11.3,
+    "gevoel": 11.3,
+    "wind": "NNW 2",
     "station": "Heino",
-    "bericht": "Het weekend verloopt wisselvallig en aan de temperatuur zal het best even wennen zijn. Morgen wordt het bijvoorbeeld nog maar 12 graden. Maandag en dinsdag volgt tijdelijk een weersverbetering met meer zon en blijft het vrijwel overal droog.Vanmiddag vooral in de kustprovincies de meeste buien, verder landinwaarts veel ruimte voor de zon met stapelwolken die later ook kunnen uitgroeien tot een enkele bui.",
-    "vandaag": "Vanmiddag vooral in de kustprovincies de meeste buien, verder landinwaarts veel ruimte voor de zon met stapelwolken die later ook kunnen uitgroeien tot een enkele bui. Vanavond is het noorden nog gevoelig voor enkele buien en meer bewolking, met name in de zuidelijke helft klaart het breed op.",
-    "temperatuur": "Morgen wordt het bijvoorbeeld nog maar 12 graden.",
+    "bericht": "In het westen en noorden valt vanavond en vannacht regen, verder naar het zuiden is het zo goed als droog en het koelt af tot lokaal 4 graden. Zondag veel bewolking en vooral in het noorden en westen regen. Het is fris met hooguit 12 graden.",
+    "vandaag": "In het westen en noorden valt vanavond en vannacht regen, verder naar het zuiden is het zo goed als droog en het koelt af tot lokaal 4 graden. Vanavond is het noorden nog gevoelig voor enkele buien en meer bewolking, met name in de zuidelijke helft klaart het breed op.",
+    "temperatuur": "Het is aan de frisse kant, met een middagtemperatuur die niet hoger uitkomt dan ongeveer 12 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: lichte motregen, 8 tot 13 graden, 78% kans op neerslag, ruim 7 uur zon, wind uit het noordwesten, kracht 3.",
-     "max": 13,
-     "min": 8,
+     "zin": "Voor Dalfsen zelf: lichte regen, 7 tot 14 graden, 78% kans op neerslag, ruim 6 uur zon, wind uit het noordwesten, kracht 4.",
+     "max": 14,
+     "min": 7,
      "regenkans": 78,
-     "omschrijving": "lichte motregen"
+     "omschrijving": "lichte regen"
     },
     "vooruit": "Maandag en dinsdag droog en vooral op dinsdag veel zon. Vanaf woensdag af en toe regen en soms mogelijk ook meer wind. De maximumtemperaturen liggen rond 14⁰C.",
     "omslag": "Vanaf woensdag regen: de kans loopt op van 10% naar 70%.",
