@@ -1,22 +1,60 @@
 {
- "datum": "2026-10-17",
- "naam": "Avondbriefing",
+ "datum": "2026-10-18",
+ "naam": "Ochtendbriefing",
  "status": {
-  "ronde": "Avondbriefing",
-  "opgehaald": "23:00",
-  "blokken": 10,
-  "berichten": 77,
-  "problemen": [],
-  "audio_herkomst": "vangnet"
+  "ronde": "Ochtendbriefing",
+  "opgehaald": "05:55",
+  "blokken": 11,
+  "berichten": 74,
+  "problemen": [
+   "geen toegang tot /Users/thuismap/Library/Mobile Documents/com~apple~CloudDocs/Ochtendbriefing — overgeslagen"
+  ],
+  "audio_herkomst": null
  },
- "opgehaald": "2026-10-17T23:00+02:00",
- "audio": "audio/20261017.mp3",
+ "opgehaald": "2026-10-18T05:55+02:00",
+ "audio": null,
  "blokken": [
   {
    "id": "internationaal",
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Auto rijdt in op voetbalwedstijd in Kansas: 2 doden en 11 gewonden",
+     "context": "In de Amerikaanse staat Kansas is een auto ingereden op een groep mensen tijdens een voetbalwedstrijd. Daarbij vielen twee doden: een jongen van 6 en een man van 35. Elf anderen raakten gewond. Het incident gebeurde op een sportcomplex in de stad Wichita. Op dat moment waren er veel mensen aanwezig, die het ook hebben zien gebeuren. De bestuurder van de auto is een vrouw van 34. Ze reed in een zwa",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635422",
+     "bron": "NOS",
+     "tijd": "04:10",
+     "sorteer": "2026-10-18T04:10:42+02:00"
+    },
+    {
+     "titel": "Zeker negentien mensen verdrukt bij festival in Indiase stad Kolkata",
+     "context": "Bij een festival in de Indiase stad Kolkata zijn zeker negentien mensen omgekomen nadat er paniek uitbrak in de menigte. Ook raakten 25 mensen gewond. Volgens lokale media ontstond er paniek bij de uitgang nadat er volgens de premier van de deelstaat West-Bengalen een misleidende mededeling werd gegeven. Onder de slachtoffers zijn voornamelijk vrouwen en kinderen. Mogelijk stonden de mensen op dat",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635421",
+     "bron": "NOS",
+     "tijd": "02:03",
+     "sorteer": "2026-10-18T02:03:33+02:00"
+    },
+    {
+     "titel": "Stadhuis Limoges in brand gestoken bij Franse protesten, toren ingestort",
+     "context": "Bij de grootschalige protesten in Frankrijk is de toren van het stadhuis in Limoges ingestort. Het gebouw werd eerder op de dag in brand gestoken door relschoppers. Net als in veel andere Franse steden waren er in Limoges veel mensen op de been en was het onrustig. Volgens Franse media lukte het meerdere gemaskerde personen om het stadhuis binnen te dringen door een ruit in te slaan. Daarna is het",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635418",
+     "bron": "NOS",
+     "tijd": "00:04",
+     "sorteer": "2026-10-18T00:04:56+02:00"
+    },
+    {
+     "titel": "Israëlische kolonisten vallen Europese diplomaten aan op Westelijke Jordaanoever",
+     "context": "Israëlische kolonisten hebben Palestijnen en Europese diplomaten aangevallen op de Westelijke Jordaanoever, die Israël bezet houdt. Dat melden Europese landen. De aanvallen volgen op geweld van een dag eerder , waarbij Palestijnen werden aangevallen tijdens hun jaarlijkse olijfoogst. Onder meer een Belgische vertegenwoordiger in de Palestijnse Gebieden is aangevallen, zegt de Belgische minister va",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635408",
+     "bron": "NOS",
+     "tijd": "23:01",
+     "sorteer": "2026-10-17T23:01:51+02:00"
+    },
     {
      "titel": "VS wil 'war on drugs' uitbreiden naar vasteland Latijns-Amerika",
      "context": "De Verenigde Staten mengen zich steeds meer in de anti-drugsoorlog in een aantal Latijns-Amerikaanse landen. Het begon in 2025 met aanvallen op vermeende drugsbootjes op zee. Nu verplaatst de strijd tegen drugs zich naar het vasteland in Latijns-Amerika. Er worden deze dagen honderden militairen gestuurd, in eerste instantie naar Panama, Colombia en Honduras. De Amerikanen houden gezamenlijke oefe",
@@ -27,40 +65,13 @@
      "sorteer": "2026-10-17T20:30:14+02:00"
     },
     {
-     "titel": "Franse regering zegt zich niet te laten intimideren door geweld op protestdag",
-     "context": "De Franse premier Lecornu zegt dat zijn regering \"zich niet laat intimideren\" door het geweld bij de betogingen van vandaag. \"Niemand zal zijn politieke agenda met geweld opleggen\", schrijft de premier op X. President Macron zegt dat er geen plaats is voor geweld in Frankrijk en dat degenen die zich hebben misdragen zullen worden vervolgd en gestraft. Volgens premier Lecornu zijn vreedzame demonst",
+     "titel": "Vreedzame protestmars van tienduizenden Franse demonstranten overschaduwd door geweld van relschoppers",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2635391",
-     "bron": "NOS",
-     "tijd": "20:27",
-     "sorteer": "2026-10-17T20:27:08+02:00"
-    },
-    {
-     "titel": "Onrust Albanië houdt aan: betogers vijf dagen op rij slaags met de politie",
-     "context": "Niet alleen in Frankrijk en België is het vandaag onrustig door protesten, ook in Albanië zijn duizenden mensen de straat op gegaan vanwege ontevredenheid over hun regering. Voor de vijfde dag op rij demonstreren Albaniërs, onder leiding van studenten, in de hoofdstad Tirana om premier Rama tot aftreden te dwingen. Het protest van vandaag begon rustig, maar liep volgens persbureau Reuters uit de h",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635379",
-     "bron": "NOS",
-     "tijd": "17:59",
-     "sorteer": "2026-10-17T17:59:38+02:00"
-    },
-    {
-     "titel": "Paus Leo XIV ontslagen uit het ziekenhuis, kan zijn taken volledig hervatten",
-     "context": "Paus Leo heeft het ziekenhuis in Rome verlaten, vier dagen na zijn operatie aan longkanker. De 71-jarige paus liep vanmiddag zonder hulp naar de auto die op hem stond te wachten en stopte even om te praten met mensen die hem buiten het Gemelli-ziekenhuis een hart onder de riem wilden te steken. De paus werd vandaag door zijn artsen ontslagen uit het ziekenhuis . Zij hadden al aangegeven dat hij vo",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635375",
-     "bron": "NOS",
-     "tijd": "17:35",
-     "sorteer": "2026-10-17T17:35:03+02:00"
-    },
-    {
-     "titel": "Trumps schoonzoon Kushner onderhandelt over vrede, maar verdient aan oorlog",
-     "context": "Jared Kushner, de schoonzoon van de Amerikaanse president Donald Trump, is betrokken bij onderhandelingen over vrede in Oekraïne, Gaza en Iran. En dat terwijl hij óók zakelijke belangen heeft in die gebieden. Recent speelde hij een sleutelrol bij de omstreden deal die Trump sloot met de Russische president Poetin over de aankoop van Russische diesel. Onderhandelt Kushner voor vrede of voor zijn ei",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635363",
-     "bron": "NOS",
-     "tijd": "16:18",
-     "sorteer": "2026-10-17T16:18:05+02:00"
+     "link": "https://www.volkskrant.nl/buitenland/vreedzame-protestmars-van-tienduizenden-franse-demonstranten-overschaduwd-door-geweld-van-relschoppers~b0aaa6b5/",
+     "bron": "de Volkskrant",
+     "tijd": "01:42",
+     "sorteer": "2026-10-17T23:42:00+00:00"
     },
     {
      "titel": "Ambassadeur VS roept Israël op tot vervolging kolonisten om geweld, ook Europese diplomaten aangevallen",
@@ -72,36 +83,13 @@
      "sorteer": "2026-10-17T20:50:00+00:00"
     },
     {
-     "titel": "Trouwe Trump-vriend en gezant Paolo Zampolli permitteerde zich net iets te veel politieke vrijheden",
+     "titel": "1.200 arrestaties en 150 politieagenten gewond na onderwijsprotesten in Frankrijk",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/trouwe-trump-vriend-en-gezant-paolo-zampolli-permitteerde-zich-net-iets-te-veel-politieke-vrijheden~b159e5b5/",
-     "bron": "de Volkskrant",
-     "tijd": "16:07",
-     "sorteer": "2026-10-17T14:07:40+00:00"
-    },
-    {
-     "titel": "Stadhuis Limoges tijdens onderwijsprotesten in brand gestoken, Franse politie arresteert 400 mensen",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/stadhuis-limoges-tijdens-onderwijsprotesten-in-brand-gestoken-franse-politie-arresteert-400-mensen~ba1e266d/",
+     "link": "https://www.trouw.nl/buitenland/1-200-arrestaties-en-150-politieagenten-gewond-na-onderwijsprotesten-in-frankrijk~ba1e266d/",
      "bron": "Trouw",
-     "tijd": "21:49",
-     "sorteer": "2026-10-17T19:49:00+00:00"
-    },
-    {
-     "titel": "Assita Kanko: waarom blijven we polariserend protest van radicale actiegroepen toch pikken?",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc0QyTFp1NEZrZ3NUM0VWMHVzUE1sREVKTDM5OWxzbEp0cFNVT2pjU2xxVGlZdHBBUjY4RjNoX1BPUGY2UHJpeDY5SDFUM25wUHU0Q2lmRDU4S2dhbmZvbnoxeEdPSnpINTdLdDF4UXVtVlRKaGxORmJDaVd5SzJxSENqeHhDbzJZRi1DRmhTR0V2V3hlVWJvakJDUHNqd3UyWVl4YUFHU2V5UFRybzRnTFFWckc1Y05LY2FUZzhPWDFxVXAzODZBMGJWSG5VeHQ1Ymc?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "21:33",
-     "sorteer": "2026-10-17T19:33:10+00:00"
-    },
-    {
-     "titel": "Republikeinen in de VS draaien over abortus nu kiezers andere prioriteiten stellen",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUzlfdTFIb19RanNPRV8yU1FZNWZTN0xRY2pyTWd0UTFDbjNCcHB6RGJVbUhOX0VHSHUzckpGSmp0WXVUeGR2SzNhUnlKWl9BMk9pNEV1aXVMQm9tZUZBMWNBczFCRHpBZnpzbjA5TjRDWDBUY1paVmFNR0wxUHExZzVCMnhFUWlIODNDZUQyMHNicm5OZERhMEpIYmRYclZnZEFWOA?oc=5",
-     "bron": "Nederlands Dagblad",
-     "tijd": "21:00",
-     "sorteer": "2026-10-17T19:00:00+00:00"
+     "tijd": "00:11",
+     "sorteer": "2026-10-17T22:11:00+00:00"
     }
    ]
   },
@@ -110,6 +98,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Elf mensen onwel na rondleiding in Grolsch-fabriek Enschede",
+     "context": "Na een rondleiding in de Grolsch-fabriek in Enschede zijn elf mensen onwel geworden. Zij zijn ter controle overgebracht naar het ziekenhuis. Volgens RTV Oost hadden de personen bronwater geproefd dat wordt gebruikt om bier te brouwen. Mogelijk zat daar de bijtende stof natronloog in. De slachtoffers hebben mogelijk inwendige brandwonden opgelopen in hun maag, slokdarm en keel. Meerdere ambulances ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635420",
+     "bron": "NOS",
+     "tijd": "01:16",
+     "sorteer": "2026-10-18T01:16:08+02:00"
+    },
     {
      "titel": "Politie houdt verdachte aan voor explosie bij kapperszaak in Vlaardingen",
      "context": "De politie heeft een 27-jarige man uit Vlaardingen aangehouden op verdenking van betrokkenheid bij een explosie bij een kapperszaak. Ook deze week was het onrustig in Vlaardingen, maar de aangehouden man wordt verdacht van betrokkenheid bij een aanslag van ruim twee maanden geleden. Op 6 augustus raakten de ruiten van een kapperszaak in het centrum van de stad langs de Rotterdamse haven zwaar besc",
@@ -147,15 +144,6 @@
      "sorteer": "2026-10-17T07:00:01+02:00"
     },
     {
-     "titel": "Wekdienst 17/10: Grote protesten door heel Frankrijk • Dutch Design Week van start",
-     "context": "Goedemorgen! In heel Frankrijk wordt vandaag gedemonstreerd door scholieren, boeren, taxichauffeurs en de 'gele hesjes'. En in Eindhoven gaat de Dutch Design Week van start. Eerst het weer: vandaag schijnt geregeld de zon, maar komen verspreid ook een paar buien voor. Het wordt bij een matige tot vrij krachtige wind zo'n 14 graden. Ga je vandaag op pad? Hier vind je het overzicht van de files en w",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635303",
-     "bron": "NOS",
-     "tijd": "06:25",
-     "sorteer": "2026-10-17T06:25:04+02:00"
-    },
-    {
      "titel": "Verbouwing Binnenhof weer duurder, nu door hogere rentekosten: ‘Zo gaan we de 3 miljard euro wel aantikken’",
      "context": "",
      "rubrieken": [],
@@ -163,15 +151,6 @@
      "bron": "de Volkskrant",
      "tijd": "15:12",
      "sorteer": "2026-10-17T13:12:00+00:00"
-    },
-    {
-     "titel": "Toen duizenden boze tieners in 1999 een slagveld maakten van de Haagse binnenstad",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/toen-duizenden-boze-tieners-in-1999-een-slagveld-maakten-van-de-haagse-binnenstad~bbb9a0fa/",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-10-17T03:00:19+00:00"
     },
     {
      "titel": "Zijn moeder heeft een kroeg. Toch pleit ggz-behandelaar Caspar Lehnen voor een alcoholvrije leefstijl",
@@ -183,18 +162,13 @@
      "sorteer": "2026-10-17T16:03:00+00:00"
     },
     {
-     "titel": "Melding overval bij tankstation in Arnhem",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbHVlMWNEbFpob2RFWDZZNlV4d3VsTWpDckFLYUltbFdOaEpuVlFsLWthM2RnaDRmNWtXYmx5NW8zUlN4U2xrd21sWVhlek80V2xVV1lFWUUwY0NEeWdObi1wc1pqdHZjVEFUcHE3ZVpjT0FaeXhlZjBvMzlDSFJpbGdyeTVWN2NDT3Q3aG1KMk5raTIwSXlpZGJLRl9Bdw?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "21:42",
-     "sorteer": "2026-10-17T19:42:17+00:00"
-    },
-    {
-     "titel": "Houd Kamer buiten benoeming vicepresident Raad van State",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNVIwMUVsU1NWSkRJdkxwM0FhTUJnbDVNNjNZUmU5ZS1tLTRDbW1rcElfOVQ0YlVsY3hKRVhuOW5nRi1EVHByYVdXU0RSS2ZhNEl0a2VBNTA2cUJGMlNnWHFoaFdydzllTDFwZnBLTzVGQUJPOVVwWTQ2anpQMnF2WEN5LTVmRGM5a3c?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "20:45",
-     "sorteer": "2026-10-17T18:45:37+00:00"
+     "titel": "Den Haag blijft ‘koorddansen’ tegenover Trumps grillen",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.trouw.nl/binnenland/den-haag-blijft-koorddansen-tegenover-trumps-grillen~b352f37d/",
+     "bron": "Trouw",
+     "tijd": "15:59",
+     "sorteer": "2026-10-17T13:59:00+00:00"
     },
     {
      "titel": "Twaalf aanhoudingen voor poging havenspoor onklaar te maken",
@@ -204,11 +178,25 @@
      "sorteer": "2026-10-17T18:59:13+00:00"
     },
     {
+     "titel": "Houd Kamer buiten benoeming vicepresident Raad van State",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNVIwMUVsU1NWSkRJdkxwM0FhTUJnbDVNNjNZUmU5ZS1tLTRDbW1rcElfOVQ0YlVsY3hKRVhuOW5nRi1EVHByYVdXU0RSS2ZhNEl0a2VBNTA2cUJGMlNnWHFoaFdydzllTDFwZnBLTzVGQUJPOVVwWTQ2anpQMnF2WEN5LTVmRGM5a3c?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "20:45",
+     "sorteer": "2026-10-17T18:45:37+00:00"
+    },
+    {
      "titel": "Politie gebruikt geweld bij Franse en Belgische protesten",
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeG85RU82N01IZW9MUUR3dEplRWd4OEdNVHNzNTdXa3J6a003ZmVqbGxzMURGajNSVmhyeVMtOGpXeXdGVnYzVVVXalZ1ZUQ2TldONTY0UWl2U0E3dkVzMDJQbWdtcGpFVEZSWFl1SkFpVlhGQlYwV2pURGphV3hCTHllblJndS10WjVz?oc=5",
      "bron": "Reformatorisch Dagblad",
      "tijd": "20:31",
      "sorteer": "2026-10-17T18:31:36+00:00"
+    },
+    {
+     "titel": "Amateurisme slaat toe in Tweede Kamer: ervaring verdwijnt in hoog tempo",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX20wQ2ZKaG8yV1FnNWxSX3dUVkFFLUt1ZUdINmxEeV9MZDJPZ0JqOVRYX2xsQm81V1hRbnNIQmtJdmkxVmJCejF1YjdYWkIxRUpvYVhzZk5rZXpwa2J3SFJxdFRET2RtNmZaTldBVExvUFZHQlNJWEhEWkpzMGNNa1pTZF9UWmcyZmJGb2VWM0RTanJKM0QxaUx6S0JQYXlxX1VkMGdzUUYzbzFOci1ZYzZNWFJYeGN0ODdR?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "20:30",
+     "sorteer": "2026-10-17T18:30:00+00:00"
     },
     {
      "titel": "Nieuwsuur: Protesten in Frankrijk • CBL over incident bij Albert Heijn • Poolse buitenlandminister Sikorski",
@@ -217,8 +205,16 @@
      "link": "https://nos.nl/l/2635378",
      "bron": "NPO2 · 22:00",
      "tijd": "22:00",
-     "sorteer": "2026-10-17T22:00:00",
+     "sorteer": "2026-10-18T22:00:00",
      "kop": "Vanavond op tv"
+    },
+    {
+     "titel": "Pauw & De Wit",
+     "link": "https://npo.nl/start/serie/pauw-de-wit",
+     "kop": "Vanavond op tv",
+     "bron": "NPO1 · 22:10",
+     "tijd": "22:10",
+     "sorteer": "2026-10-18T22:10:00"
     }
    ]
   },
@@ -228,6 +224,17 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Bezoekers en rondleiders raken onwel na drinken van Grolsch bronwater",
+     "context": "Negen bezoekers en twee rondleiders zijn vanavond naar het ziekenhuis gebracht na een rondleiding in de Grolsch-fabriek. Ze hadden bronwater geproefd dat wordt gebruikt om bier te brouwen. Mogelijk was het water vervuild met de bijtende stof natronloog.",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3707615/bezoekers-en-rondleiders-raken-onwel-na-drinken-van-grolsch-bronwater",
+     "bron": "RTV Oost",
+     "tijd": "20:11",
+     "sorteer": "2026-10-17T18:11:48+00:00"
+    },
+    {
      "titel": "Bijdehante jongen daagt politie uit na vechtpartij in Zwolle: 'Opgesodemieterd!'",
      "context": "Na een vechtpartij in het centrum van Zwolle krijgen een paar jongens een waarschuwing van wijkagenten Willeke en Meindert. Daarmee is de situatie niet voorbij. Eén van de jongens probeert een café binnen te gaan, heeft vervolgens een grote mond open en werkt niet mee. Willeke is er klaar mee.",
      "rubrieken": [],
@@ -235,17 +242,6 @@
      "bron": "RTV Oost",
      "tijd": "19:02",
      "sorteer": "2026-10-17T17:02:00+00:00"
-    },
-    {
-     "titel": "Meerdere personen naar ziekenhuis na incident met gevaarlijke stof in Grolsch-fabriek",
-     "context": "Bij een incident in de Grolsch-fabriek zijn meerdere personen in aanraking gekomen met een gevaarlijke stof. Zij zijn naar het ziekenhuis gebracht.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3707598/meerdere-personen-naar-ziekenhuis-na-incident-met-gevaarlijke-stof-in-grolsch-fabriek",
-     "bron": "RTV Oost",
-     "tijd": "18:40",
-     "sorteer": "2026-10-17T16:40:20+00:00"
     },
     {
      "titel": "Traumahelikopter opgeroepen na aanrijding met fietser in IJsselmuiden",
@@ -275,13 +271,13 @@
      "sorteer": "2026-10-17T14:37:07+00:00"
     },
     {
-     "titel": "Weet jij alles over het nieuws uit Overijssel? Speel de quiz!",
-     "context": "Lege winkelschappen, een opvallend veilingitem en ongedierte in de binnenstad. Weet jij nog precies waarover dit ging? Test je kennis met de nieuwsquiz!",
+     "titel": "Boekelo bereidt zich voor op noodsituatie: 'Goed om als gemeenschap plan te hebben'",
+     "context": "Hoe bereid je je voor op een noodsituatie? Die vraag stond centraal op de markt in Boekelo. RTV Oost deelde noodradio's uit en dorpsbewoners dachten samen met burgemeester Roelof Bleker na hoe ze elkaar kunnen helpen als de overheid niet direct hulp kan bieden.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3707256/weet-jij-alles-over-het-nieuws-uit-overijssel-speel-de-quiz",
+     "link": "https://www.oost.nl/nieuws/3707316/boekelo-bereidt-zich-voor-op-noodsituatie-goed-om-als-gemeenschap-plan-te-hebben",
      "bron": "RTV Oost",
-     "tijd": "16:00",
-     "sorteer": "2026-10-17T14:00:00+00:00"
+     "tijd": "14:26",
+     "sorteer": "2026-10-17T12:26:16+00:00"
     },
     {
      "titel": "Dat wordt flink poetsen",
@@ -356,39 +352,18 @@
    "emoji": "🤖",
    "items": [
     {
+     "titel": "AI neemt steeds meer werk over in de fabriek: ’Dit is een enorme verandering’",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOemlnMFFfbUttSGJ2ZVBsUURsa3JhX29zM1RfT3lQZzNpU1AzdTJmNGFnNkdiUjN3VXlQaHFHN0pIRVRjR2g3Tlc3Y1BFV3p0a3BnY1lzRThfMUhpWDFrMDUtREZhWkk0WEswOGxTajNpLWg1eEFzSHpXa19OMlI0X0c3N1A5ajV5b0cwS3NuazNOc1diN3N5eGdxMElBZjBzTHJUSmo3dlF5TWVaRmpHdTZ1ZG1lTHlKeU9SS0lkVjZmd3c?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "23:20",
+     "sorteer": "2026-10-17T21:20:00+00:00"
+    },
+    {
      "titel": "Bas Haring spreekt in Bodegraven over kunstmatige intelligentie",
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ0JlanZkd044WHQwbHpTRGlrVUtDcHIzNWpjREVhMDlxRmxmcUNuQXJDcEUwU0tSLUFiem9wV1FQVk5NX2l2aXZyaWNpdVZCY3M1LVVWTENqcG9FWkhnb2VRR1F1U2NaQUl5WENRdS1aR2M0aVlkek9nRnFDb0VSdVN3UUc0V2xxZnBiRklQWHpzM1pRNS1MUHR6T1ZnU2x6R1FwZVJuLXd4SmI3S0V1Vg?oc=5",
      "bron": "AD.nl",
      "tijd": "20:00",
      "sorteer": "2026-10-17T18:00:00+00:00"
-    },
-    {
-     "titel": "AI neemt steeds meer werk over in de fabriek: ’Dit is een enorme verandering’",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOemlnMFFfbUttSGJ2ZVBsUURsa3JhX29zM1RfT3lQZzNpU1AzdTJmNGFnNkdiUjN3VXlQaHFHN0pIRVRjR2g3Tlc3Y1BFV3p0a3BnY1lzRThfMUhpWDFrMDUtREZhWkk0WEswOGxTajNpLWg1eEFzSHpXa19OMlI0X0c3N1A5ajV5b0cwS3NuazNOc1diN3N5eGdxMElBZjBzTHJUSmo3dlF5TWVaRmpHdTZ1ZG1lTHlKeU9SS0lkVjZmd3c?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "16:20",
-     "sorteer": "2026-10-17T14:20:00+00:00"
-    },
-    {
-     "titel": "AI vervangt Erans cabaretpartner: ‘Leven we in een wereld waarin je iemand zelf kunt creëren?’",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWVl3ZWFrbEg2eURXeDRuUWpqTVVCUk9hejhhWDJtdEtSNnkxRDkxQjZ2VU1mY1BxR2FtMnR3RnNkdl9ZT3pwNkIyVUt0NWY0bWpocUJjdl9wRllsTVJQSjJaeDhiNXpDTmFnajRqWE1RcWlORGlNc3hCRWE5YXZPdXZESzA0X3BmVmRjcUdlWW51dlJOV1VYLU5KOHF1aTd3OWpMOVJ5VG91TExQN21GbGxGNm5aME11UXcwN0hIUTlZbk9aQ2c?oc=5",
-     "bron": "AD.nl",
-     "tijd": "15:30",
-     "sorteer": "2026-10-17T13:30:00+00:00"
-    },
-    {
-     "titel": "Politico: Anthropic doet eigen voorstel voor AI-veiligheidswet",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTG1vTmh4ZWdrRjBqbVk5WmRSYnBFbkt3VUt4blVVTmpVY0FSLXV6MnhvVnV6V0Qxc2JxdDllX244RWkxZzdud3RDeWY2bjdiX3JiU2FmLVEtMWJBN2lJSDdvTTcyb0dreUZPa2VncjdDT0poRzc4MHNLWngySG9FWEY5Y2VCQmZ1dzVQNmNyc24?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "16:39",
-     "sorteer": "2026-10-17T14:39:05+00:00"
-    },
-    {
-     "titel": "Websites blokkeren AI-agents van AI-bedrijven",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZXZMdXR4X3h1NW1RY1BKNTBaOUJyRnhmelkwNmtRR3U2S3FPUkpFY3VXR3NTeEhhUlVrRjI3MzBjRDlvcEZaWng3QWZFVV9RdG1QMjVWQzdLcWh1NjdFa2VmZENnUXlCMUtPSkhjRnJhemYzeTl6a3ctcGszUl81WC11WnpuMnVvdHRaN3V5dkU?oc=5",
-     "bron": "Bright",
-     "tijd": "16:16",
-     "sorteer": "2026-10-17T14:16:00+00:00"
     }
    ]
   },
@@ -464,6 +439,22 @@
    ]
   },
   {
+   "id": "podcasts",
+   "titel": "Podcasts",
+   "emoji": "🎧",
+   "items": [
+    {
+     "titel": "AI Is Now the Business Standard. Are You Falling Behind? - DIETMARs OPINION",
+     "context": "🤖 AI has moved beyond technical teams and innovation labs. At Berlin’s BIG BANG KI Festival, Dietmar Fischer found packed stages, long queues, and business professionals searching for practical ways to implement artificial intelligence. In this solo episode of Beginner’s Guide to AI, Dietmar shares what he observed at the festival and what it tells us about AI adoption in the wider business world.",
+     "rubrieken": [],
+     "link": "https://shows.acast.com/beginners-guide-to-ai/episodes/ai-is-now-the-business-standard-are-you-falling-behind",
+     "bron": "A Beginner's Guide to AI",
+     "tijd": "22:56",
+     "sorteer": "2026-10-17T20:56:07+00:00"
+    }
+   ]
+  },
+  {
    "id": "natuur",
    "titel": "Natuur",
    "emoji": "🌿",
@@ -515,20 +506,20 @@
      "link": "https://scientias.nl/stuk-minder-bijen-op-fiji-europese-kolonisatie-speelt-mogelijk-mee/"
     },
     {
+     "titel": "Nearly 90% of countries adopt biodiversity targets, but most remain off track",
+     "toelichting": "Thousands of delegates are now gathering in Yerevan to discuss the future of life on Earth as we know it at the U.N.’s COP17 biodiversity summit. Countries have made considerable progress in developing national conservat",
+     "bron": "Mongabay (Engels)",
+     "tijd": "00:50",
+     "link": "https://news.mongabay.com/2026/10/nearly-90-of-countries-adopt-biodiversity-targets-but-most-remain-off-track/",
+     "sorteer": "2026-10-17T22:50:40+00:00"
+    },
+    {
      "titel": "Nigeria drove thousands of gold miners from a national park. But can it keep them out?",
      "toelichting": "A military-backed operation shut down a major illegal gold mining site in Gashaka-Gumti National Park, driving more than 4,000 miners from Nigeria’s largest national park, according to the Africa Nature Investors Foundat",
      "bron": "Mongabay (Engels)",
      "tijd": "18:18",
      "link": "https://news.mongabay.com/2026/10/nigeria-drove-thousands-of-gold-miners-from-a-national-park-but-can-it-keep-them-out/",
      "sorteer": "2026-10-17T16:18:07+00:00"
-    },
-    {
-     "titel": "Indonesian women cash in on mangrove restoration: Interview with community leader Wisye Sahambangung",
-     "toelichting": "JAKARTA — Wisye Sahambangung is a fisher, community leader, and mangrove conservationist from Sarawet, a coastal Indonesian village in North Sulawesi province. Since 2022, the 45-year-old has led Rhizopora, a women’s gro",
-     "bron": "Mongabay (Engels)",
-     "tijd": "09:57",
-     "link": "https://news.mongabay.com/2026/10/indonesian-women-cash-in-on-mangrove-restoration-interview-with-community-leader-wisye-sahambangung/",
-     "sorteer": "2026-10-17T07:57:59+00:00"
     }
    ]
   },
@@ -578,27 +569,10 @@
      "sorteer": "2026-10-17T13:50:00+02:00"
     },
     {
-     "titel": "Dalfsen (nacht)",
-     "kop": "Vogeltrek",
-     "bron": "16-10",
-     "wanneer": "de nacht van donderdag op vrijdag",
-     "tijd": "19:15–07:30",
-     "link": "https://trektellen.org/count/view/2364/20261016",
-     "soorten": [
-      "Zanglijster 59",
-      "Koperwiek 23",
-      "Merel 3",
-      "Kolgans 2"
-     ],
-     "aantal_soorten": 7,
-     "opmerkingen": [],
-     "tellers": "Vincent Martens"
-    },
-    {
      "titel": "Dalfsen",
      "kop": "Vogeltrek",
      "bron": "17-10",
-     "wanneer": "vanochtend",
+     "wanneer": "zaterdag",
      "tijd": "",
      "link": "https://trektellen.org/count/view/1919/20261017",
      "soorten": [
@@ -612,86 +586,94 @@
      "tellers": ""
     },
     {
-     "titel": "Landelijk vandaag: 204 soorten, 199.063 vogels geteld",
+     "titel": "Landelijk vandaag: 204 soorten, 199.098 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
     },
     {
      "titel": "Spreeuw — 60.454",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
     },
     {
      "titel": "Kolgans — 41.566",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
     },
     {
      "titel": "Rotgans — 16.328",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
     },
     {
      "titel": "Vink — 13.624",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
     },
     {
      "titel": "Kokmeeuw — 5.797",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
     },
     {
      "kop": "Vogeltrek",
      "titel": "Dwergmeeuw springt eruit — 5.463, normaal 20",
      "bron": "273× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Eider springt eruit — 2.853, normaal 12",
-     "bron": "238× het gewone niveau",
+     "titel": "Eider springt eruit — 2.853, normaal 82",
+     "bron": "35× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Rotgans springt eruit — 16.328, normaal 292",
-     "bron": "56× het gewone niveau",
+     "titel": "Kramsvogel springt eruit — 1.774, normaal 105",
+     "bron": "17× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "anser spec. springt eruit — 5.689, normaal 278",
-     "bron": "20× het gewone niveau",
+     "titel": "anser spec. springt eruit — 5.689, normaal 721",
+     "bron": "8× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261017?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch",
+     "sein": false
+    },
+    {
+     "kop": "Kraanvogels",
+     "titel": "De trek lijkt op gang gekomen",
+     "bron": "174 meldingen vandaag tegen gemiddeld 58 per dag de week ervoor",
+     "tijd": "",
+     "link": "https://www.sensingclues.org/craneradar",
      "sein": true
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Volop trek — vandaag 170 meldingen, samen 14.569 vogels",
+     "titel": "Volop trek — gisteren 174 meldingen, samen 15.098 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "oplopend — dag ervoor 81 · afgelopen week gemiddeld 58 per dag"
+     "vergelijking": "oplopend — dag ervoor 82 · afgelopen week gemiddeld 58 per dag"
     },
     {
      "kop": "Kraanvogels",
@@ -702,8 +684,8 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "89 meldingen vertrek uit het noorden",
-     "bron": "DE 86, PL 2, SE 1",
+     "titel": "90 meldingen vertrek uit het noorden",
+     "bron": "DE 87, PL 2, SE 1",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -715,9 +697,9 @@
    "emoji": "🌙",
    "items": [
     {
-     "titel": "Tot de ochtendschemering zijn van de grote manen van Jupiter alleen Europa en Callisto zichtbaar.",
+     "titel": "De Maan is in de fase van Eerste Kwartier.",
      "bron": "hemel.waarnemen.com",
-     "tijd": "05:28",
+     "tijd": "18:13",
      "link": "https://hemel.waarnemen.com/astrokal/"
     }
    ]
@@ -728,44 +710,44 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 7.7,
-    "gevoel": 7.7,
-    "wind": "NW 1",
+    "nu": 9.0,
+    "gevoel": 7.4,
+    "wind": "NNO 2",
     "station": "Heino",
-    "bericht": "In het noorden is vannacht de paraplu nodig, verder naar het zuiden is het droog en het koelt flink af. Morgen veel bewolking en vooral in het noorden en westen regen. In de middag breekt vooral in het zuiden af en toe de zon door.",
+    "bericht": "In het noorden is vannacht de paraplu nodig, verder naar het zuiden is het droog en het koelt flink af. Overdag veel bewolking en vooral in het noorden en westen regen. In de middag breekt vooral in het zuiden af en toe de zon door.",
     "vandaag": "In het noorden is vannacht de paraplu nodig, verder naar het zuiden is het droog en het koelt flink af. Wie vannacht op stap gaat, moet in het noorden rekening houden met enkele buien.",
     "temperatuur": "Het wordt hooguit 12 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: lichte regen, 7 tot 14 graden, 78% kans op neerslag, ruim 6 uur zon, wind uit het noordwesten, kracht 4.",
-     "max": 14,
-     "min": 7,
-     "regenkans": 78,
-     "omschrijving": "lichte regen"
+     "zin": "Voor Dalfsen zelf: motregen, 6 tot 11 graden, 81% kans op neerslag, wind uit het noordoosten, kracht 4.",
+     "max": 11,
+     "min": 6,
+     "regenkans": 81,
+     "omschrijving": "motregen"
     },
-    "vooruit": "Maandag en dinsdag droog en vooral op dinsdag veel zon. Vanaf woensdag af en toe regen en soms mogelijk ook meer wind. De maximumtemperaturen liggen rond 14⁰C.",
-    "omslag": "Vanaf woensdag regen: de kans loopt op van 10% naar 70%.",
+    "vooruit": "Dinsdag nog zonnig en droog. Vanaf woensdag wisselvallig met van tijd tot tijd regen en vanaf vrijdag mogelijk ook veel wind. De maximumtemperaturen liggen rond 13⁰C.",
+    "omslag": "Vanaf woensdag regen: de kans loopt op van 10% naar 80%.",
     "min": null,
     "max": null,
     "regenkans": null,
     "zonkans": null,
     "omschrijving": null,
     "morgen": {
-     "omschrijving": "Zwaar bewolkt en regen",
-     "min": "7",
-     "max": "13",
-     "regenkans": 60
+     "omschrijving": "Zwaar bewolkt",
+     "min": "10",
+     "max": "16",
+     "regenkans": 10
     }
    }
   }
  ],
  "archief": [
+  "2026-10-18",
   "2026-10-17",
   "2026-10-16",
   "2026-10-15",
   "2026-10-14",
   "2026-10-13",
   "2026-10-12",
-  "2026-10-11",
-  "2026-10-10"
+  "2026-10-11"
  ]
 }
