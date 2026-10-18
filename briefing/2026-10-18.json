@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "21:00",
+  "opgehaald": "22:00",
   "blokken": 10,
-  "berichten": 58,
+  "berichten": 64,
   "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-18T21:00+02:00",
+ "opgehaald": "2026-10-18T22:00+02:00",
  "audio": "audio/20261018.mp3",
  "blokken": [
   {
@@ -17,6 +17,15 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Macron haalt in tv-toespraak uit naar relschoppers terwijl rellen in Parijs doorgaan",
+     "context": "Een dag na de demonstraties die in Parijs en in andere Franse steden volledig uit de hand liepen, heeft de Franse president Macron in een televisietoespraak uitgehaald naar de relschoppers. Hij zei dat degenen die vernielingen hebben aangericht \"moeten boeten\". \"We zullen geen compromissen sluiten\", voegde hij daaraan toe. Ook zei hij dat hij wil dat de schade die is aangericht wordt verhaald op d",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635534",
+     "bron": "NOS",
+     "tijd": "21:52",
+     "sorteer": "2026-10-18T21:52:58+02:00"
+    },
     {
      "titel": "Trumps nieuwe stemwet werd in 2014 in Kansas al eens getest en het werd een chaos",
      "context": "De Amerikaanse president Trump wil dat kiezers voor de Congresverkiezingen van begin november een bewijs van staatsburgerschap en hun paspoort overleggen voordat ze hun stem mogen uitbrengen. In de staat Kansas werd dat al eens geprobeerd. Het werd een faliekante mislukking, waarvan tienduizenden stemgerechtigden de dupe werden. Toen Steven Fish uit Ottawa, Kansas, zich in 2014 wilde registreren a",
@@ -54,13 +63,13 @@
      "sorteer": "2026-10-18T17:54:30+02:00"
     },
     {
-     "titel": "Deense schoonmaker zit ruim drie dagen vast in ondergrondse cel",
-     "context": "Een Deense schoonmaker heeft vorige maand ruim drie dagen opgesloten gezeten in een ondergrondse cel. Dat meldt de Deense krant Ekstra Bladet . De vrouw was aan het schoonmaken in het voormalig hooggerechtshof in Kopenhagen toen een celdeur in de kelder per ongeluk achter haar dichtviel. Deze deuren kunnen niet van binnenuit worden opengemaakt. Geen telefoon bij zich De vrouw, wier leeftijd niet i",
+     "titel": "Frankrijk zit gevangen in een vicieuze cirkel van onmacht en geweld",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2635486",
-     "bron": "NOS",
-     "tijd": "15:13",
-     "sorteer": "2026-10-18T15:13:57+02:00"
+     "link": "https://www.volkskrant.nl/buitenland/frankrijk-zit-gevangen-in-een-vicieuze-cirkel-van-onmacht-en-geweld~bae1ae0e/",
+     "bron": "de Volkskrant",
+     "tijd": "21:00",
+     "sorteer": "2026-10-18T19:00:04+00:00"
     },
     {
      "titel": "Oekraïne negeert Trump en vuurt duizendtal drones af op Rusland, ook raffinaderij getroffen",
@@ -72,15 +81,6 @@
      "sorteer": "2026-10-18T17:15:00+00:00"
     },
     {
-     "titel": "Zelensky: VS hervatten inlichtingen, beperkingen Starlink blijven",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/liveblog-oekraine-zelensky-nieuws-poetin-trump~bb03466a/",
-     "bron": "de Volkskrant",
-     "tijd": "18:42",
-     "sorteer": "2026-10-18T16:42:00+00:00"
-    },
-    {
      "titel": "Links en rechts zien kansen in nasleep van de chaos in Frankrijk",
      "context": "",
      "rubrieken": [],
@@ -90,9 +90,16 @@
      "sorteer": "2026-10-18T17:28:00+00:00"
     },
     {
+     "titel": "Het polarisatieverwijt is een wapen van extreemrechts dat het begrip presenteert als een toonkwestie",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPXzN4aGtoZ3h0X0tvd0JtMnhaMUlPTVFXbHdzQ2ROTHV6eldyZUw1dWFKNE93RXN0MkZLU0RwUnRTcHRNT1otTVRmMzlRWEpsNEEyU3ZNT2RIUFYtdG41LWZMTHdDUTVJS3Bnb3NLeDRpMmVNRFlNMFlhajlWaURqakRScmpUcGJNdFo4SnZhb0dmRU5mcGZCTXNyNXA1b0JTNlpnejI2UEk5SmRSdXd4aERpNXB2Q3N2MW8wZm9KVG9Da2FuTXMzMDRQTWR3YUhsTGRGcVM2VFNNOTNBM0R2di0tT1hIWHpBRGVn?oc=5",
+     "bron": "de Volkskrant",
+     "tijd": "21:00",
+     "sorteer": "2026-10-18T19:00:03+00:00"
+    },
+    {
      "titel": "Provincie en BMF woest over illegale stal: ‘Het is hondsbrutaal’",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTUp0TlB1MlB4MnJDU2RmUUd5bVFIV0tIRzhEVXZERTdWNk9BSFFFLWlGOVZNNDMxSHlmSHRMUUc3LWZUOVQyOU01ZDdZV05SNklocWJHQjQ5NmR6RHo1ZUM3UG01N2ZiN1NQWmdDeEtFOTlHWU9VZjVjREx1V2xtQUtIMmFyd2VDZDRtdDdyWld2d1h2ZktBWFBHVmUyZ2YxaFVFbTgyd3h2b2d4?oc=5",
-     "bron": "De Gelderlander",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTU1nZjE0Y0UxNG8tWkt1V3h0U1dUVzVaeXBnY3k5dTVRU084bGRrUkhneWR6dHV1NENfMFoyVHQzMEZrc1E0T2dwdDZpam91QnNMWW10RUxWOTkxYzhOVHBwSVFTejMwWGlLQTVtUTJsSWppOXM5UFE1UFdkdnMyZDdIdFZFc1FKeXctS0g4aUI3VVZaY1F6R2ljY2hCdw?oc=5",
+     "bron": "Eindhovens Dagblad",
      "tijd": "19:28",
      "sorteer": "2026-10-18T17:28:38+00:00"
     }
@@ -149,13 +156,22 @@
      "sorteer": "2026-10-18T11:07:19+02:00"
     },
     {
-     "titel": "‘Hij zei steeds: ‘Houd me vast, ik trek dit niet’",
+     "titel": "‘Mijn kinderloze oom wilde mij wel hebben in ruil voor een koe’",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/binnenland/mijn-kinderloze-oom-wilde-mij-wel-hebben-in-ruil-voor-een-koe~b4aa759b/",
+     "bron": "de Volkskrant",
+     "tijd": "21:01",
+     "sorteer": "2026-10-18T19:01:51+00:00"
+    },
+    {
+     "titel": "‘Hij zei steeds: ‘Houd me vast, ik trek dit niet’’",
      "context": "",
      "rubrieken": [],
      "link": "https://www.volkskrant.nl/mensen/hij-zei-steeds-houd-me-vast-ik-trek-dit-niet~b7035eb1/",
      "bron": "de Volkskrant",
      "tijd": "12:25",
-     "sorteer": "2026-10-18T10:25:09+00:00"
+     "sorteer": "2026-10-18T10:25:00+00:00"
     },
     {
      "titel": "Het noorden voelt zich gezien in infraplannen, ook al is de nieuwe vaarroute naar Ameland nog even geschrapt",
@@ -170,8 +186,8 @@
      "titel": "Grensgemeenten vrezen massale omzeiling vuurwerkverbod via Duitsland en België: ’De pakkans is niet heel groot’",
      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbWFmZDhNTkRiVTlFWWVpZlAzd0FILUFsLTJLWHFKbDl1TjgtZHJLMzNKMWlXUUNYU3JpUXJQXzBnQVdrSFp0QXFfNkZ1TWpEMExYT092dUsxUTNkRUx4aHNuMHB3WGt6SVFfV1drbGVkQUNyNkJPTnlpbFFfNHRjQ1FoUHB3YnV4cEJza0ItbzZmb3Nod3dtRHliZDFtMHVZYWYwZjU3WkdNRnVySDlHZzBZeHNKNkdreWlna0V4MzFkSTl1THRaWjFnM1MyeVhEZUU3UkZNT2JwdmVCNzZ2NjREY3ZweGtCM0RUcFVwdUE?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "20:07",
-     "sorteer": "2026-10-18T18:07:25+00:00"
+     "tijd": "21:01",
+     "sorteer": "2026-10-18T19:01:24+00:00"
     },
     {
      "titel": "Het was de alcohol, zegt J. na een vuistslag in het gezicht van zijn vriendin. ‘Dit is niet hoe ik ben’",
@@ -206,6 +222,37 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Halloween is nog ver weg, maar in deze Zwolse voortuin griezelt het al",
+     "context": "Samen met zijn dochters verbouwt Martin Stremmelaar zijn voortuin tot een grote Halloweenshow. Elke avond worden de grote poppen en lichtjes aangezet, dat terwijl Halloween pas eind van de maand is. \"Voorbijgangers staan soms wel een halfuur naar onze tuin te kijken\", zegt de Halloweenfan.",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3706775/halloween-is-nog-ver-weg-maar-in-deze-zwolse-voortuin-griezelt-het-al",
+     "bron": "RTV Oost",
+     "tijd": "20:02",
+     "sorteer": "2026-10-18T18:02:38+00:00"
+    },
+    {
+     "titel": "Vlees en eieren stelen, geldkist slopen, en nu is de boerderijwinkel dicht",
+     "context": "Zijn actie was de druppel die de emmer deed overlopen. De eigenaren van een boerderijwinkel aan de Schouwdijk in Vasse hebben de deur gesloten nadat een man daar eind augustus flink heeft huisgehouden. De politie deelt alle beelden van de man, in de hoop dat hij wordt herkend.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3704684/vlees-en-eieren-stelen-geldkist-slopen-en-nu-is-de-boerderijwinkel-dicht",
+     "bron": "RTV Oost",
+     "tijd": "18:01",
+     "sorteer": "2026-10-18T16:01:50+00:00"
+    },
+    {
+     "titel": "Alle mensen die verontreinigd water bij Grolsch dronken uit ziekenhuis ontslagen",
+     "context": "Een dag nadat elf mensen tijdens een rondleiding door de Grolsch-brouwerij klachten kregen na het drinken van bronwater, zijn alle betrokkenen uit het ziekenhuis ontslagen. Bij het incident waren negen bezoekers en twee medewerkers betrokken.",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3707715/alle-mensen-die-verontreinigd-water-bij-grolsch-dronken-uit-ziekenhuis-ontslagen",
+     "bron": "RTV Oost",
+     "tijd": "16:39",
+     "sorteer": "2026-10-18T14:39:37+00:00"
+    },
+    {
      "titel": "Politie zet bus GAE-fans langs de weg bij Zwolle na vuurwerkincident",
      "context": "De politie heeft een bus met supporters van Go Ahead Eagles langs de weg gezet net buiten Zwolle. Hierdoor was de N35 richting Heino korte tijd dicht. Aanleiding was een vuurwerkincident bij het PEC-stadion, waarbij een fan vuurwerk uit de bus gooide.",
      "rubrieken": [],
@@ -215,33 +262,24 @@
      "sorteer": "2026-10-18T13:13:50+00:00"
     },
     {
-     "titel": "Oefenen met noodsteunpunt in Zalk: 'Plek waar je terecht kunt in geval van nood'",
-     "context": "In het geval van een noodsituatie komen er in iedere stad en dorp noodsteunpunten. Om dat goed voor elkaar te krijgen, wordt er op diverse plekken in de provincie getest. Zoals in Zalk. \"Iedereen die we vroegen wil direct meedoen\", zegt Jan van Raalte van Dorpsbelangen Zalk",
+     "titel": "Vrouw (59) terroriseert seniorencomplex in Diepenveen en moet vertrekken",
+     "context": "Schreeuwen, met meubels en bloempotten gooien en zelfs een agent in zijn kruis knijpen. Een 59-jarige vrouw veroorzaakt al maanden overlast in een seniorencomplex in Diepenveen. De rechter heeft bepaald dat ze haar woning moet verlaten.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3704175/oefenen-met-noodsteunpunt-in-zalk-plek-waar-je-terecht-kunt-in-geval-van-nood",
+     "link": "https://www.oost.nl/nieuws/3707684/vrouw-59-terroriseert-seniorencomplex-in-diepenveen-en-moet-vertrekken",
      "bron": "RTV Oost",
-     "tijd": "06:52",
-     "sorteer": "2026-10-18T04:52:48+00:00"
+     "tijd": "14:56",
+     "sorteer": "2026-10-18T12:56:00+00:00"
     },
     {
-     "titel": "Gé bewaart oude piano 50 jaar, nu ontdekt Twickel hoe bijzonder het instrument is",
-     "context": "Een oude piano die vijftig jaar geleden bijna op de stort belandde, keert terug naar landgoed Twickel. Gé Kooijman redde het instrument als jonge man. Nu blijkt de piano een bijzondere geschiedenis te hebben.",
+     "titel": "Klassieke kerstboom wordt duurder door kurkdroge zomer: 'Alle ballen op sneeuw'",
+     "context": "De hete en droge zomer voelen we straks ook in december. Door de droogte zijn veel kerstbomen beschadigd of doodgegaan. Daar komen de hoge kosten voor het sproeien nog bovenop. Het gevolg: voor een kerstboom betaal je dit jaar mogelijk zo'n vijf euro meer.",
      "rubrieken": [
       "breaking"
      ],
-     "link": "https://www.oost.nl/nieuws/3704751/ge-bewaart-oude-piano-50-jaar-nu-ontdekt-twickel-hoe-bijzonder-het-instrument-is",
+     "link": "https://www.oost.nl/nieuws/3680520/klassieke-kerstboom-wordt-duurder-door-kurkdroge-zomer-alle-ballen-op-sneeuw",
      "bron": "RTV Oost",
-     "tijd": "05:06",
-     "sorteer": "2026-10-18T03:06:46+00:00"
-    },
-    {
-     "titel": "Arjan (42) gaf meer dan hij terugkreeg, zijn stichting zet die missie voort",
-     "context": "Eerst een ander dan hijzelf. Dat is hoe Arjan Bijker (42) herinnerd wordt. Een met de natuur, had hij duurzaamheid als 'tweede naam'. De oprichter van de stichting GetITfree overleed in 2024. De stichting, zijn kindje, bestaat dit jaar tien jaar.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3707426/arjan-42-gaf-meer-dan-hij-terugkreeg-zijn-stichting-zet-die-missie-voort",
-     "bron": "RTV Oost",
-     "tijd": "05:00",
-     "sorteer": "2026-10-18T03:00:00+00:00"
+     "tijd": "12:05",
+     "sorteer": "2026-10-18T10:05:10+00:00"
     },
     {
      "titel": "Morgen 19 okt. open huis bij Dalfser midwinterhoornmakers",
@@ -324,8 +362,15 @@
      "sorteer": "2026-10-18T18:34:14+00:00"
     },
     {
+     "titel": "De concurrentiestrijd dendert voort: DeepSeek heeft een sneller AI-model uitgebracht",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcFBBOUxNZUlEMVl0aVhxRGxDQ0JIWV9KN2VOcWhTbnloaDJFSlZmeTRRazNmVTBvcjZLTUtvVHVNbWpySHYtaHFZLVJGVHlMLU9OYVYwZ3o4YU1lLW1oYnJ2dWltdVAyWm1qeFpHcjBHR2VSZGRrYXZRai10V3JNQW10dks4SXBYZ0M0dlBITUlVeGhkWVFVcFhQQXd2OXZ3eVNQTVp2OEw3di13alhtTXA3TjdHWm8?oc=5",
+     "bron": "Bright",
+     "tijd": "21:02",
+     "sorteer": "2026-10-18T19:02:00+00:00"
+    },
+    {
      "titel": "18/10 in Nieuwsuur: Knapt de AI-bubbel? • Israëls Gele Lijn in Gaza • James Whistlers liefde voor Nederland",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGxzWTJDcWdhV2tvZFk3cHlKTFpxblJkLVlqQlRFX3RtYVZmZkNVN2UtM2ZiUW5DUjFzZS1LWXV5WHJodjNERVhwSERjazN2bWNSdHBtQjNmN3MweUhFLTBtcjQyNlFzbHBubGFHZC1JLVdXQUxtOFdvdjVsWDJZbE5FT2xQNWppMHFuejFOZHFzTzNXcjVDZ1pYdlJnaUNCYVhhbHVUN2Y2OEVsaTZTUXduZGtRSmZ6ZVNzTmh5dld5Q0Rhd0hZVFd6R19mVmxONUkyTDFaZmE?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ2NxTUc4bW5aX1BhNG5OS1dSY0IyclhfR25ZNk4yZlEtc2k2dGxVODdwZk9QX3BKODdrN1lkcUlTSVRvRDNrM0RwRVZ4RW9PQXc1NEFyZldabi1UNzJCOFF0bUt6elM4cUIxMEFvM2laT0o1aUMtU2ZvclpoRFhrNWYwQm5DZmpFbDkwZXl6Ti0wcDNkUklJMUVHSmQ1ZUNVNmh0d201RWhTU3VFMmF2eS1Odno5aDV3cjFoTkVQT1pvaHRyMDVMZ2RuU2h6di1EQVhGN1lDWDlxdw?oc=5",
      "bron": "NOS",
      "tijd": "17:09",
      "sorteer": "2026-10-18T15:09:43+00:00"
@@ -424,6 +469,14 @@
      "sorteer": "2026-10-18T18:06:00+02:00"
     },
     {
+     "titel": "Siberische Boompieper",
+     "kop": "Zeldzaamheden",
+     "bron": "Friesland",
+     "tijd": "18:05",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-18T18:05:00+02:00"
+    },
+    {
      "titel": "Sperwergrasmus",
      "kop": "Zeldzaamheden",
      "bron": "Friesland",
@@ -473,28 +526,28 @@
      "tellers": ""
     },
     {
-     "titel": "Landelijk vandaag: 173 soorten, 96.960 vogels geteld",
+     "titel": "Landelijk vandaag: 175 soorten, 97.377 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
     },
     {
-     "titel": "Spreeuw — 39.961",
+     "titel": "Spreeuw — 39.962",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
     },
     {
-     "titel": "Vink — 13.691",
+     "titel": "Vink — 13.694",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
     },
     {
-     "titel": "Kramsvogel — 8.038",
+     "titel": "Kramsvogel — 8.039",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -508,7 +561,7 @@
      "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
     },
     {
-     "titel": "Kolgans — 4.376",
+     "titel": "Kolgans — 4.390",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -516,7 +569,7 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Kramsvogel springt eruit — 8.038, normaal 105",
+     "titel": "Kramsvogel springt eruit — 8.039, normaal 105",
      "bron": "77× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch",
@@ -532,23 +585,23 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Trek komt op gang — vandaag 108 meldingen, samen 5.976 vogels",
+     "titel": "Trek komt op gang — vandaag 115 meldingen, samen 7.671 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "aflopend — dag ervoor 201 · afgelopen week gemiddeld 82 per dag"
+     "vergelijking": "aflopend — dag ervoor 202 · afgelopen week gemiddeld 82 per dag"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "7 binnen 75 km van Dalfsen",
+     "titel": "8 binnen 75 km van Dalfsen",
      "bron": "dichtstbij: Wierden - Westerveen, 24 km",
      "tijd": "09:34",
      "link": "https://waarneming.nl/species/19/observations/"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "53 meldingen vertrek uit het noorden",
-     "bron": "DE 46, SE 5, PL 2",
+     "titel": "58 meldingen vertrek uit het noorden",
+     "bron": "DE 51, SE 5, PL 2",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -573,8 +626,8 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 11.4,
-    "gevoel": 11.4,
+    "nu": 11.6,
+    "gevoel": 11.6,
     "wind": "ONO 2",
     "station": "Heino",
     "bericht": "Vanavond valt in het zuiden, midden en westen regen. Vannacht wordt het droger en in het oosten kan het opklaren. Het koelt nauwelijks af.",
