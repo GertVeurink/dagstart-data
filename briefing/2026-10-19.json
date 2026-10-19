@@ -7,7 +7,8 @@
   "blokken": 9,
   "berichten": 65,
   "problemen": [],
-  "audio_herkomst": "vangnet"
+  "audio_herkomst": "vangnet",
+  "audio_aangehaakt": "07:20"
  },
  "opgehaald": "2026-10-19T07:00+02:00",
  "audio": "audio/20261019.mp3",
@@ -514,53 +515,53 @@
      "sorteer": "2026-10-18T12:21:00+02:00"
     },
     {
-     "titel": "Landelijk vandaag: 175 soorten, 98.179 vogels geteld",
+     "titel": "Landelijk gisteren: 175 soorten, 98.188 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
     },
     {
      "titel": "Spreeuw — 40.108",
      "kop": "Vogeltrek",
-     "bron": "landelijk, vandaag",
+     "bron": "landelijk, gisteren",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
     },
     {
      "titel": "Vink — 13.729",
      "kop": "Vogeltrek",
-     "bron": "landelijk, vandaag",
+     "bron": "landelijk, gisteren",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
     },
     {
      "titel": "Kramsvogel — 8.258",
      "kop": "Vogeltrek",
-     "bron": "landelijk, vandaag",
+     "bron": "landelijk, gisteren",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
     },
     {
      "titel": "Kauw — 6.527",
      "kop": "Vogeltrek",
-     "bron": "landelijk, vandaag",
+     "bron": "landelijk, gisteren",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
     },
     {
      "titel": "Kolgans — 4.500",
      "kop": "Vogeltrek",
-     "bron": "landelijk, vandaag",
+     "bron": "landelijk, gisteren",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Kramsvogel springt eruit — 8.258, normaal 122",
-     "bron": "68× het gewone niveau",
+     "titel": "Kramsvogel springt eruit — 8.258, normaal 105",
+     "bron": "79× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch",
      "sein": true
     },
     {
@@ -568,7 +569,7 @@
      "titel": "Bergeend springt eruit — 85, normaal 24",
      "bron": "4× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch",
      "sein": false
     },
     {
@@ -643,5 +644,15 @@
     }
    }
   }
+ ],
+ "archief": [
+  "2026-10-19",
+  "2026-10-18",
+  "2026-10-17",
+  "2026-10-16",
+  "2026-10-15",
+  "2026-10-14",
+  "2026-10-13",
+  "2026-10-12"
  ]
 }
