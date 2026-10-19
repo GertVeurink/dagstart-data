@@ -3,16 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "18:00",
+  "opgehaald": "19:00",
   "blokken": 9,
-  "berichten": 72,
-  "problemen": [
-   "pauw & de wit: HTTPError",
-   "weer Dalfsen: HTTPError"
-  ],
+  "berichten": 75,
+  "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-19T18:00+02:00",
+ "opgehaald": "2026-10-19T19:00+02:00",
  "audio": "audio/20261019.mp3",
  "blokken": [
   {
@@ -20,6 +17,24 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Vier mensen omgekomen bij noodweer op Spaanse oostkust",
+     "context": "In het oosten van Spanje zijn vier mensen omgekomen als gevolg van stortregens en overstromingen die gepaard gaan met de storm Adam. Doordat rivieren buiten hun oevers traden, kolkte in plaatsen aan de Middellandse Zee het water door de straten. Inwoners werden met helikopters van de daken gehaald. Een van de doden is een vrouw die in Cabrera de Mar, bij Barcelona, werd meegesleurd door het water.",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635865",
+     "bron": "NOS",
+     "tijd": "18:53",
+     "sorteer": "2026-10-19T18:53:20+02:00"
+    },
+    {
+     "titel": "Honderden jongeren aangehouden na rellen in Milaan, veertien agenten gewond",
+     "context": "Bij rellen in Milaan zijn gisteren 271 jongeren aangehouden. Gemaskerde relschoppers gingen de confrontatie aan met de politie, gooiden met stenen en plunderden winkels. De Italiaanse regering heeft na twee dagen van onrust strengere veiligheidsmaatregelen aangekondigd. Op beelden is te zien dat honderden jongeren, veelal in het zwart gehuld en met bedekte gezichten, vernielingen aanrichtten in de",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635861",
+     "bron": "NOS",
+     "tijd": "18:38",
+     "sorteer": "2026-10-19T18:38:37+02:00"
+    },
     {
      "titel": "Dave De K. krijgt 30 jaar cel voor dood en ontvoering van 4-jarige Dean",
      "context": "Dave De K. is veroordeeld tot 30 jaar cel voor de ontvoering en de dood van de 4-jarige Dean. Ook heeft de Belg 15 jaar tbs gekregen. De K. liet vier jaar geleden het lichaam van de jongen achter bij het werkeiland Neeltje Jans in Zeeland. De straf is gelijk aan de eis van het Belgische Openbaar Ministerie. Volgens het hof in Gent heeft De K. een \"onmetelijke ravage aangericht\". Het hof noemde De ",
@@ -48,31 +63,13 @@
      "sorteer": "2026-10-19T15:13:55+02:00"
     },
     {
-     "titel": "Opnieuw honderdduizenden huishoudens zonder stroom na Russische aanvallen op Kyiv",
-     "context": "Rusland heeft vannacht raket- en droneaanvallen uitgevoerd op energiecentrales in Kyiv en omliggende regio's. Daardoor kwamen minstens 550.000 huishoudens zonder stroom te zitten. Ook zou Oekraïne opnieuw vooraf niet gewaarschuwd zijn door westerse inlichtingendiensten voor de raketaanvallen. Oekraïne ontvangt die waarschuwingen om burgers op tijd te kunnen alarmeren voor een aanval. Zonder die wa",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635623",
-     "bron": "NOS",
-     "tijd": "15:11",
-     "sorteer": "2026-10-19T15:11:36+02:00"
-    },
-    {
-     "titel": "Podcast De Dag: hoe de Bolsonaro-dynastie Brazilië verovert",
-     "context": "Flávio Bolsonaro, de zoon oud-president Jair Bolsonaro, maakt goede kans om komend weekend bij de verkiezingen in Brazilië president te worden. Een van de eerste dingen die hij dan zal doen is gratie verlenen aan zijn vader, die in de 27 jaar celstraf kreeg voor een couppoging. Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abon",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635595",
-     "bron": "NOS",
-     "tijd": "14:53",
-     "sorteer": "2026-10-19T14:53:34+02:00"
-    },
-    {
-     "titel": "Zelensky: vertraging bij levering ‘essentiële’ Amerikaanse steun aan luchtverdediging Oekraïne",
+     "titel": "Zes doden bij Russische droneaanval op park in Oekraïense provincie Charkiv, meldt Oekraïne",
      "context": "",
      "rubrieken": [],
      "link": "https://www.volkskrant.nl/buitenland/liveblog-oekraine-zelensky-nieuws-poetin-trump~bb03466a/",
      "bron": "de Volkskrant",
-     "tijd": "17:02",
-     "sorteer": "2026-10-19T15:02:00+00:00"
+     "tijd": "18:51",
+     "sorteer": "2026-10-19T16:51:00+00:00"
     },
     {
      "titel": "Litouwen verscherpt beveiliging van cruciale infrastructuur na aanval gelinkt aan Rusland",
@@ -91,6 +88,13 @@
      "bron": "Trouw",
      "tijd": "14:49",
      "sorteer": "2026-10-19T12:49:00+00:00"
+    },
+    {
+     "titel": "Wouter de Winther: koning van levensbelang voor bescherming ICC",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPek01WWhtdmZERkpYZEtRVzFLdU1BSVduWDdLU3dGbEFOVXZFMlFEdVZqTXBXNlNjZnEwbHF2UDNlQmhUTll3SDlXZEJQaFpDdEwwR19wZVozMDZvdnYtUmRFekZTc09OR3lfcDJIb1paemppTE9yTk45ekYtN25LT1JmdUlLV0dNb0k2anI0VGNTY09jRjFia0pwZzZqVFA4WjVrMHpkWHlNdHZCUUE?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "18:39",
+     "sorteer": "2026-10-19T16:39:02+00:00"
     }
    ]
   },
@@ -172,25 +176,32 @@
      "sorteer": "2026-10-19T14:01:00+00:00"
     },
     {
-     "titel": "Van Weel heeft inmiddels begrip voor niet ingrijpen Halsema bij Hamasspandoeken: ‘Had beter met haar kunnen bellen’",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN0tGNWpFdlY1amNXdlM0TG5aVTY1QmRUT3g1Znh0U1k1YjJqR3FtSjBEV1F0bFNJT1FKXzVtRGtNZGMzVXFQZktMUXRGWThDdS1UMTlfVjJ4UUxUVFFMOFIxZ3lhS2QxX3hzalFBTzRxdFZxNEZEQkEzSTZaTGhYVlZIZjVBcVJkc2xxb05Sc3M0NzZnbk40VWp5MzhEYjc5NDBBS1pHRGVYa3JMU1FNR185OVRySDVUZlFrTjNnTURrbjM1VkQ4Y0dyU1V3b2Q0YnYxZHQ2VVhYei14amNpaTNNMGI0RXQtcGdv?oc=5",
-     "bron": "Het Parool",
-     "tijd": "17:32",
-     "sorteer": "2026-10-19T15:32:19+00:00"
+     "titel": "Hoe kan het zó ontsporen? Vier vragen over de geweldsuitbarsting in Frankrijk",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQm1PbVFXU1ZnR0E4U1dXLU56eUNJVGVGVWdrYVZVeUVYOTlpVTdqYlgycV9EYUdaNERrS09kWUdPTlRqbGdfVXJvVUpwTHRkb3BzZkoyYjZoTm9ELVJoOUl6SG16cl9zMEprTzFtY004cXhPbjNWRDJUcm1hTVNqM0Ffc0pVdi1DWmo4TS02S3BhYkNldWhzbXVZc2E?oc=5",
+     "bron": "RTL.nl",
+     "tijd": "18:38",
+     "sorteer": "2026-10-19T16:38:24+00:00"
     },
     {
-     "titel": "Wetsvoorstel VVD voor verbod op religieuze kleding voor boa’s ‘mist onderbouwing’, vindt de Raad van State",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWnJVYUJ1Yk5NdXNZQTFpZUo5NTR2NDlGQnFfVEdIalFyOGlkRDduVXQ5aHg1aG1zc095WFZFbmE2UkFxbTNWNlltS2lYV2M1dnV4Tk1uVVVYZklwclNTY0hYYTg5T0pMaFloQU4tZGRZOXBiWGc4aU8zOV9EclVPUDRxNjc2WWVfTGNxMTR1Um5JWk9MdnZ1eTNRaTFpMGwzNUxMMVJhbjFpeTYtOUtSMlU3eEpoUmhvdmhsQkhPLTF1eE52UzVNRjEtVTZOdjYxb2kwOGtRcGdVNk0?oc=5",
-     "bron": "Trouw",
-     "tijd": "17:56",
-     "sorteer": "2026-10-19T15:56:55+00:00"
+     "titel": "Moederbedrijf Albert Heijn doet na ruim een week aangifte van cyberaanval",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTU9tejFlOFMtSFBDUl9tUV9IU3BrdVo0VEp2em1ZYmV3eFdSMUt3a01WRDFncFU3NlNWLWdxa2xSSG52QkFDUWU5bFk3NXM5UHR4NUhUVEZteVlPbFdGYXFaMGJ4QUp1UXpFRVRTMWFZVUdCSlF4azlFWVR3TDFQYTFvZFpwR3NSaEpMVDJveXYtWGxnTlg5SjBIZV84TDFiZHJIY3BRQQ?oc=5",
+     "bron": "NOS",
+     "tijd": "18:35",
+     "sorteer": "2026-10-19T16:35:15+00:00"
     },
     {
-     "titel": "Opinie | Het plan om ’terugkeerfrustreerders’ aan te pakken is pure symboolpolitiek",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM2g3MTJkS1FiZWlFb1JQaktIeUIxejVCQ1hmY0xFcVljWDFHWXpOMGFtN2FGX0FLTnR5UVNvb3JoZVV5QXIyQ3ZVNTBqb292Ym4zdHJIaWRveXBhV3F6bnl1aXVZMFljYktZN0VqYlBOLVVFdWlESzJYdnFacmJIS1Q2MmNxMDhUTkROdmlTWXFlWVBoT1J1YmE5X0lzbWdERjdBT0RnVERKWDRLdTlrR0lFLWZrbmNZUHc?oc=5",
-     "bron": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-     "tijd": "17:00",
-     "sorteer": "2026-10-19T15:00:00+00:00"
+     "titel": "Taakstraf voor veroorzaken busongeluk waarbij 15-jarige omkwam in Zwartewaal",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPallzNmt6R0xscG9odTF3eFBxUnUyOUhKV3RhUUM5TnE2dTlrU0dsZWpNb2JHeHZtejNlc05EcV92UEljUkhST0xqclh4YUdBbjZiZFM4SC0tUDFBTTJfR2xFQS1vZnZ3Umxpa19sWXhEellCemNqZUVpVlAtRXFqOVp6UGpLSkptY1l3dGw0RWpLVHhfOHZpeWtkd3czel9SOFN4eG9RdmhZeUpidVFHd2Q3ME15OFRv?oc=5",
+     "bron": "RTL.nl",
+     "tijd": "18:23",
+     "sorteer": "2026-10-19T16:23:05+00:00"
+    },
+    {
+     "titel": "Man (29) krijgt celstraf voor fataal ongeluk met 16-jarige fietser in Kootwijkerbroek",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOXJ3dkpqSDNjM3lCdEE4Q3V1eGxKOHpXTDcxS21yU0labTZNbVJJbVFzZ3R0VUZ2SUlhZzdyNWFaSmU1empHWUJ5RGJfdTY2WEJZdWY4YWFxSFdHcm5LVDhxcTFkazR3UFBNS1lZRnREOXVNR2VLTHhLLVE0MTc4dXNvcEsyMGpQYzBaV0V4c3BLWW9OT01JTkYwQWM4bl9FcUhEYVczNE9zSXl0aXFQTVVDX2tCdG15bVlwSF9hemhoVURH?oc=5",
+     "bron": "de Stentor",
+     "tijd": "18:16",
+     "sorteer": "2026-10-19T16:16:34+00:00"
     },
     {
      "titel": "De groene revolutie gaat sneller dan gepland, want niemand hield zich aan het plan",
@@ -240,10 +251,19 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Hof van Twente wethouder Hannie Rohaan wil regiostem landelijk laten horen",
+     "titel": "Henk uit Rijssen kroop voor filmklassieker Spetters in huid van Maarten Spanjer",
+     "context": "Hij moest toch wel even slikken toen hij het nieuws hoorde dat Maarten Spanjer was overleden. Nadat Henk Seppenwoolde uit Rijssen destijds voor de filmklassieker Spetters in de huid was gekropen van de acteur heeft hij nog jaren contact met hem gehouden. \"Echt een klassekerel!\"",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/cultuur/3708824/henk-uit-rijssen-kroop-voor-filmklassieker-spetters-in-huid-van-maarten-spanjer",
+     "bron": "RTV Oost",
+     "tijd": "18:04",
+     "sorteer": "2026-10-19T16:04:42+00:00"
+    },
+    {
+     "titel": "Twentse wethouder Hannie Rohaan laat regiostem horen bij landelijk asielbeleid",
      "context": "Wethouder Hannie Rohaan uit Hof van Twente krijgt een plek in een landelijke commissie die zich bezighoudt met asiel, migratie en integratie. Ze wil daar de ervaringen van gemeenten uit Twente en Ijsselland onder de aandacht brengen.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3709281/hof-van-twente-wethouder-hannie-rohaan-wil-regiostem-landelijk-laten-horen",
+     "link": "https://www.oost.nl/nieuws/3709281/twentse-wethouder-hannie-rohaan-laat-regiostem-horen-bij-landelijk-asielbeleid",
      "bron": "RTV Oost",
      "tijd": "17:01",
      "sorteer": "2026-10-19T15:01:50+00:00"
@@ -285,37 +305,31 @@
      "sorteer": "2026-10-19T11:33:35+00:00"
     },
     {
-     "titel": "Enschede lijkt chipfabriek binnen te halen ondanks vol stroomnet",
-     "context": "De provincie Overijssel, de gemeente Enschede en de Universiteit Twente zeggen samen met chipfabriek New Origin een oplossing gevonden te hebben voor de stroom- en watervoorziening van de nieuwe fabriek, ondanks het volle stroomnet. Daarmee komt de fabriek op Kennispark een flinke stap dichterbij.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3708809/enschede-lijkt-chipfabriek-binnen-te-halen-ondanks-vol-stroomnet",
-     "bron": "RTV Oost",
-     "tijd": "12:52",
-     "sorteer": "2026-10-19T10:52:15+00:00"
-    },
-    {
-     "titel": "Een luisterend oor voor jongeren, nu ook dichterbij",
-     "context": "Stichting @ease biedt jongeren van 12 tot 25 jaar een gratis en anonieme plek waar zij terechtkunnen voor een luisterend oor en ondersteuning wanneer ze ergens mee zitten. Op 2 november van 16.00 tot 18.00 uur vieren we de opening van onze nieuwe locatie aan de Radewijnsstraat 2 in Zwolle. Het is belangrijk dat @ease […]",
-     "rubrieken": [
-      "Ingezonden bericht"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/554859/een-luisterend-oor-voor-jongeren-nu-ook-dichterbij.html",
-     "bron": "DalfsenNet",
-     "tijd": "16:46",
-     "sorteer": "2026-10-19T14:46:22+00:00"
-    },
-    {
-     "titel": "Cadeau kaart van de postcode loterij",
-     "context": "DALFSEN – NIEUWLEUSEN – Alle deelnemers aan de postcode loterij, ontvangen een geniet van het goede cadeau kaart ter waarde van 15 euro. Wist u dat je deze kaart nog kunt doneren aan de voedselbank. Naar het activeren kunt u deze nu nog inleveren bij de Albert Heijn Dalfsen en Albert Heijn Nieuwleusen. Namens […]",
+     "titel": "Schoffelaar",
+     "context": "DALFSEN – De Lepelaar is nu, met ca 2900 broedparen, een algemene broedvogel in ons land. Dat was ca 100 jaren geleden anders, er was toen sprake van slechts 2 broedkolonies met in totaal ca 500 paren. Door bescherming, meer ruimte voor natte natuur is het bestand dus aanzienlijk gegroeid. De bovengenoemde streeknaam heeft […]",
      "rubrieken": [
       "Dalfsen",
       "Ingezonden bericht",
-      "Nieuwleusen"
+      "Laatste nieuws",
+      "Snavel en veren"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/552933/cadeau-kaart-van-de-postcode-loterij.html",
+     "link": "https://www.dalfsennet.nl/nieuws/554869/schoffelaar.html",
      "bron": "DalfsenNet",
-     "tijd": "16:31",
-     "sorteer": "2026-10-19T14:31:59+00:00"
+     "tijd": "18:32",
+     "sorteer": "2026-10-19T16:32:59+00:00"
+    },
+    {
+     "titel": "Gezelligheid en vakmanschap gaan hand in hand aan de Vossersteeg",
+     "context": "DALFSEN – Samen iets moois maken, de liefde voor de midwinterhoorn delen en ondertussen volop plezier hebben met elkaar. Die sfeer stond vanmiddag centraal tijdens het open huis in het atelier van Jan Zielman aan de Vossersteeg. Bezoekers konden van dichtbij meekijken bij het maken van een midwinterhoorn. Daar was opnieuw de nodige belangstelling voor. […]",
+     "rubrieken": [
+      "Dalfsen",
+      "Geen categorie",
+      "Laatste nieuws"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/554871/gezelligheid-en-vakmanschap-gaan-hand-in-hand-aan-de-vossersteeg.html",
+     "bron": "DalfsenNet",
+     "tijd": "18:06",
+     "sorteer": "2026-10-19T16:06:12+00:00"
     }
    ]
   },
@@ -564,14 +578,14 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 177 soorten, 490.307 vogels geteld",
+     "titel": "Landelijk vandaag: 177 soorten, 492.345 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
-     "titel": "Spreeuw — 167.839",
+     "titel": "Spreeuw — 168.099",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -585,21 +599,21 @@
      "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
-     "titel": "Vink — 46.509",
+     "titel": "Vink — 46.895",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
-     "titel": "Kievit — 37.531",
+     "titel": "Kievit — 37.561",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
-     "titel": "Veldleeuwerik — 35.800",
+     "titel": "Veldleeuwerik — 36.620",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -623,7 +637,7 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Kievit springt eruit — 37.531, normaal 1.642",
+     "titel": "Kievit springt eruit — 37.561, normaal 1.642",
      "bron": "23× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch",
@@ -639,23 +653,31 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Volop trek — vandaag 287 meldingen, samen 29.684 vogels",
-     "bron": "observation.org",
+     "titel": "De trek lijkt op gang gekomen",
+     "bron": "359 meldingen vandaag tegen gemiddeld 98 per dag de week ervoor",
      "tijd": "",
-     "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "oplopend — dag ervoor 134 · afgelopen week gemiddeld 98 per dag"
+     "link": "https://www.sensingclues.org/craneradar",
+     "sein": true
     },
     {
      "kop": "Kraanvogels",
-     "titel": "48 binnen 75 km van Dalfsen",
+     "titel": "Volop trek — vandaag 359 meldingen, samen 33.624 vogels",
+     "bron": "observation.org",
+     "tijd": "",
+     "link": "https://waarneming.nl/species/19/observations/",
+     "vergelijking": "oplopend — dag ervoor 135 · afgelopen week gemiddeld 98 per dag"
+    },
+    {
+     "kop": "Kraanvogels",
+     "titel": "42 binnen 75 km van Dalfsen",
      "bron": "dichtstbij: Zwolle - Park De Weezenlanden - Doepark Nooterhof, 10 km",
      "tijd": "15:58",
      "link": "https://waarneming.nl/species/19/observations/"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "180 meldingen vertrek uit het noorden",
-     "bron": "DE 179, PL 1",
+     "titel": "160 meldingen vertrek uit het noorden",
+     "bron": "DE 159, PL 1",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -680,14 +702,20 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 11.4,
-    "gevoel": 9.4,
+    "nu": 11.2,
+    "gevoel": 9.2,
     "wind": "O 3",
     "station": "Heino",
     "bericht": "Het klaart breed op. Morgen eerst volop zon. Later in de middag neemt de bewolking en de kans op lichte regen in het zuiden wel toe.",
     "vandaag": "Vannacht verloopt helder met hoogstens wat sluierbewolking.",
     "temperatuur": "Het wordt in de middag 10 graden in het noordoosten van Groningen tot 14 graden in Limburg.",
-    "dalfsen": null,
+    "dalfsen": {
+     "zin": "Voor Dalfsen zelf: lichte motregen, 7 tot 13 graden, 85% kans op neerslag, ruim 2 uur zon, wind uit het oosten, kracht 3.",
+     "max": 13,
+     "min": 7,
+     "regenkans": 85,
+     "omschrijving": "lichte motregen"
+    },
     "vooruit": "Wisselvallig herfstweer met van tijd tot tijd regen en vanaf vrijdag af en toe veel wind. De maximumtemperaturen liggen rond 13⁰C, in het weekeinde wat lager.",
     "omslag": "Vanaf woensdag regen: de kans loopt op van 20% naar 80%.",
     "min": "10",
