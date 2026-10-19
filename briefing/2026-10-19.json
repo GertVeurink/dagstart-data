@@ -3,13 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "09:00",
+  "opgehaald": "10:00",
   "blokken": 9,
-  "berichten": 59,
+  "berichten": 66,
   "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-19T09:00+02:00",
+ "opgehaald": "2026-10-19T10:00+02:00",
  "audio": "audio/20261019.mp3",
  "blokken": [
   {
@@ -17,6 +17,24 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "500.000 Palestijnen in Gaza voortaan zonder hulp van Wereldvoedselprogramma",
+     "context": "Het Wereldvoedselprogramma (WFP) van de Verenigde Naties meldt dat het de steun aan Palestijnen in Gaza drastisch moet verminderen vanwege financieringsproblemen. Hierdoor komen een half miljoen Palestijnen in de Gazastrook zonder maandelijkse voedselhulp te zitten. Dat betekent dat voortaan nog 1,1 miljoen mensen steun krijgen van de organisatie, ongeveer de helft van de bevolking van het gebied.",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635561",
+     "bron": "NOS",
+     "tijd": "09:52",
+     "sorteer": "2026-10-19T09:52:23+02:00"
+    },
+    {
+     "titel": "Lula en Bolsonaro vallen elkaar aan in fel en persoonlijk tv-debat",
+     "context": "Een corrupte president die zijn land uitlevert aan narcoterroristen of een militieman die de Braziliaanse belangen verkwanselt aan de VS. Beschuldigingen vlogen over en weer in het eerste tv-debat voor de verkiezingen aanstaande zondag tussen president Lula (80) van Brazilië en zijn uitdager Flávio Bolsonaro (45). De twee zijn in een nek-aan-nekrace verwikkeld om de gunst van de Braziliaanse kieze",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635559",
+     "bron": "NOS",
+     "tijd": "09:38",
+     "sorteer": "2026-10-19T09:38:38+02:00"
+    },
     {
      "titel": "Israëlische politie pakt verdachten op voor aanvallen Westelijke Jordaanoever",
      "context": "De Israëlische politie heeft acht verdachten aangehouden in het onderzoek naar de aanvallen op de Westelijke Jordaanoever van afgelopen weekend. Daarbij werden Palestijnen, een Amerikaanse fotojournalist en Europese diplomaten aangevallen. Vrijdag werden Palestijnen aangevallen door gemaskerde kolonisten tijdens de jaarlijkse oogst in een olijfboomgaard op de Westelijke Jordaanoever. Fotojournalis",
@@ -45,24 +63,6 @@
      "sorteer": "2026-10-19T06:30:14+02:00"
     },
     {
-     "titel": "Vlucht uit Tel Aviv naar Wenen maakt voorzorgslanding in Bulgarije na bommelding",
-     "context": "Een vlucht die vanuit de Israëlische stad Tel Aviv onderweg was naar Wenen in Oostenrijk is gisteravond uitgeweken naar het vliegveld van Sofia in Bulgarije nadat er een bommelding was gedaan. Dat melden de Bulgaarse autoriteiten. De Oostenrijkse luchtvaartmaatschappij Austrian Airlines, die de vlucht uitvoerde, meldt vanochtend dat er aan boord geen explosief is aangetroffen. De vlucht van Austri",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635547",
-     "bron": "NOS",
-     "tijd": "03:44",
-     "sorteer": "2026-10-19T03:44:12+02:00"
-    },
-    {
-     "titel": "Nog 19 mensen in kritieke toestand na fatale brand op militaire basis Canada",
-     "context": "19 van de 39 mensen die zaterdag bij de brand op een militaire basis in Canada gewond raakten en naar het ziekenhuis moesten, verkeren in kritieke toestand. Dat heeft de premier van de provincie Alberta bekendgemaakt. Bij de brand in Wainwright in Alberta kwamen vier militairen om het leven. Het incident gebeurde toen er op het militaire terrein tijdens een oefening met scherp werd geschoten. Moge",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635546",
-     "bron": "NOS",
-     "tijd": "01:27",
-     "sorteer": "2026-10-19T01:27:30+02:00"
-    },
-    {
      "titel": "Israël arresteert 8 mensen na aanvallen door Israëlische kolonisten op de Westoever",
      "context": "",
      "rubrieken": [],
@@ -81,13 +81,20 @@
      "sorteer": "2026-10-19T03:38:00+00:00"
     },
     {
-     "titel": "Fransen en Britten vergroten en moderniseren hun kernwapenarsenaal",
+     "titel": "Ruim honderd arrestaties bij nieuwe onrust in Parijs",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/fransen-en-britten-vergroten-en-moderniseren-hun-kernwapenarsenaal~b19109f5/",
+     "link": "https://www.trouw.nl/buitenland/ruim-honderd-arrestaties-bij-nieuwe-onrust-in-parijs~b21360e9/",
      "bron": "Trouw",
-     "tijd": "09:00",
-     "sorteer": "2026-10-19T07:00:00+00:00"
+     "tijd": "09:03",
+     "sorteer": "2026-10-19T07:03:53+00:00"
+    },
+    {
+     "titel": "ECI Cultuurfabriek vertoont Metropolis met live piano in Roermond",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSWlrUnhkd2tIZmhROEZSMTQzRkl5Nk1JQzVMMk8xQU9RRnBlWWlrc04tQ2VJRE45cjZVS2s0dUJrdE5aVTRjMXVaVWU0RVk0aGI4alRUSldWOFZ5eklSWTNVT3poaWFWY3QwVWdmWmJtMmdKdlFvb2JERmF3bVpZODdDalg4M1hGLUx1M1FWc3FnQ2VIb1dFRktrdjhaS0l2c0ZOWU1R?oc=5",
+     "bron": "AD.nl",
+     "tijd": "09:30",
+     "sorteer": "2026-10-19T07:30:08+00:00"
     }
    ]
   },
@@ -160,11 +167,32 @@
      "sorteer": "2026-10-18T13:05:00+00:00"
     },
     {
-     "titel": "Ochtendnieuws: CDA-leider Bontenbal waarschuwt coalitie: zonder compromissen staat kabinet klem",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRkZSa2s0YkZqczNRd0dDOTByNXY3UWlmSUFZSFBFRU44WjdGVmtfVlJMbnBLRUZoaFQ2dG9oVEFpMkc1VVBZTHlkSE80NXFCMTl5TU0zU3ZPV2JsdmdkM2NJYWFmbUJCZkV2cXpGTGpqejVsdUphaHJFcUhZcVU4Yzk1LU94LU1Bd0dDTC1NX2RqdG9XdkdwdDhZZTFZLTAxTDB1VzhXdzJPS2psYmZSYUMxSmdxWmZJYlZkTEpUeHFHeVc0TEVidjYxYzlHUENJZXJKN3R1dnBqUWxu?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "06:55",
-     "sorteer": "2026-10-19T04:55:40+00:00"
+     "titel": "RD Vandaag: Referendum in Alberta | Macron veroordeelt geweld",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1ItSjZINmpYU3R4MDFGU0RmTEstcFlYbkMzck4xNWFieGxzSnNwV19tT0NjLU91cWFBdU50SmFzcGNJVFdFU2JLeXlGWmo5azZjVjlhSEdUd3dtWUVSRTBUUnpWNDZYNHFjM1Nuczc5Q0FDV1BBc25oZW9SbUdFR2tlVkE?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "09:52",
+     "sorteer": "2026-10-19T07:52:52+00:00"
+    },
+    {
+     "titel": "Het Dolfinarium zonder dolfijnen: speeltuin, woonwijk of iets heel anders?",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcU5NajNJUXFUQ0ZiRVN5OXhJbWpSRUlMa1VJalJtcEEwR1FVRmFYelJRUmNVWW9uWml2QWp6X0pDVEl2VzlLdVZ5Szk2Y3pKcUZFWS11Q1hZaUpzYi00VS1UMURtQkxoSDZ6UkFkeDNudm82Ml9VdU9sS0VzQWY3QWpuRUxwUHFkTldpUzVOZlloOTdNYW95cm5ZMl9VV3oyOUNwRXRyc2k3WUhrc3FLNW1Lb0hSOFNT?oc=5",
+     "bron": "de Stentor",
+     "tijd": "09:25",
+     "sorteer": "2026-10-19T07:25:15+00:00"
+    },
+    {
+     "titel": "Zo krijgt de Twentse Piraten Party elk jaar tientallen artiesten naar Rossum",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd1FMY0lzem9keE1zR2dVYlFuTUVHOGNNQ3VpQ0pzWE5zei1qT0x3OWNwY2VBclZ0MmQ0OFR4MTJCWmxnWGdjSkdIUVgxcllLdkNaMER6RDNGQnZGTTlzRURQaUlEN1lQR21jaXdKdkRqVnNUM3VDeE5zSFdjWTBmcy1Md0tjc0NBcGs2cnVfSFBudVRGaUVoWnFkQWJYel9zeFIzME9lcE5zSEhBYUloaDVCQTFLRmt4dXhPRWtn?oc=5",
+     "bron": "Tubantia",
+     "tijd": "09:00",
+     "sorteer": "2026-10-19T07:00:33+00:00"
+    },
+    {
+     "titel": "Achter de schermen bij de Twentse Piraten Party in Rossum: zo wordt de line-up samengesteld",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbS1VMFlWc0dzRzlqYWNqR3I5NC1FUjVCSG53ZnNILThVWldZeDA4anNaMTNyS2xSQlV4VHNwWlAwY0N1dDB3dksxZDRVejQ5ck9LQk5GNjNHVm9XcXNHN0VjUWRtc3J1UDl5REQ2ek9iYnAxcmhXdUlaei1ON2x4WWRPM2MyMFpXSGlDT2JFa1JFZlNmVU9MREdYWmkyS1RMZkJQQ3VVZkd0YWNNSHZVanpCdGJZemNuRlQwcFRlMGE5UGNSSTd0VWZZd2NpLVlj?oc=5",
+     "bron": "Tubantia",
+     "tijd": "09:00",
+     "sorteer": "2026-10-19T07:00:00+00:00"
     },
     {
      "titel": "De groene revolutie gaat sneller dan gepland, want niemand hield zich aan het plan",
@@ -214,15 +242,42 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Halloween is nog ver weg, maar in deze Zwolse voortuin griezelt het al",
-     "context": "Samen met zijn dochters verbouwt Martin Stremmelaar zijn voortuin tot een grote Halloweenshow. Elke avond worden de grote poppen en lichtjes aangezet, dat terwijl Halloween pas eind van de maand is. \"Voorbijgangers staan soms wel een halfuur naar onze tuin te kijken\", zegt de Halloweenfan.",
+     "titel": "Spannende week bij Saxion voor ondersteunend personeel",
+     "context": "Voor medewerkers van de ondersteunende afdelingen van hogeschool Saxion komt het er deze week op aan. Vanaf vandaag horen zij in persoonlijke gesprekken of hun functie verdwijnt of verandert. Door dalende studentenaantallen krijgt de hogeschool minder geld binnen en moet de organisatie krimpen.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3707886/spannende-week-bij-saxion-voor-ondersteunend-personeel",
+     "bron": "RTV Oost",
+     "tijd": "08:57",
+     "sorteer": "2026-10-19T06:57:24+00:00"
+    },
+    {
+     "titel": "Petitie om trekpontje Duursche Waarden terug te krijgen al 2000 keer ondertekend",
+     "context": "Het trekpontje in de Duursche Waarden is sinds een incident eind 2025 al een tijdje uit de vaart. Tegelijkertijd blijft de zorg over de vraag of het vaartuig terug zal keren groeien bij wandelaars en natuurliefhebbers. De petitie voor het behoud van het pontje is sindsdien al ruim 2000 keer ondertekend.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3706296/petitie-om-trekpontje-duursche-waarden-terug-te-krijgen-al-2000-keer-ondertekend",
+     "bron": "RTV Oost",
+     "tijd": "08:01",
+     "sorteer": "2026-10-19T06:01:46+00:00"
+    },
+    {
+     "titel": "Illegale reclame langs A28 tiert welig, maar Zwolle heeft andere prioriteiten",
+     "context": "De wildgroei aan reclame langs de A28, tussen bedrijventerrein Hessenpoort en de Lichtmis, loopt de spuigaten uit. Dat stelt PRO in Zwolle. Bedrijven adverteren op karren en aanhangwagens, terwijl dit niet is toegestaan. De gemeente Zwolle geeft echter geen prioriteit aan handhaving.",
      "rubrieken": [
       "breaking"
      ],
-     "link": "https://www.oost.nl/nieuws/3706775/halloween-is-nog-ver-weg-maar-in-deze-zwolse-voortuin-griezelt-het-al",
+     "link": "https://www.oost.nl/nieuws/3706863/illegale-reclame-langs-a28-tiert-welig-maar-zwolle-heeft-andere-prioriteiten",
      "bron": "RTV Oost",
-     "tijd": "20:02",
-     "sorteer": "2026-10-18T18:02:38+00:00"
+     "tijd": "07:02",
+     "sorteer": "2026-10-19T05:02:20+00:00"
+    },
+    {
+     "titel": "Buurmannen starten vereniging om vuurwerk af te steken: 'Lijkt wel een evenement'",
+     "context": "Een oud en nieuw zonder vuurwerk is maar niks, vinden buurmannen Alex van den Hoorn en Jan Meuleman uit IJsselmuiden. De regels voor het afsteken van vuurwerk zijn aangescherpt. En dus proberen de buurmannen via een eigen vereniging een vuurwerkshow mogelijk te maken.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3706328/buurmannen-starten-vereniging-om-vuurwerk-af-te-steken-lijkt-wel-een-evenement",
+     "bron": "RTV Oost",
+     "tijd": "06:00",
+     "sorteer": "2026-10-19T04:00:00+00:00"
     },
     {
      "titel": "Vlees en eieren stelen, geldkist slopen, en nu is de boerderijwinkel dicht",
@@ -245,61 +300,26 @@
      "sorteer": "2026-10-18T14:39:37+00:00"
     },
     {
-     "titel": "Vrouw (59) terroriseert seniorencomplex in Diepenveen en moet vertrekken",
-     "context": "Schreeuwen, met meubels en bloempotten gooien en zelfs een agent in zijn kruis knijpen. Een 59-jarige vrouw veroorzaakt al maanden overlast in een seniorencomplex in Diepenveen. De rechter heeft bepaald dat ze haar woning moet verlaten.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3707684/vrouw-59-terroriseert-seniorencomplex-in-diepenveen-en-moet-vertrekken",
-     "bron": "RTV Oost",
-     "tijd": "14:56",
-     "sorteer": "2026-10-18T12:56:00+00:00"
-    },
-    {
-     "titel": "Klassieke kerstboom wordt duurder door kurkdroge zomer: 'Alle ballen op sneeuw'",
-     "context": "De hete en droge zomer voelen we straks ook in december. Door de droogte zijn veel kerstbomen beschadigd of doodgegaan. Daar komen de hoge kosten voor het sproeien nog bovenop. Het gevolg: voor een kerstboom betaal je dit jaar mogelijk zo'n vijf euro meer.",
+     "titel": "Een goede start van het nieuwe jaar begint vandaag!",
+     "context": "Het nieuwe jaar lijkt misschien nog ver weg, maar waarom zou je wachten tot januari om meer aandacht te besteden aan jezelf? Juist de laatste maanden van het jaar zijn een mooi moment om nieuwe gewoontes te ontwikkelen. Want goede voornemens hebben meer kans van slagen wanneer ze al onderdeel zijn van je dagelijkse leven. […]",
      "rubrieken": [
-      "breaking"
+      "Ingezonden bericht"
      ],
-     "link": "https://www.oost.nl/nieuws/3680520/klassieke-kerstboom-wordt-duurder-door-kurkdroge-zomer-alle-ballen-op-sneeuw",
-     "bron": "RTV Oost",
-     "tijd": "12:05",
-     "sorteer": "2026-10-18T10:05:10+00:00"
-    },
-    {
-     "titel": "Fietsster (76) overleden na aanrijding met auto in IJsselmuiden",
-     "context": "De fietser die gistermiddag is aangereden op de Oosterlandenweg in IJsselmuiden, is overleden. Dat meldt de politie. Het gaat om een 76-jarige vrouw uit de gemeente Kampen.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3707690/fietsster-76-overleden-na-aanrijding-met-auto-in-ijsselmuiden",
-     "bron": "RTV Oost",
-     "tijd": "12:02",
-     "sorteer": "2026-10-18T10:02:34+00:00"
-    },
-    {
-     "titel": "Zwanger of net bevallen: waarom gericht trainen juist nu waardevol is",
-     "context": "Bij Master Pilates Zwolle-Stadshagen is er speciale aandacht voor vrouwen tijdens én na de zwangerschap. In deze studio wordt een post- en prenatale training gegeven die bewust is afgestemd op een lichaam dat in korte tijd veel veranderingen doormaakt. Het is dan ook niet simpelweg een kwestie van ‘wat rustiger sporten’, maar van gericht en […]",
-     "rubrieken": [
-      "Geen categorie"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/554817/zwanger-of-net-bevallen-waarom-gericht-trainen-juist-nu-waardevol-is.html",
+     "link": "https://www.dalfsennet.nl/nieuws/554829/een-goede-start-van-het-nieuwe-jaar-begint-vandaag.html",
      "bron": "DalfsenNet",
-     "tijd": "08:58",
-     "sorteer": "2026-10-19T06:58:27+00:00"
+     "tijd": "09:23",
+     "sorteer": "2026-10-19T07:23:27+00:00"
     },
     {
-     "titel": "Van het Verhalencafé in Dalfsen naar de boksring in Zwolle",
-     "context": "DALFSEN – ZWOLLE – Wat doe je als het leven je een flinke klap uitdeelt? Blijf je liggen of sta je weer op? Die vraag staat centraal op vrijdag 6 november, wanneer drie ondernemers de boksring instappen. Niet om elkaar te bevechten, maar om hun persoonlijke verhalen te delen over vallen, opstaan, verlies en doorzettingsvermogen. […]",
+     "titel": "Inspirerend theaterweekend in Theater de Stoomfabriek",
+     "context": "Nicolien Sauerbreij met Er is meer dan goud op vrijdag 23 oktober Nederland juichte massaal voor de gouden medailles op de Olympische Winterspelen. Maar wat zit er eigenlijk achter zo’n gouden moment? Op 23 oktober verwelkomt Theater de Stoomfabriek olympisch kampioen snowboarden Nicolien Sauerbreij. Haar verhaal gaat niet alleen over winnen, maar ook over tegenslag, […]",
      "rubrieken": [
-      "Dalfsen",
-      "Evenementen",
-      "Ingezonden bericht",
-      "Laatste nieuws",
-      "Zwolle"
+      "Ingezonden bericht"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/554811/van-het-verhalencafe-in-dalfsen-naar-de-boksring-in-zwolle.html",
+     "link": "https://www.dalfsennet.nl/nieuws/554824/inspirerend-theaterweekend-in-theater-de-stoomfabriek.html",
      "bron": "DalfsenNet",
-     "tijd": "22:42",
-     "sorteer": "2026-10-18T20:42:54+00:00"
+     "tijd": "09:06",
+     "sorteer": "2026-10-19T07:06:39+00:00"
     }
    ]
   },
@@ -350,11 +370,11 @@
    "emoji": "🤖",
    "items": [
     {
-     "titel": "Anthropic verleent onafhankelijke AI-toezichthouder verregaande bevoegdheden",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQVFzSzh5amlZNzQzRWtRUWNoQlZYcWprc0xFUENDdGp1OG5Kb2UxVjJyMnVaUTFZOWh5cTF6RUFTQzVnVWNqMW5ROFJnZXZIbS02VFZiMDRsam44MWZJcUxGT3pnSGJMRk5tNEdUNThEc1EzV0t6MXo5OUE2Q1ZqWGhnbXc5eDMyblAxclBTM1ppLXE3TUhHLWRQbDBGUjN3WkFqN09oSQ?oc=5",
-     "bron": "aidagblad.nl",
-     "tijd": "23:26",
-     "sorteer": "2026-10-18T21:26:37+00:00"
+     "titel": "AI-gigant Anthropic doneert vijf procent van aandelen aan maatschappelijk fonds",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa2VuQnNoYzU5dXp3N3Y2aldPVFlUekhyNVZ0QlBwV1FCU0lPS00ySmlfSS1CbG5peXVaanRGM2p4MUYyNTl1a1NvS3pEZlpvVEctcXl4aDhPYWN6M3JRei02clY3NHJvUFJqTDFRbTZUbUJGODI2cWxkUDlDNnB6ak9Md3JGenJZZWhiM0R5OWdUWFFCMmt0Q2JoSjkyZUNYeUY0N2toWGxXcVhNSUpqZ3QycVZwQ2xyVEtoc1QyNVYzOUpfbW1SOQ?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "09:24",
+     "sorteer": "2026-10-19T07:24:20+00:00"
     }
    ]
   },
@@ -380,20 +400,20 @@
      "sorteer": "2026-10-19T04:45:00+00:00"
     },
     {
-     "titel": "Paddenstoelen laten zich minder zien tijdens de Paddenstoelentuintelling 2026",
-     "toelichting": "Van 9 tot en met 11 oktober vond de tweede editie van de Nationale Paddenstoelentuintelling plaats. Tijdens dit weekend kon iedereen weer op zoek naar paddenstoelen in de eigen tuin. Net als vorig jaar zijn alle soorten ",
-     "bron": "Nature Today",
-     "tijd": "10:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35929",
-     "sorteer": "2026-10-18T08:00:00+00:00"
-    },
-    {
      "titel": "Gemeenten en waterschappen zetten schouders onder subsidieregeling landschapselementen",
      "toelichting": "De Stimuleringsregeling Landschap 2.0 is tijdens een bestuurlijk werkbezoek weer extra op de kaart gezet. De provinciale regeling werd begin dit jaar opengesteld voor Brabanders met grond in het buitengebied die op eigen",
      "bron": "Nature Today",
      "tijd": "12:00",
      "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35942",
      "sorteer": "2026-10-18T10:00:00+00:00"
+    },
+    {
+     "titel": "Een zwarte waterspitsmuis en een witte vlek op de kaart",
+     "toelichting": "Een weekend speuren naar zoogdieren op de grens van Nederland en België leverde bijzondere vondsten op. Hier, in het natuurgebied KempenBroek, werkt ARK Rewilding Nederland met tal van partners aan het herstel van moeras",
+     "bron": "Nature Today",
+     "tijd": "14:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35951",
+     "sorteer": "2026-10-18T12:00:00+00:00"
     },
     {
      "titel": "Hoe sommige vogels duizenden kilometers afleggen zonder veel energie te verbruiken",
@@ -426,20 +446,28 @@
    "emoji": "🐦",
    "items": [
     {
+     "titel": "Dunsnavelnotenkraker",
+     "kop": "Zeldzaamheden",
+     "bron": "Flevoland",
+     "tijd": "09:07",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-19T09:07:00+02:00"
+    },
+    {
+     "titel": "Siberische Boompieper",
+     "kop": "Zeldzaamheden",
+     "bron": "Zuid-Holland",
+     "tijd": "08:46",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-19T08:46:00+02:00"
+    },
+    {
      "titel": "Witkopstaartmees",
      "kop": "Zeldzaamheden",
      "bron": "Utrecht",
      "tijd": "18:06",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-10-18T18:06:00+02:00"
-    },
-    {
-     "titel": "Siberische Boompieper",
-     "kop": "Zeldzaamheden",
-     "bron": "Friesland",
-     "tijd": "18:05",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-18T18:05:00+02:00"
     },
     {
      "titel": "Sperwergrasmus",
@@ -466,50 +494,58 @@
      "sorteer": "2026-10-18T14:07:00+02:00"
     },
     {
-     "titel": "Dwergaalscholver",
-     "kop": "Zeldzaamheden",
-     "bron": "Utrecht",
-     "tijd": "12:21",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-18T12:21:00+02:00"
+     "titel": "Dalfsen (nacht)",
+     "kop": "Vogeltrek",
+     "bron": "19-10",
+     "wanneer": "vannacht",
+     "tijd": "19:10–23:00",
+     "link": "https://trektellen.org/count/view/2364/20261019",
+     "soorten": [
+      "Kolgans 4",
+      "Merel 2",
+      "Roodborst 1"
+     ],
+     "aantal_soorten": 3,
+     "opmerkingen": [],
+     "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 94 soorten, 22.729 vogels geteld",
+     "titel": "Landelijk vandaag: 126 soorten, 68.074 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
-     "titel": "Spreeuw — 5.203",
+     "titel": "Spreeuw — 26.892",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
-     "titel": "Kolgans — 4.645",
+     "titel": "Kolgans — 9.115",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
-     "titel": "Vink — 2.931",
+     "titel": "Vink — 8.278",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
-     "titel": "anser spec. — 2.715",
+     "titel": "Kievit — 4.249",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
-     "titel": "Kievit — 1.350",
+     "titel": "Veldleeuwerik — 3.542",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -517,39 +553,55 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "lijster spec. springt eruit — 340, normaal 27",
-     "bron": "13× het gewone niveau",
+     "titel": "lijster spec. springt eruit — 805, normaal 27",
+     "bron": "30× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "anser spec. springt eruit — 2.715, normaal 721",
-     "bron": "4× het gewone niveau",
+     "titel": "Kramsvogel springt eruit — 1.102, normaal 122",
+     "bron": "9× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch",
+     "sein": false
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Slobeend springt eruit — 272, normaal 40",
+     "bron": "7× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch",
+     "sein": false
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "anser spec. springt eruit — 3.442, normaal 721",
+     "bron": "5× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch",
      "sein": false
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Trek komt op gang — gisteren 128 meldingen, samen 10.123 vogels",
+     "titel": "Rustig — vandaag 6 meldingen, samen 526 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "aflopend — dag ervoor 203 · afgelopen week gemiddeld 83 per dag"
+     "vergelijking": "aflopend — dag ervoor 133 · afgelopen week gemiddeld 99 per dag"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "8 binnen 75 km van Dalfsen",
-     "bron": "dichtstbij: Wierden - Westerveen, 24 km",
-     "tijd": "09:34",
+     "titel": "4 binnen 75 km van Dalfsen",
+     "bron": "dichtstbij: Reestdal - Overijsselse kant, 17 km",
+     "tijd": "08:39",
      "link": "https://waarneming.nl/species/19/observations/"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "63 meldingen vertrek uit het noorden",
-     "bron": "DE 55, SE 6, PL 2",
+     "titel": "1 meldingen vertrek uit het noorden",
+     "bron": "DE 1",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -574,8 +626,8 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 11.3,
-    "gevoel": 9.4,
+    "nu": 11.4,
+    "gevoel": 9.5,
     "wind": "O 3",
     "station": "Heino",
     "bericht": "Vandaag een droge dag met vooral vanmiddag steeds vaker de zon erbij. Morgen eerst volop zon. Later in de middag neemt de bewolking in het zuiden wel toe en tegen de avond bestaat er kans op lichte regen.",
