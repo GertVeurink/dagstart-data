@@ -3,14 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "07:00",
+  "opgehaald": "08:00",
   "blokken": 9,
-  "berichten": 65,
+  "berichten": 58,
   "problemen": [],
-  "audio_herkomst": "vangnet",
-  "audio_aangehaakt": "07:20"
+  "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-19T07:00+02:00",
+ "opgehaald": "2026-10-19T08:00+02:00",
  "audio": "audio/20261019.mp3",
  "blokken": [
   {
@@ -140,7 +139,7 @@
      "link": "https://www.volkskrant.nl/binnenland/schipper-wil-je-overvaren-ja-maar-niet-alleen-pontmedewerkers-bezorgd-over-experiment~bcaea580/",
      "bron": "de Volkskrant",
      "tijd": "05:00",
-     "sorteer": "2026-10-19T03:00:15+00:00"
+     "sorteer": "2026-10-19T03:00:00+00:00"
     },
     {
      "titel": "‘Mijn kinderloze oom wilde mij wel hebben in ruil voor een koe’",
@@ -161,32 +160,11 @@
      "sorteer": "2026-10-18T13:05:00+00:00"
     },
     {
-     "titel": "Artsen stapten op bij strengste azc van Nederland: ‘Psychiatrische patiënten horen hier niet thuis’",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQWdKd2V4T3RHUmtnaG1QVmZyZzFrOW5mNnpGTVI4MTlMNUZzRERSWS1FcXBxN0doTFJjbmJxQVA3dHpDUldqWTBVSzF0Nlp3aWRpcHpheFk4b1NzOGh3d3M0eEdwUm1KUnVNVk9PMF80MWh6Ykpram1nOEVnX2VYY0tZMi1CLTdhS2owR3ZsTElwbXFfYVZaMllULVF3bklyd0R3YnR5aWN2X3ozbnBENU44eVVUM0syWDU5OHRsUHVmQnl5bzlES0Q1dGpVWG4xeWFyc185Qk5JUQ?oc=5",
-     "bron": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-     "tijd": "05:00",
-     "sorteer": "2026-10-19T03:00:00+00:00"
-    },
-    {
-     "titel": "Macron roept op tot ‘rust en orde’ na golf van geweld en plunderingen in Frankrijk",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVGZBWlFCbEV3Qm5PZjgzblU2aldITXljcEtybGVJYzI5LVY0OVBydGM1QlJTMEw0ZFdRYlc0elZ4b0tNZzRqZE1jbUlfVWxEc0hnNUdSTmx0RGZtN0h5czVEUExCbVFjOHlFNDh1SEtSUDMtZlpvVlBxY2FCSHg0TkJkYkZzZ2lfNG1lZG1oS2MxeE9TX0xscE1kbjZEc0Jhdm9pcWtqUXQyZkxOcXpNa0NPSnYwS1RZMWQ5QXNENlg3RUVIbFpON3FR?oc=5",
+     "titel": "Ochtendnieuws: CDA-leider Bontenbal waarschuwt coalitie: zonder compromissen staat kabinet klem",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRkZSa2s0YkZqczNRd0dDOTByNXY3UWlmSUFZSFBFRU44WjdGVmtfVlJMbnBLRUZoaFQ2dG9oVEFpMkc1VVBZTHlkSE80NXFCMTl5TU0zU3ZPV2JsdmdkM2NJYWFmbUJCZkV2cXpGTGpqejVsdUphaHJFcUhZcVU4Yzk1LU94LU1Bd0dDTC1NX2RqdG9XdkdwdDhZZTFZLTAxTDB1VzhXdzJPS2psYmZSYUMxSmdxWmZJYlZkTEpUeHFHeVc0TEVidjYxYzlHUENJZXJKN3R1dnBqUWxu?oc=5",
      "bron": "bnr.nl",
-     "tijd": "05:58",
-     "sorteer": "2026-10-19T03:58:12+00:00"
-    },
-    {
-     "titel": "Macron: verschil tussen mensen met valide eisen en plunderaars",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT1hUOXdSTlRqS0ctVFliX0t4eVE1cVlpbFMzaUp5ZjNqTHFRRnNIZWFIZ0p5MlVUbFFGNkFkdmIwa0o1Y0NpYnZxNVVydjRaR2NvRkltc0xvVXg3N0x2LVhLY3JybDZHajM1THlHOUNPV1lXdnpoUW5GZkFqQUZDZFpyNU5OMG1haENRZ3JYM0s?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "01:52",
-     "sorteer": "2026-10-18T23:52:31+00:00"
-    },
-    {
-     "titel": "Ruim honderd arrestaties bij nieuwe onrust in Parijs",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjZyeHZpb2FWM3JxWUJhMUYyZjY4dTMxN1VhVzZXaDNmUS1RZ2RqajJ0OGpQckNVSXZLak9TR1Fpbk5pNXZtNGRMZVpDcE01X0Y4Y2tHX1FoMHZKWEpmR3dFWUJlRlM4ekIwb0RkNUFSQjV2RTl0cmxTUWFTR21DeFBlUE0?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "01:52",
-     "sorteer": "2026-10-18T23:52:30+00:00"
+     "tijd": "06:55",
+     "sorteer": "2026-10-19T04:55:40+00:00"
     },
     {
      "titel": "De groene revolutie gaat sneller dan gepland, want niemand hield zich aan het plan",
@@ -236,10 +214,21 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Buren richten vereniging op voor vuurwerkvergunning: 'Hoop werk'",
+     "titel": "Illegale reclame langs A28 tiert welig, maar Zwolle heeft andere prioriteiten",
+     "context": "De wildgroei aan reclame langs de A28, tussen bedrijventerrein Hessenpoort en de Lichtmis, loopt de spuigaten uit. Dat stelt PRO in Zwolle. Bedrijven adverteren op karren en aanhangwagens, terwijl dit niet is toegestaan. De gemeente Zwolle geeft echter geen prioriteit aan handhaving.",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3706863/illegale-reclame-langs-a28-tiert-welig-maar-zwolle-heeft-andere-prioriteiten",
+     "bron": "RTV Oost",
+     "tijd": "07:02",
+     "sorteer": "2026-10-19T05:02:20+00:00"
+    },
+    {
+     "titel": "Buurmannen starten vereniging om vuurwerk af te steken: 'Lijkt wel een evenement'",
      "context": "Een oud en nieuw zonder vuurwerk is maar niks, vinden buurmannen Alex van den Hoorn en Jan Meuleman uit IJsselmuiden. De regels voor het afsteken van vuurwerk zijn aangescherpt. En dus proberen de buurmannen via een eigen vereniging een vuurwerkshow mogelijk te maken.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706328/buren-richten-vereniging-op-voor-vuurwerkvergunning-hoop-werk",
+     "link": "https://www.oost.nl/nieuws/3706328/buurmannen-starten-vereniging-om-vuurwerk-af-te-steken-lijkt-wel-een-evenement",
      "bron": "RTV Oost",
      "tijd": "06:00",
      "sorteer": "2026-10-19T04:00:00+00:00"
@@ -265,12 +254,12 @@
      "sorteer": "2026-10-18T16:01:50+00:00"
     },
     {
-     "titel": "Alle mensen die verontreinigd water bij Grolsch dronken uit ziekenhuis ontslagen",
+     "titel": "Allen die verontreinigd water bij Grolsch dronken, zijn uit ziekenhuis ontslagen",
      "context": "Een dag nadat elf mensen tijdens een rondleiding door de Grolsch-brouwerij klachten kregen na het drinken van bronwater, zijn alle betrokkenen uit het ziekenhuis ontslagen. Bij het incident waren negen bezoekers en twee medewerkers betrokken.",
      "rubrieken": [
       "breaking"
      ],
-     "link": "https://www.oost.nl/nieuws/3707715/alle-mensen-die-verontreinigd-water-bij-grolsch-dronken-uit-ziekenhuis-ontslagen",
+     "link": "https://www.oost.nl/nieuws/3707715/allen-die-verontreinigd-water-bij-grolsch-dronken-zijn-uit-ziekenhuis-ontslagen",
      "bron": "RTV Oost",
      "tijd": "16:39",
      "sorteer": "2026-10-18T14:39:37+00:00"
@@ -283,15 +272,6 @@
      "bron": "RTV Oost",
      "tijd": "15:13",
      "sorteer": "2026-10-18T13:13:50+00:00"
-    },
-    {
-     "titel": "Vrouw (59) terroriseert seniorencomplex in Diepenveen en moet vertrekken",
-     "context": "Schreeuwen, met meubels en bloempotten gooien en zelfs een agent in zijn kruis knijpen. Een 59-jarige vrouw veroorzaakt al maanden overlast in een seniorencomplex in Diepenveen. De rechter heeft bepaald dat ze haar woning moet verlaten.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3707684/vrouw-59-terroriseert-seniorencomplex-in-diepenveen-en-moet-vertrekken",
-     "bron": "RTV Oost",
-     "tijd": "14:56",
-     "sorteer": "2026-10-18T12:56:00+00:00"
     },
     {
      "titel": "Van het Verhalencafé in Dalfsen naar de boksring in Zwolle",
@@ -382,20 +362,6 @@
      "bron": "Tweakers",
      "tijd": "06:00",
      "sorteer": "2026-10-19T04:00:00+00:00"
-    },
-    {
-     "titel": "Man reist bijna 2.000 km om zijn droomvrouw te zien... om dan erachter te komen dat ze AI-gegenereerd is",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOXc5M0Z5NFdDVjN1R3BwOVA4b2NyOE9iRHVTU21xZDZmS1g4UEJEcmdTUWRrOGt3MlZPajVGei1wYUVaV3gzV1daZXFBTm1ZMXBJVENDZENreHVSSHBMeno5d3NiWXY0TzQ4YXBCbXVjMzJOajFhcXJxWkhjM1Q0dmNlM3Bzd2RUSmFFRTBac29nT0RZUGRBa3dvbmQ2SVZGS281UWVGZHpjZHFuOWtRTmhZdTNHcjY4cVZyOGJsTEY5QUdhdF8xYTU3Y2tjdnhhY29BZjBhT1dHUlJ5Ty1yeVBia2hnVkVaZWRN?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "03:54",
-     "sorteer": "2026-10-19T01:54:03+00:00"
-    },
-    {
-     "titel": "AI gaat opereren, de chirurg kijkt toe: ‘Over 20 jaar opereert AI misschien wel beter dan wij nu’",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT1Y1LU9nSVRYRVNDakw5TzROZ0ZkdGk3V3lTUkNBZVNmaHFUS05wT3JRck9oVU9kYzZiQUc5Vm5wQ3RnM3NsZlNYU25mM2ctbWQwSllUTTM0bU5ENnlncGdyNlNvZjZLUFUyRFRoVE9sQTJlX1NsZVVhUkNtY0VrTDQtUWd4OXBkQnV0Z0lCNkpXYVpzM3lrdlJwamdTaFlmanc5RDJzbWdXM1MwZG9lNlBXLXBpODJhRWJGOUg3dks0N3E5ZldyeWZGNWF2SlN4?oc=5",
-     "bron": "Het Parool",
-     "tijd": "03:01",
-     "sorteer": "2026-10-19T01:01:00+00:00"
     }
    ]
   },
@@ -515,66 +481,50 @@
      "sorteer": "2026-10-18T12:21:00+02:00"
     },
     {
-     "titel": "Landelijk gisteren: 175 soorten, 98.188 vogels geteld",
+     "titel": "Landelijk vandaag: 12 soorten, 83 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
-     "titel": "Spreeuw — 40.108",
+     "titel": "Vink — 26",
      "kop": "Vogeltrek",
-     "bron": "landelijk, gisteren",
+     "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
-     "titel": "Vink — 13.729",
+     "titel": "Roek — 18",
      "kop": "Vogeltrek",
-     "bron": "landelijk, gisteren",
+     "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
-     "titel": "Kramsvogel — 8.258",
+     "titel": "Veldleeuwerik — 8",
      "kop": "Vogeltrek",
-     "bron": "landelijk, gisteren",
+     "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
-     "titel": "Kauw — 6.527",
+     "titel": "Rietgors — 8",
      "kop": "Vogeltrek",
-     "bron": "landelijk, gisteren",
+     "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
-     "titel": "Kolgans — 4.500",
+     "titel": "Keep — 5",
      "kop": "Vogeltrek",
-     "bron": "landelijk, gisteren",
+     "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Kramsvogel springt eruit — 8.258, normaal 105",
-     "bron": "79× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Bergeend springt eruit — 85, normaal 24",
-     "bron": "4× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch",
-     "sein": false
+     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Trek komt op gang — gisteren 124 meldingen, samen 9.110 vogels",
+     "titel": "Trek komt op gang — gisteren 125 meldingen, samen 9.111 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -589,8 +539,8 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "59 meldingen vertrek uit het noorden",
-     "bron": "DE 52, SE 5, PL 2",
+     "titel": "60 meldingen vertrek uit het noorden",
+     "bron": "DE 53, SE 5, PL 2",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -615,15 +565,15 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 11.7,
-    "gevoel": 11.7,
-    "wind": "O 2",
+    "nu": 11.5,
+    "gevoel": 9.9,
+    "wind": "O 3",
     "station": "Heino",
     "bericht": "Vandaag een droge dag met vooral vanmiddag steeds vaker de zon erbij. Morgen eerst volop zon. Later in de middag neemt de bewolking in het zuiden wel toe en tegen de avond bestaat er kans op lichte regen.",
     "vandaag": "Vandaag een droge dag met vooral vanmiddag steeds vaker de zon erbij. Vanochtend hebben we te maken met tamelijk veel bewolking, maar hier en daar komen toch ook opklaringen voor, waardoor de zon wat vaker te zien zal zijn.",
     "temperatuur": "De middagtemperatuur varieert van 13 graden in het noorden tot 15 graden in de Limburgse heuvels.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: lichte motregen, 7 tot 13 graden, 85% kans op neerslag, ruim 3 uur zon, wind uit het oosten, kracht 3.",
+     "zin": "Voor Dalfsen zelf: lichte motregen, 7 tot 13 graden, 85% kans op neerslag, ruim 3 uur zon, wind uit het oosten, kracht 4.",
      "max": 13,
      "min": 7,
      "regenkans": 85,
