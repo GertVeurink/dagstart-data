@@ -3,13 +3,15 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "15:57",
+  "opgehaald": "16:00",
   "blokken": 10,
   "berichten": 74,
-  "problemen": [],
+  "problemen": [
+   "weer Dalfsen: HTTPError"
+  ],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-19T15:57+02:00",
+ "opgehaald": "2026-10-19T16:00+02:00",
  "audio": "audio/20261019.mp3",
  "blokken": [
   {
@@ -584,42 +586,42 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 174 soorten, 382.125 vogels geteld",
+     "titel": "Landelijk vandaag: 174 soorten, 383.903 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
-     "titel": "Spreeuw — 136.919",
+     "titel": "Spreeuw — 137.499",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
-     "titel": "Kolgans — 75.953",
+     "titel": "Kolgans — 76.201",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
-     "titel": "Vink — 39.816",
+     "titel": "Vink — 40.005",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
-     "titel": "Veldleeuwerik — 29.080",
+     "titel": "Veldleeuwerik — 29.582",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
-     "titel": "Kievit — 27.442",
+     "titel": "Kievit — 27.547",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -635,7 +637,7 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Kramsvogel springt eruit — 2.804, normaal 122",
+     "titel": "Kramsvogel springt eruit — 2.812, normaal 122",
      "bron": "23× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch",
@@ -643,7 +645,7 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Kievit springt eruit — 27.442, normaal 1.642",
+     "titel": "Kievit springt eruit — 27.547, normaal 1.642",
      "bron": "17× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch",
@@ -659,7 +661,7 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Trek komt op gang — vandaag 146 meldingen, samen 18.851 vogels",
+     "titel": "Trek komt op gang — vandaag 149 meldingen, samen 19.145 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -667,15 +669,15 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "23 binnen 75 km van Dalfsen",
-     "bron": "dichtstbij: Reestdal - Overijsselse kant, 17 km",
-     "tijd": "08:39",
+     "titel": "24 binnen 75 km van Dalfsen",
+     "bron": "dichtstbij: Zwolle - Park De Weezenlanden - Doepark Nooterhof, 10 km",
+     "tijd": "15:58",
      "link": "https://waarneming.nl/species/19/observations/"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "107 meldingen vertrek uit het noorden",
-     "bron": "DE 107",
+     "titel": "109 meldingen vertrek uit het noorden",
+     "bron": "DE 108, PL 1",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -707,13 +709,7 @@
     "bericht": "Vandaag is een droge dag met tegen het einde van de middag steeds meer zon. Morgen eerst volop zon. Later in de middag neemt de bewolking en de kans op lichte regen in het zuiden wel toe.",
     "vandaag": "Vandaag is een droge dag met tegen het einde van de middag steeds meer zon. Vanmiddag wisselen zonnige en bewolkte momenten elkaar af, maar geleidelijk komt de zon steeds vaker tevoorschijn.",
     "temperatuur": "De middagtemperatuur varieert van 13 graden tot 15 graden.",
-    "dalfsen": {
-     "zin": "Voor Dalfsen zelf: lichte motregen, 7 tot 13 graden, 85% kans op neerslag, ruim 2 uur zon, wind uit het oosten, kracht 3.",
-     "max": 13,
-     "min": 7,
-     "regenkans": 85,
-     "omschrijving": "lichte motregen"
-    },
+    "dalfsen": null,
     "vooruit": "Wisselvallig herfstweer met van tijd tot tijd regen en vanaf vrijdag af en toe veel wind. De maximumtemperaturen liggen rond 13⁰C, in het weekeinde wat lager.",
     "omslag": "Vanaf woensdag regen: de kans loopt op van 20% naar 80%.",
     "min": "10",
