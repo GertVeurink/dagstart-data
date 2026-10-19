@@ -1,22 +1,42 @@
 {
- "datum": "2026-10-18",
- "naam": "Avondbriefing",
+ "datum": "2026-10-19",
+ "naam": "Ochtendbriefing",
  "status": {
-  "ronde": "Avondbriefing",
-  "opgehaald": "23:00",
+  "ronde": "Ochtendbriefing",
+  "opgehaald": "05:55",
   "blokken": 9,
-  "berichten": 65,
-  "problemen": [],
-  "audio_herkomst": "vangnet"
+  "berichten": 59,
+  "problemen": [
+   "geen toegang tot /Users/thuismap/Library/Mobile Documents/com~apple~CloudDocs/Ochtendbriefing — overgeslagen"
+  ],
+  "audio_herkomst": null
  },
- "opgehaald": "2026-10-18T23:00+02:00",
- "audio": "audio/20261018.mp3",
+ "opgehaald": "2026-10-19T05:55+02:00",
+ "audio": null,
  "blokken": [
   {
    "id": "internationaal",
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Vlucht uit Tel Aviv naar Wenen maakt noodlanding in Bulgarije na bommelding",
+     "context": "Een vlucht die vanuit de Israëlische stad Tel Aviv onderweg was naar Wenen in Oostenrijk is uitgeweken op het vliegveld van Sofia in Bulgarije nadat er een bommelding was gedaan. Dat melden de Bulgaarse autoriteiten. Het vliegtuig wordt doorzocht, het is niet bekendgemaakt of er een explosief aan boord is aangetroffen. Een speciaal team doet onderzoek naar het incident. De vlucht van de Oostenrijk",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635547",
+     "bron": "NOS",
+     "tijd": "03:44",
+     "sorteer": "2026-10-19T03:44:12+02:00"
+    },
+    {
+     "titel": "Nog 19 mensen in kritieke toestand na fatale brand op militaire basis Canada",
+     "context": "19 van de 39 mensen die zaterdag bij de brand op een militaire basis in Canada gewond raakten en naar het ziekenhuis moesten, verkeren in kritieke toestand. Dat heeft de premier van de provincie Alberta bekendgemaakt. Bij de brand in Wainwright in Alberta kwamen vier militairen om het leven. Het incident gebeurde toen er op het militaire terrein tijdens een oefening met scherp werd geschoten. Moge",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2635546",
+     "bron": "NOS",
+     "tijd": "01:27",
+     "sorteer": "2026-10-19T01:27:30+02:00"
+    },
     {
      "titel": "VS dreigt met 'verwoestende' tegenmaatregelen als Europa SpaceX niet vrij baan geeft",
      "context": "Europese bedrijven krijgen te maken met \"verwoestende\" tegenmaatregelen als Brussel plannen doorzet om de toegang tot de Europese markt te beperken voor bijvoorbeeld het Amerikaanse techbedrijf SpaceX van Elon Musk. Dat zegt de Amerikaanse ambassadeur bij de Europese Unie, Andrew Puzder, tegen de Britse krant Financial Times . Wat die tegenmaatregelen zouden inhouden, zegt hij niet. Afgelopen zome",
@@ -45,56 +65,31 @@
      "sorteer": "2026-10-18T20:01:57+02:00"
     },
     {
-     "titel": "Priester in Ecuador overlijdt tijdens mis door vallend kruisbeeld",
-     "context": "In Ecuador is gistermiddag een katholieke priester overleden nadat tijdens de mis het kruisbeeld vol op hem was neergekomen. Het aartsbisdom van de stad Guayaquil heeft zijn overlijden bevestigd. De mis werd live uitgezonden op sociale media. Op de beelden is te zien dat priester Patricio Alfredo Sánchez Molinari achter het altaar staat wanneer de houten crucifix van de Perpetuo Socorro-kerk plots",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635522",
-     "bron": "NOS",
-     "tijd": "19:16",
-     "sorteer": "2026-10-18T19:16:40+02:00"
-    },
-    {
-     "titel": "Tien burgerdoden in Oekraïne, dat zelf grote drone-aanval op Rusland uitvoert",
-     "context": "Russische aanvallen op Oekraïne hebben in een dag tijd tien burgerlevens geëist, meldt krant The Kyiv Independent op basis van lokale autoriteiten. Tegelijkertijd heeft het Oekraïense leger afgelopen nacht een van zijn grootste drone-aanvallen op Rusland uitgevoerd sinds het begin van de oorlog. In de Russische stad Sint-Petersburg zijn onder meer een olieterminal en een datacenter getroffen. De g",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635507",
-     "bron": "NOS",
-     "tijd": "17:57",
-     "sorteer": "2026-10-18T17:57:26+02:00"
-    },
-    {
-     "titel": "Frankrijk zit gevangen in een vicieuze cirkel van onmacht en geweld",
+     "titel": "Dode en gewonden bij Russische aanval op metro in Kyiv",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/frankrijk-zit-gevangen-in-een-vicieuze-cirkel-van-onmacht-en-geweld~bae1ae0e/",
+     "link": "https://www.volkskrant.nl/buitenland/liveblog-oekraine-zelensky-nieuws-poetin-trump~bb03466a/",
      "bron": "de Volkskrant",
-     "tijd": "21:00",
-     "sorteer": "2026-10-18T19:00:04+00:00"
+     "tijd": "05:38",
+     "sorteer": "2026-10-19T03:38:00+00:00"
     },
     {
-     "titel": "Oekraïne negeert Trump en vuurt duizendtal drones af op Rusland, ook raffinaderij getroffen",
+     "titel": "VN-top over biodiversiteit begint: wat staat er op het spel?",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/oekraine-negeert-trump-en-vuurt-duizendtal-drones-af-op-rusland-ook-raffinaderij-getroffen~b4f8fa4d/",
+     "link": "https://www.volkskrant.nl/buitenland/vn-top-over-biodiversiteit-begint-wat-staat-er-op-het-spel~bb7dcaa8/",
      "bron": "de Volkskrant",
-     "tijd": "19:15",
-     "sorteer": "2026-10-18T17:15:00+00:00"
+     "tijd": "05:00",
+     "sorteer": "2026-10-19T03:00:19+00:00"
     },
     {
-     "titel": "Italië in de ban van een mysterieuze ‘moord’",
+     "titel": "Zelensky: Oekraïne krijgt weer inlichtingen van VS",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/italie-in-de-ban-van-een-mysterieuze-moord~b28d4d6c/",
+     "link": "https://www.trouw.nl/buitenland/live-oorlog-oekraine-dode-en-drie-gewonden-bij-russische-aanval-op-metrostation-kyiv~ba2815bb/",
      "bron": "Trouw",
-     "tijd": "22:00",
-     "sorteer": "2026-10-18T20:00:45+00:00"
-    },
-    {
-     "titel": "Het polarisatieverwijt is een wapen van extreemrechts dat het begrip presenteert als een toonkwestie",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPXzN4aGtoZ3h0X0tvd0JtMnhaMUlPTVFXbHdzQ2ROTHV6eldyZUw1dWFKNE93RXN0MkZLU0RwUnRTcHRNT1otTVRmMzlRWEpsNEEyU3ZNT2RIUFYtdG41LWZMTHdDUTVJS3Bnb3NLeDRpMmVNRFlNMFlhajlWaURqakRScmpUcGJNdFo4SnZhb0dmRU5mcGZCTXNyNXA1b0JTNlpnejI2UEk5SmRSdXd4aERpNXB2Q3N2MW8wZm9KVG9Da2FuTXMzMDRQTWR3YUhsTGRGcVM2VFNNOTNBM0R2di0tT1hIWHpBRGVn?oc=5",
-     "bron": "de Volkskrant",
-     "tijd": "21:00",
-     "sorteer": "2026-10-18T19:00:03+00:00"
+     "tijd": "05:40",
+     "sorteer": "2026-10-19T03:40:00+00:00"
     }
    ]
   },
@@ -149,6 +144,15 @@
      "sorteer": "2026-10-18T11:07:19+02:00"
     },
     {
+     "titel": "Schipper, wil je overvaren? Ja, maar niet alleen: pontmedewerkers bezorgd over experiment",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/binnenland/schipper-wil-je-overvaren-ja-maar-niet-alleen-pontmedewerkers-bezorgd-over-experiment~bcaea580/",
+     "bron": "de Volkskrant",
+     "tijd": "05:00",
+     "sorteer": "2026-10-19T03:00:15+00:00"
+    },
+    {
      "titel": "‘Mijn kinderloze oom wilde mij wel hebben in ruil voor een koe’",
      "context": "",
      "rubrieken": [],
@@ -156,15 +160,6 @@
      "bron": "de Volkskrant",
      "tijd": "21:01",
      "sorteer": "2026-10-18T19:01:51+00:00"
-    },
-    {
-     "titel": "‘Hij zei steeds: ‘Houd me vast, ik trek dit niet’’",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/mensen/hij-zei-steeds-houd-me-vast-ik-trek-dit-niet~b7035eb1/",
-     "bron": "de Volkskrant",
-     "tijd": "12:25",
-     "sorteer": "2026-10-18T10:25:00+00:00"
     },
     {
      "titel": "Het noorden voelt zich gezien in infraplannen, ook al is de nieuwe vaarroute naar Ameland nog even geschrapt",
@@ -176,25 +171,54 @@
      "sorteer": "2026-10-18T13:05:00+00:00"
     },
     {
-     "titel": "Vreedzame protestmars van tienduizenden Franse demonstranten overschaduwd door geweld van relschoppers",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdjNRY1ZoQTNUZ2wtY3ZRTC1aNjd1SEtaVTl5UndnalBGeDV4bmN0WW9sR2M0Y3ZabzltQlZXYWZHUkN5YUdaNTJ1aFcxN0VNbjR3RVI3MFdlb0w3dmw2Mm1SRk44M25Qd0NpVmpKdUw5UjQ3ZUFGRUVzcElfYUxXWjB5blNrZFRJOGIxRnhLUk9sdy0yV3JkSFRrN09hanBxR1AtamhVM3ZNSjdXVUdybzkwbVpUZ3RaQnpaSFJOUkZ1V2dDQjN5SDJ3UHdhcjRMMWtqNmk1aTlrM3RENHNBQkY5Zw?oc=5",
-     "bron": "de Volkskrant",
-     "tijd": "22:18",
-     "sorteer": "2026-10-18T20:18:02+00:00"
-    },
-    {
-     "titel": "De kwestie-Rooney laat het gevaar zien van een staat die steun aan actiegroepen strafbaar stelt",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaWZxWlp3S3UySFE0QXhPVy1weDlJZnE3UUtoVm1KM1I4MklzVk93YmlFRzB3ZGFDQzZ5TmxWX1E5MnZmeVhNZ0FHWVhrcEE2dC1YclZlbzltc3hJaVpNSFdiajlnWXhxcDY2N2x6WWdWbXJVaHE5T3lBanpMTG1XUEFjRldMV1MwMTd6RGJobVBZS0hkdEJuRW9SM0NWOTNGaEhvUnQxSG9vNE96b2lpc3pkdXFJQlNpTW9BYkd6TzRucGF4R21VUU82bFJxZw?oc=5",
-     "bron": "Trouw",
-     "tijd": "22:00",
-     "sorteer": "2026-10-18T20:00:43+00:00"
+     "titel": "Artsen stapten op bij strengste azc van Nederland: ‘Psychiatrische patiënten horen hier niet thuis’",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQWdKd2V4T3RHUmtnaG1QVmZyZzFrOW5mNnpGTVI4MTlMNUZzRERSWS1FcXBxN0doTFJjbmJxQVA3dHpDUldqWTBVSzF0Nlp3aWRpcHpheFk4b1NzOGh3d3M0eEdwUm1KUnVNVk9PMF80MWh6Ykpram1nOEVnX2VYY0tZMi1CLTdhS2owR3ZsTElwbXFfYVZaMllULVF3bklyd0R3YnR5aWN2X3ozbnBENU44eVVUM0syWDU5OHRsUHVmQnl5bzlES0Q1dGpVWG4xeWFyc185Qk5JUQ?oc=5",
+     "bron": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+     "tijd": "05:00",
+     "sorteer": "2026-10-19T03:00:00+00:00"
     },
     {
      "titel": "Grensgemeenten vrezen massale omzeiling vuurwerkverbod via Duitsland en België: ’De pakkans is niet heel groot’",
      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbWFmZDhNTkRiVTlFWWVpZlAzd0FILUFsLTJLWHFKbDl1TjgtZHJLMzNKMWlXUUNYU3JpUXJQXzBnQVdrSFp0QXFfNkZ1TWpEMExYT092dUsxUTNkRUx4aHNuMHB3WGt6SVFfV1drbGVkQUNyNkJPTnlpbFFfNHRjQ1FoUHB3YnV4cEJza0ItbzZmb3Nod3dtRHliZDFtMHVZYWYwZjU3WkdNRnVySDlHZzBZeHNKNkdreWlna0V4MzFkSTl1THRaWjFnM1MyeVhEZUU3UkZNT2JwdmVCNzZ2NjREY3ZweGtCM0RUcFVwdUE?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "21:30",
-     "sorteer": "2026-10-18T19:30:00+00:00"
+     "tijd": "04:30",
+     "sorteer": "2026-10-19T02:30:00+00:00"
+    },
+    {
+     "titel": "Macron: verschil tussen mensen met valide eisen en plunderaars",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT1hUOXdSTlRqS0ctVFliX0t4eVE1cVlpbFMzaUp5ZjNqTHFRRnNIZWFIZ0p5MlVUbFFGNkFkdmIwa0o1Y0NpYnZxNVVydjRaR2NvRkltc0xvVXg3N0x2LVhLY3JybDZHajM1THlHOUNPV1lXdnpoUW5GZkFqQUZDZFpyNU5OMG1haENRZ3JYM0s?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "01:52",
+     "sorteer": "2026-10-18T23:52:31+00:00"
+    },
+    {
+     "titel": "Ruim honderd arrestaties bij nieuwe onrust in Parijs",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjZyeHZpb2FWM3JxWUJhMUYyZjY4dTMxN1VhVzZXaDNmUS1RZ2RqajJ0OGpQckNVSXZLak9TR1Fpbk5pNXZtNGRMZVpDcE01X0Y4Y2tHX1FoMHZKWEpmR3dFWUJlRlM4ekIwb0RkNUFSQjV2RTl0cmxTUWFTR21DeFBlUE0?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "01:52",
+     "sorteer": "2026-10-18T23:52:30+00:00"
+    },
+    {
+     "titel": "De groene revolutie gaat sneller dan gepland, want niemand hield zich aan het plan",
+     "link": "https://decorrespondent.nl/17327",
+     "bron": "De Correspondent · Jesse Frederik",
+     "tijd": "05:45",
+     "sorteer": "2026-10-19T03:45:07+00:00"
+    },
+    {
+     "titel": "Háár kleinkinderen blijven altijd eten – welkom bij de battle of the oma’s",
+     "link": "https://decorrespondent.nl/17326",
+     "bron": "De Correspondent · Vera Mulder",
+     "tijd": "05:45",
+     "sorteer": "2026-10-19T03:45:05+00:00"
+    },
+    {
+     "titel": "Eva",
+     "link": "https://npo.nl/start/serie/eva",
+     "kop": "Vanavond op tv",
+     "bron": "NPO1 · 19:05",
+     "tijd": "19:05",
+     "sorteer": "2026-10-19T19:05:00"
     },
     {
      "titel": "Nieuwsuur: Knapt de AI-bubbel? • Israëls Gele Lijn in Gaza • James Whistlers liefde voor Nederland",
@@ -203,16 +227,16 @@
      "link": "https://nos.nl/l/2635497",
      "bron": "NPO2 · 22:00",
      "tijd": "22:00",
-     "sorteer": "2026-10-18T22:00:00",
+     "sorteer": "2026-10-19T22:00:00",
      "kop": "Vanavond op tv"
     },
     {
-     "titel": "Pauw & De Wit: Floortje Dessing, Owen O’Brien, Stefan de Vries & Kamran Ullah",
-     "link": "https://www.bnnvara.nl/pauw-de-wit/artikelen/zondagavond-met-oa-floortje-dessing-owen-obrien-stefan-de-vries-kamran-ullah",
+     "titel": "Pauw & De Wit",
+     "link": "https://npo.nl/start/serie/pauw-de-wit",
      "kop": "Vanavond op tv",
-     "bron": "NPO1 · 22:10",
-     "tijd": "22:10",
-     "sorteer": "2026-10-18T22:10:00"
+     "bron": "NPO1 · 22:30",
+     "tijd": "22:30",
+     "sorteer": "2026-10-19T22:30:00"
     }
    ]
   },
@@ -221,66 +245,6 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
-    {
-     "titel": "Halloween is nog ver weg, maar in deze Zwolse voortuin griezelt het al",
-     "context": "Samen met zijn dochters verbouwt Martin Stremmelaar zijn voortuin tot een grote Halloweenshow. Elke avond worden de grote poppen en lichtjes aangezet, dat terwijl Halloween pas eind van de maand is. \"Voorbijgangers staan soms wel een halfuur naar onze tuin te kijken\", zegt de Halloweenfan.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3706775/halloween-is-nog-ver-weg-maar-in-deze-zwolse-voortuin-griezelt-het-al",
-     "bron": "RTV Oost",
-     "tijd": "20:02",
-     "sorteer": "2026-10-18T18:02:38+00:00"
-    },
-    {
-     "titel": "Politie zet bus GAE-fans langs de weg bij Zwolle na vuurwerkincident",
-     "context": "De politie heeft een bus met supporters van Go Ahead Eagles langs de weg gezet net buiten Zwolle. Hierdoor was de N35 richting Heino korte tijd dicht. Aanleiding was een vuurwerkincident bij het PEC-stadion, waarbij een fan vuurwerk uit de bus gooide.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3707721/politie-zet-bus-gae-fans-langs-de-weg-bij-zwolle-na-vuurwerkincident",
-     "bron": "RTV Oost",
-     "tijd": "15:13",
-     "sorteer": "2026-10-18T13:13:50+00:00"
-    },
-    {
-     "titel": "Klassieke kerstboom wordt duurder door kurkdroge zomer: 'Alle ballen op sneeuw'",
-     "context": "De hete en droge zomer voelen we straks ook in december. Door de droogte zijn veel kerstbomen beschadigd of doodgegaan. Daar komen de hoge kosten voor het sproeien nog bovenop. Het gevolg: voor een kerstboom betaal je dit jaar mogelijk zo'n vijf euro meer.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3680520/klassieke-kerstboom-wordt-duurder-door-kurkdroge-zomer-alle-ballen-op-sneeuw",
-     "bron": "RTV Oost",
-     "tijd": "12:05",
-     "sorteer": "2026-10-18T10:05:10+00:00"
-    },
-    {
-     "titel": "Hengeloos raadslid in EU-talentenprogramma: 'Gemeenteraad voelt belangrijker'",
-     "context": "In Europa gaat het vaak over grote onderwerpen: van klimaat tot de oorlog in Oekraïne, de oplossing ligt regelmatig in Brussel. Het werk in de gemeenteraad kan in dat contrast onbelangrijk lijken, maar volgens het Hengelose raadslid Nicolien Boekhoudt is dat zeker niet het geval.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3707169/hengeloos-raadslid-in-eu-talentenprogramma-gemeenteraad-voelt-belangrijker",
-     "bron": "RTV Oost",
-     "tijd": "08:57",
-     "sorteer": "2026-10-18T06:57:17+00:00"
-    },
-    {
-     "titel": "Oefenen met noodsteunpunt in Zalk: 'Plek waar je terecht kunt in geval van nood'",
-     "context": "In het geval van een noodsituatie komen er in iedere stad en dorp noodsteunpunten. Om dat goed voor elkaar te krijgen, wordt er op diverse plekken in de provincie getest. Zoals in Zalk. \"Iedereen die we vroegen wil direct meedoen\", zegt Jan van Raalte van Dorpsbelangen Zalk",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3704175/oefenen-met-noodsteunpunt-in-zalk-plek-waar-je-terecht-kunt-in-geval-van-nood",
-     "bron": "RTV Oost",
-     "tijd": "06:52",
-     "sorteer": "2026-10-18T04:52:48+00:00"
-    },
-    {
-     "titel": "Gé bewaart oude piano 50 jaar, nu ontdekt Twickel hoe bijzonder het instrument is",
-     "context": "Een oude piano die vijftig jaar geleden bijna op de stort belandde, keert terug naar landgoed Twickel. Gé Kooijman redde het instrument als jonge man. Nu blijkt de piano een bijzondere geschiedenis te hebben.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3704751/ge-bewaart-oude-piano-50-jaar-nu-ontdekt-twickel-hoe-bijzonder-het-instrument-is",
-     "bron": "RTV Oost",
-     "tijd": "05:06",
-     "sorteer": "2026-10-18T03:06:46+00:00"
-    },
     {
      "titel": "Van het Verhalencafé in Dalfsen naar de boksring in Zwolle",
      "context": "DALFSEN – ZWOLLE – Wat doe je als het leven je een flinke klap uitdeelt? Blijf je liggen of sta je weer op? Die vraag staat centraal op vrijdag 6 november, wanneer drie ondernemers de boksring instappen. Niet om elkaar te bevechten, maar om hun persoonlijke verhalen te delen over vallen, opstaan, verlies en doorzettingsvermogen. […]",
@@ -358,39 +322,25 @@
    "emoji": "🤖",
    "items": [
     {
+     "titel": "Anthropic verleent onafhankelijke AI-toezichthouder verregaande bevoegdheden",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQVFzSzh5amlZNzQzRWtRUWNoQlZYcWprc0xFUENDdGp1OG5Kb2UxVjJyMnVaUTFZOWh5cTF6RUFTQzVnVWNqMW5ROFJnZXZIbS02VFZiMDRsam44MWZJcUxGT3pnSGJMRk5tNEdUNThEc1EzV0t6MXo5OUE2Q1ZqWGhnbXc5eDMyblAxclBTM1ppLXE3TUhHLWRQbDBGUjN3WkFqN09oSQ?oc=5",
+     "bron": "aidagblad.nl",
+     "tijd": "23:26",
+     "sorteer": "2026-10-18T21:26:37+00:00"
+    },
+    {
      "titel": "Man reist bijna 2.000 km om zijn droomvrouw te zien... om dan erachter te komen dat ze AI-gegenereerd is",
      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOXc5M0Z5NFdDVjN1R3BwOVA4b2NyOE9iRHVTU21xZDZmS1g4UEJEcmdTUWRrOGt3MlZPajVGei1wYUVaV3gzV1daZXFBTm1ZMXBJVENDZENreHVSSHBMeno5d3NiWXY0TzQ4YXBCbXVjMzJOajFhcXJxWkhjM1Q0dmNlM3Bzd2RUSmFFRTBac29nT0RZUGRBa3dvbmQ2SVZGS281UWVGZHpjZHFuOWtRTmhZdTNHcjY4cVZyOGJsTEY5QUdhdF8xYTU3Y2tjdnhhY29BZjBhT1dHUlJ5Ty1yeVBia2hnVkVaZWRN?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "20:34",
-     "sorteer": "2026-10-18T18:34:14+00:00"
+     "tijd": "03:54",
+     "sorteer": "2026-10-19T01:54:03+00:00"
     },
     {
-     "titel": "Ernstigste dreigingsbeeld in 80 jaar door AI, oorlogen en klimaat: ’De wereld wordt juist steeds beter, maar niemand ziet het’",
-     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVl9lSTh6UTRwVWgtaFFwWm93RFhBd2lQZ25rS08wR2twUnZ4WmlYRnBvTS1Kbmo5aUxqdWJ0OG9VVG1uaVBCQUtkZUw0dE9zVXhPenk4SmtKb2RrVzFrTFhDY3BwYklFczQ3YWQ4WlRScVlhVHF0bXFnaElsM292YlZMZXhqMndIRWVJOTlCeDlfNkExSXlyNWQtdE1XVG4waUR3TEJvMFIxT0NRdGdPOE5qM1c3TFZ5MEotdkw1dGc5VDFEMEM4a1hNRkxZZjNIbkFiMnhvWTR3M0ltcnNkSzFWYTlqZzdLNHZfMlgyT1NtVUNrZ29qLTNqVENSNF9WbEE?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "13:30",
-     "sorteer": "2026-10-18T11:30:00+00:00"
-    },
-    {
-     "titel": "Knapt de AI-bubbel?",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOVDgyVVN2RVM0ZXd0TmFsbjFqdG5lNklZQkY2R3dUNTh0RXBkbEtNbEdGVldOZFYzdmJOcmw5WUVBZjk1azNYcmo3QW8yaE81MXUwaEhuNjdHZklfU2g3ZWpYQXVBWkJl?oc=5",
-     "bron": "NOS",
-     "tijd": "22:29",
-     "sorteer": "2026-10-18T20:29:27+00:00"
-    },
-    {
-     "titel": "De concurrentiestrijd dendert voort: DeepSeek heeft een sneller AI-model uitgebracht",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcFBBOUxNZUlEMVl0aVhxRGxDQ0JIWV9KN2VOcWhTbnloaDJFSlZmeTRRazNmVTBvcjZLTUtvVHVNbWpySHYtaHFZLVJGVHlMLU9OYVYwZ3o4YU1lLW1oYnJ2dWltdVAyWm1qeFpHcjBHR2VSZGRrYXZRai10V3JNQW10dks4SXBYZ0M0dlBITUlVeGhkWVFVcFhQQXd2OXZ3eVNQTVp2OEw3di13alhtTXA3TjdHWm8?oc=5",
-     "bron": "Bright",
-     "tijd": "21:02",
-     "sorteer": "2026-10-18T19:02:00+00:00"
-    },
-    {
-     "titel": "18/10 in Nieuwsuur: Knapt de AI-bubbel? • Israëls Gele Lijn in Gaza • James Whistlers liefde voor Nederland",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ2NxTUc4bW5aX1BhNG5OS1dSY0IyclhfR25ZNk4yZlEtc2k2dGxVODdwZk9QX3BKODdrN1lkcUlTSVRvRDNrM0RwRVZ4RW9PQXc1NEFyZldabi1UNzJCOFF0bUt6elM4cUIxMEFvM2laT0o1aUMtU2ZvclpoRFhrNWYwQm5DZmpFbDkwZXl6Ti0wcDNkUklJMUVHSmQ1ZUNVNmh0d201RWhTU3VFMmF2eS1Odno5aDV3cjFoTkVQT1pvaHRyMDVMZ2RuU2h6di1EQVhGN1lDWDlxdw?oc=5",
-     "bron": "NOS",
-     "tijd": "17:09",
-     "sorteer": "2026-10-18T15:09:43+00:00"
+     "titel": "AI gaat opereren, de chirurg kijkt toe: ‘Over 20 jaar opereert AI misschien wel beter dan wij nu’",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT1Y1LU9nSVRYRVNDakw5TzROZ0ZkdGk3V3lTUkNBZVNmaHFUS05wT3JRck9oVU9kYzZiQUc5Vm5wQ3RnM3NsZlNYU25mM2ctbWQwSllUTTM0bU5ENnlncGdyNlNvZjZLUFUyRFRoVE9sQTJlX1NsZVVhUkNtY0VrTDQtUWd4OXBkQnV0Z0lCNkpXYVpzM3lrdlJwamdTaFlmanc5RDJzbWdXM1MwZG9lNlBXLXBpODJhRWJGOUg3dks0N3E5ZldyeWZGNWF2SlN4?oc=5",
+     "bron": "Het Parool",
+     "tijd": "03:01",
+     "sorteer": "2026-10-19T01:01:00+00:00"
     }
    ]
   },
@@ -510,70 +460,53 @@
      "sorteer": "2026-10-18T12:21:00+02:00"
     },
     {
-     "titel": "Dalfsen",
-     "kop": "Vogeltrek",
-     "bron": "17-10",
-     "wanneer": "zaterdag",
-     "tijd": "",
-     "link": "https://trektellen.org/count/view/1919/20261017",
-     "soorten": [
-      "Spreeuw 559",
-      "Kolgans 280",
-      "Holenduif 21",
-      "Sijs 13"
-     ],
-     "aantal_soorten": 16,
-     "opmerkingen": [],
-     "tellers": ""
-    },
-    {
-     "titel": "Landelijk vandaag: 175 soorten, 97.580 vogels geteld",
+     "titel": "Landelijk vandaag: 175 soorten, 97.581 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
      "titel": "Spreeuw — 39.962",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
      "titel": "Vink — 13.695",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
      "titel": "Kramsvogel — 8.040",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
      "titel": "Kauw — 6.527",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
      "titel": "Kolgans — 4.390",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch"
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Kramsvogel springt eruit — 8.040, normaal 105",
-     "bron": "77× het gewone niveau",
+     "titel": "Kramsvogel springt eruit — 8.040, normaal 122",
+     "bron": "66× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch",
      "sein": true
     },
     {
@@ -581,12 +514,12 @@
      "titel": "Bergeend springt eruit — 85, normaal 24",
      "bron": "4× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261018?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261019?language=dutch",
      "sein": false
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Trek komt op gang — vandaag 121 meldingen, samen 8.000 vogels",
+     "titel": "Trek komt op gang — gisteren 124 meldingen, samen 9.110 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -601,8 +534,8 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "58 meldingen vertrek uit het noorden",
-     "bron": "DE 51, SE 5, PL 2",
+     "titel": "59 meldingen vertrek uit het noorden",
+     "bron": "DE 52, SE 5, PL 2",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -614,9 +547,9 @@
    "emoji": "🌙",
    "items": [
     {
-     "titel": "De Maan is in de fase van Eerste Kwartier.",
+     "titel": "Van 3:23 tot 7:36 uur staan alle grote manen ten oosten van Jupiter.",
      "bron": "hemel.waarnemen.com",
-     "tijd": "18:13",
+     "tijd": "03:23",
      "link": "https://hemel.waarnemen.com/astrokal/"
     }
    ]
@@ -627,44 +560,44 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 12.0,
-    "gevoel": 10.3,
-    "wind": "ONO 3",
+    "nu": 11.8,
+    "gevoel": 11.8,
+    "wind": "O 2",
     "station": "Heino",
-    "bericht": "Vanavond valt in het zuiden, midden en westen regen. Vannacht wordt het droger en in het oosten kan het opklaren. Het koelt nauwelijks af.",
-    "vandaag": "Vanavond valt in het zuiden, midden en westen regen. Vannacht wordt het droger en in het oosten kan het opklaren.",
-    "temperatuur": "Met 15 graden is het veel zachter dan vandaag.",
+    "bericht": "Vandaag een droge dag met vooral vanmiddag steeds vaker de zon erbij. Morgen eerst volop zon. Later in de middag neemt de bewolking in het zuiden wel toe en tegen de avond bestaat er kans op lichte regen.",
+    "vandaag": "Vandaag een droge dag met vooral vanmiddag steeds vaker de zon erbij. Vanochtend hebben we te maken met tamelijk veel bewolking, maar hier en daar komen toch ook opklaringen voor, waardoor de zon wat vaker te zien zal zijn.",
+    "temperatuur": "De middagtemperatuur varieert van 13 graden in het noorden tot 15 graden in de Limburgse heuvels.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: motregen, 6 tot 12 graden, 82% kans op neerslag, weinig zon, wind uit het noordoosten, kracht 3.",
-     "max": 12,
-     "min": 6,
-     "regenkans": 82,
-     "omschrijving": "motregen"
+     "zin": "Voor Dalfsen zelf: lichte motregen, 8 tot 13 graden, 85% kans op neerslag, ruim 2 uur zon, wind uit het oosten, kracht 4.",
+     "max": 13,
+     "min": 8,
+     "regenkans": 85,
+     "omschrijving": "lichte motregen"
     },
     "vooruit": "Dinsdag nog zonnig en droog. Vanaf woensdag wisselvallig met van tijd tot tijd regen en vanaf vrijdag mogelijk ook veel wind. De maximumtemperaturen liggen rond 13⁰C.",
-    "omslag": "Vanaf woensdag regen: de kans loopt op van 10% naar 80%.",
-    "min": null,
-    "max": null,
-    "regenkans": null,
-    "zonkans": null,
-    "omschrijving": null,
+    "omslag": "Vanaf woensdag regen: de kans loopt op van 20% naar 80%.",
+    "min": "10",
+    "max": "14",
+    "regenkans": 0,
+    "zonkans": 10,
+    "omschrijving": "Zwaar bewolkt",
     "morgen": {
-     "omschrijving": "Zwaar bewolkt",
-     "min": "10",
-     "max": "16",
-     "regenkans": 10
+     "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
+     "min": "5",
+     "max": "13",
+     "regenkans": 20
     }
    }
   }
  ],
  "archief": [
+  "2026-10-19",
   "2026-10-18",
   "2026-10-17",
   "2026-10-16",
   "2026-10-15",
   "2026-10-14",
   "2026-10-13",
-  "2026-10-12",
-  "2026-10-11"
+  "2026-10-12"
  ]
 }
