@@ -3,15 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "21:39",
+  "opgehaald": "21:43",
   "blokken": 10,
-  "berichten": 77,
-  "problemen": [
-   "npo-gids NPO1: HTTPError"
-  ],
+  "berichten": 79,
+  "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-20T21:39+02:00",
+ "opgehaald": "2026-10-20T21:43+02:00",
  "audio": "audio/20261020.mp3",
  "blokken": [
   {
@@ -197,13 +195,6 @@
      "sorteer": "2026-10-20T17:27:49+00:00"
     },
     {
-     "titel": "Een docent die kinderen wil 'helpen'? Dat is je taak en expertise helemaal niet, vindt deze school",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeGZuWlRkS29vcXZjWXNYU3g3N2FaYWdBbjZIYWRrRWtXczgwYXh2SGVIZmhERjJGenBQa09DYzhQWGpmYl9veVZkTktqbjMtRTI5ems4MzgxampBNlRMaDgwVmphOHZnSkRFRzF1Q21YdU03UXZHaF9pOVpHWHI4bzh3aXR0a2pmMzg1a3FoMWZVZlBaSV9ObTIxdVNPWEVDRlNzbHprM0FvZTd6ZHZfOWZyTllkYUJHZWxxZVNDMm9kZlAwdVp5RzBWbF96b0VVVGNhclRLUXJJSG8?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "21:00",
-     "sorteer": "2026-10-20T19:00:00+00:00"
-    },
-    {
      "titel": "Fundament onder Wikipedia in gevaar: als je googelt, hoef je niet meer naar die site te klikken",
      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSnduQzVFTTNCQk44NEluWk1DOUxyOVRvZUptV0l1bFpmUHV2TTZScmNHVWRxLVZOSnk4Nk16dlhLVWxZbTJWbUNJV3NicXV2YmMxTXVEY2VmM2Z6bWpFSG1FU09fT0ZLbHBIamJoN25QcHB5dEZoM3hkZ1ltcjVYR1hyOTZPTjVKRUVadHFDRkpWSC1LLThoVWJjZkdqM1RPWllfMFF6Z2N4Wm5qTENfTzNZQ0VvMUJtemFsME52R0hPcGlyRjRidUx2MTlwS01UNlpIekdB?oc=5",
      "bron": "de Stentor",
@@ -211,11 +202,26 @@
      "sorteer": "2026-10-20T17:56:00+00:00"
     },
     {
+     "titel": "’s Middags snoeien buurmannen samen boompjes, uren later staat arrestatieteam voor de deur",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM0UxaWFwZ2F0M3RzVXZwUnFFSG5sOWVjVGprSkRxTVo5ZmZUZ25PU3RvQ0FFTTF2TUlkemdHR3VJek9LVXB3MDJIajZPZ21sU1FCVmU1cmk5ZElxU0hNLWZsdXlBakJFdmlKMlVXajJqUVdjSzFGOTZkRVc1cktvUjhXUnk4R0pOMkV5MVQxbVhkNUk4ZUtUNjBKNHNpY192d2Q1WHRhVjA3ZUg4VkxjMUx0OWxyd0ZIcGZDWjQtWnJSRDExLUE?oc=5",
+     "bron": "Eindhovens Dagblad",
+     "tijd": "19:30",
+     "sorteer": "2026-10-20T17:30:35+00:00"
+    },
+    {
      "titel": "Na een dag op de barricaden tegen het fascisme kreeg een ‘soldaat van God’ me in het vizier",
      "link": "https://decorrespondent.nl/17328",
      "bron": "De Correspondent · Rosan Smits",
      "tijd": "05:45",
      "sorteer": "2026-10-20T03:45:05+00:00"
+    },
+    {
+     "titel": "Eva",
+     "link": "https://npo.nl/start/serie/eva",
+     "kop": "Vanavond op tv",
+     "bron": "NPO1 · 19:05",
+     "tijd": "19:05",
+     "sorteer": "2026-10-20T19:05:00"
     },
     {
      "titel": "Nieuwsuur: Kindermishandeling in Nederlands opvanghuis Spanje • Verdachte aangehouden dood Hajar",
@@ -226,6 +232,14 @@
      "tijd": "22:00",
      "sorteer": "2026-10-20T22:00:00",
      "kop": "Vanavond op tv"
+    },
+    {
+     "titel": "Pauw & De Wit: Michelle van Tongerloo, Twan Huys, Jos de Groot & Saskia Belleman",
+     "link": "https://www.bnnvara.nl/pauw-de-wit/artikelen/dinsdagavond-met-oa-michelle-van-tongerloo-twan-huys-jos-de-groot-saskia-belleman",
+     "kop": "Vanavond op tv",
+     "bron": "NPO1 · 22:20",
+     "tijd": "22:20",
+     "sorteer": "2026-10-20T22:20:00"
     }
    ]
   },
@@ -671,14 +685,14 @@
     {
      "kop": "Kraanvogels",
      "titel": "De trek lijkt op gang gekomen",
-     "bron": "1066 meldingen vandaag tegen gemiddeld 174 per dag de week ervoor",
+     "bron": "1071 meldingen vandaag tegen gemiddeld 174 per dag de week ervoor",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar",
      "sein": true
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Piekdag — vandaag 1066 meldingen, samen 61.527 vogels",
+     "titel": "Piekdag — vandaag 1071 meldingen, samen 61.532 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
