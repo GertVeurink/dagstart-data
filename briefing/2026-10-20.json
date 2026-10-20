@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "20:00",
-  "blokken": 11,
+  "opgehaald": "21:00",
+  "blokken": 10,
   "berichten": 79,
   "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-20T20:00+02:00",
+ "opgehaald": "2026-10-20T21:00+02:00",
  "audio": "audio/20261020.mp3",
  "blokken": [
   {
@@ -18,8 +18,26 @@
    "emoji": "🌍",
    "items": [
     {
-     "titel": "Zelensky spreekt met VS-gezant Witkoff om VS aan kant Oekraïne te houden",
-     "context": "De Oekraïense president Zelensky heeft zich met de Noorse premier Store en de Finse premier Stubbe voorbereid op een belangrijk gesprek met de Amerikaanse gezant Witkoff. Dat gesprek vindt op dit moment plaats in de Noorse hoofdstad Oslo. Het doel is te redden wat er te redden valt, nu de Amerikaanse steun aan Oekraïne in de oorlog tegen Rusland steeds verder afzwakt en president Trump steeds open",
+     "titel": "Eerste ebolabesmetting in Nigeria sinds nieuwe uitbraak in Afrika",
+     "context": "De gezondheidsautoriteiten in Nigeria hebben een ebolabesmetting vastgesteld in de hoofdstad Abuja. Het is het eerste geval van ebola in het West-Afrikaanse land sinds de recente uitbraak van het virus in het midden van het continent. De patiënt is een vrouw, die in Uganda was geweest. De autoriteiten daar verklaarden hun land eind juli nog ebola-vrij, nadat er twintig gevallen waren vastgesteld .",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636009",
+     "bron": "NOS",
+     "tijd": "20:46",
+     "sorteer": "2026-10-20T20:46:26+02:00"
+    },
+    {
+     "titel": "Vinted verwijdert advertenties van tijdens Franse protesten gestolen spullen",
+     "context": "Vinted heeft advertenties verwijderd van aangeboden producten die vermoedelijk zijn gestolen tijdens de grootschalige protesten in Frankrijk afgelopen zaterdag. Het verkoopplatform voor tweedehandsartikelen zegt ook de controle op verdachte advertenties te hebben aangescherpt, schrijven Franse media. Onder meer cosmeticaketen Sephora meldde dat er bij winkels was ingebroken. Ook is op beelden te z",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636004",
+     "bron": "NOS",
+     "tijd": "20:01",
+     "sorteer": "2026-10-20T20:01:44+02:00"
+    },
+    {
+     "titel": "VS-gezant Witkoff naar Moskou met voorstellen Oekraïne, Noorwegen en Finland",
+     "context": "De Amerikaanse gezant Witkoff reist morgen naar Moskou met voorstellen om een einde te maken aan de oorlog in Oekraïne. Dat heeft de Noorse premier Store gezegd na afloop van een ontmoeting tussen Witkoff en de Oekraïense president Zelensky in Oslo. De Oekraïense president werd tijdens het gesprek bijgestaan door Store zelf en de Finse president Stubb. \"Wij proberen de dialoog tussen Oekraïne en d",
      "rubrieken": [],
      "link": "https://nos.nl/l/2635989",
      "bron": "NOS",
@@ -45,22 +63,13 @@
      "sorteer": "2026-10-20T17:05:45+02:00"
     },
     {
-     "titel": "Podcast De Dag: wat is nu wijsheid voor president Zelensky?",
-     "context": "De onderlinge verhoudingen tussen De Amerikaanse president Trump en de Oekraïense president Zelensky hebben een nieuw dieptepunt bereikt en de Amerikaanse steun aan Oekraïne in de oorlog brokkelt in rap tempo af. Na de dieseldeal met Poetin vorige week, schrapte Trump dit weekend een groot sanctiepakket tegen Rusland, en ondertussen werkt het starlinksysteem op halve kracht. Luisteren? Deze afleve",
+     "titel": "Israël doodt vier mensen in Gaza",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2635962",
-     "bron": "NOS",
-     "tijd": "15:22",
-     "sorteer": "2026-10-20T15:22:15+02:00"
-    },
-    {
-     "titel": "Britse straaljagers naar Saudi-Arabië vanwege strijd tegen Houthi's",
-     "context": "De Britse luchtmacht gaat het Saudische luchtruim beschermen tegen aanvallen van de Houthi's. Het land stuurt onder meer een aantal Typhoon-straaljagers naar Saudi-Arabië. Volgens het ministerie van Defensie gaat het om een missie met een defensief doel: de straaljagers zullen geen aanvallen uitvoeren. De steun volgt op een verzoek van de Saudische regering. Behalve gevechtsvliegtuigen sturen de B",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2635958",
-     "bron": "NOS",
-     "tijd": "15:11",
-     "sorteer": "2026-10-20T15:11:29+02:00"
+     "link": "https://www.volkskrant.nl/buitenland/israel-doodt-vier-mensen-in-gaza~b2d71a17/",
+     "bron": "de Volkskrant",
+     "tijd": "20:12",
+     "sorteer": "2026-10-20T18:12:00+00:00"
     },
     {
      "titel": "Voor kandidaat-senator Abdul El-Sayed uit Michigan doet ‘naam of religie’ er niet toe, voor de Republikeinen wel",
@@ -72,36 +81,27 @@
      "sorteer": "2026-10-20T15:42:54+00:00"
     },
     {
-     "titel": "Australië reageert geschokt na aanslag met auto op parlementslid in deelstaat Victoria",
+     "titel": "Het Europees Parlement wil vaart maken met de bescherming van het Internationaal Strafhof",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/australie-reageert-geschokt-na-aanslag-met-auto-op-parlementslid-in-deelstaat-victoria~b37c7051/",
-     "bron": "de Volkskrant",
-     "tijd": "15:49",
-     "sorteer": "2026-10-20T13:49:00+00:00"
-    },
-    {
-     "titel": "Rusland breidt aanvallen op energiedoelen uit naar West-Oekraïne",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/live-oorlog-oekraine-rusland-breidt-aanvallen-op-energiedoelen-uit-naar-west-oekraine~ba2815bb/",
+     "link": "https://www.trouw.nl/buitenland/het-europees-parlement-wil-vaart-maken-met-de-bescherming-van-het-internationaal-strafhof~bbcebbce/",
      "bron": "Trouw",
-     "tijd": "18:44",
-     "sorteer": "2026-10-20T16:44:00+00:00"
+     "tijd": "20:51",
+     "sorteer": "2026-10-20T18:51:09+00:00"
     },
     {
-     "titel": "Kopzorgen voor vleugellamme Macron: crisis in Frankrijk en groeiende kritiek op zijn leiderschap",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZjBpaUdfQWZRRm5MTjRPZTdDQXRodWNiYk1oQmxjdFhjeWpqeU94dE5OckMzOW02c3BuR3hERHFSRHRjT1ctdlR5QnF5VGI3WExqRUVqZENkYnFXbjV3QTE0YnhILWZWVW1lbzlLMkZWa2E4UjZYb1FtRFptbzQtNkp5Y0JDeWZWbXB3Y3dGMVdiTHVhd3VIbUJ6dmxLQjZnaG9tRG50SktXNkZyRmpRZW5Zd2pHZmU0aUtHMmVldFlsQS1BT1ZxRk5ZUnVqZnlQcldiWmNteXlUNDQyZ3pN?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "19:31",
-     "sorteer": "2026-10-20T17:31:20+00:00"
-    },
-    {
-     "titel": "14-jarige ontsnapt uit Nederlandse instelling en botst in België met bestelbus frontaal op tegenligger",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTVFQTFlwdGZEV3FjcVNjT1BiQy1pV2ozMjZIOFdQQVpuRFF6X3NOaUItbmo2d3N1LXY5bWxLLXpWSFJCZFB0UVNUR3I1NEZOa2JIS2VmV0J4dkFWZDVkSF9DS2wyNHpvd3lyWEJVemxsV1MzRjgzV192MnpHYlJ6WDF2Z1RLazFVZDgtclc5NVQwNGNhVklpZ1FzTUUzZTJCd1FCZEtXcHpMdktyT1JJMGVucU1YUzJwR09fRFlzTEFzemNTbHQ1QUtDM0Y5RGJ4TWJPamdJNXg?oc=5",
+     "titel": "Opgepakte brandstichter Limoges komt uit radicaal nest, vader zit in cel voor fik bij energiebedrijf",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSFIyWmdySkp0T0xVRkVXSzdtNWZaRDBUMjhPeThzTUpLMnZEUkU3WDhkcUNmd3hPZ1JscnAzM2tDRGdXc2dnNnk0elcweDVQTWpieEJ3ajc4aUU4SGtRRjlTbG1XaC1RamZ3RzUyM1pkdGd3ekdYQm4yRXFvMFY0SXZCazRiajhpcDF2angyWk5oNGlxZ3pYTVNYM2h4S0NleDVJeno3RVREWEVuNFpYbEVBRVlPOWFKYVN3WWVXSTVSbFJoXzZpNUlqTVhDTDVyY0VDYg?oc=5",
      "bron": "AD.nl",
-     "tijd": "18:39",
-     "sorteer": "2026-10-20T16:39:00+00:00"
+     "tijd": "20:38",
+     "sorteer": "2026-10-20T18:38:00+00:00"
+    },
+    {
+     "titel": "Livestream met slapende puppy’s is grote hit én lichtpuntje voor Finland tijdens zware winter",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOVF5cEVDTHhIakptRmRVcDVndWN0TXJKLTNzQXV6X1I0RlV5X2FPM2Z0Y0lJbUI2cDlZTEgxWW9XeW13cmVlWVk0TFdxRjQ5X1ZhaXJFZVVLYWN2b3p5eGdDdmNzVHN3N3Ztd1FZb3duX3hGdEtveEpNUjVSSXQ4TENtSFlocklocmQwWUkzX3A0dl9obmJhdnljZEdwNHFpaWd1Rm9JTFRwckdhSnppcEJWeUhWMFhvSk96aWdra2I2clVMRUFZc3VHMA?oc=5",
+     "bron": "AD.nl",
+     "tijd": "20:01",
+     "sorteer": "2026-10-20T18:01:00+00:00"
     }
    ]
   },
@@ -110,6 +110,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Met een kind via draagmoeder kan het twee jaar duren tot je officieel de ouders bent",
+     "context": "Premier Jetten en zijn partner Nicolás Keenan krijgen volgend voorjaar een kind, maakten ze gisteren bekend . Twee bevriende vrouwen zijn eiceldonor en draagmoeder. Dat is in de eerste plaats natuurlijk een privéaangelegenheid, maar als het de premier van Nederland betreft, is het ook publiek en politiek. Zo is draagmoederschap een onderwerp dat hoog op de politieke agenda staat. Een draagmoeder d",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636003",
+     "bron": "NOS",
+     "tijd": "20:00",
+     "sorteer": "2026-10-20T20:00:02+02:00"
+    },
     {
      "titel": "Man (23) aangehouden in zaak van dood in koffer gevonden Amsterdamse Hajar",
      "context": "De politie heeft een verdachte aangehouden in verband met de dood van de 29-jarige Hajar. Zij werd vorige week dood gevonden in Amsterdam, na bijna twee weken vermist te zijn geweest. De verdachte is vandaag aangehouden en zit in beperkingen, maakte de Amsterdamse driehoek van burgemeester, politie en justitie vanavond bekend. De verdachte is een 23-jarige man met de Somalische nationaliteit, zond",
@@ -147,13 +156,13 @@
      "sorteer": "2026-10-20T16:48:11+02:00"
     },
     {
-     "titel": "Minister wil plaatsing jongeren Spaans huis met 'extreme methode' niet onderzoeken",
-     "context": "Minister Mirjam Sterk (CDA) van Jeugd wil geen onafhankelijk onderzoek doen naar het plaatsen van jeugdzorgjongeren bij een Nederlands gezinshuis in Spanje. Dat laat zij weten aan de Tweede Kamer. Ook na nieuwe berichtgeving vandaag blijft ze bij dat standpunt. Deskundigen vinden dat er juist wél onderzoek nodig is, nadat Nieuwsuur de misstanden in het opvanghuis onderzocht. Verschillende partijen",
+     "titel": "Politie houdt verdachte aan voor de dood van jonge vrouw Hajar",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2635972",
-     "bron": "NOS",
-     "tijd": "16:32",
-     "sorteer": "2026-10-20T16:32:01+02:00"
+     "link": "https://www.volkskrant.nl/binnenland/politie-houdt-23-jarige-man-aan-voor-de-dood-van-jonge-vrouw-hajar~b3071835/",
+     "bron": "de Volkskrant",
+     "tijd": "20:14",
+     "sorteer": "2026-10-20T18:14:00+00:00"
     },
     {
      "titel": "Bellen in de trein met de luidspreker aan: ‘Ik heb niet de guts om er iets van te zeggen, maar het is wel heel storend’",
@@ -165,22 +174,11 @@
      "sorteer": "2026-10-20T17:23:00+00:00"
     },
     {
-     "titel": "Kerken willen statushouders voor maximaal drie maanden huisvesten met nieuwe actie",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/kerken-willen-statushouders-voor-maximaal-drie-maanden-huisvesten-met-nieuwe-actie~b462f1716/",
-     "bron": "de Volkskrant",
-     "tijd": "17:42",
-     "sorteer": "2026-10-20T15:42:00+00:00"
-    },
-    {
-     "titel": "‘Kinderen mishandeld en gemarteld in Nederlands gezinshuis in Spanje’",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/zorg/kinderen-mishandeld-en-gemarteld-in-nederlands-gezinshuis-in-spanje~b385e287/",
-     "bron": "Trouw",
-     "tijd": "18:01",
-     "sorteer": "2026-10-20T16:01:42+00:00"
+     "titel": "Somaliër (23), verdacht van moord op Amsterdamse Hajar (29), werd opgepakt na nieuw geweldsincident",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdkh0d2MtNDRWZGd5cDNEaVNFd2VCWGJlTWd2MDBpSnNxV2R4dHJhSVhuYWVjNVZrRmMtcVliY1RXMUladHdfRjhjYk1wbGFKRENXUkJtcnBqY2FtdHdldndRUHA3QVAtT003bDR3b29ESFFyR0NlcGZfV1o1d0hFUmhkUEVNdm5odjFOdU9jQTB6WS1iMi1JZ29YZ2JOdmJ5bmpVUTJfc2tPTTN3UzFXN1BqT3FlNXRVNWtGRlg3dXVpX0FlVmtlX3Mzd3ZxWkxUVjRJSGlMS1g?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "20:35",
+     "sorteer": "2026-10-20T18:35:24+00:00"
     },
     {
      "titel": "De inhoud van een server op verzoek van Washington naar de VS sturen? ‘Nederland laat zich voor het karretje van Trump spannen’",
@@ -191,17 +189,24 @@
     },
     {
      "titel": "Man aangehouden voor dood Hajar in Amsterdam, werd eerst als getuige gezien",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQlE1c0ZWVDE0dHIwZnlYRW0zT1ZNR0RsOHE3ZjZRZk1GWWNqeVpHVkN3SEk0ZWxNRnlzdlFqdF9YbkhRUHV6TFB6bTU5NG04TFBMckNvMjdnRGlmZmJfNm5LOFpDa1pnV05vd0lDYXhsWU9JSEZGYlBmaE9VcVp6bEFZUEl0dVFRbjZGQkxtczZMMkE2MEV2T0RTVUNMalVfcllqTDhnbEwwWEc3eldMeVNMVmRQS01FQlBiYw?oc=5",
-     "bron": "de Stentor",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcHV5ckV2dFN6ZEgxYmpSTTc3TzFjOEgxUmtnMXpLa2I2WEd5SGQzX0IyWHR5N3RlWGp3TEx5SnZtVm43T09NOGxMVFlSV3JQcUhYb2RSYlE5S0Y4OHI2RnNaR2tzSkNpT0dqOE1oUEhCQkpoVEtaZlRJeWg3MFZySzhuMVlQYlRlWUtRSlRpckw2UkxlY081QVNzYmo1NC1mNWVYOFItV2VRaC1LQktaOHk1TmlLXzlTRENpWHQ0UjFQcmtLTXhWdEh0SmZFUmJQM3c?oc=5",
+     "bron": "AD.nl",
      "tijd": "19:06",
      "sorteer": "2026-10-20T17:06:00+00:00"
     },
     {
      "titel": "LIVE | Driehoek Amsterdam geeft persconferentie na ‘ontwikkelingen’ in onderzoek naar dood 29-jarige Hajar",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONlczRDNjWmdxZi1jSWFlM1dkQU1sNnpkb0ttZnZmcGY3VU9fWGdZMXp4ZzQxZ2RWSDRfTGRJSEg0SEtTMzlwZklwa1NLR0lwMjFXWDJlNThFZlh3d3Jza0xnN0FaZURwb05PZEd3TGM2VmsxQUZNd0ZEQ1lEVm5PRnk1UmNXMlBORzZmTlFHWmNTR2dyb3o5UXRCa3ZxdjQ1T3dwbWJaTWt2TVdyeklfVEpYTzRDc0tjbkhkTEJrZWpSSnpvYXJId0NHYUtzT3R6YTdwdXlWd3g?oc=5",
-     "bron": "AD.nl",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWENTRTNMZHktMXNLRE9LS05iYzFORkk1cWo5RlhIbEdLWjdhczVHakVkcUNZVWtJTnJQNGdxaEg2alBhWXVCTU9vUEt2Z3JZYWV3MV82blFmaUxfZDBaLUJyVUR4U2Z6SHk1SHNwdVl4VmtRcUxmRjF4SENVSFhJMTZwYXNIYUVkTWdpQXdzMV9ZNE8yaURYSEJHNkwzQzRaNm9yRGlvbThMajhoYWJ1b2Z6TUF4b1o3NnZJdkt5NmlUd1l2d1VmeS03djFVM0loTGJZcmlyajU?oc=5",
+     "bron": "Brabants Dagblad",
      "tijd": "19:06",
      "sorteer": "2026-10-20T17:06:00+00:00"
+    },
+    {
+     "titel": "Ouders in de knel kunnen hier hun pasgeboren baby achterlaten, en ja: er zit zelfs een intercom in",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWjRHU1RtUXRFWlREdXJqVlBWYVFGcGFCalJJTVJoM3loUVBRS1YyWkZGa1UwUmxaNlMxOFNnZVo1ejJnOTBQNEJjeGtfZGlMcFVsUXl6OU9ZeXM4ZFVGX2VLS3lVaHZjdDQ1QmVFOVFXdThLckg5VFV0YjVDdUlFSlBwZzVHOUgyRGE2cktjOEk3QTJrdDFNZWd0bHlaUkt6UG1vYVlYOW9qMWI4N051cHg4TWtqVllkTDI4cVFDa1dmNzJmVVV5SHVuZGd3TUQyTUdJNmRZd0hZLTlIOFE?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "18:46",
+     "sorteer": "2026-10-20T16:46:13+00:00"
     },
     {
      "titel": "Na een dag op de barricaden tegen het fascisme kreeg een ‘soldaat van God’ me in het vizier",
@@ -219,7 +224,7 @@
      "sorteer": "2026-10-20T19:05:00"
     },
     {
-     "titel": "Nieuwsuur: Kindermishandeling in Nederlands opvanghuis in Spanje • Verstikkende branden in Indonesië",
+     "titel": "Nieuwsuur: Kindermishandeling in Nederlands opvanghuis Spanje • Verdachte aangehouden dood Hajar",
      "context": "Twintig jaar lang extreme behandelmethoden in Spanje Nederlandse organisaties stuurden jarenlang jongeren met gedragsproblemen naar een Nederlands 'gezinshuis' in Spanje. Daar kregen ze te maken met extreme behandelmethodes. Experts spreken van \"structurele mishandeling en kindermarteling\". Grote jeugdhulpaanbieders, gemeenten én jeugdbeschermingsorganisaties wisten van de aanpak in het huis, dat ",
      "rubrieken": [],
      "link": "https://nos.nl/l/2635934",
@@ -229,8 +234,8 @@
      "kop": "Vanavond op tv"
     },
     {
-     "titel": "Pauw & De Wit",
-     "link": "https://npo.nl/start/serie/pauw-de-wit",
+     "titel": "Pauw & De Wit: Michelle van Tongerloo, Twan Huys, Jos de Groot & Saskia Belleman",
+     "link": "https://www.bnnvara.nl/pauw-de-wit/artikelen/dinsdagavond-met-oa-michelle-van-tongerloo-twan-huys-jos-de-groot-saskia-belleman",
      "kop": "Vanavond op tv",
      "bron": "NPO1 · 22:20",
      "tijd": "22:20",
@@ -244,17 +249,6 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Brandweer redt meerdere mensen van dak bij woningbrand in Hengelo",
-     "context": "Bij een woningbrand aan de Oelerweg in Hengelo zijn dinsdagavond meerdere mensen van het dak gered. De brand ging gepaard met flinke rookontwikkeling. De omgeving is afgezet en de brandweer is met meerdere voertuigen uitgerukt.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3709824/brandweer-redt-meerdere-mensen-van-dak-bij-woningbrand-in-hengelo",
-     "bron": "RTV Oost",
-     "tijd": "19:25",
-     "sorteer": "2026-10-20T17:25:56+00:00"
-    },
-    {
      "titel": "Zwollenaar wilde koper stelen voor eten en sigaretten: OM eist drie jaar cel",
      "context": "Hij werd vorig jaar november op heterdaad betrapt bij koperdiefstal op het spoor bij Zwolle. Vandaag werd tegen deze 46-jarige man 36 maanden cel geëist, waarvan een halfjaar voorwaardelijk. Na het doorknippen van een of meer kabels net buiten Zwolle, was een dag lang het spoorverkeer verstoord.",
      "rubrieken": [],
@@ -262,15 +256,6 @@
      "bron": "RTV Oost",
      "tijd": "18:58",
      "sorteer": "2026-10-20T16:58:05+00:00"
-    },
-    {
-     "titel": "Sonna schildert de wondere wereld van het strafrecht, maar wel met een kwinkslag",
-     "context": "Ze heeft al heel wat in het oog springende schilderijen op haar naam staan. Sonna Krom uit Enschede kwam meermaals in het nieuws met excentriek werk. In dat rijtje neemt haar laatste kunstwerk een bijzondere plaats in: het Wetboek van Strafrecht, uitgebeeld op de muur van een advocatenkantoor.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3709680/sonna-schildert-de-wondere-wereld-van-het-strafrecht-maar-wel-met-een-kwinkslag",
-     "bron": "RTV Oost",
-     "tijd": "17:59",
-     "sorteer": "2026-10-20T15:59:57+00:00"
     },
     {
      "titel": "Veehouderijen Overijssel onder vuur in rechtszaken rond stikstofuitstoot",
@@ -298,6 +283,24 @@
      "bron": "RTV Oost",
      "tijd": "15:18",
      "sorteer": "2026-10-20T13:18:55+00:00"
+    },
+    {
+     "titel": "Zestien jaar cel voor schietpartij met kalasjnikov bij voetbalclub in Zwolle",
+     "context": "Een 24-jarige Zwollenaar schoot in september 2024 met een kalasjnikov op een kopstuk uit de Zwolse drugswereld. Hij vuurde zeker 25 kogels af, waarvan er drie het slachtoffer raakten. De rechtbank veroordeelt de schutter tot zestien jaar cel.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3709735/zestien-jaar-cel-voor-schietpartij-met-kalasjnikov-bij-voetbalclub-in-zwolle",
+     "bron": "RTV Oost",
+     "tijd": "14:47",
+     "sorteer": "2026-10-20T12:47:40+00:00"
+    },
+    {
+     "titel": "Tubbergen heeft meeste AED's voor inwoners, Enschede de minste",
+     "context": "Overijssel telt 290 AED's meer dan een jaar geleden. Daarmee is het aantal apparaten dat levens kan redden bij een hartstilstand flink gegroeid. Toch is het verschil per gemeente groot.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3709424/tubbergen-heeft-meeste-aeds-voor-inwoners-enschede-de-minste",
+     "bron": "RTV Oost",
+     "tijd": "14:34",
+     "sorteer": "2026-10-20T12:34:11+00:00"
     },
     {
      "titel": "Genieten tijdens het telefoonvrije kamp",
@@ -373,11 +376,18 @@
    "emoji": "🤖",
    "items": [
     {
-     "titel": "De verkeerschaos is nep, de discussie is echt: hoe ver mogen politieke partijen gaan met AI?",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbTh5czZqU2xEeFFnWHFwNXV6dmhXUUlBMl9ubFZTbjJPR1lZLV93MXBub2g1UTF2bDJUTFNyZ19jRVMtdEtoYjNBSVUzcDAtWDZ5TFdMSDRsRjA0eDlSR2t4Z2ZUTWw1VWJvbk9tQ3JnbWs5YndNSVJqNElaNlJscjlBYjN2aHVKelMxMXdDNjBzV09vcXZEV1Nuc282WkFOQTJ5NURWekg5dDAxT2c0Ty1fUmNuZTN2cGc1WnBVUWxJQ2pfUFYxaDB6bUZGRzQ?oc=5",
-     "bron": "AD.nl",
+     "titel": "Zorgen over enorme schuldenberg in AI-markt houden aan",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFkwVnZtY1ZUTTZsZjBldmVEODZpR0djNUFwaDN2OTNyWElRRWx5LVFxSkloNzhHZ1FOeFhPVUROWl9XYlNTU1VwQldIbkxGMnRoQkZ1Sk1ySVpIV2MyckxCYVdYZThvOG40ZjNVZUlMaHhJMUdDN1BKYzhTSFAtRUNlSTR1Nm5zaHloUUJDdmZJMHVjM1R4SzlOdUpsMmM?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "20:46",
+     "sorteer": "2026-10-20T18:46:00+00:00"
+    },
+    {
+     "titel": "Van Hooipolder tot PVV-ophef: AI maakt politieke boodschap zichtbaar én gevaarlijker",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb3ExeFhSSUJGaWFZSUgyTmJwYWp0SGYtb243X1RhZnd4Q3c3UVlraE5vdy1EbEwwUV95Qm9DSE81Z3pBV2c5NXRIZHlzekNGcFU1QUZkMlBZc3JQTG9Xbm5vN2drQkY2Zk5Mam9uVUF2SXprWUxXV29qWk5JeDlobVh6MlhOLXZIZ1hVQUo3MHF5R1JKd0YzdE1CNEk1WkFLdlBzdlJOYm1KLV9uMERGZTRzbnVUUWdrVldmUjFCS0FnWk1oT0E3WDF1SDI4anRqQUE?oc=5",
+     "bron": "De Gelderlander",
      "tijd": "19:12",
-     "sorteer": "2026-10-20T17:12:19+00:00"
+     "sorteer": "2026-10-20T17:12:00+00:00"
     },
     {
      "titel": "Selfie als hulpmiddel bij kanker? AI schat overlevingskansen met gezichtsfoto",
@@ -388,7 +398,7 @@
     },
     {
      "titel": "Koper profiteert van AI- en defensierace, presteert beter dan goud",
-     "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPUnY0R21qb2VMU3hBcGJreTk1N0ZHY1F0R0QzY3Fld1RVaUZHTTRLZUt1YWNOakVNX1JCMU03ZWQ1OUUzMmt2bTBXQjJDRXY2S28wUVY5Uy1NM2RzbGxIMG1oUFJzQmNUREVIUEUyTV9PclZaMGtfekNwY0dIYzdfMzJMWFhEb21PallFTzFtT1JqbXdsU0lLOWs0aDhwZkkyVjh2R3FjY00tdHdpYnpEY1ZkRFlRamc5Q3FXVDJJcVVnN0Zub01kczZacldabHkxMlRCclNOOVEzbWNqQzlpSEZUZTNMUzJzOUF0SDViUGpMRG1TTGpqZXlZVFlFWmxtUTdQa0RtclhuRDdiTE5mUHkwVkFoZ0M4V0w4ZElR?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcmx5NFFnbFp4Q2xOWVZmR2d0RHlVSVJYTTlmdmZ4c0VNVWlxUWpSZkZ4akNvMEJsOHBxcGZfbURuMlBRVmdhdk9OeEZfVzdaeW04Q2lwbWwzbmhqdkdPSk9pS2RSa25RQ0hFTlpiMWFGYVFxQXptdDhfckxrNjRnNU02WmNUSl9UMkNYbndQcXNXMzY1R1h2WXpLamlYT2h2cGllR3FZLUVLQTBK?oc=5",
      "bron": "bnr.nl",
      "tijd": "17:43",
      "sorteer": "2026-10-20T15:43:00+00:00"
@@ -406,13 +416,6 @@
      "bron": "AD.nl",
      "tijd": "15:20",
      "sorteer": "2026-10-20T13:20:50+00:00"
-    },
-    {
-     "titel": "Concern achter Ray-Ban voert omzet op uit AI- en hoorbrillen",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZWVLYjR4X25nclh4Qks4bzB5cmNLZTJoZDFsQWc1SXRCaVdNY3ZDS2VfcFpCX2hBWi1WWWJORkIzOTlWb0RlNzMtT3loRjF2SkNZU0lKZUtXUnI4aXdOV0ZpTHE5R0xJWFZ2WmxqZjZHUVJQSzZEcVVHRGlpUTJIeWpLOVNBbkx1U1gzbld3?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "19:03",
-     "sorteer": "2026-10-20T17:03:58+00:00"
     }
    ]
   },
@@ -464,22 +467,6 @@
    ]
   },
   {
-   "id": "podcasts",
-   "titel": "Podcasts",
-   "emoji": "🎧",
-   "items": [
-    {
-     "titel": "AI Isn’t Moving Too Fast. It’s Too Noisy - Nikolas Badminton",
-     "context": "🤖 Why AI Transformation Needs Intentionality, Not More Technology AI transformation is not about putting AI everywhere. Futurist Nikolas Badminton argues that successful organizations are becoming much more intentional about where AI creates value and where humans remain essential. In this episode of Beginner’s Guide to AI , Dietmar Fischer speaks with Nikolas Badminton, Chief Futurist and Hope En",
-     "rubrieken": [],
-     "link": "https://shows.acast.com/beginners-guide-to-ai/episodes/ai-isnt-moving-too-fast-its-too-noisy-nikolas-badminton",
-     "bron": "A Beginner's Guide to AI",
-     "tijd": "21:00",
-     "sorteer": "2026-10-19T19:00:00+00:00"
-    }
-   ]
-  },
-  {
    "id": "natuur",
    "titel": "Natuur",
    "emoji": "🌿",
@@ -524,20 +511,20 @@
      "link": "https://scientias.nl/dit-vergeten-deeltje-kan-mogelijk-helpen-verklaren-waarom-wij-bestaan/"
     },
     {
-     "titel": "As silky sharks decline, Costa Rica’s dominant trade faces a reckoning",
-     "toelichting": "Inside an inspection facility in Hong Kong in 2018, shark biologist Diego Cardeñosa stared at dozens of large white bags. They were stacked, sometimes six or seven high, beneath strip lights hanging from the ceiling. Eac",
+     "titel": "US deep-sea mining claims in Pacific’s high seas now rival the area set aside by international regulator",
+     "toelichting": "The International Seabed Authority (ISA), a U.N.-associated body, has long managed activities related to deep-sea mining in international waters. But after the Trump administration issued an executive order in 2025 calli",
      "bron": "Mongabay (Engels)",
-     "tijd": "19:03",
-     "link": "https://news.mongabay.com/2026/10/as-silky-sharks-decline-costa-ricas-dominant-trade-faces-a-reckoning/",
-     "sorteer": "2026-10-20T17:03:20+00:00"
+     "tijd": "20:28",
+     "link": "https://news.mongabay.com/custom-story/2026/10/us-deep-sea-mining-claims-in-pacifics-high-seas-now-rival-the-area-set-aside-by-international-regulator/",
+     "sorteer": "2026-10-20T18:28:59+00:00"
     },
     {
-     "titel": "‘Stay alive’: Brazil’s Indigenous people mobilize to vote for Lula to protect their rights",
-     "toelichting": "“It’s such a simple phrase: stay alive! The other side is necropolitics.” This appeal was made by philosopher and prominent Indigenous leader Ailton Krenak to Brazilians to reelect President Luiz Inácio Lula da Silva ove",
+     "titel": "The women keeping Uttarakhand’s native bees alive",
+     "toelichting": "PITHORAGARH, Uttarakhand, India — The world comes alive during summers in Himalayan states like Uttarakhand. The forests are budding with new green leaves, and almost every trail is lined on both sides with flowers of ma",
      "bron": "Mongabay (Engels)",
-     "tijd": "18:04",
-     "link": "https://news.mongabay.com/short-article/2026/10/stay-alive-brazils-indigenous-people-mobilize-to-vote-for-lula-to-protect-their-rights/",
-     "sorteer": "2026-10-20T16:04:22+00:00"
+     "tijd": "19:58",
+     "link": "https://news.mongabay.com/2026/10/the-women-keeping-uttarakhands-native-bees-alive/",
+     "sorteer": "2026-10-20T17:58:40+00:00"
     }
    ]
   },
@@ -620,42 +607,42 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 180 soorten, 495.606 vogels geteld",
+     "titel": "Landelijk vandaag: 188 soorten, 503.704 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261020?language=dutch"
     },
     {
-     "titel": "Spreeuw — 202.972",
+     "titel": "Spreeuw — 204.973",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261020?language=dutch"
     },
     {
-     "titel": "Vink — 90.814",
+     "titel": "Vink — 92.608",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261020?language=dutch"
     },
     {
-     "titel": "Kolgans — 52.845",
+     "titel": "Kolgans — 53.077",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261020?language=dutch"
     },
     {
-     "titel": "Kauw — 49.267",
+     "titel": "Kauw — 49.484",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261020?language=dutch"
     },
     {
-     "titel": "Kraanvogel — 17.213",
+     "titel": "Kraanvogel — 17.779",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -663,15 +650,15 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Kraanvogel springt eruit — 17.213, normaal 4",
-     "bron": "4303× het gewone niveau",
+     "titel": "Kraanvogel springt eruit — 17.779, normaal 4",
+     "bron": "4445× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261020?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Kramsvogel springt eruit — 2.082, normaal 122",
+     "titel": "Kramsvogel springt eruit — 2.085, normaal 122",
      "bron": "17× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261020?language=dutch",
@@ -679,7 +666,7 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Roek springt eruit — 1.971, normaal 165",
+     "titel": "Roek springt eruit — 1.979, normaal 165",
      "bron": "12× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261020?language=dutch",
@@ -696,30 +683,30 @@
     {
      "kop": "Kraanvogels",
      "titel": "De trek lijkt op gang gekomen",
-     "bron": "951 meldingen vandaag tegen gemiddeld 173 per dag de week ervoor",
+     "bron": "1026 meldingen vandaag tegen gemiddeld 174 per dag de week ervoor",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar",
      "sein": true
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Piekdag — vandaag 951 meldingen, samen 63.915 vogels",
+     "titel": "Piekdag — vandaag 1026 meldingen, samen 63.608 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "oplopend — dag ervoor 562 · afgelopen week gemiddeld 173 per dag"
+     "vergelijking": "oplopend — dag ervoor 565 · afgelopen week gemiddeld 174 per dag"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "32 binnen 75 km van Dalfsen",
+     "titel": "39 binnen 75 km van Dalfsen",
      "bron": "dichtstbij: Hellendoorn - Scharlebeltweg, 21 km",
      "tijd": "13:20",
      "link": "https://waarneming.nl/species/19/observations/"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "14 meldingen vertrek uit het noorden",
-     "bron": "DE 14",
+     "titel": "11 meldingen vertrek uit het noorden",
+     "bron": "DE 11",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -744,19 +731,19 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 7.9,
-    "gevoel": 5.9,
-    "wind": "O 2",
+    "nu": 8.0,
+    "gevoel": 5.7,
+    "wind": "O 3",
     "station": "Heino",
     "bericht": "De herfst gaat steeds meer op volle toeren draaien. Vanaf vrijdag gaan we dat zeker merken met regen en veel wind. Mogelijk kan de wind aan de kust geregeld stormkracht bereiken en komen zware windstoten voor.",
     "vandaag": "Vanavond raakt het bijna overal bewolkt, alleen in het noordoosten blijft het nog een tijdlang onbewolkt. Vannacht is het bewolkt en blijft het vooral in het noorden en oosten nog enige tijd regenen, elders wordt het weer droog.",
-    "temperatuur": "Rond middernacht is het in het noorden 4 graden, en in het midden 9 graden.",
+    "temperatuur": "Rond middernacht is het in het noorden een graad of 5, in het midden van het land 9 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: dichte motregen, 4 tot 11 graden, 100% kans op neerslag, ruim 9 uur zon, wind uit het oosten, kracht 4.",
+     "zin": "Voor Dalfsen zelf: lichte motregen, 4 tot 11 graden, 100% kans op neerslag, ruim 9 uur zon, wind uit het oosten, kracht 4.",
      "max": 11,
      "min": 4,
      "regenkans": 100,
-     "omschrijving": "dichte motregen"
+     "omschrijving": "lichte motregen"
     },
     "vooruit": "Herfstweer met van tijd tot tijd regen en vrijdag en het weekeinde veel regen en af en toe veel wind. De temperaturen liggen rond het langjarig gemiddelde..",
     "omslag": null,
