@@ -3,13 +3,15 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "21:51",
+  "opgehaald": "22:00",
   "blokken": 10,
   "berichten": 79,
-  "problemen": [],
+  "problemen": [
+   "pauw & de wit: HTTPError"
+  ],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-20T21:51+02:00",
+ "opgehaald": "2026-10-20T22:00+02:00",
  "audio": "audio/20261020.mp3",
  "blokken": [
   {
@@ -63,6 +65,15 @@
      "sorteer": "2026-10-20T18:27:18+02:00"
     },
     {
+     "titel": "Verenigd Koninkrijk arresteert twee mannen wegens ‘spionage’ voor Iran nabij Amerikaanse basis",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/verenigd-koninkrijk-arresteert-twee-mannen-wegens-spionage-voor-iran-nabij-amerikaanse-basis~b2d71a17/",
+     "bron": "de Volkskrant",
+     "tijd": "21:50",
+     "sorteer": "2026-10-20T19:50:00+00:00"
+    },
+    {
      "titel": "Zelensky: VS waarschuwen Oekraïne weer voor Russische luchtaanvallen",
      "context": "",
      "rubrieken": [],
@@ -70,15 +81,6 @@
      "bron": "de Volkskrant",
      "tijd": "21:07",
      "sorteer": "2026-10-20T19:07:00+00:00"
-    },
-    {
-     "titel": "Israël doodt vier mensen in Gaza",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/israel-doodt-vier-mensen-in-gaza~b2d71a17/",
-     "bron": "de Volkskrant",
-     "tijd": "20:12",
-     "sorteer": "2026-10-20T18:12:00+00:00"
     },
     {
      "titel": "Het Europees Parlement wil vaart maken met de bescherming van het Internationaal Strafhof",
@@ -181,6 +183,13 @@
      "sorteer": "2026-10-20T19:28:01+00:00"
     },
     {
+     "titel": "16 jaar cel voor schietpartij met automatisch wapen bij voetbalclub in Zwolle",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaWJKNFdyVjhWVFdBYlZ4NTBjSkVLOE84Q1duUWY4OEp2TDNoWks1WXBFLTJaQkRHYzJJXzhnZUNQQ3FITlg5ZGlZRS1tWjZGZmQ3aHo5T3pOQnBTLXlVWG5sdGhtX2g0dmlNVU40X1hxUXFGTkJDamZ0SHZWQ28yUUFEMDVOeEF6aFF2M3h3M256QlUtTWZfSTJqOTA2TFB6OXd0cTdweEFKMjA?oc=5",
+     "bron": "NOS",
+     "tijd": "20:38",
+     "sorteer": "2026-10-20T18:38:42+00:00"
+    },
+    {
      "titel": "Twee minderjarigen uit Tilburg aangehouden na drie zedendelicten in één nacht",
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWG9hN1hGT0puZnV2VjR2cU9WUzNmV1E4RE9DZy1Oa1NnOUpoNFlNdEJBRmlWajMwblltNExtZEhQaFR5Q1dOeFR5elZPcUt4VjVTVzgxTFV4QXRDLXF0cEpkeE9OVzdJSmtSOXR2Rmt0bUhaQ0FuRjVhSGhhM3ZCMjdHcnlwTEVqenhscFRwSUtDS01uWmhTenk5SUZvYmY4SGNkOXBiZlE0bkxBcW56QVRGTFUyVmJBYjc3NFpuOWlvUQ?oc=5",
      "bron": "AD.nl",
@@ -200,13 +209,6 @@
      "bron": "de Stentor",
      "tijd": "19:56",
      "sorteer": "2026-10-20T17:56:00+00:00"
-    },
-    {
-     "titel": "’s Middags snoeien buurmannen samen boompjes, uren later staat arrestatieteam voor de deur",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM0UxaWFwZ2F0M3RzVXZwUnFFSG5sOWVjVGprSkRxTVo5ZmZUZ25PU3RvQ0FFTTF2TUlkemdHR3VJek9LVXB3MDJIajZPZ21sU1FCVmU1cmk5ZElxU0hNLWZsdXlBakJFdmlKMlVXajJqUVdjSzFGOTZkRVc1cktvUjhXUnk4R0pOMkV5MVQxbVhkNUk4ZUtUNjBKNHNpY192d2Q1WHRhVjA3ZUg4VkxjMUx0OWxyd0ZIcGZDWjQtWnJSRDExLUE?oc=5",
-     "bron": "Eindhovens Dagblad",
-     "tijd": "19:30",
-     "sorteer": "2026-10-20T17:30:35+00:00"
     },
     {
      "titel": "Na een dag op de barricaden tegen het fascisme kreeg een ‘soldaat van God’ me in het vizier",
@@ -234,8 +236,8 @@
      "kop": "Vanavond op tv"
     },
     {
-     "titel": "Pauw & De Wit: Michelle van Tongerloo, Twan Huys, Jos de Groot & Saskia Belleman",
-     "link": "https://www.bnnvara.nl/pauw-de-wit/artikelen/dinsdagavond-met-oa-michelle-van-tongerloo-twan-huys-jos-de-groot-saskia-belleman",
+     "titel": "Pauw & De Wit",
+     "link": "https://npo.nl/start/serie/pauw-de-wit",
      "kop": "Vanavond op tv",
      "bron": "NPO1 · 22:20",
      "tijd": "22:20",
@@ -410,14 +412,14 @@
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFkwVnZtY1ZUTTZsZjBldmVEODZpR0djNUFwaDN2OTNyWElRRWx5LVFxSkloNzhHZ1FOeFhPVUROWl9XYlNTU1VwQldIbkxGMnRoQkZ1Sk1ySVpIV2MyckxCYVdYZThvOG40ZjNVZUlMaHhJMUdDN1BKYzhTSFAtRUNlSTR1Nm5zaHloUUJDdmZJMHVjM1R4SzlOdUpsMmM?oc=5",
      "bron": "bnr.nl",
      "tijd": "20:46",
-     "sorteer": "2026-10-20T18:46:35+00:00"
+     "sorteer": "2026-10-20T18:46:00+00:00"
     },
     {
-     "titel": "De verkeerschaos is nep, de discussie is echt: hoe ver mogen politieke partijen gaan met AI?",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV21iRkVWUGl1NnhmOTJrTlhPQWtFSmhWV21fZGw1Z2Y3LXJIU1ZkMkNJWWIyOFdxVWpkOGhxalg5bE5zZ1lMNUVJeklWZ3k5R1ltRHV6U0gtYkU1cFNwUjB1NFBuSEsxa0RFWkZuWnVnSnp5RG4ySEtIcldiTmpMV3d5MU5SbGk1TDc5OEphTnlBRVd5M2VCakREeHRobjBlOFk0LXA2Z0dKV3huOElsMURvSXZ1TlY0eUZKRFNCem80dXQ4?oc=5",
-     "bron": "Eindhovens Dagblad",
-     "tijd": "19:12",
-     "sorteer": "2026-10-20T17:12:19+00:00"
+     "titel": "Opinie | Wiskunde speelde een belangrijke rol in mijn leven – tot AI zich ermee ging bemoeien",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVZzX0VxLV9BSm53RmMtVDFET1dkQVZlOVBvYmZpdklTc19BYS1RVUF6b0VGMkgzM1FFLUwyQ2t6b3BPQVA5Sjk4NVhuNTZZOG81czg4OWIwUWdROUgyaEpHX05odnhGSWhfV3UwOVR0eWFVQnV3aWRaV1ZyZ1h4cU9zX19sOE4wVFgwM3FIX1NuLXoxNmJjOTZhSmVMcWJiRXQ2Y1Rqd0N2SExlc0pJbHJZbk1JZ1VjalBsZURjTXpoQm43TENz?oc=5",
+     "bron": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+     "tijd": "17:00",
+     "sorteer": "2026-10-20T15:00:00+00:00"
     }
    ]
   },
@@ -609,7 +611,7 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 188 soorten, 505.658 vogels geteld",
+     "titel": "Landelijk vandaag: 188 soorten, 505.824 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
@@ -630,7 +632,7 @@
      "link": "https://trektellen.org/count/daytotals/1/0/20261020?language=dutch"
     },
     {
-     "titel": "Kolgans — 53.851",
+     "titel": "Kolgans — 53.916",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -685,14 +687,14 @@
     {
      "kop": "Kraanvogels",
      "titel": "De trek lijkt op gang gekomen",
-     "bron": "1076 meldingen vandaag tegen gemiddeld 174 per dag de week ervoor",
+     "bron": "1085 meldingen vandaag tegen gemiddeld 174 per dag de week ervoor",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar",
      "sein": true
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Piekdag — vandaag 1076 meldingen, samen 60.748 vogels",
+     "titel": "Piekdag — vandaag 1085 meldingen, samen 59.566 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -733,8 +735,8 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 7.7,
-    "gevoel": 5.2,
+    "nu": 7.6,
+    "gevoel": 5.0,
     "wind": "OZO 3",
     "station": "Heino",
     "bericht": "De herfst gaat steeds meer op volle toeren draaien. Vanaf vrijdag gaan we dat zeker merken met regen en veel wind. Mogelijk kan de wind aan de kust geregeld stormkracht bereiken en komen zware windstoten voor.",
