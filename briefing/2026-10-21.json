@@ -3,21 +3,22 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "15:35",
+  "opgehaald": "16:01",
   "blokken": 10,
-  "berichten": 73,
+  "berichten": 70,
   "problemen": [
-   "pauw & de wit: HTTPError",
+   "npo-gids NPO1: HTTPError",
    "correspondent: ParseError",
-   "trektellen 2364: timeout",
-   "trektellen 1919: timeout",
-   "landelijke totalen 2026-10-21: ConnectionResetError",
+   "Scientias: HTTPError",
+   "trektellen 2364: HTTPError",
+   "trektellen 1919: HTTPError",
+   "landelijke totalen 2026-10-21: HTTPError",
    "landelijke totalen 2026-10-20: HTTPError",
    "landelijke totalen: geen enkele soort gevonden"
   ],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-21T15:35+02:00",
+ "opgehaald": "2026-10-21T16:01+02:00",
  "audio": "audio/20261021.mp3",
  "blokken": [
   {
@@ -25,6 +26,15 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Podcast De Dag: voorbij de 1,5 graad opwarming",
+     "context": "De aarde gaat zeker meer dan 1,5 graad opwarmen , zo stelt de VN vandaag in een rapport. Het getal is al tien jaar lang de heilige graal om klimaatverandering aan te pakken. En ondanks dat zeker is dat we dat streven niet gaan halen, blijven beleidsmakers eraan vasthouden. Luister hier: Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan nie",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636083",
+     "bron": "NOS",
+     "tijd": "15:17",
+     "sorteer": "2026-10-21T15:17:40+02:00"
+    },
     {
      "titel": "Lege schappen in Italië door wegblokkades van vrachtwagenchauffeurs",
      "context": "Alle wegen leiden naar Rome, maar nu even niet. In het zuiden van Italië blokkeren vrachtwagenchauffeurs al meer dan een week snelwegen en havens, vanwege de gestegen dieselprijs. De toevoer van producten aan supermarkten komt daardoor in de knel; Italianen staan voor lege schappen. De protesten begonnen in de regio Apulië - de hak van Italië - maar zijn inmiddels uitgegroeid tot landelijke protes",
@@ -62,13 +72,13 @@
      "sorteer": "2026-10-21T13:26:08+02:00"
     },
     {
-     "titel": "Australisch parlementslid Haines is beide benen kwijt na aanval met auto",
-     "context": "Het Australische parlementslid Helen Haines (65) moet beide benen missen. Twee dagen geleden raakte ze zwaargewond toen een automobilist op haar inreed. Ze ligt nog altijd in kritieke, maar stabiele toestand in een ziekenhuis in Melbourne. Haines, een onafhankelijk parlementslid uit de deelstaat Victoria, was maandag haar auto aan het uitladen bij haar kiesdistrictskantoor in Wangaratta, toen een ",
+     "titel": "Tientallen vrijwilligers opgepakt bij Palestijnse olijfoogst, onder wie aanstaand Amerikaans Congreslid",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2636068",
-     "bron": "NOS",
-     "tijd": "13:13",
-     "sorteer": "2026-10-21T13:13:36+02:00"
+     "link": "https://www.volkskrant.nl/buitenland/tientallen-vrijwilligers-opgepakt-bij-palestijnse-olijfoogst-onder-wie-aanstaand-amerikaans-congreslid~b2d71a17/",
+     "bron": "de Volkskrant",
+     "tijd": "15:02",
+     "sorteer": "2026-10-21T13:02:00+00:00"
     },
     {
      "titel": "Witkoff spreekt met Poetin over Oekraïne-oorlog, Rusland laat Amerikaanse gevangene op verzoek van Trump vrij",
@@ -80,22 +90,20 @@
      "sorteer": "2026-10-21T10:55:00+00:00"
     },
     {
-     "titel": "Groot-Brittannië gaat toch weer boren naar gas in de Noordzee",
+     "titel": "Ze verlieten Israël uit protest; nu keren ze terug om Netanyahu weg te stemmen",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/groot-brittannie-gaat-toch-weer-boren-naar-gas-in-de-noordzee~b372e9df/",
-     "bron": "de Volkskrant",
-     "tijd": "12:05",
-     "sorteer": "2026-10-21T10:05:05+00:00"
+     "link": "https://www.trouw.nl/buitenland/ze-verlieten-israel-uit-protest-nu-keren-ze-terug-om-netanyahu-weg-te-stemmen~b66be171/",
+     "bron": "Trouw",
+     "tijd": "16:00",
+     "sorteer": "2026-10-21T14:00:00+00:00"
     },
     {
-     "titel": "De slogan van de Franse protestbeweging betekent niets en tegelijkertijd heel veel",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/de-slogan-van-de-franse-protestbeweging-betekent-niets-en-tegelijkertijd-heel-veel~b5a45f50/",
-     "bron": "Trouw",
-     "tijd": "14:01",
-     "sorteer": "2026-10-21T12:01:00+00:00"
+     "titel": "Separatisten Alberta lijden nederlaag, maar onvrede blijft: „Grootste tegenstander van ons welzijn is de federale overheid”",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTGUtc0YzUnhoMkNFSFUwaXVQallvS0YtSEZGWGhlMW04b05YZnZSY3lpbmlsREltYWlxamZjd1RBWWxta0Z2WkV0STZZdml1OUdiR04xTGU3NjBWWDdXb2RCQXZFUHNyZ1BVTGVnU3NNcEdFamc2TWlSWGF4TDNwakJ5elRraUFwaEtabVR3aGlnaHI1Nk96b1VKSEdKQUpLM0dFTnlycXRObkNpMTZtZ2tYdHAyU1k1SkFYWTQ0ZXhzemVUWDdBMDRhNGViOWxVMEVNNlNjaUx4YWRqbWc?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "15:33",
+     "sorteer": "2026-10-21T13:33:09+00:00"
     }
    ]
   },
@@ -105,8 +113,17 @@
    "emoji": "🇳🇱",
    "items": [
     {
+     "titel": "Stakingen in streekvervoer voor twee weken opgeschort, onderhandelingen hervat",
+     "context": "De acties in het streekvervoer zijn voor twee weken opgeschort. Vakbonden FNV en CNV zeggen dat ze een brief van werkgeversorganisaties hebben gekregen waardoor ze vertrouwen hebben in nieuwe gesprekken over een cao voor medewerkers in het streekvervoer. Doordat de de bonden en de werkgevers opnieuw met elkaar om tafel gaan, zijn de geplande stakingen voorlopig van de baan, melden FNV en CNV in ee",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636085",
+     "bron": "NOS",
+     "tijd": "15:24",
+     "sorteer": "2026-10-21T15:24:44+02:00"
+    },
+    {
      "titel": "Wat we nu weten over de zaak-Hajar en de man die wordt verdacht",
-     "context": "Mondjesmaat wordt meer bekend over de verdachte van de moord op de 29-jarige Hajar, wiens lichaam vorige week in een koffer werd gevonden in de Amstel in Amsterdam. Gisteren zei de politie op een persconferentie van de burgemeester, justitie en politie in Amsterdam dat de verdachte een Somalische man van 23 is. Hij woont sinds zijn zesde in Nederland en heeft een vaste verblijfsvergunning. Vandaag",
+     "context": "Mondjesmaat wordt meer bekend over de verdachte in de zaak rond Hajar, de 29-jarige vrouw van wie het lichaam vorige week in een koffer werd gevonden in de Amstel in Amsterdam. Gisteren zei de politie op een persconferentie van de burgemeester, justitie en politie in Amsterdam dat de verdachte een Somalische man van 23 is. Hij woont sinds zijn zesde in Nederland en heeft een vaste verblijfsvergunn",
      "rubrieken": [],
      "link": "https://nos.nl/l/2636073",
      "bron": "NOS",
@@ -115,7 +132,7 @@
     },
     {
      "titel": "Websites van overheid en in onderwijs offline vanwege lek, risico op hacks",
-     "context": "Verschillende bedrijven en organisaties halen uit voorzorg websites uit de lucht in verband met twee grote lekken in programmeertaal PHP. Het gaat onder meer om MijnOverheid.nl, DigiD, de website van de Tweede Kamer. De nieuwssite en app van RTL en de populaire techwebsite Tweakers zijn ook getroffen. Liveblog Volg de laatste ontwikkelingen over het lek in ons liveblog . Ook het Nationaal Cyber Se",
+     "context": "Verschillende bedrijven en organisaties halen uit voorzorg websites uit de lucht in verband met twee grote lekken in programmeertaal PHP. Het gaat onder meer om MijnOverheid.nl, DigiD en de website van de Tweede Kamer. De nieuwssite en app van RTL en de populaire techwebsite Tweakers zijn ook getroffen. Liveblog Volg de laatste ontwikkelingen over het lek in ons liveblog . Ook het Nationaal Cyber ",
      "rubrieken": [],
      "link": "https://nos.nl/l/2636055",
      "bron": "NOS",
@@ -132,31 +149,13 @@
      "sorteer": "2026-10-21T09:15:20+02:00"
     },
     {
-     "titel": "Deze vader ontvoerde zijn zoon uit berucht gezinshuis in Spanje",
-     "context": "Een man uit Woerden heeft zijn zoon in 2018 'ontvoerd' uit het Nederlandse gezinshuis Huize Soria in Spanje. Dat deed hij omdat hij signalen kreeg dat zijn 15-jarige zoon Sem* er geestelijk en lichamelijk werd mishandeld. Sem wilde er zelf ook weg, maar de jeugdbescherming deed aangifte van onttrekking aan het wettelijk gezag. Sems vader belandde in de cel. Het verhaal is er een van de vele over m",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636034",
-     "bron": "NOS",
-     "tijd": "07:00",
-     "sorteer": "2026-10-21T07:00:01+02:00"
-    },
-    {
-     "titel": "Wekdienst 21/10: DSW maakt zorgpremie bekend • ADE begint in Amsterdam",
-     "context": "Goedemorgen! Traditiegetrouw heeft verzekeraar DSW de primeur wat betreft de hoogte van de nieuwe zorgpremie en het is de eerste dag van het Amsterdam Dance Event . Eerst het weer: het is vandaag op veel plekken bewolkt met hier en daar wat regen. De wind komt vanuit het zuiden en zuidwesten. Het wordt zo'n 13 tot 15 graden. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwerkz",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636033",
-     "bron": "NOS",
-     "tijd": "06:53",
-     "sorteer": "2026-10-21T06:53:23+02:00"
-    },
-    {
-     "titel": "Meerdere Nederlandse ziekenhuizen halen websites offline vanwege digitale dreiging",
+     "titel": "PHP Foundation: geen signalen van misbruik kwetsbaarheden PHP",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/meerdere-nederlandse-ziekenhuizen-halen-websites-offline-vanwege-digitale-dreiging~b8a449e9/",
+     "link": "https://www.volkskrant.nl/binnenland/php-foundation-geen-signalen-van-misbruik-kwetsbaarheden-php~b8a449e9/",
      "bron": "de Volkskrant",
-     "tijd": "14:35",
-     "sorteer": "2026-10-21T12:35:00+00:00"
+     "tijd": "15:57",
+     "sorteer": "2026-10-21T13:57:00+00:00"
     },
     {
      "titel": "Door lek in internetcode PHP gaan websites uit voorzorg offline: ‘Criminelen hebben deze kwetsbaarheid mogelijk al jaren misbruikt’",
@@ -168,57 +167,41 @@
      "sorteer": "2026-10-21T11:35:19+00:00"
     },
     {
-     "titel": "Opnieuw werd een jonge vrouw vermoord, dit keer heet ze Hajar",
+     "titel": "Politici gebruiken ChatGPT op grote schaal tijdens debatten, maar hoe erg is dat? ‘Er rust nog een taboe op’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/opnieuw-werd-een-jonge-vrouw-vermoord-dit-keer-heet-ze-hajar~bd2ff8f6/",
+     "link": "https://www.trouw.nl/binnenland/politici-gebruiken-chatgpt-op-grote-schaal-tijdens-debatten-maar-hoe-erg-is-dat-er-rust-nog-een-taboe-op~b41138e7/",
      "bron": "Trouw",
-     "tijd": "20:46",
-     "sorteer": "2026-10-20T18:46:00+00:00"
+     "tijd": "15:22",
+     "sorteer": "2026-10-21T13:22:20+00:00"
     },
     {
-     "titel": "Verschillende belangrijke websites in Drechtsteden uit de lucht: ziekenhuis en gemeenten",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTm1NMldsbHBpWmJxd29nUEhoWHd5S1N1NUVjUTU3cjVRX0FRUktELVNkM1hSUFkwY0tSSThrYk5NN1Q4a093M0pFSVhVNENkSHhHX2JCd2dfVUwwQ2JhNlhlTVNRT1ZPRml2U2R0SGNuMmxWU3VXci05dm1USGVUQk1XblR1aDc4Q3IzajBuM1h6QVhfVGh2Q1hHdm10Wi10Q2Q2UTdKbWprLUR0VDRkaDVVY0ZnU3Z1Um9NQUZ1RWs?oc=5",
+     "titel": "Inval in EU-parlement bij kantoren oude fractie van partij Le Pen",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMkNQcDFwN2RmT2ZpOWdfWnZNUVpxRjBtTWlReUUzWExpZHIxY3lfaENhQlFBV1hGMEtNYjBzOTNzSW1fTm5lLXdYMDB1QnBCRUstRUNZZ3JhU2ZidlZMTnN0bGV1OFZJZ1pPQ1FCYzNMSldVSTFoYWs3VVh6dHFUZnZaODEyVVhrRnBsV0xqbFFEbUVqZXR4aVpMdElROFV1Nnc4VjQxVWljZUVpT3pCeWFHZVVnNGM?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "15:49",
+     "sorteer": "2026-10-21T13:49:06+00:00"
+    },
+    {
+     "titel": "Muziekvereniging Somerens Lust brengt City Sounds in Someren",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ3YxYTZPSW0zcDVpU1ZmNENzWnU1eEJ3ZGpqWEV6NFJxc1NDbmdxaGJWRWFTc0VLc1p3TU5jS1NzN3RiS184bnZxRXcycWdmLUkxamNCRXRJclR1T0F2TU1BV0lnaVZONEJ0cnhSSXVISUFnaDdPUjJydmNSbGV2djVQUnh3Y3lFRXJ0bXVEOU1mbHprN3E2UUNKUWs?oc=5",
      "bron": "Eindhovens Dagblad",
-     "tijd": "14:30",
-     "sorteer": "2026-10-21T12:30:55+00:00"
+     "tijd": "15:34",
+     "sorteer": "2026-10-21T13:34:50+00:00"
     },
     {
-     "titel": "Kat zit urenlang vast in hoge boom in Waalwijk, brandweer schiet te hulp",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGM2YlF5MUNBNFl3Z1ktRTBWWU0wbTNKNU1DR3dveFZScW0zVEpXTDhwandZcFkxd290MzJObHJqRnVua2hsMFlHLXIzb0VmZkxGNXctckdnVU1EZ1BFODRCdGxpb0ZIdHpvd25jdHhIZXNmWWZLdm1MSm9uelBmNU1GcVhqWF90ZnZORDh0X0FVUzVKcWhac1BaZXcxSXctVG5MTUxaVVhVMWVq?oc=5",
+     "titel": "Twee zomers moeten duidelijk maken of zwemmen in Haarsteegse Wiel veilig is",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNm1SSHI5UmlKcHJoSlh0NlV6anFSY282TlVGdDdtM1RPSnVMVk82MFJWOEpwM2dxb3JrZXNxRDRRZmNaOERhWkxMSFNnR2czQmtzVTB5STA1M3ZDTE93bGExQWdNTGZGdUkwUlFrY1ZMMHVRRmc2X3FmUXgwWmR3S0g3ck45QUdIaXMxUWVKZC1UenhTN3N6SzR4aV9aOF9PTG9nbTZMY2NoVEZWQ1dERA?oc=5",
      "bron": "Brabants Dagblad",
-     "tijd": "14:28",
-     "sorteer": "2026-10-21T12:28:00+00:00"
+     "tijd": "15:00",
+     "sorteer": "2026-10-21T13:00:54+00:00"
     },
     {
-     "titel": "Emma FitzGerald geeft kunstlezing over spel in Bibliotheek Veghel",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaUZ6T2U5bFdma2VCZGM5Sjl6ZkZBVHMxc3FxMjMyUkpMeTA0WndhR1lCamdwc1ZfcGZCQXR1d3RfMG5LWFc3bV9PWUtuYW5QQmNxcGEtX0xPeW82b1ppYlpCQUgza1RsN1hIUzBvaDlQQXBSMm8yUk9GbXMxRk5kSWVrZTAyS3JMWTJBSjVXNU9mQ21YUGlqUW1Ec01XMmdZbUk1T1BxZGI?oc=5",
-     "bron": "Brabants Dagblad",
-     "tijd": "13:56",
-     "sorteer": "2026-10-21T11:56:31+00:00"
-    },
-    {
-     "titel": "Website van gemeente Land van Cuijk tijdelijk uit de lucht door mogelijke cyberaanvallen",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0padjBqNlp3NkJzM2ppMHgxRHB3TzRwSVljR1NNVnRxbmg2bW1YdlJUdGl1RDN5amtwMGRQbnZvREhUUS1ZVGlvM2pFRnFyUllDOFJROXVTT1ZFOGpDWThraUV4TnF6RG80c3hOVnRmbUZTNWU4WEFQbUR0RjQ0UG1XUDlDZ1gwRnNDUTBJZjlIUDRlMUk4bEFPVVN2WUFvYnNCaS1JS3lmcGlZR1hpeWJsaHQzeDZvMlVMUFhYTjdOZw?oc=5",
-     "bron": "Eindhovens Dagblad",
-     "tijd": "13:53",
-     "sorteer": "2026-10-21T11:53:16+00:00"
-    },
-    {
-     "titel": "Eva",
-     "link": "https://npo.nl/start/serie/eva",
-     "kop": "Vanavond op tv",
-     "bron": "NPO1 · 19:05",
-     "tijd": "19:05",
-     "sorteer": "2026-10-21T19:05:00"
-    },
-    {
-     "titel": "Pauw & De Wit",
-     "link": "https://npo.nl/start/serie/pauw-de-wit",
-     "kop": "Vanavond op tv",
-     "bron": "NPO1 · 22:20",
-     "tijd": "22:20",
-     "sorteer": "2026-10-21T22:20:00"
+     "titel": "Nederlandse mannen in Colombia aangehouden op verzoek van OM",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQzR5WVNXT3p3b2ZEcVRtakdDMzhNNFNVVHdIOE56dkRfWERQUTBBVkRXaDNxbVhxM3VVVFpKQm9SWEJNMjRnS01VRE5IZmF5TDlQc1FsZ0ltdjA4M1lwSnNIWUprVjFWM0w1WFVLTkt2WG8wT3FDSHNmZ0JBRFpJWUhpbnVQVmJSU3pnYTZTMA?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "14:49",
+     "sorteer": "2026-10-21T12:49:38+00:00"
     }
    ]
   },
@@ -228,10 +211,10 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "LIVE | Thorvaldsen staakt laatste training FC Twente, vanmiddag reis naar Gibraltar",
+     "titel": "LIVE | Thorvaldsen ontbreekt in selectie FC Twente, dat afreist naar Gibraltar",
      "context": "Voor FC Twente staat donderdagavond de tweede wedstrijd in de hoofdfase van de Conference League op de rol. Nadat vorige week FC Thun werd verslagen, hoopt de ploeg van John van den Brom in tegen Lincoln Red Imps uit Gibraltar op de volgende overwinning. Volg alles rondom het duel in ons liveblog.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3709942/live-thorvaldsen-staakt-laatste-training-fc-twente-vanmiddag-reis-naar-gibraltar",
+     "link": "https://www.oost.nl/nieuws/3709942/live-thorvaldsen-ontbreekt-in-selectie-fc-twente-dat-afreist-naar-gibraltar",
      "bron": "RTV Oost",
      "tijd": "14:30",
      "sorteer": "2026-10-21T12:30:32+00:00"
@@ -286,30 +269,37 @@
      "sorteer": "2026-10-21T04:57:47+00:00"
     },
     {
-     "titel": "Websites als MijnOverheid en DigiD offline vanwege lek, risico op hacks",
-     "context": "LANDELIJK – Verschillende bedrijven en organisaties halen websites uit de lucht in verband met twee grote lekken in programmeertaal PHP. Het gaat onder meer om MijnOverheid.nl, DigiD, de website van de Tweede Kamer en de populaire techwebsite Tweakers. Ook het Nationaal Cyber Security Centrum (NCSC) van de overheid heeft zijn website uit de lucht gehaald, […]",
+     "titel": "De verhalen achter bermmonumenten tijdens het Verhalencafé",
+     "context": "DALFSEN – Een kruis, een foto of een kaars langs de weg. Achter elk bermmonument schuilt een persoonlijk verhaal. Op donderdag 22 oktober vertelt Bertus Marsman tijdens het Verhalencafé in Trefkoele+ in Dalfsen over zijn zoektocht naar de mensen achter deze bijzondere gedenkplekken. Voor zijn boek Bermmonumenten bezocht Bertus tientallen monumenten en sprak hij met […]",
      "rubrieken": [
+      "Dalfsen",
       "Ingezonden bericht",
-      "Laatste nieuws",
-      "Landelijk"
+      "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/555007/websites-als-mijnoverheid-en-digid-offline-vanwege-lek-risico-op-hacks.html",
+     "link": "https://www.dalfsennet.nl/nieuws/555014/de-verhalen-achter-bermmonumenten-tijdens-het-verhalencafe.html",
      "bron": "DalfsenNet",
-     "tijd": "12:56",
-     "sorteer": "2026-10-21T10:56:10+00:00"
+     "tijd": "15:23",
+     "sorteer": "2026-10-21T13:23:49+00:00"
     },
     {
-     "titel": "Bushokje Den Hulst kapot",
-     "context": "NIEUWLEUSEN – Het bushokje bij Den Hulst licht nu vol met glas! Het glas voor de reclame is kapot gemaakt, ook is het plastic voor de reisinformatie nog eens kapot! Bericht en foto: Tygo Bovendorp",
+     "titel": "Berichten over de Buurtbussen lijn 591, 568 en 569",
+     "context": "DALFSEN – NIEUWLEUSEN – OUDLEUSEN – VILSTEREN – OMMEN – LEMELERVELD – LEMELE – Betreft stakingsdag 22 oktober 2026 in het OV. De buurtbus lijn 591 van Nieuwleusen, via Oudleusen naar station Dalfsen v.v. zal morgen 22.10.2026 gewoon rijden. Ook de buurtbus lijn 568 van Dalfsen naar Ommen via Vilsteren en de buurtbus lijn 569 […]",
      "rubrieken": [
+      "Dalfsen",
       "Ingezonden bericht",
       "Laatste nieuws",
-      "Nieuwleusen"
+      "Lemele",
+      "Lemelerveld",
+      "Nieuwleusen",
+      "Ommen",
+      "Oudleusen",
+      "Rechteren",
+      "Vilsteren"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/554970/bushokje-den-hulst-kapot.html",
+     "link": "https://www.dalfsennet.nl/nieuws/554989/buurtbus-lijn-591-2.html",
      "bron": "DalfsenNet",
-     "tijd": "12:41",
-     "sorteer": "2026-10-21T10:41:31+00:00"
+     "tijd": "15:05",
+     "sorteer": "2026-10-21T13:05:37+00:00"
     }
    ]
   },
@@ -360,18 +350,18 @@
    "emoji": "🤖",
    "items": [
     {
-     "titel": "In bijna twee derde van de Kamerdebatten klinkt AI-gegenereerde tekst",
-     "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQMktaUkFrbnZrdFpqYTlrRXU0V1d2enpaUVk4OXRuSUFwcXhWRHJKMmNULXBMaWRJak9xVWM2b3Q0VnBXc3UwVXZLblJmS3IyMC1WVndwU0ZtU3FWN083bmV1SWRnYmFPX05mLUhJcVE0Q0JvSkhSUUp3QTUtRUhld3JQUXNySWJQTmFqeEo0cXBwdVJfd0VwTENDSWRpSmFYZ3hnS2NZcGJMdTRIWEtzZVBQWWNlQkh0TURRanEtZl9wWnFNQUZMWjhOM0Q5ejk4RFRISmNQZE94eGtTT1ZRU1BKcFZYU1FsZi01RV93a2NLTldkMkYtSHgtVm9YSk9jSDdkaGl0dFZxVWZtSUU5a3hGaDgtbmJWSjNXMkZ5bnkzVzRSSktvR2ZRbzk1RHIwdUtJZGpha1c3emJ3WnRZbnJ1TzlXZVE?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "09:02",
-     "sorteer": "2026-10-21T07:02:00+00:00"
+     "titel": "Dictator Noord-Korea pronkt met AI-torpedo: ’Poetin hielp Kim Jong-un aan dodelijk wapen’",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOFMxV2JDMEQ0VXdNbWRmaFk4TmlkQ0hpTWhrWTg3eU9TTFg4RHF5a2wtMEZKLVF2Q1BTeWRGZGFFLVZVWXYyaHNoMjlhcE1MR29raTNZN1dTWGp2V3ZnOFVYbGRZM0tfWWxEd2loNmxFY0ZudjlxY3RsMVR1R3ZUM1U3UGsxYktvNDB6allpVGVMeW5NMld4S3ZKVG0zdk01MHgxeXFWcHVad2ltTV9Tak9KMW9Balo4TGZScUhUaGx5Y3VLWk1neXNPckJTeGw5XzI0?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "15:53",
+     "sorteer": "2026-10-21T13:53:50+00:00"
     },
     {
-     "titel": "Parlementariërs spreken veelvuldig AI-teksten uit in Tweede Kamer",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkotbzFjUWp4aVYxWWxZaVllVGpuanJEVlVnVnNGcHRFa3dmQVVGQ2V3U3VocFB3eklJNmsxdkFiejJsN1NuLVJiemRlYlZLWnNicUlIRGs5VWpUWk1UWFg0U08wNE9BR0ZGTnZRUHdFY2dhOTBnLXk5a2ZQaWM3TnFfQzNoazNHaHI5VUVVei1uV1R6MVdad3FoSFFfYWJPcVc5MTRPUkE5VlhHT1pR?oc=5",
+     "titel": "Tweede Kamerleden spreken veelvuldig AI-teksten uit in Kamerdebatten",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRjZOVzBiNXcwRlcxTkloQ1JUdXhnRV9LbzItb2Fmd1RFY2ROOE5LXy1hY1JiYXBzdUhvR3hpdzN1WFpkZ3hOUDhCTVR3Zk1aa1NKMjNDTHZsTElHTVJ1VmpJaFJQMlNpTkg3VTZkem1xbExLUGJ4SkNjelZKQ0tTT1hFdlptWmRrSTJfMjhINHBUd2N0QXNKck8tam5LeHRBUHVxUnNJU195Rmhrd25uZWNDOA?oc=5",
      "bron": "de Volkskrant",
      "tijd": "14:01",
-     "sorteer": "2026-10-21T12:01:43+00:00"
+     "sorteer": "2026-10-21T12:01:00+00:00"
     },
     {
      "titel": "Spotify filtert nog eens 50 miljoen AI-slopnummers uit je aanbevelingen",
@@ -433,20 +423,20 @@
      "sorteer": "2026-10-20T12:35:40.737+02:00"
     },
     {
+     "titel": "Berichtgeving over racisme binnen divisie handhaving bij het UWV",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "05-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D48782",
+     "sorteer": "2026-10-21T15:09:09.41+02:00"
+    },
+    {
      "titel": "Consultatie wetsvoorstel overdracht pensioenen politieke ambtsdragers aan ABP",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
      "tijd": "20-08",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D38667",
      "sorteer": "2026-10-21T11:45:03.897+02:00"
-    },
-    {
-     "titel": "Reactie op de gewijzigde motie van het lid Piri c.s. over onderzoeken of er (beperkte) individuele financiële tegemoetkoming…",
-     "bron": "Brief van de regering",
-     "kop": "Brieven en moties",
-     "tijd": "13-07",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D36555",
-     "sorteer": "2026-10-21T11:02:03.097+02:00"
     },
     {
      "titel": "Grondwet en democratische rechtsstaat",
@@ -504,11 +494,12 @@
      "sorteer": "2026-10-21T08:00:00+00:00"
     },
     {
-     "titel": "Paddenstoel is maar het topje: dit gebeurt er onder de bosgrond",
-     "toelichting": "Wie dit najaar door het bos wandelt, ziet overal paddenstoelen opduiken. Toch zijn die maar een klein deel van de schimmel. Het grootste deel zit onzichtbaar onder de grond, als een netwerk van draden dat dood materiaal ",
-     "bron": "Scientias",
-     "tijd": "11:02",
-     "link": "https://scientias.nl/paddenstoel-is-maar-het-topje-dit-gebeurt-er-onder-de-bosgrond/"
+     "titel": "Sustainable silvopasture is popular with U.S. farmers despite waning financial supports",
+     "toelichting": "VERSHIRE, Vermont – When Sabra Ewing and Sebastian Lousada bought a tired dairy farm with pastures featuring old apple trees alongside sprouting maples, it was obvious that the grass below these trees’ crowns was a lot l",
+     "bron": "Mongabay (Engels)",
+     "tijd": "15:34",
+     "link": "https://news.mongabay.com/2026/10/sustainable-silvopasture-is-popular-with-u-s-farmers-despite-waning-financial-supports/",
+     "sorteer": "2026-10-21T13:34:03+00:00"
     },
     {
      "titel": "Heavy rains during critical period of cacao cultivation hit Ghana’s yields",
@@ -517,14 +508,6 @@
      "tijd": "12:32",
      "link": "https://news.mongabay.com/2026/10/heavy-rains-during-critical-period-of-cacao-cultivation-hit-ghanas-yields/",
      "sorteer": "2026-10-21T10:32:24+00:00"
-    },
-    {
-     "titel": "Six beluga deaths cast a shadow over rescue from Canada’s Marineland",
-     "toelichting": "Six members of a pod of 30 belugas, a fifth of the whales that were transferred from a marine park in Canada to facilities in the U.S. and Spain as part of a massive rescue operation, have died in the last two months. Th",
-     "bron": "Mongabay (Engels)",
-     "tijd": "12:04",
-     "link": "https://news.mongabay.com/2026/10/six-beluga-deaths-cast-a-shadow-over-rescue-from-canadas-marineland/",
-     "sorteer": "2026-10-21T10:04:44+00:00"
     }
    ]
   },
@@ -543,15 +526,15 @@
     },
     {
      "kop": "Verwachting",
-     "titel": "Vandaag — telpost 6, kraanvogels en ganzen 2, roofvogels 7, zeetrek 1",
+     "titel": "Vandaag — telpost 6, kraanvogels en ganzen 2, roofvogels 4, zeetrek 1",
      "bron": "wind uit het zuiden; het regende vannacht en het klaart op — opgehoopte trek",
      "tijd": "",
      "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (08:11) tot een uur of drie daarna; het eerste uur is het drukst. Roofvogels pas als de thermiek op gang komt, grofweg 11:00 tot 15:00. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
+     "toelichting": "Zangvogels vanaf zonsopkomst (08:11) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
     },
     {
      "kop": "Verwachting",
-     "titel": "Morgen — telpost 4, kraanvogels en ganzen 1, roofvogels 1, zeetrek 2",
+     "titel": "Morgen — telpost 4, kraanvogels en ganzen 4, roofvogels 1, zeetrek 2",
      "bron": "wind uit het zuiden",
      "tijd": "",
      "link": "https://www.trektellen.org/",
@@ -655,23 +638,23 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Volop trek — vandaag 454 meldingen, samen 30.617 vogels",
+     "titel": "Piekdag — vandaag 505 meldingen, samen 25.578 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "aflopend — dag ervoor 1213 · afgelopen week gemiddeld 340 per dag"
+     "vergelijking": "aflopend — dag ervoor 1217 · afgelopen week gemiddeld 340 per dag"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "20 binnen 75 km van Dalfsen",
-     "bron": "dichtstbij: Zuidwolde (DR) - Meeuwenveen, 16 km",
-     "tijd": "11:44",
+     "titel": "23 binnen 75 km van Dalfsen",
+     "bron": "dichtstbij: Wierdense Veld - N2000, 23 km",
+     "tijd": "14:35",
      "link": "https://waarneming.nl/species/19/observations/"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "15 meldingen vertrek uit het noorden",
-     "bron": "DE 14, SE 1",
+     "titel": "16 meldingen vertrek uit het noorden",
+     "bron": "DE 15, SE 1",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -696,15 +679,15 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 12.9,
-    "gevoel": 12.9,
-    "wind": "ZZO 2",
+    "nu": 12.7,
+    "gevoel": 11.3,
+    "wind": "Z 3",
     "station": "Heino",
     "bericht": "Een komen en gaan van lagedrukgebieden zorgen de komende dagen voor typisch en guur herfstweer met vaak regen of buien en flink wat wind. Daarnaast is vooral langs de kust kans op (zware) windstoten. Maar er zijn ook droge momenten tussendoor met wat zon of opklaringen.",
     "vandaag": "Vanmiddag is vooral in het noordoosten de zon te zien, maar in de rest van het land raakt het bewolkt en valt er wat regen. Vanavond zijn er in het oosten en zuiden opklaringen.",
     "temperatuur": "De temperatuur komt uit op 12 à 13 graden in het zuiden tot maximaal 15 graden in het oosten en noordoosten.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: lichte regen, 7 tot 14 graden, 100% kans op neerslag, ruim 5 uur zon, wind uit het zuiden, kracht 4.",
+     "zin": "Voor Dalfsen zelf: lichte regen, 7 tot 14 graden, 100% kans op neerslag, ruim 6 uur zon, wind uit het zuiden, kracht 4.",
      "max": 14,
      "min": 7,
      "regenkans": 100,
