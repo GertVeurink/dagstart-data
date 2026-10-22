@@ -1,15 +1,15 @@
 {
  "datum": "2026-10-22",
- "naam": "Ochtendbriefing",
+ "naam": "Middagbriefing",
  "status": {
-  "ronde": "Ochtendbriefing",
-  "opgehaald": "11:00",
+  "ronde": "Middagbriefing",
+  "opgehaald": "12:00",
   "blokken": 11,
-  "berichten": 81,
+  "berichten": 87,
   "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-22T11:00+02:00",
+ "opgehaald": "2026-10-22T12:00+02:00",
  "audio": "audio/20261022.mp3",
  "blokken": [
   {
@@ -17,6 +17,24 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Agent Florida vindt dode man en trekt in zijn huis, gepakt na dure verbouwing",
+     "context": "In de Amerikaanse staat Florida is een 35-jarige politieagent opgepakt nadat hij de identiteit van een dode man had aangenomen. In juli 2022 was de agent in de stad Lauderhill op een melding afgegaan om het welzijn van een persoon te controleren. Bij aankomst bleek dat de 71-jarige Dennis West was overleden. De agent maakte hier melding van, de lijkschouwer constateerde vervolgens dat West een nat",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636189",
+     "bron": "NOS",
+     "tijd": "11:49",
+     "sorteer": "2026-10-22T11:49:00+02:00"
+    },
+    {
+     "titel": "'VS en Israël bereiden nieuwe aanvallen op Iran voor'",
+     "context": "De VS en Israël hebben plannen klaarliggen voor een nieuwe aanval op Iran, die de landen willen uitvoeren na de Amerikaanse tussentijdse verkiezingen. Dat schrijft The New York Times onder meer op basis van gesprekken met Amerikaanse functionarissen. De landen zouden afgelopen tijd hun oefeningen hebben opgevoerd, bijvoorbeeld van luchtaanvallen. Dat doen de landen boven Irak, dat tussen Israël en",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636186",
+     "bron": "NOS",
+     "tijd": "11:19",
+     "sorteer": "2026-10-22T11:19:57+02:00"
+    },
     {
      "titel": "Docent over aanslag school VS: 'Voor ik de deur kon sluiten, was hij er al'",
      "context": "Een lerares die zwaargewond raakte toen een 16-jarige schutter een week geleden het vuur opende op een Amerikaanse basisschool, zegt dat ze totaal geen tijd had om haar leerlingen te redden. \"Ik draaide me nog om om de deur te sluiten, maar hij was er al. Voordat ik iets kon doen, schoot hij me van dichtbij neer.\" De 54-jarige Becky Drury werd meerdere keren geraakt door de schutter. Een 25-jarige",
@@ -37,30 +55,12 @@
     },
     {
      "titel": "Toenadering beloofd, maar aanvallen Rusland en Oekraïne gaan gewoon door",
-     "context": "Bij Russische aanvallen op Oekraïne zijn vannacht een dode en meerdere gewonden gevallen. Het geweld blijft dus aanhouden ondanks Russische toezeggingen onderhandelingen te overwegen. In de hoofdstad Kyiv ging het luchtalarm gistermiddag al af terwijl in Moskou nog naar buiten moest komen wat de Amerikaanse gezant Steve Witkoff die dag had besproken met het Kremlin. Ook vannacht gingen de aanvalle",
+     "context": "Bij Russische aanvallen op Oekraïne zijn de afgelopen uren twee doden en meerdere gewonden gevallen. Het geweld blijft dus aanhouden ondanks Russische toezeggingen onderhandelingen te overwegen. \"Rusland reageert op onderhandelingen met raketten\", vat president Zelensky het samen. In de hoofdstad Kyiv ging het luchtalarm gistermiddag al af terwijl in Moskou nog naar buiten moest komen wat de Ameri",
      "rubrieken": [],
      "link": "https://nos.nl/l/2636170",
      "bron": "NOS",
      "tijd": "07:33",
      "sorteer": "2026-10-22T07:33:28+02:00"
-    },
-    {
-     "titel": "Stemmen uit omsingeld Taiz in Jemen: 'Onze stad hapt naar adem'",
-     "context": "De Jemenitische stad Taiz is volledig omsingeld door Houthi-rebellen. Alle aanvoerwegen zijn afgesloten, mensen en goederen kunnen de stad niet in of uit. De derde stad van het land is door de strategische ligging al jaren een troef voor de strijdende partijen. Ook nu weer is dit een belangrijk front in de recent opgelaaide oorlog tussen de Houthi's en het regeringsleger van Jemen. De Verenigde Na",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636166",
-     "bron": "NOS",
-     "tijd": "06:56",
-     "sorteer": "2026-10-22T06:56:10+02:00"
-    },
-    {
-     "titel": "Wekdienst 22/10: Presentatie parcours Tour de France • Russische diesel naar VS",
-     "context": "Goedemorgen! De eerste lading Russische diesel gaat op weg naar de VS en een hoop Nederlandse clubs spelen vanavond Europees voetbal. Eerst het weer: in de ochtend is er veel bewolking en regen, en waait het flink vanuit het zuidwesten. In de middag gaat de wind liggen en wordt het zonniger. Het wordt 11 tot 14 graden. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwerkzaamhed",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636165",
-     "bron": "NOS",
-     "tijd": "06:47",
-     "sorteer": "2026-10-22T06:47:20+02:00"
     },
     {
      "titel": "Twee doden na aanval op Saoedisch vliegveld",
@@ -90,11 +90,18 @@
      "sorteer": "2026-10-22T03:30:00+00:00"
     },
     {
-     "titel": "Maite Vermeulen en Giacomo Zandonini winnen grote journalistieke prijs voor onderzoek naar mensonterende ‘terugkeerhub’ in Albanië",
-     "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPV3p4cjdKZmdVdUtPek45dWJjVF8wejIwbTAza1hLc2N3S1NUdExxSTZESFVsbF9nd0pTTnR0MFpsSXJDSkh0UWlySWRjT1F1SUZoYko2ODZDa2otdnZqSzZZTVVPQllZRlVtR3g1cFU1T1l2cUYzS1JGb09yYTVIMFBycWp4V2tUUHlCOFNNUm1TVlREYkVhcWtxSlluZnV4a0VIYnY3V2F4N0swTE41X2ZTdnlORlVyZG5LVG5ESDI0NW5IbVQwRWZlenM2WlBJekQydER3QU55Y0ZILXFQYm1VbjFJYXJDZGNJaGFaUUxSYXhTMGF2YldhYzVRS0RXdnM1andrNWtKWVFVS2Y0Qk85WnI1SU9MTWpTa2laSmlnSWxB?oc=5",
-     "bron": "De Correspondent",
-     "tijd": "10:14",
-     "sorteer": "2026-10-22T08:14:43+00:00"
+     "titel": "Mogelijk nieuwe vredesgesprekken op komst, maar verschillen blijven groot: ‘Poetin heeft de tijd’",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMEwzbVFndGQ1UW1tcmRDUEh4cm5Cb2pGNXlTdHc2bDhLZ05sLUduWTFDQ0tpdThjSVpUTXdEQ1pzMUxNY19yOGxfVjlqVHdKa1RMcEFGV1p4dnJaS0JDNkJnby1sY1BwYUhNSWhhYmVTMFhrTFZpVExVdnF1R0ltdHVrVkdJdHV5QnBTSUxCUUUxUXN5c3Y2dWRreXA5VVlsdU1KcXl0eG1iMFhxMzM5Y3BESDN2TVVMM1VrYTBTbGt2NVR5Mmg1d2tUN3p4LWJERGRVVmdySGNuYVE?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "11:32",
+     "sorteer": "2026-10-22T09:32:00+00:00"
+    },
+    {
+     "titel": "ICE verdween bijna uit Minneapolis, maar de onrust in de kerk van Arend Jan ging niet weg",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOelV1WE96ejNCYWprVkhCR2ItZU5SM3NUZjd0ZTdSY0hrUGJjWFJVaXVTd0dBNmlQQmM4djBQV0JRMWFIRzFMZFItbHppN0lUVVNmMHFEQzl0Yjh4OTBjQmYxdkZFNXNfNEJGYktQQmtBdjRJbXpXcDZuUWU2WHh0dFcydXp2d21CX1BDYzhzZF9LYm4zcldoOHF2OUVRaE9YUjZIZA?oc=5",
+     "bron": "Nederlands Dagblad",
+     "tijd": "11:00",
+     "sorteer": "2026-10-22T09:00:00+00:00"
     }
    ]
   },
@@ -104,6 +111,15 @@
    "emoji": "🇳🇱",
    "items": [
     {
+     "titel": "Jongeren berucht gezinshuis Spanje kunnen juridische stappen zetten tegen staat",
+     "context": "Jongeren die trauma's hebben opgelopen vanwege misstanden in het gezinshuis 'Huize Soria' in Spanje, hebben een goede basis hebben om juridische stappen te zetten tegen de staat. Dat zeggen deskundigen tegen Nieuwsuur . De gezinsouders zouden mogelijk in Nederland vervolgd kunnen worden. Tientallen oud-cliënten hebben tegenover Nieuwsuur verklaard over extreme straffen die in het gezinshuis zijn t",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636188",
+     "bron": "NOS",
+     "tijd": "11:43",
+     "sorteer": "2026-10-22T11:43:39+02:00"
+    },
+    {
      "titel": "Politie haalt webshops met gevaarlijke neppillen offline, link met drie doden",
      "context": "De politie heeft dertig websites offline gehaald waar illegale medicijnen en drugs werden verkocht. Drie verdachten die achter deze sites zouden zitten, zijn deze week opgepakt. De politie houdt hen ook verantwoordelijk voor de webshop Slaappillen.net en koppelt hun sites aan zeker drie sterfgevallen. De politie vermoedt dat de verdachten gewoon doorgingen met de verkoop van bijvoorbeeld kalmering",
      "rubrieken": [],
@@ -111,6 +127,15 @@
      "bron": "NOS",
      "tijd": "07:30",
      "sorteer": "2026-10-22T07:30:01+02:00"
+    },
+    {
+     "titel": "Wekdienst 22/10: Presentatie parcours Tour de France • Russische diesel naar VS",
+     "context": "Goedemorgen! De eerste lading Russische diesel gaat op weg naar de VS en een hoop Nederlandse clubs spelen vanavond Europees voetbal. Eerst het weer: in de ochtend is er veel bewolking en regen, en waait het flink vanuit het zuidwesten. In de middag gaat de wind liggen en wordt het zonniger. Het wordt 11 tot 14 graden. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwerkzaamhed",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636165",
+     "bron": "NOS",
+     "tijd": "06:47",
+     "sorteer": "2026-10-22T06:47:20+02:00"
     },
     {
      "titel": "Nog altijd websites niet bereikbaar na lek, ook internationaal nog problemen",
@@ -131,15 +156,6 @@
      "sorteer": "2026-10-21T22:19:51+02:00"
     },
     {
-     "titel": "Vrouw bevalt van kind in rijdende trein in stad Groningen",
-     "context": "In een trein in de stad Groningen is vanmorgen een vrouw van een kind bevallen. Het Dagblad van het Noorden sprak een getuige die rond 08.00 uur op station Groningen Europapark instapte. De trein was nog maar nauwelijks vertrokken of de getuige hoorde een vrouw kermen. \"Toen twee oerschreeuwen en een soort 'klonk', het geluid van een tas met twee flessen die valt\", citeert de krant haar. \"Iemand s",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636126",
-     "bron": "NOS",
-     "tijd": "19:46",
-     "sorteer": "2026-10-21T19:46:58+02:00"
-    },
-    {
      "titel": "Aantal belangrijke websites nog altijd offline",
      "context": "",
      "rubrieken": [],
@@ -149,10 +165,10 @@
      "sorteer": "2026-10-22T04:20:00+00:00"
     },
     {
-     "titel": "Eén woord verkeerd vertaald en hij was een terrorist: ‘Zijn ze gek geworden? Ik heb niks gedaan’",
+     "titel": "Eén woord verkeerd vertaald en Hussein Issa (22) was een terrorist: ‘Zijn ze gek geworden? Ik heb niks gedaan’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/een-woord-verkeerd-vertaald-en-hij-was-een-terrorist-zijn-ze-gek-geworden-ik-heb-niks-gedaan~b762176a/",
+     "link": "https://www.volkskrant.nl/binnenland/een-woord-verkeerd-vertaald-en-hussein-issa-22-was-een-terrorist-zijn-ze-gek-geworden-ik-heb-niks-gedaan~b762176a/",
      "bron": "de Volkskrant",
      "tijd": "05:00",
      "sorteer": "2026-10-22T03:00:00+00:00"
@@ -167,32 +183,32 @@
      "sorteer": "2026-10-22T04:21:40+00:00"
     },
     {
+     "titel": "Publieksavond bij sterrenwacht in Asten biedt rondleiding en kans om Saturnus te zien",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdWMzSjY2aXotMFhLTTVvUmpqWlp1UzBVVkJXcDQxNVJnM1dMRWxyRDFSXzZGZTlLZkN3V0didUR1SW1fT3dISjZDT3dJaWxmNFV2WWxMMFlUNS12dFFxSmN1Vm9Jd1JpblFsWEdsNUduSHVLdmp5TWlHbTFVSXdTWWlWUEdiV0llWC1xQjZqZkNRN25WMXdWYmhPQ0xNRzkyWmZHYkdEeEFZUFlOSnp3RFpyZFpBa1VuQjR3?oc=5",
+     "bron": "Eindhovens Dagblad",
+     "tijd": "11:11",
+     "sorteer": "2026-10-22T09:11:37+00:00"
+    },
+    {
+     "titel": "Bergeijk krijgt unieke gedichtenbundel vol odes van (oud)inwoners",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3pDX3BmWEZIbXQtZTVsdGtpeU1FdHVjbVVHZEdMV191LWx4WUxmQkhZTHpSREVNNEhvbVJ2NExUNFg1V2RkMElVT0RaVEdBQUtlbGpzSWhiNGJrMFFPbHlJS084VGlQcDNlclB4Y1p3MEM0UkJWWmNtZDhINTA2d1VnMGpqREdIOENtVEc4VDV4cmswTXJPRV9OUUw3aVFJMTJ3?oc=5",
+     "bron": "Eindhovens Dagblad",
+     "tijd": "11:00",
+     "sorteer": "2026-10-22T09:00:27+00:00"
+    },
+    {
+     "titel": "Woensel-West staat weer in de schijnwerpers in nieuwe NPO-serie over sekswerk",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQlhtV3R4RkdYOUhnVktIRGRfeGhTSVNTUzdLWWZnaTBMQndRSW5NanctblRjOFA5d3QzTUJMcWVrbk9FV3huZWhrWDFZQzNsX0w0UV80TXFLWWM2UGtuQWRJTzBNV3V3X0hNMVJQVVNvWlg2ZDBPOF9zZElwYlhxM1NmR3pqWmp1eF80ODlpMWdMQldCNVBScVpFTmFBTW5zS0F1SkFLeUJ0X2F1M1M5dHF1NjVadw?oc=5",
+     "bron": "Eindhovens Dagblad",
+     "tijd": "10:57",
+     "sorteer": "2026-10-22T08:57:10+00:00"
+    },
+    {
      "titel": "Kinderen kunnen Sinterklaas ontmoeten in de Weeffabriek in Geldrop",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUU2UmxnQ3cxTmR3aEdjcWpzTEhhUVF0NkE4bnpvQ3Azc0llVEptN2xsdUN1blhmblh2OE1yMzdjc3cxRVlrV09FWGpISDV4T3p3T3FtbFlvend1MzNPVFlpZXhIR1JVVFdnSXkwSlpwMnc1UFkya3psQTl2dXROal9hOE85R18wQjNydkc1NWk3UURWVThkSklseGxBcjd5YmpOTXNoVQ?oc=5",
      "bron": "Brabants Dagblad",
      "tijd": "10:39",
      "sorteer": "2026-10-22T08:39:52+00:00"
-    },
-    {
-     "titel": "Burgemeester sluit twee schuren op woonwagenkamp in Waalre",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONWM5Z2ZBZEtCdk1LNVFObkFHQk9VZHhiWWMtSHBRdFRwRnhsZmdvb0RPbTZGSEI0LVRJd2JybFNBVEFlNW11dkdEeFRBMUQzaEFOSXV2X0hvNDhTaGV6X1EzTGxpY0V5M21ZOW56VmFOTHVIQUVEaTBNVWpFSkdPN2FyZXJkeTlNQTlfYmdwSkN4dGI0WlVZWQ?oc=5",
-     "bron": "Eindhovens Dagblad",
-     "tijd": "09:46",
-     "sorteer": "2026-10-22T07:46:22+00:00"
-    },
-    {
-     "titel": "Man (28) laat ex-vriendin niet met rust en wordt drie jaar uit dorp verbannen: ‘Dit zijn nare feiten’",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTnc1djRTRW91MGNycjBkUUFDaWdmSExwQkVnV09FdktsY2ZWTlVTREJfcEY4QzFNVkZrOEV0ekx1Wk5yay1BX3hBLUVteGtEbzRHT1l5dmRleVQ4RGx0NHZ3UGpxRnBoeUZ2WG5DaWVxMTk3dm9CVG9wM2lTVVkycy1UZ3ZwUmVOanVpdVBWb21RQ05jRElreVBWekp2cnVFX0xrT2lRVS14MW1hbEtOaEl2Z2xJVmVjLVpRWnFRa2psM0VhNEdxZllBYTZwTGVOaWw3WTFXaVM?oc=5",
-     "bron": "de Stentor",
-     "tijd": "09:43",
-     "sorteer": "2026-10-22T07:43:40+00:00"
-    },
-    {
-     "titel": "Straks gaan we nog doen alsof ieder mensenleven evenveel waard is",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlYtSzY0bTlxOHFZVVh3QzdsSUw2OUliY0J1T0wxZV9rRkh3TGw1MHJXMk9kalp4YURZQk81QWhsbC1hMXhISEZQMnFjc0p6VG5feTJmNXlYTnA5R2Z3MmlGZk5PWWNSVTVkaHkyck9zdGFTR205TldqTGZtMjZ3U0pBNG9kOEFPZm01Z3c1TTNJVTgxYWFOX2M3SU9CQzZ5M3VaX21MMS00NlVyN29xcVgybw?oc=5",
-     "bron": "AD.nl",
-     "tijd": "09:18",
-     "sorteer": "2026-10-22T07:18:04+00:00"
     },
     {
      "titel": "Dit collectief herinnert je aan de ontstaans­geschiedenis van techno: Black, underground, en verre van commercieel",
@@ -207,6 +223,13 @@
      "bron": "De Correspondent · Lynn Berger",
      "tijd": "05:45",
      "sorteer": "2026-10-22T03:45:04+00:00"
+    },
+    {
+     "titel": "Maite Vermeulen en Giacomo Zandonini winnen grote journalistieke prijs voor onderzoek naar mensonterende ‘terugkeerhub’ in Albanië",
+     "link": "https://decorrespondent.nl/17336",
+     "bron": "De Correspondent · Rob Wijnberg, Lise Straatsma",
+     "tijd": "20:05",
+     "sorteer": "2026-10-21T18:05:15+00:00"
     },
     {
      "titel": "Eva",
@@ -242,6 +265,15 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Pop hangt aan lantaarnpaal op Zwolse rotonde: 'Zeer misplaatste Halloween-grap'",
+     "context": "Op de rotonde van de Meppelerstraatweg in Zwolle hing gisteravond laat een pop in een lantaarnpaal. Ondertussen rende een gemaskerde man met een schep naar auto's die op de rotonde reden. Rond 23.30 uur kwam de politie ter plaatse en nam de man mee naar het bureau. \"Een zeer misplaatste Halloween-grap.\"",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3710256/pop-hangt-aan-lantaarnpaal-op-zwolse-rotonde-zeer-misplaatste-halloween-grap",
+     "bron": "RTV Oost",
+     "tijd": "10:34",
+     "sorteer": "2026-10-22T08:34:06+00:00"
+    },
+    {
      "titel": "Presentatie vernieuwde Twentse Bijbel te zien bij RTV Oost op Allerzielen",
      "context": "De Bijbel in het Twents is vernieuwd. In de Stiftskerk in Weerselo wordt binnenkort de geheel herziene editie van de Biebel in de Tweantse sproake gepresenteerd. RTV Oost is erbij en maakt een registratie van deze bijzondere bijeenkomst. Die is op maandag 2 november, Allerzielen, te zien op TV Oost.",
      "rubrieken": [],
@@ -251,13 +283,31 @@
      "sorteer": "2026-10-22T08:15:14+00:00"
     },
     {
-     "titel": "Waarom zoveel websites tegelijk offline gingen: 'Vergelijk het met betonrot'",
+     "titel": "Eén beveiligingslek, tientallen websites offline: hoe kan dat?",
      "context": "Van FC Twente tot ziekenhuizen en gemeenten: woensdag gingen tal van websites uit voorzorg offline vanwege een beveiligingslek. De oorzaak lag bij PHP, een programmeertaal die wereldwijd veel wordt gebruikt. Maar hoe kan één probleem ervoor zorgen dat zoveel websites tegelijk onbereikbaar zijn?",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3710183/waarom-zoveel-websites-tegelijk-offline-gingen-vergelijk-het-met-betonrot",
+     "link": "https://www.oost.nl/nieuws/3710183/een-beveiligingslek-tientallen-websites-offline-hoe-kan-dat",
      "bron": "RTV Oost",
      "tijd": "10:09",
      "sorteer": "2026-10-22T08:09:21+00:00"
+    },
+    {
+     "titel": "LIVE | FC Twente gaat op Gibraltar voor tweede overwinning in Conference League",
+     "context": "FC Twente gaat vanavond op jacht naar de tweede overwinning in de groepsfase van de Conference League. Daarvoor moet het op het zonnige Gibraltar zien af te rekenen met Lincoln Red Imps. Alles rondom de wedstrijd is vandaag te volgen in ons liveblog. Van beelden vanuit Gibraltar tot het live verslag van de wedstrijd.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3710270/live-fc-twente-gaat-op-gibraltar-voor-tweede-overwinning-in-conference-league",
+     "bron": "RTV Oost",
+     "tijd": "09:01",
+     "sorteer": "2026-10-22T07:01:00+00:00"
+    },
+    {
+     "titel": "Paard overleden na aanrijding met auto op N347, twee gewonden naar ziekenhuis",
+     "context": "Een paard is donderdagochtend overleden na een aanrijding met een auto op de N347 bij Hellendoorn. De auto belandde na de botsing in een sloot. De twee inzittenden zijn met ambulances naar het ziekenhuis gebracht.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3710279/paard-overleden-na-aanrijding-met-auto-op-n347-twee-gewonden-naar-ziekenhuis",
+     "bron": "RTV Oost",
+     "tijd": "08:46",
+     "sorteer": "2026-10-22T06:46:34+00:00"
     },
     {
      "titel": "Muziekkwartier Enschede heeft plan nieuw theater klaar, maar nu het geld nog",
@@ -269,59 +319,30 @@
      "sorteer": "2026-10-22T06:04:00+00:00"
     },
     {
-     "titel": "Failliete kasteelheer ziet ook zijn twee Overijsselse bedrijven omvallen",
-     "context": "In het overzicht van faillissementen van deze week zijn er twee bijzondere dossiers. Behalve de miljoenenclaim die een failliete zonnepanelenhandelaar wacht, is er een failliete kasteelheer die meerdere van zijn bedrijven als dominostenen zag omvallen, waaronder twee Overijsselse bedrijven.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3709957/failliete-kasteelheer-ziet-ook-zijn-twee-overijsselse-bedrijven-omvallen",
-     "bron": "RTV Oost",
-     "tijd": "07:07",
-     "sorteer": "2026-10-22T05:07:13+00:00"
-    },
-    {
-     "titel": "Centrum Zwolle wordt verboden terrein voor showrijders",
-     "context": "Ze zijn horecaondernemers en terrasgangers een doorn in het oog: auto's die rondjes door het centrum van Zwolle rijden om de blits te maken. Vanaf volgend jaar is dat verleden tijd. ''Ik heb niks tegen grappige auto's en leuke muziekjes, als ze maar stapvoets rijden.\"",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3707274/centrum-zwolle-wordt-verboden-terrein-voor-showrijders",
-     "bron": "RTV Oost",
-     "tijd": "06:01",
-     "sorteer": "2026-10-22T04:01:11+00:00"
-    },
-    {
-     "titel": "Koning Willem-Alexander bezoekt Overijssels natuurgebied en spreekt met boeren",
-     "context": "Koning Willem-Alexander heeft vandaag samen met landbouwminister Jaimi van Essen een bezoek gebracht aan natuurgebied De Borkeld. Ze spraken met boeren en natuurbeheerders over de toekomst van het gebied.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3710094/koning-willem-alexander-bezoekt-overijssels-natuurgebied-en-spreekt-met-boeren",
-     "bron": "RTV Oost",
-     "tijd": "18:16",
-     "sorteer": "2026-10-21T16:16:14+00:00"
-    },
-    {
-     "titel": "Er is een nieuw familiebericht een dankbetuiging",
-     "context": "LEMELERVELD – Er is een een nieuw familiebericht, een bedankbetuiging geplaatst. Klik hier om dit bericht te lezen.",
+     "titel": "Zorg zorg jij ook voor een naaste?",
+     "context": "NIEUWLEUSEN – Kom 27 oktober bij het Mantelzorgcafé. Het Mantelzorgcafé Nieuwleusen is een laagdrempelige ontmoetingsplek voor mensen die zorgen voor een ander, op wat voor manier dan ook. Dit is een initiatief vanuit Saam Welzijn in samenwerking met vrijwilligers van de mantelzorgwerkgroep. Wat biedt het mantelzorgcafé? Je kunt in contact komen met andere mantelzorgers. Er […]",
      "rubrieken": [
       "Ingezonden bericht",
       "Laatste nieuws",
-      "Lemelerveld"
+      "Nieuwleusen"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/555039/er-is-een-nieuw-familiebericht-een-dankbetuiging.html",
+     "link": "https://www.dalfsennet.nl/nieuws/555051/zorgt-u-zorg-jij-ook-voor-een-naaste-kom-27-oktober-bij-het-mantelzorgcafe-2.html",
      "bron": "DalfsenNet",
-     "tijd": "21:35",
-     "sorteer": "2026-10-21T19:35:04+00:00"
+     "tijd": "11:33",
+     "sorteer": "2026-10-22T09:33:56+00:00"
     },
     {
-     "titel": "Er is een nieuw overlijdensbericht",
-     "context": "DALFSEN – Er is een nieuw overlijdensbericht geplaatst op Dalfsennet.nl. Mogelijk gaat het om een goede bekende van u. Klik hier om het bericht te kunnen lezen.",
+     "titel": "Pompoenen, voor de soep of voor de sier",
+     "context": "NIEUWLEUSEN – Bij natuurboerderij BalkInn in Nieuwleusen staat een verweerde picknicktafel die het grootste deel van het jaar nauwelijks wordt gebruikt. Maar zodra het pompoenseizoen aanbreekt, krijgt de tafel een hoofdrol. Op een frisse oktoberochtend pronkt er een flinke oranje pompoen, omringd door ronde, rode exemplaren. In het zachte herfstlicht trekken ze de aandacht van […]",
      "rubrieken": [
-      "Dalfsen",
       "Ingezonden bericht",
-      "Laatste nieuws"
+      "Laatste nieuws",
+      "Nieuwleusen"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/555036/er-is-een-nieuw-overlijdensbericht-106.html",
+     "link": "https://www.dalfsennet.nl/nieuws/555054/pompoenen-voor-de-soep-of-voor-de-sier.html",
      "bron": "DalfsenNet",
-     "tijd": "21:23",
-     "sorteer": "2026-10-21T19:23:11+00:00"
+     "tijd": "11:25",
+     "sorteer": "2026-10-22T09:25:12+00:00"
     }
    ]
   },
@@ -341,6 +362,14 @@
      "kop": "Politie"
     },
     {
+     "titel": "5th EMPACT Hackathon leads to the detection of 51 potential victims",
+     "toelichting": "An international operation involving 40 experts and investigators from 20 countries has identified 51 potential victims of human trafficking, as well as five suspects. Held in Amsterdam from 23 to 25 September 2026, the fifth…",
+     "bron": "Europol (Engels)",
+     "kop": "Europol",
+     "tijd": "",
+     "link": "https://www.europol.europa.eu/media-press/newsroom/news/5th-empact-hackathon-leads-to-detection-of-51-potential-victims"
+    },
+    {
      "titel": "Keeping pace with e-evidence: New report examines Europe’s digital forensic capabilities",
      "toelichting": "Coordinated by the European Commission in cooperation with Europol, the analysis draws on stakeholder consultations, dedicated meetings, surveys and contributions from experts at Europol’s European Cybercrime Centre.The findings…",
      "bron": "Europol (Engels)",
@@ -355,14 +384,6 @@
      "kop": "Europol",
      "tijd": "",
      "link": "https://www.europol.europa.eu/media-press/newsroom/news/european-and-ecuadorian-cooperation-leads-to-20-arrests-in-major-hit-against-drug-trafficking"
-    },
-    {
-     "titel": "Almost 50 arrested as police target Western Balkan network linked to killings",
-     "toelichting": "Nearly 50 suspects have been arrested in an international operation targeting a drug trafficking network with Western Balkan members, linked to killings, kidnappings and grenade attacks across Europe.",
-     "bron": "Europol (Engels)",
-     "kop": "Europol",
-     "tijd": "",
-     "link": "https://www.europol.europa.eu/media-press/newsroom/news/almost-50-arrested-police-target-western-balkan-network-linked-to-killings"
     }
    ]
   },
@@ -396,15 +417,15 @@
      "titel": "Chipbedrijf Besi boekt flink meer orders door opmars AI",
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY0JqU21WOHZHeE4zNEdSc2NHbkdwam5TZHo0a1ZKYk1ha0YxWVFjVDRUQW40TGRMS0U0REtiWU1rWktpdWxCQTdNSEdLMWY3SkZyWmZleEc5NkM1Y1NyR0VCckpsQ3RSTENra2RWeElQZDhsazV2dlVqLWRwNXlBLVZiVUtWRm5UQnZhZ2dCOGJMcXJGbmVhZ2N3QkVXVEt6SWlnZS16elZKQQ?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "10:20",
-     "sorteer": "2026-10-22T08:20:52+00:00"
+     "tijd": "11:50",
+     "sorteer": "2026-10-22T09:50:52+00:00"
     },
     {
      "titel": "Data-analysebedrijf Relx versterkt omzetgroei ondanks dreiging AI, bevestigt verwachtingen voor 2026",
      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVmNCSTNacmk1SWdESExsMVhpZTIwdzJhMk1lY0pnZExDT1dQRFoxNlBDU2dDN2ZzNTVrc3FOdkpxQzVyUk02eVhFUzRVbTFobHRpRVMxcHdqYW56aXhEbDhKeTZocS1yWXYtT2lPNExoLXhfdTZJSTV0N0tWYThVblNTNnB5RkhuODNVT3JiTThrWTlaQU5FSER0UWJvNl9MY083dUloRmN5ZFlTVDA3WlotNktXTDFjWEZfdF9pd25wTTZzV01KZXNLZUp5ejlkV2Vja3lna3NTT2hsazBPZm82T3E?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "10:18",
-     "sorteer": "2026-10-22T08:18:12+00:00"
+     "tijd": "11:48",
+     "sorteer": "2026-10-22T09:48:13+00:00"
     },
     {
      "titel": "TU Delft ontwikkelt AI-systeem waarmee acedrone met slechts één camera uitdagende parcoursen kan afleggen",
@@ -450,6 +471,14 @@
      "tijd": "16-10",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51784",
      "sorteer": "2026-10-22T10:45:42.477+02:00"
+    },
+    {
+     "titel": "Antwoord op vragen van het lid Boon over de gevolgen van verkorte militaire opleidingen voor de veiligheid van militairen naar…",
+     "bron": "Antwoord op Kamervragen",
+     "kop": "Kamervragen",
+     "tijd": "08-09",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D41578",
+     "sorteer": "2026-10-22T11:19:43.627+02:00"
     },
     {
      "titel": "Rijksbrede Risicoanalyse Nationale Veiligheid 2026",
@@ -531,20 +560,20 @@
      "sorteer": "2026-10-22T04:45:00+00:00"
     },
     {
-     "titel": "10 miljoen euro voor omvangrijke waterbuffer op de Groote Heide",
-     "toelichting": "Met het herstel van het Groot Huisven ontstaat op de Groote Heide bij Heeze in Noord-Brabant een zoetwaterbuffer van circa 300 miljoen liter. In natte tijden zal het herstelde Huisven water opslaan en in droge tijden wor",
-     "bron": "Nature Today",
-     "tijd": "12:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35945",
-     "sorteer": "2026-10-21T10:00:00+00:00"
-    },
-    {
      "titel": "Al een miljoen kinderen hadden koolwitjes in de klas",
      "toelichting": "In 1987 begon De Vlinderstichting het project ‘Koolwitjes in de klas’. Scholen kunnen pakketjes met eitjes, rupsen en poppen van het groot koolwitje bestellen. In de klas volgen de kinderen dan de bijzondere gedaanteverw",
      "bron": "Nature Today",
      "tijd": "07:00",
      "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35969",
      "sorteer": "2026-10-22T05:00:00+00:00"
+    },
+    {
+     "titel": "Pluizen voor het NEM Verspreidingsonderzoek Muizen",
+     "toelichting": "Een van de manieren om meer te weten te komen over de muizensoorten die in een gebied voorkomen, is het uitpluizen van (kerkuil)braakballen. Op deze manier verzamelt Zodion Zoogdieronderzoek Nederland – met hulp van heel",
+     "bron": "Nature Today",
+     "tijd": "12:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35964",
+     "sorteer": "2026-10-22T10:00:00+00:00"
     },
     {
      "titel": "Paddenstoel is maar het topje: dit gebeurt er onder de bosgrond",
@@ -554,20 +583,20 @@
      "link": "https://scientias.nl/paddenstoel-is-maar-het-topje-dit-gebeurt-er-onder-de-bosgrond/"
     },
     {
+     "titel": "Rare Indonesian maleo birds face new threat from international exotic pet trade",
+     "toelichting": "Wildlife traffickers are increasingly targeting critically endangered maleo birds from coastal Indonesia for the international exotic pet trade, according to a recent study. In 2024, enforcement agencies recorded three s",
+     "bron": "Mongabay (Engels)",
+     "tijd": "10:59",
+     "link": "https://news.mongabay.com/short-article/2026/10/rare-indonesian-maleo-birds-face-new-threat-from-international-exotic-pet-trade/",
+     "sorteer": "2026-10-22T08:59:15+00:00"
+    },
+    {
      "titel": "Extractive industries threaten global goal to protect 30% of nature by 2030, report finds",
      "toelichting": "A new report by Earth Insight finds more than 61.5 million hectares (151.9 million acres) of protected and conserved areas — an area roughly 2.5 times the size of the United Kingdom — overlap with ongoing and planned oil",
      "bron": "Mongabay (Engels)",
      "tijd": "21:50",
      "link": "https://news.mongabay.com/2026/10/extractive-industries-threaten-global-goal-to-protect-30-of-nature-by-2030-report-finds/",
      "sorteer": "2026-10-21T19:50:55+00:00"
-    },
-    {
-     "titel": "Nature has a new Noah’s Ark moment at the biodiversity summit (commentary)",
-     "toelichting": "Delegates from most of the world’s governments are assembling this week in Yerevan, Armenia for the latest summit of the Convention on Biological Diversity (CBD COP17), whose aim is to prevent the extinction of our fello",
-     "bron": "Mongabay (Engels)",
-     "tijd": "21:21",
-     "link": "https://news.mongabay.com/2026/10/nature-has-a-new-noahs-ark-moment-at-the-biodiversity-summit-commentary/",
-     "sorteer": "2026-10-21T19:21:07+00:00"
     }
    ]
   },
@@ -595,7 +624,7 @@
     {
      "kop": "Verwachting",
      "titel": "Zaterdag 24 okt — telpost 1, kraanvogels en ganzen 1, roofvogels 1, zeetrek 1",
-     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten; regen in de ochtend; stijgende druk",
+     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten; regen in de ochtend; mist; stijgende druk",
      "tijd": "",
      "link": "https://www.trektellen.org/",
      "toelichting": "Zangvogels vanaf zonsopkomst (08:16) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
@@ -724,11 +753,25 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Rustig — vandaag 9 meldingen, samen 228 vogels",
+     "titel": "Rustig — vandaag 13 meldingen, samen 332 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "aflopend — dag ervoor 872 · afgelopen week gemiddeld 463 per dag"
+     "vergelijking": "aflopend — dag ervoor 894 · afgelopen week gemiddeld 465 per dag"
+    },
+    {
+     "kop": "Kraanvogels",
+     "titel": "1 binnen 75 km van Dalfsen",
+     "bron": "dichtstbij: Laaghalerveen - Buitengebied, 51 km",
+     "tijd": "11:25",
+     "link": "https://waarneming.nl/species/19/observations/"
+    },
+    {
+     "kop": "Kraanvogels",
+     "titel": "3 meldingen vertrek uit het noorden",
+     "bron": "DE 3",
+     "tijd": "",
+     "link": "https://www.sensingclues.org/craneradar"
     }
    ]
   },
@@ -751,19 +794,19 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 9.5,
-    "gevoel": 7.0,
-    "wind": "Z 3",
+    "nu": 9.7,
+    "gevoel": 6.6,
+    "wind": "ZZW 4",
     "station": "Heino",
     "bericht": "Beginnen we vanochtend in het binnenland met zonnige perioden, al snel neemt de bewolking toe en gaat het af en toe regenen. Groot zijn de hoeveelheden niet. Het wordt vandaag tussen 12 en 14 graden.Vanochtend zijn er eerst nog zonnige perioden, maar al snel neemt de bewolking vanuit het zuidwesten toe en volgt opnieuw af en toe regen.",
     "vandaag": "Beginnen we vanochtend in het binnenland met zonnige perioden, al snel neemt de bewolking toe en gaat het af en toe regenen. Het wordt vandaag tussen 12 en 14 graden.",
     "temperatuur": "",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: dichte motregen, 7 tot 11 graden, 94% kans op neerslag, weinig zon, wind uit het zuiden, kracht 4.",
-     "max": 11,
+     "zin": "Voor Dalfsen zelf: lichte motregen, 7 tot 12 graden, 94% kans op neerslag, ruim 2 uur zon, wind uit het zuiden, kracht 4.",
+     "max": 12,
      "min": 7,
      "regenkans": 94,
-     "omschrijving": "dichte motregen"
+     "omschrijving": "lichte motregen"
     },
     "vooruit": "Herfstweer met in het weekeinde veel wind en regen. Maandag en dinsdag enige tijd regen en aan de zachte kant. Woensdag perioden met zon en op de meeste plaatsen droog.",
     "omslag": null,
