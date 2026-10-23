@@ -7,7 +7,8 @@
   "blokken": 10,
   "berichten": 76,
   "problemen": [],
-  "audio_herkomst": "vangnet"
+  "audio_herkomst": "vangnet",
+  "audio_aangehaakt": "07:20"
  },
  "opgehaald": "2026-10-23T07:00+02:00",
  "audio": "audio/20261023.mp3",
@@ -562,62 +563,6 @@
    "emoji": "🐦",
    "items": [
     {
-     "kop": "Verwachting",
-     "titel": "Vandaag — telpost 4, kraanvogels en ganzen 2, roofvogels 1, zeetrek 2",
-     "bron": "zuidoostenwind, de beste richting voor een telpost; regen in de ochtend",
-     "tijd": "",
-     "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (08:14) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
-    },
-    {
-     "kop": "Verwachting",
-     "titel": "Morgen — telpost 1, kraanvogels en ganzen 1, roofvogels 1, zeetrek 2",
-     "bron": "westenwind pal tegen, dan blijven ze zitten; regen in de ochtend; stijgende druk",
-     "tijd": "",
-     "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (08:16) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
-    },
-    {
-     "kop": "Verwachting",
-     "titel": "Zondag 25 okt — telpost 2, kraanvogels en ganzen 1, roofvogels 1, zeetrek 2",
-     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten; stijgende druk",
-     "tijd": "",
-     "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (08:18) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
-    },
-    {
-     "kop": "Verwachting",
-     "titel": "Maandag 26 okt — telpost 4, kraanvogels en ganzen 1, zeetrek 2",
-     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten; het regende vannacht en het klaart op — opgehoopte trek; stijgende druk",
-     "tijd": "",
-     "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (08:20) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
-    },
-    {
-     "kop": "Verwachting",
-     "titel": "Dinsdag 27 okt — telpost 3, kraanvogels en ganzen 1, zeetrek 2",
-     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten; het regende vannacht en het klaart op — opgehoopte trek",
-     "tijd": "",
-     "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (08:21) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
-    },
-    {
-     "kop": "Verwachting",
-     "titel": "Woensdag 28 okt — telpost 2, kraanvogels en ganzen 1, zeetrek 2",
-     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten; stijgende druk",
-     "tijd": "",
-     "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (08:23) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels. Vanaf hier is de windrichting nog onzeker; lees dit als een richting en niet als een voorspelling."
-    },
-    {
-     "kop": "Verwachting",
-     "titel": "Donderdag 29 okt — telpost 4, kraanvogels en ganzen 4, zeetrek 2",
-     "bron": "wind uit het zuiden",
-     "tijd": "",
-     "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (08:25) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
-    },
-    {
      "titel": "Izabeltapuit",
      "kop": "Zeldzaamheden",
      "bron": "Friesland",
@@ -690,6 +635,62 @@
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261023?language=dutch"
+    },
+    {
+     "kop": "Verwachting",
+     "titel": "Vandaag — telpost 4, kraanvogels en ganzen 2, roofvogels 1, zeetrek 2",
+     "bron": "zuidoostenwind, de beste richting voor een telpost; regen in de ochtend",
+     "tijd": "",
+     "link": "https://www.trektellen.org/",
+     "toelichting": "Zangvogels vanaf zonsopkomst (08:14) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
+    },
+    {
+     "kop": "Verwachting",
+     "titel": "Morgen — telpost 1, kraanvogels en ganzen 1, roofvogels 1, zeetrek 2",
+     "bron": "westenwind pal tegen, dan blijven ze zitten; regen in de ochtend; stijgende druk",
+     "tijd": "",
+     "link": "https://www.trektellen.org/",
+     "toelichting": "Zangvogels vanaf zonsopkomst (08:16) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
+    },
+    {
+     "kop": "Verwachting",
+     "titel": "Zondag 25 okt — telpost 2, kraanvogels en ganzen 1, roofvogels 1, zeetrek 2",
+     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten; stijgende druk",
+     "tijd": "",
+     "link": "https://www.trektellen.org/",
+     "toelichting": "Zangvogels vanaf zonsopkomst (08:18) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
+    },
+    {
+     "kop": "Verwachting",
+     "titel": "Maandag 26 okt — telpost 4, kraanvogels en ganzen 1, zeetrek 2",
+     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten; het regende vannacht en het klaart op — opgehoopte trek; stijgende druk",
+     "tijd": "",
+     "link": "https://www.trektellen.org/",
+     "toelichting": "Zangvogels vanaf zonsopkomst (08:20) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
+    },
+    {
+     "kop": "Verwachting",
+     "titel": "Dinsdag 27 okt — telpost 3, kraanvogels en ganzen 1, zeetrek 2",
+     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten; het regende vannacht en het klaart op — opgehoopte trek",
+     "tijd": "",
+     "link": "https://www.trektellen.org/",
+     "toelichting": "Zangvogels vanaf zonsopkomst (08:21) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
+    },
+    {
+     "kop": "Verwachting",
+     "titel": "Woensdag 28 okt — telpost 2, kraanvogels en ganzen 1, zeetrek 2",
+     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten; stijgende druk",
+     "tijd": "",
+     "link": "https://www.trektellen.org/",
+     "toelichting": "Zangvogels vanaf zonsopkomst (08:23) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels. Vanaf hier is de windrichting nog onzeker; lees dit als een richting en niet als een voorspelling."
+    },
+    {
+     "kop": "Verwachting",
+     "titel": "Donderdag 29 okt — telpost 4, kraanvogels en ganzen 4, zeetrek 2",
+     "bron": "wind uit het zuiden",
+     "tijd": "",
+     "link": "https://www.trektellen.org/",
+     "toelichting": "Zangvogels vanaf zonsopkomst (08:25) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
     },
     {
      "kop": "Kraanvogels",
@@ -775,5 +776,15 @@
     }
    }
   }
+ ],
+ "archief": [
+  "2026-10-23",
+  "2026-10-22",
+  "2026-10-21",
+  "2026-10-20",
+  "2026-10-19",
+  "2026-10-18",
+  "2026-10-17",
+  "2026-10-16"
  ]
 }
