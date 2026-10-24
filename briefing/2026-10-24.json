@@ -3,13 +3,15 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "12:04",
+  "opgehaald": "12:07",
   "blokken": 11,
   "berichten": 83,
-  "problemen": [],
+  "problemen": [
+   "npo-gids NPO2: HTTP 503"
+  ],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-24T12:04+02:00",
+ "opgehaald": "2026-10-24T12:07+02:00",
  "audio": "audio/20261024.mp3",
  "afval": [
   {
@@ -131,13 +133,13 @@
      "sorteer": "2026-10-24T07:19:00+00:00"
     },
     {
-     "titel": "Oekraïne meldt stabiele verbinding met Starlink",
+     "titel": "Kan Oekraïne de oorlog overleven met alleen Europese steun?",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/live-oorlog-oekraine-oekraine-meldt-stabiele-verbinding-met-starlink~ba2815bb/",
+     "link": "https://www.trouw.nl/buitenland/kan-oekraine-de-oorlog-overleven-met-alleen-europese-steun~b74ee5b5/",
      "bron": "Trouw",
-     "tijd": "11:00",
-     "sorteer": "2026-10-24T09:00:00+00:00"
+     "tijd": "12:00",
+     "sorteer": "2026-10-24T10:00:00+00:00"
     },
     {
      "titel": "‘Zij spreken zich uit tegen antisemitisme, maar dragen bij aan klimaat waarin Joden zich minder veilig voelen’",
@@ -145,13 +147,6 @@
      "bron": "de Stentor",
      "tijd": "10:00",
      "sorteer": "2026-10-24T08:00:00+00:00"
-    },
-    {
-     "titel": "Burgemeester Marcouch vindt dat Den Haag Syriërs laat bungelen: ‘Je kunt jongeren van 14, 15 jaar toch geen jaren laten wachten?’",
-     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOb0RmaWg1WjF5ZE43TU5zaXJrM1F3NjNSVnFvZmJNZzZaY1JsRkVIeWZ6ZGVwUnpqeWhpdU9LelBPbGNZTk02eU5PNThaQVRVSTZBeXRCaF9hM3J4b28xemhXenBnN09VODJOVjBNcW9RNkNvVk9ZcnB4SVl6aGw1QU43S2pyRWl1ZUlwNnMwbHJXTUlXLTNfTTQ3Tk9iM3BzX3dYdm00ekZOYTM2MEdFY2p3UzhMQXZGOWhUcW50UmtfN21ZTWFtcWc2NjJucTZ0Q012S24xUktOdFZSQXAwZy1jRm01ZG9PR2hRcm0wY2M1cWM3RklKTmJ0U2c4QQ?oc=5",
-     "bron": "Tubantia",
-     "tijd": "09:44",
-     "sorteer": "2026-10-24T07:44:26+00:00"
     }
    ]
   },
@@ -224,6 +219,15 @@
      "sorteer": "2026-10-23T14:47:29+00:00"
     },
     {
+     "titel": "In de Loosdrechtse Beukenlaan keert de rust terug. Maar de bewoners mijden het onderwerp ‘noodopvang’",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.trouw.nl/binnenland/in-de-loosdrechtse-beukenlaan-keert-de-rust-terug-maar-de-bewoners-mijden-het-onderwerp-noodopvang~b4747c41/",
+     "bron": "Trouw",
+     "tijd": "12:00",
+     "sorteer": "2026-10-24T10:00:00+00:00"
+    },
+    {
      "titel": "Brand op Voetiuslaan in Arnhem",
      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNHhUWk44U3VXRU1kRmd2Z0RPUzZUaGJNRTA3Y3ZRRURiZHhFZ0t3bHdUV2ZES2E3WnhibUVBWmtsN3JKR3RuYUw0MkVkbXFHMEdwMkhDeWRPVk05OEdPaGdzYVNqZk4xY0JzeVpVM1psS1YzckJYUWU4WlhuLWdxUXFIemRuejh3LW1JckdYaw?oc=5",
      "bron": "De Gelderlander",
@@ -238,14 +242,11 @@
      "sorteer": "2026-10-24T09:31:12+00:00"
     },
     {
-     "titel": "Nieuwsuur: Israël sluit Westoever af • Netanyahu's populariteit • Hoe verder tussen de VS en Oekraïne? • Kushners vermogen",
-     "context": "Israël sluit Westelijke Jordaanoever af Israël heeft opdracht gegeven voor een volledige afsluiting van de Westelijke Jordaanoever, nadat twee vermoedelijk Palestijnse mannen een aanval zouden hebben uitgevoerd op Israëliërs nabij de stad Hebron. Hoelang die afsluiting gaat duren, is niet duidelijk. Wat betekent deze afsluiting en wat zijn de gevolgen? Netanyahu's populariteit in Israël Komende di",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636322",
-     "bron": "NPO2 · 22:00",
-     "tijd": "22:00",
-     "sorteer": "2026-10-24T22:00:00",
-     "kop": "Vanavond op tv"
+     "titel": "Jagers waarschuwen voor meer kans op aanrijdingen met reeën in de regio: ‘We zetten ons schrap’",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbDBqYm83aTlOdmNxTkUtQUZTR3ZqaW5TWUtZaS1YeDVJRGNiMS1hdHZ2TDJvdGpiNGJBTWVWV1dia0dtOWowMEJqV1hVUEljOHVZR3BNTW9zWEdDR2REekN3d1VRNERHMUVjYUt1LVNqbDB0ZTRJMjRsejBVNG9MOXlybnBrM1AyTXVfbHNTN2JhQ0p0T1pFeWh0Vk9BXzAtcXdENEQ3Y1FfbG5oeFR5ck5LbUsyM3dKcWdTWUVDVG5UVG85RDlfQUtXY2JGNmwx?oc=5",
+     "bron": "AD.nl",
+     "tijd": "11:00",
+     "sorteer": "2026-10-24T09:00:51+00:00"
     }
    ]
   },
