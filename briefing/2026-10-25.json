@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "19:00",
+  "opgehaald": "20:00",
   "blokken": 10,
-  "berichten": 71,
+  "berichten": 73,
   "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-25T19:00+01:00",
+ "opgehaald": "2026-10-25T20:00+01:00",
  "audio": "audio/20261025.mp3",
  "afval": [
   {
@@ -68,6 +68,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Audi bouwt eerste fabriek in Verenigde Staten, kritiek vanuit Duitsland",
+     "context": "De Duitse autofabrikant Audi gaat voor 4 miljard dollar (3,6 miljard euro) een nieuwe fabriek bouwen in de staat Georgia en daarmee voor het eerst auto's produceren in de Verenigde Staten. De dochteronderneming van Volkswagen wil er jaarlijks 200.000 SUV's produceren. Dat nieuws werd aangekondigd door de Amerikaanse president tijdens een Republikeinse verkiezingsbijeenkomst in de stad Perry. Daarb",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636652",
+     "bron": "NOS",
+     "tijd": "19:10",
+     "sorteer": "2026-10-25T19:10:20+01:00"
+    },
+    {
      "titel": "Erfprins Liechtenstein blokkeert abortuswet, demonstraties tegen vetorecht vorst",
      "context": "In Liechtenstein is gedemonstreerd tegen erfprins Alois, die zijn vetorecht heeft ingezet om een nieuwe abortuswet tegen te houden. Honderden demonstranten verzamelden zich gisteren voor zijn kasteel in de hoofdstad Vaduz. Demonstraties zijn zeldzaam in het kleine Alpenland. Betogers liepen met spandoeken met daarop \"Mijn lichaam, mijn veto\" en \"Mijn lichaam behoort niet toe aan het vorstendom\", s",
      "rubrieken": [],
@@ -104,15 +113,6 @@
      "sorteer": "2026-10-25T15:42:29+01:00"
     },
     {
-     "titel": "Gordels in aantal achtbanen VS na dodelijk ongeluk",
-     "context": "Pretparkbedrijf Six Flags gaat veiligheidsgordels aanbrengen in drie achtbanen die in attractieparken van het bedrijf staan. Een van die achtbanen is de Goliath bij Atlanta in de Amerikaanse staat Georgia. Begin oktober kwam een 42-jarige man om het leven toen hij uit de achtbaan werd geslingerd. Andere mensen die in de achtbaan zaten, raakten gewond toen ze geraakt werden door de man die uit de a",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636588",
-     "bron": "NOS",
-     "tijd": "13:45",
-     "sorteer": "2026-10-25T13:45:35+01:00"
-    },
-    {
      "titel": "Campagne voor knuffelen met consent brengt Ierse regering in verlegenheid",
      "context": "",
      "rubrieken": [],
@@ -146,6 +146,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Stuurloos geraakt vrachtschip in Noordzee vaart weer, reddingsboten keren om",
+     "context": "Het zware vrachtschip UHL Freedom, dat vanmiddag vrijwel stuurloos raakte ten noorden van Schiermonnikoog, vaart weer. Dat gebeurt met \"beperkt motorvermogen\", meldt de Kustwacht. De boot raakte rond 13.30 uur vrijwel stuurloos, nadat het anker geen grip meer had gekregen op de bodem en daaropvolgend motorproblemen waren ontstaan. Drie van de 25 bemanningsleden raakten gewond. De UHL Freedom vaart",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636654",
+     "bron": "NOS",
+     "tijd": "19:26",
+     "sorteer": "2026-10-25T19:26:56+01:00"
+    },
     {
      "titel": "Fietser in Amsterdam overleden door omgevallen boom",
      "context": "In Amsterdam is vandaag een fietser overleden nadat een boom op hem was gevallen. Het onderzoek naar de identiteit van het slachtoffer loopt nog, laat de politie aan de NOS weten. De man overleed op de Sloterweg in stadsdeel Nieuw-West. Hoe laat het ongeluk plaatsvond is nog niet duidelijk. De hulpdiensten kregen aan het eind van de middag een melding van iemand die de man onder een omgevallen boo",
@@ -183,15 +192,6 @@
      "sorteer": "2026-10-25T15:43:47+01:00"
     },
     {
-     "titel": "Stemmers urenlang in rij bij ambassade in Den Haag: 'Wil nieuwe toekomst voor Servië'",
-     "context": "Bij de Servische ambassade in Den Haag staan lange rijen vanwege de parlementsverkiezingen in Servië. Stemgerechtigden kunnen bij de ambassade stemmen en daarmee mede bepalen of de autocratische leider Aleksandar Vucic na ruim tien jaar op het pluche plaats moet maken. De lange wachtrij in Den Haag deert stemmers niet. \"Ik heb drie uur gewacht en het was het waard\", zegt een vrouw. \"Als het nodig ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636598",
-     "bron": "NOS",
-     "tijd": "15:09",
-     "sorteer": "2026-10-25T15:09:29+01:00"
-    },
-    {
      "titel": "Reddingsoperatie op de Noordzee vanwege stuurloos vrachtschip boven Schiermonnikoog",
      "context": "",
      "rubrieken": [],
@@ -210,18 +210,32 @@
      "sorteer": "2026-10-25T17:11:00+00:00"
     },
     {
-     "titel": "‘Hallo, ik kom wat eten voor u brengen’",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR2VSSkRJczlEVG1xaTM1ZnRkWlhyaHBGT0MwMDdyOXpWTllFb3FIREJvckM5T0w2WkxBdWFXRXhrZWtqSDVQVzNCR2NuZFJZVExIWE9oWmdndlJVSldXUlZNRmdGLXExYlcxeEtQUE5QTzhLMjF3UWNYRzJvaXpibl96YXlnUQ?oc=5",
-     "bron": "de Volkskrant",
-     "tijd": "17:00",
-     "sorteer": "2026-10-25T16:00:31+00:00"
+     "titel": "Na een ruzie over een kneep in een bil nabij het Leidseplein deelt student Tom ‘kalmerende klappen’ uit, waarop de rust niet wederkeert",
+     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRTQ2TktyX2pyZ0p6NDdrNXQ2cS0yWlNzQkhpN1lvWVU3Zk8xWkFNbXFkUmVIQnRLcnM4RndybXVjQ01INGlKWS1GSDIxaTlUazB2T21td1VyeENEUGFSR1NFV2Qxamt5N3NvYjdFSGJvclJER0RPeFo5cUR3VlVoVXdOZXZPY2RLVFA5OHJhM3g0bGxLNkJkV2JUOEtXeklyaE15R0lmQXJsZjRvQ3liQVJ6a3BEbnBuMXVETzV6d0tHMUsxVGZVSVB6dEpiOTItV3NXYmVtNTQtTXhlOUNyOWdwM1VBU1JwS2pzQW5PeGJfdS1ydXhKMjNUcVRwU3VSV1lfNWF6US0wdw?oc=5",
+     "bron": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+     "tijd": "19:55",
+     "sorteer": "2026-10-25T18:55:00+00:00"
     },
     {
-     "titel": "Rosmalen verliest een begrip: Annie (81) stopt met haar dierenwinkel na jarenlang een luisterend oor te zijn geweest",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQllHb2s2dkdjd1F3ZS1Ua1c3ZElRWkJzMGp5TGZvV3VXUXRXSnNhdVpOOU8wODcxdjJvaXlXcFZRbnRWeHE5LTByZ0pmZXo1YnFCM1RER09Wb0JQQ1JGUmdhdXZzQUxiZGc3aUI1TmxyNURiUUhxU1Zxang1TEdqeHlCaG9HYUJDcGFFVTk5ZVJ4V2ZfSkJKOXo2TDZIT2VkU0tmWnJPUlFzMUlNd29ZdTRacDRQR01iUXFJZjlpLUpUOHNaRGJKMTRkTXN6bVUxUlYzX2h1SDA5M3FQWF81YXQ2VG5iQQ?oc=5",
-     "bron": "Brabants Dagblad",
-     "tijd": "16:00",
-     "sorteer": "2026-10-25T15:00:00+00:00"
+     "titel": "Genieten: zo ziet de herfst eruit in Den Bosch",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVUJxaVhTQnJON0c2VjBQZXBOcmZIQjItQ3dJeF9tSTdCT1pnMTVTeXFqTFhoZjN3MkFqRDNKR2hsb21HZHVmU0FCRTRwZUZ6S2hSM0hzWGYyVExTYWhaWmZhWS0tY25Ka3ZycjRlbW9GekJDb2VDN2RpdkoyTURtbUkwMGd1cVMxM3ln?oc=5",
+     "bron": "Eindhovens Dagblad",
+     "tijd": "18:00",
+     "sorteer": "2026-10-25T17:00:14+00:00"
+    },
+    {
+     "titel": "Uithollen en uitsnijden maar! Bo (11) ontvangt tientallen kinderen voor jaarlijkse pompoenenpret",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRnJGWkJHSlpGdTc3b2s5VUJPcFhObnlrbnBzXzcwenhmZFJXTmJ3THRLcERKZXZTdkpIQkdjZGkxV0w0bC12RVZjbUJ3eVdTVU9LY0tKU2VpRlFrajdVZUJoX2Q4SmU1U2Z4UlBYbFJwNlgtR2V3aExMazJzN2dUNTJWODdKZWhxdGdSeHlZYXQ5MHFjdHNWQUdRazg5TTgxb0VTOWlEeGJhdE0wV3JPMzl5WjVxTkJHT2lMZmpsd2VPbl9fSGctdWZldFU0SE5POWc?oc=5",
+     "bron": "AD.nl",
+     "tijd": "19:15",
+     "sorteer": "2026-10-25T18:15:05+00:00"
+    },
+    {
+     "titel": "Zelden was het zelfvertrouwen zo groot bij de partij van Marine Le Pen: ‘We gaan de verkiezingen winnen’",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONTBsLVRYbXUzMkM1T2J4UjlZa2t5UVBVSm10UUthMkIzUmlkNzhlcEYyY2o1ODg2N0JnSTYyb3RLamU1d1ZzVGQ1bnZvYUlqWS00WE5zdER4TzdrZWNIT01NRXgyMGVISjFPeWJUaHhkenhiU2FDRHZwUXBqTUJiOERCX0JxU1ZqamlWZnZSZE1Fc0htM3Zla0xqQ0NYaEg2VEtKbzFFRVozakZfU0JDWG1vakxQRTVVNEJ0Tlc2UzJIbzFlaW5uaklqQkU3SDJKdTdCaWFQX2FxWkJjRGZaLQ?oc=5",
+     "bron": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+     "tijd": "19:07",
+     "sorteer": "2026-10-25T18:07:31+00:00"
     },
     {
      "titel": "Column | Rechtse clubs, linkse vrouwen",
@@ -256,15 +270,6 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Parfumdief in Wierden wordt betrapt door de bedrijfsleider",
-     "context": "Twee winkeldieven zullen niet met veel plezier terugdenken aan hun 'dagje shoppen' in Wierden. Ze denken ongestoord hun gang te kunnen gaan bij de drogisterij, maar ze hebben niet in de gaten dat de filiaalhouder live meekijkt naar de camerabeelden.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706946/parfumdief-in-wierden-wordt-betrapt-door-de-bedrijfsleider",
-     "bron": "RTV Oost",
-     "tijd": "18:05",
-     "sorteer": "2026-10-25T17:05:59+00:00"
-    },
-    {
      "titel": "Politiehelikopter boven Hengelo voor assistentie bij zoektocht naar man",
      "context": "Boven de binnenstad van Hengelo cirkelt een politiehelikopter en meerdere eenheden van de politie zijn aanwezig in het centrum van de stad. De politie is op zoek naar een man en waarschuwt mensen om deze persoon niet zelf te benaderen.",
      "rubrieken": [],
@@ -272,15 +277,6 @@
      "bron": "RTV Oost",
      "tijd": "16:53",
      "sorteer": "2026-10-25T15:53:37+00:00"
-    },
-    {
-     "titel": "Supporter FC Twente plotseling overleden tijdens Europese trip naar Gibraltar",
-     "context": "Een supporter van FC Twente is vrijdag overleden op Gibraltar. Dat meldt FC Twente op X. De man was fanatiek supporter van de club.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3711345/supporter-fc-twente-plotseling-overleden-tijdens-europese-trip-naar-gibraltar",
-     "bron": "RTV Oost",
-     "tijd": "16:39",
-     "sorteer": "2026-10-25T15:39:09+00:00"
     },
     {
      "titel": "Truus uit Enschede is 100 geworden en kreeg deze verrassing",
@@ -294,15 +290,6 @@
      "sorteer": "2026-10-25T13:41:04+00:00"
     },
     {
-     "titel": "Een draak die Zwolle terroriseerde: waar komt deze bijzondere legende vandaan?",
-     "context": "Een draak die vanuit het water de stad bedreigt. En een mysterieuze ridder op een wit paard die het monster weet te verslaan. Het klinkt als een sprookje, maar het is een oude legende uit Zwolle. Waar komt dit bijzondere verhaal vandaan?",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3710848/een-draak-die-zwolle-terroriseerde-waar-komt-deze-bijzondere-legende-vandaan",
-     "bron": "RTV Oost",
-     "tijd": "13:07",
-     "sorteer": "2026-10-25T12:07:14+00:00"
-    },
-    {
      "titel": "Kleine boompjes, grote passie: bonsaivereniging Overijssel bestaat veertig jaar",
      "context": "De bonsai: voor veel mensen een klein Japans boompje dat met uiterste precisie in model wordt geknipt. Maar achter die miniatuurboom schuilt een wereld vol kennis, geduld en vakmanschap. Bij de Bonsai Vereniging Overijssel weten ze dat allang. De club bestaat veertig jaar en trekt nog altijd nieuwe leden aan.",
      "rubrieken": [],
@@ -310,6 +297,45 @@
      "bron": "RTV Oost",
      "tijd": "11:51",
      "sorteer": "2026-10-25T10:51:32+00:00"
+    },
+    {
+     "titel": "Kinderen wroeten misschien wel voor het laatst in Zwolse jeugdtuinen",
+     "context": "De meeste bloemen zijn al dood en van de komkommerplant is niets meer over. Toch kun je nog best een wortel uit de grond trekken in de jeugdtuin in Stadshagen in Zwolle. Dat zorgt voor een dubbel gevoel bij de kinderen die staan te wroeten, want het is misschien de laatste keer dat het kan.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3710841/kinderen-wroeten-misschien-wel-voor-het-laatst-in-zwolse-jeugdtuinen",
+     "bron": "RTV Oost",
+     "tijd": "11:33",
+     "sorteer": "2026-10-25T10:33:03+00:00"
+    },
+    {
+     "titel": "Gerrit vervoert ouderen met een bijzonder wagentje: 'Dit geeft mij voldoening'",
+     "context": "In Enschede rijdt een speciaal wagentje rond: de Krasse Kar. Hiermee verzorgt Gerrit Tanke kleine ritjes voor ouderen uit de wijk. \"De persoonlijke gesprekken die je dan voert, zijn voor mij echt de drijfveer\", zegt Gerrit.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3710741/gerrit-vervoert-ouderen-met-een-bijzonder-wagentje-dit-geeft-mij-voldoening",
+     "bron": "RTV Oost",
+     "tijd": "07:02",
+     "sorteer": "2026-10-25T06:02:33+00:00"
+    },
+    {
+     "titel": "1300 huishoudens in Hengelo tijdlang zonder stroom",
+     "context": "1300 huishoudens in Hengelo rondom het gebied van de Freudstraat zaten sinds 20.45 uur een tijdlang zonder stroom. Dat meldt netwerkbeheerder Enexis. Bijna twee uur later beschikten alle huishoudens weer over stroom.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3711207/1300-huishoudens-in-hengelo-tijdlang-zonder-stroom",
+     "bron": "RTV Oost",
+     "tijd": "21:30",
+     "sorteer": "2026-10-24T19:30:42+00:00"
+    },
+    {
+     "titel": "Autobanden horen niet thuis in de natuur",
+     "context": "DALFSEN – Vanmiddag trof ik een aantal autobanden aan in de bosjes langs de Heinoseweg, ter hoogte van de Marswetering. Daar horen ze natuurlijk niet thuis. Daarom heb ik ze uit de bosjes gehaald en langs de weg gelegd. Ik hoop dat medewerkers van de gemeente ze de komende dagen kunnen meenemen. Zij weten er […]",
+     "rubrieken": [
+      "Dalfsen",
+      "Laatste nieuws"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/555296/autobanden-horen-niet-thuis-in-de-natuur.html",
+     "bron": "DalfsenNet",
+     "tijd": "19:52",
+     "sorteer": "2026-10-25T18:52:59+00:00"
     },
     {
      "titel": "Zeer interessant",
@@ -323,19 +349,6 @@
      "bron": "DalfsenNet",
      "tijd": "18:42",
      "sorteer": "2026-10-25T17:42:53+00:00"
-    },
-    {
-     "titel": "Er is een nieuw overlijdens bericht",
-     "context": "NIEUWLEUSEN – Er is een nieuw overlijdensbericht geplaatst op DalfsenNet.nl. Mogelijk gaat het om een goede bekende van u. Klik hier om dat bericht te lezen.",
-     "rubrieken": [
-      "Ingezonden bericht",
-      "Laatste nieuws",
-      "Nieuwleusen"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/555289/er-is-een-nieuw-overlijdens-bericht-30.html",
-     "bron": "DalfsenNet",
-     "tijd": "17:11",
-     "sorteer": "2026-10-25T16:11:24+00:00"
     }
    ]
   },
@@ -398,13 +411,6 @@
      "bron": "Bright",
      "tijd": "17:48",
      "sorteer": "2026-10-25T16:48:00+00:00"
-    },
-    {
-     "titel": "AI bedreigt softwarebanen? Elfsquad uit Drachten gooit roer om",
-     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOczUzejJSMmpOeWNtUkoyUWZ4MUJ1el95VVktX1A3UTJFQ2phd2NwTHJGdFF2UDdadW5KRi01OXhXd20tVXB5cWlqSlNmcWdXYkxEcUo2MmtSV1YzUW5kRjZFZU5lcnFvZGFCZjBTX215MmNrZF84UkoxdkUtQVRZWlYzWUFTTlNKTjBET3oxVUVxV2VfY1JERlZCX1BrcU5vX2lHRXAxM09TVl93Q3cwZWJXYXlkNzJMTDhzcWdJRjVyOGZ1Vm1weHJiaTBXcm9laGdWQkdWd3hsRC12ZFo1OERIaVNjY1QzSGRCa2lfZ2Q3QVZ1SWE0Q0hlelVSem8?oc=5",
-     "bron": "Leeuwarder Courant",
-     "tijd": "15:12",
-     "sorteer": "2026-10-25T14:12:00+00:00"
     }
    ]
   },
@@ -523,8 +529,8 @@
     },
     {
      "kop": "Verwachting",
-     "titel": "Morgen — telpost 1, kraanvogels en ganzen 1, zeetrek 2",
-     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten",
+     "titel": "Morgen — telpost 3, kraanvogels en ganzen 1, zeetrek 2",
+     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten; het regende vannacht en het klaart op — opgehoopte trek",
      "tijd": "",
      "link": "https://www.trektellen.org/",
      "toelichting": "Zangvogels vanaf zonsopkomst (07:20) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
@@ -576,6 +582,14 @@
      "tijd": "17:26",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-10-25T17:26:00+01:00"
+    },
+    {
+     "titel": "Dunsnavelnotenkraker",
+     "kop": "Zeldzaamheden",
+     "bron": "Noord-Brabant",
+     "tijd": "15:51",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-25T15:51:00+01:00"
     },
     {
      "titel": "Notenkraker",
@@ -669,11 +683,11 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Trek komt op gang — vandaag 109 meldingen, samen 5.596 vogels",
+     "titel": "Trek komt op gang — vandaag 124 meldingen, samen 5.879 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "aflopend — dag ervoor 189 · afgelopen week gemiddeld 486 per dag"
+     "vergelijking": "aflopend — dag ervoor 204 · afgelopen week gemiddeld 489 per dag"
     },
     {
      "kop": "Kraanvogels",
@@ -684,8 +698,8 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "37 meldingen vertrek uit het noorden",
-     "bron": "DE 37",
+     "titel": "50 meldingen vertrek uit het noorden",
+     "bron": "DE 50",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -716,8 +730,8 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 11.6,
-    "gevoel": 9.1,
+    "nu": 11.4,
+    "gevoel": 9.0,
     "wind": "WZW 4",
     "station": "Heino",
     "bericht": "Storm Boelo blijft vanavond en vannacht nog regionaal voor zware windstoten zorgen. Ook morgen waait het soms nog vrij stevig. Later in de week wordt het droger en zwakt de wind pas flink af.Vanavond beperken de buien zich steeds vaker tot het oosten en noordoosten van het land.",
