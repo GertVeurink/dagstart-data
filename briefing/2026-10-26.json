@@ -3,14 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "07:00",
+  "opgehaald": "08:00",
   "blokken": 11,
   "berichten": 74,
   "problemen": [],
-  "audio_herkomst": "vangnet",
-  "audio_aangehaakt": "07:28"
+  "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-26T07:00+01:00",
+ "opgehaald": "2026-10-26T08:00+01:00",
  "audio": "audio/20261026.mp3",
  "afval": [
   {
@@ -69,8 +68,26 @@
    "emoji": "🌍",
    "items": [
     {
-     "titel": "Meer dan 80 gewonden bij zwaar busongeluk in Spanje",
-     "context": "Bij een zwaar busongeluk in Spanje zijn zeker 83 mensen gewond geraakt. Zeven van hen verkeren in kritieke toestand, meldt de Spaanse omroep RTVE. Het ongeluk gebeurde gisteren aan het einde van de middag bij Fogars de Montclús, ten noordoosten van Barcelona. De bus raakte door nog onbekende reden van de weg en reed een 20 meter hoge helling af. Hulpverleners rukten uit met 23 ambulances en twee t",
+     "titel": "Zoektocht naar nieuwe James Bond nadert climax: dit zijn de kanshebbers",
+     "context": "Fans wachten al jaren en nu lijkt er eindelijk een antwoord te komen op de vraag: wie volgt Daniel Craig op als James Bond? In de filmwereld wordt af en toe gepleit voor een vrouw of iemand van kleur, maar drie witte Britse mannen maken de meeste kans. Dit weekend waren de laatste screentests in Londen, melden de gerenommeerde filmsites Deadline , Variety en The Hollywood Reporter . De voornaamste",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636689",
+     "bron": "NOS",
+     "tijd": "07:00",
+     "sorteer": "2026-10-26T07:00:01+01:00"
+    },
+    {
+     "titel": "Wekdienst 26/10: Debat Tweede Kamer over Belastingplan • Wie wint de Gouden Bal?",
+     "context": "Goedemorgen! Vandaag debatteert de Tweede Kamer met minister Heinen over het Belastingplan en vanavond wordt bekendgemaakt wie wordt uitgeroepen tot de beste voetballer van het jaar. Eerst het weer: in de ochtend is het overwegend droog met wat ruimte voor de zon. In de middag raakt het vanuit het zuidwesten bewolkt en volgt wat regen. De maxima liggen tussen 12 en 14 graden bij een vrij stevige z",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636688",
+     "bron": "NOS",
+     "tijd": "06:59",
+     "sorteer": "2026-10-26T06:59:41+01:00"
+    },
+    {
+     "titel": "Spaanse shuttlebus rijdt 20 meter hoge helling af, ruim tachtig gewonden",
+     "context": "Bij een zwaar busongeluk in Spanje zijn zeker 83 mensen gewond geraakt. Zeven van hen verkeren in kritieke toestand, meldt de Spaanse omroep RTVE. Het ongeluk gebeurde gisteren aan het einde van de middag bij Fogars de Montclús, ten noordoosten van Barcelona. De bus raakte door nog onbekende oorzaak van de weg en reed een 20 meter hoge helling af. Hulpverleners rukten uit met 23 ambulances en twee",
      "rubrieken": [],
      "link": "https://nos.nl/l/2636685",
      "bron": "NOS",
@@ -94,24 +111,6 @@
      "bron": "NOS",
      "tijd": "22:26",
      "sorteer": "2026-10-25T22:26:54+01:00"
-    },
-    {
-     "titel": "Afgetreden president Vucic erkent nederlaag: studentenbeweging wint verkiezingen Servië",
-     "context": "De Studentenlijst in Servië heeft de meeste stemmen behaald in de parlementsverkiezingen. Dat zegt voormalig president Vucic op basis van een exitpoll. Hij erkent daarmee zijn verlies. \"We hebben nog geen definitieve uitslagen, maar op basis van een steekproef is het duidelijk dat we deze verkiezingen hebben verloren. De Studentenlijst heeft gewonnen. Zij zullen tussen de 135 en 140 zetels krijgen",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636669",
-     "bron": "NOS",
-     "tijd": "21:48",
-     "sorteer": "2026-10-25T21:48:11+01:00"
-    },
-    {
-     "titel": "Pro-Russische presidentskandidaat Bulgarije aan kop na eerste verkiezingsronde",
-     "context": "De gematigd pro-Russische president Iliana Jotova van Bulgarije heeft volgens de exitpolls de meeste stemmen gekregen in de eerste ronde van de presidentsverkiezingen. Door een historisch lage opkomst moet er een tweede stemronde aan te pas komen op 1 november. Volgens verschillende Bulgaarse prognoses brachten iets meer dan 20 procent van de stemgerechtigden hun stem uit. Jotova zou volgens versc",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636668",
-     "bron": "NOS",
-     "tijd": "21:36",
-     "sorteer": "2026-10-25T21:36:10+01:00"
     },
     {
      "titel": "Euforie overheerst na historische overwinning Lula da Silva in Brazilië: ‘We moeten ons nu niet door angst laten verlammen’",
@@ -139,6 +138,13 @@
      "bron": "Trouw",
      "tijd": "03:47",
      "sorteer": "2026-10-26T02:47:00+00:00"
+    },
+    {
+     "titel": "Kabinet wil komende jaren een op de vijf voltijdsbanen bij de rijksoverheid schrappen – vooral bij uitvoering",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeTFvbUpnNXRRMHpwVEhMdWd0bDgtXzEwM0RKUk4yN1JkcldhYThlZS1ZcEFpTzdnVUVsaWJTTm51SXRjeHU3N3J3QnZvNTFfYS10dTB2UzdpSjk3bVFnTmN6MkF5bElrYk10dkNabFQxQU8zR3dyanpVN0tXekE2MHp5X0ItT01mNUVHX0FwLVpQZ1RnUks4ci1OQUJWOVliVkdZMV9BbV9iSG1vT0UzUldySnNxaGZpczRlNzZPeFFfcmhROXYyaVh1b2dHanJiVU1Ja1JiU0ZOTmFyMk9OYVZ5WWszT1Mx?oc=5",
+     "bron": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+     "tijd": "07:37",
+     "sorteer": "2026-10-26T06:37:19+00:00"
     }
    ]
   },
@@ -184,15 +190,6 @@
      "sorteer": "2026-10-25T18:53:13+01:00"
     },
     {
-     "titel": "Stormachtig weer trekt weg, komende week kalm herfstweer",
-     "context": "Dit weekend was de herfst in full swing aanwezig . Maar liefst twee stormen die een naam hadden gekregen zorgden voor kletsnat en onstuimig weer. Storm Austen trok vrijdag over Nederland. In ons land was het geen officiële storm, daarvoor waaide het net niet hard genoeg. Austen zorgde vooral in Frankrijk en het Verenigd Koninkrijk voor veel overlast en stroomuitval. Wel viel er bij ons een enorme ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636624",
-     "bron": "NOS",
-     "tijd": "17:16",
-     "sorteer": "2026-10-25T17:16:39+01:00"
-    },
-    {
      "titel": "‘Elke dag als ik wakker word, denk ik: hiep hiep hoera, ik ben er nog’",
      "context": "",
      "rubrieken": [],
@@ -211,18 +208,18 @@
      "sorteer": "2026-10-25T21:00:04+00:00"
     },
     {
-     "titel": "Veilig Thuis krijgt recordaantal belletjes over partnergeweld na campagne: ‘Er is nog een hoop dat we niet zien’",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ0xKMDdGWllYUUJaWGRkZmQ2OGNWRnM0YWRfQWVqajlMN2NwaFh6N1lNcklSYm9Xc0ppQTlCeW9DYzl1Zzgza1E0eDRHN1BvRlRoeXlDZzB3X2JvSXY2c3kyakZDWTJIcDRULTQ5WmNnaURFMnQ0c0NWZUlvSjgyb25WOVJyUlNiTERrYjNNYTJyWmdtZVZLREl0NEc3Q2lyRmZkUVpkYlpvVndWeFRvNVJ2MFNSa2NoVVo2QWZ4SUplMW9WbUE2amFkejVMY0xtTVMzNW01QVZwUEEyT2xvbHh4RUM5Zw?oc=5",
-     "bron": "Het Parool",
-     "tijd": "03:00",
-     "sorteer": "2026-10-26T02:00:46+00:00"
+     "titel": "Vraagtekens over soevereine SAP-cloud Defensie",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRll6SzExNm5HM3NqZEt3OTNmRGR3SUVVZFpGTHlncnYweGhJeC1KVGpCaHRHbkZsWkhuamFBZ2hlUW5kbEFGMk1NQXhzRWJhZ0hwdkxSR2FJanYzQ1ZWb2JGUzA3eXRyUXdwWFZVNy11dTQ1eWRZbjJGV0FpaUx1V1Rnb3RjVXVDUjEwSw?oc=5",
+     "bron": "Computable.nl",
+     "tijd": "07:15",
+     "sorteer": "2026-10-26T06:15:00+00:00"
     },
     {
-     "titel": "Kabinet zet mes in ambtenarenapparaat: 25.000 minder voltijdsbanen in 2035",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNVI3ZDB5SnVIRDlYaXVyN0NabENWOGdxSjJ6cWREaTVvbC1rSEhxODBabF9yd1RXemJnNmROem9XaUFYdUFxMmpoRjNSazBJSXlOc2FPbGZ1ZGlWazdybjBmX3VpcXNhZnVzeTlVNTFQcWp6QlpiT1dld2JYOWhSaTJ6TE1RNWJSS25fcU16elItU2o2Ry1OY1pIVkNXdWVraUFaRDNSNm5nVHYtbkw4?oc=5",
-     "bron": "Eindhovens Dagblad",
-     "tijd": "06:00",
-     "sorteer": "2026-10-26T05:00:49+00:00"
+     "titel": "Kabinet schrapt 25.000 voltijdbanen uit Haagse ambtenarij en gaat voor een ‘slagvaardige overheid’",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSW96VHpBWXZtUXhLUFp5NUNuU3NqWmtKc1VMM29sRW53ak5XOTlNX2ZzRS1xY2wwZU8wTF9nYTFSTlhzVTRSZUxGSktZeWwwaDlaYkF1Wk9SZ1VSNnFFVmpHS0tYVFU0R09jRVJWRHdoOThNYzg3NHlaX1R6RHkwM2FHZHQ5aTZlTjVRREVjWG5ERmhjeDBXRFd3Skp4MFJaelFpMzhTdk9ORlhJbG85emdDX3FmQlU5bFcydnZwQ1BvelIyQkI1eHZTaEVuOWZLZVFhS3Y5VmY?oc=5",
+     "bron": "de Volkskrant",
+     "tijd": "06:58",
+     "sorteer": "2026-10-26T05:58:06+00:00"
     },
     {
      "titel": "Nee, het is niet hypocriet om te protesteren tegen datacenters die je zelf gebruikt",
@@ -272,13 +269,13 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Oude gele 'boemeltreinen' uit Overijssel krijgen tweede, schoner leven in Polen",
-     "context": "Tot eind 2017 reden ze op het spoor in Overijssel: de gele, vierkante NS-treinen op diesel, ook wel 'buffels' genoemd. De oude treinstellen krijgen nu een tweede, duurzamer leven 1300 kilometer verderop, in het zuiden van Polen.",
+     "titel": "Pluimveehouders vechten tegen vogelgriep, maar kunnen weinig doen",
+     "context": "Vogelgriep is erg besmettelijk en dodelijk voor vogels. Er geldt op dit moment geen ophokplicht en daarom mogen de dieren nu niet binnen gehouden worden. Tegen het zere been van pluimveehouders. \"Vroeger zag ik ganzen overvliegen en dat vond ik mooi. Nu is dat anders.\"",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3710315/oude-gele-boemeltreinen-uit-overijssel-krijgen-tweede-schoner-leven-in-polen",
+     "link": "https://www.oost.nl/nieuws/3710505/pluimveehouders-vechten-tegen-vogelgriep-maar-kunnen-weinig-doen",
      "bron": "RTV Oost",
-     "tijd": "06:01",
-     "sorteer": "2026-10-26T05:01:11+00:00"
+     "tijd": "07:01",
+     "sorteer": "2026-10-26T06:01:08+00:00"
     },
     {
      "titel": "Hoe overlast door twee Oekraïners de gemeente Hengelo klem zet, wat doet Den Haag?",
@@ -292,15 +289,6 @@
      "sorteer": "2026-10-25T19:03:09+00:00"
     },
     {
-     "titel": "Parfumdief in Wierden wordt betrapt door de bedrijfsleider",
-     "context": "Twee winkeldieven zullen niet met veel plezier terugdenken aan hun 'dagje shoppen' in Wierden. Ze denken ongestoord hun gang te kunnen gaan bij de drogisterij, maar ze hebben niet in de gaten dat de filiaalhouder live meekijkt naar de camerabeelden.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3706946/parfumdief-in-wierden-wordt-betrapt-door-de-bedrijfsleider",
-     "bron": "RTV Oost",
-     "tijd": "18:05",
-     "sorteer": "2026-10-25T17:05:59+00:00"
-    },
-    {
      "titel": "Politiehelikopter boven Hengelo voor assistentie bij zoektocht naar man",
      "context": "Boven de binnenstad van Hengelo cirkelt een politiehelikopter en meerdere eenheden van de politie zijn aanwezig in het centrum van de stad. De politie is op zoek naar een man en waarschuwt mensen om deze persoon niet zelf te benaderen.",
      "rubrieken": [],
@@ -308,15 +296,6 @@
      "bron": "RTV Oost",
      "tijd": "16:53",
      "sorteer": "2026-10-25T15:53:37+00:00"
-    },
-    {
-     "titel": "Supporter FC Twente plotseling overleden tijdens Europese trip naar Gibraltar",
-     "context": "Een supporter van FC Twente is vrijdag overleden op Gibraltar. Dat meldt FC Twente op X. De man was fanatiek supporter van de club.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3711345/supporter-fc-twente-plotseling-overleden-tijdens-europese-trip-naar-gibraltar",
-     "bron": "RTV Oost",
-     "tijd": "16:39",
-     "sorteer": "2026-10-25T15:39:09+00:00"
     },
     {
      "titel": "Duizend verjaardagskaarten voor 100-jarige Truus uit Enschede",
@@ -328,6 +307,24 @@
      "bron": "RTV Oost",
      "tijd": "14:41",
      "sorteer": "2026-10-25T13:41:04+00:00"
+    },
+    {
+     "titel": "Een draak die Zwolle terroriseerde: waar komt deze bijzondere legende vandaan?",
+     "context": "Een draak die vanuit het water de stad bedreigt. En een mysterieuze ridder op een wit paard die het monster weet te verslaan. Het klinkt als een sprookje, maar het is een oude legende uit Zwolle. Waar komt dit bijzondere verhaal vandaan?",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/cultuur/3710848/een-draak-die-zwolle-terroriseerde-waar-komt-deze-bijzondere-legende-vandaan",
+     "bron": "RTV Oost",
+     "tijd": "13:07",
+     "sorteer": "2026-10-25T12:07:14+00:00"
+    },
+    {
+     "titel": "Kleine boompjes, grote passie: bonsaivereniging Overijssel bestaat veertig jaar",
+     "context": "De bonsai: voor veel mensen een klein Japans boompje dat met uiterste precisie in model wordt geknipt. Maar achter die miniatuurboom schuilt een wereld vol kennis, geduld en vakmanschap. Bij de Bonsai Vereniging Overijssel weten ze dat allang. De club bestaat veertig jaar en trekt nog altijd nieuwe leden aan.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3710281/kleine-boompjes-grote-passie-bonsaivereniging-overijssel-bestaat-veertig-jaar",
+     "bron": "RTV Oost",
+     "tijd": "11:51",
+     "sorteer": "2026-10-25T10:51:32+00:00"
     },
     {
      "titel": "Ai weet alles: wie brengt het beste nieuws van Dalfsen",
@@ -410,11 +407,11 @@
      "sorteer": "2026-10-26T05:00:00+00:00"
     },
     {
-     "titel": "AI wordt steeds beter in hacken, maar China probeert daar iets aan te doen",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1VmS2hZYldHcmNYMDdzRmhZcktnZUdvZFFkd3N4RWRGMnNjekNUWkJHN3luN21HSmRfeXBraTNjSklQS19uMW5rT0U0dEJmUTVDRzE5UHhGWkVrWC15UERoSHJtVXJrem5Xd1oxVThibzhlcnk3QWZOdHM3dHFzZk5iRUJJdXU5Wjh2YktjOVNZcjgxa2ZNNldJMFVLcFg1Q3NKbTVjc2ViSkxic2RfamZlZW50QQ?oc=5",
-     "bron": "Bright",
-     "tijd": "18:50",
-     "sorteer": "2026-10-25T17:50:00+00:00"
+     "titel": "Jurjen Kingma laat AI speuren naar verborgen rol van medicijnen",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3JhNmhJeXRaM2l5SW1sbGRFQlUzVUdISnR2TTA5TUxJSGFhZDdyN3pCdXRoaEt2a3g5UE1naU0xM2QtUTBGc19UUVZfVVJzYWIxRXBoUDM3UGpKT3NjUEtrVDVia2pZUGFMVUJFWExCcno0TVpBVU5IdG9hNTU3b2QtT2xGR2VWUEJPSzVTZzEyWkZyUWpraldORFpkbTViN0ZhTjhBOHg?oc=5",
+     "bron": "de Stentor",
+     "tijd": "21:00",
+     "sorteer": "2026-10-25T20:00:00+00:00"
     }
    ]
   },
@@ -525,20 +522,20 @@
      "link": "https://scientias.nl/vogels-hebben-enorme-rol-in-het-vervoeren-van-voedingsstoffen/"
     },
     {
+     "titel": "5 million Nigerians gain clean cooking access annually, but it’s not enough, experts say",
+     "toelichting": "UYO, Nigeria — Before dawn, Happiness Emmanuel is already at the fire. She crouches beside a three-legged metal stand outside her home in Uyo city, southeastern Nigeria, splashing kerosene over damp firewood before strik",
+     "bron": "Mongabay (Engels)",
+     "tijd": "07:40",
+     "link": "https://news.mongabay.com/2026/10/5-million-nigerians-gain-clean-cooking-access-annually-but-its-not-enough-experts-say/",
+     "sorteer": "2026-10-26T06:40:45+00:00"
+    },
+    {
      "titel": "International Gibbon Day: Stories of threats and survival",
      "toelichting": "Twenty species of gibbons swing through the tropical forests of Asia, all are threatened by human activities like deforestation, hunting and trafficking baby gibbons for the exotic pet trade. In recognition of Internatio",
      "bron": "Mongabay (Engels)",
      "tijd": "17:14",
      "link": "https://news.mongabay.com/short-article/2026/10/international-gibbon-day-stories-of-threats-and-survival/",
      "sorteer": "2026-10-24T15:14:17+00:00"
-    },
-    {
-     "titel": "Sri Lanka mourns iconic tusker amid renewed calls to address human-elephant conflict",
-     "toelichting": "COLOMBO – The death of Kavantissa, one of Sri Lanka’s most iconic wild tuskers (Elephas maximus maximus), following a gunshot injury triggered an extraordinary wave of public grief, political attention and criticism of w",
-     "bron": "Mongabay (Engels)",
-     "tijd": "16:59",
-     "link": "https://news.mongabay.com/2026/10/sri-lanka-mourns-iconic-tusker-amid-renewed-calls-to-address-human-elephant-conflict/",
-     "sorteer": "2026-10-24T14:59:46+00:00"
     }
    ]
   },
@@ -547,6 +544,62 @@
    "titel": "Vogels",
    "emoji": "🐦",
    "items": [
+    {
+     "kop": "Verwachting",
+     "titel": "Vandaag — telpost 3, kraanvogels en ganzen 1, zeetrek 2",
+     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten; het regende vannacht en het klaart op — opgehoopte trek",
+     "tijd": "",
+     "link": "https://www.trektellen.org/",
+     "toelichting": "Zangvogels vanaf zonsopkomst (07:20) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
+    },
+    {
+     "kop": "Verwachting",
+     "titel": "Morgen — telpost 4, kraanvogels en ganzen 4, zeetrek 2",
+     "bron": "wind uit het zuiden",
+     "tijd": "",
+     "link": "https://www.trektellen.org/",
+     "toelichting": "Zangvogels vanaf zonsopkomst (07:21) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
+    },
+    {
+     "kop": "Verwachting",
+     "titel": "Woensdag 28 okt — telpost 2, kraanvogels en ganzen 1, zeetrek 2",
+     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten; stijgende druk",
+     "tijd": "",
+     "link": "https://www.trektellen.org/",
+     "toelichting": "Zangvogels vanaf zonsopkomst (07:23) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
+    },
+    {
+     "kop": "Verwachting",
+     "titel": "Donderdag 29 okt — telpost 1, kraanvogels en ganzen 1, zeetrek 2",
+     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten",
+     "tijd": "",
+     "link": "https://www.trektellen.org/",
+     "toelichting": "Zangvogels vanaf zonsopkomst (07:25) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
+    },
+    {
+     "kop": "Verwachting",
+     "titel": "Vrijdag 30 okt — telpost 4, kraanvogels en ganzen 5, zeetrek 2",
+     "bron": "zuidoostenwind, de beste richting voor een telpost; windstil, dus hoog en verspreid; mist",
+     "tijd": "",
+     "link": "https://www.trektellen.org/",
+     "toelichting": "Zangvogels vanaf zonsopkomst (07:27) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
+    },
+    {
+     "kop": "Verwachting",
+     "titel": "Zaterdag 31 okt — telpost 4, kraanvogels en ganzen 5, zeetrek 2",
+     "bron": "oostenwind, de beste richting voor een telpost; windstil, dus hoog en verspreid; mist",
+     "tijd": "",
+     "link": "https://www.trektellen.org/",
+     "toelichting": "Zangvogels vanaf zonsopkomst (07:29) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels. Vanaf hier is de windrichting nog onzeker; lees dit als een richting en niet als een voorspelling."
+    },
+    {
+     "kop": "Verwachting",
+     "titel": "Zondag 1 nov — telpost 4, kraanvogels en ganzen 4, zeetrek 2",
+     "bron": "wind uit het zuiden",
+     "tijd": "",
+     "link": "https://www.trektellen.org/",
+     "toelichting": "Zangvogels vanaf zonsopkomst (07:31) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
+    },
     {
      "titel": "Stormvogeltje",
      "kop": "Zeldzaamheden",
@@ -654,62 +707,6 @@
      "sein": true
     },
     {
-     "kop": "Verwachting",
-     "titel": "Vandaag — telpost 4, kraanvogels en ganzen 1, zeetrek 2",
-     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten; het regende vannacht en het klaart op — opgehoopte trek; stijgende druk",
-     "tijd": "",
-     "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (07:20) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
-    },
-    {
-     "kop": "Verwachting",
-     "titel": "Morgen — telpost 4, kraanvogels en ganzen 4, zeetrek 2",
-     "bron": "wind uit het zuiden",
-     "tijd": "",
-     "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (07:21) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
-    },
-    {
-     "kop": "Verwachting",
-     "titel": "Woensdag 28 okt — telpost 2, kraanvogels en ganzen 1, zeetrek 2",
-     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten; stijgende druk",
-     "tijd": "",
-     "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (07:23) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
-    },
-    {
-     "kop": "Verwachting",
-     "titel": "Donderdag 29 okt — telpost 1, kraanvogels en ganzen 1, zeetrek 2",
-     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten",
-     "tijd": "",
-     "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (07:25) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
-    },
-    {
-     "kop": "Verwachting",
-     "titel": "Vrijdag 30 okt — telpost 4, kraanvogels en ganzen 5, zeetrek 2",
-     "bron": "oostenwind, de beste richting voor een telpost; windstil, dus hoog en verspreid; mist",
-     "tijd": "",
-     "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (07:27) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
-    },
-    {
-     "kop": "Verwachting",
-     "titel": "Zaterdag 31 okt — telpost 6, kraanvogels en ganzen 7, zeetrek 2",
-     "bron": "oostenwind, de beste richting voor een telpost; windstil, dus hoog en verspreid",
-     "tijd": "",
-     "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (07:29) tot een uur of drie daarna; het eerste uur is het drukst. Kraanvogels en ganzen de hele dag, vaak juist 's middags. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels. Vanaf hier is de windrichting nog onzeker; lees dit als een richting en niet als een voorspelling."
-    },
-    {
-     "kop": "Verwachting",
-     "titel": "Zondag 1 nov — telpost 7, kraanvogels en ganzen 7, zeetrek 2",
-     "bron": "oostenwind, de beste richting voor een telpost",
-     "tijd": "",
-     "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (07:31) tot een uur of drie daarna; het eerste uur is het drukst. Kraanvogels en ganzen de hele dag, vaak juist 's middags. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
-    },
-    {
      "kop": "Kraanvogels",
      "titel": "Trek komt op gang — gisteren 133 meldingen, samen 6.535 vogels",
      "bron": "observation.org",
@@ -752,7 +749,7 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 8.7,
+    "nu": 8.6,
     "gevoel": 6.2,
     "wind": "ZZW 3",
     "station": "Heino",
@@ -760,7 +757,7 @@
     "vandaag": "Vanochtend zien we geregeld de zon door de aanwezige bewolking en in het noorden en noordoosten valt er nog plaatselijk een regenbui. Vanmiddag zal de bewolking vanuit het zuidwesten gaan toenemen.",
     "temperatuur": "De temperatuur bedraagt aan het eind van de ochtend zo'n 12 of 13 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: motregen, 8 tot 12 graden, 92% kans op neerslag, ruim 3 uur zon, wind uit het zuidwesten, kracht 4.",
+     "zin": "Voor Dalfsen zelf: motregen, 8 tot 12 graden, 92% kans op neerslag, ruim 6 uur zon, wind uit het zuidwesten, kracht 4.",
      "max": 12,
      "min": 8,
      "regenkans": 92,
@@ -781,15 +778,5 @@
     }
    }
   }
- ],
- "archief": [
-  "2026-10-26",
-  "2026-10-25",
-  "2026-10-24",
-  "2026-10-23",
-  "2026-10-22",
-  "2026-10-21",
-  "2026-10-20",
-  "2026-10-19"
  ]
 }
