@@ -3,13 +3,17 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "16:27",
+  "opgehaald": "17:00",
   "blokken": 11,
-  "berichten": 109,
-  "problemen": [],
+  "berichten": 98,
+  "problemen": [
+   "Scientias: niet bereikbaar ([Errno 8] nodename nor servname provided, or not known",
+   "vogels: niet bereikbaar ([Errno 8] nodename nor servname provided, or not known",
+   "geen toegang tot /Users/thuismap/Library/Mobile Documents/com~apple~CloudDocs/Ochtendbriefing — overgeslagen"
+  ],
   "audio_herkomst": null
  },
- "opgehaald": "2026-10-28T16:27+01:00",
+ "opgehaald": "2026-10-28T17:00+01:00",
  "audio": null,
  "afval": [
   {
@@ -68,6 +72,24 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "'Wintersteunpakket' voor Oekraïne: Nederland geeft 500 miljoen voor luchtafweer",
+     "context": "Nederland geeft Oekraïne nog eens 500 miljoen euro aan militaire steun. Dit 'wintersteunpakket' is bedoeld voor luchtverdediging en drones. Dat zei premier Jetten op een persconferentie na zijn ontmoeting met de Oekraïense president Zelensky op het Catshuis in Den Haag. Zelensky uitte zijn dankbaarheid voor alle steun die hij krijgt uit Nederland, en ook van andere bondgenoten. Zijn land heeft het",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637052",
+     "bron": "NOS",
+     "tijd": "16:48",
+     "sorteer": "2026-10-28T16:48:15+01:00"
+    },
+    {
+     "titel": "Meisje (8) zwaargewond bij aanval door wolf in Duits dierenpark",
+     "context": "In een wildpark in de Oost-Duitse deelstaat Brandenburg heeft een wolf een 8-jarig meisje aangevallen. Dat bevestigt de lokale politie aan het Duitse persbureau DPA. Het kind raakte bij de aanval zwaargewond en is per helikopter naar een ziekenhuis gevlogen. De aanval vond vanochtend plaats in een van de dierenverblijven in het wildpark Johannismühle. Het wildpark ligt in de gemeente Baruth/Mark, ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637048",
+     "bron": "NOS",
+     "tijd": "16:34",
+     "sorteer": "2026-10-28T16:34:44+01:00"
+    },
+    {
      "titel": "Podcast De Dag: Israël na de verkiezingen",
      "context": "Voor het eerst sinds de Hamas-aanslagen van 7 oktober 2023 en het genocidale geweld van Israël dat daarop volgde, ging Israël naar de stembus. De uitslag laat de politiek vooral met vragen achter, want er is geen meerderheid voor één van de blokken, van zittend premier Benjamin Netanyahu of zijn uitdager Gadi Eisenkot. Daarmee is de strijd tussen de twee nog niet beslecht. Wat betekent dat voor de",
      "rubrieken": [],
@@ -77,8 +99,8 @@
      "sorteer": "2026-10-28T16:25:30+01:00"
     },
     {
-     "titel": "Minister: hogesnelheidstrein Spanje reed door rood sein na instructie verkeersleiding",
-     "context": "De hogesnelheidstrein die op een stilstaande trein reed in Spanje was met toestemming van de treinverkeersleiding doorgereden, terwijl er een rood sein was. Dat zei minister van Transport Puente op een persconferentie. Bij de ramp zijn zeker 64 doden gevallen. 80 mensen raakten gewond, van wie 50 ernstig. Volgens Puente was er voor het ongeluk een computerstoring en heeft de botsing daar mogelijk ",
+     "titel": "Minister: hogesnelheidstrein Spanje reed door rood sein op instructie verkeersleiding",
+     "context": "De hogesnelheidstrein die op een stilstaande trein reed in Spanje was met toestemming van de treinverkeersleiding doorgereden, terwijl er een rood sein was. Dat zei minister van Transport Puente op een persconferentie. Bij de ramp zijn zeker 68 doden gevallen. Tientallen mensen raakten gewond. Volgens Puente was er voor het ongeluk een computerstoring en heeft de botsing daar mogelijk mee te maken",
      "rubrieken": [],
      "link": "https://nos.nl/l/2637042",
      "bron": "NOS",
@@ -95,40 +117,22 @@
      "sorteer": "2026-10-28T16:10:17+01:00"
     },
     {
-     "titel": "Pro-Netanyahu-blok met 85 procent geteld aan kop, moeilijke formatie dreigt",
-     "context": "Met 85 procent van de stemmen geteld gaat het pro-Netanyahu-blok met 53 zetels aan kop bij de Israëlische parlementsverkiezingen. Het blok rond oppositieleider Gadi Eisenkot staat op dit moment op 48 zetels. Het aantal zetels voor de Arabische partijen staat op 19, een historisch record. De Likud-partij van Netanyahu verliest met deze uitslag zes zetels en gaat van 32 naar 26. De pas een jaar gele",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2637035",
-     "bron": "NOS",
-     "tijd": "15:27",
-     "sorteer": "2026-10-28T15:27:43+01:00"
-    },
-    {
-     "titel": "Flávio Bolsonaro en gezin geland in de Verenigde Staten",
-     "context": "De Braziliaanse oud-presidentskandidaat Flávio Bolsonaro is aangekomen in Miami in de Verenigde Staten, melden persbureau Reuters en AP. Op beelden is te zien dat Bolsonaro en zijn gezin uit een privéjet stappen op het Miami Opa Locka Executive Airport. De zoon van oud-president Jair Bolsonaro vluchtte het land uit nadat hij afgelopen weekend de presidentsverkiezingen in Brazilië had verloren van ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2637028",
-     "bron": "NOS",
-     "tijd": "14:55",
-     "sorteer": "2026-10-28T14:55:57+01:00"
-    },
-    {
-     "titel": "Spaanse minister: hogesnelheidstrein kreeg toestemming om door te rijden ondanks rood sein",
+     "titel": "Houthi’s melden 14 doden bij Saoedische luchtaanvallen op Jemen",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/spaanse-minister-hogesnelheidstrein-kreeg-toestemming-om-door-te-rijden-ondanks-rood-sein~b4e9a811/",
+     "link": "https://www.volkskrant.nl/buitenland/houthi-s-melden-14-doden-bij-saoedische-luchtaanvallen-op-jemen~b7a280d3/",
      "bron": "de Volkskrant",
-     "tijd": "16:02",
-     "sorteer": "2026-10-28T15:02:00+00:00"
+     "tijd": "16:41",
+     "sorteer": "2026-10-28T15:41:00+00:00"
     },
     {
-     "titel": "‘Dit was onze laatste kans om van Netanyahu af te komen’",
+     "titel": "Spaanse premier kondigt drie dagen van nationale rouw af om treinongeluk",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/dit-was-onze-laatste-kans-om-van-netanyahu-af-te-komen~bf06a3b2/",
+     "link": "https://www.volkskrant.nl/buitenland/spaanse-premier-kondigt-drie-dagen-van-nationale-rouw-af-om-treinongeluk~b4e9a811/",
      "bron": "de Volkskrant",
-     "tijd": "15:59",
-     "sorteer": "2026-10-28T14:59:20+00:00"
+     "tijd": "16:39",
+     "sorteer": "2026-10-28T15:39:00+00:00"
     },
     {
      "titel": "Onzekerheid overheerst in Israël, met een uitslag die alle kanten op gaat",
@@ -160,6 +164,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Podcast De Monarchie: hoe het koningshuis en defensie elkaar omarmen",
+     "context": "Prinses Amalia heeft vorige week bij de Koninklijke Marine een hogere rang gekregen. Ze is bevorderd van korporaal naar sergeant. Het hoort bij haar studie-werktraject bij het Defensity College. De keuze van Amalia voor defensie past in de lijn van haar familie. \"Er is een lange geschiedenis tussen de Oranjes en de krijgsmacht. Die begon al tijdens de tachtigjarige oorlog\", vertelt militair histor",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637053",
+     "bron": "NOS",
+     "tijd": "16:49",
+     "sorteer": "2026-10-28T16:49:46+01:00"
+    },
     {
      "titel": "Tienduizenden noodknoppen ouderen straks defect door stoppen 2G-netwerk",
      "context": "Tienduizenden ouderen met een alarmknop voor noodsituaties lopen risico om in levensgevaarlijke situaties terecht te komen. Dat meldt EenVandaag op basis van eigen onderzoek. Het 2G-netwerk waarmee deze knoppen verbonden zijn, wordt binnenkort uitgezet. De alarmsystemen kunnen door kwetsbare ouderen worden ingedrukt bij bijvoorbeeld een val in huis, als ze zich plots niet lekker voelen of bij een ",
@@ -197,13 +210,13 @@
      "sorteer": "2026-10-28T11:23:33+01:00"
     },
     {
-     "titel": "Nieuwe opsporingsmethode coldcases is succesvol, zal vaker worden ingezet",
-     "context": "Er is een nieuwe opsporingsmethode om ernstige coldcasezaken op te lossen. Een pilot van het Openbaar Ministerie en het Nederlands Forensisch Instituut, waarbij gebruik wordt gemaakt van particuliere DNA-databanken, is succesvol afgerond. Daarom zal deze werkwijze bij meer zaken worden ingezet. Met de methode is het mogelijk om DNA op de plaats van een misdrijf te vergelijken met DNA-profielen van",
+     "titel": "Na tien jaar gesteggel krijgt Aletta Jacobs toch een standbeeld in Den Haag, door een andere kunstenaar en op een alternatieve locatie",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2636992",
-     "bron": "NOS",
-     "tijd": "11:15",
-     "sorteer": "2026-10-28T11:15:55+01:00"
+     "link": "https://www.volkskrant.nl/binnenland/na-tien-jaar-gesteggel-krijgt-aletta-jacobs-toch-een-standbeeld-in-den-haag-door-een-andere-kunstenaar-en-op-een-alternatieve-locatie~be170e6b/",
+     "bron": "de Volkskrant",
+     "tijd": "16:44",
+     "sorteer": "2026-10-28T15:44:29+00:00"
     },
     {
      "titel": "Koning steekt zijn licht op in het azc in Leersum: ‘Zware asieldebatten zijn hier niet’",
@@ -215,15 +228,6 @@
      "sorteer": "2026-10-27T18:19:00+00:00"
     },
     {
-     "titel": "Roemeense ‘pooierbende’ op de Wallen pakt volgens justitie de zaken geraffineerd aan: ‘Het gaat om manipulatie, misleiding’",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/roemeense-pooierbende-op-de-wallen-pakt-volgens-justitie-de-zaken-geraffineerd-aan-het-gaat-om-manipulatie-misleiding~b7b821b3/",
-     "bron": "de Volkskrant",
-     "tijd": "19:07",
-     "sorteer": "2026-10-27T18:07:00+00:00"
-    },
-    {
      "titel": "Met misleidende asielcijfers vallen Kamerleden rechter aan die terugkeer naar Italië blokkeert",
      "context": "",
      "rubrieken": [],
@@ -231,13 +235,6 @@
      "bron": "Trouw",
      "tijd": "15:24",
      "sorteer": "2026-10-28T14:24:00+00:00"
-    },
-    {
-     "titel": "Explosief materiaal Vliegbasis Eindhoven weggehaald",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPblBHY3h2R3c2dzBFS2xQUkZRNWh6V3I2TkN6a2xueThJNnpLaGNkb1dQU3VSbDdyMk83UDZVN21oTkZ2Qks4TnhmNnBPQWV4Zjhsc1RraDFFNjJQaHg4SUd5dWY4OU5kMVVkcVJJb3l5ZDE2Sk1La0NJOElYYXA3SkJLSQ?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "16:17",
-     "sorteer": "2026-10-28T15:17:45+00:00"
     },
     {
      "titel": "Coronademonstranten krijgen 300 euro schadevergoeding: gebiedsverbod was onterecht",
@@ -254,11 +251,18 @@
      "sorteer": "2026-10-28T15:16:56+00:00"
     },
     {
-     "titel": "Filmmaker Jafar Panahi veroordeeld tot ruim vijf jaar cel",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbnBVQS10M3FKamUyMVlRcUJXbURGdWpFUWFvaUNVVWw5Yktvblh5M3U4dXo0MGFqWWUzMmN5T0hIYTdkSmlUbTY5Tzczd0FJbndoX2x3ZU9xeVJGcXZKT09xaUtuakFvVFlYMTFIaHdDR1I4Vi1FaThiRVZKZkR4T2pzVm9KNEpSdEctcEtWYVE4aHVmV0dsQlBPVG1WajM4dU51Uw?oc=5",
-     "bron": "RTL.nl",
-     "tijd": "16:16",
-     "sorteer": "2026-10-28T15:16:23+00:00"
+     "titel": "Taakstraffen geëist voor seance bij kindergraven op Amersfoortse begraafplaats",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTTNTTWdFMnFyVGhXWWk5eFNLRjRXbFc4ZlNJb01yRTNERnA1NmZBcTBUOFEwZlktNnUyang1b0VYVndEUnhYZnRwRkx2Y2x1dzVoOHIwZE41VU1OUXRDYnYxQm43VVNEWnBIclNJcFdzc0xvN21CV3JDcXRkVHZrTDQ1UGNiTC1IU3VLMmFTXzRNcDdHZUxQX1V5M1FwNE0yZldvVWVrWmE1ZFdCZEE?oc=5",
+     "bron": "NOS",
+     "tijd": "16:10",
+     "sorteer": "2026-10-28T15:10:55+00:00"
+    },
+    {
+     "titel": "Dennis van E. krijgt in hoger beroep 14 jaar cel voor ‘abortusmoord’ Diemen: doodde vriendin en ongeboren kind",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQzVTXzl6eHh6RmxHbnYzemZBOVFTSURzeEZHY2Zfd25Ybll4WGFMZnFKR3NIOC1XVVgzbWlDWU9HQ0UwQ0pER25zMGtKaldTbjc0dUZ4bUVtbjRwRFdieHdvSjlfQm1NRkVncnFWYzVVYnFhX29oMFFZV3NDd2c3TXdlM1VXTG96OHhoZ0RxUFFteUFfMHRmcllpZkZ4cXZWbEIxcFdvT1JobHNFWGVpbmFabnFvUmdNMGNLbW9ZTzNpaDRtNUNMdXpnWUF0bEs2alFsbTNlRkZvQmZHRkRIRzJ3?oc=5",
+     "bron": "Het Parool",
+     "tijd": "15:30",
+     "sorteer": "2026-10-28T14:30:01+00:00"
     },
     {
      "titel": "Opgroeien is een wonder, zie je in deze prachtige film over twee Argentijnse nichtjes",
@@ -371,28 +375,30 @@
      "sorteer": "2026-10-28T08:02:31+00:00"
     },
     {
-     "titel": "Te Huur: Een ruime, vrijstaande woning met 3 slaapkamers en een apart kantoorpand met 3 werkruimtes.",
-     "context": "Uitsluitend voor zakelijke markt met een looptijd van 5 jaar met een optie van 5 jaar. Huurprijs € 2.400,= per maand excl. energiekosten Info uitsluitend via mail t.reimert@grobbee.com",
-     "rubrieken": [
-      "Ingezonden bericht"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/555444/te-huur-een-ruime-vrijstaande-woning-met-3-slaapkamers-en-een-apart-kantoorpand-met-3-werkruimtes.html",
-     "bron": "DalfsenNet",
-     "tijd": "16:03",
-     "sorteer": "2026-10-28T15:03:59+00:00"
-    },
-    {
-     "titel": "Vrije keuze foto’s bij Fotoclub Dalfsen",
-     "context": "DALFSEN – Donderdag 21 oktober was de 2e avond van dit seizoen voor de leden van Fotoclub Dalfsen in de Panoramazaal van Trefkoele+. De leden hadden dit keer geen ‘verplicht’ onderwerp, maar vrije keuze om vier foto’s mee te nemen en te bespreken in kleine groepjes. Daarna werden er twee gekozen foto’s besproken door de […]",
+     "titel": "Welsummerweg bijna gereed",
+     "context": "DALFSEN – Weer een stuk van de Welsummerweg is bijna klaar om te gebruiken. Het rode asfalt ligt er in en momenteel wordt er gewerkt aan de eindafwerking. Waar we het eerder hadden over het deel de Singel – Kampmansweg, moeten we dit even corrigeren. Het gaat om het deel de Singel – de Stokte […]",
      "rubrieken": [
       "Dalfsen",
       "Ingezonden bericht",
       "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/555442/vrije-keuze-fotos-bij-fotoclub-dalfsen.html",
+     "link": "https://www.dalfsennet.nl/nieuws/555452/welsummerweg-bijna-gereed.html",
      "bron": "DalfsenNet",
-     "tijd": "13:24",
-     "sorteer": "2026-10-28T12:24:59+00:00"
+     "tijd": "16:40",
+     "sorteer": "2026-10-28T15:40:19+00:00"
+    },
+    {
+     "titel": "Werkzaamheden elektriciteitsnet in Van Tydencampstraat tot mei 2027",
+     "context": "DALFSEN – In de Van Tydencampstraat in Dalfsen werkt netbeheerder Enexis aan de verzwaring van het elektriciteitsnet. Het bestaande elektriciteitshuisje wordt omgebouwd tot een middenspanningsstation en komen er nieuwe elektriciteitskabels. Hierbij komt ook een nieuw elektriciteitshuisje. De werkzaamheden zijn nodig om het elektriciteitsnet geschikt te maken voor het toenemende stroomverbruik, ond",
+     "rubrieken": [
+      "Dalfsen",
+      "Ingezonden bericht",
+      "Laatste nieuws"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/555455/werkzaamheden-elektriciteitsnet-in-van-tydencampstraat-tot-mei-2027.html",
+     "bron": "DalfsenNet",
+     "tijd": "16:38",
+     "sorteer": "2026-10-28T15:38:56+00:00"
     }
    ]
   },
@@ -455,13 +461,6 @@
      "bron": "RTL.nl",
      "tijd": "10:42",
      "sorteer": "2026-10-28T09:42:29+00:00"
-    },
-    {
-     "titel": "Voor miljoenen aan AI-chips ingenomen op vliegveld in Maleisië",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcXhpNW1fd1NvalpVSEhNd3g3Yk5Jc1MtR19MeC1LWjEwYm1FMFFCRHdtZXhtNWRUMFh1VFFuNVF4R3Q3OFdJVUwzS18wZGhiWjBVS0RZZUNhWGdhTnRkYTZWVUotOFctWXhIOExiUWc2RV82RlZaVmZnZWwzdldsQnVtMTRIRnhRNUZjanRqRnF1QQ?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "09:16",
-     "sorteer": "2026-10-28T08:16:52+00:00"
     }
    ]
   },
@@ -470,41 +469,6 @@
    "titel": "Tweede Kamer",
    "emoji": "🏛️",
    "items": [
-    {
-     "titel": "Motie van de leden Verkuijlen en Poortman over zorgkosten als gevolg van drugsgebruik in kaart brengen",
-     "bron": "motie aangenomen",
-     "kop": "Stemmingen",
-     "tijd": "",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z22483"
-    },
-    {
-     "titel": "Motie van het lid Kostić over bindende normen voor veiligheid, milieu en arbeidsomstandigheden opnemen in toekomstige…",
-     "bron": "motie aangenomen",
-     "kop": "Stemmingen",
-     "tijd": "",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z11330"
-    },
-    {
-     "titel": "Motie van het lid Van der Plas over in kaart brengen of en waar sterk verouderde vergunningen met strafrechtelijke risico's…",
-     "bron": "motie aangenomen",
-     "kop": "Stemmingen",
-     "tijd": "",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z21961"
-    },
-    {
-     "titel": "Gewijzigde motie van het lid Van der Plas over bezien hoe PAS-melders die binnen hun oorspronkelijke melding blijven nooit…",
-     "bron": "motie aangenomen",
-     "kop": "Stemmingen",
-     "tijd": "",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z22298"
-    },
-    {
-     "titel": "Motie van het lid Kostić c.s. over pleiten voor heronderhandelingen van delen van het EU-ASEAN-verdrag om zo bindende normen vast…",
-     "bron": "motie verworpen",
-     "kop": "Stemmingen",
-     "tijd": "",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z11329"
-    },
     {
      "titel": "De heer Kisteman (VVD) over Zwolle",
      "bron": "Begroting Onderwijs, Cultuur en Wetenschap",
@@ -810,7 +774,7 @@
     {
      "kop": "Verwachting",
      "titel": "Morgen — telpost 1, kraanvogels en ganzen 1, zeetrek 2",
-     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten; het regende vannacht en het klaart op — opgehoopte trek; mist",
+     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten; mist",
      "tijd": "",
      "link": "https://www.trektellen.org/",
      "toelichting": "Zangvogels vanaf zonsopkomst (07:25) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
@@ -818,7 +782,7 @@
     {
      "kop": "Verwachting",
      "titel": "Vrijdag 30 okt — telpost 7, kraanvogels en ganzen 5, zeetrek 2",
-     "bron": "noordoostenwind, de beste richting voor een telpost",
+     "bron": "oostenwind, de beste richting voor een telpost",
      "tijd": "",
      "link": "https://www.trektellen.org/",
      "toelichting": "Zangvogels vanaf zonsopkomst (07:27) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
@@ -854,46 +818,6 @@
      "tijd": "",
      "link": "https://www.trektellen.org/",
      "toelichting": "Zangvogels vanaf zonsopkomst (07:34) tot een uur of drie daarna; het eerste uur is het drukst. Kraanvogels en ganzen de hele dag, vaak juist 's middags. Te verwachten: ganzen, lijsters, houtduiven en barmsijzen."
-    },
-    {
-     "titel": "Notenkraker",
-     "kop": "Zeldzaamheden",
-     "bron": "Noord-Holland",
-     "tijd": "14:25",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-28T14:25:00+01:00"
-    },
-    {
-     "titel": "Bonte Tapuit",
-     "kop": "Zeldzaamheden",
-     "bron": "Friesland",
-     "tijd": "13:23",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-28T13:23:00+01:00"
-    },
-    {
-     "titel": "Woestijntapuit",
-     "kop": "Zeldzaamheden",
-     "bron": "Friesland",
-     "tijd": "11:42",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-28T11:42:00+01:00"
-    },
-    {
-     "titel": "Waterspreeuw",
-     "kop": "Zeldzaamheden",
-     "bron": "Drenthe",
-     "tijd": "10:54",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-28T10:54:00+01:00"
-    },
-    {
-     "titel": "Grijze Wouw",
-     "kop": "Zeldzaamheden",
-     "bron": "Noord-Holland",
-     "tijd": "10:30",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-28T10:30:00+01:00"
     },
     {
      "titel": "Landelijk vandaag: 178 soorten, 742.617 vogels geteld",
@@ -971,7 +895,7 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Trek komt op gang — vandaag 92 meldingen, samen 13.598 vogels",
+     "titel": "Trek komt op gang — vandaag 95 meldingen, samen 13.652 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -979,15 +903,15 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "11 binnen 75 km van Dalfsen",
+     "titel": "12 binnen 75 km van Dalfsen",
      "bron": "dichtstbij: Nijverdal - Wierdense Veld - Huurnerveld, 23 km",
      "tijd": "10:07",
      "link": "https://waarneming.nl/species/19/observations/"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "20 meldingen vertrek uit het noorden",
-     "bron": "DE 20",
+     "titel": "21 meldingen vertrek uit het noorden",
+     "bron": "DE 21",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -1018,15 +942,15 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 13.1,
-    "gevoel": 13.1,
+    "nu": 12.9,
+    "gevoel": 12.9,
     "wind": "ZZW 2",
     "station": "Heino",
     "bericht": "Door hogedrukgebied is het de komende dagen vaak rustig met nauwelijks wind. Verder is de zon geregeld te zien en is er 's nachts en 's ochtends kans op nevel of mist. Het blijft droog bij maxima rond of net boven het langjarig gemiddelde.",
     "vandaag": "Vanmiddag wisselen zon en stapelwolken elkaar af en het blijft droog. Vanavond raakt het vanuit het noordwesten bewolkt, behalve in het oosten en zuidoosten.",
     "temperatuur": "In de middag wordt het zo'n 15 of 16 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: 6 tot 14 graden, 29% kans op neerslag, ruim 8 uur zon, wind uit het zuidwesten, kracht 3.",
+     "zin": "Voor Dalfsen zelf: 6 tot 14 graden, 29% kans op neerslag, ruim 9 uur zon, wind uit het zuidwesten, kracht 3.",
      "max": 14,
      "min": 6,
      "regenkans": 29,
