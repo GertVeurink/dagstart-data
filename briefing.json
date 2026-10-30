@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "22:00",
+  "opgehaald": "22:44",
   "blokken": 10,
-  "berichten": 106,
+  "berichten": 104,
   "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-30T22:00+01:00",
+ "opgehaald": "2026-10-30T22:44+01:00",
  "audio": "audio/20261030.mp3",
  "afval": [
   {
@@ -68,6 +68,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Spanningen rond Pools Constitutioneel Hof, vliegtuig president Nawrocki keert terug",
+     "context": "De Poolse oproerpolitie heeft het terrein van het Constitutioneel Hof, de hoogste rechterlijke macht van het land, ontruimd en afgezet . Bij het gebouw zijn demonstranten samengekomen en media schrijven dat er voorwerpen naar de politie zijn gegooid. Meerdere mensen zijn opgepakt. De Poolse president besloot halsoverkop terug te keren vanwege de crisis. De schorsing van de voorzitter van het hof, ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637376",
+     "bron": "NOS",
+     "tijd": "22:14",
+     "sorteer": "2026-10-30T22:14:25+01:00"
+    },
+    {
      "titel": "VS keurt verkoop Patriot-raketten aan Oekraïne goed",
      "context": "De Verenigde Staten heeft de verkoop van 500 Patriot-rakketten aan Oekraïne goedgekeurd. Volgens het ministerie van Buitenlandse Zaken worden de raketten verkocht voor zo'n 2,1 miljard dollar. De PAC-3-raketten worden deels betaald door bondgenoten Canada, Duitsland en Noorwegen. Ook worden de verdedigingswapens deels gefinancierd uit een steunlening van de Europese Unie aan Oekraïne. De VS doneer",
      "rubrieken": [],
@@ -104,15 +113,6 @@
      "sorteer": "2026-10-30T17:21:32+01:00"
     },
     {
-     "titel": "Schotse politie onderzoekt verblijf van ex-prins Andrew en Epstein op Balmoral",
-     "context": "De Schotse politie is een onderzoek begonnen naar een verblijf van de Britse ex-prins Andrew en de veroordeelde zedendelinquent Jeffrey Epstein op Balmoral Castle. Dat kasteel in de Schotse Hooglanden is het zomerverblijf van de Britse koninklijke familie. De gevallen prins zou daar in 1999 zijn geweest met Epstein en diens handlanger Ghislaine Maxwell. Het is niet duidelijk waar precies onderzoek",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2637313",
-     "bron": "NOS",
-     "tijd": "15:26",
-     "sorteer": "2026-10-30T15:26:48+01:00"
-    },
-    {
      "titel": "VS keuren miljardenverkoop van Patriot-luchtverdedigingsraketten aan Oekraïne goed",
      "context": "",
      "rubrieken": [],
@@ -122,22 +122,77 @@
      "sorteer": "2026-10-30T20:00:00+00:00"
     },
     {
-     "titel": "Iran meldt aanvallen in Straat Hormuz, VAE zegt olielek gestopt te hebben",
+     "titel": "Iran meldt aanvallen in Straat van Hormuz, VAE zegt olielek gestopt te hebben",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/iran-meldt-aanvallen-in-straat-hormuz-vae-zegt-olielek-gestopt-te-hebben~b7a280d3/",
+     "link": "https://www.volkskrant.nl/buitenland/iran-meldt-aanvallen-in-straat-van-hormuz-vae-zegt-olielek-gestopt-te-hebben~b7a280d3/",
      "bron": "de Volkskrant",
      "tijd": "20:28",
      "sorteer": "2026-10-30T19:28:00+00:00"
     },
     {
-     "titel": "Amerikaanse regering keurt raketverkoop aan Oekraïne goed",
+     "titel": "Of het nu Netanyahu of Eisenkot wordt, Palestijnen verwachten er weinig goeds van",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/live-oorlog-oekraine-amerikaanse-regering-keurt-raketverkoop-aan-oekraine-goed~ba2815bb/",
+     "link": "https://www.trouw.nl/buitenland/of-het-nu-netanyahu-of-eisenkot-wordt-palestijnen-verwachten-er-weinig-goeds-van~b35bf49d/",
      "bron": "Trouw",
-     "tijd": "21:57",
-     "sorteer": "2026-10-30T20:57:00+00:00"
+     "tijd": "22:00",
+     "sorteer": "2026-10-30T21:00:22+00:00"
+    },
+    {
+     "titel": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+     "context": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "22:13",
+     "sorteer": "2026-10-30T21:13:14+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Tusk-Nawrocki battle escalates as chief judge is ousted from Poland’s top court",
+     "context": "A bid to remove the court’s nationalist-linked leadership sparked accusations of a coup and clashes between protesters and police in Warsaw.",
+     "rubrieken": [
+      "Abortion",
+      "Courts",
+      "Polish Politics",
+      "Rule of Law",
+      "Security",
+      "Politics"
+     ],
+     "link": "https://www.politico.eu/article/tusk-nawrocki-battle-escalates-chief-judge-ousted-from-polands-top-court/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "22:12",
+     "sorteer": "2026-10-30T21:12:50+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
+     "context": "The move is part of the Canadian prime minister’s effort to reduce American influence over Canada and expand trade to other parts of the world.",
+     "rubrieken": [
+      "Canada",
+      "Europe",
+      "European Union",
+      "European Commission",
+      "European Council",
+      "Carney, Mark J",
+      "von der Leyen, Ursula",
+      "Trump, Donald J",
+      "France",
+      "Germany",
+      "International Relations",
+      "International Trade and World Market",
+      "Politics and Government",
+      "United States International Relations"
+     ],
+     "link": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
+     "bron": "New York Times",
+     "tijd": "22:08",
+     "sorteer": "2026-10-30T21:08:01+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
      "titel": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
@@ -147,35 +202,6 @@
      "bron": "BBC",
      "tijd": "21:55",
      "sorteer": "2026-10-30T20:55:18+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-     "context": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "21:41",
-     "sorteer": "2026-10-30T20:41:51+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One.",
-     "context": "I experienced war’s subterranean future as drones dominate the skies. I didn’t like it.",
-     "rubrieken": [
-      "Russian Invasion of Ukraine (2022)",
-      "Natural Gas",
-      "Pipelines",
-      "Drones (Pilotless Planes)",
-      "Ukraine",
-      "vis-photo"
-     ],
-     "link": "https://www.nytimes.com/2026/10/30/world/europe/ukraine-russia-natural-gas-pipes.html",
-     "bron": "New York Times",
-     "tijd": "21:40",
-     "sorteer": "2026-10-30T20:40:51+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -195,32 +221,6 @@
      "bron": "The Guardian",
      "tijd": "20:42",
      "sorteer": "2026-10-30T19:42:15+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Mark Carney puts deadline on EU ‘associate membership’ push",
-     "context": "Canadian prime minister backs “the deepest possible partnership” with the bloc, but questions over its cost and differences on trade remain.",
-     "rubrieken": [
-      "Energy",
-      "Negotiations",
-      "Payments",
-      "Ports",
-      "Public procurement",
-      "Trade",
-      "Agriculture and Food",
-      "Competition and Industrial Policy",
-      "Energy and Climate",
-      "Health Care",
-      "Mobility",
-      "Sustainability",
-      "Technology",
-      "Trade"
-     ],
-     "link": "https://www.politico.eu/article/mark-carney-puts-deadline-on-eu-associate-membership-push/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "20:11",
-     "sorteer": "2026-10-30T19:11:14+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -295,14 +295,13 @@
      "sorteer": "2026-10-30T13:29:00+00:00"
     },
     {
-     "titel": "Horeca voegt zich al zeventig jaar naar de tijdgeest. Maar restaurants hebben niet meer het alleenrecht op ons eetmoment",
+     "titel": "In Gemert brengen enge clowns en gillende heksen het dorp bij elkaar",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/horeca-voegt-zich-al-zeventig-jaar-naar-de-tijdgeest-maar-restaurants-hebben-niet-meer-het-alleenrecht-op-ons-eetmoment~b6986138/",
+     "link": "https://www.trouw.nl/binnenland/in-gemert-brengen-enge-clowns-en-gillende-heksen-het-dorp-bij-elkaar~b5760858/",
      "bron": "Trouw",
-     "tijd": "18:51",
-     "sorteer": "2026-10-30T17:51:00+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "tijd": "22:00",
+     "sorteer": "2026-10-30T21:00:21+00:00"
     },
     {
      "titel": "Geen demonstratie in Puttershoek, wel veel politie en één aanhouding",
@@ -312,11 +311,18 @@
      "sorteer": "2026-10-30T19:39:00+00:00"
     },
     {
-     "titel": "Twentse districtchef, vader en moslim: zo bewaakt Sezgin (52) de neutraliteit van de politie",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdm5yMjdVc0hmcVl3bUpmcU01cF9xMEVzOEE1T0xYUXVJN3BzWXRGMzVGdHFtMlUtVC1sTFZqSEpGMDZITmplUTNwQ29qb2phRGtVaDVEeThDMUJaakpkcjUtaU1DS3d5RWpvcFBCYms3dFRMbXpfaG9sLXNhckl4U0ZXWk5rME5HUUlCdVhaeDh5UWJ3dVBpWUlGek1KVGh4Rk1tMzJhb29nanN6OXUtLTcwN0RNcUZ4UU0xNzlwQUswakI4cE9xcHAwMzFUSTNw?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "19:45",
-     "sorteer": "2026-10-30T18:45:00+00:00"
+     "titel": "Nieuwe asielprognoses: iets minder asielzoekers, toch méér opvang nodig",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeW1nY1g4VEs1RW9nMUNIaEVPUHpfR1FWX0JRSElFWHNPcVpuNHBQMDA2OEdoLU9ORkRSNkl1cWtjNnNNVjVOdWEwWTN1eW85UDU2WnQwZHprMnlBNWxYUktzMXhHUFhZRklaMWNFb0U3TGtKOUJfZFhTVG95ZW9PdUNIeDBPTDV1bEF5a3VJVkVFTWtkWHhGbVRNbzVLZFA4R05Ma29VZE5PUQ?oc=5",
+     "bron": "Brabants Dagblad",
+     "tijd": "22:02",
+     "sorteer": "2026-10-30T21:02:14+00:00"
+    },
+    {
+     "titel": "Zeehondencentrum Pieterburen stelt faillissementsaanvraag voorlopig uit: ‘Overweldigende steun’",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTlJNRi1XS3lUM042WGpmS1B2REJsUVU3alQtdnJDZllKWlN4Yl9LYnYtcDdfeHE0SXdvWGIxYWpjWlY0QWFONGliR21CNHRtMmNpbnNpLTU4bnN6TnNlcWRxcGtEcjV3WHE0NGJiMHBIUnBaYjlDbnM2YmdmYVBvNm9INW9yeGlTak1URHFnZTdaZmd1cXYxNlk5eU1wNGhOWngtOV9ZU0NBYjVEbnVKMWFJUThzZlJjbV9PMW1tZ24zeWJqTUhrOEJDQmpqQjEzR1pScQ?oc=5",
+     "bron": "de Stentor",
+     "tijd": "21:57",
+     "sorteer": "2026-10-30T20:57:00+00:00"
     },
     {
      "titel": "Doorbraak in 32 jaar oude zaak: man na dna-match opgepakt voor verkrachting van 15-jarig meisje in 1994",
@@ -324,13 +330,6 @@
      "bron": "Tubantia",
      "tijd": "21:09",
      "sorteer": "2026-10-30T20:09:00+00:00"
-    },
-    {
-     "titel": "Politie gaat de mist in: onschuldige man herkenbaar op tv ‘na afpersen’ vrouw (89)",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdURPWDhEcVFyOXhpd2tEREJWQlB5Q083MC1MQUtua29KN043ZXBNNDRaMjNKT0E4bDZHbnBITkNKeFo0RDFBWS04SnBUSXk4OVFnWEpLNHpWa2RPU2x4OFZ0ZHBtclpJSk9XV19wcHAwZEV0Vk5hWkk1a05USE5Uc3hycUxCemVGLXU3STZCa0wxZFRleWtSVjk5OS1TdmRYcnY2X1JWT21BZEdpTGNJNE1vRW9sU0dvbnp0c2RpT21CalF3?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "21:00",
-     "sorteer": "2026-10-30T20:00:42+00:00"
     },
     {
      "titel": "Patrick: de man die ik niet meer kon helpen",
@@ -380,6 +379,15 @@
      "sorteer": "2026-10-30T20:32:52+00:00"
     },
     {
+     "titel": "Vrachtwagenchauffeur blokkeert spoorwegovergang bij Raalte, gelukkig let machinist op",
+     "context": "Een levensgevaarlijke situatie op het spoor, vandaag op de N348 bij Raalte. Daar blokkeerde een vrachtwagen het spoor. Dankzij de oplettendheid van de machinist van een naderende trein kon een ongeluk worden voorkomen. Dat meldt een incidentenbestrijder van ProRail op Instagram.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3713516/vrachtwagenchauffeur-blokkeert-spoorwegovergang-bij-raalte-gelukkig-let-machinist-op",
+     "bron": "RTV Oost",
+     "tijd": "21:19",
+     "sorteer": "2026-10-30T20:19:15+00:00"
+    },
+    {
      "titel": "100-jarige uit Zwolle met brandwonden naar ziekenhuis na incident met magnetron",
      "context": "Een 100-jarige vrouw is vanavond gewond geraakt toen ze iets in de magnetron wilde verwarmen. Het is niet bekend wat de vrouw in de magnetron zette, maar het begon te roken waarna de vrouw het weer uit het apparaat wilde halen.",
      "rubrieken": [],
@@ -416,13 +424,17 @@
      "sorteer": "2026-10-30T15:32:26+00:00"
     },
     {
-     "titel": "Almelo en Stadstheater weer naar de rechter om stopzetten subsidie",
-     "context": "Het Stadstheater kreeg gelijk van de rechter, maar de gemeente Almelo geeft zich niet gewonnen. De strijd over de stopgezette subsidies krijgt een nieuw hoofdstuk, met mogelijk grote gevolgen voor de schadeclaim van het theater.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3713231/almelo-en-stadstheater-weer-naar-de-rechter-om-stopzetten-subsidie",
-     "bron": "RTV Oost",
-     "tijd": "14:39",
-     "sorteer": "2026-10-30T13:39:25+00:00"
+     "titel": "Voor ons heeft hij nu al de eerste prijs",
+     "context": "DALFSEN – Terwijl de avond valt en de lichtjes aangaan, gaat onze gastreporter Ruud op zoek naar bijzondere beelden. Hij bereidt zich voor op een fotowedstrijd met het thema ‘Dalfsen by night’. Daarvoor verkent hij mooie plekken en maakt hij alvast proeffoto’s. En als u het ons vraagt: voor ons heeft hij nu al de […]",
+     "rubrieken": [
+      "Dalfsen",
+      "Ingezonden bericht",
+      "Laatste nieuws"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/555646/voor-ons-heeft-hij-nu-al-de-eerste-prijs.html",
+     "bron": "DalfsenNet",
+     "tijd": "22:33",
+     "sorteer": "2026-10-30T21:33:37+00:00"
     },
     {
      "titel": "Druk bezig met seniorenwoningen",
@@ -435,19 +447,6 @@
      "bron": "DalfsenNet",
      "tijd": "20:07",
      "sorteer": "2026-10-30T19:07:34+00:00"
-    },
-    {
-     "titel": "De druiven zijn geplukt bij wijngaard ’t Oale Huus",
-     "context": "HOONHORST – Nog niet lang geleden lieten we zien hoe de druiven bij wijngaard ’t Oale Huus groeiden. Inmiddels is het zover: de druiven zijn geplukt. Op de foto’s is te zien dat de oogst achter de rug is. Hier en daar hangt nog een enkel druifje, wellicht een lekker hapje voor de insecten die […]",
-     "rubrieken": [
-      "Hoonhorst",
-      "Laatste nieuws",
-      "Zakelijk"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/555631/de-druiven-zijn-geplukt-bij-wijngaard-t-oale-huus.html",
-     "bron": "DalfsenNet",
-     "tijd": "18:22",
-     "sorteer": "2026-10-30T17:22:55+00:00"
     }
    ]
   },
@@ -508,20 +507,6 @@
    "emoji": "🤖",
    "items": [
     {
-     "titel": "ASML-medewerkers krijgen bloemen én een waarschuwing: AI wordt volgens actiegroep steeds krachtiger",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUzJkXzNfU1lNb1BraUN4Q1VQRHdINGZDVVlQOWMtVGRIVU9lUHp1TjdJMS12d1pyb0hiVzNZUG8wTENmYkpEa3hFMlc4T0ZRcjV2dVhwQmxxVVpXTEtyN1BaUTdBWjluNjJIaFlBa2REZXJtckFURTlLb0kwaUQ2ZXJweWFYdHM5WGoxbjE0ejI3RE83N0JBY0tmNU1pQ2djbkxqMUtFYjFSU2N6UXlTYjhjR2h5ZHdwbE5yVVFRVzB4c2FyOVg1OUpoNW1CZGFBZEE?oc=5",
-     "bron": "Brabants Dagblad",
-     "tijd": "19:19",
-     "sorteer": "2026-10-30T18:19:01+00:00"
-    },
-    {
-     "titel": "Meesters zien niets in basisschool-ban voor AI: ‘Alles wordt op één hoop gegooid’",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ2ZZRjI0TEtHMXFZbWU1UnU2QXNlbDNseHhkVzZpZDF6LW1KdUQ2NXo2bGNrMTB1MElNZlJScVo1WXJYbV9SdmY4UnNLcGV2X1FzQ2lrdExFYWFYaGc5M2lXSm5QdXM5VUlkZC1zdXpFdUlHa0U1N1ZqOHVqc1NXUWUwY0E0LWRoc2w0UEpjSHNCY0dhekRMSHM1TWlPb05FbklNRHlLajZBWHA4Q3dzbDJLdmItN2FzOWxIN0VWZThyd241cVE?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "16:30",
-     "sorteer": "2026-10-30T15:30:04+00:00"
-    },
-    {
      "titel": "Tweede Kamer wil streng ingrijpen op de basisschool, maar leraren vrezen AI-paniek",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObFpLV1BXbVFRakNhLXM0cWRFQ3d5Zk5yZUF0S2k5QXJvVnEyaFNoM0FtN1B5NmZtc3BQbmtsVVB0eDlteWh4a3FvczVaS0QxbHQtYkFlNGlRcXZOdHJkcDRVMnpYYXAxMXprS3lQQ0VEUllGbE91N0NzS3d5TTNldDZXNkt1QzBlMXVBUXpqVUFXUWlGSHlMU0ROY2ZjRVlqM3Z1QnVYTkNzRHl6Z21WTmVRZGlzTUx3dEphV0l5MGJCdVdKT2c?oc=5",
      "bron": "de Stentor",
@@ -529,11 +514,11 @@
      "sorteer": "2026-10-30T15:30:00+00:00"
     },
     {
-     "titel": "Kamer wil verbod op gebruik van chatbots op basisschool, staatsecretaris steunt plan nog niet",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOckVqbWJPbk1UdGFxckRVS001ck81OHBxSUZfTURsRmFKTzhNWl9EdkxBeFNyUDZObUdtTHlISlVKMG5wdlE1dkc1Zk1TM2ZKTUR6cFplbmpFZjRvd3NQNURjUEhkMWxiR1FEenJYUHpNaklYX3Jrc1UxX2t6SmNHSk1zY2x2MVNhY25ZeldKUkhLMGMxc3NIRFRocTZsN012eHc2NXZhUTZCU1FKeGcyYjBWQUFfSmdRYnVDOWhJRy03UndYdG43Sg?oc=5",
-     "bron": "AD.nl",
-     "tijd": "15:56",
-     "sorteer": "2026-10-30T14:56:19+00:00"
+     "titel": "Opinie: Docenten kunnen er niet omheen: leerlingen gebruiken gewoon AI",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGRESFdWS2FEVkdSZVZMTldaXzdGaEk4aXJROUFHT3YyTmY5RXhjeFBPc1Exck9Ta1NPNGczRUtzWkg1VEhYSUt5U0UzdkRfWEljajRpUE1CaDBaMzdDU3VVeUpFbkpELTNsbzdneXBBYXhyTzRBQUxacDExZzlsc0lZOWY3N2l4VXliWEE3dUdseXVVdjlPck5ZUXdPa0NBem1DVkYtUV9JZjA?oc=5",
+     "bron": "Trouw",
+     "tijd": "22:00",
+     "sorteer": "2026-10-30T21:00:23+00:00"
     },
     {
      "titel": "Camera Club Wageningen toont fotografie met AI in de bblthk",
@@ -543,11 +528,11 @@
      "sorteer": "2026-10-30T19:44:00+00:00"
     },
     {
-     "titel": "AI zet het kat-en-muisspel tussen ontwikkelaars en hackers in een hogere versnelling",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaUZNU1VCRm5SWEc4Q3ktY3d4SDlIY2VlQWFXTjdqTVZ3c0hKekpoRUg5ME5FYmFXS3Y3djRwNDlzcmNGZC1SSUtCSFdZRmZWM2YtUUxzUjJfSVNMVmlKZ1N3Y19fN1dWcGxmX2xoUXRYMXdKUzhFM3RvejRfc29hWE5peGpEVGxVelBPci1DQzFBVThFa2lMVlM3Y2FBQ0RLellNcVpWaDhOU3I1Qks0?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "19:20",
-     "sorteer": "2026-10-30T18:20:29+00:00"
+     "titel": "ASML-medewerkers krijgen bloemen én een waarschuwing: AI wordt volgens actiegroep steeds krachtiger",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa3J4SGRQTV8zT2k5S3R4M1dvVjlOMXNSajE4NUw4OWc5bWE4ZHM4SVFic2I1aHVWMFgwUnkxQXowcjN4MFBTNDlSR2U0eWVpc2plSWtvVHNBZmJzU0NkY2g3eEJ0R05PeUV1QWc2aTYtVlNfQVRSXzU4VUdtTHl0bkkzcEtuU3FkRFZBNzd6RVJSOHVDWlJ0OW5veDZWQ1IwaFJGb0Rnai1BYngwRE4yLXZNVTR6NlJmdC1YcGRuUTJQdEYwN1VWNExxMEJGZXJhYVE?oc=5",
+     "bron": "AD.nl",
+     "tijd": "19:19",
+     "sorteer": "2026-10-30T18:19:01+00:00"
     }
    ]
   },
@@ -834,31 +819,31 @@
     },
     {
      "kop": "Verwachting",
-     "titel": "Morgen — telpost 7, kraanvogels en ganzen 5, zeetrek 2",
-     "bron": "zuidoostenwind, de beste richting voor een telpost",
+     "titel": "Morgen — telpost 7, kraanvogels en ganzen 7, zeetrek 2",
+     "bron": "oostenwind, de beste richting voor een telpost",
      "tijd": "",
      "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (07:29) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
+     "toelichting": "Zangvogels vanaf zonsopkomst (07:29) tot een uur of drie daarna; het eerste uur is het drukst. Kraanvogels en ganzen de hele dag, vaak juist 's middags. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
     },
     {
      "kop": "Verwachting",
-     "titel": "Zondag 1 nov — telpost 3, kraanvogels en ganzen 4, zeetrek 2",
-     "bron": "wind uit het noordwesten; windstil, dus hoog en verspreid",
+     "titel": "Zondag 1 nov — telpost 4, kraanvogels en ganzen 4, zeetrek 2",
+     "bron": "wind uit het noordwesten",
      "tijd": "",
      "link": "https://www.trektellen.org/",
      "toelichting": "Zangvogels vanaf zonsopkomst (07:31) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
     },
     {
      "kop": "Verwachting",
-     "titel": "Maandag 2 nov — telpost 5, kraanvogels en ganzen 4, zeetrek 2",
-     "bron": "zwakke noordenwind",
+     "titel": "Maandag 2 nov — telpost 7, kraanvogels en ganzen 7, zeetrek 2",
+     "bron": "zwakke noordoostenwind; het regende vannacht en het klaart op — opgehoopte trek",
      "tijd": "",
      "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (07:32) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: ganzen, lijsters, houtduiven en barmsijzen."
+     "toelichting": "Zangvogels vanaf zonsopkomst (07:32) tot een uur of drie daarna; het eerste uur is het drukst. Kraanvogels en ganzen de hele dag, vaak juist 's middags. Te verwachten: ganzen, lijsters, houtduiven en barmsijzen."
     },
     {
      "kop": "Verwachting",
-     "titel": "Dinsdag 3 nov — telpost 6, kraanvogels en ganzen 7, zeetrek 2",
+     "titel": "Dinsdag 3 nov — telpost 6, kraanvogels en ganzen 7, zeetrek 1",
      "bron": "noordoostenwind, de beste richting voor een telpost",
      "tijd": "",
      "link": "https://www.trektellen.org/",
