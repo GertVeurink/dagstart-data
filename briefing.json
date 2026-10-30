@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "21:42",
-  "blokken": 11,
-  "berichten": 106,
+  "opgehaald": "21:56",
+  "blokken": 10,
+  "berichten": 103,
   "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-10-30T21:42+01:00",
+ "opgehaald": "2026-10-30T21:56+01:00",
  "audio": "audio/20261030.mp3",
  "afval": [
   {
@@ -131,13 +131,35 @@
      "sorteer": "2026-10-30T19:28:00+00:00"
     },
     {
-     "titel": "Op de stoeltjes van premier Rama gaan protesterende jongeren liever niet zitten",
+     "titel": "Recordaantal vervroegde stemmen voor Amerikaanse midterms",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/op-de-stoeltjes-van-premier-rama-gaan-protesterende-jongeren-liever-niet-zitten~b4119e22/",
+     "link": "https://www.trouw.nl/buitenland/live-vs-recordaantal-vervroegde-stemmen-voor-amerikaanse-midterms~bbc0cf3d/",
      "bron": "Trouw",
-     "tijd": "20:58",
-     "sorteer": "2026-10-30T19:58:00+00:00"
+     "tijd": "21:51",
+     "sorteer": "2026-10-30T20:51:00+00:00"
+    },
+    {
+     "titel": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+     "context": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "21:55",
+     "sorteer": "2026-10-30T20:55:18+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+     "context": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "21:41",
+     "sorteer": "2026-10-30T20:41:51+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
      "titel": "Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One.",
@@ -154,28 +176,6 @@
      "bron": "New York Times",
      "tijd": "21:40",
      "sorteer": "2026-10-30T20:40:51+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "US tech stocks see sharp falls as AI spending nears $1tn",
-     "context": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "21:34",
-     "sorteer": "2026-10-30T20:34:46+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-     "context": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "21:10",
-     "sorteer": "2026-10-30T20:10:56+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -515,25 +515,11 @@
      "sorteer": "2026-10-30T18:19:01+00:00"
     },
     {
-     "titel": "Meesters zien niets in basisschool-ban voor AI: ‘Alles wordt op één hoop gegooid’",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ2ZZRjI0TEtHMXFZbWU1UnU2QXNlbDNseHhkVzZpZDF6LW1KdUQ2NXo2bGNrMTB1MElNZlJScVo1WXJYbV9SdmY4UnNLcGV2X1FzQ2lrdExFYWFYaGc5M2lXSm5QdXM5VUlkZC1zdXpFdUlHa0U1N1ZqOHVqc1NXUWUwY0E0LWRoc2w0UEpjSHNCY0dhekRMSHM1TWlPb05FbklNRHlLajZBWHA4Q3dzbDJLdmItN2FzOWxIN0VWZThyd241cVE?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "16:30",
-     "sorteer": "2026-10-30T15:30:04+00:00"
-    },
-    {
      "titel": "Tweede Kamer wil streng ingrijpen op de basisschool, maar leraren vrezen AI-paniek",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObFpLV1BXbVFRakNhLXM0cWRFQ3d5Zk5yZUF0S2k5QXJvVnEyaFNoM0FtN1B5NmZtc3BQbmtsVVB0eDlteWh4a3FvczVaS0QxbHQtYkFlNGlRcXZOdHJkcDRVMnpYYXAxMXprS3lQQ0VEUllGbE91N0NzS3d5TTNldDZXNkt1QzBlMXVBUXpqVUFXUWlGSHlMU0ROY2ZjRVlqM3Z1QnVYTkNzRHl6Z21WTmVRZGlzTUx3dEphV0l5MGJCdVdKT2c?oc=5",
-     "bron": "de Stentor",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONXg5YXlXUlRfQmJyTU1YaTc3M0FldGdZTUJjMndOOTRyR3VXaUJFcTFMU1A2QTVNTkdqRmJjRWMySjc3ekdxek1xc2FyNW04dDVCOHJlMU9VQWtJRHRQWFIwbUgtVmU5Yy0wYzFOQ3VXLWpLX0wzODc1NEI1Q3RwQVFJdTc4ak9uTGJqN0QxUXhSNmFnQk9WUGs4a2x0b3ZmLWVmTHAwV1RxQ1RpWGQtYnNFVVhqbm1qQnNMbA?oc=5",
+     "bron": "AD.nl",
      "tijd": "16:30",
      "sorteer": "2026-10-30T15:30:00+00:00"
-    },
-    {
-     "titel": "Kamer wil verbod op gebruik van chatbots op basisschool, staatsecretaris steunt plan nog niet",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOckVqbWJPbk1UdGFxckRVS001ck81OHBxSUZfTURsRmFKTzhNWl9EdkxBeFNyUDZObUdtTHlISlVKMG5wdlE1dkc1Zk1TM2ZKTUR6cFplbmpFZjRvd3NQNURjUEhkMWxiR1FEenJYUHpNaklYX3Jrc1UxX2t6SmNHSk1zY2x2MVNhY25ZeldKUkhLMGMxc3NIRFRocTZsN012eHc2NXZhUTZCU1FKeGcyYjBWQUFfSmdRYnVDOWhJRy03UndYdG43Sg?oc=5",
-     "bron": "AD.nl",
-     "tijd": "15:56",
-     "sorteer": "2026-10-30T14:56:19+00:00"
     },
     {
      "titel": "Camera Club Wageningen toont fotografie met AI in de bblthk",
@@ -732,22 +718,6 @@
      "tijd": "donderdag 5/11 14:00",
      "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07408",
      "sorteer": "2026-11-05T14:00"
-    }
-   ]
-  },
-  {
-   "id": "podcasts",
-   "titel": "Podcasts",
-   "emoji": "🎧",
-   "items": [
-    {
-     "titel": "AI Could Give You 1,000 Hours Back. Then What? - Erika Debrah Reed",
-     "context": "AI and the future of work are usually discussed in terms of jobs, productivity, and disruption. Erika Debrah Reed wants us to ask a different question: what if AI gives us our time back? In this episode of Beginner's Guide to AI , Dietmar Fischer talks with Erika, author of The Gift of Time: How AI Transforms Your Purpose and Our World , about a future in which AI doesn't live only on our laptops.",
-     "rubrieken": [],
-     "link": "https://shows.acast.com/beginners-guide-to-ai/episodes/ai-could-give-you-1000-hours-back-then-what-erika-debrah-ree",
-     "bron": "A Beginner's Guide to AI",
-     "tijd": "21:43",
-     "sorteer": "2026-10-29T20:43:38+00:00"
     }
    ]
   },
@@ -1008,7 +978,7 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Trek komt op gang — vandaag 64 meldingen, samen 13.681 vogels",
+     "titel": "Trek komt op gang — vandaag 65 meldingen, samen 14.531 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -1023,8 +993,8 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "26 meldingen vertrek uit het noorden",
-     "bron": "DE 26",
+     "titel": "27 meldingen vertrek uit het noorden",
+     "bron": "DE 27",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -1055,8 +1025,8 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 8.2,
-    "gevoel": 6.7,
+    "nu": 8.1,
+    "gevoel": 6.6,
     "wind": "ONO 2",
     "station": "Heino",
     "bericht": "Het weekend verloopt vrij grijs met mist en laaghangende bewolking. Op zaterdag komt in het zuiden de zon er nog even bij, op zondag kan het in het oosten wat motregenen. Na het weekend aanhoudend rustig herfstweer met temperaturen rond het gemiddelde voor de tijd van het jaar.",
