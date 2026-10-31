@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "19:00",
-  "blokken": 10,
-  "berichten": 95,
+  "opgehaald": "20:00",
+  "blokken": 11,
+  "berichten": 96,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-10-31T19:00+01:00",
+ "opgehaald": "2026-10-31T20:00+01:00",
  "audio": "audio/20261031.mp3",
  "afval": [
   {
@@ -68,6 +68,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Macht van Vucic neemt af: huisbank van Servische staat valt om",
+     "context": "De gestage afname van de macht van de kliek rond voormalig president Aleksandar Vucic van Servië heeft ook de financiële sector bereikt. De centrale bank van Servië (NBS) heeft vannacht de vergunning ingetrokken van de Alta Banka, tot vandaag de huisbank van de Servische staat. De liquiditeit van de Alta Banka was ondanks recente ingrepen onvoldoende, schrijft toezichthouder NBS, ofwel de belangen",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637491",
+     "bron": "NOS",
+     "tijd": "19:04",
+     "sorteer": "2026-10-31T19:04:21+01:00"
+    },
+    {
      "titel": "Protest in tientallen Franse en Duitse steden, rellen in Parijs en Keulen",
      "context": "In tientallen Franse steden is voor het derde weekend op rij gedemonstreerd. Veruit de grootste betoging was in Parijs, met volgens de politie zo'n 70.000 deelnemers. In verschillende steden is inmiddels sprake van rellen en zet de politie traangas in. Daarnaast zijn er ook in zeker dertig Duitse steden jongerenprotesten geweest. Verspreid over Duitsland waren er vele duizenden deelnemers. Zo ware",
      "rubrieken": [],
@@ -104,13 +113,13 @@
      "sorteer": "2026-10-31T14:02:30+01:00"
     },
     {
-     "titel": "Lufthansa-bemanningslid overleden na electrocutie in zwembad India",
-     "context": "Een 57-jarig bemanningslid van de Duitse luchtvaartmaatschappij Lufthansa is gisteren overleden toen hij in een hotelzwembad in de Indiase stad Bengaluru werd geëlektrocuteerd. Ook een tweede persoon kwam daarbij om het leven. Rond 17.30 uur lokale tijd kwam het zwembad op de derde verdieping van het Conrad Hotel onder stroom te staan. Er wordt nog onderzocht hoe dat precies heeft kunnen gebeuren.",
+     "titel": "Nieuwe aanvallen VS op Iran nog onzeker, zegt Rubio",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2637427",
-     "bron": "NOS",
-     "tijd": "12:47",
-     "sorteer": "2026-10-31T12:47:15+01:00"
+     "link": "https://www.volkskrant.nl/buitenland/nieuwe-aanvallen-vs-op-iran-nog-onzeker-zegt-rubio~b7a280d3/",
+     "bron": "de Volkskrant",
+     "tijd": "19:22",
+     "sorteer": "2026-10-31T18:22:00+00:00"
     },
     {
      "titel": "Xi’s zuiveringen zorgen voor recordaantal absenties bij de Chinese Communistische Partij",
@@ -122,15 +131,6 @@
      "sorteer": "2026-10-31T14:43:00+00:00"
     },
     {
-     "titel": "500 Patriot-raketten van VS deze winter nog niet ingezet, waar­schuwt Zelensky: ‘Leveringen beginnen pas over paar jaar’",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/500-patriot-raketten-van-vs-deze-winter-nog-niet-ingezet-waar-schuwt-zelensky-leveringen-beginnen-pas-over-paar-jaar~bde4fbe2/",
-     "bron": "de Volkskrant",
-     "tijd": "14:35",
-     "sorteer": "2026-10-31T13:35:00+00:00"
-    },
-    {
      "titel": "Grote verbijstering. Aardige mensen stemmen toch niet op Bolsonaro?!?",
      "context": "",
      "rubrieken": [],
@@ -140,23 +140,30 @@
      "sorteer": "2026-10-31T17:46:00+00:00"
     },
     {
-     "titel": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
-     "context": "A move to join Saudi Arabia’s agreement with Turkey and Pakistan could entangle more countries in the kingdom’s escalating conflict between the Iran-backed Houthis.",
-     "rubrieken": [
-      "War and Armed Conflicts",
-      "US and Israeli Attack on Iran (2026)",
-      "International Relations",
-      "Defense and Military Forces",
-      "United States International Relations",
-      "Deaths (Fatalities)",
-      "Syria",
-      "Saudi Arabia",
-      "Yemen"
-     ],
-     "link": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
+     "titel": "Live Updates: Hundreds of Thousands Join Another Round of Protests in France",
+     "context": "The interior ministry estimated that 320,000 people had demonstrated nationwide, a smaller number than the previous two Saturdays. The police and protesters clashed in Paris and other cities.",
+     "rubrieken": [],
+     "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
      "bron": "New York Times",
-     "tijd": "18:56",
-     "sorteer": "2026-10-31T17:56:18+00:00",
+     "tijd": "19:38",
+     "sorteer": "2026-10-31T18:38:21+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
+     "context": "France’s interior minister, Laurent Nuñez, has warned protesters that covering their faces with Halloween costumes could result in fines Protesters in Paris have begun marching from Porte de Bagnolet, with demonstrations also taking place in Lille and Lyon . Crowds of people have gathered in Paris for the protests, where two French student unions have called for a blockade of schools and universit",
+     "rubrieken": [
+      "Europe",
+      "France",
+      "World news",
+      "Activism",
+      "Germany"
+     ],
+     "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
+     "bron": "The Guardian",
+     "tijd": "19:31",
+     "sorteer": "2026-10-31T18:31:38+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -187,23 +194,6 @@
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
-     "context": "France’s interior minister, Laurent Nuñez, has warned protesters that covering their faces with Halloween costumes could result in fines Protesters in Paris have begun marching from Porte de Bagnolet, with demonstrations also taking place in Lille and Lyon . Crowds of people have gathered in Paris for the protests, where two French student unions have called for a blockade of schools and universit",
-     "rubrieken": [
-      "Europe",
-      "France",
-      "World news",
-      "Activism",
-      "Germany"
-     ],
-     "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
-     "bron": "The Guardian",
-     "tijd": "18:27",
-     "sorteer": "2026-10-31T17:27:30+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
      "titel": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
      "context": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
      "rubrieken": [],
@@ -223,7 +213,7 @@
    "items": [
     {
      "titel": "Tien aanhoudingen in Den Haag, maar geen grote demonstraties in steden",
-     "context": "In Den Haag zijn zeker tien aanhoudingen verricht op en rond het Malieveld. De mensen zijn aangehouden omdat ze gezichtsbedekking droegen of in het bezit waren van illegaal vuurwerk, zegt een politiewoordvoerder. In de stad is veel politie op de been vanwege mogelijke jongerenprotesten. Op verschillende plekken worden mensen gefouilleerd en moeten ze een identiteitsbewijs tonen. Dat gebeurt onder ",
+     "context": "In Den Haag is het weer rustig na een onrustige dag. Hoewel de plunderingen waarvoor gevreesd werd, zijn uitgebleven, zijn er zeker tien aanhoudingen verricht op en rond het Malieveld. Er werden mensen aangehouden omdat ze gezichtsbedekking droegen of in het bezit waren van illegaal vuurwerk, zegt een politiewoordvoerder. In de stad was veel politie op de been vanwege mogelijke jongerenprotesten. ",
      "rubrieken": [],
      "link": "https://nos.nl/l/2637449",
      "bron": "NOS",
@@ -232,7 +222,7 @@
     },
     {
      "titel": "Verstandelijk beperkte man ontvoerd en mishandeld na afspraak op datingapp",
-     "context": "Een groepje twintigers wordt verdacht van het mishandelen en vernederen van ten minste twee mensen die zij benaderden via een datingapp. Een van de slachtoffers is ook ontvoerd. Dit slachtoffer is een 61-jarige man uit Schiedam. Hij werd vorige maand meegenomen uit zijn huis en een nacht vastgehouden in Amsterdam. Daar is hij ook mishandeld. Zijn haar en wenkbrauwen zijn deels afgeschoren. Zijn ne",
+     "context": "Een groepje twintigers wordt verdacht van het mishandelen en vernederen van ten minste twee mensen die zij benaderden via een datingapp. Een van de slachtoffers is ook ontvoerd. Het ontvoerde slachtoffer is een 61-jarige man uit Schiedam. Hij werd vorige maand meegenomen uit zijn huis en een nacht vastgehouden in Amsterdam. Daar is hij ook mishandeld. Zijn haar en wenkbrauwen zijn deels afgeschore",
      "rubrieken": [],
      "link": "https://nos.nl/l/2637423",
      "bron": "NOS",
@@ -301,11 +291,11 @@
      "sorteer": "2026-10-31T17:13:05+00:00"
     },
     {
-     "titel": "Dit is de ’future queens club’ van prinses Amalia: de meest exclusieve app-groep ter wereld",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRGVpa0gyVHVwUHFTbnkzcG1fSjBWb0lVVGxoa3ZwazRob1hwLVhXc29TZTJiaDVZSHZHb0lONk5mUXNBTV9pX2t1SWNCTEotdzc2MU85QmI4cmZiaU5obE5OMnFXZzhqd2xzYUpyZXgyTy1Tc3JQTzhUQmxWNXhJckhhbWlxMFVyaGM2NFRxOUtMd25TVTIzY21JM3B4VmJTQ0xyNUdybi0zWTZTNlVsSE1oX1h2NEtWQVR6SEY0VEZvNDRhajQ3MzEtcmswRW1yZjhmQU95S0tKZFFMdmRCeG9Sdw?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "17:31",
-     "sorteer": "2026-10-31T16:31:43+00:00"
+     "titel": "Flinke schade na aanrijding op kruising in Arnhem",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVDhlWEFIOXlOQ0Zaa1luWEhuOUF6c3Bvd3NLMEx1T3pUbWtnbzNVVXBQTGJTN1ZzYnRyaFFEZ2cwOVhGejVnN0VDVXFmSy1zRlp2Nmtqb3kwT3E2bVRJc2FuZF9uQ0FBbWZGenBPWDhMc3R1eUJob0pybG1rR3dhRlpROHZHVlpucmZIRTNrTmJ4QWdGd2k0ZUpjVXFLaEFVZ1pTRnQtSFU?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "18:12",
+     "sorteer": "2026-10-31T17:12:22+00:00"
     },
     {
      "titel": "Prins Maurits verkoopt herenhuis bij Vondelpark in Amsterdam en strijkt miljoenen euro’s winst op",
@@ -315,7 +305,7 @@
      "sorteer": "2026-10-31T16:31:36+00:00"
     },
     {
-     "titel": "Vrouw en broer (38) schetsen beeld van Sohib H. die verdacht wordt van ronselen en witwassen",
+     "titel": "Vrouw en broer schetsen beeld van raadslid Sohib H., die verdacht wordt van ronselen en witwassen",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOclNSVDNtUjBlTXRiemhCX1JmbFhCWnBSTTVtWVJvcHpKOXlueU5xNUtzNDhSbURfWnhGQ2NXelhSaEdwaHlNN3o4ZDM2T3hpaUJTTEVvdkxXUUo1Y1FEclY3MENuRnBRSWxDV3dwVWVDOHVNTDgybzFKNWdncV8zU09EUnBSdWFCSEZQWTZUR05UTnJzRVBtYnY0dkQ2OG91ejZKbEJsdWI0dzV2WFVPYW50eHV6MllGbVZrNGZjZXluOHBiTndSUlh5NWJWMzQ1?oc=5",
      "bron": "de Stentor",
      "tijd": "17:30",
@@ -338,6 +328,15 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Man valt agenten aan als ze hem terugbrengen naar verzorgingshuis: 'Ik ga niet mee!'",
+     "context": "In de tiende aflevering van De Wijkpatrouille krijgen wijkagenten Willeke en Meindert een melding over een oudere man die in de kou is weggelopen uit zijn verzorgingshuis. De man vertoont onbegrepen gedrag en wil niet terug. Wanneer de agenten hem proberen mee te nemen, loopt de situatie uit de hand.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3710003/man-valt-agenten-aan-als-ze-hem-terugbrengen-naar-verzorgingshuis-ik-ga-niet-mee",
+     "bron": "RTV Oost",
+     "tijd": "19:02",
+     "sorteer": "2026-10-31T18:02:00+00:00"
+    },
     {
      "titel": "Bert schreef voor Toontje Lager klassiekers die we bijna niet hadden gekend",
      "context": "Klassiekers als 'Net als in de film' of 'Stiekem met je gedanst' waren bijna geen deel van de Nederlandse muziekgeschiedenis geweest. Toontje Lager zou de instrumenten al bijna aan de wilgen hangen toen het label van Johnny Hoes de band binnenhaalde, herinnert liedjesschrijver Bert Hermelink zich.",
@@ -375,15 +374,6 @@
      "bron": "RTV Oost",
      "tijd": "16:37",
      "sorteer": "2026-10-31T15:37:38+00:00"
-    },
-    {
-     "titel": "Gezellig een bordspelletje? Bij Ankie vloog het Risk-bord weleens over tafel",
-     "context": "Fans van bordspelletjes konden vandaag hun hart ophalen in de bibliotheek van Almelo. Omdat het Nationale Spellenweek is, werd daar een heus bordspellenfestijn gehouden. Tientallen spelfanaten, van jong tot oud, kwamen erop af.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3713425/gezellig-een-bordspelletje-bij-ankie-vloog-het-risk-bord-weleens-over-tafel",
-     "bron": "RTV Oost",
-     "tijd": "16:00",
-     "sorteer": "2026-10-31T15:00:00+00:00"
     },
     {
      "titel": "Meerdere gewonden bij ernstig ongeval in Almelo",
@@ -470,6 +460,21 @@
      "kop": "Europol",
      "tijd": "",
      "link": "https://www.europol.europa.eu/media-press/newsroom/news/5th-empact-hackathon-leads-to-detection-of-51-potential-victims"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "titel": "AI",
+   "emoji": "🤖",
+   "items": [
+    {
+     "titel": "ASML-medewerkers krijgen bloemen én een waarschuwing: AI wordt volgens actiegroep steeds krachtiger",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa3J4SGRQTV8zT2k5S3R4M1dvVjlOMXNSajE4NUw4OWc5bWE4ZHM4SVFic2I1aHVWMFgwUnkxQXowcjN4MFBTNDlSR2U0eWVpc2plSWtvVHNBZmJzU0NkY2g3eEJ0R05PeUV1QWc2aTYtVlNfQVRSXzU4VUdtTHl0bkkzcEtuU3FkRFZBNzd6RVJSOHVDWlJ0OW5veDZWQ1IwaFJGb0Rnai1BYngwRE4yLXZNVTR6NlJmdC1YcGRuUTJQdEYwN1VWNExxMEJGZXJhYVE?oc=5",
+     "bron": "AD.nl",
+     "tijd": "19:05",
+     "sorteer": "2026-10-31T18:05:12+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
     }
    ]
   },
@@ -670,6 +675,13 @@
      "sorteer": "2026-10-31T11:00:00+00:00"
     },
     {
+     "titel": "Schillen en stronken verdwijnen in de gft-bak, maar zitten vaak vol vezels",
+     "toelichting": "Schillen, stronken en zaadlijsten verdwijnen in de meeste keukens zonder er twee keer bij na te denken in de groene bak. Bij tien van de twaalf onderzochte groente- en fruitsoorten gooi je daarmee juist het deel met de m",
+     "bron": "Scientias",
+     "tijd": "19:00",
+     "link": "https://scientias.nl/schillen-en-stronken-verdwijnen-in-de-gft-bak-maar-zitten-vaak-vol-vezels/"
+    },
+    {
      "titel": "Wat vogelzang ons kan vertellen over onze eigen stem",
      "toelichting": "Vogels en mensen maken heel andere geluiden. Toch volgen onze spraak en hun zang vaak verrassend vergelijkbare patronen. Schrijf je in voor de nieuwsbrief! Ook elke dag vers het laatste wetenschapsnieuws in je inbox? Of ",
      "bron": "Scientias",
@@ -677,11 +689,12 @@
      "link": "https://scientias.nl/wat-vogelzang-ons-kan-vertellen-over-onze-eigen-stem/"
     },
     {
-     "titel": "Slapen spinnen op dezelfde manier als mensen en andere gewervelde dieren dat doen?",
-     "toelichting": "Kijkt die spin in de hoek van je kamer je echt altijd aan? Nee. Het blijkt dat deze geleedpotigen ook slapen. Mensen en de meeste andere gewervelde dieren hebben verschillende slaapstadia met verschillende functies. De R",
-     "bron": "Scientias",
-     "tijd": "17:00",
-     "link": "https://scientias.nl/slapen-spinnen-op-dezelfde-manier-als-mensen-en-andere-gewervelde-dieren-dat-doen/"
+     "titel": "Environmental defenders testify about attacks in Latin America linked to Canadian mining companies",
+     "toelichting": "The Inter-American Commission on Human Rights heard testimony Oct. 27 from representatives of six countries alleging harm linked to Canadian mining companies’ operations, including four alleged attacks on environmental d",
+     "bron": "Mongabay (Engels)",
+     "tijd": "19:16",
+     "link": "https://news.mongabay.com/2026/10/environmental-defenders-testify-about-attacks-in-latin-america-linked-to-canadian-mining-companies/",
+     "sorteer": "2026-10-31T18:16:46+00:00"
     },
     {
      "titel": "Leaders grapple with finance and harmful subsidies at UN’s COP17 biodiversity conference",
@@ -690,14 +703,6 @@
      "tijd": "08:07",
      "link": "https://news.mongabay.com/2026/10/leaders-grapple-with-finance-and-harmful-subsidies-at-uns-cop17-biodiversity-conference/",
      "sorteer": "2026-10-31T07:07:34+00:00"
-    },
-    {
-     "titel": "World Lemur Day: How can we save these primates’ forest homes?",
-     "toelichting": "More than 100 known species of lemurs live in Madagascar. These primates with large eyes, a pointed snout, and long bushy tails are found only in the island country, where they usually live in large groups on trees. Lemu",
-     "bron": "Mongabay (Engels)",
-     "tijd": "00:57",
-     "link": "https://news.mongabay.com/short-article/2026/10/world-lemur-day-how-can-we-save-these-primates-forest-homes/",
-     "sorteer": "2026-10-30T23:57:53+00:00"
     }
    ]
   },
@@ -724,8 +729,8 @@
     },
     {
      "kop": "Verwachting",
-     "titel": "Morgen — telpost 1, kraanvogels en ganzen 1, zeetrek 2",
-     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten; windstil, dus hoog en verspreid",
+     "titel": "Morgen — telpost 6, kraanvogels en ganzen 1, zeetrek 2",
+     "bron": "zwakke noordenwind",
      "tijd": "",
      "link": "https://www.trektellen.org/",
      "toelichting": "Zangvogels vanaf zonsopkomst (07:31) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
@@ -913,11 +918,11 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Trek komt op gang — vandaag 93 meldingen, samen 8.199 vogels",
+     "titel": "Trek komt op gang — vandaag 97 meldingen, samen 16.205 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "gelijk aan de dag ervoor (86) · afgelopen week gemiddeld 134 per dag"
+     "vergelijking": "gelijk aan de dag ervoor (87) · afgelopen week gemiddeld 134 per dag"
     },
     {
      "kop": "Kraanvogels",
@@ -928,8 +933,8 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "51 meldingen vertrek uit het noorden",
-     "bron": "DE 51",
+     "titel": "52 meldingen vertrek uit het noorden",
+     "bron": "DE 52",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -960,13 +965,13 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 9.4,
-    "gevoel": 9.4,
-    "wind": "OZO 0",
+    "nu": 9.6,
+    "gevoel": 9.6,
+    "wind": "ONO 0",
     "station": "Heino",
-    "bericht": "Onder de flanken van een hogedrukgebied is het rustig weer, maar niet perse fraai. Grijze luchten bepalen het weerbeeld zondag en ook aan het begin van de week heeft de zon het nog moeilijk. Vanavond loopt de scheur waarin het breed was opgeklaard weer geleidelijk dicht op de meeste plekken.",
+    "bericht": "Onder de flanken van een hogedrukgebied is het rustig weer, maar niet per se fraai. Grijze luchten bepalen het weerbeeld zondag en ook aan het begin van de week heeft de zon het nog moeilijk. Vanavond loopt de scheur waarin het breed was opgeklaard weer geleidelijk dicht op de meeste plekken.",
     "vandaag": "Vanavond loopt de scheur waarin het breed was opgeklaard weer geleidelijk dicht op de meeste plekken. Vannacht raakt het op de meeste plekken bewolkt.",
-    "temperatuur": "In de middag komt de temperatuur rond 13 gradenDe dagen erna d",
+    "temperatuur": "In de middag komt de temperatuur rond 13 graden uit.",
     "dalfsen": {
      "zin": "Voor Dalfsen zelf: 7 tot 12 graden, droog, weinig zon, wind uit het oosten, kracht 2.",
      "max": 12,
