@@ -3,13 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "09:00",
+  "opgehaald": "10:00",
   "blokken": 11,
-  "berichten": 90,
+  "berichten": 96,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-10-31T09:00+01:00",
+ "opgehaald": "2026-10-31T10:00+01:00",
  "audio": "audio/20261031.mp3",
  "afval": [
   {
@@ -68,6 +68,24 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Impasse over VN-vredesmissie Westelijke Sahara: Rusland en VS vetoën elkaars voorstel",
+     "context": "Rusland en de Verenigde Staten hebben een veto uitgesproken over elkaars resolutie over de verlenging van de VN-vredesmissie in de Westelijke Sahara. Hiermee dreigt een einde te komen aan de aanwezigheid van VN-militairen en waarnemers in het gebied. Het mandaat voor de missie loopt officieel vandaag af. Normaal gesproken werd de missie sinds 1991 vrij routinematig verlengd, maar dit keer verliep ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637410",
+     "bron": "NOS",
+     "tijd": "09:52",
+     "sorteer": "2026-10-31T09:52:10+01:00"
+    },
+    {
+     "titel": "Frankrijk zet zich schrap voor 'Halloween'-protesten",
+     "context": "In Frankrijk zetten de aanhoudende protesten de toch al diepe kloof tussen radicaal-links en radicaal-rechts verder op scherp. Terwijl het land zich vandaag opmaakt voor het derde grote protestweekend op rij, verandert de dynamiek van de demonstraties. Naast de onvrede over het onderwijs en de stijgende levenskosten is er voor een deel van de demonstranten een nieuwe aanleiding om de straat op te ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637409",
+     "bron": "NOS",
+     "tijd": "09:12",
+     "sorteer": "2026-10-31T09:12:07+01:00"
+    },
+    {
      "titel": "Hebron al ruim een week grotendeels afgesloten, duizenden Palestijnen verdreven",
      "context": "De stad Hebron op de bezette Westelijke Jordaanoever is al ruim een week grotendeels afgesloten door het Israëlische leger. Duizenden Palestijnen zijn verdreven en het leger sloopt er woningen. Het is een reactie op de schietpartij bij een checkpoint in de buurt van de stad waarbij vorige week twee Israëlische militairen werden gedood. \"Sommige inwoners verblijven bij vrienden of familie, anderen ",
      "rubrieken": [],
@@ -93,24 +111,6 @@
      "bron": "NOS",
      "tijd": "07:00",
      "sorteer": "2026-10-31T07:00:02+01:00"
-    },
-    {
-     "titel": "Britse premier wil excuses slavernij bespreken, maar sluit herstelbetalingen uit",
-     "context": "De Britse premier Burnham staat open voor een gesprek over excuses voor het slavernijverleden, maar herstelbetalingen ziet hij niet zitten. Dat schrijft hij in een opinieartikel in The Guardian. Het onderwerp staat weer prominent op de agenda tijdens de huidige rondreis van koning Charles door de Cariben. Labour-premier Burnham schrijft dat \"er al jaren wordt gevraagd om een oprecht gesprek over d",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2637402",
-     "bron": "NOS",
-     "tijd": "06:34",
-     "sorteer": "2026-10-31T06:34:53+01:00"
-    },
-    {
-     "titel": "Dodental ebola in Congo opgelopen tot boven de 5000",
-     "context": "De ebola-uitbraak in Congo heeft inmiddels aan 5000 mensen het leven gekost, melden gezondheidsdiensten in het land. Eerder deze week werd al gemeld dat de ziekte bij ruim 10.000 mensen officieel is vastgesteld. De uitbraak, die in mei voor het eerst werd opgemerkt, is de op een na dodelijkste uitbraak van het virus ooit. Alleen in Guinea, Liberia en Sierra Leona kwamen tussen 2014 en 2016 meer me",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2637398",
-     "bron": "NOS",
-     "tijd": "03:09",
-     "sorteer": "2026-10-31T03:09:02+01:00"
     },
     {
      "titel": "Politieke crisis in Polen na schorsing voorzitter Constitutioneel Hof",
@@ -140,6 +140,31 @@
      "sorteer": "2026-10-31T00:57:00+00:00"
     },
     {
+     "titel": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+     "context": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "09:49",
+     "sorteer": "2026-10-31T08:49:35+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Florid language and long silences: five things we learned from week three of Russell Brand’s rape trial",
+     "context": "The former comedian and his wife gave evidence in the case in which he denies all charges against him Russell Brand’s trial at Southwark crown court began with widespread media coverage on 12 October. The former comedian and presenter faces three charges of rape, three of sexual assault and one of attempted indecent assault against six women, in allegations spanning 10 years from 1999. He denies a",
+     "rubrieken": [
+      "UK news",
+      "England"
+     ],
+     "link": "https://www.theguardian.com/uk-news/2026/oct/31/five-things-we-learned-from-week-three-russell-brand-rape-trial",
+     "bron": "The Guardian",
+     "tijd": "09:00",
+     "sorteer": "2026-10-31T08:00:38+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
      "titel": "Liu Yandong, Rare Woman Among China’s Political Elite, Dies at 80",
      "context": "The former vice premier was one of just six women to have served on the Chinese Communist Party’s elite Politburo, though she was excluded from the top ranks of power.",
      "rubrieken": [
@@ -156,25 +181,6 @@
      "bron": "New York Times",
      "tijd": "08:18",
      "sorteer": "2026-10-31T07:18:22+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Nigel’s ‘chiselled cheekbones’ make the news – Reform’s the Reformer, digested by John Crace",
-     "context": "Editor, agony uncle, crossword compiler – he even interviews himself. Our sketchwriter finds there’s no end to Farage’s talents Welcome to your new super, soaraway Reformer . The paper that aims to take you back to the 1950s with all the stories that the mainstream media don’t want you to read. Free to all patriots. And those who happen to have found a copy on the floor of the bus. Continue readin",
-     "rubrieken": [
-      "Nigel Farage",
-      "Reform UK",
-      "Newspapers",
-      "Politics",
-      "Media",
-      "UK news",
-      "Newspapers & magazines"
-     ],
-     "link": "https://www.theguardian.com/books/2026/oct/31/nigel-farage-news-the-reformer-digested-by-john-crace",
-     "bron": "The Guardian",
-     "tijd": "08:00",
-     "sorteer": "2026-10-31T07:00:37+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -206,17 +212,6 @@
      "bron": "Politico Europe",
      "tijd": "06:00",
      "sorteer": "2026-10-31T05:00:00+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Suited and booted: How Joseph Kabila went from president to rebel leader",
-     "context": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "05:32",
-     "sorteer": "2026-10-31T04:32:07+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -294,6 +289,13 @@
      "sorteer": "2026-10-30T21:00:20+00:00"
     },
     {
+     "titel": "- de Volkskrant",
+     "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOY2tpcDFfMDRhNlNpanNnLW5iam9HeEVjaHViTVJzb0ZxZk1hX212dWI1UzBVbDdxdml1RnQyOV91clhyTEF0ZWJnVDFVa0dWWllmSFJ6WEJnT29zR2dNamFoLXQ1alVVZnFsY2dCRUZzTEVQVzFRX1hjMzRNMkpqa255d3NFbURKVXN1eHlGcVNVZXNOSTVlNlRsUjNFRHB4YlVITW05RHRlMnpyOWZkVWp1ZUxka2xqMU9jN3h5a19NaTRsWndRckRFUEN1RGdPNm5Ic0NscFF1aThHN2I3M1dJZkxrM01qNWNIdmxHQWw5ZVN5TU1zOEI4TUQyTnAzZjRkdzVfejFESDMzNm55UENfeWd1ZzdBMUZ5TWVrU3VBeHZtWjgwNThLTHR1QQ?oc=5",
+     "bron": "de Volkskrant",
+     "tijd": "03:06",
+     "sorteer": "2026-10-31T02:06:12+00:00"
+    },
+    {
      "titel": "Marius Borg Høiby doet weer poging om op vrije voeten te komen en vecht verlenging voorarrest aan",
      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRGJRMC1CWU9HVXRFSjRhYkx6SmVkNVF6dkczVzdxbW84QWNzMHdKWC1kcjhwSUowWEdhamRFcGpfWEVmQmI5SlpYa0dkRmNkQTF6cmY5WURwY09hNjZDR1hJYWNUeHRnaXgtNElDRzktTGhqZHVCSU5wMU1fZFJ4X0czdGgyWC1EalBCUFR1c1V4aUlMbTIyQm1fbjFFRmdRNlFzcWlPVWRaaWZlS202ckw0SzJsQVFaNDk1R1R6VzhTUlBZN1lDRktNUXA5bG9UREZpWlFDc25QdEpST3RJdy15MG5OMS03akY4d0F2QW1rOVZBM2c?oc=5",
      "bron": "De Telegraaf",
@@ -301,18 +303,18 @@
      "sorteer": "2026-10-30T23:40:00+00:00"
     },
     {
-     "titel": "Schotse politie onderzoekt verblijf Andrew en Epstein op Balmoral",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLWdKU28wa29DXzFkTWtuOXRkZjNHSEJOMk5ONUNIODg0Z0xFeXlnMUlzUE15eXpoNEZkS2tFR1hyRENwd0JrUkpxejdzaWRNcUVBbm5Kd3FENEUtZ2hLUkRDdjZmN3pQWnhyVDBOOGw1eHppbGhRTWVfQV9rS2NMWUhNSUZlOXVQOU53R3o5eXZJb3NiNWhrdGZjLW9PV3Z6N2VxYTZLWW1JWGwyajAwcVFMdjlGQkVyRDRqLUY4MXVnUXlO?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "22:42",
-     "sorteer": "2026-10-30T21:42:12+00:00"
+     "titel": "Oud-werknemer Tata Steel urenlang gehoord door recherche: ‘Het was raar en gevaarlijk’",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmxHblA4Y1ZLdHd1Y3lXNnlwem5CdzFpbHQzQ2FWQmRQRmI5Vl8taXpNSVVObDF2NFEwME1PY29FQTZOTnFiMmxfTjZ6dXM2U0xYaEtfdDdKUmNURjZkZDlYc0FaaGlDZm9RaWEtT1FJQTJjTXVJSWFCODlOclU5TDgtMWJuaTdvb2NfamUyZjZOZTM1LWxTaWpibnFhekV4cFpDcVBkTDlqakh3b241RWs5RmI0WVBuWFFfTmJDdw?oc=5",
+     "bron": "AD.nl",
+     "tijd": "23:59",
+     "sorteer": "2026-10-30T22:59:00+00:00"
     },
     {
-     "titel": "Grondstof voor 6 miljoen xtc-pillen in drugslab in Haagse wijk",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMWZSR3lqN2VlTG1DME50YmZfbm9IZ29vaXZsZ19fWjFxWXFVWE1hanV6SksyeXJjUGxBNHFwTHJpWmkyWlJ4MWFiQ1NmdGZfRTBFWmUweS1uMmpXNy14TGE5WjNoc09CQjVpdEFLVlpQQ25VZVZwZ0tSU0JyaGF6OElBcktZNVFyTTdZWFNnUFZVZw?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "21:48",
-     "sorteer": "2026-10-30T20:48:16+00:00"
+     "titel": "Waarom op zorg bezuinigen als er voor miljarden aan fraude wordt gepleegd? ’Ik noem het zorgcriminaliteit’",
+     "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNYlg3UVY1TDdnUG4zdGdYaHFyV3RXZjhhb25QZDVWZnlqYVpWVFVBb2t1enBwZHB1TDhWUzVsTVUtMG5mLUJQUFhFUXY4YTFGc1UyMUhhWUhfS3dXV1B6NlVCSGpXQXVQWGhtVFpmQXdNUWtVelVFa2RfVVhfU25nOVhwdG1nRE04aFhGT0N2RVEyRmdjSWFBdDFoX1VwOVpjSVNRSWg0NFVqZHJkdC1GekNYdEJsOGg5ejFQVm9TY3BmVDZfOGdjX2IwRlM3blAxZExSTmFnMWFlcVZlc0tTUXhKYWgtVHdwNVZjczFGRTRYajlLWl9kSlVOQ3NUVk9hcHgyY3J3MjFTWXI3Ymxxem9IZXNKdGt1RzltSTVWekdCa2EyU2tlVUZINmU?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "08:48",
+     "sorteer": "2026-10-31T07:48:44+00:00"
     },
     {
      "titel": "Nieuwsuur: Met wie kan het kabinet zaken doen? • Nederlandse economie doet het goed • Hoe houd je crypto's veilig? • Tonnen voor film die er niet kwam",
@@ -382,13 +384,14 @@
      "sorteer": "2026-10-30T20:05:09+00:00"
     },
     {
-     "titel": "Bioscoop Hengelo verdwenen, de herinnering is nu te koop: inboedel onder de hamer",
-     "context": "Altijd al iets uit een bioscoop in huis willen hebben? Een paar stoelen, een ijsblokjesmaker of de letters die samen het woord 'bioscoop' vormden op de gevel? Liefhebbers kunnen hun slag slaan. De inboedel van de onlangs gesloten bioscoop in Hengelo wordt geveild en is online te bezichtigen.",
+     "titel": "100-jarige uit Zwolle met brandwonden naar ziekenhuis na incident met magnetron",
+     "context": "Een 100-jarige vrouw is vanavond gewond geraakt toen ze iets in de magnetron wilde verwarmen. Het is niet bekend wat de vrouw in de magnetron zette, maar het begon te roken waarna de vrouw het weer uit het apparaat wilde halen.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3713501/bioscoop-hengelo-verdwenen-de-herinnering-is-nu-te-koop-inboedel-onder-de-hamer",
+     "link": "https://www.oost.nl/nieuws/3713508/100-jarige-uit-zwolle-met-brandwonden-naar-ziekenhuis-na-incident-met-magnetron",
      "bron": "RTV Oost",
-     "tijd": "19:42",
-     "sorteer": "2026-10-30T18:42:42+00:00"
+     "tijd": "20:45",
+     "sorteer": "2026-10-30T19:45:03+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Snuffelen voor een goed doel",
@@ -743,23 +746,23 @@
     },
     {
      "kop": "Verwachting",
-     "titel": "Vandaag — telpost 7, kraanvogels en ganzen 7, zeetrek 2",
+     "titel": "Vandaag — telpost 7, kraanvogels en ganzen 5, zeetrek 2",
      "bron": "oostenwind, de beste richting voor een telpost",
      "tijd": "",
      "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (07:29) tot een uur of drie daarna; het eerste uur is het drukst. Kraanvogels en ganzen de hele dag, vaak juist 's middags. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
+     "toelichting": "Zangvogels vanaf zonsopkomst (07:29) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
     },
     {
      "kop": "Verwachting",
-     "titel": "Morgen — telpost 1, kraanvogels en ganzen 1, zeetrek 2",
-     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten; windstil, dus hoog en verspreid",
+     "titel": "Morgen — telpost 4, kraanvogels en ganzen 4, zeetrek 2",
+     "bron": "wind uit het noordwesten",
      "tijd": "",
      "link": "https://www.trektellen.org/",
      "toelichting": "Zangvogels vanaf zonsopkomst (07:31) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
     },
     {
      "kop": "Verwachting",
-     "titel": "Maandag 2 nov — telpost 7, kraanvogels en ganzen 1, zeetrek 2",
+     "titel": "Maandag 2 nov — telpost 7, kraanvogels en ganzen 4, zeetrek 2",
      "bron": "zwakke noordenwind; het regende vannacht en het klaart op — opgehoopte trek",
      "tijd": "",
      "link": "https://www.trektellen.org/",
@@ -796,6 +799,46 @@
      "tijd": "",
      "link": "https://www.trektellen.org/",
      "toelichting": "Zangvogels vanaf zonsopkomst (07:40) tot een uur of drie daarna; het eerste uur is het drukst. Kraanvogels en ganzen de hele dag, vaak juist 's middags. Te verwachten: ganzen, lijsters, houtduiven en barmsijzen."
+    },
+    {
+     "titel": "Bruine Boszanger",
+     "kop": "Zeldzaamheden",
+     "bron": "Friesland",
+     "tijd": "09:44",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-31T09:44:00+01:00"
+    },
+    {
+     "titel": "Siberische Braamsluiper",
+     "kop": "Zeldzaamheden",
+     "bron": "Noord-Holland",
+     "tijd": "09:15",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-31T09:15:00+01:00"
+    },
+    {
+     "titel": "Dunsnavelnotenkraker",
+     "kop": "Zeldzaamheden",
+     "bron": "Drenthe",
+     "tijd": "09:12",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-31T09:12:00+01:00"
+    },
+    {
+     "titel": "Turkestaanse | Daurische Klauwier",
+     "kop": "Zeldzaamheden",
+     "bron": "Zuid-Holland",
+     "tijd": "09:01",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-31T09:01:00+01:00"
+    },
+    {
+     "titel": "Zwartbuikwaterspreeuw",
+     "kop": "Zeldzaamheden",
+     "bron": "Drenthe",
+     "tijd": "08:58",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-10-31T08:58:00+01:00"
     },
     {
      "titel": "Notenkraker",
@@ -939,13 +982,13 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 7.4,
-    "gevoel": 5.9,
-    "wind": "OZO 2",
+    "nu": 8.0,
+    "gevoel": 7.0,
+    "wind": "O 2",
     "station": "Heino",
     "bericht": "We liggen onder de vleugels van een hogedrukgebied en dat zorgt voor een grijs weekend, met alleen vandaag in het zuiden ook wat zon. Morgen valt er ook wat motregen, behalve in het westen.Vanochtend is het bewolkt en begint de dag plaatselijk met (dichte) mist. De mist zal in de loop van de ochtend verdwijnen.",
     "vandaag": "Vanochtend is het bewolkt en begint de dag plaatselijk met (dichte) mist. Vanmiddag is het bewolkt en droog.",
-    "temperatuur": "Aan het eind van de ochtend is het een graad of 9 in het zuiden en 12 graden in het noorden van het land.",
+    "temperatuur": "Aan het eind van de ochtend is het een graad of 9 in het zuiden en 11 graden in het noorden van het land.",
     "dalfsen": {
      "zin": "Voor Dalfsen zelf: 7 tot 12 graden, droog, weinig zon, wind uit het oosten, kracht 2.",
      "max": 12,
