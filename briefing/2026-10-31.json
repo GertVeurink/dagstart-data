@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "22:00",
+  "opgehaald": "23:00",
   "blokken": 11,
   "berichten": 97,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-10-31T22:00+01:00",
+ "opgehaald": "2026-10-31T23:00+01:00",
  "audio": "audio/20261031.mp3",
  "afval": [
   {
@@ -68,6 +68,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Premier Abiy van Ethiopië stuurt ministers naar militaire training",
+     "context": "Voor de regering van Ethiopië was het vandaag even niet vergaderen maar push-ups doen. Premier Abiy Ahmed had zijn kabinet op militaire training gestuurd. Hij deed zelf ook mee, is te zien op foto's die de premier heeft gedeeld op sociale media . Bij leiderschap hoort ijzeren discipline, aldus de premier van het Oost-Afrikaanse land. De ministers en staatssecretarissen moeten daarom een \"intensiev",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637522",
+     "bron": "NOS",
+     "tijd": "22:14",
+     "sorteer": "2026-10-31T22:14:40+01:00"
+    },
+    {
      "titel": "Rood of toch blauw? Republikeinen doen aan koorddansen om kiezers te behouden",
      "context": "Van Alaska en Texas tot grote delen van het Amerikaanse midwesten; drie keer op rij wist Donald Trump er zonder al te veel moeite te winnen. Toch lijken dieprode Republikeinse staten nu Democratisch blauw te kunnen kleuren. In de laatste dagen voor de Congres-verkiezingen moeten Republikeinen alle zeilen bijzetten. \"Dit zijn de cruciaalste verkiezingen van ons leven\", zegt Ashley Hinson, Congresli",
      "rubrieken": [],
@@ -104,15 +113,6 @@
      "sorteer": "2026-10-31T16:00:01+01:00"
     },
     {
-     "titel": "Porno op gehackte reclameborden langs snelweg in Egypte",
-     "context": "Hackers hebben deze week pornografische beelden afgespeeld op digitale reclameborden langs een grote snelweg in de Egyptische stad Gizeh, een voorstad van Caïro. Inmiddels zijn de beelden offline gehaald. Op de billboards waren oorspronkelijk advertenties te zien voor een internationaal bedrijf, schrijft het Egyptische ministerie van Binnenlandse Zaken . De website van dat internationale bedrijf w",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2637435",
-     "bron": "NOS",
-     "tijd": "14:17",
-     "sorteer": "2026-10-31T14:17:51+01:00"
-    },
-    {
      "titel": "Nieuwe aanvallen VS op Iran nog onzeker, zegt Rubio",
      "context": "",
      "rubrieken": [],
@@ -140,13 +140,30 @@
      "sorteer": "2026-10-31T20:05:00+00:00"
     },
     {
-     "titel": "Live Updates: Hundreds of Thousands Join Another Round of Protests in France",
-     "context": "The interior ministry estimated that 320,000 people had demonstrated nationwide, a smaller number than the previous two Saturdays. The police and protesters clashed in Paris and other cities.",
-     "rubrieken": [],
-     "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
+     "titel": "Clashes Erupt Again in France, After Festive Start to Day of Protest",
+     "context": "More than 300,000 people took to the streets, some wearing Halloween costumes, before the demonstrations ended in violence.",
+     "rubrieken": [
+      "Demonstrations, Protests and Riots",
+      "Politics and Government",
+      "Le Pen, Marine",
+      "France",
+      "Paris (France)"
+     ],
+     "link": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
      "bron": "New York Times",
-     "tijd": "21:50",
-     "sorteer": "2026-10-31T20:50:01+00:00",
+     "tijd": "22:50",
+     "sorteer": "2026-10-31T21:50:29+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Thousands demonstrate in Paris as protests spread across Europe",
+     "context": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "22:29",
+     "sorteer": "2026-10-31T21:29:01+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -162,17 +179,6 @@
      "bron": "The Guardian",
      "tijd": "21:21",
      "sorteer": "2026-10-31T20:21:08+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Clashes erupt between police and protesters in Paris",
-     "context": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "20:37",
-     "sorteer": "2026-10-31T19:37:43+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -285,22 +291,15 @@
      "titel": "Klaascambuur organiseert eerste meet-and-greet: ’Laat ze maar komme’",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSzJyaUVUd2RUeWpKYzZycEoxcWNhc2I0OEpreDdyVW5wQW81bnRMZ0E1TWt1dXBzbTNocDA3REVSbU1CWTFlR3J3UktpVDJlaURLZWg2dnVMX3NzVDFQeFB3YjFrLXRqcUdXVXpkMWJNTV8tQkk1SDctYVpVWFMwT3VUZ2FGdzZ0OVhjZDFQTVc0dEhNTVpzSllTaUxqZFpxU2o5VEpnRnVyYUNIa09IZzZ1VEhMazRHelVjWGtaNTFMNkU?oc=5",
      "bron": "Leeuwarder Courant",
-     "tijd": "20:25",
-     "sorteer": "2026-10-31T19:25:06+00:00"
+     "tijd": "21:15",
+     "sorteer": "2026-10-31T20:15:00+00:00"
     },
     {
      "titel": "34 aanhoudingen na onrust in Den Haag, meesten minderjarig",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT2FVTlUyd080NnR6OHFZaDJreVU0WkhjRTlRMHZDYk9lOFV5SFhiMlIxVzNoWVprZGJiY3dnaFdJQmRCQm9WT0hCWFVzTWtUUjU5ZjBNMWJFTFR5Zi04MHlqU1lQakpRQzJrSWgwQU43Y3hSaTNPa0FvLXQ0M1BjaERoUW10d1pRN3BN?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVy16X1FudlpqNjZnV3VOeWxTYlZZQ25VVi1XdVllbzYtM0lyd19ZNGZyWU01czkybndNdXJJbFJpTmVZTTZWRkdJMjQ4NExCR1ZBOHlrU1hmNjhqZGxRQVpKSlEtRmJlX09lLWFEMkhIS3lKbXEwSVVpUWQ1emFxa256NA?oc=5",
      "bron": "Reformatorisch Dagblad",
-     "tijd": "21:05",
-     "sorteer": "2026-10-31T20:05:58+00:00"
-    },
-    {
-     "titel": "Als het zicht van haar kinderen ineens verslechtert, gaat Margreet met ze naar de opticien: drie jaar later zijn ze alle drie overleden",
-     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxORnVTcHBwcEQ5YTNBc1d3cU1NLWt2endHMmdfM0czUlVfVnlUWDJ1TzFlbUlpTks4TUlGblBkaFZtUU9ucXg1SVBobjZtZU1VZW44Rno3dmdBN0pwaVN6QTduRE5NSjkxNmtRTnViU1VScDZaTFQweWIzd0k1bXMyeTVWd055SmFPLXJ6U2Q0Umt0VGFLalFpRkxISEJYVlZFZ0xVS3NIdVlvWkVnblhlMERUNC04ek1QRExQTTBXVnBOUFB5ZXJadC1maW00dnZqVEhMN180UzdwM0pFUmxzTTZfWUpISFBPN2JMTmdndEwxODRLNW1ydUNIY05pQktvYVpRd2NFOVhKUQ?oc=5",
-     "bron": "Tubantia",
-     "tijd": "19:31",
-     "sorteer": "2026-10-31T18:31:03+00:00"
+     "tijd": "22:54",
+     "sorteer": "2026-10-31T21:54:07+00:00"
     },
     {
      "titel": "Stuurloze boot had 36 Afghanen en 2 Soedanezen aan boord",
@@ -308,6 +307,13 @@
      "bron": "Reformatorisch Dagblad",
      "tijd": "19:00",
      "sorteer": "2026-10-31T18:00:03+00:00"
+    },
+    {
+     "titel": "Politie schiet op man na overval in Rotterdam",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95eG50bHU3RGFLRDNQMTE0OEh6R1FCRVE1NFpneTc4OF91SDV0bU9rMEVqMW5wd2w2QnpnaWljNEdPbWowTFJhc2NqVUdGQTRIY1YwejFIaGVCOEY0d3p4YzIzMS1SMWxUWlVJcDQyT3Fnc2M?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "18:51",
+     "sorteer": "2026-10-31T17:51:08+00:00"
     },
     {
      "titel": "Nieuwsuur: Protesten in Europa • Onvrede over Trump in Texas",
@@ -472,13 +478,6 @@
      "tijd": "19:05",
      "sorteer": "2026-10-31T18:05:12+00:00",
      "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "OpenAI merkt onrust bij beleggers: zoekt minder geld vanwege twijfel over AI-hype",
-     "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPSFBkSVV5ZV9nOGFTZWtXdnJJQ09VMU1TSG85RFdyNXFyLUx2SVFmYk5adk5hNFB4M2ZqLTJEQ0JZU3dlRnBGTGdlRF84VndfZ3RBLXdKdDU4dU1zQ2VtdTBTOTIteHBCMVJZVjNweHBheWpNVDZ4R1VDcFpJNm94REt6ZVIyWTVDb3NDLXNwalRUWmZ0aXQ3cEJPczAtWUdtZlFRTlV4UVA0OGdQT1V5eEpCLWxJWkc3eFRab0M5UENPZXphZTdFQnJsRUN3aXFWRVd0SjdFZ3IzdGlrODlGa2tXRnJUYTJWdTdoUk93ZExtVWhDdl9JR0RIQlozLXhoVUQ5TEpJVml3eUh0b3lmVlBBZll6VEF3WEhiOUFyNm5JM04tTFBZUzVNcVV0YW5TanNrZUNBV05objg?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "21:15",
-     "sorteer": "2026-10-31T20:15:38+00:00"
     }
    ]
   },
@@ -631,6 +630,15 @@
    "emoji": "🎧",
    "items": [
     {
+     "titel": "How to Invest in AI Without Getting Fooled by Hype, with Talullah Le Merle //REPOST",
+     "context": "In this episode, Dietmar Fischer talks with Tallulah Le Merle, a humanist technologist and investor, about how to think clearly in the age of AI without falling into doomsday panic or blind optimism. You’ll get a practical mental model of the AI stack, a grounded take on AI alignment risk, and a refreshing argument for hope as a strategic posture that shapes what gets built. 🤖🌍🧠 What you’ll learn ",
+     "rubrieken": [],
+     "link": "https://shows.acast.com/beginners-guide-to-ai/episodes/how-to-invest-in-ai-without-getting-fooled-by-hype-with-talu",
+     "bron": "A Beginner's Guide to AI",
+     "tijd": "22:14",
+     "sorteer": "2026-10-31T21:14:05+00:00"
+    },
+    {
      "titel": "De aanzwellende crisis bij de VVD",
      "context": "Het gaat niet goed met coalitiepartijen VVD, D66 en CDA. Alle drie scoren slecht in de peilingen en er is kritiek op hoeveel ze als minderheidskabinet voor elkaar krijgen. Zo kan het belastingplan nog steeds niet rekenen op de noodzakelijke steun. De VVD lijkt hier het meest last van te hebben, er is grote onrust en van binnenuit zwelt de kritiek aan. Politiek redacteuren Liam van de Ven en Petra ",
      "rubrieken": [],
@@ -733,8 +741,8 @@
     },
     {
      "kop": "Verwachting",
-     "titel": "Morgen — telpost 1, kraanvogels en ganzen 1, zeetrek 2",
-     "bron": "zuidwestenwind pal tegen, dan blijven ze zitten; windstil, dus hoog en verspreid",
+     "titel": "Morgen — telpost 3, kraanvogels en ganzen 1, zeetrek 2",
+     "bron": "wind uit het noordwesten; windstil, dus hoog en verspreid",
      "tijd": "",
      "link": "https://www.trektellen.org/",
      "toelichting": "Zangvogels vanaf zonsopkomst (07:31) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
@@ -749,7 +757,7 @@
     },
     {
      "kop": "Verwachting",
-     "titel": "Dinsdag 3 nov — telpost 5, kraanvogels en ganzen 7, zeetrek 1",
+     "titel": "Dinsdag 3 nov — telpost 5, kraanvogels en ganzen 7, zeetrek 2",
      "bron": "zwakke noordoostenwind",
      "tijd": "",
      "link": "https://www.trektellen.org/",
@@ -765,7 +773,7 @@
     },
     {
      "kop": "Verwachting",
-     "titel": "Donderdag 5 nov — telpost 6, kraanvogels en ganzen 7, zeetrek 2",
+     "titel": "Donderdag 5 nov — telpost 6, kraanvogels en ganzen 7, zeetrek 1",
      "bron": "oostenwind, de beste richting voor een telpost",
      "tijd": "",
      "link": "https://www.trektellen.org/",
@@ -922,7 +930,7 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Trek komt op gang — vandaag 149 meldingen, samen 34.976 vogels",
+     "titel": "Volop trek — vandaag 155 meldingen, samen 40.861 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
@@ -937,8 +945,8 @@
     },
     {
      "kop": "Kraanvogels",
-     "titel": "92 meldingen vertrek uit het noorden",
-     "bron": "DE 92",
+     "titel": "98 meldingen vertrek uit het noorden",
+     "bron": "DE 98",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -969,9 +977,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 9.5,
-    "gevoel": 9.5,
-    "wind": "N 0",
+    "nu": 9.6,
+    "gevoel": 9.6,
+    "wind": "WZW 0",
     "station": "Heino",
     "bericht": "Onder de flanken van een hogedrukgebied is het rustig weer, maar niet per se fraai. Grijze luchten bepalen het weerbeeld zondag en ook aan het begin van de week heeft de zon het nog moeilijk. Vanavond loopt de scheur waarin het breed was opgeklaard weer geleidelijk dicht op de meeste plekken.",
     "vandaag": "Vanavond loopt de scheur waarin het breed was opgeklaard weer geleidelijk dicht op de meeste plekken. Vannacht raakt het op de meeste plekken bewolkt.",
