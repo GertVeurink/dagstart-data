@@ -3,13 +3,15 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "10:40",
+  "opgehaald": "11:00",
   "blokken": 10,
   "berichten": 86,
-  "problemen": [],
+  "problemen": [
+   "pauw & de wit: HTTP 500"
+  ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-01T10:40+01:00",
+ "opgehaald": "2026-11-01T11:00+01:00",
  "audio": "audio/20261101.mp3",
  "afval": [
   {
@@ -113,6 +115,15 @@
      "sorteer": "2026-11-01T02:44:33+01:00"
     },
     {
+     "titel": "Qatarese tanker aangevallen met onbekende projectielen in Perzische Golf",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/qatarese-tanker-aangevallen-met-onbekende-projectielen-in-perzische-golf~b7a280d3/",
+     "bron": "de Volkskrant",
+     "tijd": "10:50",
+     "sorteer": "2026-11-01T09:50:00+00:00"
+    },
+    {
      "titel": "Oekraïne valt grote Russische olieraffinaderij aan met drones",
      "context": "",
      "rubrieken": [],
@@ -122,20 +133,26 @@
      "sorteer": "2026-11-01T07:25:00+00:00"
     },
     {
-     "titel": "Rechter wijst aanklacht tegen Wall Street Journal over seksueel getint kaartje aan Epstein af",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/rechter-wijst-aanklacht-tegen-wall-street-journal-over-seksueel-getint-kaartje-aan-epstein-af~b53d81bb/",
-     "bron": "de Volkskrant",
-     "tijd": "05:25",
-     "sorteer": "2026-11-01T04:25:00+00:00"
-    },
-    {
      "titel": "Telegraaf op zondag 1 november 2026 | TEL Telegraaf op zondag zondag 1 november",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kU1RYaWRkUzY4MjI2djJ5ZnZzejZ0QlBvS0RlM2lvbnk4RktvSjN0Qko5RElyWEJUZm96bG5ZNlpxWXFWQlpUWmZzUWg3dnlHZDhXTGg3NXB6bjFXUzhWNHhkdVV0SDFrWDhwMG5n?oc=5",
      "bron": "De Telegraaf",
      "tijd": "07:33",
      "sorteer": "2026-11-01T06:33:45+00:00"
+    },
+    {
+     "titel": "Minister says UK apology over historic role in slave trade won’t lead to financial reparations – UK politics live",
+     "context": "Ahead of a meeting with Commonwealth leaders, Andy Burnham wrote that Britain needed to ‘acknowledge its complicated history’ Burnham’s consideration of a formal apology has been welcomed by leaders of Caribbean nations, but differences remain on reparations. Barbados’ prime minister, Mia Mottley, welcomed Burnham’s acknowledgment of the “brutality of the trans-Atlantic slave trade, his openness t",
+     "rubrieken": [
+      "Politics",
+      "UK news",
+      "Slavery"
+     ],
+     "link": "https://www.theguardian.com/politics/live/2026/nov/01/andy-burnham-uk-historic-slave-trade-financial-reparations-badenoch-budget-defence-latest-politics-news-updates",
+     "bron": "The Guardian",
+     "tijd": "10:42",
+     "sorteer": "2026-11-01T09:42:06+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
      "titel": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
@@ -145,21 +162,6 @@
      "bron": "BBC",
      "tijd": "10:28",
      "sorteer": "2026-11-01T09:28:06+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Minister says UK apology over historic role in slave trade won’t lead to financial reparations – UK politics live",
-     "context": "Ahead of a meeting with Commonwealth leaders, Andy Burnham wrote that Britain needed to ‘acknowledge its complicated history’ Good morning and welcome to our Sunday UK politics blog. Budget week conversation has moved on a bit; Tory leader Kemi Badenoch is doing the rounds of the politics shows this morning and she has an op-ed in the Telegraph railing against the delayed defence spending commitme",
-     "rubrieken": [
-      "Politics",
-      "UK news",
-      "Slavery"
-     ],
-     "link": "https://www.theguardian.com/politics/live/2026/nov/01/andy-burnham-uk-historic-slave-trade-financial-reparations-badenoch-budget-defence-latest-politics-news-updates",
-     "bron": "The Guardian",
-     "tijd": "10:18",
-     "sorteer": "2026-11-01T09:18:40+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -243,8 +245,8 @@
      "sorteer": "2026-11-01T07:59:15+01:00"
     },
     {
-     "titel": "Den Haag debuteert als marathonstad in tijd van groeiende hardloopgekte",
-     "context": "Bijna 10.000 deelnemers staan vandaag aan de start van de allereerste editie van de marathon van Den Haag. Met dat aantal is de loop na Rotterdam en Amsterdam meteen de op twee na grootste marathon van Nederland. Net als veel andere marathons was die van Den Haag binnen enkele dagen uitverkocht. Dat past in een bredere trend die zich al langer voordoet : het afleggen van de 42,195 kilometer in wed",
+     "titel": "Den Haag wordt marathonstad in tijd van groeiende hardloopgekte",
+     "context": "In Den Haag wordt vandaag voor het eerst in jaren weer een marathon georganiseerd. Bijna 10.000 deelnemers staan vanochtend aan de start. Met dat aantal is de loop na Rotterdam en Amsterdam meteen de op twee na grootste marathon van Nederland. Net als veel andere marathons was die van Den Haag binnen enkele dagen uitverkocht. Dat past in een bredere trend die zich al langer voordoet : het afleggen",
      "rubrieken": [],
      "link": "https://nos.nl/l/2637548",
      "bron": "NOS",
@@ -308,6 +310,13 @@
      "sorteer": "2026-11-01T09:32:07+00:00"
     },
     {
+     "titel": "Geen entree, wel om koepel te beklimmen: basiliek in Oudenbosch zoekt nieuwe inkomsten",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUEtYWtIdGx1STVFWGQ1VElSMzFhSjBLdDluRGVnODlBSHk2RzBBdW1OWU1BQjQ2MUp6YldseW8zZEtSYndvekRLcDhLamFMU2dtZXNaMnk4WGpWdENVNzBUcUdDdGNuNkV6N0hNd2V5WlZUQVB2VnJvM3pGZ1pFUHAtNDg1Q0VNdDJVb2EyeUJla3J4ZkJmNzBsbE1hdkhaOHFzV3NwcXh2MGdRLWJhVGxzYXRERWZmdWZHVA?oc=5",
+     "bron": "Brabants Dagblad",
+     "tijd": "10:18",
+     "sorteer": "2026-11-01T09:18:15+00:00"
+    },
+    {
      "titel": "Man die zijn dochter in prostitutie liet werken en haar misbruikte nu ook beschuldigd van ontucht in 1997",
      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcDdLWkYteUp3bE9XcnhHVVZiSEpFaG1HTl90am94N2lRbmhIWEdwTHJsRTRYeU5aWkgzUnNRMVBrVDRVUjFDd1hFUWNkSGw1MkVQZ2REX1VXdUU5WnRsdi1yVnhFTG16RzZjdEh2QWs3djNFNWktT1RObFlJUHJiRTVBdExQNmQwN2hUOTZQVjJjTGJzTUxuM01GbmVYdEpGSl85MDlOOTlUNVAzUVJnX1Q0c0ZoUElFNGhvb21oUUJWaE9pQjlUYWkzeF9LY0lDUE0zMk1VLVhJRWRs?oc=5",
      "bron": "AD.nl",
@@ -320,13 +329,6 @@
      "bron": "AD.nl",
      "tijd": "10:30",
      "sorteer": "2026-11-01T09:30:12+00:00"
-    },
-    {
-     "titel": "Studenten vinden massaal de weg naar gratis studentenpsycholoog voor een luisterend oor",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcjJCVFJVMWlnZkRuRUh2VG1FX21aUy14VXpGcmU1QW5YdnJKbGI3cGdNTDUyS0FWcnFHdUR0WlRYbGdjNmtZVHpMZkl5RzBlX01VUnlRcWxsZmlMQXRPeWw0MGtqbmt1cWR3UndiXzdjQTJoYWU1VVZpZmJ6QWtxV1dncmFxTlFRSTJmSzBWRG1kU0hQOW1vcVNFRDYzb1Z1cU4yT2xTWUxlUDFFME05SnVhRjAza3h1clpCNGZkY0JHU1Jt?oc=5",
-     "bron": "Eindhovens Dagblad",
-     "tijd": "09:00",
-     "sorteer": "2026-11-01T08:00:17+00:00"
     },
     {
      "titel": "Brief van de hoofdredacteur: Over onmisbare onderzoeks­journalistiek in corrupte tijden",
@@ -733,10 +735,10 @@
     {
      "titel": "Notenkraker",
      "kop": "Zeldzaamheden",
-     "bron": "Utrecht",
-     "tijd": "09:50",
+     "bron": "Friesland",
+     "tijd": "10:32",
      "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-01T09:50:00+01:00"
+     "sorteer": "2026-11-01T10:32:00+01:00"
     },
     {
      "titel": "Izabeltapuit",
@@ -755,6 +757,14 @@
      "sorteer": "2026-11-01T09:38:00+01:00"
     },
     {
+     "titel": "Terekruiter",
+     "kop": "Zeldzaamheden",
+     "bron": "Friesland",
+     "tijd": "09:05",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-01T09:05:00+01:00"
+    },
+    {
      "titel": "Woestijntapuit",
      "kop": "Zeldzaamheden",
      "bron": "Noord-Holland",
@@ -769,14 +779,6 @@
      "tijd": "08:41",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-11-01T08:41:00+01:00"
-    },
-    {
-     "titel": "Dwerggors",
-     "kop": "Zeldzaamheden",
-     "bron": "Friesland",
-     "tijd": "08:30",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-01T08:30:00+01:00"
     },
     {
      "titel": "Landelijk vandaag: 81 soorten, 232.886 vogels geteld",
@@ -896,7 +898,7 @@
    "weer": {
     "nu": 9.9,
     "gevoel": 9.9,
-    "wind": "ZW 1",
+    "wind": "Z 1",
     "station": "Heino",
     "bericht": "Vandaag een grijze dag met in het zuidwesten eerst nog plaatselijk mist. Verder kan er landinwaarts wat motregen voorkomen. Vannacht enige tijd regen.",
     "vandaag": "Vandaag een grijze dag met in het zuidwesten eerst nog plaatselijk mist. Vannacht enige tijd regen.",
