@@ -3,13 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "09:00",
+  "opgehaald": "09:43",
   "blokken": 10,
-  "berichten": 95,
+  "berichten": 87,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-01T09:00+01:00",
+ "opgehaald": "2026-11-01T09:43+01:00",
  "audio": "audio/20261101.mp3",
  "afval": [
   {
@@ -138,6 +138,39 @@
      "sorteer": "2026-11-01T06:33:45+00:00"
     },
     {
+     "titel": "Shops looted as German cost of living protests turn violent",
+     "context": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "09:43",
+     "sorteer": "2026-11-01T08:43:00+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "English children’s homes are in crisis. Does Denmark hold the answers?",
+     "context": "UK children’s minister Josh MacAlister has travelled to Copenhagen to see what can be learned from Danish system In a quiet suburb on the outskirts of Copenhagen sits a large white house, set back from the road behind a purple-leaved plum tree. It looks much like the rest of the buildings on the street and there is little outward sign this is Josephine Schneider’s House, considered one of the best",
+     "rubrieken": [
+      "Children",
+      "Social care",
+      "Society",
+      "Denmark",
+      "World news",
+      "Europe",
+      "Politics",
+      "Social exclusion",
+      "Child protection",
+      "UK news"
+     ],
+     "link": "https://www.theguardian.com/society/2026/nov/01/english-childrens-homes-crisis-denmark-care-system-model",
+     "bron": "The Guardian",
+     "tijd": "09:00",
+     "sorteer": "2026-11-01T08:00:05+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
      "titel": "India’s Congress Party Plans Mass Protest in New Delhi",
      "context": "Organizers are calling for one of the biggest demonstrations yet, in a string of rallies that has racked India since the summer.",
      "rubrieken": [
@@ -157,17 +190,6 @@
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Shops looted as German cost of living protests turn violent",
-     "context": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "08:36",
-     "sorteer": "2026-11-01T07:36:18+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
      "titel": "India's opposition holds mega rally seeking election chief's resignation",
      "context": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
      "rubrieken": [],
@@ -175,22 +197,6 @@
      "bron": "BBC",
      "tijd": "08:00",
      "sorteer": "2026-11-01T07:00:55+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Jacinda Ardern in Sydney Opera House talk advises politicians to ‘rebuild trust by building financial security’",
-     "context": "Former New Zealand prime minister has moved to Australia and is lecturing at University of Sydney – and from stage of city’s famous landmark Jacinda Ardern, who now calls Sydney home, has delivered a message to Australian politicians from the stage of the city’s Opera House. Politicians, the former New Zealand prime minister turned academic told the audience on Sunday, were exacerbating the proble",
-     "rubrieken": [
-      "Jacinda Ardern",
-      "Australian politics",
-      "Australia news",
-      "New Zealand"
-     ],
-     "link": "https://www.theguardian.com/world/2026/nov/01/jacinda-ardern-sydney-opera-house-talk-advises-politicians-to-rebuild-trust",
-     "bron": "The Guardian",
-     "tijd": "07:53",
-     "sorteer": "2026-11-01T06:53:22+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -227,7 +233,7 @@
    "items": [
     {
      "titel": "Honderdduizenden auto's ondanks mogelijke defecten toch de weg op, zo zit het met jouw auto",
-     "context": "In Nederland rijden honderdduizenden personenauto's rond terwijl ze eigenlijk door een garage zouden moeten worden gecontroleerd of gerepareerd. Het gaat om auto's die het onderwerp zijn van terugroepacties die de RDW classificeert als \"ernstig\". Inzittenden lopen het risico op ongelukken, bijvoorbeeld doordat accu's in brand vliegen, of op extra letsel bij een ongeluk. Dat kan bijvoorbeeld als de",
+     "context": "In Nederland rijden honderdduizenden personenauto's rond terwijl ze eigenlijk door een garage zouden moeten worden gecontroleerd of gerepareerd. Het gaat om auto's die het onderwerp zijn van terugroepacties die de RDW classificeert als \"ernstig\". Inzittenden lopen het risico op ernstiger gevolgen bij ongelukken, bijvoorbeeld door problemen met de airbags. Bij een op de vijf getroffen auto's kan he",
      "rubrieken": [],
      "link": "https://nos.nl/l/2637553",
      "bron": "NOS",
@@ -293,32 +299,32 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Nicole (44) verloor haar dochter aan zelfdoding: ’Op social media ontstonden allerlei complottheorieën over haar dood’",
+     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSjc5dWQ0OEdWMlZianEyM2xqLVZYenFqdVYxaFZJNVludDd4TUQxSjVhNF92WFJzbUM2aDc5ZlBkejFtYlZNVEJmY0kyTVpaVnFDN0U4RThYb05COE5vaHBveHVubm5sQ2Z3anNhWFExUG4yU1VfTEpYS21TdXAyU3B4d1Q5bmI1Nm9zVWdNb2VjU2ZteDN4UjR1VmJad1pBdl9LV1RBT1F4Zm5CSkIteEFxMmR2Y3pMUDlrb2FIY1VKTFgtRmhLRTRRUFZJaUZRZ2FSTkxWVmstYURhcHU1SnE3UEtpYzVJQkU3eEJNTFFGN0Z3cWxobk5iOGFDSXJUOGFTejBTbVk?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "09:37",
+     "sorteer": "2026-11-01T08:37:25+00:00"
+    },
+    {
+     "titel": "Het meisje achter 360 kogelgaten in een auto. Actie voor Gaza in Leeuwarden. ’Dit kan toch niet. Daarom sta ik hier’",
+     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRXhVX0FKWTBMLXdYVDBfNC1RbUp6MkhmVldacl95OEhFc1NSZE4zT2JiLUlkT2w4YTFpUFR0NDJza2ZCSm5NeDFmTUhaNFZ2SzV0NXR3Z3BudS1DMEV0Vnh3NGdrMlJETjNfcmVGN0RsM2NDak1odm1jbUZSdmtfd19QNXZCUUFRZ1hNdnhCNW43ZmcyeEZfRUtMSHRHOERyRUpqT1JRSzBpNTk0WDRDdVo3Y0pQS2JRaXB2RmNtNUItV0tsbDh1TXFoRFRjNnVnRjluUzR3eEVLdHlPZjIwaEZMQWxuYXdFQ3BkOUVFXy1fM0hlTUV0dDVOdmk1aUR5Zmk1Ug?oc=5",
+     "bron": "Leeuwarder Courant",
+     "tijd": "09:12",
+     "sorteer": "2026-11-01T08:12:16+00:00"
+    },
+    {
+     "titel": "Sofie, vriend Bo en pa Roland zien brood in flatbreadfoodtruck",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVk9kdDV1V3V6NUdpbFVpWUtoeVZrQnZqMWl0Vmh3ZGxrdFd2N3FOZTRya2VaVnphaWtkU1JxaHN5VXlreVF1YWJfNUpzX3VpWWdfNjZSZ0p3elZ0aXF5bmVOLVdpelUtMHgzRDJkZ01McFpaQ01PLVN6Skp0Rk5ZYlRrOXF5ZXAzQTNsS2FWd0ZMd1M2bkZFclFDdUdIcXM?oc=5",
+     "bron": "Brabants Dagblad",
+     "tijd": "09:00",
+     "sorteer": "2026-11-01T08:00:13+00:00"
+    },
+    {
      "titel": "Peters broertje werd gedood met rattengif, door zijn moeder: 'Haar blik vergeet ik nooit'",
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU2xwR01YQ2hBUER6ajBCRGxGLS1ZSnk5UkpKYjh3QzZIWGszclBnTmJqRkFXdEJ2NW5GNDRCTmRMNllrU0lQcWI1QldDX2VNS21VUnpISzFjRXdqZWd2Zk1BRmwzRHgyUnBUbWlUZzBYemN3WU5UcGE4TklNMEQtWmF6VlgzZDVoUFlGWnFXRW5VaE4zTVhITmNUQkdiU2VhQ0hXUS1JNUl2VzZRb1d5eEZkSF9nVmZkSHdzb1E2SlJUSGk1?oc=5",
      "bron": "RTL.nl",
      "tijd": "08:42",
      "sorteer": "2026-11-01T07:42:51+00:00"
-    },
-    {
-     "titel": "Jeugdoverlast in Uden volgens Max en Yantra alleen aan te pakken met direct contact: ‘Die jongeren willen gezien en gehoord worden’",
-     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTWV3Tm1pdFpmYkhGcVc5TnAxbDZpaTVYS3N1cEhqVG1GaFUtZ2U0ZXJQbEdoMFZRVUwwdFZQRkxDMXV4MmxPeUxrM25zR1hzeDhQSkhubVpFMWRWRnB6VEpqSm1VeFFiYU5vdVp5VEpyYnlLb3JwclMwRkd1aTk1SDNwWFBwZnJNeGtMYnhrb2NJbEZ2dGNWaHllOExUQWY0RjllRHp6UURUd3BUOU1PaHhyVmtWMDZtNEFXaUpWNWZJWEVQSGJZcmdmeXAtVzZuN2hEX25lQ25USFYxLXctUDdneEh2RExJTF84LV9VLTc4a254NzhSMExR?oc=5",
-     "bron": "Brabants Dagblad",
-     "tijd": "08:30",
-     "sorteer": "2026-11-01T07:30:29+00:00"
-    },
-    {
-     "titel": "Een geheimzinnige envelop zonder afzender: dit gaat er schuil achter tips in moordzaken",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkE3V1hMMllIcmRmbDJmZkd0VlJyVGQ3VFVsQWJaNnlEWnk0ZDk3OXJZMmJBazltUFJJX1NGSW5nVktZa1VnNjVWaFFtR2hWR2dDQldKLU85TDRsSEFOQVcxWDNTWnBEaXJXYTIySjJkbHVWaTc4X09vd2NISWdJNVh1MUNFRDBZU3ZiTkQtc2FmYno2VERtX1kxZWFEWW9HZDcwdmh1QWJ0U0VQS2w5anZLRk9qdnlKVTZkeUxqdlEzRUYxelRVNmVMR3o?oc=5",
-     "bron": "de Stentor",
-     "tijd": "08:00",
-     "sorteer": "2026-11-01T07:00:41+00:00"
-    },
-    {
-     "titel": "Nicole (44) verloor haar dochter aan zelfdoding: ’Op social media ontstonden allerlei complottheorieën over haar dood’",
-     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSjc5dWQ0OEdWMlZianEyM2xqLVZYenFqdVYxaFZJNVludDd4TUQxSjVhNF92WFJzbUM2aDc5ZlBkejFtYlZNVEJmY0kyTVpaVnFDN0U4RThYb05COE5vaHBveHVubm5sQ2Z3anNhWFExUG4yU1VfTEpYS21TdXAyU3B4d1Q5bmI1Nm9zVWdNb2VjU2ZteDN4UjR1VmJad1pBdl9LV1RBT1F4Zm5CSkIteEFxMmR2Y3pMUDlrb2FIY1VKTFgtRmhLRTRRUFZJaUZRZ2FSTkxWVmstYURhcHU1SnE3UEtpYzVJQkU3eEJNTFFGN0Z3cWxobk5iOGFDSXJUOGFTejBTbVk?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "07:45",
-     "sorteer": "2026-11-01T06:45:23+00:00"
     },
     {
      "titel": "Brief van de hoofdredacteur: Over onmisbare onderzoeks­journalistiek in corrupte tijden",
@@ -413,6 +419,19 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Merel: De verwarming hoger? Eerst de gezelligste trui!",
+     "context": "DALFSEN – De koude dagen komen eraan. Voordat je aan de thermostaat draait, is er misschien een veel leukere oplossing: de kledingkast! In deze Merel lees je hoe je van een warme trui, dikke sokken en een dekentje een heerlijke wintergewoonte maakt, die ook nog eens goed is voor je portemonnee. “Nog even en het […]",
+     "rubrieken": [
+      "Dalfsen",
+      "Ingezonden bericht",
+      "Laatste nieuws"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/555650/merel-de-verwarming-hoger-eerst-de-gezelligste-trui.html",
+     "bron": "DalfsenNet",
+     "tijd": "09:30",
+     "sorteer": "2026-11-01T08:30:20+00:00"
+    },
+    {
      "titel": "Maandag 2 november weer Repair Café bij Noggus & Noggus",
      "context": "DALFSEN – Maandag 2 november is er weer ons gebruikelijke Repair Café bij Noggus & Noggus. Ook Margreet is aanwezig voor al uw naai- en verstelwerk. Let op: vanwege de mooie kerstaanbiedingen bij Noggus & Noggus zitten we iets verderop dan u gewend bent. Volg de aanwijzingen in de winkel, dan vindt u ons vanzelf. […]",
      "rubrieken": [
@@ -423,19 +442,6 @@
      "bron": "DalfsenNet",
      "tijd": "23:42",
      "sorteer": "2026-10-31T22:42:57+00:00"
-    },
-    {
-     "titel": "Even stilstaan bij de schoonheid van Dalfsen",
-     "context": "DALFSEN – Soms hoef je niet ver van huis om iets moois te ontdekken. Vanmorgen trok ik met mijn camera door het centrum van Dalfsen om een aantal beeldbepalende gebouwen vast te leggen. Panden waar je misschien regelmatig langs fietst, maar waarvan je pas goed ziet hoe mooi ze zijn als je even stopt. Onderweg […]",
-     "rubrieken": [
-      "Dalfsen",
-      "Laatste nieuws"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/555714/even-stilstaan-bij-de-schoonheid-van-dalfsen.html",
-     "bron": "DalfsenNet",
-     "tijd": "20:35",
-     "sorteer": "2026-10-31T19:35:15+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
     }
    ]
   },
@@ -724,68 +730,44 @@
    "emoji": "🐦",
    "items": [
     {
-     "kop": "Verwachting",
-     "titel": "De trek loopt: koperwieken (921 meldingen gisteren, een week eerder 354), kramsvogels (731 meldingen gisteren, een week eerder 116), kolganzen (536 meldingen gisteren, een week eerder 257)",
-     "bron": "gemeten aan meldingen, observation.org",
-     "tijd": "",
-     "link": "https://observation.org/",
-     "toelichting": "Dit is geen verwachting maar een telling: er werden gisteren twee keer zoveel meldingen gedaan als dezelfde dag een week eerder."
+     "titel": "Zwartbuikwaterspreeuw",
+     "kop": "Zeldzaamheden",
+     "bron": "Drenthe",
+     "tijd": "09:38",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-01T09:38:00+01:00"
     },
     {
-     "kop": "Verwachting",
-     "titel": "Vandaag — telpost 1, kraanvogels en ganzen 1, zeetrek 2",
-     "bron": "westenwind pal tegen, dan blijven ze zitten; windstil, dus hoog en verspreid",
-     "tijd": "",
-     "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (07:31) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
+     "titel": "Notenkraker",
+     "kop": "Zeldzaamheden",
+     "bron": "Drenthe",
+     "tijd": "09:30",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-01T09:30:00+01:00"
     },
     {
-     "kop": "Verwachting",
-     "titel": "Morgen — telpost 1, kraanvogels en ganzen 1, zeetrek 2",
-     "bron": "zwakke noordenwind; regen in de ochtend; mist",
-     "tijd": "",
-     "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (07:32) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: ganzen, lijsters, houtduiven en barmsijzen."
+     "titel": "Woestijntapuit",
+     "kop": "Zeldzaamheden",
+     "bron": "Noord-Holland",
+     "tijd": "09:00",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-01T09:00:00+01:00"
     },
     {
-     "kop": "Verwachting",
-     "titel": "Dinsdag 3 nov — telpost 5, kraanvogels en ganzen 7, zeetrek 2",
-     "bron": "zwakke noordoostenwind",
-     "tijd": "",
-     "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (07:34) tot een uur of drie daarna; het eerste uur is het drukst. Kraanvogels en ganzen de hele dag, vaak juist 's middags. Te verwachten: ganzen, lijsters, houtduiven en barmsijzen."
+     "titel": "Dwergaalscholver",
+     "kop": "Zeldzaamheden",
+     "bron": "Overijssel",
+     "tijd": "08:41",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-01T08:41:00+01:00"
     },
     {
-     "kop": "Verwachting",
-     "titel": "Woensdag 4 nov — telpost 6, kraanvogels en ganzen 7, zeetrek 1",
-     "bron": "oostenwind, de beste richting voor een telpost",
-     "tijd": "",
-     "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (07:36) tot een uur of drie daarna; het eerste uur is het drukst. Kraanvogels en ganzen de hele dag, vaak juist 's middags. Te verwachten: ganzen, lijsters, houtduiven en barmsijzen."
-    },
-    {
-     "kop": "Verwachting",
-     "titel": "Donderdag 5 nov — telpost 6, kraanvogels en ganzen 7, zeetrek 2",
-     "bron": "oostenwind, de beste richting voor een telpost",
-     "tijd": "",
-     "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (07:38) tot een uur of drie daarna; het eerste uur is het drukst. Kraanvogels en ganzen de hele dag, vaak juist 's middags. Te verwachten: ganzen, lijsters, houtduiven en barmsijzen. Vanaf hier is de windrichting nog onzeker; lees dit als een richting en niet als een voorspelling."
-    },
-    {
-     "kop": "Verwachting",
-     "titel": "Vrijdag 6 nov — telpost 6, kraanvogels en ganzen 7, zeetrek 2",
-     "bron": "oostenwind, de beste richting voor een telpost",
-     "tijd": "",
-     "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (07:40) tot een uur of drie daarna; het eerste uur is het drukst. Kraanvogels en ganzen de hele dag, vaak juist 's middags. Te verwachten: ganzen, lijsters, houtduiven en barmsijzen."
-    },
-    {
-     "kop": "Verwachting",
-     "titel": "Zaterdag 7 nov — telpost 6, kraanvogels en ganzen 7, zeetrek 2",
-     "bron": "oostenwind, de beste richting voor een telpost",
-     "tijd": "",
-     "link": "https://www.trektellen.org/",
-     "toelichting": "Zangvogels vanaf zonsopkomst (07:42) tot een uur of drie daarna; het eerste uur is het drukst. Kraanvogels en ganzen de hele dag, vaak juist 's middags. Te verwachten: ganzen, lijsters, houtduiven en barmsijzen."
+     "titel": "Dwerggors",
+     "kop": "Zeldzaamheden",
+     "bron": "Friesland",
+     "tijd": "08:30",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-01T08:30:00+01:00"
     },
     {
      "titel": "Raddes Boszanger",
@@ -802,46 +784,6 @@
      "tijd": "07:51",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-11-01T07:51:00+01:00"
-    },
-    {
-     "titel": "Woestijntapuit",
-     "kop": "Zeldzaamheden",
-     "bron": "Noord-Holland",
-     "tijd": "15:58",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-31T15:58:00+01:00"
-    },
-    {
-     "titel": "Dwergaalscholver",
-     "kop": "Zeldzaamheden",
-     "bron": "Overijssel",
-     "tijd": "15:00",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-31T15:00:00+01:00"
-    },
-    {
-     "titel": "Notenkraker",
-     "kop": "Zeldzaamheden",
-     "bron": "Gelderland",
-     "tijd": "15:00",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-31T15:00:00+01:00"
-    },
-    {
-     "titel": "Zwarte Zeekoet",
-     "kop": "Zeldzaamheden",
-     "bron": "Friesland",
-     "tijd": "12:12",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-31T12:12:00+01:00"
-    },
-    {
-     "titel": "Bruine Boszanger",
-     "kop": "Zeldzaamheden",
-     "bron": "Friesland",
-     "tijd": "12:08",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-31T12:08:00+01:00"
     },
     {
      "titel": "Landelijk vandaag: 81 soorten, 232.886 vogels geteld",
@@ -910,26 +852,27 @@
      "sein": false
     },
     {
-     "kop": "Kraanvogels",
-     "titel": "Rustig — vandaag 8 meldingen, samen 1.188 vogels",
-     "bron": "observation.org",
-     "tijd": "",
-     "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "aflopend — dag ervoor 169 · afgelopen week gemiddeld 128 per dag"
+     "kop": "Pestvogels",
+     "titel": "Vlakbij: 2 meldingen binnen 25 km",
+     "bron": "Zwolle - Centrale Harculo, 11 km van Dalfsen (2026-10-31)",
+     "tijd": "09:40",
+     "link": "https://waarneming.nl/species/306/observations/",
+     "sein": true
     },
     {
-     "kop": "Kraanvogels",
-     "titel": "1 binnen 75 km van Dalfsen",
-     "bron": "dichtstbij: Wapse - Wapserlanden, 37 km",
-     "tijd": "08:13",
-     "link": "https://waarneming.nl/species/19/observations/"
+     "kop": "Pestvogels",
+     "titel": "Goed pestvogeljaar — 54 meldingen in de afgelopen week, waarvan 5 vandaag",
+     "bron": "waarneming.nl",
+     "tijd": "",
+     "link": "https://waarneming.nl/species/306/observations/",
+     "vergelijking": "samen 62 vogels in de nieuwste meldingen"
     },
     {
-     "kop": "Kraanvogels",
-     "titel": "2 meldingen vertrek uit het noorden",
-     "bron": "DE 2",
-     "tijd": "",
-     "link": "https://www.sensingclues.org/craneradar"
+     "kop": "Pestvogels",
+     "titel": "8 binnen 75 km van Dalfsen",
+     "bron": "dichtstbij: Zwolle - Centrale Harculo, 11 km (2026-10-31)",
+     "tijd": "09:40",
+     "link": "https://waarneming.nl/species/306/observations/"
     }
    ]
   },
@@ -958,9 +901,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 9.8,
-    "gevoel": 9.5,
-    "wind": "W 1",
+    "nu": 10.0,
+    "gevoel": 10.0,
+    "wind": "WNW 0",
     "station": "Heino",
     "bericht": "Vandaag een grijze dag met in het zuidwesten eerst nog plaatselijk mist. Verder kan er landinwaarts wat motregen voorkomen. Vannacht enige tijd regen.",
     "vandaag": "Vandaag een grijze dag met in het zuidwesten eerst nog plaatselijk mist. Vannacht enige tijd regen.",
@@ -970,7 +913,7 @@
      "max": 11,
      "min": 9,
      "regenkans": 33,
-     "omschrijving": "bewolkt"
+     "omschrijving": "lichte motregen"
     },
     "vooruit": "Vrij zonnig en droog met maximumtemperaturen rond 10 graden, later in de week in de nachten temperaturen rond nul.",
     "omslag": null,
