@@ -3,15 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "08:00",
+  "opgehaald": "09:00",
   "blokken": 10,
-  "berichten": 91,
-  "problemen": [
-   "Nature Today: HTTP 503"
-  ],
+  "berichten": 95,
+  "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-01T08:00+01:00",
+ "opgehaald": "2026-11-01T09:00+01:00",
  "audio": "audio/20261101.mp3",
  "afval": [
   {
@@ -115,6 +113,15 @@
      "sorteer": "2026-11-01T02:44:33+01:00"
     },
     {
+     "titel": "Oekraïne valt grote Russische olieraffinaderij aan met drones",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/oekraine-valt-grote-russische-olieraffinaderij-aan-met-drones~bde4fbe2/",
+     "bron": "de Volkskrant",
+     "tijd": "08:25",
+     "sorteer": "2026-11-01T07:25:00+00:00"
+    },
+    {
      "titel": "Rechter wijst aanklacht tegen Wall Street Journal over seksueel getint kaartje aan Epstein af",
      "context": "",
      "rubrieken": [],
@@ -124,15 +131,6 @@
      "sorteer": "2026-11-01T04:25:00+00:00"
     },
     {
-     "titel": "VS willen nog één of twee doelen in Iran aanvallen",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/vs-willen-nog-een-of-twee-doelen-in-iran-aanvallen~b7a280d3/",
-     "bron": "de Volkskrant",
-     "tijd": "04:28",
-     "sorteer": "2026-11-01T03:28:00+00:00"
-    },
-    {
      "titel": "Telegraaf op zondag 1 november 2026 | TEL Telegraaf op zondag zondag 1 november",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kU1RYaWRkUzY4MjI2djJ5ZnZzejZ0QlBvS0RlM2lvbnk4RktvSjN0Qko5RElyWEJUZm96bG5ZNlpxWXFWQlpUWmZzUWg3dnlHZDhXTGg3NXB6bjFXUzhWNHhkdVV0SDFrWDhwMG5n?oc=5",
      "bron": "De Telegraaf",
@@ -140,39 +138,59 @@
      "sorteer": "2026-11-01T06:33:45+00:00"
     },
     {
+     "titel": "India’s Congress Party Plans Mass Protest in New Delhi",
+     "context": "Organizers are calling for one of the biggest demonstrations yet, in a string of rallies that has racked India since the summer.",
+     "rubrieken": [
+      "Demonstrations, Protests and Riots",
+      "New Delhi (India)",
+      "Indian National Congress",
+      "Bharatiya Janata Party",
+      "Cockroach Janta Party (India)",
+      "Gandhi, Rahul",
+      "Modi, Narendra"
+     ],
+     "link": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
+     "bron": "New York Times",
+     "tijd": "08:54",
+     "sorteer": "2026-11-01T07:54:50+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
      "titel": "Shops looted as German cost of living protests turn violent",
      "context": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "07:30",
-     "sorteer": "2026-11-01T06:30:59+00:00",
+     "tijd": "08:36",
+     "sorteer": "2026-11-01T07:36:18+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Indian forces tighten security in Delhi ahead of big opposition protest",
-     "context": "Opposition says hundreds of thousands of people expected to participate in march demanding election chief resign over voter list changes Indian security personnel carrying batons and shields and accompanied by riot control vehicles surrounded the site of a planned opposition ⁠protest in Delhi on Sunday that is set to demand the resignation of the country’s election chief over a controversial revis",
-     "rubrieken": [
-      "India",
-      "Protest",
-      "South and central Asia"
-     ],
-     "link": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
-     "bron": "The Guardian",
-     "tijd": "07:20",
-     "sorteer": "2026-11-01T06:20:58+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
-     "context": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.",
+     "titel": "India's opposition holds mega rally seeking election chief's resignation",
+     "context": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
      "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
+     "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "07:03",
-     "sorteer": "2026-11-01T06:03:57+00:00",
+     "tijd": "08:00",
+     "sorteer": "2026-11-01T07:00:55+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Jacinda Ardern in Sydney Opera House talk advises politicians to ‘rebuild trust by building financial security’",
+     "context": "Former New Zealand prime minister has moved to Australia and is lecturing at University of Sydney – and from stage of city’s famous landmark Jacinda Ardern, who now calls Sydney home, has delivered a message to Australian politicians from the stage of the city’s Opera House. Politicians, the former New Zealand prime minister turned academic told the audience on Sunday, were exacerbating the proble",
+     "rubrieken": [
+      "Jacinda Ardern",
+      "Australian politics",
+      "Australia news",
+      "New Zealand"
+     ],
+     "link": "https://www.theguardian.com/world/2026/nov/01/jacinda-ardern-sydney-opera-house-talk-advises-politicians-to-rebuild-trust",
+     "bron": "The Guardian",
+     "tijd": "07:53",
+     "sorteer": "2026-11-01T06:53:22+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -199,25 +217,6 @@
      "sorteer": "2026-11-01T05:00:00+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
-     "context": "Bangkok’s firefighters do more snake catching than firefighting, and Pinyo Pukpinyo trains them. But he refuses to kill the snakes, and he’s running out of containers.",
-     "rubrieken": [
-      "Snakes",
-      "Bangkok (Thailand)",
-      "Bangkok Fire Department",
-      "Fires and Firefighters",
-      "Monsoons",
-      "Floods",
-      "vis-photo"
-     ],
-     "link": "https://www.nytimes.com/2026/11/01/world/asia/hes-the-top-snake-catcher-and-business-is-booming-theres-just-one-problem.html",
-     "bron": "New York Times",
-     "tijd": "05:01",
-     "sorteer": "2026-11-01T04:01:15+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
     }
    ]
   },
@@ -227,7 +226,7 @@
    "emoji": "🇳🇱",
    "items": [
     {
-     "titel": "Honderdduizenden auto's ondanks mogelijke defecten toch de weg op",
+     "titel": "Honderdduizenden auto's ondanks mogelijke defecten toch de weg op, zo zit het met jouw auto",
      "context": "In Nederland rijden honderdduizenden personenauto's rond terwijl ze eigenlijk door een garage zouden moeten worden gecontroleerd of gerepareerd. Het gaat om auto's die het onderwerp zijn van terugroepacties die de RDW classificeert als \"ernstig\". Inzittenden lopen het risico op ongelukken, bijvoorbeeld doordat accu's in brand vliegen, of op extra letsel bij een ongeluk. Dat kan bijvoorbeeld als de",
      "rubrieken": [],
      "link": "https://nos.nl/l/2637553",
@@ -294,33 +293,32 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Peters broertje werd gedood met rattengif, door zijn moeder: 'Haar blik vergeet ik nooit'",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU2xwR01YQ2hBUER6ajBCRGxGLS1ZSnk5UkpKYjh3QzZIWGszclBnTmJqRkFXdEJ2NW5GNDRCTmRMNllrU0lQcWI1QldDX2VNS21VUnpISzFjRXdqZWd2Zk1BRmwzRHgyUnBUbWlUZzBYemN3WU5UcGE4TklNMEQtWmF6VlgzZDVoUFlGWnFXRW5VaE4zTVhITmNUQkdiU2VhQ0hXUS1JNUl2VzZRb1d5eEZkSF9nVmZkSHdzb1E2SlJUSGk1?oc=5",
+     "bron": "RTL.nl",
+     "tijd": "08:42",
+     "sorteer": "2026-11-01T07:42:51+00:00"
+    },
+    {
+     "titel": "Jeugdoverlast in Uden volgens Max en Yantra alleen aan te pakken met direct contact: ‘Die jongeren willen gezien en gehoord worden’",
+     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTWV3Tm1pdFpmYkhGcVc5TnAxbDZpaTVYS3N1cEhqVG1GaFUtZ2U0ZXJQbEdoMFZRVUwwdFZQRkxDMXV4MmxPeUxrM25zR1hzeDhQSkhubVpFMWRWRnB6VEpqSm1VeFFiYU5vdVp5VEpyYnlLb3JwclMwRkd1aTk1SDNwWFBwZnJNeGtMYnhrb2NJbEZ2dGNWaHllOExUQWY0RjllRHp6UURUd3BUOU1PaHhyVmtWMDZtNEFXaUpWNWZJWEVQSGJZcmdmeXAtVzZuN2hEX25lQ25USFYxLXctUDdneEh2RExJTF84LV9VLTc4a254NzhSMExR?oc=5",
+     "bron": "Brabants Dagblad",
+     "tijd": "08:30",
+     "sorteer": "2026-11-01T07:30:29+00:00"
+    },
+    {
+     "titel": "Een geheimzinnige envelop zonder afzender: dit gaat er schuil achter tips in moordzaken",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkE3V1hMMllIcmRmbDJmZkd0VlJyVGQ3VFVsQWJaNnlEWnk0ZDk3OXJZMmJBazltUFJJX1NGSW5nVktZa1VnNjVWaFFtR2hWR2dDQldKLU85TDRsSEFOQVcxWDNTWnBEaXJXYTIySjJkbHVWaTc4X09vd2NISWdJNVh1MUNFRDBZU3ZiTkQtc2FmYno2VERtX1kxZWFEWW9HZDcwdmh1QWJ0U0VQS2w5anZLRk9qdnlKVTZkeUxqdlEzRUYxelRVNmVMR3o?oc=5",
+     "bron": "de Stentor",
+     "tijd": "08:00",
+     "sorteer": "2026-11-01T07:00:41+00:00"
+    },
+    {
      "titel": "Nicole (44) verloor haar dochter aan zelfdoding: ’Op social media ontstonden allerlei complottheorieën over haar dood’",
      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSjc5dWQ0OEdWMlZianEyM2xqLVZYenFqdVYxaFZJNVludDd4TUQxSjVhNF92WFJzbUM2aDc5ZlBkejFtYlZNVEJmY0kyTVpaVnFDN0U4RThYb05COE5vaHBveHVubm5sQ2Z3anNhWFExUG4yU1VfTEpYS21TdXAyU3B4d1Q5bmI1Nm9zVWdNb2VjU2ZteDN4UjR1VmJad1pBdl9LV1RBT1F4Zm5CSkIteEFxMmR2Y3pMUDlrb2FIY1VKTFgtRmhLRTRRUFZJaUZRZ2FSTkxWVmstYURhcHU1SnE3UEtpYzVJQkU3eEJNTFFGN0Z3cWxobk5iOGFDSXJUOGFTejBTbVk?oc=5",
      "bron": "De Telegraaf",
      "tijd": "07:45",
      "sorteer": "2026-11-01T06:45:23+00:00"
-    },
-    {
-     "titel": "Klaascambuur organiseert eerste meet-and-greet: ’Laat ze maar komme’",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSzJyaUVUd2RUeWpKYzZycEoxcWNhc2I0OEpreDdyVW5wQW81bnRMZ0E1TWt1dXBzbTNocDA3REVSbU1CWTFlR3J3UktpVDJlaURLZWg2dnVMX3NzVDFQeFB3YjFrLXRqcUdXVXpkMWJNTV8tQkk1SDctYVpVWFMwT3VUZ2FGdzZ0OVhjZDFQTVc0dEhNTVpzSllTaUxqZFpxU2o5VEpnRnVyYUNIa09IZzZ1VEhMazRHelVjWGtaNTFMNkU?oc=5",
-     "bron": "Leeuwarder Courant",
-     "tijd": "02:59",
-     "sorteer": "2026-11-01T01:59:58+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Movember is niet meer de enige reden: de snor is weer een heus modesymbool",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUnRlcnFHaTNFN0Y4Qm1PQnNLOWNtcDBEelRQb3VRN1hsRzhBV3dOTzNDUjhPWklNVERlTmhOUWFaNFFXX0IwUEZRSFNJR2t2ZHM2TjM3aEt1ak5yNllOZFpTVkFUTHJweUMyQ09leTA4ZXlHd3I0TmhIc2hmRVNQSWduTDNldW1iTGtiVFd6ZUFrNC11YlhENzlodnVsOFdfR0tUTW9Bd3pZU1BfQ04zU1NR?oc=5",
-     "bron": "Brabants Dagblad",
-     "tijd": "07:00",
-     "sorteer": "2026-11-01T06:00:53+00:00"
-    },
-    {
-     "titel": "Zorgvilla Wezep gaat eind december dicht, maar moederbedrijf heeft zich niet aan belofte gehouden",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcml0YVFLM1pEWE1VWW96NS1LWDJkVk1YQlJ3MHpWRDN0QkRTeWNXV2hxejNvUXotRWVocGFmSUZEa1hGSEM3am1mZ3VZR291WUdsN24xREtoMFd3bzZrOGszemFycll0YTlFUnhfT0F2UUxZYUZTaWNmVFFGRV9sNDVkQXB3LVRETE14TW5EWHB0Y3dfNms0ei14TlhRNjJUdEIwdTRsYjN0NkxncjRqc2RSeGZIV2dCaC1iN1pQMEctWXlOSGRjUXB5a3ljcVBtdEpialpucTE?oc=5",
-     "bron": "de Stentor",
-     "tijd": "23:00",
-     "sorteer": "2026-10-31T22:00:00+00:00"
     },
     {
      "titel": "Brief van de hoofdredacteur: Over onmisbare onderzoeks­journalistiek in corrupte tijden",
@@ -355,6 +353,15 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Kleine fluistermuizen maken groot verschil in ziekenhuis MST Enschede",
+     "context": "Wie door het ziekenhuis in de binnenstad van Enschede loopt, kan in de gangen zomaar een muis tegenkomen. Geen echte, maar knuffels. Het zijn zogenoemde fluistermuizen, die een bijzondere rol spelen voor gezinnen waarvan een ouder op de intensive care ligt.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3712462/kleine-fluistermuizen-maken-groot-verschil-in-ziekenhuis-mst-enschede",
+     "bron": "RTV Oost",
+     "tijd": "08:01",
+     "sorteer": "2026-11-01T07:01:50+00:00"
+    },
     {
      "titel": "‘Een 6,3, een dikke voldoende’: Robert haalde alles uit zijn 63 levensjaren",
      "context": "Als kind 'weet' Robert Staal dat hij niet oud wordt. De Hengeloër haalt daarom alles uit zijn 63 levensjaren. De geboren ondernemer en creatieve omdenker heeft het talent om een kort verhaal lang te maken. 'Knap van dommigheid', noemt hij het zelf. Het is ook de titel van het boek over zijn leven.",
@@ -404,15 +411,6 @@
      "tijd": "17:35",
      "sorteer": "2026-10-31T16:35:08+00:00",
      "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Heb jij het nieuws goed gevolgd? Test het in de nieuwsquiz!",
-     "context": "Een groot aantal boetes, een legendarische voetbalwedstrijd en speciale verrassing: het kwam allemaal voorbij deze week. Wil jij weten hoe goed je op de hoogte bent van het nieuws? Test het in de nieuwsquiz!",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3713439/heb-jij-het-nieuws-goed-gevolgd-test-het-in-de-nieuwsquiz",
-     "bron": "RTV Oost",
-     "tijd": "17:00",
-     "sorteer": "2026-10-31T16:00:00+00:00"
     },
     {
      "titel": "Maandag 2 november weer Repair Café bij Noggus & Noggus",
@@ -657,6 +655,38 @@
    "emoji": "🌿",
    "items": [
     {
+     "titel": "Vandaag in de natuur",
+     "toelichting": "De rupsendoder is paddenstoel van het jaar 2026. Voor zijn familielid moet je echt heel veel geluk hebben: de bepoederde rupsendoder.",
+     "bron": "Nature Today",
+     "tijd": "",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35975",
+     "sein": true
+    },
+    {
+     "titel": "Natuurjournaal 1 november 2026",
+     "toelichting": "(Bepoederde) rupsendoder en poederzwamgast.",
+     "bron": "Nature Today",
+     "tijd": "06:45",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35975",
+     "sorteer": "2026-11-01T05:45:00+00:00"
+    },
+    {
+     "titel": "Van Halloween-icoon tot bondgenoot: 2027 is Het jaar van de Vleermuizen",
+     "toelichting": "Vleermuizen zie je vandaag overal als griezelige decoratie, maar wist je dat ze tot wel veertig jaar oud kunnen worden? Dat ze maar één jong per jaar krijgen? Of dat een pasgeboren vleermuisje zo’n 30 procent van het lic",
+     "bron": "Nature Today",
+     "tijd": "12:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36000",
+     "sorteer": "2026-10-31T11:00:00+00:00"
+    },
+    {
+     "titel": "Hoe ziet de Nederlandse flora van de toekomst eruit?",
+     "toelichting": "In juni 2027 opent de Hortus Botanicus Amsterdam een nieuw themagebied: Nederlandse flora van de toekomst. In deze tuinvakken ontdekken bezoekers hoe het Nederlandse landschap er onder invloed van klimaatverandering uit ",
+     "bron": "Nature Today",
+     "tijd": "07:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35995",
+     "sorteer": "2026-11-01T06:00:00+00:00"
+    },
+    {
      "titel": "Schillen en stronken verdwijnen in de gft-bak, maar zitten vaak vol vezels",
      "toelichting": "Schillen, stronken en zaadlijsten verdwijnen in de meeste keukens zonder er twee keer bij na te denken in de groene bak. Bij tien van de twaalf onderzochte groente- en fruitsoorten gooi je daarmee juist het deel met de m",
      "bron": "Scientias",
@@ -703,16 +733,16 @@
     },
     {
      "kop": "Verwachting",
-     "titel": "Vandaag — telpost 5, kraanvogels en ganzen 5, zeetrek 2",
-     "bron": "zwakke noordoostenwind; windstil, dus hoog en verspreid",
+     "titel": "Vandaag — telpost 1, kraanvogels en ganzen 1, zeetrek 2",
+     "bron": "westenwind pal tegen, dan blijven ze zitten; windstil, dus hoog en verspreid",
      "tijd": "",
      "link": "https://www.trektellen.org/",
      "toelichting": "Zangvogels vanaf zonsopkomst (07:31) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: lijsters, vinken, sijzen, ganzen en kraanvogels."
     },
     {
      "kop": "Verwachting",
-     "titel": "Morgen — telpost 5, kraanvogels en ganzen 2, zeetrek 2",
-     "bron": "zwakke noordenwind",
+     "titel": "Morgen — telpost 1, kraanvogels en ganzen 1, zeetrek 2",
+     "bron": "zwakke noordenwind; regen in de ochtend; mist",
      "tijd": "",
      "link": "https://www.trektellen.org/",
      "toelichting": "Zangvogels vanaf zonsopkomst (07:32) tot een uur of drie daarna; het eerste uur is het drukst. Te verwachten: ganzen, lijsters, houtduiven en barmsijzen."
@@ -758,12 +788,20 @@
      "toelichting": "Zangvogels vanaf zonsopkomst (07:42) tot een uur of drie daarna; het eerste uur is het drukst. Kraanvogels en ganzen de hele dag, vaak juist 's middags. Te verwachten: ganzen, lijsters, houtduiven en barmsijzen."
     },
     {
+     "titel": "Raddes Boszanger",
+     "kop": "Zeldzaamheden",
+     "bron": "Friesland",
+     "tijd": "08:06",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-01T08:06:00+01:00"
+    },
+    {
      "titel": "Dunsnavelnotenkraker",
      "kop": "Zeldzaamheden",
-     "bron": "Zeeland",
-     "tijd": "16:07",
+     "bron": "Drenthe",
+     "tijd": "07:51",
      "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-10-31T16:07:00+01:00"
+     "sorteer": "2026-11-01T07:51:00+01:00"
     },
     {
      "titel": "Woestijntapuit",
@@ -806,42 +844,42 @@
      "sorteer": "2026-10-31T12:08:00+01:00"
     },
     {
-     "titel": "Landelijk vandaag: 161 soorten, 148.017 vogels geteld",
+     "titel": "Landelijk vandaag: 81 soorten, 232.886 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261101?language=dutch"
     },
     {
-     "titel": "Spreeuw — 82.803",
+     "titel": "Spreeuw — 218.782",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261101?language=dutch"
     },
     {
-     "titel": "Kramsvogel — 21.924",
+     "titel": "Kolgans — 6.249",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261101?language=dutch"
     },
     {
-     "titel": "Kolgans — 10.203",
+     "titel": "Brandgans — 1.908",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261101?language=dutch"
     },
     {
-     "titel": "Brandgans — 6.737",
+     "titel": "Kramsvogel — 1.026",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261101?language=dutch"
     },
     {
-     "titel": "Vink — 3.790",
+     "titel": "Vink — 817",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -849,55 +887,47 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Kramsvogel springt eruit — 21.924, normaal 504",
-     "bron": "44× het gewone niveau",
+     "titel": "Brandgans springt eruit — 1.908, normaal 249",
+     "bron": "8× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261101?language=dutch",
-     "sein": true
+     "sein": false
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Brandgans springt eruit — 6.737, normaal 249",
-     "bron": "27× het gewone niveau",
+     "titel": "Spreeuw springt eruit — 218.782, normaal 37.251",
+     "bron": "6× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261101?language=dutch",
-     "sein": true
+     "sein": false
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Rotgans springt eruit — 432, normaal 22",
-     "bron": "20× het gewone niveau",
+     "titel": "Merel springt eruit — 614, normaal 190",
+     "bron": "3× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261101?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Tafeleend springt eruit — 71, normaal 4",
-     "bron": "18× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261101?language=dutch",
-     "sein": true
+     "sein": false
     },
     {
      "kop": "Kraanvogels",
-     "titel": "Volop trek — gisteren 168 meldingen, samen 41.045 vogels",
+     "titel": "Rustig — vandaag 8 meldingen, samen 1.188 vogels",
      "bron": "observation.org",
      "tijd": "",
      "link": "https://waarneming.nl/species/19/observations/",
-     "vergelijking": "oplopend — dag ervoor 92 · afgelopen week gemiddeld 135 per dag"
+     "vergelijking": "aflopend — dag ervoor 169 · afgelopen week gemiddeld 128 per dag"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "16 binnen 75 km van Dalfsen",
-     "bron": "dichtstbij: Zwolle - Stadshagen, 14 km",
-     "tijd": "18:02",
+     "titel": "1 binnen 75 km van Dalfsen",
+     "bron": "dichtstbij: Wapse - Wapserlanden, 37 km",
+     "tijd": "08:13",
      "link": "https://waarneming.nl/species/19/observations/"
     },
     {
      "kop": "Kraanvogels",
-     "titel": "98 meldingen vertrek uit het noorden",
-     "bron": "DE 98",
+     "titel": "2 meldingen vertrek uit het noorden",
+     "bron": "DE 2",
      "tijd": "",
      "link": "https://www.sensingclues.org/craneradar"
     }
@@ -928,19 +958,19 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 9.6,
-    "gevoel": 9.6,
-    "wind": "NW 1",
+    "nu": 9.8,
+    "gevoel": 9.5,
+    "wind": "W 1",
     "station": "Heino",
     "bericht": "Vandaag een grijze dag met in het zuidwesten eerst nog plaatselijk mist. Verder kan er landinwaarts wat motregen voorkomen. Vannacht enige tijd regen.",
     "vandaag": "Vandaag een grijze dag met in het zuidwesten eerst nog plaatselijk mist. Vannacht enige tijd regen.",
     "temperatuur": "Zo daalde het kwik in Gilze-Rijen op klomphoogte naar -2,2 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: 9 tot 10 graden, 33% kans op neerslag, wind uit het westen, kracht 1.",
-     "max": 10,
+     "zin": "Voor Dalfsen zelf: 9 tot 11 graden, 33% kans op neerslag, wind uit het noordwesten, kracht 2.",
+     "max": 11,
      "min": 9,
      "regenkans": 33,
-     "omschrijving": "lichte motregen"
+     "omschrijving": "bewolkt"
     },
     "vooruit": "Vrij zonnig en droog met maximumtemperaturen rond 10 graden, later in de week in de nachten temperaturen rond nul.",
     "omslag": null,
