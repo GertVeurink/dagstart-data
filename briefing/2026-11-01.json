@@ -3,13 +3,13 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "12:00",
+  "opgehaald": "13:00",
   "blokken": 10,
-  "berichten": 85,
+  "berichten": 84,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-01T12:00+01:00",
+ "opgehaald": "2026-11-01T13:00+01:00",
  "audio": "audio/20261101.mp3",
  "afval": [
   {
@@ -68,6 +68,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Oekraïense aanvallen op olielocaties diep in Rusland hervat",
+     "context": "Ondanks berichten dat Oekraïne droneaanvallen op olieproductielocaties in Rusland had gestaakt, zijn er de afgelopen dagen toch nieuwe aanvallen geweest. Zo is vannacht in de Russische regio Nizjni Novgorod door een droneaanval brand ontstaan in een olieraffinaderij. Volgens de gouverneur is er aanzienlijke schade aan de faciliteit die in het district Kstovo ligt, melden Russische staatsmedia. De ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637570",
+     "bron": "NOS",
+     "tijd": "12:05",
+     "sorteer": "2026-11-01T12:05:08+01:00"
+    },
+    {
      "titel": "NASA-vrijwilligers weer thuis na jaar op nagebootste Mars-missie",
      "context": "Ruim een jaar zaten ze opgesloten in een NASA-gebouwtje van maar 160 vierkante meter in het Johnson Space Center in de Texaanse stad Houston en gisteren kwamen ze naar buiten. Ross Elder, Matthew Montgomery, James Spicer en Ellen Ellis deden vrijwillig mee aan een experiment waarin het leven op Mars werd nagebootst. Op 19 oktober 2025 stapten ze de ruimte binnen en waren vervolgens vrijwel afgeslo",
      "rubrieken": [],
@@ -104,15 +113,6 @@
      "sorteer": "2026-11-01T07:11:43+01:00"
     },
     {
-     "titel": "Rusland voert aanvallen Oekraïne op: 'Ze willen ons bewegen naar capitulatie'",
-     "context": "Niet eerder in de oorlog in Oekraïne zijn er zoveel burgers gewond geraakt of omgekomen als de afgelopen weken, met uitzondering van de beginperiode na de invasie in 2022. Rusland voert het aantal aanvallen verder op en de Amerikanen zetten de Oekraïense president Volodymyr Zelensky ondertussen stevig onder druk. Deze maand worden in Abu Dhabi wellicht mogelijkheden voor een vredesakkoord besproke",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2637549",
-     "bron": "NOS",
-     "tijd": "07:00",
-     "sorteer": "2026-11-01T07:00:02+01:00"
-    },
-    {
      "titel": "Ruzie over Israël bederft eenheid Democraten in Michigan",
      "context": "",
      "rubrieken": [],
@@ -137,25 +137,40 @@
      "link": "https://www.trouw.nl/buitenland/de-nauwe-samenwerking-tussen-de-eu-en-canada-is-een-win-win~b99f66f2/",
      "bron": "Trouw",
      "tijd": "11:57",
-     "sorteer": "2026-11-01T10:57:58+00:00"
+     "sorteer": "2026-11-01T10:57:00+00:00"
     },
     {
-     "titel": "UK’s future lies in EU, says Rachel Reeves",
-     "context": "The intervention by the former British chancellor comes ahead of a UK-EU summit later this month.",
+     "titel": "Shops looted as German cost of living protests turn violent",
+     "context": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "12:57",
+     "sorteer": "2026-11-01T11:57:48+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Commission backs Tusk as he vows no compromise in court showdown",
+     "context": "\"Appointing the new judges lies within the power of the Sejm,\" Commissioner Michael McGrath told POLITICO.",
      "rubrieken": [
-      "Brexit",
+      "Abortion",
+      "Courts",
+      "Polish Politics",
+      "Rule of Law",
+      "Security",
       "Politics"
      ],
-     "link": "https://www.politico.eu/article/uk-future-eu-says-rachel-reeves/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "link": "https://www.politico.eu/article/european-commission-backs-donald-tusk-over-poland-constitutional-court-judges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
      "bron": "Politico Europe",
-     "tijd": "11:45",
-     "sorteer": "2026-11-01T10:45:36+00:00",
+     "tijd": "12:52",
+     "sorteer": "2026-11-01T11:52:15+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
      "titel": "Minister says UK apology over historic role in slave trade won’t lead to financial reparations – UK politics live",
-     "context": "Ahead of a meeting with Commonwealth leaders, Andy Burnham wrote that Britain needed to ‘acknowledge its complicated history’ On the slave trade apology, Badenoch repeats what she wrote on X yesterday, dismissing the discussion as “naval gazing”. She also claims that “We have apologised. Tony Blair apologised twice.” I assume she’s referring to Blair’s statements in 2006 and 2007, around the 200th",
+     "context": "Ahead of a meeting with Commonwealth leaders, Andy Burnham wrote that Britain needed to ‘acknowledge its complicated history’ Over on Sky earlier, the Liberal Democrats leader Sir Ed Davey has also backed the government’s move towards an apology saying “we should have that debate”. “If you’ve done something wrong, I have no problem for apologising. I think that’s what normal people expect to do,” ",
      "rubrieken": [
       "Politics",
       "UK news",
@@ -163,8 +178,8 @@
      ],
      "link": "https://www.theguardian.com/politics/live/2026/nov/01/andy-burnham-uk-historic-slave-trade-financial-reparations-badenoch-budget-defence-latest-politics-news-updates",
      "bron": "The Guardian",
-     "tijd": "11:38",
-     "sorteer": "2026-11-01T10:38:51+00:00",
+     "tijd": "12:34",
+     "sorteer": "2026-11-01T11:34:35+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -199,17 +214,6 @@
      "bron": "BBC",
      "tijd": "10:28",
      "sorteer": "2026-11-01T09:28:06+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Shops looted as German cost of living protests turn violent",
-     "context": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "09:43",
-     "sorteer": "2026-11-01T08:43:00+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -287,11 +291,11 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Opnieuw gaat het mis bij een duel van SC Cambuur: ME grijpt in na ongeregeldheden in uitvak",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTlE5dGQ5U2lzNHZqSDZVOUNqcW1CZGJPR2hQY0huTXcwd2ZXWndDdDJWMlVoRFhnY2QtREVlUHNjeHJCeE9LZEJPbHVjeDR2Z1luakNhQWFkU0ZrOGpZZnQxMGpHbHVIbV9qOFRzOHNWMFJDOEtib1MtaVNWaG41RkZhU3dzM1VBdV96MHlFTTB1a3FGRnpiUXlINXdDNWxzeWVhTTlWZTBTUmd5cFZiN1BFMWxQbUwxNmxJLXVvQmxXSk1hcl82SDNhTmhYX2dsRGdCSEhjVQ?oc=5",
-     "bron": "Leeuwarder Courant",
-     "tijd": "11:57",
-     "sorteer": "2026-11-01T10:57:32+00:00"
+     "titel": "Nicole (44) verloor haar dochter aan zelfdoding: ’Op social media ontstonden allerlei complottheorieën over haar dood’",
+     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSjc5dWQ0OEdWMlZianEyM2xqLVZYenFqdVYxaFZJNVludDd4TUQxSjVhNF92WFJzbUM2aDc5ZlBkejFtYlZNVEJmY0kyTVpaVnFDN0U4RThYb05COE5vaHBveHVubm5sQ2Z3anNhWFExUG4yU1VfTEpYS21TdXAyU3B4d1Q5bmI1Nm9zVWdNb2VjU2ZteDN4UjR1VmJad1pBdl9LV1RBT1F4Zm5CSkIteEFxMmR2Y3pMUDlrb2FIY1VKTFgtRmhLRTRRUFZJaUZRZ2FSTkxWVmstYURhcHU1SnE3UEtpYzVJQkU3eEJNTFFGN0Z3cWxobk5iOGFDSXJUOGFTejBTbVk?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "12:36",
+     "sorteer": "2026-11-01T11:36:07+00:00"
     },
     {
      "titel": "Opmerkelijke afpersingszaak: man verdacht van dreigen met delen van foto’s van huis van Joods stel op Snapchat",
@@ -301,16 +305,16 @@
      "sorteer": "2026-11-01T10:53:13+00:00"
     },
     {
-     "titel": "Alda Poulussen exposeert met ‘Schilderen met wol’",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZHFaeXNaLXpRWVlfQklsbE5pUy1YTGRZeV9tdXljMDVwRnlwU3ZQZjJWN3oxLUU3M3hydnJhd1NIeURvcTVXMWRLSmxicVlJRlJHdmRwTnNOemRkbzhHck40dzZQSnJzVFJ5MEZiU0FLZTIzTVhvLXE1VDNwbVFFUWZldE0wX3M3ZmFj?oc=5",
-     "bron": "Brabants Dagblad",
-     "tijd": "10:58",
-     "sorteer": "2026-11-01T09:58:00+00:00"
+     "titel": "Opnieuw ging het mis bij SC Cambuur: ME grijpt in na ongeregeldheden in uitvak",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOWNjRjdfeGxlTTZab0Nic0NjZnF6OE9raVVNRS1oSWtLQzM3TGRJeHJjdW1fdy1YeDA0YUVJbDlWWF9lY2tLUWotWTdJRlR5RDFjRnRTR3YxQTZJYXc4VWNpeVZEc2hDTndJR2tQU0ZHUWE4TU05ZXd0LVpqR3Z4OFZHd3lIb0l6V05jbHlYTEFKSldRNTMtRVFKZ0V1YkU5RDNwdE5xMzdsVWttazdydUJId1NIZkZpYVpMMWpLNldZSVJkWlE?oc=5",
+     "bron": "Leeuwarder Courant",
+     "tijd": "11:31",
+     "sorteer": "2026-11-01T10:31:34+00:00"
     },
     {
-     "titel": "Bali, burn-outs en sneeuwvlokken: wat klopt er nou écht van die gen Z-vooroordelen?",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeEhxTFF4dWxEXzVmZGhnU3FkZG9kMmJnZ2Zhem1WVERJN0FTeHFDV1hud2sxSGVMTmppeXF0UVg3TjlYMUcwcHlhcTdJQm0tYnF4WXVXNktYYnJRRlhtbTlGbHRjMkRSVTBNOVJHbUpkcVd0YUJrMHhjSzNPOHFRREVQR0xqazlIQkUtRTZTd1FlcV91R1UzTkV2Q21HNXRSV01LYms4WTJhR1NwSWx5eEtTVTFfSnhRRG1R?oc=5",
-     "bron": "Eindhovens Dagblad",
+     "titel": "Gen Z lui en sneller een burn-out? ‘Oudere generaties gingen door tot ze omvielen, jongeren trekken eerder aan de bel’",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUzVHTkdjbWt3UHJ2YjM0UTVGbXpwbG1VeXZxdWV4b0lhVDI5M2tZLTdRaklNVWt3bnNzRVl6QnFTaWU5d2FmS0Z1aDd2VExHR3k3aXdHUDc5SmZCZUN4bFNjS0RhekZmTGxmUjRpT0RPck9YUHRoYmhVdm1ieDRDWTAwN0I5MWx1YVBKcnBfRHpkQUdkRzZjaklOdTB0cUh0LU4zOGVqY3ZpbXVCSUdkUmFFUnhVSnNJXzBSS0xkdHNNUUlGZkI5NG1rbGVIYzMwNTNLNkFtQ0QyNEgtZGc2bTVRQklkdEUx?oc=5",
+     "bron": "AD.nl",
      "tijd": "11:30",
      "sorteer": "2026-11-01T10:30:00+00:00"
     },
@@ -348,13 +352,33 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Brandstoftank verandert in vergiet; benzinedieven slaan toe in Deventer",
+     "context": "De Worp is een geliefde plek om te parkeren voor een bezoekje aan de Deventer binnenstad, maar ook een plek waar benzinedieven toeslaan. En die gebruiken een niet zo'n bekende methode. Het afgelopen kwartaal ontving de politie tien meldingen van gedupeerden. Ook van een verslaggever van RTV Oost.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3710730/brandstoftank-verandert-in-vergiet-benzinedieven-slaan-toe-in-deventer",
+     "bron": "RTV Oost",
+     "tijd": "12:08",
+     "sorteer": "2026-11-01T11:08:41+00:00"
+    },
+    {
      "titel": "Agent mishandeld na gestaakte wedstrijd Cambuur-Go Ahead Eagles, man uit Raalte aangehouden",
      "context": "Een 23-jarige man uit Raalte is aangehouden op verdenking van mishandeling van een politieagent. Dat gebeurde zaterdag na de voetbalwedstrijd tussen SC Cambuur en Go Ahead Eagles. De wedstrijd werd na tachtig minuten bij een 4-0 tussenstand definitief gestaakt vanwege herhaaldelijk afgestoken en gegooid vuurwerk vanuit het uitvak van Go Ahead Eagles.",
-     "rubrieken": [],
+     "rubrieken": [
+      "breaking"
+     ],
      "link": "https://www.oost.nl/nieuws/3713749/agent-mishandeld-na-gestaakte-wedstrijd-cambuur-go-ahead-eagles-man-uit-raalte-aangehouden",
      "bron": "RTV Oost",
      "tijd": "10:50",
      "sorteer": "2026-11-01T09:50:56+00:00"
+    },
+    {
+     "titel": "Man uit Amsterdam (43) aangehouden voor reeks autobranden in Almelo",
+     "context": "De politie heeft een 43-jarige man uit Amsterdam aangehouden voor een reeks autobranden in Almelo. De branden vonden plaats in de nacht van zaterdag op zondag. De man kon worden aangehouden door een duidelijk signalement. Het onderzoek naar zijn betrokkenheid bij de branden loopt nog.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3713746/man-uit-amsterdam-43-aangehouden-voor-reeks-autobranden-in-almelo",
+     "bron": "RTV Oost",
+     "tijd": "10:00",
+     "sorteer": "2026-11-01T09:00:09+00:00"
     },
     {
      "titel": "Kleine fluistermuizen maken groot verschil in ziekenhuis MST Enschede",
@@ -386,48 +410,28 @@
      "sorteer": "2026-11-01T05:00:00+00:00"
     },
     {
-     "titel": "Vier autobranden binnen half uur in Almelo, politie via Burgernet: 'Wees alert'",
-     "context": "In Almelo zijn zaterdag aan het einde van de avond op meerdere plaatsen autobranden uitgebroken. Via Burgernet vraagt de politie mensen waakzaam te zijn voor verdachte situaties.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3713728/vier-autobranden-binnen-half-uur-in-almelo-politie-via-burgernet-wees-alert",
-     "bron": "RTV Oost",
-     "tijd": "00:07",
-     "sorteer": "2026-10-31T23:07:00+00:00"
-    },
-    {
-     "titel": "Groene vingers, lege handen: dieven roven gereedschap natuurvereniging Raalte",
-     "context": "Een flinke domper voor natuurvereniging IVN in Raalte. Daar is een aanhanger gestolen, vol met snoeigereedschap en ladders. De kar werd vooral gebruikt voor de onderhoud van wilgen en hoogstamfruit. De schade loopt op tot ruim 15.000 euro.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3713590/groene-vingers-lege-handen-dieven-roven-gereedschap-natuurvereniging-raalte",
-     "bron": "RTV Oost",
-     "tijd": "20:00",
-     "sorteer": "2026-10-31T19:00:00+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Merel: De verwarming hoger? Eerst de gezelligste trui!",
-     "context": "DALFSEN – De koude dagen komen eraan. Voordat je aan de thermostaat draait, is er misschien een veel leukere oplossing: de kledingkast! In deze Merel lees je hoe je van een warme trui, dikke sokken en een dekentje een heerlijke wintergewoonte maakt, die ook nog eens goed is voor je portemonnee. “Nog even en het […]",
+     "titel": "Kerstmarkt bij de Molen van Fakkert – Hoonhorst",
+     "context": "HOONHORST – Het schiet ongemerkt al weer mooi op. De voorbereidingen zijn gaande. Op zondag 13 december 2026 van 12.00 tot 16.00 uur organiseert Stichting de Molen van Fakkert te Hoonhorst haar jaarlijkse Kerstmarkt rondom de molen. Wilt u op en gezellige kerstmarkt staan, meldt u dan aan! De eerste deelnemers hebben zich al […]",
      "rubrieken": [
-      "Dalfsen",
-      "Ingezonden bericht",
+      "Evenementen",
+      "Hoonhorst",
       "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/555650/merel-de-verwarming-hoger-eerst-de-gezelligste-trui.html",
+     "link": "https://www.dalfsennet.nl/nieuws/555726/kerstmarkt-bij-de-molen-van-fakkert-hoonhorst.html",
      "bron": "DalfsenNet",
-     "tijd": "09:30",
-     "sorteer": "2026-11-01T08:30:20+00:00"
+     "tijd": "12:57",
+     "sorteer": "2026-11-01T11:57:03+00:00"
     },
     {
-     "titel": "Maandag 2 november weer Repair Café bij Noggus & Noggus",
-     "context": "DALFSEN – Maandag 2 november is er weer ons gebruikelijke Repair Café bij Noggus & Noggus. Ook Margreet is aanwezig voor al uw naai- en verstelwerk. Let op: vanwege de mooie kerstaanbiedingen bij Noggus & Noggus zitten we iets verderop dan u gewend bent. Volg de aanwijzingen in de winkel, dan vindt u ons vanzelf. […]",
+     "titel": "Ongekend feest op het Sallands Bakfeest in Dalfsen",
+     "context": "DALFSEN – Een warm muzikaal onthaal, uitbundige optredens en een feesttent die volledig op zijn kop ging: het Sallands Bakfeest 2026 was een avond om niet snel te vergeten. Met een gevarieerd programma en de inzet van vele vrijwilligers werd het een groot feest. De Vechtboerties zorgden voor een warm en swingend welkom. Daarmee zat […]",
      "rubrieken": [
-      "Dalfsen",
-      "Laatste nieuws"
+      "Geen categorie"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/555716/maandag-2-november-weer-repair-cafe-bij-noggus-noggus.html",
+     "link": "https://www.dalfsennet.nl/nieuws/555722/ongekend-feest-op-het-sallands-bakfeest-in-dalfsen.html",
      "bron": "DalfsenNet",
-     "tijd": "23:42",
-     "sorteer": "2026-10-31T22:42:57+00:00"
+     "tijd": "12:33",
+     "sorteer": "2026-11-01T11:33:29+00:00"
     }
    ]
   },
@@ -542,14 +546,6 @@
      "tijd": "29-10",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D54176",
      "sorteer": "2026-10-30T17:29:27.743+01:00"
-    },
-    {
-     "titel": "Motie van de leden Prickaertz en Grinwis over spoorwegpolitie inzetten op trajecten en stations waar structureel agressie en…",
-     "bron": "Motie",
-     "kop": "Brieven en moties",
-     "tijd": "29-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D54252",
-     "sorteer": "2026-10-30T13:21:19.24+01:00"
     },
     {
      "titel": "Begrotingsonderdeel Artikel 31 Politie",
@@ -718,10 +714,10 @@
     {
      "titel": "Notenkraker",
      "kop": "Zeldzaamheden",
-     "bron": "Utrecht",
-     "tijd": "11:28",
+     "bron": "Gelderland",
+     "tijd": "11:52",
      "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-01T11:28:00+01:00"
+     "sorteer": "2026-11-01T11:52:00+01:00"
     },
     {
      "titel": "Bruine Boszanger",
@@ -831,11 +827,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Ze zijn in het land — 60 meldingen in de afgelopen week, waarvan 10 vandaag",
+     "titel": "Ze zijn in het land — 61 meldingen in de afgelopen week, waarvan 11 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 68 vogels in de nieuwste meldingen"
+     "vergelijking": "samen 69 vogels in de nieuwste meldingen"
     },
     {
      "kop": "Pestvogels",
@@ -873,17 +869,17 @@
    "weer": {
     "nu": 10.2,
     "gevoel": 10.2,
-    "wind": "W 2",
+    "wind": "WZW 2",
     "station": "Heino",
-    "bericht": "Vandaag een grijze dag met in het zuidwesten eerst nog plaatselijk mist. Verder kan er landinwaarts wat motregen voorkomen. Vannacht enige tijd regen.",
-    "vandaag": "Vandaag een grijze dag met in het zuidwesten eerst nog plaatselijk mist. Vannacht enige tijd regen.",
-    "temperatuur": "Zo daalde het kwik in Gilze-Rijen op klomphoogte naar -2,2 graden.",
+    "bericht": "Vandaag is een grijze dag met af en toe wat motregen. Vannacht trekt een strook met buien over het land. Morgenochtend trekt de regen weg naar het zuidoosten, met daarachter wat zon en een bui.Vanmiddag is het in het hele land bewolkt en er kan plaatselijk wat motregen voorkomen, maar dat zal weinig voorstellen.",
+    "vandaag": "Vandaag is een grijze dag met af en toe wat motregen. Vannacht trekt een strook met buien over het land.",
+    "temperatuur": "Het koelt af naar 7 tot 10 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: 9 tot 11 graden, 33% kans op neerslag, wind uit het noordwesten, kracht 2.",
+     "zin": "Voor Dalfsen zelf: 9 tot 11 graden, 33% kans op neerslag, wind uit het westen, kracht 2.",
      "max": 11,
      "min": 9,
      "regenkans": 33,
-     "omschrijving": "bewolkt"
+     "omschrijving": "lichte motregen"
     },
     "vooruit": "Vrij zonnig en droog met maximumtemperaturen rond 10 graden, later in de week in de nachten temperaturen rond nul.",
     "omslag": null,
