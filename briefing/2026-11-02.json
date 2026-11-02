@@ -3,14 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "07:00",
-  "blokken": 10,
-  "berichten": 76,
+  "opgehaald": "08:00",
+  "blokken": 11,
+  "berichten": 78,
   "problemen": [],
-  "audio_herkomst": "model",
-  "audio_aangehaakt": "07:20"
+  "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-02T07:00+01:00",
+ "opgehaald": "2026-11-02T08:00+01:00",
  "audio": "audio/20261102.mp3",
  "afval": [
   {
@@ -69,6 +68,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Zeker twaalf buitenlanders onder dodelijke slachtoffers treinramp Spanje",
+     "context": "Het aantal dodelijke buitenlandse slachtoffers van de treinramp in Spanje vorige week is gestegen naar twaalf. In totaal kwamen 69 mensen om het leven. Van drie mensen moet de identiteit nog worden vastgesteld. Spaanse autoriteiten verwachten dat ook zij buitenlanders zijn. Onder de slachtoffers zijn 54 Spanjaarden en vier Amerikanen. De andere slachtoffers komen uit Canada, Japan, Argentinië, Mex",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637691",
+     "bron": "NOS",
+     "tijd": "07:33",
+     "sorteer": "2026-11-02T07:33:23+01:00"
+    },
+    {
      "titel": "Wekdienst 2/11: Wielergala Awards worden uitgereikt • Overledenen herdacht op Allerzielen",
      "context": "Goedemorgen! Waarschuwingen voor onweer, ijzel, regen of ander potentieel gevaarlijk weer worden voortaan lokaal afgegeven in plaats van per provincie. En in Utrecht worden de wielrenner en wielrenster van het jaar bekendgemaakt. Eerst het weer: vanochtend trekt een regengebied weg uit het zuiden. In Limburg blijft het lang grijs. Elders wisselen wolken, zon en enkele buien elkaar af. Het wordt 10",
      "rubrieken": [],
@@ -105,15 +113,6 @@
      "sorteer": "2026-11-02T01:02:18+01:00"
     },
     {
-     "titel": "Privéjet stort neer in woonwijk in Florida, alle negen inzittenden omgekomen",
-     "context": "In de Amerikaanse staat Florida is een privévliegtuig met negen inzittenden neergestort. Alle mensen aan boord zijn daarbij om het leven gekomen, meldt de minister van Transport Sean Duffy. De identiteit van de slachtoffers is niet bekendgemaakt. Het toestel, een Learjet 60, was opgestegen in Texas en was onderweg naar de Bahama's, voor de kust van Florida. Ook is de exacte oorzaak van de crash no",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2637682",
-     "bron": "NOS",
-     "tijd": "00:31",
-     "sorteer": "2026-11-02T00:31:36+01:00"
-    },
-    {
      "titel": "WSJ: ‘VS willen gaslevering Rusland aan Europa via Oekraïne, met Amerikaanse tussenpersoon’",
      "context": "",
      "rubrieken": [],
@@ -139,6 +138,35 @@
      "bron": "Trouw",
      "tijd": "02:38",
      "sorteer": "2026-11-02T01:38:00+00:00"
+    },
+    {
+     "titel": "Police use facial recognition to scan one million faces in WA trial leading to 122 arrests",
+     "context": "Deployments of surveillance vans over five months resulted in nine false alerts and led officers to engage with 146 registered sex offenders Get our breaking news email , free app or daily news podcast More than a million people have had their faces scanned in a trial of real-time facial recognition technology in Western Australia, resulting in 122 arrests and nine incorrect alerts. WA police said",
+     "rubrieken": [
+      "Western Australia",
+      "Australian police and policing",
+      "Facial recognition",
+      "AI (artificial intelligence)",
+      "Australia news",
+      "Technology"
+     ],
+     "link": "https://www.theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial",
+     "bron": "The Guardian",
+     "tijd": "07:12",
+     "sorteer": "2026-11-02T06:12:52+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Iran killed her teenage daughter - now she is facing up to the regime",
+     "context": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "07:00",
+     "sorteer": "2026-11-02T06:00:54+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
      "titel": "A Lesson From Germany",
@@ -188,42 +216,13 @@
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Counsellors and psychotherapists call for UK statutory regulation in ‘watershed moment’",
-     "context": "Exclusive: Professional bodies call for regulation to boost confidence and protect public from abuse in ‘landmark’ report Ministers should introduce statutory regulation for counsellors and psychotherapists to protect the public from abuse, according to a report that has been hailed as a “watershed moment” for the profession. Unlike most other healthcare roles, including doctors, midwives and oste",
-     "rubrieken": [
-      "Counselling and therapy",
-      "Psychiatry",
-      "Society",
-      "Politics",
-      "UK news"
-     ],
-     "link": "https://www.theguardian.com/society/2026/nov/02/counsellors-psychotherapists-statutory-regulation-uk-professional-bodies",
-     "bron": "The Guardian",
-     "tijd": "06:01",
-     "sorteer": "2026-11-02T05:01:31+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-     "context": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+     "titel": "How a Democrat in Michigan rocked the party days before the US midterms",
+     "context": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
      "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+     "link": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "02:45",
-     "sorteer": "2026-11-02T01:45:42+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-     "context": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "02:18",
-     "sorteer": "2026-11-02T01:18:27+00:00",
+     "tijd": "05:40",
+     "sorteer": "2026-11-02T04:40:00+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -234,6 +233,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Waarschuwingen KNMI op de schop: einde aan code geel, oranje of rood per provincie",
+     "context": "Als het voorheen glad was in de kop van Noord-Holland gaf het KNMI een code geel, oranje of rood voor de hele provincie. Ook bij dreigende onweersbuien en stormen kregen grote delen van ons land een waarschuwing, terwijl meteorologen wisten dat dat onnodig was. Vanaf vandaag is dat voorbij, belooft het KNMI. Het weerinstituut gaat lokaler waarschuwen voor storm, mist, hitte, gladheid, onweer en an",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637690",
+     "bron": "NOS",
+     "tijd": "07:01",
+     "sorteer": "2026-11-02T07:01:14+01:00"
+    },
     {
      "titel": "Nederlandse stichting probeert Zweedse wolvenjacht te verhinderen",
      "context": "Stichting Wolven Belangen heeft in Zweden beroep aangetekend tegen het doodschieten van 72 wolven. Ook eist de Nederlandse stichting dat er in afwachting van een oordeel van de rechtbank niet op wolven wordt gejaagd. Dit jaar namen vijf Zweedse districtsbesturen het besluit om in 2027 gezamenlijk 72 wolven af te schieten. Dat aantal ligt hoger dan in andere jaren, omdat de Zweedse overheid heeft b",
@@ -265,16 +273,6 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Gewonden bij vecht- en steekpartij in bus in Breda, jongen van 17 opgepakt",
-     "context": "In Breda zijn gisteravond laat twee groepen jongeren met elkaar slaags geraakt. Een jongen liep daarbij een steek- of snijwond op, een ander is in elkaar geslagen. Er is één verdachte aangehouden, een jongen van 17. Een aantal jongeren wilde de bus nemen in het westen van de gemeente, in Prinsenbeek. Zij passeerden een andere groep, van waaruit opmerkingen werden gemaakt. De sfeer werd grimmig en ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2637566",
-     "bron": "NOS",
-     "tijd": "11:19",
-     "sorteer": "2026-11-01T11:19:12+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
      "titel": "Toen geluidsoverlast in de trein van de walkman kwam",
      "context": "",
      "rubrieken": [],
@@ -293,25 +291,39 @@
      "sorteer": "2026-11-02T03:43:55+00:00"
     },
     {
-     "titel": "Kopstuk (41) van ’kringloopcrimi’s’ Oosterwolde verraden door eigen telefoon, mobiel leidde politie naar drugscontainer in Rotterdam",
-     "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQaldmZXlnWmJKT1hxRUtOTS1qUHRRMTJRN0s5SEUxRkhTRS1hMlFNZFZMVG5EYU45anRHdXEyMm0yUXVUTHZCVzA2QS12MHVqX0JRT3VRaldjS0RkeUdSaHdrcWZlY28wdHFBX2dUQnEySF8xanhhSkpNbENVRWNxRkJrR3Vlb19FZHVzTG85eU5CUVJ0ZV9jaXNZWkJqVUt2SC1BTDVqaUdFejNZTndxMDNoNzJjLU9fLUVIeWVDSWlEWGt3ZVE2SWdvSENHRzRfZFlwa1hxQzlaaFZ1QmRLLThWX2xXRVVqcXhzX1ByQTAxZFkyQkNKa1F5TFM3ajUwUXJaTU9zWDdSZEpZVE5jbkZ3SWlLalljU1RuQw?oc=5",
+     "titel": "Nieuwe aangifte tegen Philip Morris om ‘valse claim over’ verhitte tabak: ‘Hier staat 15 jaar gevangenisstraf op’",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRXI1N2dLWWZjOFoyYnhtNERwd2RXT3BjRTZZbUhpWXhKRlRrZ092aXluamQ2NEdsUzJEM1BNY2ZqUnVkNW1GdlJtbGFNZEJaSFNEUnMzdUQ2bzdCdUhZU0hJdVVrSzNFZ1N1ZXFjVDRNRjBySm5OUlY4WXZTVHh1UnplWWRyWXFNX0cxeGg2d2ZFN1ExaE81aEVQcEVDZkJ3MzBUYUxJRHJYcnJvTlQ4MmQ0LWE5bmtzZEFiN0pCRF91MkZ1NmY2Y0tfdk4zdEhwbTl3MURXNG5kSDlDajI3eU53RFc?oc=5",
+     "bron": "Het Parool",
+     "tijd": "07:39",
+     "sorteer": "2026-11-02T06:39:37+00:00"
+    },
+    {
+     "titel": "Man (41) uit Oosterwolde verraden door eigen telefoon, mobiel leidde politie naar drugscontainer in Rotterdam",
+     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQV2ppR19nUUVLR1pvV1hEdmpkempxS09DRW0wN3ZMd1IwZmRTQnp4SVNwMWljdVZwWXpYTVB3NWZyYk43VzVpdkd5Tlp5b2RpeGNOODFWMEVUWHctWkhGZTd1MXFrbGpxay1QXzlRTUN4V2J1V0JNQkwyc2tFSU1HWTFIczhiS2V5VDNNOUhkeDFiTWNHaFRfclg4ZW9fZlVTSjJqU2M5R3VVTEY1bW80ejZBOEgxWFhUclRlMWVmSDFnTmxFWkFYUWlFYl9FQXJZcHh5VEhYZ0d5ck5RTmZFQXFyeFFNSTNyOEdPSEtjSGp3QVpBYU5nTFZ3emlHSTNLUEE?oc=5",
      "bron": "Leeuwarder Courant",
-     "tijd": "06:47",
-     "sorteer": "2026-11-02T05:47:51+00:00"
+     "tijd": "07:18",
+     "sorteer": "2026-11-02T06:18:08+00:00"
     },
     {
-     "titel": "Nieuwe aangifte tegen tabaksfabrikant Philip Morris wegens bedrog en oplichting",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMmt6alA5TnpjQXhMOVRCY2JlMkZTaEdLYm4xR0l6Njg4SHQxdTgyanJjNHhRM0lBT1ZGc2NhajdXTzgwOE5HeUJ6OXhDZUxtQlB4ODhYLUsxZmtEWk4xd1dncnY4cG9ON252bndtVWlVODE4VlhKNVNkbld0RHJLSFltM0VlQm5meER4d0JqQWYyWHF6MThQYUFoeWwzeFRyVjc4eU02djh6dmpfYXQ0WEUwTnZRU0hob0E?oc=5",
+     "titel": "Militaire aanvalsgeweren: zó zwaar bewapend waren de aanslagplegers in Overasselt",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdFBDNWtMa0ZWLVJVQkRZbGxzWVJHbVk2dHJVTHdSSEJIWTJqcmpwR29vbzhTMnVTYmwzcXZaTTdwaVhWM2h1b3FXVEtnRlRfdXVCOVl0SDFxemZCcXFzb0U5T0ZrdmtZbHBkcWtRUU9NN3BRWnRWdTNiZ09uUzVFaWR0aEZYakVrZEstdG9rcFowZw?oc=5",
+     "bron": "RTL.nl",
+     "tijd": "07:00",
+     "sorteer": "2026-11-02T06:00:40+00:00"
+    },
+    {
+     "titel": "Net binnen",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1nMl92ZTEtRFNvUkw5MF9ibFFFdlA1eGVlTGVuZlA2M2tmNTc4UG1TRVRydGprd3hEV3VaX2NKdTkwc3RTZUxncERMYTY?oc=5",
      "bron": "AD.nl",
-     "tijd": "04:00",
-     "sorteer": "2026-11-02T03:00:01+00:00"
+     "tijd": "07:43",
+     "sorteer": "2026-11-02T06:43:17+00:00"
     },
     {
-     "titel": "De meeste gemeenten houden niet openlijk bij welke cadeaus zij ontvangen van derde partijen",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUHZ1N2RZakR2Vm1oREduUzVPVXJqZ2lOV0ZGc2tfMlZKRzdXTmhQRjI2dkpuU2ZHLXpVNkZVdFZiX3NZZTJ2dTFrUXFwNDZsNHFhMzUyY1Zfc2FIbnUwSkNPMkNNS1lMWE84Njdkekc0NHAwenZpZC1wMzZUenBJRi0wZUZqR0F2dTJ1ekVwQ2dBNlJhWkYxVWNuMGptX2ltd0xuQnJqOFBIVXJ0Z2lwZlVfOGQ1SkZwdEptXzZzeVJ5anlfaGhaQ0JCejgtR3E4aFFlajUzY3E4UQ?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "06:00",
-     "sorteer": "2026-11-02T05:00:51+00:00"
+     "titel": "De grote misvatting die ervoor zorgt dat mannen elkaar niet aanspreken na foute opmerkingen tegen vrouwen",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdjVLQzVSLUlWamlzM2dCOHNuenNMYUxkMGppTGRLYmhFZzdHQWo2TGg4Rl9qNTU3MkhhcWZ3NjI0enFPRmlvcldSWTNGQ1VCaU5oc0ZyeDJVcmJJZEg3OGlrdld6ZkR1aW1xaGotUzROVF9EQWl3RDVobnRqOWpGX2FHQk5SLWU4MjNUbHh6Y2pBWmY3LVA4U0lRdmdrQTR3clZpX0NnOXROU3dkcmRvT2JUVF80RDdHZjh6Zk1TQUVqNmwwbkZ5MmIwbmRYSzdzeXUwQzdZZTdERE5Rem5kQlk5dS1JZw?oc=5",
+     "bron": "de Stentor",
+     "tijd": "07:31",
+     "sorteer": "2026-11-02T06:31:22+00:00"
     },
     {
      "titel": "Onderhandelen met de VS over het Strafhof? Dat brengt ons dichter bij een wetteloze wereld",
@@ -390,18 +402,6 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Agent mishandeld na gestaakte wedstrijd Cambuur-Go Ahead Eagles, man uit Raalte aangehouden",
-     "context": "Een 23-jarige man uit Raalte is aangehouden op verdenking van mishandeling van een politieagent. Dat gebeurde zaterdag na de voetbalwedstrijd tussen SC Cambuur en Go Ahead Eagles. De wedstrijd werd na tachtig minuten bij een 4-0 tussenstand definitief gestaakt vanwege herhaaldelijk afgestoken en gegooid vuurwerk vanuit het uitvak van Go Ahead Eagles.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3713749/agent-mishandeld-na-gestaakte-wedstrijd-cambuur-go-ahead-eagles-man-uit-raalte-aangehouden",
-     "bron": "RTV Oost",
-     "tijd": "10:50",
-     "sorteer": "2026-11-01T09:50:56+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
      "titel": "Man uit Amsterdam (43) aangehouden voor reeks autobranden in Almelo",
      "context": "De politie heeft een 43-jarige man uit Amsterdam aangehouden voor een reeks autobranden in Almelo. De branden vonden plaats in de nacht van zaterdag op zondag. De man kon worden aangehouden door een duidelijk signalement. Het onderzoek naar zijn betrokkenheid bij de branden loopt nog.",
      "rubrieken": [],
@@ -409,6 +409,16 @@
      "bron": "RTV Oost",
      "tijd": "10:00",
      "sorteer": "2026-11-01T09:00:09+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Kleine fluistermuizen maken groot verschil in ziekenhuis MST Enschede",
+     "context": "Wie door het ziekenhuis in de binnenstad van Enschede loopt, kan in de gangen zomaar een muis tegenkomen. Geen echte, maar knuffels. Het zijn zogenoemde fluistermuizen, die een bijzondere rol spelen voor gezinnen waarvan een ouder op de intensive care ligt.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3712462/kleine-fluistermuizen-maken-groot-verschil-in-ziekenhuis-mst-enschede",
+     "bron": "RTV Oost",
+     "tijd": "08:01",
+     "sorteer": "2026-11-01T07:01:50+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -498,18 +508,11 @@
    "emoji": "🤖",
    "items": [
     {
-     "titel": "Democraten manipuleren ChatGPT met pseudo-nieuwssites in lokale campagnes",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVZCY0tZS3Jxdk8xV3gzWHJURUF5eU9PSENEdy16SDhSSWlISGR0RTJtbzdXZUwwN2tDSXBXaE1OQ3VLOXNlcnRYZU45WHloWFhBbEoyVWhTR2FfT1hCNTBGejlxYjQ3T2xFaFF3T2J6cFFGbzlEcGZaLTV0RUFMWWxhMkN2aFhtMGF6OE5rR1hWanRRQWNLTnNCWW10ODVnYVFiNkVtT1FadDZSaVM3VTc5dGJYdnZKcnozVzRaQkw?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "05:33",
-     "sorteer": "2026-11-02T04:33:51+00:00"
-    },
-    {
-     "titel": "DNB: AI gooit veel beroepen op de schop, maar impact nog onduidelijk",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdFBKb0ZMa000RFdDSUVxSUZpV2k0bm85eTZZRFVYaHIyRm1LdTFIOG9UME1MRU9SZk0zR0R1N3RzUm9KZ3A5bzlLemJSRnhoQm1EWnZPRVI3alRzMmxKbmVTaTRpcVhPb0thcjFjUGdHYVRuWVl2Z2xNcExBVWhncmpSRWVEUjl1VFdEYmh2bmRLTURaRWlhQ3l1bVVYak5BM0stM1dkVzF0MW11d1hJZzJIWC0tejg?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "05:16",
-     "sorteer": "2026-11-02T04:16:30+00:00"
+     "titel": "AI heet in Amerika Super Intelligence en nu krijgen datacenters ook een nieuwe naam",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONERGTDQxeDR3YzJvaFNUVjEtWVpYMmxvWUVzWGZUYUhzYk1QTGdXTWROdGs2X2hScFJ2TFViVjVkbnNBb1B4M0lnUUpyS0ZhQVpsTktXcVo0dFFfNEdrUGNMNkhET0htSGN5dnpkNnhJeDkybFRnV3JuUE10c0dHTV9OWjZ2VngxeHFoM2hTelV3Q0VuSk9Jek1kbjl5eUJ2SkM0eU1BSTl6Zkl2ZF9VMkYwbTlBZW9hQm1pS3dtYXhWZw?oc=5",
+     "bron": "Bright",
+     "tijd": "07:10",
+     "sorteer": "2026-11-02T06:10:59+00:00"
     }
    ]
   },
@@ -518,6 +521,14 @@
    "titel": "Tweede Kamer",
    "emoji": "🏛️",
    "items": [
+    {
+     "titel": "De invloed van NGO’s en achterkamertjespolitiek bij de totstandkoming van het Sanctiebesluit Israël",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "21-09",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D44887",
+     "sorteer": "2026-11-02T07:59:48.277+01:00"
+    },
     {
      "titel": "Begrotingsonderdeel Artikel 31 Politie",
      "bron": "Wetgevingsoverleg",
@@ -591,6 +602,360 @@
      "sorteer": "2026-11-05T14:00"
     }
    ]
+  },
+  {
+   "id": "sport",
+   "titel": "Sport",
+   "emoji": "⚽",
+   "items": [],
+   "sport": {
+    "bijgewerkt": "08:00",
+    "voetbal": {
+     "uitslagen": [
+      {
+       "thuis": "PEC Zwolle",
+       "uit": "ADO Den Haag",
+       "score": "1 - 0",
+       "wanneer": "gisteren 12:15",
+       "bezig": "",
+       "eigen": false
+      },
+      {
+       "thuis": "Excelsior",
+       "uit": "FC Twente",
+       "score": "0 - 9",
+       "wanneer": "gisteren 14:30",
+       "bezig": "",
+       "eigen": false
+      },
+      {
+       "thuis": "Telstar",
+       "uit": "FC Utrecht",
+       "score": "4 - 2",
+       "wanneer": "gisteren 14:30",
+       "bezig": "",
+       "eigen": false
+      },
+      {
+       "thuis": "FC Groningen",
+       "uit": "Sparta",
+       "score": "2 - 3",
+       "wanneer": "gisteren 16:45",
+       "bezig": "",
+       "eigen": false
+      },
+      {
+       "thuis": "Feyenoord",
+       "uit": "Fortuna",
+       "score": "1 - 1",
+       "wanneer": "zaterdag 16:30",
+       "bezig": "",
+       "eigen": false
+      },
+      {
+       "thuis": "Heerenveen",
+       "uit": "NEC",
+       "score": "1 - 0",
+       "wanneer": "zaterdag 18:45",
+       "bezig": "",
+       "eigen": false
+      },
+      {
+       "thuis": "PSV",
+       "uit": "Willem II",
+       "score": "7 - 0",
+       "wanneer": "zaterdag 18:45",
+       "bezig": "",
+       "eigen": false
+      },
+      {
+       "thuis": "Ajax",
+       "uit": "AZ Alkmaar",
+       "score": "1 - 0",
+       "wanneer": "zaterdag 21:00",
+       "bezig": "",
+       "eigen": false
+      },
+      {
+       "thuis": "Cambuur",
+       "uit": "Go Ahead Eagles",
+       "score": "4 - 0",
+       "wanneer": "zaterdag 21:00",
+       "bezig": "",
+       "eigen": false
+      }
+     ],
+     "stand": [
+      {
+       "plek": "1",
+       "team": "Feyenoord",
+       "gespeeld": "11",
+       "punten": "25",
+       "saldo": "+21",
+       "eigen": false
+      },
+      {
+       "plek": "2",
+       "team": "Ajax",
+       "gespeeld": "11",
+       "punten": "24",
+       "saldo": "+17",
+       "eigen": false
+      },
+      {
+       "plek": "3",
+       "team": "PSV",
+       "gespeeld": "11",
+       "punten": "23",
+       "saldo": "+22",
+       "eigen": false
+      },
+      {
+       "plek": "4",
+       "team": "FC Twente",
+       "gespeeld": "11",
+       "punten": "23",
+       "saldo": "+18",
+       "eigen": false
+      },
+      {
+       "plek": "5",
+       "team": "AZ Alkmaar",
+       "gespeeld": "11",
+       "punten": "20",
+       "saldo": "+7",
+       "eigen": false
+      },
+      {
+       "plek": "6",
+       "team": "Fortuna",
+       "gespeeld": "11",
+       "punten": "19",
+       "saldo": "0",
+       "eigen": false
+      },
+      {
+       "plek": "7",
+       "team": "Heerenveen",
+       "gespeeld": "11",
+       "punten": "18",
+       "saldo": "+6",
+       "eigen": false
+      },
+      {
+       "plek": "8",
+       "team": "FC Groningen",
+       "gespeeld": "11",
+       "punten": "15",
+       "saldo": "+2",
+       "eigen": false
+      },
+      {
+       "plek": "9",
+       "team": "Cambuur",
+       "gespeeld": "11",
+       "punten": "15",
+       "saldo": "+1",
+       "eigen": false
+      },
+      {
+       "plek": "10",
+       "team": "Go Ahead Eagles",
+       "gespeeld": "11",
+       "punten": "14",
+       "saldo": "-4",
+       "eigen": false
+      },
+      {
+       "plek": "11",
+       "team": "Sparta",
+       "gespeeld": "11",
+       "punten": "12",
+       "saldo": "-6",
+       "eigen": false
+      },
+      {
+       "plek": "12",
+       "team": "FC Utrecht",
+       "gespeeld": "11",
+       "punten": "12",
+       "saldo": "-12",
+       "eigen": false
+      },
+      {
+       "plek": "13",
+       "team": "NEC",
+       "gespeeld": "11",
+       "punten": "11",
+       "saldo": "-2",
+       "eigen": false
+      },
+      {
+       "plek": "14",
+       "team": "PEC Zwolle",
+       "gespeeld": "11",
+       "punten": "11",
+       "saldo": "-11",
+       "eigen": false
+      },
+      {
+       "plek": "15",
+       "team": "Excelsior",
+       "gespeeld": "11",
+       "punten": "11",
+       "saldo": "-12",
+       "eigen": false
+      },
+      {
+       "plek": "16",
+       "team": "Telstar",
+       "gespeeld": "11",
+       "punten": "9",
+       "saldo": "-7",
+       "eigen": false
+      },
+      {
+       "plek": "17",
+       "team": "ADO Den Haag",
+       "gespeeld": "11",
+       "punten": "6",
+       "saldo": "-11",
+       "eigen": false
+      },
+      {
+       "plek": "18",
+       "team": "Willem II",
+       "gespeeld": "11",
+       "punten": "2",
+       "saldo": "-29",
+       "eigen": false
+      }
+     ]
+    },
+    "f1": {
+     "race": "Mexico City",
+     "uitslag": [
+      {
+       "plek": 1,
+       "naam": "Max Verstappen",
+       "eigen": true
+      },
+      {
+       "plek": 2,
+       "naam": "Lewis Hamilton",
+       "eigen": false
+      },
+      {
+       "plek": 3,
+       "naam": "Kimi Antonelli",
+       "eigen": false
+      },
+      {
+       "plek": 4,
+       "naam": "Charles Leclerc",
+       "eigen": false
+      },
+      {
+       "plek": 5,
+       "naam": "Lando Norris",
+       "eigen": false
+      },
+      {
+       "plek": 6,
+       "naam": "George Russell",
+       "eigen": false
+      },
+      {
+       "plek": 7,
+       "naam": "Liam Lawson",
+       "eigen": false
+      },
+      {
+       "plek": 8,
+       "naam": "Gabriel Bortoleto",
+       "eigen": false
+      },
+      {
+       "plek": 9,
+       "naam": "Isack Hadjar",
+       "eigen": false
+      },
+      {
+       "plek": 10,
+       "naam": "Ryo Hirakawa",
+       "eigen": false
+      }
+     ],
+     "volgende": {
+      "naam": "São Paulo",
+      "datum": "2026-11-08",
+      "wanneer": "zondag 8 november, 18:00"
+     },
+     "stand": [
+      {
+       "plek": "1",
+       "naam": "Kimi Antonelli",
+       "punten": "380",
+       "eigen": false
+      },
+      {
+       "plek": "2",
+       "naam": "Max Verstappen",
+       "punten": "261",
+       "eigen": true
+      },
+      {
+       "plek": "3",
+       "naam": "Lewis Hamilton",
+       "punten": "259",
+       "eigen": false
+      },
+      {
+       "plek": "4",
+       "naam": "George Russell",
+       "punten": "250",
+       "eigen": false
+      },
+      {
+       "plek": "5",
+       "naam": "Charles Leclerc",
+       "punten": "245",
+       "eigen": false
+      },
+      {
+       "plek": "6",
+       "naam": "Lando Norris",
+       "punten": "221",
+       "eigen": false
+      },
+      {
+       "plek": "7",
+       "naam": "Oscar Piastri",
+       "punten": "144",
+       "eigen": false
+      },
+      {
+       "plek": "8",
+       "naam": "Isack Hadjar",
+       "punten": "107",
+       "eigen": false
+      },
+      {
+       "plek": "9",
+       "naam": "Liam Lawson",
+       "punten": "83",
+       "eigen": false
+      },
+      {
+       "plek": "10",
+       "naam": "Pierre Gasly",
+       "punten": "42",
+       "eigen": false
+      }
+     ]
+    }
+   },
+   "aantal": 19
   },
   {
    "id": "natuur",
@@ -815,17 +1180,17 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 9.8,
-    "gevoel": 9.3,
-    "wind": "NW 1",
+    "nu": 10.3,
+    "gevoel": 10.3,
+    "wind": "N 2",
     "station": "Heino",
     "bericht": "Vanochtend trekt een gebied met enige regen naar het zuidoosten weg. Daarachter breekt af en toe de zon door en bestaat er later kans op een bui. Morgen eerst bewolkt met plaatselijk motregen.",
     "vandaag": "Vanochtend trekt een gebied met enige regen naar het zuidoosten weg. Vanochtend is het eerst bewolkt en trekt een zone met enige regen in zuidoostelijke richting over het land.",
     "temperatuur": "Het is de zachtste dag van de week, met een middagtemperatuur variërend van 13 of misschien net aan lokaal 14 graden langs de kust tot 10 graden in het zuiden van Limbur",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: dichte motregen, 8 tot 13 graden, 100% kans op neerslag, ruim 4 uur zon, wind uit het noorden, kracht 3.",
+     "zin": "Voor Dalfsen zelf: dichte motregen, 7 tot 13 graden, 100% kans op neerslag, ruim 4 uur zon, wind uit het noorden, kracht 3.",
      "max": 13,
-     "min": 8,
+     "min": 7,
      "regenkans": 100,
      "omschrijving": "dichte motregen"
     },
@@ -844,15 +1209,5 @@
     }
    }
   }
- ],
- "archief": [
-  "2026-11-02",
-  "2026-11-01",
-  "2026-10-31",
-  "2026-10-30",
-  "2026-10-29",
-  "2026-10-28",
-  "2026-10-27",
-  "2026-10-26"
  ]
 }
