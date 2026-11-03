@@ -3,16 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "07:00",
+  "opgehaald": "08:00",
   "blokken": 12,
-  "berichten": 95,
-  "problemen": [
-   "Nature Today: timeout"
-  ],
-  "audio_herkomst": "model",
-  "audio_aangehaakt": "07:20"
+  "berichten": 100,
+  "problemen": [],
+  "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-03T07:00+01:00",
+ "opgehaald": "2026-11-03T08:00+01:00",
  "audio": "audio/20261103.mp3",
  "afval": [
   {
@@ -145,6 +142,24 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Dode en gewonden bij botsing helikopters op Mount Everest",
+     "context": "Twee helikopters zijn op elkaar gebotst en neergestort op de Mount Everest. Daarbij is één persoon om het leven gekomen en zijn twee mensen gewond geraakt. De Mount Everest ligt op de grens van Nepal en China en is de hoogste berg ter wereld. Op de berg zijn geen wegen, dus helikopters zijn de enige manier om zieke of uitgeputte wandelaars naar beneden te halen. De helikopters stortten neer in het",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637819",
+     "bron": "NOS",
+     "tijd": "07:30",
+     "sorteer": "2026-11-03T07:30:06+01:00"
+    },
+    {
+     "titel": "Wekdienst 3/11: Amerikanen naar de stembus • Uitspraak zedenverdachten Woudenberg",
+     "context": "Goedemorgen! In de Verenigde Staten is het vandaag verkiezingsdag. Amerikaanse kiezers stemmen voor het Congres, hun parlement. En het voormalige echtpaar uit Woudenberg dat verdacht wordt van het misbruiken van oppaskinderen hoort het vonnis. Eerst het weer: Vanochtend lokaal wat zon, maar vanuit het oosten ook veel bewolking waaruit her en der wat regen kan vallen. Vanmiddag vanuit Duitsland mee",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637816",
+     "bron": "NOS",
+     "tijd": "07:25",
+     "sorteer": "2026-11-03T07:25:47+01:00"
+    },
+    {
      "titel": "Noord-Korea ontkent achter de Binance-hack te zitten",
      "context": "Noord-Korea heeft voor het eerst gereageerd op de Amerikaanse beschuldigingen dat het achter de diefstal van miljarden euro's op cryptoplatform Binance zit. Kim Yo-jong, de invloedrijke zus van leider Kim Jong-un, ontkent nu dat het land achter de hack zit en noemt de beschuldiging \"absurde retoriek\". De FBI liet afgelopen weekend weten dat Noord-Korea verantwoordelijk is voor de diefstal van ruim",
      "rubrieken": [],
@@ -173,26 +188,6 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "'2 miljoen voor gouden tip Bolle Jos' gonst het in Sierra Leone, wordt hij verraden?",
-     "context": "Hij verdient naar schatting tientallen miljoenen euro's per maand met drugshandel, is in meerdere rechtszaken in Nederland en België veroordeeld tot bij elkaar 103 jaar gevangenisstraf en houdt zich naar verluidt op in Sierra Leone. Na eerdere pogingen om Jos Leijdekkers, alias Bolle Jos, op te pakken, kwam het Openbaar Ministerie (OM) vandaag met een nieuwe stap in de jacht op de drugscrimineel. ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2637789",
-     "bron": "NOS",
-     "tijd": "20:29",
-     "sorteer": "2026-11-02T20:29:52+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Zelensky: Russen richten bloedbad aan met bombardement op hulppost",
-     "context": "Rusland heeft volgens de Oekraïense president Zelensky een bloedbad aangericht met luchtaanvallen op een dorp in de buurt van Zaporizja. Zeker 26 mensen zijn gedood . Vijf mensen raakten gewond en zo'n twintig mensen worden vermist. De Russen zouden een voormalige school in Komysjoevacha hebben gebombardeerd waar hulpgoederen werden uitgedeeld. Ook werd de school gebruikt als schuiladres. Komysjoe",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2637784",
-     "bron": "NOS",
-     "tijd": "19:14",
-     "sorteer": "2026-11-02T19:14:19+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
      "titel": "Noord-Korea noemt beschuldigingen FBI over miljardenhack ‘ernstige politieke provocatie’",
      "context": "",
      "rubrieken": [],
@@ -211,29 +206,63 @@
      "sorteer": "2026-11-03T04:00:40+00:00"
     },
     {
-     "titel": "VS voeren reeks aanvallen uit op Iraans eiland Qeshm, vijf explosies gehoord",
+     "titel": "Rusland voert grote aanval uit op Oekraïense energiefaciliteiten",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/live-oorlog-midden-oosten-vs-voeren-reeks-aanvallen-uit-op-iraans-eiland-qeshm-vijf-explosies-gehoord~b4cda6da/",
+     "link": "https://www.trouw.nl/buitenland/live-oorlog-oekraine-rusland-voert-grote-aanval-uit-op-oekraiense-energiefaciliteiten~ba2815bb/",
      "bron": "Trouw",
-     "tijd": "03:33",
-     "sorteer": "2026-11-03T02:33:00+00:00"
+     "tijd": "07:20",
+     "sorteer": "2026-11-03T06:20:00+00:00"
     },
     {
-     "titel": "RBA interest rates live updates: Reserve Bank of Australia announces cash rate hike to 4.85% after meeting today – latest news",
-     "context": "Reserve Bank raises interest rates to an 18-year high, the fifth time this year Full report: RBA hikes cash rate for fifth time this year in blow to mortgage holders Use our loan calculator to check how the rate rise may affect you Get our breaking news email , free app or daily news podcast The Reserve Bank has hiked rates for the fifth time this year, from 4.6% to 4.85%, in a bid to regain contr",
+     "titel": "Australia’s social media ban ‘ill-thought-out’, Reddit argues in high court challenge",
+     "context": "Reddit challenges ban on grounds it impinges implied freedom of political communications for teens Get our breaking news email , free app or daily news podcast The Australian government’s rush to pass the under-16s social media ban legislation in 2024 led to “ill-thought-out, over-broad legislation” that has since been narrowed after Reddit sued the government, lawyers for the social media company",
      "rubrieken": [
-      "Reserve Bank of Australia",
+      "Social media ban",
       "Australia news",
-      "Australian economy",
-      "Interest rates",
-      "Housing",
-      "Australian politics"
+      "Reddit",
+      "Australian politics",
+      "Freedom of speech",
+      "Social media bans",
+      "Social media"
      ],
-     "link": "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/03/reddit-under-16s-social-media-ban-australia-high-court",
      "bron": "The Guardian",
-     "tijd": "06:50",
-     "sorteer": "2026-11-03T05:50:04+00:00",
+     "tijd": "07:36",
+     "sorteer": "2026-11-03T06:36:58+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "North Korea denies being behind record $6.3bn Binance hack",
+     "context": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "07:22",
+     "sorteer": "2026-11-03T06:22:29+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "America Votes",
+     "context": "We answer your questions about the midterm elections and what they will mean for the world.",
+     "rubrieken": [
+      "internal-open-access-from-nl",
+      "Midterm Elections (2026)",
+      "Trump, Donald J",
+      "Democratic Party",
+      "Republican Party",
+      "Musk, Elon",
+      "International Federation of Association Football (FIFA)",
+      "Justice Department",
+      "House of Representatives",
+      "Senate"
+     ],
+     "link": "https://www.nytimes.com/2026/11/02/world/midterm-elections-questions-trump-fifa.html",
+     "bron": "New York Times",
+     "tijd": "07:17",
+     "sorteer": "2026-11-03T06:17:48+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -271,38 +300,6 @@
      "sorteer": "2026-11-03T03:39:08+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-     "context": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "04:32",
-     "sorteer": "2026-11-03T03:32:36+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
-     "context": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime.",
-     "rubrieken": [
-      "North Korea",
-      "Cyberwarfare and Defense",
-      "Cyberattacks and Hackers",
-      "Virtual Currency",
-      "Binance",
-      "Federal Bureau of Investigation",
-      "Sony Corporation",
-      "Bybit Fintech Ltd",
-      "Robberies and Thefts"
-     ],
-     "link": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
-     "bron": "New York Times",
-     "tijd": "04:29",
-     "sorteer": "2026-11-03T03:29:38+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
     }
    ]
   },
@@ -331,6 +328,15 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "'2 miljoen voor gouden tip Bolle Jos' gonst het in Sierra Leone, wordt hij verraden?",
+     "context": "Hij verdient naar schatting tientallen miljoenen euro's per maand met drugshandel, is in meerdere rechtszaken in Nederland en België veroordeeld tot bij elkaar 103 jaar gevangenisstraf en houdt zich naar verluidt op in Sierra Leone. Na eerdere pogingen om Jos Leijdekkers, alias Bolle Jos, op te pakken, kwam het Openbaar Ministerie (OM) vandaag met een nieuwe stap in de jacht op de drugscrimineel. ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637789",
+     "bron": "NOS",
+     "tijd": "20:29",
+     "sorteer": "2026-11-02T20:29:52+01:00"
+    },
+    {
      "titel": "Cel geëist tegen Eindhovenaar die met kruisboog 'op jacht ging' naar katten",
      "context": "Tegen een 26-jarige inwoner van Eindhoven is negen maanden cel geëist, omdat hij katten heeft beschoten met een kruisboog. Een van de vijf aangevallen katten werd geraakt in zijn oog en overleefde dat niet. De beschietingen zorgden volgens het Openbaar Ministerie voor veel onrust in de wijk. Tussen november 2025 en mei dit jaar werden vier katten geraakt door een pijl. De verdachte \"ging echt geri",
      "rubrieken": [],
@@ -338,16 +344,6 @@
      "bron": "NOS",
      "tijd": "17:31",
      "sorteer": "2026-11-02T17:31:28+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Getuige werd verdachte in onderzoek naar dood Hajar na vondst beelden op telefoon",
-     "context": "De 23-jarige man die wordt verdacht van het doden van Hajar vorige maand, werd als verdachte aangemerkt nadat er op zijn telefoon beeldmateriaal was aangetroffen. Dat meldt het Openbaar Ministerie in een persbericht. Het OM wil niet toelichten om wat voor beelden het precies gaat, maar zegt desgevraagd wel dat de vondst van de beelden ertoe leidde dat de man die eerder nog als getuige was gehoord,",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2637759",
-     "bron": "NOS",
-     "tijd": "15:15",
-     "sorteer": "2026-11-02T15:15:26+01:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -382,15 +378,22 @@
      "titel": "Brand Crans-Montana bar: eigenaar bekent versmalde trap",
      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQM1ZPY2FkNEdhdng4cENETTlWYk5YUVhjMkxKaXpDTzBXMkQ0VGJTREhYTUR2WF9qeDhPTzdzMkdWMWpOYk5VMVZJVnB6RTNvd0VvRmlscTJjUm9aV1dEN000Z1Zkc1FtZDRTUWxqQllkSldiOUx3ZHpCV05tNVd3ZmdvbkkxVDNJcjRER3lOM2tyYUtzMUhCa0c5Z1BvYW94R0hjQlc4TnVkUzFHb3FXMGFNbHc3S0pZSzJBR3pyTDdXcEFwZklBV2QwYVBtVl9Cby1UakpsX3VYWnBMOGlaZ1prVU15Ylhwd09ocXA0bzZOM2xCSzdnSmphTE13ZnAwbUs0anhFT3dMdw?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "06:24",
-     "sorteer": "2026-11-03T05:24:00+00:00"
+     "tijd": "07:33",
+     "sorteer": "2026-11-03T06:33:48+00:00"
     },
     {
-     "titel": "Steekpartijen, zedenmisdrijven, branden en aanslagdreiging: lange lijst ernstige asielincidenten eindelijk openbaar",
-     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVzFsTV8ydDlWODRNTHBHYUktMTc3c2dKYjFJRS1FdHJyeWctd3p2cUEtb1NNNXh0Q0FycmJORkhTd3pONnZCc1RYX1l2SUZxRDU3ZWE3SkhUZ3RQMVpZZVdneUpqNzZlRlV6WmNuZFJscEtLR0RLNUQ0UjUycld1d2M4T1V1aFVCaFUxLWoycWdPdFh2QUV3T19BTVJpSG9VbzlSRGs5RzljVWxuTWs4bjBmOEo5MWFfSmVCUllYZmZ6N0ljQlllZkstV3A2ay1Oa3ZkWWlMeHMweFUwRnQtMWFWVXVkcVJ0TF8ybUJzMk0td3JrRlE?oc=5",
+     "titel": "Wetswijziging Suriname biedt geen oplossing voor paspoortkwestie internationals",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbGd2cUVqS2FEZF9mNnVuQWhmV0lmN2NuTWd3RF9CLUFULTBfQ0VCcmE4ZERmdVlTenlZN05Za201SExySVhfNmJVeldMU0x3ZUhPQmp2UW9za2VTNDZWdkstUGd0QzZsb1V4R1RvU3Jjd0tDQ25oNUQ3blVTTXU1OUFETndBc1A4VDBXX0FwSkdVYVUzd3J3U0tIN3RlTDZOOWx0V2FmU0RYU1pzVXZ3?oc=5",
+     "bron": "NOS",
+     "tijd": "07:28",
+     "sorteer": "2026-11-03T06:28:55+00:00"
+    },
+    {
+     "titel": "Steekpartijen, zedenmisdrijven, branden en aanslagdreiging: 175 ernstige asielincidenten eindelijk openbaar",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTWRQUXRURFBIeHE4ejJ1anZzMGtsY2ZWZlhyRDROQW1vdjFLaHNqUFd5bUw5THFjcXk2cmVrU2dDU0ZyX0NhVTAyZDRoMlZQSjlRdEs1U09iR082Z1NVWmRncG1ESFV4b1ZVRzdQdTg2emdXR3FpdFFIVzNoMUk5dElscWc2bXVGcUl4MHA5TUVpdDNlcDM1UEFxRUZvcTdkdW9DTm1nckRjNl9BVnQ0Mkx0RGtFTGlCYjRDNTBqUHFsZ1VndElGeVE0ektldkNpazVBSlBBQWVhYi1HOVhNLXl0Zm5XUUJ6aTNJ?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "06:00",
-     "sorteer": "2026-11-03T05:00:00+00:00"
+     "tijd": "05:23",
+     "sorteer": "2026-11-03T04:23:02+00:00"
     },
     {
      "titel": "Amsterdamse rapper zou via Snapchat jacht op goud van ouderen hebben geleid: ’Heeft ze al het goud gepakt?’",
@@ -399,13 +402,6 @@
      "tijd": "04:22",
      "sorteer": "2026-11-03T03:22:00+00:00",
      "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Belastingplan-druk naar kookpunt: hoe komt het kabinet aan een meerderheid?",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQnhkVWhnR2RpT05tckRySERYSElvRWhzV3NjVzNXUnowcElXNXU4Zk1YTTZxUW1uSWRBTXhiWnJHa25HRXJ5cUVWaHItWjhzQTRsSXVUdEVEWU9zQkpiZkI4Z082aGZUM2dlUXVzLXJ2aGI2SV9NRlc1T0VBWGdFUUxqOWg2cnJ3d3ZxTEJ2S0t4Smd4aG1zYWFqTXZNSVVhNVlSbC00c21WZ2tjNG9wNFo0bXNrU0xvZkFvQlJPSQ?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "04:52",
-     "sorteer": "2026-11-03T03:52:00+00:00"
     },
     {
      "titel": "Krijgen de Amerikanen deze midterms nog een eerlijke kans om te kiezen?",
@@ -463,6 +459,24 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "UWV: in 2035 te veel werk in Overijssel, mensen vinden wordt alleen maar moeilijker",
+     "context": "De groei van het aantal mensen dat kan werken in Overijssel zakt de komende tien jaar naar bijna nul procent. Tot en met 2035 komen er nauwelijks nog mensen bij. Het aantal banen groeit wel. Dat stelt UWV in de jaarlijkse Regio in Beeld. Een verhaal over cijfers met een boodschap: er is actie nodig.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3714010/uwv-in-2035-te-veel-werk-in-overijssel-mensen-vinden-wordt-alleen-maar-moeilijker",
+     "bron": "RTV Oost",
+     "tijd": "07:02",
+     "sorteer": "2026-11-03T06:02:58+00:00"
+    },
+    {
+     "titel": "Spitsfile op A1 bij Deventer richting het westen vast na aanrijding",
+     "context": "Twee van de vier rijstroken van de A1 op de IJsselbrug bij Deventer richting het westen waren vanochtend dicht na een aanrijding tussen een auto en een vrachtwagen. Het ongeluk ontstond vermoedelijk bij het wisselen van rijstrook.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3714866/spitsfile-op-a1-bij-deventer-richting-het-westen-vast-na-aanrijding",
+     "bron": "RTV Oost",
+     "tijd": "06:54",
+     "sorteer": "2026-11-03T05:54:01+00:00"
+    },
+    {
      "titel": "Hoofdverdachte komt niet opdagen bij behandeling witwaszaak rond Megahome",
      "context": "18 miljoen euro: dat is het bedrag dat de 64-jarige W. zou hebben witgewassen uit vastgoedgelden van zijn voormalige bedrijf Megahome. Het bedrijf ging in 2016 over de kop, maar het complexe faillissement is nog altijd niet afgewikkeld.",
      "rubrieken": [],
@@ -474,7 +488,9 @@
     {
      "titel": "Toch metingen in alle 66 schuimhuizen Rijssen, maar vraagtekens blijven",
      "context": "Er volgen toch metingen in alle 66 woningen aan het Pottebakkerserf in Rijssen die geïsoleerd zijn met het potentieel gevaarlijke UF-schuim. Dat bevestigt woningcorporatie Viverion. Bewoners en politici pleitten daar al weken voor.",
-     "rubrieken": [],
+     "rubrieken": [
+      "breaking"
+     ],
      "link": "https://www.oost.nl/nieuws/3714312/toch-metingen-in-alle-66-schuimhuizen-rijssen-maar-vraagtekens-blijven",
      "bron": "RTV Oost",
      "tijd": "05:02",
@@ -497,25 +513,6 @@
      "bron": "RTV Oost",
      "tijd": "21:33",
      "sorteer": "2026-11-02T20:33:01+00:00"
-    },
-    {
-     "titel": "'Mama, ik mis je meer en meer': in Zwolse kas is ruimte voor rouw",
-     "context": "De lucht kleurt donkerder. Daardoor zijn de kaarsjes en lampjes in de Kas van Rouwen en Vieren in Zwolle steeds beter te zien. Het is de dag van Allerzielen en ook in Zwolle staan mensen stil bij degenen die ze missen.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3714719/mama-ik-mis-je-meer-en-meer-in-zwolse-kas-is-ruimte-voor-rouw",
-     "bron": "RTV Oost",
-     "tijd": "21:29",
-     "sorteer": "2026-11-02T20:29:29+00:00"
-    },
-    {
-     "titel": "De Librije terug op de eerste plek van restaurantgids Lekker500",
-     "context": "Het Zwolse driesterrenrestaurant De Librije staat bovenaan de jaarlijkse restaurantgids Lekker500. Na een tweede plaats vorig jaar zien de recensenten het restaurant dit jaar als het beste van Nederland. Daarmee stoot De Librije Brut172 uit het Limburgse Reijmerstok van de troon.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3714758/de-librije-terug-op-de-eerste-plek-van-restaurantgids-lekker500",
-     "bron": "RTV Oost",
-     "tijd": "20:07",
-     "sorteer": "2026-11-02T19:07:21+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Eerlijke mensen",
@@ -607,6 +604,13 @@
      "bron": "Leeuwarder Courant",
      "tijd": "06:24",
      "sorteer": "2026-11-03T05:24:22+00:00"
+    },
+    {
+     "titel": "Tekort aan personeel in Gelderland blijft, opkomst van AI leidt niet tot massawerkloosheid",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdlkxZjFTaEdPOXNjREFOcjRXdi1pUDQ0bTF5bksyRFpkQnJIdzcyRW9fdkRIdHJsUW9nbl9TeGh4b0pxYW9vaTlQNEVCeWNZVElGMjZWZmhwUlNyOXdsaVR2cnRhR2RTeU9weExrVllpQzR1R1VVUGdhQkZOM2Nja1lIUjAtbkMtMVE3eWZOcmtzeDZld2twX2tpcjV0SWcyVlhKTzFPbHpHanQwalFENjRPbWVNSkxpQk9OTnJsZ1ZMN0NPeS1ua00zSi1Ka00?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "22:02",
+     "sorteer": "2026-11-02T21:02:00+00:00"
     },
     {
      "titel": "Chatbots en andere AI nemen duizenden banen over, tóch blijft het personeelstekort gigantisch",
@@ -846,7 +850,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "07:00",
+    "bijgewerkt": "08:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1200,6 +1204,38 @@
    "emoji": "🌿",
    "items": [
     {
+     "titel": "Vandaag in de natuur",
+     "toelichting": "De \"kroontjeskoraalzwam\" heet officieel de kroontjesknotszwam. Hoewel deze paddenstoel sterk lijkt op een koraalzwam, behoort hij biologisch gezien niet tot de echte koraalzwammen, maar tot de familie van de oorlepelzwammen.",
+     "bron": "Nature Today",
+     "tijd": "",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36008",
+     "sein": true
+    },
+    {
+     "titel": "Natuurjournaal 8 november 2026",
+     "toelichting": "Zoek de kroontjesknotszwam en het krentenpapspinragschijfje.",
+     "bron": "Nature Today",
+     "tijd": "08:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36008",
+     "sorteer": "2026-11-03T07:00:00+00:00"
+    },
+    {
+     "titel": "Kwetsbare Kromme Rijncorridor krijgt bescherming van stichting",
+     "toelichting": "De kwaliteit van het cultuurhistorische landschap Kromme Rijncorridor holt achteruit. De werkgroep die zich al jaren inzet voor dit kwetsbare gebied, doet dit tegenwoordig met beduidend meer gezag. Ze hebben namelijk een",
+     "bron": "Nature Today",
+     "tijd": "12:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36003",
+     "sorteer": "2026-11-02T11:00:00+00:00"
+    },
+    {
+     "titel": "Zo help je vogels in de herfst",
+     "toelichting": "Vogels willen drie dingen in de herfst: dik worden, een beschutte rustplek en niet ziek worden. Help jij ze een handje om zo sterk en gezond als het maar kan de winter in te gaan?",
+     "bron": "Nature Today",
+     "tijd": "07:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36007",
+     "sorteer": "2026-11-03T06:00:00+00:00"
+    },
+    {
      "titel": "Deze bij maakt haar eigen plastic – dat wél afbreekt",
      "toelichting": "Plastic dat stevig en waterafstotend is, maar toch binnen een jaar grotendeels afbreekt in de natuur. Het klinkt bijna te mooi om waar te zijn. Toch maakt een Noord-Amerikaanse bijensoort precies zo’n materiaal. En dat k",
      "bron": "Scientias",
@@ -1207,20 +1243,20 @@
      "link": "https://scientias.nl/deze-bij-maakt-haar-eigen-plastic-dat-wel-afbreekt/"
     },
     {
-     "titel": "Two public servants in Brazil removed after threatening to poison Indigenous people",
-     "toelichting": "Brazil’s Indigenous voters helped reelect incumbent President Luiz Inácio Lula da Silva on Oct. 25. Following his win, two officials in the municipality of Tacuru, Mato Grosso do Sul, allegedly sent WhatsApp messages thr",
+     "titel": "Uncertainty surrounds controversial resort in Zanzibar forest reserve as work stalls",
+     "toelichting": "In March 2026, contractors built a wall along the edge of the Ngezi-Vumawimbi Forest Reserve on Pemba Island, Zanzibar, marking the boundary of what appears to be the site of the planned Mantuli luxury resort within the ",
      "bron": "Mongabay (Engels)",
-     "tijd": "23:44",
-     "link": "https://news.mongabay.com/short-article/2026/11/two-public-servants-in-brazil-removed-after-threatening-to-poison-indigenous-people/",
-     "sorteer": "2026-11-02T22:44:40+00:00"
+     "tijd": "07:48",
+     "link": "https://news.mongabay.com/2026/11/uncertainty-surrounds-controversial-resort-in-zanzibar-forest-reserve-as-work-stalls/",
+     "sorteer": "2026-11-03T06:48:21+00:00"
     },
     {
-     "titel": "Indigenous peoples and local communities solidify decision-making powers at COP17",
-     "toelichting": "At the 2026 U.N. Biodiversity Conference in Armenia (COP17), Indigenous peoples and local communities strengthened their role in the decision-making of the Convention on Biological Diversity (CBD), with the full operatio",
+     "titel": "Do not ‘engage formally’: UK officials advised against billionaire-run zoo ahead of CITES meeting",
+     "toelichting": "LONDON — British officials explicitly advised government ministers to not engage formally with Vantara, the controversial zoo founded and led by Indian billionaire Anant Ambani, according to documents obtained by Mongaba",
      "bron": "Mongabay (Engels)",
-     "tijd": "22:19",
-     "link": "https://news.mongabay.com/short-article/2026/11/indigenous-peoples-and-local-communities-solidify-decision-making-powers-at-cop17/",
-     "sorteer": "2026-11-02T21:19:11+00:00"
+     "tijd": "07:00",
+     "link": "https://news.mongabay.com/2026/11/do-not-engage-formally-uk-officials-advised-against-billionaire-run-zoo-ahead-of-cites-meeting/",
+     "sorteer": "2026-11-03T06:00:37+00:00"
     }
    ]
   },
@@ -1372,11 +1408,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Goed pestvogeljaar — 102 meldingen in de afgelopen week",
+     "titel": "Goed pestvogeljaar — 103 meldingen in de afgelopen week, waarvan 1 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 116 vogels in de nieuwste meldingen"
+     "vergelijking": "samen 117 vogels in de nieuwste meldingen"
     },
     {
      "kop": "Pestvogels",
@@ -1412,17 +1448,17 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 8.5,
-    "gevoel": 6.9,
+    "nu": 8.7,
+    "gevoel": 7.1,
     "wind": "NO 2",
     "station": "Heino",
     "bericht": "Vandaag en morgen ligt er nog een zwak front in de buurt. In eerste instantie kan daar nog wat motregen uit vallen. In de tweede weekhelft staat het weer in het teken van volop zon en blijft het droog.",
     "vandaag": "Vanochtend hebben we te maken met veel bewolking. Vanmiddag wordt het op de meeste plaatsen geleidelijk zonnig, met hier en daar een paar wolkenvelden.",
     "temperatuur": "In alle vroegte was het 7 of 8 graden in het binnenland en bijna 11 graden in het noordwestelijke kustgebied.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: 4 tot 9 graden, 20% kans op neerslag, ruim 2 uur zon, wind uit het noordoosten, kracht 3.",
-     "max": 9,
-     "min": 4,
+     "zin": "Voor Dalfsen zelf: 5 tot 11 graden, 20% kans op neerslag, ruim 5 uur zon, wind uit het noordoosten, kracht 3.",
+     "max": 11,
+     "min": 5,
      "regenkans": 20,
      "omschrijving": "lichte motregen"
     },
