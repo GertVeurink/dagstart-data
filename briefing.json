@@ -1,16 +1,18 @@
 {
- "datum": "2026-11-02",
- "naam": "Avondbriefing",
+ "datum": "2026-11-03",
+ "naam": "Ochtendbriefing",
  "status": {
-  "ronde": "Avondbriefing",
-  "opgehaald": "23:00",
+  "ronde": "Ochtendbriefing",
+  "opgehaald": "05:55",
   "blokken": 11,
-  "berichten": 96,
-  "problemen": [],
-  "audio_herkomst": "model"
+  "berichten": 97,
+  "problemen": [
+   "geen toegang tot /Users/thuismap/Library/Mobile Documents/com~apple~CloudDocs/Ochtendbriefing — overgeslagen"
+  ],
+  "audio_herkomst": null
  },
- "opgehaald": "2026-11-02T23:00+01:00",
- "audio": "audio/20261102.mp3",
+ "opgehaald": "2026-11-03T05:55+01:00",
+ "audio": null,
  "afval": [
   {
    "datum": "2026-11-04",
@@ -61,6 +63,7 @@
    "afwijkend": true
   }
  ],
+ "duiding": [],
  "blokken": [
   {
    "id": "internationaal",
@@ -68,13 +71,32 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Noord-Korea ontkent achter de Binance-hack te zitten",
+     "context": "Noord-Korea heeft voor het eerst gereageerd op de Amerikaanse beschuldigingen achter de diefstal van miljarden euro's op cryptoplatform Binance te zitten. Kim Yo-jong, de invloedrijke zus van leider Kim Jong-un, ontkent nu dat het land achter de hack zit en noemt de beschuldiging \"absurde retoriek\". De FBI liet afgelopen weekend weten dat Noord-Korea verantwoordelijk is voor de diefstal van ruim 5",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637812",
+     "bron": "NOS",
+     "tijd": "04:48",
+     "sorteer": "2026-11-03T04:48:13+01:00"
+    },
+    {
+     "titel": "VS doen nieuwe poging vredesproces tussen Oekraïne en Rusland vlot te trekken",
+     "context": "Onder leiding van de Amerikaanse gezanten Steve Witkoff en Jared Kushner wordt op 10 en 11 november in Abu Dhabi gesproken over de beëindiging van de oorlog in Oekraïne. Dat maakte Steve Witkoff op X bekend. Volgens de Amerikanen zal er zowel vanuit Oekraïne als vanuit Rusland een delegatie aanwezig zijn. Een Amerikaanse functionaris zei maandag tegen persbureau Reuters dat de gesprekken tussen de",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637810",
+     "bron": "NOS",
+     "tijd": "01:47",
+     "sorteer": "2026-11-03T01:47:39+01:00"
+    },
+    {
      "titel": "In Florida gecrashte privéjet verloor mogelijk in de lucht onderdelen",
      "context": "Het privévliegtuig dat afgelopen nacht nagenoeg loodrecht neerstortte in Florida lijkt al in de lucht onderdelen te hebben verloren. \"We hebben aanwijzingen dat het vliegtuig uit elkaar viel voor de inslag\", citeren Amerikaanse media Tom Chapman van NTSB, de instantie die vliegtuigongelukken onderzoekt in de VS. Chapman maakte op een persconferentie nieuwe details bekend over het fatale ongeluk. O",
      "rubrieken": [],
      "link": "https://nos.nl/l/2637800",
      "bron": "NOS",
      "tijd": "21:47",
-     "sorteer": "2026-11-02T21:47:24+01:00"
+     "sorteer": "2026-11-02T21:47:24+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "'2 miljoen voor gouden tip Bolle Jos' gonst het in Sierra Leone, wordt hij verraden?",
@@ -83,7 +105,8 @@
      "link": "https://nos.nl/l/2637789",
      "bron": "NOS",
      "tijd": "20:29",
-     "sorteer": "2026-11-02T20:29:52+01:00"
+     "sorteer": "2026-11-02T20:29:52+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Zelensky: Russen richten bloedbad aan met bombardement op hulppost",
@@ -92,137 +115,116 @@
      "link": "https://nos.nl/l/2637784",
      "bron": "NOS",
      "tijd": "19:14",
-     "sorteer": "2026-11-02T19:14:19+01:00"
+     "sorteer": "2026-11-02T19:14:19+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Wapenstilstand Oekraïense stad Olesjky loopt af: wat betekent dat voor de oorlog?",
-     "context": "Gisteravond eindigde het staakt-het-vuren de Zuid-Oekraïense stad Olesjky. Het zesdaagse bestand was een van de eerste keren dat de gevechten tussen Rusland en Oekraïne werden stilgelegd sinds het begin van de Russische invasie in 2022. Bewoners van Olesjky konden hierdoor geëvacueerd worden. Het was een bijzondere situatie dat de gevechten tussen de twee landen zo lang stopten. Wat betekent het v",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2637781",
-     "bron": "NOS",
-     "tijd": "18:51",
-     "sorteer": "2026-11-02T18:51:39+01:00"
-    },
-    {
-     "titel": "Podcast De Dag: hoe de Democraten de verkiezingen (nu én straks) proberen te winnen",
-     "context": "Na twee jaar aan de zijlijn, hopen de Democraten morgen bij de midterm-verkiezingen in Amerika het tij te keren. De uitslag is niet alleen belangrijk voor de politieke verhoudingen in het Congres, maar ook voor de koers van de Democraten in aanloop naar de presidentsverkiezingen van 2028. Amerika-deskundige Casper Thomas licht in deze podcast drie staten uit waar de Democraten meedoen met in het o",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2637777",
-     "bron": "NOS",
-     "tijd": "18:40",
-     "sorteer": "2026-11-02T18:40:27+01:00"
-    },
-    {
-     "titel": "Trump is in deze verkiezingen geen troef meer, maar een obstakel – en hij gaat het alleen maar zwaarder krijgen",
+     "titel": "Noord-Korea noemt beschuldigingen FBI over miljardenhack ‘ernstige politieke provocatie’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/trump-is-in-deze-verkiezingen-geen-troef-meer-maar-een-obstakel-en-hij-gaat-het-alleen-maar-zwaarder-krijgen~b31358f3/",
+     "link": "https://www.volkskrant.nl/buitenland/noord-korea-noemt-beschuldigingen-fbi-over-miljardenhack-ernstige-politieke-provocatie~bee87223/",
+     "bron": "de Volkskrant",
+     "tijd": "05:04",
+     "sorteer": "2026-11-03T04:04:00+00:00"
+    },
+    {
+     "titel": "Zij gaan voor het eerst stemmen in de VS: ‘Jammer dat ik zo laat politiek bewust ben geworden’",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/zij-gaan-voor-het-eerst-stemmen-in-de-vs-jammer-dat-ik-zo-laat-politiek-bewust-ben-geworden~bf5bfcc4/",
      "bron": "de Volkskrant",
      "tijd": "05:00",
-     "sorteer": "2026-11-03T04:00:00+00:00"
+     "sorteer": "2026-11-03T04:00:40+00:00"
     },
     {
-     "titel": "Hoe de voortvluchtige Brabantse cocaïnebaron Jos L. Sierra Leone in zijn greep kon krijgen",
+     "titel": "VS voeren reeks aanvallen uit op Iraans eiland Qeshm, vijf explosies gehoord",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/hoe-de-voortvluchtige-brabantse-cocainebaron-jos-l-sierra-leone-in-zijn-greep-kon-krijgen~b3207cf2/",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-11-03T04:00:00+00:00"
-    },
-    {
-     "titel": "Voor Democraten voelen deze verkiezingen alsof hun democratie op het spel staat",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/voor-democraten-voelen-deze-verkiezingen-alsof-hun-democratie-op-het-spel-staat~be85894d/",
+     "link": "https://www.trouw.nl/buitenland/live-oorlog-midden-oosten-vs-voeren-reeks-aanvallen-uit-op-iraans-eiland-qeshm-vijf-explosies-gehoord~b4cda6da/",
      "bron": "Trouw",
-     "tijd": "22:00",
-     "sorteer": "2026-11-02T21:00:23+00:00"
+     "tijd": "03:33",
+     "sorteer": "2026-11-03T02:33:00+00:00"
     },
     {
-     "titel": "‘This Hour Has 22 Minutes,’ a Canadian Sketch Show, Beats American Late Night to the Punchline",
-     "context": "The long-running comedy show “This Hour Has 22 Minutes” is having a heyday playing with the fraught relationship between President Trump and Canada.",
+     "titel": "RBA interest rates live updates: Reserve Bank of Australia announces cash rate hike to 4.85% after meeting today – latest news",
+     "context": "Reserve Bank raises interest rates to an 18-year high, the fifth time this year Full report: RBA hikes cash rate for fifth time this year in blow to mortgage holders Use our loan calculator to check how the rate rise may affect you Get our breaking news email , free app or daily news podcast The Reserve Bank has hiked rates for the fifth time this year, from 4.6% to 4.85%, in a bid to regain contr",
      "rubrieken": [
-      "Television",
-      "This Hour Has 22 Minutes (TV Program)",
-      "Canada",
-      "Comedy and Humor",
-      "Canadian Broadcasting Corp",
-      "Social Media",
-      "Carter, Graydon",
-      "United States Politics and Government",
-      "Trump, Donald J",
-      "Zacharia, Katie",
-      "Minaj, Nicki",
-      "Leavitt, Karoline",
-      "Harp, Natalie J",
-      "Mills, Janet T (1947- )",
-      "McGunnigle, Stacey",
-      "Critch, Mark (1974- )"
+      "Reserve Bank of Australia",
+      "Australia news",
+      "Australian economy",
+      "Interest rates",
+      "Housing",
+      "Australian politics"
      ],
-     "link": "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html",
-     "bron": "New York Times",
-     "tijd": "22:46",
-     "sorteer": "2026-11-02T21:46:45+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Trump focuses on Washington DC construction projects on eve of midterm election as Democrats climb in polls – live",
-     "context": "President at reflecting pool in Washington DC to talk about various projects in final appearance before Americans head to polls to vote in crucial midterm election Sign up for the Breaking News US email The latest and final New York Times and Siena College poll before the midterm elections also shows Abdul El-Sayed leading Mike Rogers in the US Senate race in Michigan by 11 percentage points , out",
-     "rubrieken": [
-      "US midterm elections 2026",
-      "US news",
-      "World news",
-      "Michigan",
-      "Donald Trump",
-      "Democrats",
-      "Republicans",
-      "US Congress",
-      "US Senate"
-     ],
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
+     "link": "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates",
      "bron": "The Guardian",
-     "tijd": "22:44",
-     "sorteer": "2026-11-02T21:44:39+00:00",
+     "tijd": "05:48",
+     "sorteer": "2026-11-03T04:48:58+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-     "context": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "22:10",
-     "sorteer": "2026-11-02T21:10:04+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Les lobbies du tabac mettent le paquet à Bruxelles, alors que l’UE se penche sur le secteur",
-     "context": "Le nombre de réunions entre des représentants de cette industrie et des eurodéputés a déjà quadruplé par rapport à la législature précédente.",
+     "titel": "Bärbel Bas legt nach",
+     "context": "Nach ihrem Rücktritt als Arbeitsministerin und SPD-Co-Chefin bricht Bärbel Bas ihr Schweigen und rechnet mit der unerbittlichen Härte des Berliner Politikbetriebs ab. Ihre offenen Worte über fehlende Menschlichkeit, den Druck aus der Koalition und Enttäuschung über Friedrich Merz bergen neue Sprengkraft für die Koalition. Maximilian Stascheit beleuchtet, warum dieser Auftritt eine Debatte über den",
      "rubrieken": [
-      "Actualité",
-      "Lobbying",
-      "Transparence",
-      "Paris Influence"
+      "Der Podcast",
+      "German politics",
+      "Governance",
+      "Playbook",
+      "Transatlantic relations",
+      "U.S. elections",
+      "U.S. politics",
+      "War in Ukraine",
+      "Playbook",
+      "Politics"
      ],
-     "link": "https://www.politico.eu/article/le-lobby-du-tabac-met-le-paquet-a-bruxelles-alors-que-lue-se-penche-sur-le-secteur/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/barbel-bas-legt-nach/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
      "bron": "Politico Europe",
-     "tijd": "21:57",
-     "sorteer": "2026-11-02T20:57:00+00:00",
+     "tijd": "05:30",
+     "sorteer": "2026-11-03T04:30:00+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "US midterms campaign 'shattering' spending records to be most expensive ever",
-     "context": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
+     "titel": "US strikes Iran ahead of midterm elections",
+     "context": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
      "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
+     "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "21:54",
-     "sorteer": "2026-11-02T20:54:44+00:00",
+     "tijd": "04:39",
+     "sorteer": "2026-11-03T03:39:08+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+     "context": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "04:32",
+     "sorteer": "2026-11-03T03:32:36+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
+     "context": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime.",
+     "rubrieken": [
+      "North Korea",
+      "Cyberwarfare and Defense",
+      "Cyberattacks and Hackers",
+      "Virtual Currency",
+      "Binance",
+      "Federal Bureau of Investigation",
+      "Sony Corporation",
+      "Bybit Fintech Ltd",
+      "Robberies and Thefts"
+     ],
+     "link": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+     "bron": "New York Times",
+     "tijd": "04:29",
+     "sorteer": "2026-11-03T03:29:38+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -234,13 +236,23 @@
    "emoji": "🇳🇱",
    "items": [
     {
+     "titel": "Hotel in Amsterdam ontruimd na grote brand",
+     "context": "Bij een grote brand in een hotel in Amsterdam zijn vannacht 140 gasten geëvacueerd. De brand ontstond mogelijk door een apparaat dat vlam vatte. De brandweer had de brand snel onder controle. Enkele hotelgasten zijn door het ambulancepersoneel nagekeken. Twee van hen moesten ter controle naar het ziekenhuis omdat ze teveel rook hadden ingeademd. De brand in het hotel aan de Johan Cruijff Boulevard",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637811",
+     "bron": "NOS",
+     "tijd": "02:31",
+     "sorteer": "2026-11-03T02:31:24+01:00"
+    },
+    {
      "titel": "Dode en zwaargewonde bij schietpartij in auto in woonwijk Rotterdam-Oost",
-     "context": "Bij een schietpartij in een auto in een woonwijk in Rotterdam-Oost is vanavond de bestuurder van het voertuig om het leven gekomen. Een andere man raakte zwaargewond bij de beschieting, schrijft de politie op X. De beschieting was iets na 20.00 uur op de Evenaar in de wijk Oosterflank. Omdat nog niet duidelijk is hoe dit kon gebeuren, zijn de andere drie inzittenden als verdachte aangemerkt en aan",
+     "context": "Bij een schietpartij in een auto in een woonwijk in Rotterdam-Oost is vanavond de bestuurder van het voertuig om het leven gekomen. De politie meldt in een persbericht dat de dode een 36-jarige man uit Dordrecht is. Een andere man raakte zwaargewond bij de beschieting, schrijft de politie op X. De beschieting was iets na 20.00 uur op de Evenaar in de wijk Oosterflank. Omdat nog niet duidelijk is h",
      "rubrieken": [],
      "link": "https://nos.nl/l/2637793",
      "bron": "NOS",
      "tijd": "21:08",
-     "sorteer": "2026-11-02T21:08:58+01:00"
+     "sorteer": "2026-11-02T21:08:58+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Cel geëist tegen Eindhovenaar die met kruisboog 'op jacht ging' naar katten",
@@ -249,7 +261,8 @@
      "link": "https://nos.nl/l/2637771",
      "bron": "NOS",
      "tijd": "17:31",
-     "sorteer": "2026-11-02T17:31:28+01:00"
+     "sorteer": "2026-11-02T17:31:28+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Getuige werd verdachte in onderzoek naar dood Hajar na vondst beelden op telefoon",
@@ -258,34 +271,26 @@
      "link": "https://nos.nl/l/2637759",
      "bron": "NOS",
      "tijd": "15:15",
-     "sorteer": "2026-11-02T15:15:26+01:00"
+     "sorteer": "2026-11-02T15:15:26+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Prijs opnieuw omhoog: postzegel gaat 1,52 euro kosten",
-     "context": "Postzegels worden per 1 januari 2027 opnieuw duurder. Een losse zegel gaat 1,52 euro kosten. Dat is 12 eurocent meer dan wat een zegel op dit moment kost. Nu kost een postzegel 1,40 euro. De prijs neemt toe, omdat er naar verwachting steeds minder kaarten en brieven worden verstuurd. Ook stijgen de kosten voor postbezorging en ook inflatie speelt een rol. Deze zomer werd bekend dat PostNL zijn tar",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2637752",
-     "bron": "NOS",
-     "tijd": "14:41",
-     "sorteer": "2026-11-02T14:41:51+01:00"
-    },
-    {
-     "titel": "Tocht van rubberboot met vluchtelingen in Cadzand roept vele vragen op: ‘Ze waren overgeleverd aan de stroming’",
+     "titel": "Ook de dorpswinkel in Aldeboarn krijgt buikpijn van box 3: ‘Dan word je dus gestraft voor een mooi initiatief’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/tocht-van-rubberboot-met-vluchtelingen-in-cadzand-roept-vele-vragen-op-ze-waren-overgeleverd-aan-de-stroming~b1fb328f/",
+     "link": "https://www.volkskrant.nl/binnenland/ook-de-dorpswinkel-in-aldeboarn-krijgt-buikpijn-van-box-3-dan-word-je-dus-gestraft-voor-een-mooi-initiatief~b295bc0ba/",
      "bron": "de Volkskrant",
-     "tijd": "20:06",
-     "sorteer": "2026-11-02T19:06:00+00:00"
+     "tijd": "05:00",
+     "sorteer": "2026-11-03T04:00:40+00:00"
     },
     {
-     "titel": "Jeugdbeschermers ‘in een tunnelvisie’ bij overtreden regels rond jeugdzorg in het buitenland",
+     "titel": "Ik ben er niet klaar voor om ook de herfst te verliezen aan de klimaatcrisis",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/jeugdbeschermers-in-een-tunnelvisie-bij-overtreden-regels-rond-jeugdzorg-in-het-buitenland~b8a966e7/",
+     "link": "https://www.volkskrant.nl/binnenland/ik-ben-er-niet-klaar-voor-om-ook-de-herfst-te-verliezen-aan-de-klimaatcrisis~b1015889/",
      "bron": "de Volkskrant",
-     "tijd": "13:37",
-     "sorteer": "2026-11-02T12:37:00+00:00"
+     "tijd": "05:00",
+     "sorteer": "2026-11-03T04:00:38+00:00"
     },
     {
      "titel": "Wat gebeurt er met het bureau van Aletta Jacobs als het universiteitsmuseum van Groningen moet sluiten?",
@@ -294,49 +299,58 @@
      "link": "https://www.trouw.nl/binnenland/wat-gebeurt-er-met-het-bureau-van-aletta-jacobs-als-het-universiteitsmuseum-van-groningen-moet-sluiten~b26eb4fb/",
      "bron": "Trouw",
      "tijd": "22:00",
-     "sorteer": "2026-11-02T21:00:22+00:00"
+     "sorteer": "2026-11-02T21:00:22+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Linda de Mol ziet Johnny de Mol opbloeien: 'Ik ben trots'",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNkVkWWhQbHBmYjNRRWRLVnlHRnk2R0xVZHRTU1cxMW15cENzZFZfNnJoMFVUU0tqb2dZRjdsUjJVY1lJMTlXTHZUY3pYand4Qm1ubnR4NWp6RU9rUjJmc2ZmbDhFeEN6aGxNZnVaSkhHbms0cWh2YVdZUlVlRDg3N0p3UDlyRWdfWnBrU3pLN1Z1RTFNZXpUTFdieDVhNXNtRTA0?oc=5",
-     "bron": "RTL.nl",
-     "tijd": "21:17",
-     "sorteer": "2026-11-02T20:17:33+00:00"
+     "titel": "Gewapende overval op restaurant in Groningen: man bedreigt personeel met mes en eist geldbedrag",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR09wTFpmbVZ5ODJ0c1JvNkRac3hpNml4dHpzQkdwNVlrQl9BaGN5WEUxcGJmdEpWZG1TRGJnTTVuWS1CLVU4Tjh6N1J2NmRkOEZJd0Uzejh4UGtjbjVudjV4RXRDa3o4djZaeTdYU1huQVl2aXBvc0hSOEZsVXYwS1MwMDhNd3l6UEhidjA3c0hRZ2hxaHVWNGlDOTZLdUNSZVU4cUliZ0V6dG82QUsyTlZVZnY5d3A2UmlvWE1TcGNVNHFiT0pBSEZxdUhzUHMyaktSY2YteFF4SjVVS1E?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "05:23",
+     "sorteer": "2026-11-03T04:23:03+00:00"
     },
     {
-     "titel": "Automobilist (27) kent weg in Boxmeer op zijn duimpje, toch gaat het mis en rijdt hij voetganger aan",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS0NEeHNUcE1yOVZYNk5aY2oxLVVXc2pwZmVEWFZhRmFOUy1nYWlhS2hXTXAxdjB2N0hBcXV0MVBpRTktNXRKNl9SUG1pQ1FyXzR3aXpWQjlzRHZKRnA4SEhoWVFOUEx1SGdjWk5EOWlNb3dBLV9CZlBYcWFHNjMwQTFRV0dld2cxcVJ4eGU5bGFtZVM5Yl9oLWxCSXJybVkxeHIzMWhNVlJPRlZDRFdhQnY2LVdqLXEzVGZzcXJvbXgxcG1YQXJzVTk3Wm9kdw?oc=5",
-     "bron": "Eindhovens Dagblad",
-     "tijd": "20:48",
-     "sorteer": "2026-11-02T19:48:49+00:00"
+     "titel": "Steekpartijen, zedenmisdrijven, branden en aanslagdreiging: 175 ernstige asielincidenten eindelijk openbaar",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTWRQUXRURFBIeHE4ejJ1anZzMGtsY2ZWZlhyRDROQW1vdjFLaHNqUFd5bUw5THFjcXk2cmVrU2dDU0ZyX0NhVTAyZDRoMlZQSjlRdEs1U09iR082Z1NVWmRncG1ESFV4b1ZVRzdQdTg2emdXR3FpdFFIVzNoMUk5dElscWc2bXVGcUl4MHA5TUVpdDNlcDM1UEFxRUZvcTdkdW9DTm1nckRjNl9BVnQ0Mkx0RGtFTGlCYjRDNTBqUHFsZ1VndElGeVE0ektldkNpazVBSlBBQWVhYi1HOVhNLXl0Zm5XUUJ6aTNJ?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "05:23",
+     "sorteer": "2026-11-03T04:23:02+00:00"
     },
     {
-     "titel": "2 miljoen euro voor de gouden tip over ‘Bolle Jos’: 5 vragen over het hoogste tipgeld ooit",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS1NGQUNvZDBMMGZDTzRrNGNBTU55LWRKMUEycEJxQXdILTlyUHBxN2gzN3VsZ05vRENyNWVXVnlQa0FkaTAwWjFzZ2VJR05IcktQWmdRZmxRdDVwdXFLWTFMdGNfa1FHRG1mVzJ0ZWRkTXJIbjYzSXdNb1c4Z0xOWm81VGhYcW9WX2xPbG01T1R3RERSYTlEQ2FmUm1rRUhlRUdfREt2R0EwNGs5TC1IMV9YRXNVcV9uTV9GVVZEaElxS21HRnkyNw?oc=5",
-     "bron": "Trouw",
-     "tijd": "20:44",
-     "sorteer": "2026-11-02T19:44:00+00:00"
+     "titel": "Brand Crans-Montana bar: eigenaar bekent versmalde trap",
+     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQM1ZPY2FkNEdhdng4cENETTlWYk5YUVhjMkxKaXpDTzBXMkQ0VGJTREhYTUR2WF9qeDhPTzdzMkdWMWpOYk5VMVZJVnB6RTNvd0VvRmlscTJjUm9aV1dEN000Z1Zkc1FtZDRTUWxqQllkSldiOUx3ZHpCV05tNVd3ZmdvbkkxVDNJcjRER3lOM2tyYUtzMUhCa0c5Z1BvYW94R0hjQlc4TnVkUzFHb3FXMGFNbHc3S0pZSzJBR3pyTDdXcEFwZklBV2QwYVBtVl9Cby1UakpsX3VYWnBMOGlaZ1prVU15Ylhwd09ocXA0bzZOM2xCSzdnSmphTE13ZnAwbUs0anhFT3dMdw?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "04:33",
+     "sorteer": "2026-11-03T03:33:48+00:00"
     },
     {
      "titel": "Amsterdamse rapper zou via Snapchat jacht op goud van ouderen hebben geleid: ’Heeft ze al het goud gepakt?’",
      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ25xREg4QUhCWHBUT2g4VF9KYzktNjhjSWZyTkpGUDlfVXF6QzhXdHhaRkQ3YW15UTA0M1R3czVRMGVoUVNBZkRfY0M3S0hRTGpEU2pRU05MSEgwTVFRSmFNdmJsWnVjNExnUXl5SWVRV1Z1ME5aWHBSaC05b2JxT19zdS1PcEExU0YwY0EtREZGdW9EZHZsVE9hRnJ4WVd4S2lXOW9BbG5aNDZyVmNnWGVuQjJvbDUycGNRUFpnZGstZHlhLVp2ZDZyZkR4dHdKZVZHczNZYnlNVnF4cHJWVExhTTVZUQ?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "20:22",
-     "sorteer": "2026-11-02T19:22:00+00:00"
+     "tijd": "04:22",
+     "sorteer": "2026-11-03T03:22:00+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Onderhandelen met de VS over het Strafhof? Dat brengt ons dichter bij een wetteloze wereld",
-     "link": "https://decorrespondent.nl/17376",
-     "bron": "De Correspondent · Tom Lash, Rosan Smits",
+     "titel": "Krijgen de Amerikanen deze midterms nog een eerlijke kans om te kiezen?",
+     "link": "https://decorrespondent.nl/17378",
+     "bron": "De Correspondent · Rosan Smits",
      "tijd": "05:45",
-     "sorteer": "2026-11-02T04:45:06+00:00"
+     "sorteer": "2026-11-03T04:45:06+00:00"
     },
     {
-     "titel": "Wat blijft er van kamperen over als je al het ongemak wegkoopt?",
-     "link": "https://decorrespondent.nl/17348",
-     "bron": "De Correspondent · Emy Demkes",
+     "titel": "Hij is de geestelijk vader van de Amerikaanse AI-industrie. En nu wil hij gokken met de mensheid",
+     "link": "https://decorrespondent.nl/17373",
+     "bron": "De Correspondent · Thomas Oudman, Maurits Martijn",
      "tijd": "05:45",
-     "sorteer": "2026-11-02T04:45:05+00:00"
+     "sorteer": "2026-11-03T04:45:05+00:00"
+    },
+    {
+     "titel": "Jij bent even schuldig aan massatoerisme als de influencer, laat ‘The Siege of Paradise’ zien",
+     "link": "https://decorrespondent.nl/17350",
+     "bron": "De Correspondent · Maaike Goslinga",
+     "tijd": "05:45",
+     "sorteer": "2026-11-03T04:45:04+00:00"
     },
     {
      "titel": "Eva",
@@ -344,7 +358,7 @@
      "kop": "Vanavond op tv",
      "bron": "NPO1 · 19:05",
      "tijd": "19:05",
-     "sorteer": "2026-11-02T19:05:00"
+     "sorteer": "2026-11-03T19:05:00"
     },
     {
      "titel": "Nieuwsuur: Opnieuw koelingen gehackt • Boeren en kerk strijden om grond • Jeugdbeschermers faalden bij plaatsingen Huize Soria",
@@ -353,16 +367,17 @@
      "link": "https://nos.nl/l/2637756",
      "bron": "NPO2 · 22:00",
      "tijd": "22:00",
-     "sorteer": "2026-11-02T22:00:00",
-     "kop": "Vanavond op tv"
+     "sorteer": "2026-11-03T22:00:00",
+     "kop": "Vanavond op tv",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Pauw & De Wit: Mirjam Bikker, Bénédicte Ficq, Twan Huys, Christianne van der Wal & Hans Spekman",
-     "link": "https://www.bnnvara.nl/pauw-de-wit/artikelen/maandagavond-met-oa-mirjam-bikker-benedicte-ficq-twan-huys-christianne-van-der-wal-hans-spekman",
+     "titel": "Pauw & De Wit",
+     "link": "https://npo.nl/start/serie/pauw-de-wit",
      "kop": "Vanavond op tv",
-     "bron": "NPO1 · 22:30",
-     "tijd": "22:30",
-     "sorteer": "2026-11-02T22:30:00"
+     "bron": "NPO1 · 22:05",
+     "tijd": "22:05",
+     "sorteer": "2026-11-03T22:05:00"
     }
    ]
   },
@@ -371,6 +386,15 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Overleden persoon gevonden in Zwolse woning, politie doet onderzoek",
+     "context": "De politie heeft in een woning aan de Beethovenlaan in Zwolle een overleden persoon aangetroffen. Aan het einde van de middag kwam de melding binnen bij de hulpdiensten. Over de doodsoorzaak is nog niets bekend.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3714780/overleden-persoon-gevonden-in-zwolse-woning-politie-doet-onderzoek",
+     "bron": "RTV Oost",
+     "tijd": "21:33",
+     "sorteer": "2026-11-02T20:33:01+00:00"
+    },
     {
      "titel": "'Mama, ik mis je meer en meer': in Zwolse kas is ruimte voor rouw",
      "context": "De lucht kleurt donkerder. Daardoor zijn de kaarsjes en lampjes in de Kas van Rouwen en Vieren in Zwolle steeds beter te zien. Het is de dag van Allerzielen en ook in Zwolle staan mensen stil bij degenen die ze missen.",
@@ -381,33 +405,13 @@
      "sorteer": "2026-11-02T20:29:29+00:00"
     },
     {
-     "titel": "De Librije terug op de eerste plek van restaurantgids Lekker500",
-     "context": "Het Zwolse driesterrenrestaurant De Librije staat bovenaan de jaarlijkse restaurantgids Lekker500. Na een tweede plaats vorig jaar zien de recensenten het restaurant dit jaar als het beste van Nederland. Daarmee stoot De Librije Brut172 uit het Limburgse Reijmerstok van de troon.",
+     "titel": "Eén vape kan al genoeg zijn: Isala-artsen waarschuwen jongeren voor de gevaren",
+     "context": "Vapen ziet er aantrekkelijk uit, maar kunnen jongeren snel verslaafd maken. Daarom waarschuwden twee artsen van ziekenhuis Isala vandaag leerlingen van Thorbecke Praktijkonderwijs in Zwolle voor de gezondheidsrisico's. \"Eenmaal begonnen, is het heel moeilijk om te stoppen.\"",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3714758/de-librije-terug-op-de-eerste-plek-van-restaurantgids-lekker500",
+     "link": "https://www.oost.nl/nieuws/3714713/een-vape-kan-al-genoeg-zijn-isala-artsen-waarschuwen-jongeren-voor-de-gevaren",
      "bron": "RTV Oost",
-     "tijd": "20:07",
-     "sorteer": "2026-11-02T19:07:21+00:00"
-    },
-    {
-     "titel": "Kleine bierbrouwers slaan handen ineen: 'Noodzakelijk om samen op te trekken'",
-     "context": "Wie graag bier drinkt, heeft volop keuze. Van dubbel, tripel tot blond en bokbier. Maar voor kleine regionale brouwerijen is het lastig om op te boksen tegen de grote merken en ertussen te komen. Daarom gaan twaalf Oost-Nederlandse brouwerijen samenwerken.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3714110/kleine-bierbrouwers-slaan-handen-ineen-noodzakelijk-om-samen-op-te-trekken",
-     "bron": "RTV Oost",
-     "tijd": "17:57",
-     "sorteer": "2026-11-02T16:57:13+00:00"
-    },
-    {
-     "titel": "Ruzie in Nijverdal loopt uit de hand: vrouw overgoten met benzine door partner",
-     "context": "Een ruzie in een tuin in Nijverdal krijgt een levensgevaarlijke wending als een vrouw wordt overgoten met benzine en er gedreigd wordt om de boel in brand te steken. Een 62-jarige oud-beroepsmilitair uit Nijverdal wordt verdacht van poging tot moord op zijn partner.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3714697/ruzie-in-nijverdal-loopt-uit-de-hand-vrouw-overgoten-met-benzine-door-partner",
-     "bron": "RTV Oost",
-     "tijd": "17:49",
-     "sorteer": "2026-11-02T16:49:28+00:00"
+     "tijd": "20:02",
+     "sorteer": "2026-11-02T19:02:37+00:00"
     },
     {
      "titel": "Auto over de kop in 'beruchte' bocht op Pothoofd in Deventer",
@@ -416,18 +420,28 @@
      "link": "https://www.oost.nl/nieuws/3713972/auto-over-de-kop-in-beruchte-bocht-op-pothoofd-in-deventer",
      "bron": "RTV Oost",
      "tijd": "07:53",
-     "sorteer": "2026-11-02T06:53:41+00:00"
+     "sorteer": "2026-11-02T06:53:41+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "‘Lege handen’ na asbestdiagnose: huisarts bereidt massaclaim tegen Eternit voor",
-     "context": "Een oud-huisarts uit Diepenheim wil een collectieve rechtszaak beginnen tegen Eternit in Goor. Dat bedrijf gaf jarenlang zonder waarschuwing bedrijfsafval weg aan omwonenden om paden te verharden. Luc de Vries zegt dat slachtoffers na de diagnose asbestkanker te vaak met lege handen staan.",
+     "titel": "2 november is Allerzielen, wat wordt er gevierd op deze katholieke gedenkdag?",
+     "context": "Een kaarsje branden, een brief naar de hemel 'sturen' of een speciale mis waar de namen van overledenen worden genoemd. Op tal van plekken wordt vandaag Allerzielen gevierd. Wat houdt deze katholieke gedenkdag in?",
      "rubrieken": [
       "breaking"
      ],
-     "link": "https://www.oost.nl/nieuws/3713965/lege-handen-na-asbestdiagnose-huisarts-bereidt-massaclaim-tegen-eternit-voor",
+     "link": "https://www.oost.nl/cultuur/3713236/2-november-is-allerzielen-wat-wordt-er-gevierd-op-deze-katholieke-gedenkdag",
      "bron": "RTV Oost",
-     "tijd": "07:27",
-     "sorteer": "2026-11-02T06:27:04+00:00"
+     "tijd": "07:01",
+     "sorteer": "2026-11-02T06:01:17+00:00"
+    },
+    {
+     "titel": "Wijkbewoners Zwolle betwisten noodzaak om betaald parkeren uit te breiden",
+     "context": "Vanaf maart volgend jaar moet je in Zwolle op meer plekken betalen voor een parkeerplek. Het college van burgemeester en wethouders heeft vijf buurten definitief aangewezen waar betaald parkeren wordt ingevoerd. Daar is lang niet iedereen blij mee.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3712911/wijkbewoners-zwolle-betwisten-noodzaak-om-betaald-parkeren-uit-te-breiden",
+     "bron": "RTV Oost",
+     "tijd": "06:03",
+     "sorteer": "2026-11-02T05:03:47+00:00"
     },
     {
      "titel": "Eerlijke mensen",
@@ -642,22 +656,6 @@
      "sorteer": "2026-11-02T14:41:39.5+01:00"
     },
     {
-     "titel": "Begrotingsonderdeel Artikel 31 Politie",
-     "bron": "Wetgevingsoverleg",
-     "kop": "Komende week",
-     "tijd": "maandag 2/11 09:30",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07848",
-     "sorteer": "2026-11-02T09:30"
-    },
-    {
-     "titel": "Begrotingsonderdeel Artikel 31 Politie (i.v.m. wijziging aanvangs- en eindtijdstip)",
-     "bron": "Wetgevingsoverleg",
-     "kop": "Komende week",
-     "tijd": "maandag 2/11 10:00",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06206",
-     "sorteer": "2026-11-02T10:00"
-    },
-    {
      "titel": "IPC over het gemeenschappelijk Buitenlands-, Veiligheids- en Defensiebeleid",
      "bron": "Werkbezoek",
      "kop": "Komende week",
@@ -712,6 +710,22 @@
      "tijd": "donderdag 5/11 14:00",
      "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07408",
      "sorteer": "2026-11-05T14:00"
+    },
+    {
+     "titel": "Gesprek met Penpa Tsering, politiek leider van de Central Tibetan Administration (CTA)",
+     "bron": "Gesprek",
+     "kop": "Komende week",
+     "tijd": "donderdag 5/11 14:30",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07720",
+     "sorteer": "2026-11-05T14:30"
+    },
+    {
+     "titel": "'Lyme laat niet los. De politiek mag ook niet loslaten'",
+     "bron": "Petitie",
+     "kop": "Komende week",
+     "tijd": "dinsdag 10/11 13:30",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07048",
+     "sorteer": "2026-11-10T13:30"
     }
    ]
   },
@@ -737,7 +751,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "23:00",
+    "bijgewerkt": "05:55",
     "voetbal": {
      "uitslagen": [
       {
@@ -1130,20 +1144,20 @@
      "link": "https://scientias.nl/deze-bij-maakt-haar-eigen-plastic-dat-wel-afbreekt/"
     },
     {
+     "titel": "Two public servants in Brazil removed after threatening to poison Indigenous people",
+     "toelichting": "Brazil’s Indigenous voters helped reelect incumbent President Luiz Inácio Lula da Silva on Oct. 25. Following his win, two officials in the municipality of Tacuru, Mato Grosso do Sul, allegedly sent WhatsApp messages thr",
+     "bron": "Mongabay (Engels)",
+     "tijd": "23:44",
+     "link": "https://news.mongabay.com/short-article/2026/11/two-public-servants-in-brazil-removed-after-threatening-to-poison-indigenous-people/",
+     "sorteer": "2026-11-02T22:44:40+00:00"
+    },
+    {
      "titel": "Indigenous peoples and local communities solidify decision-making powers at COP17",
      "toelichting": "At the 2026 U.N. Biodiversity Conference in Armenia (COP17), Indigenous peoples and local communities strengthened their role in the decision-making of the Convention on Biological Diversity (CBD), with the full operatio",
      "bron": "Mongabay (Engels)",
      "tijd": "22:19",
      "link": "https://news.mongabay.com/short-article/2026/11/indigenous-peoples-and-local-communities-solidify-decision-making-powers-at-cop17/",
      "sorteer": "2026-11-02T21:19:11+00:00"
-    },
-    {
-     "titel": "Diverse forests can better withstand extreme weather events, study finds. Here’s why",
-     "toelichting": "Forests around the world face mounting pressures as the climate changes. In order to understand how they will fare, new research suggests looking at the forest for the trees — more specifically, the different types of tr",
-     "bron": "Mongabay (Engels)",
-     "tijd": "22:04",
-     "link": "https://news.mongabay.com/2026/11/diverse-forests-can-better-withstand-extreme-weather-events-study-finds-heres-why/",
-     "sorteer": "2026-11-02T21:04:55+00:00"
     }
    ]
   },
@@ -1196,7 +1210,7 @@
      "titel": "Dalfsen (nacht)",
      "kop": "Vogeltrek",
      "bron": "02-11",
-     "wanneer": "vannacht",
+     "wanneer": "de nacht van zondag op maandag",
      "tijd": "17:40–07:00",
      "link": "https://trektellen.org/count/view/2364/20261102",
      "soorten": [
@@ -1216,57 +1230,57 @@
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261102?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261103?language=dutch"
     },
     {
      "titel": "Kolgans — 14.058",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261102?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261103?language=dutch"
     },
     {
      "titel": "Spreeuw — 13.121",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261102?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261103?language=dutch"
     },
     {
      "titel": "Zwarte Zee-eend — 5.740",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261102?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261103?language=dutch"
     },
     {
      "titel": "Pijlstaart — 4.777",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261102?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261103?language=dutch"
     },
     {
      "titel": "Kramsvogel — 3.914",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261102?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261103?language=dutch"
     },
     {
      "kop": "Vogeltrek",
      "titel": "Drieteenmeeuw springt eruit — 407, normaal 4",
      "bron": "102× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261102?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261103?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Pijlstaart springt eruit — 4.777, normaal 103",
-     "bron": "46× het gewone niveau",
+     "titel": "Pijlstaart springt eruit — 4.777, normaal 113",
+     "bron": "42× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261102?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261103?language=dutch",
      "sein": true
     },
     {
@@ -1274,7 +1288,7 @@
      "titel": "Eider springt eruit — 548, normaal 14",
      "bron": "39× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261102?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261103?language=dutch",
      "sein": true
     },
     {
@@ -1282,7 +1296,7 @@
      "titel": "Topper springt eruit — 75, normaal 3",
      "bron": "25× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261102?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261103?language=dutch",
      "sein": true
     },
     {
@@ -1295,7 +1309,7 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Goed pestvogeljaar — 102 meldingen in de afgelopen week, waarvan 16 vandaag",
+     "titel": "Goed pestvogeljaar — 102 meldingen in de afgelopen week",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
@@ -1316,13 +1330,13 @@
    "emoji": "🌙",
    "items": [
     {
-     "titel": "Io, een van de grote manen van Jupiter, gaat achter de planeet langs en komt daarna in zijn schaduw — vannacht helemaal te volgen.",
+     "titel": "De Maan staat even ten westen van Jupiter, in het sterrenbeeld Leeuw.",
      "bron": "hemel.waarnemen.com",
-     "tijd": "02:44",
+     "tijd": "01:30",
      "link": "https://hemel.waarnemen.com/astrokal/"
     },
     {
-     "titel": "De Maan staat even ten zuiden van Mars, in het sterrenbeeld Leeuw.",
+     "titel": "De Maan staat even ten zuidwesten van Regulus, de helderste ster van het sterrenbeeld Leeuw.",
      "bron": "hemel.waarnemen.com",
      "tijd": "07:00",
      "link": "https://hemel.waarnemen.com/astrokal/"
@@ -1335,21 +1349,21 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 8.4,
-    "gevoel": 7.4,
-    "wind": "N 2",
+    "nu": 8.5,
+    "gevoel": 6.1,
+    "wind": "NO 3",
     "station": "Heino",
-    "bericht": "Er komt geleidelijk verandering in het weer van de komende dagen. Dankzij een hogedrukgebied komt de wind bij ons steeds meer uit de oosthoek en wordt drogere lucht aangevoerd. Dit resulteert in meer zon, maar het wordt ook direct een stuk frisser.",
-    "vandaag": "Vanavond komt flink wat bewolking voor, maar er zijn ook opklaringen en plaatselijk valt er een bui. Vannacht heeft de bewolking de overhand, al komt er ook een enkele opklaring voor.",
-    "temperatuur": "De temperatuur daalt naar 5 tot 9 graden.",
+    "bericht": "Vandaag en morgen ligt er nog een zwak front in de buurt. In eerste instantie kan daar nog wat motregen uit vallen. In de tweede weekhelft staat het weer in het teken van volop zon en blijft het droog.",
+    "vandaag": "Vanochtend hebben we te maken met veel bewolking. Vanmiddag wordt het op de meeste plaatsen geleidelijk zonnig, met hier en daar een paar wolkenvelden.",
+    "temperatuur": "In alle vroegte was het 7 of 8 graden in het binnenland en bijna 11 graden in het noordwestelijke kustgebied.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: motregen, 8 tot 13 graden, 98% kans op neerslag, ruim 4 uur zon, wind uit het noordwesten, kracht 3.",
-     "max": 13,
-     "min": 8,
-     "regenkans": 98,
-     "omschrijving": "motregen"
+     "zin": "Voor Dalfsen zelf: 4 tot 10 graden, 20% kans op neerslag, ruim 2 uur zon, wind uit het noordoosten, kracht 3.",
+     "max": 10,
+     "min": 4,
+     "regenkans": 20,
+     "omschrijving": "lichte motregen"
     },
-    "vooruit": "Vrij zonnig en droog met maximumtemperaturen rond 10 graden, later in de week in de nachten temperaturen rond nul.",
+    "vooruit": "Vrij zonnig en droog met maximumtemperaturen rond 10 graden. Later in de week in de nachten temperaturen rond nul. Vanaf het weekend iets stijgende stijgende nachttemperaturen en meer bewolking.",
     "omslag": null,
     "min": null,
     "max": null,
@@ -1358,21 +1372,21 @@
     "omschrijving": null,
     "morgen": {
      "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
-     "min": "7",
-     "max": "12",
+     "min": "4",
+     "max": "11",
      "regenkans": 10
     }
    }
   }
  ],
  "archief": [
+  "2026-11-03",
   "2026-11-02",
   "2026-11-01",
   "2026-10-31",
   "2026-10-30",
   "2026-10-29",
   "2026-10-28",
-  "2026-10-27",
-  "2026-10-26"
+  "2026-10-27"
  ]
 }
