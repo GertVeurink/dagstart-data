@@ -3,13 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "09:00",
+  "opgehaald": "10:00",
   "blokken": 12,
-  "berichten": 96,
+  "berichten": 98,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-03T09:00+01:00",
+ "opgehaald": "2026-11-03T10:00+01:00",
  "audio": "audio/20261103.mp3",
  "afval": [
   {
@@ -142,6 +142,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Eerste mazelendode in New York in 30 jaar, gouverneur wijst naar regering",
+     "context": "In de Amerikaanse staat New York is een kind overleden aan de mazelen, zo heeft de gouverneur bekendgemaakt. Het is het eerste sterfgeval in de staat in meer dan 30 jaar dat in verband wordt gebracht met de zeer besmettelijke infectieziekte. \"Het breekt mijn hart om te vernemen dat een kind in Lewis County is overleden na een besmetting met de mazelen\", zei gouverneur Kathy Hochul gisteren. \"Als m",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637828",
+     "bron": "NOS",
+     "tijd": "09:30",
+     "sorteer": "2026-11-03T09:30:45+01:00"
+    },
+    {
      "titel": "Podcast De Dag: hoe de Democraten de verkiezingen (nu én straks) proberen te winnen",
      "context": "Na twee jaar aan de zijlijn, hopen de Democraten bij de midterm-verkiezingen in Amerika het tij te keren. De uitslag is niet alleen belangrijk voor de politieke verhoudingen in het Congres, maar ook voor de koers van de Democraten in aanloop naar de presidentsverkiezingen van 2028. Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te ",
      "rubrieken": [],
@@ -179,15 +188,6 @@
      "sorteer": "2026-11-03T04:48:13+01:00"
     },
     {
-     "titel": "VS kondigt overleg Oekraïne-Rusland aan in Abu Dhabi",
-     "context": "Onder leiding van de Amerikaanse gezanten Steve Witkoff en Jared Kushner wordt op 10 en 11 november in Abu Dhabi gesproken over de beëindiging van de oorlog in Oekraïne. Dat maakte Steve Witkoff op X bekend. Volgens de Amerikanen zal er zowel vanuit Oekraïne als vanuit Rusland een delegatie aanwezig zijn. Een Amerikaanse functionaris zei maandag tegen persbureau Reuters dat de gesprekken tussen de",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2637810",
-     "bron": "NOS",
-     "tijd": "01:47",
-     "sorteer": "2026-11-03T01:47:39+01:00"
-    },
-    {
      "titel": "Tientallen gewonden bij Russische aanval op ziekenhuis in Charkiv, ruim tweehonderd patiënten geëvacueerd",
      "context": "",
      "rubrieken": [],
@@ -215,87 +215,82 @@
      "sorteer": "2026-11-03T07:53:00+00:00"
     },
     {
-     "titel": "Australia's social media ban 'ill thought out', High Court told in legal challenge",
-     "context": "Lawyers for Reddit and a digital rights group argued the world-leading policy robbed children of their right to free communication.",
+     "titel": "US midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agenda",
+     "context": "Polls open across the US where key Senate and House races will decide which party controls Congress for remainder of Donald Trump’s second term Sign up for the Breaking News US email What are the races to watch and why do they matter? It’s Tuesday 3 November, which means that after months of campaigning, debate and analysis, the critical US midterm elections that will take the political temperatur",
+     "rubrieken": [
+      "US midterm elections 2026",
+      "US Congress",
+      "Donald Trump",
+      "Trump administration",
+      "US Senate",
+      "House of Representatives",
+      "Republicans",
+      "Democrats",
+      "US politics",
+      "US news"
+     ],
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
+     "bron": "The Guardian",
+     "tijd": "09:49",
+     "sorteer": "2026-11-03T08:49:12+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Are Freezers Being Hacked? Europe and the U.S. Military Investigate.",
+     "context": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday.",
+     "rubrieken": [
+      "Refrigerators",
+      "United States Defense and Military Forces",
+      "Shopping and Retail",
+      "Computer Security",
+      "Supermarkets and Grocery Stores",
+      "Cyberattacks and Hackers",
+      "Supply Chain",
+      "United States Army",
+      "SUPERVALU INC",
+      "Europe"
+     ],
+     "link": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+     "bron": "New York Times",
+     "tijd": "09:45",
+     "sorteer": "2026-11-03T08:45:19+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "North Korea denies being behind record $6.3bn Binance hack",
+     "context": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "09:33",
+     "sorteer": "2026-11-03T08:33:20+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Shabana Mahmood – her fightback kicks off",
+     "context": "A bullish home secretary came out swinging after critics claimed she’d made a climbdown over her controversial immigration reforms. What remains from Shabana Mahmood’s original plan? And is the rest of the cabinet – including Angela Rayner – really behind her? Sam Coates – who’s been speaking to the home secretary – and Anne McElvoy […]",
+     "rubrieken": [
+      "British politics",
+      "Politics at Sam and Anne’s"
+     ],
+     "link": "https://www.politico.eu/podcast/politics-at-sam-and-annes/shabana-mahmood-her-fightback-kicks-off/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "09:21",
+     "sorteer": "2026-11-03T08:21:43+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Major test for Australia's social media ban begins in High Court",
+     "context": "Lawyers for Reddit and a digital rights group are arguing the world-leading policy robs children of their right to free communication.",
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
      "tijd": "08:53",
      "sorteer": "2026-11-03T07:53:38+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "RBA interest rates: Bullock says ‘pain now’ will prevent worse later as Reserve Bank hikes rates for fifth time",
-     "context": "Reserve Bank of Australia increases official cash rate to 4.85%, bringing it to highest level since 2008 RBA interest rates live updates: Reserve Bank cash rate decision Get our daily political email , free app or daily news podcast The Reserve Bank governor Michele Bullock has said that “some pain now will prevent even worse pain down the track”, after lifting official interest rates to an 18-yea",
-     "rubrieken": [
-      "Reserve Bank of Australia",
-      "Interest rates",
-      "Australia news",
-      "Economics",
-      "Australian economy"
-     ],
-     "link": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia",
-     "bron": "The Guardian",
-     "tijd": "08:36",
-     "sorteer": "2026-11-03T07:36:42+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Why a US-Russia showdown left Morocco celebrating",
-     "context": "An impasse between the US and Russia at the UN means its peacekeeping mission in Western Sahara has ended after 35 years.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "08:29",
-     "sorteer": "2026-11-03T07:29:46+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "America Votes",
-     "context": "We answer your questions about the midterm elections and what they will mean for the world.",
-     "rubrieken": [
-      "internal-open-access-from-nl",
-      "Midterm Elections (2026)",
-      "Trump, Donald J",
-      "Democratic Party",
-      "Republican Party",
-      "Musk, Elon",
-      "International Federation of Association Football (FIFA)",
-      "Justice Department",
-      "House of Representatives",
-      "Senate"
-     ],
-     "link": "https://www.nytimes.com/2026/11/02/world/midterm-elections-questions-trump-fifa.html",
-     "bron": "New York Times",
-     "tijd": "07:17",
-     "sorteer": "2026-11-03T06:17:48+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Poland’s court fight boils over",
-     "context": "Poland’s long-simmering rule-of-law issue reached boiling point this weekend. So, what now? On today’s show, Zoya Sheftalovich and Kathryn Carlson unpack Prime Minister Donald Tusk’s efforts to undo judicial appointments made under the previous right-wing Law and Justice government. Tusk’s administration argues that removing these PiS-era appointees is essential to bringing Poland back into line [",
-     "rubrieken": [
-      "agriculture and food",
-      "Belgian politics",
-      "Brussels Playbook Podcast",
-      "Budget",
-      "European politics",
-      "Food labeling and packaging",
-      "Judiciary",
-      "Polish Politics",
-      "Public health",
-      "Rule of Law",
-      "Foreign Affairs",
-      "Politics"
-     ],
-     "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/polands-court-fight-boils-over/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "06:05",
-     "sorteer": "2026-11-03T05:05:00+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -373,32 +368,32 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Nvidia draagt datacenterpartners op minder afhankelijk te worden van China",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMThaVGlPUXAwMDQxT0ZBaENTOVJsWWtiM2pDbmc4cVVSajRqZF9mcTlMTDh4bzkwcHpvVTFENHFfRjRuMTZLT0lhSFh6UV9HMllPX3Q1REg2UUZrN25LYUVlajlSamp5ZDhvNjA2cXU2bVlpdVN4ZFBrSWlySFJpOEo5c3dDYW9TRGFkLW1ub0tycGhFQlZsM1RQYlgzTWNYUEdQRmJFdWlKOGRXUkRpV1EzTjlqdElObGdYbHhWWQ?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "08:09",
-     "sorteer": "2026-11-03T07:09:42+00:00"
+     "titel": "Rechter bepaalt vanmiddag of Woudenbergs oppasstel tientallen jaren de cel in moet voor misbruik van zes kinderen",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQV1h2U2F5R2xxN2RfcjJ4eGpzZnV0UkdmWnd2X2l1NnAzX1pCNk1GSEoxcWlnLUZ2UDNWSE4xOFpmLTRCcDRUYTJPVzR2SGZJSHBVYXZaSWVTb2ExNnl0a1NwTWZ3QWQxc2x1eS1uZ2V1dWdVVzFvN2k3UE0yYlA0bWQteVhaemQ1aGgwRUJCTzYwWU9DSXRpWlhfLU00YTE1TkZ5M1pJVmNyTjVHZnluUlduTklaTFZHclVzaWNKRktMRy1aU3Q0VEhZQndicG5yc3RzT21RM1ZnUXNsX1FKeVRoZ1JDTDYxMkFhN1ZOd0g?oc=5",
+     "bron": "de Stentor",
+     "tijd": "09:38",
+     "sorteer": "2026-11-03T08:38:39+00:00"
     },
     {
-     "titel": "Brand Crans-Montana bar: eigenaar bekent versmalde trap",
-     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQM1ZPY2FkNEdhdng4cENETTlWYk5YUVhjMkxKaXpDTzBXMkQ0VGJTREhYTUR2WF9qeDhPTzdzMkdWMWpOYk5VMVZJVnB6RTNvd0VvRmlscTJjUm9aV1dEN000Z1Zkc1FtZDRTUWxqQllkSldiOUx3ZHpCV05tNVd3ZmdvbkkxVDNJcjRER3lOM2tyYUtzMUhCa0c5Z1BvYW94R0hjQlc4TnVkUzFHb3FXMGFNbHc3S0pZSzJBR3pyTDdXcEFwZklBV2QwYVBtVl9Cby1UakpsX3VYWnBMOGlaZ1prVU15Ylhwd09ocXA0bzZOM2xCSzdnSmphTE13ZnAwbUs0anhFT3dMdw?oc=5",
+     "titel": "Steekpartijen, zedenmisdrijven, branden en aanslagdreiging: lange lijst ernstige asielincidenten eindelijk openbaar",
+     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVzFsTV8ydDlWODRNTHBHYUktMTc3c2dKYjFJRS1FdHJyeWctd3p2cUEtb1NNNXh0Q0FycmJORkhTd3pONnZCc1RYX1l2SUZxRDU3ZWE3SkhUZ3RQMVpZZVdneUpqNzZlRlV6WmNuZFJscEtLR0RLNUQ0UjUycld1d2M4T1V1aFVCaFUxLWoycWdPdFh2QUV3T19BTVJpSG9VbzlSRGs5RzljVWxuTWs4bjBmOEo5MWFfSmVCUllYZmZ6N0ljQlllZkstV3A2ay1Oa3ZkWWlMeHMweFUwRnQtMWFWVXVkcVJ0TF8ybUJzMk0td3JrRlE?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "07:33",
-     "sorteer": "2026-11-03T06:33:48+00:00"
+     "tijd": "09:36",
+     "sorteer": "2026-11-03T08:36:55+00:00"
     },
     {
-     "titel": "Wetswijziging Suriname biedt geen oplossing voor paspoortkwestie internationals",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbGd2cUVqS2FEZF9mNnVuQWhmV0lmN2NuTWd3RF9CLUFULTBfQ0VCcmE4ZERmdVlTenlZN05Za201SExySVhfNmJVeldMU0x3ZUhPQmp2UW9za2VTNDZWdkstUGd0QzZsb1V4R1RvU3Jjd0tDQ25oNUQ3blVTTXU1OUFETndBc1A4VDBXX0FwSkdVYVUzd3J3U0tIN3RlTDZOOWx0V2FmU0RYU1pzVXZ3?oc=5",
-     "bron": "NOS",
-     "tijd": "07:28",
-     "sorteer": "2026-11-03T06:28:55+00:00"
+     "titel": "Rescue Zeeland keert terug in Vlissingen met thema ‘Samen voor elkaar’",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONnZPOURNT3lxYnlLRjg4RVYwRnJVamtKdWxnM0hfSVJPS2hfQkhSTDNCSE94MVNVRXY1b05WV3ViNUdkbUc0ZXNXZzdRZTVMenF6NnRwakpReklhVDVwZHltNU0zeUVJank4VWpkUVZGZnZpdTZSNnItY3lCeU00Nmk1SmdvUnAwMmVlajdoMVFLM1d6R3ZoVXA4ZFpxRHlUaUJidFAtbWp5NkE?oc=5",
+     "bron": "AD.nl",
+     "tijd": "09:54",
+     "sorteer": "2026-11-03T08:54:40+00:00"
     },
     {
-     "titel": "Steekpartijen, zedenmisdrijven, branden en aanslagdreiging: 175 ernstige asielincidenten eindelijk openbaar",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTWRQUXRURFBIeHE4ejJ1anZzMGtsY2ZWZlhyRDROQW1vdjFLaHNqUFd5bUw5THFjcXk2cmVrU2dDU0ZyX0NhVTAyZDRoMlZQSjlRdEs1U09iR082Z1NVWmRncG1ESFV4b1ZVRzdQdTg2emdXR3FpdFFIVzNoMUk5dElscWc2bXVGcUl4MHA5TUVpdDNlcDM1UEFxRUZvcTdkdW9DTm1nckRjNl9BVnQ0Mkx0RGtFTGlCYjRDNTBqUHFsZ1VndElGeVE0ektldkNpazVBSlBBQWVhYi1HOVhNLXl0Zm5XUUJ6aTNJ?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "05:23",
-     "sorteer": "2026-11-03T04:23:02+00:00"
+     "titel": "Duitse herder africhtingswedstrijd tussen Nederland en België in Vlissingen",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTnl1c0YwOUNkUG9OZjNaY3d1UkIxc1dFTl8xT29hMXV6eXMtV1lmcHR1SkdQZjd5NXljRTlsLVlvWVdwTHpsek9CcnFpeW4yV21sNVdvYWZmSzhVQXZHMkhXRGhPcTMyV1BuUjQzUV8ycENhaUdDeXhaYlVfZmNvVVVHOGxtQU9IUUdtUmtTVHRjU0lVQnpuLXJianFadE5OTU00SGdUUkNtZkZyLTRkWjlkbHI?oc=5",
+     "bron": "AD.nl",
+     "tijd": "09:41",
+     "sorteer": "2026-11-03T08:41:59+00:00"
     },
     {
      "titel": "Krijgen de Amerikanen deze midterms nog een eerlijke kans om te kiezen?",
@@ -456,6 +451,15 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Meer werk, nauwelijks extra werknemers: Overijssel wacht grote uitdaging",
+     "context": "De groei van het aantal mensen dat kan werken in Overijssel zakt de komende tien jaar naar bijna nul procent. Tot en met 2035 komen er nauwelijks nog mensen bij. Het aantal banen groeit wel. Dat stelt UWV in de jaarlijkse Regio in Beeld. Een verhaal over cijfers met een boodschap: er is actie nodig.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3714010/meer-werk-nauwelijks-extra-werknemers-overijssel-wacht-grote-uitdaging",
+     "bron": "RTV Oost",
+     "tijd": "07:02",
+     "sorteer": "2026-11-03T06:02:58+00:00"
+    },
+    {
      "titel": "Spitsfile op A1 bij Deventer, richting het westen vast na aanrijding",
      "context": "Twee van de vier rijstroken van de A1 op de IJsselbrug bij Deventer richting het westen waren vanochtend dicht na een aanrijding tussen een auto en een vrachtwagen. Het ongeluk ontstond vermoedelijk bij het wisselen van rijstrook.",
      "rubrieken": [],
@@ -474,31 +478,33 @@
      "sorteer": "2026-11-03T05:03:19+00:00"
     },
     {
-     "titel": "'Mama, ik mis je meer en meer': in Zwolse kas is ruimte voor rouw",
-     "context": "De lucht kleurt donkerder. Daardoor zijn de kaarsjes en lampjes in de Kas van Rouwen en Vieren in Zwolle steeds beter te zien. Het is de dag van Allerzielen en ook in Zwolle staan mensen stil bij degenen die ze missen.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3714719/mama-ik-mis-je-meer-en-meer-in-zwolse-kas-is-ruimte-voor-rouw",
+     "titel": "Toch metingen in alle 66 schuimhuizen Rijssen, maar vraagtekens blijven",
+     "context": "Er volgen toch metingen in alle 66 woningen aan het Pottebakkerserf in Rijssen die geïsoleerd zijn met het potentieel gevaarlijke UF-schuim. Dat bevestigt woningcorporatie Viverion. Bewoners en politici pleitten daar al weken voor.",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3714312/toch-metingen-in-alle-66-schuimhuizen-rijssen-maar-vraagtekens-blijven",
      "bron": "RTV Oost",
-     "tijd": "21:29",
-     "sorteer": "2026-11-02T20:29:29+00:00"
+     "tijd": "05:02",
+     "sorteer": "2026-11-03T04:02:01+00:00"
     },
     {
-     "titel": "Na wapenvangst gaat Enschede vaker preventief fouilleren, toch klinkt er kritiek",
-     "context": "22 wapens werden er zaterdagavond in beslag genomen in de binnenstad van Enschede. Er werd zogenoemd preventief gefouilleerd, waarbij de politie zonder concrete verdenking iemand mag fouilleren. De burgemeester wil het instrument vaker inzetten, maar er klinken ook zorgen en kritiek.",
+     "titel": "Woning in Enschede drie maanden dicht na drugsvondst",
+     "context": "Burgemeester Roelof Bleker van Enschede heeft een woning aan de Rembrandtlaan voor drie maanden gesloten. In het pand werd de drug GHB geproduceerd en verhandeld. Ook trof de politie een handelsvoorraad softdrugs aan.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3714748/na-wapenvangst-gaat-enschede-vaker-preventief-fouilleren-toch-klinkt-er-kritiek",
+     "link": "https://www.oost.nl/nieuws/3714744/woning-in-enschede-drie-maanden-dicht-na-drugsvondst",
      "bron": "RTV Oost",
-     "tijd": "19:35",
-     "sorteer": "2026-11-02T18:35:41+00:00"
+     "tijd": "21:47",
+     "sorteer": "2026-11-02T20:47:09+00:00"
     },
     {
-     "titel": "Patatje nostalgie: deze snackbar is al bijna dertig jaar een begrip in Almelo",
-     "context": "Een vette hap halen bij je vertrouwde cafetaria op de hoek en die thuis opeten, liefst met het bord op schoot. Een herkenbaar tafereel voor veel Nederlanders. Niet voor niets is onze afhaalfrituur immaterieel erfgoed. Tijd voor een bezoek aan een iconische snackbar die al dertig jaar in hartje Almelo zit.",
+     "titel": "Overleden persoon gevonden in Zwolse woning, politie doet onderzoek",
+     "context": "De politie heeft in een woning aan de Beethovenlaan in Zwolle een overleden persoon aangetroffen. Aan het einde van de middag kwam de melding binnen bij de hulpdiensten. Over de doodsoorzaak is nog niets bekend.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3704190/patatje-nostalgie-deze-snackbar-is-al-bijna-dertig-jaar-een-begrip-in-almelo",
+     "link": "https://www.oost.nl/nieuws/3714780/overleden-persoon-gevonden-in-zwolse-woning-politie-doet-onderzoek",
      "bron": "RTV Oost",
-     "tijd": "19:06",
-     "sorteer": "2026-11-02T18:06:04+00:00"
+     "tijd": "21:33",
+     "sorteer": "2026-11-02T20:33:01+00:00"
     },
     {
      "titel": "Eerlijke mensen",
@@ -585,6 +591,13 @@
    "emoji": "🤖",
    "items": [
     {
+     "titel": "AI slokt banen van jongeren in Brabant op, maar daarna wacht de arbeidsmarkt een nog groter probleem",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWF81dzdGYjFSSndKTXo0QnRLNTBHZlloNEladEFUNXlqMFNlb0FvMXU1N0xnUDduSXk1M2xHX1ZlMm5JVWtWWVIwMmV4MnV6U0ZjcEJVcjhmbTdZcncxLTZvQnFEVTczX1pPbEJ3Nzd2M1dpZDc5UWFPTVNjOWlOTHpFRmN0cHNpMWRrVkJoaTlZU0p5VG9CYnZ5TktQY1NSRGRxaVp4YzhJM1lGNkZXOVU4cDl5dWg4RXIwUHRHSGFZQkh2MVRxMzk2Rml6WVlYX3c?oc=5",
+     "bron": "Brabants Dagblad",
+     "tijd": "09:20",
+     "sorteer": "2026-11-03T08:20:21+00:00"
+    },
+    {
      "titel": "AI heeft op korte termijn nog geen grote effecten op werkgelegenheid in Friesland",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVzZveDlwNE5FZEcxR1ZYY2hwNWd5SGJUZjZJellEeXhQUnNpa2xyUVRVMk5EcGpnNXJyNGw5S0lUMWowQWoyczNGSFpqemlzYnNqMk5LaVllNVNmeFFHMlhuWGwyRkRmQ21qS1J5akxzYWRYZjVjdkY1TnFUS0RSTHJ4blpWQ21iX3g2cXJfVUZBZGljRW01RFRFRFV0STZoRU1BblZ1QWM4a2tfcjlUSHV0TlU5cVFMZDdWRWVYU2s?oc=5",
      "bron": "Leeuwarder Courant",
@@ -597,13 +610,6 @@
      "bron": "De Gelderlander",
      "tijd": "22:02",
      "sorteer": "2026-11-02T21:02:00+00:00"
-    },
-    {
-     "titel": "Chatbots en andere AI nemen duizenden banen over, tóch blijft het personeelstekort gigantisch",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNnIwWG5MLWg3YWtxVld3VWlkNWNsYXBUYlgzVDA4STBBNDIwTGE5M0dXbFBVaXl0VEZ0R0hfbmJIN19PU0dVWXFfbGFkak4tSjVraVNjcmRJWFdNamtGYUZ6QnBmbmxJS2Rzbnphc2NPQzJZc250R2lZNk1MUEZteWdER05vV1hpWmFRSFVxMDNzZ3VFR3lpOEU4NHpqWUtPOFpmajBCVG11OHQzVnFkVFRPb1ZhX0VEUU9lTnRpa1JLdG5YU1J3bw?oc=5",
-     "bron": "AD.nl",
-     "tijd": "21:25",
-     "sorteer": "2026-11-02T20:25:00+00:00"
     }
    ]
   },
@@ -685,6 +691,14 @@
      "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07848"
     },
     {
+     "titel": "De uitgestelde wijziging van de Wet particuliere beveiligingsorganisaties en recherchebureaus (WPBR)",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "18-09",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D44447",
+     "sorteer": "2026-11-03T09:52:40.953+01:00"
+    },
+    {
      "titel": "Meetbare doelstellingen voor de democratische rechtsstaat",
      "bron": "Kamervraag",
      "kop": "Kamervragen",
@@ -701,28 +715,20 @@
      "sorteer": "2026-11-02T16:41:38.413+01:00"
     },
     {
-     "titel": "Signalen van politiemedewerkers over knelpunten binnen de politieorganisatie",
-     "bron": "Kamervraag",
-     "kop": "Kamervragen",
-     "tijd": "18-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D44441",
-     "sorteer": "2026-11-02T11:50:41.65+01:00"
-    },
-    {
-     "titel": "Antwoord op vragen van het lid Van der Plas over de toezegging met betrekking tot de uitleg van ‘wederrechtelijkheid’ n.a.v.…",
+     "titel": "Antwoord op vragen van de leden Lammers, Straatman en Mathlouti over de uitgestelde wijziging van de Wet particuliere…",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
-     "tijd": "02-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D54895",
-     "sorteer": "2026-11-03T08:47:21.177+01:00"
+     "tijd": "03-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D54960",
+     "sorteer": "2026-11-03T09:57:31.763+01:00"
     },
     {
-     "titel": "Antwoord op vragen van lid Sneller over meetbare doelstellingen voor de democratische rechtsstaat",
+     "titel": "Antwoord op vragen van het lid Markuszower over de invloed van NGO’s en achterkamertjespolitiek bij de totstandkoming van het…",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
-     "tijd": "02-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D54939",
-     "sorteer": "2026-11-03T08:45:23.847+01:00"
+     "tijd": "30-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D54488",
+     "sorteer": "2026-11-03T09:03:13.773+01:00"
     },
     {
      "titel": "'Criminaliteit en rechtshandhaving 2025: Ontwikkelingen en samenhangen’",
@@ -836,7 +842,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "09:00",
+    "bijgewerkt": "10:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1259,6 +1265,30 @@
    "emoji": "🐦",
    "items": [
     {
+     "titel": "Bruine Boszanger",
+     "kop": "Zeldzaamheden",
+     "bron": "Noord-Holland",
+     "tijd": "09:44",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-03T09:44:00+01:00"
+    },
+    {
+     "titel": "Woestijntapuit",
+     "kop": "Zeldzaamheden",
+     "bron": "Friesland",
+     "tijd": "09:38",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-03T09:38:00+01:00"
+    },
+    {
+     "titel": "Pallas' Boszanger",
+     "kop": "Zeldzaamheden",
+     "bron": "Noord-Holland",
+     "tijd": "08:40",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-03T08:40:00+01:00"
+    },
+    {
      "titel": "Zwartbuikwaterspreeuw",
      "kop": "Zeldzaamheden",
      "bron": "Drenthe",
@@ -1275,28 +1305,12 @@
      "sorteer": "2026-11-02T14:56:00+01:00"
     },
     {
-     "titel": "Woestijntapuit",
-     "kop": "Zeldzaamheden",
-     "bron": "Friesland",
-     "tijd": "11:49",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-02T11:49:00+01:00"
-    },
-    {
      "titel": "Siberische Boompieper",
      "kop": "Zeldzaamheden",
      "bron": "Flevoland",
      "tijd": "10:15",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-11-02T10:15:00+01:00"
-    },
-    {
-     "titel": "Dwergaalscholver",
-     "kop": "Zeldzaamheden",
-     "bron": "Utrecht",
-     "tijd": "09:47",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-02T09:47:00+01:00"
     },
     {
      "titel": "Dalfsen (nacht)",
@@ -1369,11 +1383,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Goed pestvogeljaar — 103 meldingen in de afgelopen week, waarvan 1 vandaag",
+     "titel": "Goed pestvogeljaar — 105 meldingen in de afgelopen week, waarvan 3 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 117 vogels in de nieuwste meldingen"
+     "vergelijking": "samen 118 vogels in de nieuwste meldingen"
     },
     {
      "kop": "Pestvogels",
@@ -1409,19 +1423,19 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 8.7,
-    "gevoel": 7.0,
-    "wind": "NO 2",
+    "nu": 9.2,
+    "gevoel": 7.1,
+    "wind": "NO 3",
     "station": "Heino",
     "bericht": "Vandaag en morgen ligt er nog een zwak front in de buurt. In eerste instantie kan daar nog wat motregen uit vallen. In de tweede weekhelft staat het weer in het teken van volop zon en blijft het droog.",
     "vandaag": "Vanochtend hebben we te maken met veel bewolking. Vanmiddag wordt het op de meeste plaatsen geleidelijk zonnig, met hier en daar een paar wolkenvelden.",
     "temperatuur": "In alle vroegte was het 7 of 8 graden in het binnenland en bijna 11 graden in het noordwestelijke kustgebied.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: 4 tot 10 graden, 20% kans op neerslag, ruim 2 uur zon, wind uit het noordoosten, kracht 3.",
-     "max": 10,
+     "zin": "Voor Dalfsen zelf: 4 tot 9 graden, 20% kans op neerslag, ruim 3 uur zon, wind uit het noordoosten, kracht 3.",
+     "max": 9,
      "min": 4,
      "regenkans": 20,
-     "omschrijving": "motregen"
+     "omschrijving": "lichte motregen"
     },
     "vooruit": "Vrij zonnig en droog met maximumtemperaturen rond 10 graden. Later in de week in de nachten temperaturen rond nul. Vanaf het weekend iets stijgende stijgende nachttemperaturen en meer bewolking.",
     "omslag": null,
