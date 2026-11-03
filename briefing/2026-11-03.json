@@ -3,16 +3,17 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "05:55",
+  "opgehaald": "06:04",
   "blokken": 11,
-  "berichten": 97,
+  "berichten": 93,
   "problemen": [
-   "geen toegang tot /Users/thuismap/Library/Mobile Documents/com~apple~CloudDocs/Ochtendbriefing — overgeslagen"
+   "Nature Today: timeout"
   ],
-  "audio_herkomst": null
+  "audio_herkomst": "model",
+  "audio_aangehaakt": "06:05"
  },
- "opgehaald": "2026-11-03T05:55+01:00",
- "audio": null,
+ "opgehaald": "2026-11-03T06:04+01:00",
+ "audio": "audio/20261103.mp3",
  "afval": [
   {
    "datum": "2026-11-04",
@@ -63,7 +64,80 @@
    "afwijkend": true
   }
  ],
- "duiding": [],
+ "duiding": [
+  {
+   "titel": "Politiedebat draait om geld en iftars",
+   "tekst": "In het politiedebat van 2 november klaagden JA21, CDA en 50PLUS over te weinig zicht op de politie-uitgaven. Minister Van Weel ging vooral in op de iftars die de politie organiseerde. Hij zegt de kritiek te snappen en zegt dat de korpsleiding die ter harte nam. Een stemming wordt niet gemeld.",
+   "verwijzingen": [
+    {
+     "titel": "Mevrouw Coenradie (JA21) over korpsleiding",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07848",
+     "bron": "Begrotingsonderdeel Artikel 31 Politie",
+     "tijd": "02-11"
+    },
+    {
+     "titel": "Mevrouw Straatman (CDA) over korpsleiding",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07848",
+     "bron": "Begrotingsonderdeel Artikel 31 Politie",
+     "tijd": "02-11"
+    },
+    {
+     "titel": "De heer Struijs (50PLUS) over korpsleiding",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07848",
+     "bron": "Begrotingsonderdeel Artikel 31 Politie",
+     "tijd": "02-11"
+    },
+    {
+     "titel": "De heer Van Weel over korpsleiding",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07848",
+     "bron": "Begrotingsonderdeel Artikel 31 Politie",
+     "tijd": "02-11"
+    },
+    {
+     "titel": "Minister Van Weel over korpsleiding",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07848",
+     "bron": "Begrotingsonderdeel Artikel 31 Politie",
+     "tijd": "02-11"
+    }
+   ]
+  },
+  {
+   "titel": "Noord-Korea ontkent de Binance-hack",
+   "tekst": "Noord-Korea reageert voor het eerst op de Amerikaanse beschuldiging dat het achter de Binance-hack zit. Kim Yo-jong ontkent, en het land noemt de FBI-beschuldiging een \"ernstige politieke provocatie\". Bewijs van een van beide kanten staat niet in de berichten.",
+   "verwijzingen": [
+    {
+     "titel": "Noord-Korea ontkent achter de Binance-hack te zitten",
+     "link": "https://nos.nl/l/2637812",
+     "bron": "NOS",
+     "tijd": "04:48"
+    },
+    {
+     "titel": "Noord-Korea noemt beschuldigingen FBI over miljardenhack ‘ernstige politieke provocatie’",
+     "link": "https://www.volkskrant.nl/buitenland/noord-korea-noemt-beschuldigingen-fbi-over-miljardenhack-ernstige-politieke-provocatie~bee87223/",
+     "bron": "de Volkskrant",
+     "tijd": "05:04"
+    }
+   ]
+  },
+  {
+   "titel": "Vredesoverleg na aanval op hulppost",
+   "tekst": "De VS melden dat op 10 en 11 november in Abu Dhabi weer over een einde aan de oorlog in Oekraïne wordt gesproken. Dat komt kort nadat Zelensky Rusland een bloedbad verweet: zeker 26 doden bij een aanval op een hulppost bij Zaporizja. Wie er precies aanschuiven, valt uit het afgebroken bericht niet op te maken.",
+   "verwijzingen": [
+    {
+     "titel": "VS doen nieuwe poging vredesproces tussen Oekraïne en Rusland vlot te trekken",
+     "link": "https://nos.nl/l/2637810",
+     "bron": "NOS",
+     "tijd": "01:47"
+    },
+    {
+     "titel": "Zelensky: Russen richten bloedbad aan met bombardement op hulppost",
+     "link": "https://nos.nl/l/2637784",
+     "bron": "NOS",
+     "tijd": "19:14"
+    }
+   ]
+  }
+ ],
  "blokken": [
   {
    "id": "internationaal",
@@ -303,13 +377,6 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Gewapende overval op restaurant in Groningen: man bedreigt personeel met mes en eist geldbedrag",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR09wTFpmbVZ5ODJ0c1JvNkRac3hpNml4dHpzQkdwNVlrQl9BaGN5WEUxcGJmdEpWZG1TRGJnTTVuWS1CLVU4Tjh6N1J2NmRkOEZJd0Uzejh4UGtjbjVudjV4RXRDa3o4djZaeTdYU1huQVl2aXBvc0hSOEZsVXYwS1MwMDhNd3l6UEhidjA3c0hRZ2hxaHVWNGlDOTZLdUNSZVU4cUliZ0V6dG82QUsyTlZVZnY5d3A2UmlvWE1TcGNVNHFiT0pBSEZxdUhzUHMyaktSY2YteFF4SjVVS1E?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "05:23",
-     "sorteer": "2026-11-03T04:23:03+00:00"
-    },
-    {
      "titel": "Steekpartijen, zedenmisdrijven, branden en aanslagdreiging: 175 ernstige asielincidenten eindelijk openbaar",
      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTWRQUXRURFBIeHE4ejJ1anZzMGtsY2ZWZlhyRDROQW1vdjFLaHNqUFd5bUw5THFjcXk2cmVrU2dDU0ZyX0NhVTAyZDRoMlZQSjlRdEs1U09iR082Z1NVWmRncG1ESFV4b1ZVRzdQdTg2emdXR3FpdFFIVzNoMUk5dElscWc2bXVGcUl4MHA5TUVpdDNlcDM1UEFxRUZvcTdkdW9DTm1nckRjNl9BVnQ0Mkx0RGtFTGlCYjRDNTBqUHFsZ1VndElGeVE0ektldkNpazVBSlBBQWVhYi1HOVhNLXl0Zm5XUUJ6aTNJ?oc=5",
      "bron": "De Telegraaf",
@@ -330,6 +397,13 @@
      "tijd": "04:22",
      "sorteer": "2026-11-03T03:22:00+00:00",
      "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Belastingplan-druk naar kookpunt: hoe komt het kabinet aan een meerderheid?",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQnhkVWhnR2RpT05tckRySERYSElvRWhzV3NjVzNXUnowcElXNXU4Zk1YTTZxUW1uSWRBTXhiWnJHa25HRXJ5cUVWaHItWjhzQTRsSXVUdEVEWU9zQkpiZkI4Z082aGZUM2dlUXVzLXJ2aGI2SV9NRlc1T0VBWGdFUUxqOWg2cnJ3d3ZxTEJ2S0t4Smd4aG1zYWFqTXZNSVVhNVlSbC00c21WZ2tjNG9wNFo0bXNrU0xvZkFvQlJPSQ?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "04:52",
+     "sorteer": "2026-11-03T03:52:00+00:00"
     },
     {
      "titel": "Krijgen de Amerikanen deze midterms nog een eerlijke kans om te kiezen?",
@@ -387,6 +461,15 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Woning in Enschede drie maanden dicht na drugsvondst",
+     "context": "Burgemeester Roelof Bleker van Enschede heeft een woning aan de Rembrandtlaan voor drie maanden gesloten. In het pand werd de drug GHB geproduceerd en verhandeld. Ook trof de politie een handelsvoorraad softdrugs aan.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3714744/woning-in-enschede-drie-maanden-dicht-na-drugsvondst",
+     "bron": "RTV Oost",
+     "tijd": "21:47",
+     "sorteer": "2026-11-02T20:47:09+00:00"
+    },
+    {
      "titel": "Overleden persoon gevonden in Zwolse woning, politie doet onderzoek",
      "context": "De politie heeft in een woning aan de Beethovenlaan in Zwolle een overleden persoon aangetroffen. Aan het einde van de middag kwam de melding binnen bij de hulpdiensten. Over de doodsoorzaak is nog niets bekend.",
      "rubrieken": [],
@@ -433,15 +516,6 @@
      "bron": "RTV Oost",
      "tijd": "07:01",
      "sorteer": "2026-11-02T06:01:17+00:00"
-    },
-    {
-     "titel": "Wijkbewoners Zwolle betwisten noodzaak om betaald parkeren uit te breiden",
-     "context": "Vanaf maart volgend jaar moet je in Zwolle op meer plekken betalen voor een parkeerplek. Het college van burgemeester en wethouders heeft vijf buurten definitief aangewezen waar betaald parkeren wordt ingevoerd. Daar is lang niet iedereen blij mee.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3712911/wijkbewoners-zwolle-betwisten-noodzaak-om-betaald-parkeren-uit-te-breiden",
-     "bron": "RTV Oost",
-     "tijd": "06:03",
-     "sorteer": "2026-11-02T05:03:47+00:00"
     },
     {
      "titel": "Eerlijke mensen",
@@ -751,7 +825,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "05:55",
+    "bijgewerkt": "06:04",
     "voetbal": {
      "uitslagen": [
       {
@@ -1105,38 +1179,6 @@
    "emoji": "🌿",
    "items": [
     {
-     "titel": "Vandaag in de natuur",
-     "toelichting": "Een vrolijk geelgekleurde zwam die je op veel plekken in Nederland kunt waarnemen is het geel hoorntje . De op omhoogstekende vingers lijkende vruchtlichamen groeien op dood loof- en naaldhout, vaak in bundels, soms alleenstaand.",
-     "bron": "Nature Today",
-     "tijd": "",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=34557",
-     "sein": true
-    },
-    {
-     "titel": "Natuurjournaal 2 november 2026",
-     "toelichting": "De rubberen vingers van het geel hoorntje en echt bitterkruid gaat echt nog even door.",
-     "bron": "Nature Today",
-     "tijd": "06:45",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=34557",
-     "sorteer": "2026-11-02T05:45:00+00:00"
-    },
-    {
-     "titel": "Handen uit de mouwen voor het gentiaanblauwtje",
-     "toelichting": "Woont u in de buurt van het Drents-Friese Wold en wilt u helpen het leefgebied van een zeldzame en bedreigde vlinder te verbeteren? Dan is nu de kans! Samen met Natuurmonumenten en vrijwilligers gaat De Vlinderstichting ",
-     "bron": "Nature Today",
-     "tijd": "07:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36005",
-     "sorteer": "2026-11-02T06:00:00+00:00"
-    },
-    {
-     "titel": "Kwetsbare Kromme Rijncorridor krijgt bescherming van stichting",
-     "toelichting": "De kwaliteit van het cultuurhistorische landschap Kromme Rijncorridor holt achteruit. De werkgroep die zich al jaren inzet voor dit kwetsbare gebied, doet dit tegenwoordig met beduidend meer gezag. Ze hebben namelijk een",
-     "bron": "Nature Today",
-     "tijd": "12:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36003",
-     "sorteer": "2026-11-02T11:00:00+00:00"
-    },
-    {
      "titel": "Deze bij maakt haar eigen plastic – dat wél afbreekt",
      "toelichting": "Plastic dat stevig en waterafstotend is, maar toch binnen een jaar grotendeels afbreekt in de natuur. Het klinkt bijna te mooi om waar te zijn. Toch maakt een Noord-Amerikaanse bijensoort precies zo’n materiaal. En dat k",
      "bron": "Scientias",
@@ -1350,8 +1392,8 @@
    "items": [],
    "weer": {
     "nu": 8.5,
-    "gevoel": 6.1,
-    "wind": "NO 3",
+    "gevoel": 6.7,
+    "wind": "NO 2",
     "station": "Heino",
     "bericht": "Vandaag en morgen ligt er nog een zwak front in de buurt. In eerste instantie kan daar nog wat motregen uit vallen. In de tweede weekhelft staat het weer in het teken van volop zon en blijft het droog.",
     "vandaag": "Vanochtend hebben we te maken met veel bewolking. Vanmiddag wordt het op de meeste plaatsen geleidelijk zonnig, met hier en daar een paar wolkenvelden.",
@@ -1378,5 +1420,15 @@
     }
    }
   }
+ ],
+ "archief": [
+  "2026-11-03",
+  "2026-11-02",
+  "2026-11-01",
+  "2026-10-31",
+  "2026-10-30",
+  "2026-10-29",
+  "2026-10-28",
+  "2026-10-27"
  ]
 }
