@@ -3,13 +3,14 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "07:00",
+  "opgehaald": "07:19",
   "blokken": 11,
   "berichten": 107,
   "problemen": [],
-  "audio_herkomst": "model"
+  "audio_herkomst": "model",
+  "audio_aangehaakt": "07:20"
  },
- "opgehaald": "2026-11-04T07:00+01:00",
+ "opgehaald": "2026-11-04T07:19+01:00",
  "audio": "audio/20261104.mp3",
  "afval": [
   {
@@ -183,7 +184,7 @@
    "items": [
     {
      "titel": "Enorme winst Democraten bij midterms, Republikeinen verliezen Huis en Senaat",
-     "context": "President Trump is keihard afgestraft bij de tussentijdse verkiezingen in de Verenigde Staten. De Republikeinen verliezen niet alleen hun meerderheid in het Huis van Afgevaardigden, zoals verwacht, maar ook in de Senaat. Dat betekent een gigantische overwinning voor de Democraten en maakt regeren voor de president een stuk moeilijker. Liveblog en -stream Volg de laatste ontwikkelingen in ons liveb",
+     "context": "President Trump en zijn beleid zijn afgestraft bij de tussentijdse verkiezingen in de Verenigde Staten. De uitslagen lopen nog binnen, maar duidelijk is dat de Republikeinen niet alleen zoals verwacht hun meerderheid in het Huis van Afgevaardigden verliezen, maar ook in de Senaat. Dat betekent een gigantische overwinning voor de Democraten en maakt regeren voor de president een stuk moeilijker. Li",
      "rubrieken": [],
      "link": "https://nos.nl/l/2637958",
      "bron": "NOS",
@@ -229,10 +230,10 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Senaatszetel in Minnesota blijft in Democratische handen, Republikeinse veteraan in Maine moet ook verlies toegeven",
+     "titel": "Senaatszetel in Minnesota blijft in Democratische handen, Republikeinse veteraan in Maine moet verlies toegeven",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/senaatszetel-in-minnesota-blijft-in-democratische-handen-republikeinse-veteraan-in-maine-moet-ook-verlies-toegeven~b782895d/",
+     "link": "https://www.volkskrant.nl/buitenland/senaatszetel-in-minnesota-blijft-in-democratische-handen-republikeinse-veteraan-in-maine-moet-verlies-toegeven~b782895d/",
      "bron": "de Volkskrant",
      "tijd": "06:48",
      "sorteer": "2026-11-04T05:48:00+00:00"
@@ -247,33 +248,40 @@
      "sorteer": "2026-11-04T05:05:00+00:00"
     },
     {
-     "titel": "Amerikaanse kiezer rekent af met Trump: Democraten winnen nog meer dan verwacht",
+     "titel": "Democraten veroveren zetels in Republikeinse bolwerken, meerderheid in Senaat",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/amerikaanse-kiezer-rekent-af-met-trump-democraten-winnen-nog-meer-dan-verwacht~bfa275f1/",
+     "link": "https://www.trouw.nl/buitenland/live-vs-democraten-veroveren-zetels-in-republikeinse-bolwerken-meerderheid-in-senaat~bbc0cf3d/",
      "bron": "Trouw",
-     "tijd": "06:48",
-     "sorteer": "2026-11-04T05:48:10+00:00"
+     "tijd": "07:03",
+     "sorteer": "2026-11-04T06:03:00+00:00"
     },
     {
-     "titel": "US midterm elections 2026 live updates: Democrats win Senate control and edge toward House victory",
-     "context": "Democrats flip seats in Texas, Iowa, Kansas, North Carolina, South Carolina and Ohio; Trump says he will accept results in a dire night for Republicans Track live results from all 50 states Democrats win control of Senate as US voters reject Trump’s agenda As we bring you the latest from around the country, Donald Trump is certainly paying attention. From the White House, the president said that h",
+     "titel": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
+     "context": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "07:14",
+     "sorteer": "2026-11-04T06:14:20+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Democrat Gina Hinojosa defeats Texas governor Greg Abbott in stunning upset",
+     "context": "Hinojosa wins momentous victory, shatters Republican grip on key office and will become state’s first Latina governor US midterm elections – live updates Track live results from all 50 states In a seismic political upset that would have seemed improbable only a few weeks ago, Democrat Gina Hinojosa has defeated three-term governor Greg Abbott on Tuesday, shattering the Republican grip on the highe",
      "rubrieken": [
-      "US midterm elections 2026",
-      "US Congress",
-      "Donald Trump",
-      "Trump administration",
-      "US Senate",
-      "House of Representatives",
-      "Republicans",
+      "Texas",
       "Democrats",
       "US politics",
-      "US news"
+      "US news",
+      "World news",
+      "US midterm elections 2026"
      ],
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+     "link": "https://www.theguardian.com/us-news/2026/nov/03/democrat-gina-hinojosa-greg-abbott-texas",
      "bron": "The Guardian",
-     "tijd": "06:49",
-     "sorteer": "2026-11-04T05:49:27+00:00",
+     "tijd": "07:04",
+     "sorteer": "2026-11-04T06:04:12+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -329,17 +337,6 @@
      "bron": "BBC",
      "tijd": "04:46",
      "sorteer": "2026-11-04T03:46:10+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Anthony Zurcher: Democrats push deep into Republican territory with historic wins",
-     "context": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "04:34",
-     "sorteer": "2026-11-04T03:34:58+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -509,15 +506,6 @@
      "sorteer": "2026-11-04T05:00:00+00:00"
     },
     {
-     "titel": "Politie controleert strenger op vuurwerkimport uit Duitsland: 'Doe het niet'",
-     "context": "\"Doe het niet, want het is strafbaar en de boetes zijn hoog.\" Die oproep doet de politie aan inwoners van Overijssel die vuurwerk uit Duitsland overwegen te halen. Praktisch al het vuurwerk is sinds 1 augustus verboden in ons land. De politie zegt \"gerichter en strenger\" te controleren aan de grens.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3714735/politie-controleert-strenger-op-vuurwerkimport-uit-duitsland-doe-het-niet",
-     "bron": "RTV Oost",
-     "tijd": "05:01",
-     "sorteer": "2026-11-04T04:01:44+00:00"
-    },
-    {
      "titel": "Zwollenaar (46) veroordeeld nadat hij met één knip alle seinen op rood had gezet",
      "context": "Met één knip legde een koperdief (46) in november vorig jaar het treinverkeer rondom Zwolle plat. Dat was niet alleen vervelend voor reizigers, maar ook gevaarlijk, oordeelt de rechtbank vandaag. De man is ook veroordeeld voor de diefstal van brons van het Indiëmonument in Zwolle.",
      "rubrieken": [],
@@ -557,6 +545,18 @@
      "bron": "RTV Oost",
      "tijd": "17:01",
      "sorteer": "2026-11-03T16:01:01+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Provincies aan zet bij stikstofplannen, focus op maatwerk om stikstofdoelen te halen",
+     "context": "Het kabinet geeft in de uitwerking van de stikstofplannen van landbouwminister Jaimi van Essen boeren en provincies meer ruimte, maar de stikstofdoelen blijven wel staan. Provincies krijgen wel de vrijheid om maatwerk toe te passen.",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3713217/provincies-aan-zet-bij-stikstofplannen-focus-op-maatwerk-om-stikstofdoelen-te-halen",
+     "bron": "RTV Oost",
+     "tijd": "15:07",
+     "sorteer": "2026-11-03T14:07:39+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -902,7 +902,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "07:00",
+    "bijgewerkt": "07:19",
     "voetbal": {
      "uitslagen": [
       {
@@ -1535,9 +1535,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 5.0,
-    "gevoel": 3.4,
-    "wind": "ONO 2",
+    "nu": 4.9,
+    "gevoel": 3.8,
+    "wind": "ONO 1",
     "station": "Heino",
     "bericht": "Met een oostelijke stroming wordt de komende dagen geleidelijk drogere lucht aangevoerd. Het betekent op donderdag en vrijdag volop zonneschijn. Door de wind voelt het kouder aan dan de thermometer aanwijst.",
     "vandaag": "Vanochtend is het in het gehele noorden bewolkt, maar wel droog. Vanmiddag zijn er perioden met zon, afgewisseld met wolkenvelden, en blijft het droog.",
@@ -1564,5 +1564,15 @@
     }
    }
   }
+ ],
+ "archief": [
+  "2026-11-04",
+  "2026-11-03",
+  "2026-11-02",
+  "2026-11-01",
+  "2026-10-31",
+  "2026-10-30",
+  "2026-10-29",
+  "2026-10-28"
  ]
 }
