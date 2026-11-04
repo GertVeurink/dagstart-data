@@ -3,13 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "11:00",
+  "opgehaald": "11:09",
   "blokken": 11,
-  "berichten": 95,
+  "berichten": 107,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-04T11:00+01:00",
+ "opgehaald": "2026-11-04T11:09+01:00",
  "audio": "audio/20261104.mp3",
  "afval": [
   {
@@ -63,116 +63,146 @@
  ],
  "duiding": [
   {
-   "titel": "Democraten winnen de Senaat",
-   "tekst": "Volgens de NOS verliezen de Republikeinen hun meerderheid in zowel de Senaat als het Huis van Afgevaardigden (1). The Guardian is voorzichtiger: de Democraten hebben de Senaat, maar het Huis is nog niet beslist (9). Opvallende races zijn de zege van James Talarico op Trump-loyalist Ken Paxton en die van Sherrod Brown op zittend senator John Husted (9). De BBC schrijft dat twee Senaatsraces die een jaar geleden nog spannend leken ruim naar de Democraten gingen (12). Trump zegt de uitslag te accepteren (9). Voor de opening van de stembureaus wilde hij nog duizenden stemmen ongeldig laten verklaren (8). De Golfstaten bereiden zich voor op een mogelijk hervatte oorlog met Iran, nu een deadline van Trump rond de midterms nadert (11).",
+   "titel": "Democraten nemen Congres over",
+   "tekst": "De Democraten krijgen een meerderheid in het Huis van Afgevaardigden én in de Senaat. Volgens de NOS lopen de uitslagen nog binnen. The Guardian noemt winst in Senaatsraces in Michigan, Texas, Iowa, Kansas, North Carolina, South Carolina en Ohio. Kansas gaat voor het eerst in 94 jaar naar een Democraat. In Michigan versloeg Abdul El-Sayed Mike Rogers en wordt hij de eerste islamitische senator. Georgia kiest met Keisha Lance Bottoms de eerste zwarte vrouwelijke gouverneur, en in Texas wint Gina Hinojosa. De Volkskrant schrijft dat het herindelen van kiesdistricten slecht uitpakte voor de Republikeinen.\n\nTrump erkent de nederlaag. Hij zegt samenwerking te willen, maar dreigt anders \"alles te vetoën\". Volgens de New York Times wijt hij het verlies eraan dat hij zelf niet op het stembiljet stond, terwijl partijgenoten hem de schuld geven. Obama spreekt van een \"duidelijke boodschap\". De New York Times schrijft over \"het begin van het einde van het Trump-tijdperk\". The Guardian noemt de uitslag een afrekening met Maga, en CNN ziet grote winst voor progressieven. Volgens Politico Europe is dit een klap voor Elon Musk.\n\nDat betekent dat er de komende maanden weinig wetgeving door het Congres komt zonder overleg tussen beide kanten. Het dreigement met een veto wijst eerder op een patstelling dan op samenwerking. Bij de Republikeinen is de onderlinge schuldvraag al begonnen. Wie in Europa iets van Washington wil, zoals de EU in haar overleg over steun aan Oekraïne, krijgt er een tweede aanspreekpunt bij.\n\nOp langere termijn volgt hieruit dat Trump minder grip heeft op zijn eigen achterban, als de verschuiving in diep-Republikeinse staten blijvend is. Bij de Democraten moet een brede coalitie, met een sterkere progressieve vleugel, samen gaan regeren. De Noorse premier Støre ziet al stemmen opkomen die dichter bij Europa staan, bijvoorbeeld over klimaat.",
    "verwijzingen": [
     {
-     "titel": "Enorme winst Democraten in midterms, Republikeinen verliezen meerderheid Senaat",
+     "titel": "In Amerikaanse midterms wordt geschiedenis geschreven, dit zijn de primeurs",
+     "link": "https://nos.nl/l/2637982",
+     "bron": "NOS",
+     "tijd": "09:29"
+    },
+    {
+     "titel": "Trump erkent nederlaag, maar dreigt ook meteen met veto's",
+     "link": "https://nos.nl/l/2637974",
+     "bron": "NOS",
+     "tijd": "07:53"
+    },
+    {
+     "titel": "Amerikaanse kiezer rekent af met Trump: Democratische meerderheid in Huis en Senaat",
      "link": "https://nos.nl/l/2637958",
      "bron": "NOS",
      "tijd": "05:47"
     },
     {
-     "titel": "Eerste stembureaus VS geopend | Trump wil duizenden stemmen ongeldig verklaren",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdm5wUFJXU0JyYXNqWEhSNEVPWkFNanJZY3VTMU42Nm03aW1GaXdsY0c1VzVQMU51NUY3WG14TWh5akV0TDE1SlVaaWhRN0xrSkNrOUszUE1lRnRCcmEyWDZrQ2tkbm1QdmJBUlYxVk5VSldYS0xRdHpnQlZpODdqdzJadUZaa0lQN19IQ0d1Uk5FdkVYZC16alpraFgzZGVIYnJQYWl0b2JUc2FFX0M2MGhMM0V2VTR4QmpmQTNma1NwOUE?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "01:06"
+     "titel": "‘Blue wave’ in Congres en gerrymandering pakt ongunstig uit voor Republikeinen: vier conclusies over de midterms",
+     "link": "https://www.volkskrant.nl/buitenland/blue-wave-in-congres-en-gerrymandering-pakt-ongunstig-uit-voor-republikeinen-vier-conclusies-over-de-midterms~b4e11262/",
+     "bron": "de Volkskrant",
+     "tijd": "10:50"
     },
     {
-     "titel": "US midterm elections 2026 live updates: Democrats win Senate control and edge toward House victory",
+     "titel": "Obama noemt overwinning Democraten ‘duidelijke boodschap’: ‘Amerikanen willen politici die mensen verbinden’",
+     "link": "https://www.volkskrant.nl/buitenland/obama-noemt-overwinning-democraten-duidelijke-boodschap-amerikanen-willen-politici-die-mensen-verbinden~b782895d/",
+     "bron": "de Volkskrant",
+     "tijd": "10:20"
+    },
+    {
+     "titel": "El-Sayed wint Senaatsverkiezing Michigan, wordt eerste islamitische senator ooit",
+     "link": "https://www.trouw.nl/buitenland/live-vs-mogelijk-enorme-verrassing-in-de-maak-democraten-maken-kans-op-senaatszetel-in-mississippi~bbc0cf3d/",
+     "bron": "Trouw",
+     "tijd": "07:25"
+    },
+    {
+     "titel": "After Midterm Drubbing, Trump and Republicans Start Pointing Fingers",
+     "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-republicans-blame-midterms.html",
+     "bron": "New York Times",
+     "tijd": "11:02"
+    },
+    {
+     "titel": "US midterm elections 2026 live updates: Democrats win control of Congress as voters punish Trump",
      "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
      "bron": "The Guardian",
-     "tijd": "05:50"
+     "tijd": "10:45"
     },
     {
-     "titel": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
-     "link": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
+     "titel": "Angry Voters Usher in Beginning of the End to the Trump Era",
+     "link": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-rebuke-of-trump-era.html",
      "bron": "New York Times",
-     "tijd": "04:39"
+     "tijd": "10:26"
     },
     {
-     "titel": "Anthony Zurcher: Democrats push deep into Republican territory with historic wins",
-     "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "04:34"
+     "titel": "Democratic Socialists and progressives win big in midterms",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1Axc2EtZjBvM1kxU2I0MHhkWGI2UFFQQ3FzbDJodlNmNHl4T1RxdjRoOVQ4R216QjAzcWVnb0gtTUlhRnI4bjRkV1hHVHUyeloxYmVTaG1yR3hRZ18xLXlCY1dNWlNTS1FGeWpoeXVzNmI4Z1ZzSUhFeWJtdi1zdXM3ZjVBYWFUWl9fSTVvRW1JbEtjbG02RHlVVjFTSENiY2M0WmVBM0xRblVac3BrWWc0eDViTkkyNXZZNA?oc=5",
+     "bron": "CNN",
+     "tijd": "10:23"
+    },
+    {
+     "titel": "Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator",
+     "link": "https://www.theguardian.com/us-news/2026/nov/03/abdul-el-sayed-mike-rogers-michigan-senate",
+     "bron": "The Guardian",
+     "tijd": "09:42"
+    },
+    {
+     "titel": "Resounding wins for Democrats a wholesale rebuke of Trump’s Maga movement",
+     "link": "https://www.theguardian.com/us-news/2026/nov/04/us-midterm-results-democrats-trump-analysis",
+     "bron": "The Guardian",
+     "tijd": "09:12"
+    },
+    {
+     "titel": "Democrats aim to sweep most US governor elections after wins in key states",
+     "link": "https://www.theguardian.com/us-news/2026/nov/03/democrats-governor-races-wins",
+     "bron": "The Guardian",
+     "tijd": "09:02"
+    },
+    {
+     "titel": "EU to lead talks on support for Ukraine with US, Nato, partners – Europe live",
+     "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
+     "bron": "The Guardian",
+     "tijd": "11:00"
+    },
+    {
+     "titel": "Elon Musk suffers major blow in US midterms",
+     "link": "https://www.politico.eu/article/elon-musk-dealt-major-blow-in-midterm-elections-2026/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "10:43"
     }
    ],
-   "geschreven": "06:05"
+   "diep": true,
+   "geschreven": "11:10"
   },
   {
-   "titel": "Stikstofwet en het boerenvertrouwen",
-   "tekst": "Het kabinet presenteerde gisteren de uitgewerkte stikstofwet: de doelen blijven staan en provincies krijgen ruimte voor maatwerk (30). Boerenorganisaties zien verbeteringen, maar vinden het nog niet genoeg (17). De Nationale ombudsman stelt dat de overheid tien jaar onbetrouwbaar was voor boeren en dat nieuw beleid dat alleen niet herstelt (15).",
+   "titel": "Stalking en partnergeweld in beeld",
+   "tekst": "Het OM vreest een dodelijke afloop voor een vrouw en wil direct tbs voor haar ex uit Zwolle. In de Kamer liggen vragen over de afhandeling van aangiftes van stalking en over het handelen van de politie rond de dood van Hajar. Beide raken aan de vraag hoe vroeg er wordt ingegrepen.",
    "verwijzingen": [
     {
-     "titel": "Overheid was onbetrouwbaar voor boeren, zegt Nationale ombudsman",
-     "link": "https://nos.nl/l/2637945",
+     "titel": "OM vreest dodelijke afloop voor vrouw en wil direct tbs voor haar ex uit Zwolle",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOTJVMWlsQlJ1TS1GZXBtMFpjTVhqMUJES2N1NjgyTDRJc0lYQ3otRVJmQ1JnU0Z0Rlg5eHhmcVdnTzRxT2JXVDVESm8zUWhYdENpUGUtQ29uekJhaG1rSUwtNFMyYWlFV1JiMnFfOWdfSG40b1NWQzBoZmdDdTlNa254MVFXQ3JHdXNNYnJRdndCV3pzMU9MdDZNQXB0Uko1S0tYVGdibExzd011U1dWUjFEX0dTTVNnQnFxSVRn?oc=5",
+     "bron": "de Stentor",
+     "tijd": "10:16"
+    },
+    {
+     "titel": "De aangiftes van stalking",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D50866",
+     "bron": "Kamervraag",
+     "tijd": "13-10"
+    },
+    {
+     "titel": "De dood van Hajar en het handelen van de politie",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D53624",
+     "bron": "Kamervraag",
+     "tijd": "28-10"
+    }
+   ],
+   "geschreven": "11:10"
+  },
+  {
+   "titel": "Vuurwerk vóór de jaarwisseling",
+   "tekst": "Sinds 1 augustus is bijna al het vuurwerk verboden. De politie in Overijssel waarschuwt dat ze aan de Duitse grens strenger controleert. In Rotterdam werden twee mensen aangehouden nadat van buiten De Kuip lichtkogels op het veld en het dak belandden.",
+   "verwijzingen": [
+    {
+     "titel": "Lichtkogels van buiten De Kuip in stadion geschoten, twee arrestaties",
+     "link": "https://nos.nl/l/2637946",
      "bron": "NOS",
-     "tijd": "00:37"
+     "tijd": "01:29"
     },
     {
-     "titel": "Boerenorganisaties kritisch over stikstofwet: 'Nog niet goed genoeg'",
-     "link": "https://nos.nl/l/2637925",
-     "bron": "NOS",
-     "tijd": "21:17"
-    },
-    {
-     "titel": "Provincies aan zet bij stikstofplannen, focus op maatwerk om stikstofdoelen te halen",
-     "link": "https://www.oost.nl/nieuws/3713217/provincies-aan-zet-bij-stikstofplannen-focus-op-maatwerk-om-stikstofdoelen-te-halen",
+     "titel": "'Doe het niet; we controleren', zegt politie over vuurwerk halen uit Duitsland",
+     "link": "https://www.oost.nl/nieuws/3714735/doe-het-niet-we-controleren-zegt-politie-over-vuurwerk-halen-uit-duitsland",
      "bron": "RTV Oost",
-     "tijd": "15:07"
+     "tijd": "05:01"
     }
    ],
-   "geschreven": "06:05"
-  },
-  {
-   "titel": "Veiligheid op en rond spoor",
-   "tekst": "De Kamer verwierp een motie om de spoorwegpolitie in te zetten op trajecten en stations met structurele agressie (41). In Zwolle is een koperdief veroordeeld die met één knip alle seinen op rood zette en het treinverkeer platlegde. De rechtbank noemde dat gevaarlijk (26).",
-   "verwijzingen": [
-    {
-     "titel": "Zwollenaar (46) veroordeeld nadat hij met één knip alle seinen op rood had gezet",
-     "link": "https://www.oost.nl/nieuws/3715003/zwollenaar-46-veroordeeld-nadat-hij-met-een-knip-alle-seinen-op-rood-had-gezet",
-     "bron": "RTV Oost",
-     "tijd": "20:01"
-    },
-    {
-     "titel": "Motie van de leden Prickaertz en Grinwis over spoorwegpolitie inzetten op trajecten en stations waar structureel agressie en…",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z23534",
-     "bron": "motie verworpen",
-     "tijd": ""
-    }
-   ],
-   "geschreven": "06:05"
-  },
-  {
-   "titel": "Asielopvang bij rechter en Kamer",
-   "tekst": "Zwijndrecht en Den Haag stappen naar de rechter tegen de afspraken over de opvang van asielzoekers (18). Een rechter oordeelde, tegen eerdere uitspraken in, dat de IND asielzoekers naar Italië mag terugsturen (19). Keijzer vroeg in het vragenuur om het noodrecht uit de Vreemdelingenwet (43). Vandaag is er een briefing over het Europese migratiepact (51).",
-   "verwijzingen": [
-    {
-     "titel": "Zwijndrecht en Den Haag verzetten zich bij rechter tegen afspraken opvang asielzoekers en statushouders: ‘Het lukt gewoon niet’",
-     "link": "https://www.volkskrant.nl/binnenland/zwijndrecht-en-den-haag-verzetten-zich-bij-rechter-tegen-afspraken-opvang-asielzoekers-en-statushouders-het-lukt-gewoon-niet~b6fab15c/",
-     "bron": "de Volkskrant",
-     "tijd": "05:00"
-    },
-    {
-     "titel": "Rechter gaat in tegen eerdere uitspraken: IND mag asielzoekers naar Italië terugsturen",
-     "link": "https://www.volkskrant.nl/binnenland/rechter-gaat-in-tegen-eerdere-uitspraken-ind-mag-asielzoekers-naar-italie-terugsturen~bf38f4cf/",
-     "bron": "de Volkskrant",
-     "tijd": "20:32"
-    },
-    {
-     "titel": "Mevrouw Keijzer (Lid Keijzer) over rechtsstaat",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering",
-     "bron": "Vragenuur",
-     "tijd": "03-11"
-    },
-    {
-     "titel": "Onderzoek EPC naar de uitvoering van het Europees Asiel- en Migratiepact",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07333",
-     "bron": "Technische briefing",
-     "tijd": "woensdag 4/11 12:45"
-    }
-   ],
-   "geschreven": "06:05"
+   "geschreven": "11:10"
   }
  ],
  "blokken": [
@@ -254,34 +284,43 @@
      "sorteer": "2026-11-04T06:25:00+00:00"
     },
     {
-     "titel": "How America voted in maps and charts",
-     "context": "See the maps and charts that show how America voted in the US midterm elections.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "10:53",
-     "sorteer": "2026-11-04T09:53:18+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
+     "titel": "After Midterm Drubbing, Trump and Republicans Start Pointing Fingers",
+     "context": "While the president attributed sweeping losses to the fact that he was not on the ballot, others in his party dismissed his explanation and pinned blame squarely on him.",
+     "rubrieken": [
+      "Midterm Elections (2026)",
+      "Republican Party",
+      "Bacon, Don (1963- )",
+      "Trump, Donald J"
+     ],
+     "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-republicans-blame-midterms.html",
+     "bron": "New York Times",
+     "tijd": "11:02",
+     "sorteer": "2026-11-04T10:02:25+00:00",
+     "kop": "Midterms",
+     "taal": "en"
     },
     {
-     "titel": "Could a Viral Video Save Her Mom’s Chinese Restaurant?",
-     "context": "Millions viewed Lisa He’s post about her mother’s struggling business in Edinburgh. But internet fame created its own complications — and obscured bigger questions.",
+     "titel": "El-Sayed Celebrates ‘an America Big Enough for All of Us’",
+     "context": "In Michigan, Adbul El-Sayed outlasted former Representative Mike Rogers in a Senate campaign marred by ugly attacks.",
      "rubrieken": [
-      "Restaurants",
-      "Chinese Food (Cuisine)",
-      "Social Media",
-      "Edinburgh (Scotland)",
-      "Small Business",
-      "Families and Family Life",
-      "Instagram Inc"
+      "United States Politics and Government",
+      "Midterm Elections (2026)",
+      "Muslims and Islam",
+      "Elections, Senate",
+      "Democratic Party",
+      "Republican Party",
+      "Senate",
+      "Stevens, Haley",
+      "McMorrow, Mallory",
+      "Abdul El-Sayed",
+      "Detroit (Mich)"
      ],
-     "link": "https://www.nytimes.com/2026/11/04/world/europe/chinese-restaurant-edinburgh-viral-social-media.html",
+     "link": "https://www.nytimes.com/2026/11/04/us/politics/michigan-senate-el-sayed.html",
      "bron": "New York Times",
-     "tijd": "10:52",
-     "sorteer": "2026-11-04T09:52:44+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
+     "tijd": "10:51",
+     "sorteer": "2026-11-04T09:51:11+00:00",
+     "kop": "Midterms",
+     "taal": "en"
     },
     {
      "titel": "US midterm elections 2026 live updates: Democrats win control of Congress as voters punish Trump",
@@ -302,6 +341,200 @@
      "bron": "The Guardian",
      "tijd": "10:45",
      "sorteer": "2026-11-04T09:45:45+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "A Night of Seismic Triumph for Democrats",
+     "context": "The Democratic Party wrested control of Congress from Republicans in a wave of midterm victories as voters delivered a scathing rebuke to President Trump.",
+     "rubrieken": [
+      "Midterm Elections (2026)",
+      "United States",
+      "United States Politics and Government",
+      "Elections, Governors",
+      "Democratic Party",
+      "Senate",
+      "Abbott, Gregory W (1957- )",
+      "Hinojosa, Gina (1973- )",
+      "Talarico, James",
+      "Kansas",
+      "Maine",
+      "Sacramento (Calif)",
+      "South Carolina",
+      "Texas",
+      "Republican Party",
+      "Trump, Donald J",
+      "House of Representatives"
+     ],
+     "link": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-photos.html",
+     "bron": "New York Times",
+     "tijd": "10:30",
+     "sorteer": "2026-11-04T09:30:18+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Angry Voters Usher in Beginning of the End to the Trump Era",
+     "context": "The electoral backlash extended even into deep red states and indicated that President Trump has lost his hold over the coalition that lifted him to the White House twice.",
+     "rubrieken": [
+      "United States Politics and Government",
+      "Midterm Elections (2026)",
+      "Federal-State Relations (US)",
+      "Federal Budget (US)",
+      "Oil (Petroleum) and Gasoline",
+      "Presidential Election of 2020",
+      "Trump, Donald J"
+     ],
+     "link": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-rebuke-of-trump-era.html",
+     "bron": "New York Times",
+     "tijd": "10:26",
+     "sorteer": "2026-11-04T09:26:24+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Democratic Socialists and progressives win big in midterms",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1Axc2EtZjBvM1kxU2I0MHhkWGI2UFFQQ3FzbDJodlNmNHl4T1RxdjRoOVQ4R216QjAzcWVnb0gtTUlhRnI4bjRkV1hHVHUyeloxYmVTaG1yR3hRZ18xLXlCY1dNWlNTS1FGeWpoeXVzNmI4Z1ZzSUhFeWJtdi1zdXM3ZjVBYWFUWl9fSTVvRW1JbEtjbG02RHlVVjFTSENiY2M0WmVBM0xRblVac3BrWWc0eDViTkkyNXZZNA?oc=5",
+     "bron": "CNN",
+     "tijd": "10:23",
+     "sorteer": "2026-11-04T09:23:00+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "What Democrats will have to balance in Congress | CNN Politics",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPemJvN196dDdOeU8wZHRtOHU3cWZhSzE2anRqeGZKQXl3ek1XbjhwaWR4akdvYUtnRENjZmpQWGNUbU1nc0h0Q3BqZkZ2bzRWZ3hmY1RvZk4yN0ZKNlVqdHhBM1pOTmFXbHgydExsNmhyRUNFLXRJaHpqMS1HOXBTWmhlTXNaZ0ZCNmNWVGNTNUR3eFl0WUpST0xFUTh5a0lKbHZ2RXVn?oc=5",
+     "bron": "CNN",
+     "tijd": "10:02",
+     "sorteer": "2026-11-04T09:02:00+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Iowa results underscore Trump backlash",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmdCLUROMkUtN1pXOGpid3dISzdtVGVfbjFHQ29QYS1qMmllUjlWaWxWTFoxTmczX3J2TUJTbHZYdjl2X1U4a3lvUndkc3RjX0ExeFZ0V19vNkZmNXd5djBvNl9PRmxqM2l4cUxXN2VQcThLVHBxNXpjQl9KVmNqQWpOR2p6NzVqc2RVeUZ2NW9VUQ?oc=5",
+     "bron": "CNN",
+     "tijd": "10:00",
+     "sorteer": "2026-11-04T09:00:25+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Democrats turn Texas blue",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQODhnbWNDTnFoVWNEcFJQQWVrbV9kUm5PQ1ZxQnc1dTVPN2l3bWRvazk2S2FVNWM5S09KTXBNdnJPQ1A5dEJ3aEQtRW1mZFVtdGh6NmFxQ2pvZnVGdzBWc0FleWM1X1RkbXdVdjRfQ0RWS2FoVWhZd0VMaF8wYWxudFZnb0l3S2RkMlVIWGZ2OHFlSzI2azIwQmI2RU93RnVaRUNIcV9XcldVOTFUTU5UTVhR?oc=5",
+     "bron": "CNN",
+     "tijd": "09:48",
+     "sorteer": "2026-11-04T08:48:00+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator",
+     "context": "Democrat defeats Mike Rogers in race marked by Islamophobic attacks from Trump and Republican allies US midterm elections – live updates Track live results from all 50 states Tell us: what do you want to know about the midterm election results? Abdul El-Sayed, the doctor and progressive insurgent, has made history in winning the closely watched US Senate race in Michigan, defeating the Republican ",
+     "rubrieken": [
+      "US midterm elections 2026",
+      "Michigan",
+      "US news",
+      "Democrats",
+      "US Senate",
+      "US politics",
+      "Super Pacs"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/03/abdul-el-sayed-mike-rogers-michigan-senate",
+     "bron": "The Guardian",
+     "tijd": "09:42",
+     "sorteer": "2026-11-04T08:42:22+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Resounding wins for Democrats a wholesale rebuke of Trump’s Maga movement",
+     "context": "Democrats of all stripes declared victory on Tuesday night in clearest sign yet voters have had enough of Trumpism No single Democratic coalition can claim victory after Tuesday’s resounding midterm results – all parts of the Democratic coalition can. Their wins were so sweeping, so resounding, that factional divisions fail to explain them. This year, the most important thing Democrats had to be t",
+     "rubrieken": [
+      "US midterm elections 2026",
+      "US Senate",
+      "House of Representatives",
+      "US politics"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/04/us-midterm-results-democrats-trump-analysis",
+     "bron": "The Guardian",
+     "tijd": "09:12",
+     "sorteer": "2026-11-04T08:12:38+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Democrats aim to sweep most US governor elections after wins in key states",
+     "context": "Party sees historic victories with Gina Hinojosa’s win in Texas and Georgia’s Keisha Lance Bottoms becoming first Black female governor in US US midterm elections – live updates Track live results from all 50 states Voters across the US have elected Democrats to lead many of the biggest states in the nation, marking a sea change in traditional Republican strongholds such as Georgia and Texas in wh",
+     "rubrieken": [
+      "US midterm elections 2026",
+      "Democrats",
+      "US politics",
+      "Texas",
+      "Georgia",
+      "US news",
+      "Ohio",
+      "Pennsylvania",
+      "New York",
+      "New Mexico"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/03/democrats-governor-races-wins",
+     "bron": "The Guardian",
+     "tijd": "09:02",
+     "sorteer": "2026-11-04T08:02:46+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Helen Zille Is Running for Mayor of Johannesburg and Needling the ANC",
+     "context": "As South Africans head to the polls on Wednesday, Helen Zille, 75, is betting voters care less about race and more about public services in her bid to become mayor of Johannesburg.",
+     "rubrieken": [
+      "South Africa",
+      "Elections",
+      "Helen Zille",
+      "Johannesburg (South Africa)",
+      "Mayors",
+      "Politics and Government",
+      "Ramaphosa, Cyril",
+      "African National Congress",
+      "Democratic Alliance (South Africa)",
+      "Apartheid (Policy)"
+     ],
+     "link": "https://www.nytimes.com/2026/11/04/world/africa/johannesburg-mayor-elections.html",
+     "bron": "New York Times",
+     "tijd": "11:02",
+     "sorteer": "2026-11-04T10:02:19+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "EU to lead talks on support for Ukraine with US, Nato, partners – Europe live",
+     "context": "European Commission will hold talks with the US, France, Germany, Britain, Nato, and the World Bank Meanwhile, Norwegian PM Jonas Gahr Støre told Reuters: “This is a powerful political signal about a change of course among American voters. Voices are ⁠now emerging in American politics that are closer to us than the president and the administration have stood for, for example on climate and environ",
+     "rubrieken": [
+      "World news",
+      "Ukraine",
+      "Russia",
+      "World Bank",
+      "Europe",
+      "Spain",
+      "France",
+      "Germany"
+     ],
+     "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
+     "bron": "The Guardian",
+     "tijd": "11:00",
+     "sorteer": "2026-11-04T10:00:56+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "How America voted in maps and charts",
+     "context": "See the maps and charts that show how America voted in the US midterm elections.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "10:53",
+     "sorteer": "2026-11-04T09:53:18+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -395,20 +628,13 @@
      "sorteer": "2026-11-04T04:00:47+00:00"
     },
     {
-     "titel": "De nieuwe NPO-serie ‘Pro Deo’ gaat over de sociale advocatuur. Hoe realistisch is die serie?",
+     "titel": "De nieuwe NPO-serie Pro Deo gaat over de sociale advocatuur. Hoe realistisch is die serie?",
      "context": "",
      "rubrieken": [],
      "link": "https://www.trouw.nl/binnenland/de-nieuwe-npo-serie-pro-deo-gaat-over-de-sociale-advocatuur-hoe-realistisch-is-die-serie~bed01417/",
      "bron": "Trouw",
      "tijd": "09:24",
      "sorteer": "2026-11-04T08:24:00+00:00"
-    },
-    {
-     "titel": "Verdachten Friese soevereinenzaak mogen enkelband weer inleveren omdat proces zo lang duurt",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNa0VQeDFaMnRIQWlWWlREbXkzRTJDdlFYWElNeDlDSmpkTFV6ZmFUa21EZXVqTmRvUFdPMWNndHJzRTNNZ0QxRjhCbWdQb0ktc1JibGdabW9TOF8xNWozY05LLWcxRkhtOFlXa1I4NWNkSW53NDN1R2Y2WjQwNUp5T0k4N1VkdHVseTVtOW1ZbXJzS2RIUUdfTGQySXYxQ3B0SHNXWktxUm90S0Z5SkZLWk5rZktVa1ZOMVk3Qk9xNjFzVW0tRDdva254QXJ3UDhVSmZDWTU4Zw?oc=5",
-     "bron": "Leeuwarder Courant",
-     "tijd": "10:41",
-     "sorteer": "2026-11-04T09:41:42+00:00"
     },
     {
      "titel": "OM vreest dodelijke afloop voor vrouw en wil direct tbs voor haar ex uit Zwolle",
@@ -425,18 +651,25 @@
      "sorteer": "2026-11-04T08:57:00+00:00"
     },
     {
-     "titel": "Marco Borsato vraagt meer geld terug dan al bekend was en heeft weer zanglessen: 'Dat gaat verrassend goed'",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTEl5RFRUb0E4bWJxYjQxU2ZpSDd5OWF2YXduRmdjZndmWnh6cC1aaDJpQXdlaGVLNEdvNEFvOHhLRnF6NDZZeGluTGJKUENoTHE2OHJRVEJDVVZpTnEyUnUxY0o5S3EyY2J0enNhVWN4RzFVNzlFeDJPSDU2RHV1MDhhRFRONnctbFliRktxRFU0b1ZNR0ZGUGs2MVl1Q2FNbVpaX0lZU1BDMmxyTTFSZGo4MHFlempKMG03eUdwcVA3cXI5eU82V0JXLWJlM3BxMjBtVVc2Z1VIbEFKV2g1RQ?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "09:47",
-     "sorteer": "2026-11-04T08:47:00+00:00"
+     "titel": "Elon Musk verliest honderden miljoenen na winst Democraten midterms",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa2NNa1ZWZDhEamtESTE3YWhZenVnMXRYTEhRVl96bmFzZlBFNkJNbFJKVlZNWTB5Qm8yWVRUODQ4c29lRHdtYV9PTkFwS19BRE41c0FOdFZjUEFDVExaaERxTlpPTXJIVTdjVE5ZS2NaUmd4bHRQUGNUZDNjUHpPZ2plODd0Ql9vTjh4cWN1UzFZaC1vSE1Od3BBcXEwb2ZtRjhqZVpVQXdqV1QySHdIcU5wT0hwdw?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "08:09",
+     "sorteer": "2026-11-04T07:09:46+00:00"
     },
     {
-     "titel": "Nederland draagt Klaas Knot officieel voor als nieuwe president ECB",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTW1mU2tlUGExSE1UWnRXUi1NV25BN1Y4cFVLd2piTXVucVFEZFFuRkxQM01vVk5CSlZVNEpKTDFqdW9LX2NzemRSRTdraTNjekhjOVRLc0s0dEFrLS1HSzVHYjhzdFg4WEUyOWNWUHM5N1cyU0Zzb3ZpTXp0MUdLV0FMaEd5YUlBQXJiZlk5TEhNaFNDYUdzVlFJSzlGTW5pY25HLXVhcw?oc=5",
-     "bron": "Brabants Dagblad",
-     "tijd": "10:52",
-     "sorteer": "2026-11-04T09:52:15+00:00"
+     "titel": "Hamas-schaduw over Rode Lijn: omstreden sprekers domineren protest op Museumplein in Amsterdam",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNalloTldNcnVIX3ZvSlRuaXpFem1wYXRsVjlwLTQ5RjRhVXVETWNlU2plMDE0MnhndEFoN05sQnlaRFZzT3ZxdnA4QUptNGpVdUQ3TWFXbEVFQVB3WmtUR2N2Z0p3Y2M3N3RhcTZLbnY5Y0VZWG01NW82SmlleTZnYlhxbDZaUVJybFc1S2ZSWmNVLVVzZlZHQ0NLbFQyZXlITldTOExoVnhxWUVsaEpzamxDOEQ4c2RnQ3UxajBpY2RKQ3hXalVYR3M0X1E1SFFDTFRfMVE0cUxIVGht?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "11:02",
+     "sorteer": "2026-11-04T10:02:46+00:00"
+    },
+    {
+     "titel": "Inbrekers sloegen dinsdag 1 keer toe in Amersfoort",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZW1TZFpkS2Q0ZDJNOERrX2dOWG5rZ0NvODdQbjBuU08xZkNSSUt3NFp6bndWRlFNbUJocGpEaHFTRF9pcENxSTNVWTFuVWpHbkFmeFp0SjVyV1JuUF9nVE5iSFFPVThYRzBDRmIxYkpYSjhvaUZ2YXlKOTBSdzdWSm9FanZiQTZ6RUFreE1NY3ZuWGxTX1dNSGN1R1NOMGl6VVdhUEpXYUoza2M?oc=5",
+     "bron": "de Stentor",
+     "tijd": "11:00",
+     "sorteer": "2026-11-04T10:00:22+00:00"
     },
     {
      "titel": "Welkom in de psychedelische renaissance. Zijn we klaar voor de trip?",
@@ -488,7 +721,7 @@
    "items": [
     {
      "titel": "Motorrijder overleden bij frontale botsing N36, weg in beide richtingen afgesloten",
-     "context": "Bij een ernstig ongeluk op de N36 bij Diffelen is woensdagochtend een motorrijder om het leven gekomen. De motorrijder botste frontaal op een auto. De weg is in beide richtingen afgesloten.",
+     "context": "Bij een ernstig ongeluk op de N36 bij Diffelen is woensdagochtend een motorrijder om het leven gekomen. Het gaat om een 59-jarige man uit Delden. De motorrijder botste frontaal op een auto. De weg is in beide richtingen afgesloten.",
      "rubrieken": [
       "breaking"
      ],
@@ -634,8 +867,8 @@
      "titel": "Werkgevers zetten volop AI in, maar komen door personeelskrapte niet vooruit: vooral grotere bedrijven de klos",
      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZ0FaZWxib1BWQ2JPRXo2eWFVQU5uaDZLaG1HcXU1V2ctNWJ6VjJoX3d3Njd6NnozQmhIQWFMbUdtVHlpdlFRUFBLOFNYdDZkaEUxOHJJMmphZHg2WnlCZDBkQnlYU0oxRVdYRWVqdXpfa09PQWtUeE9PUW1wTk9DdDFkR0RVSm9zMzBfcTlhUWNMczhBMjB1ak5zQTFtUjkzdlJEWE01aU9ELUQ4SzYwek1MM1hYNDRQRFZ4VmpVTGhWUWFDNnNwSUl4VDhFSzlYa1I1bThRYS1RbjVWVzV6S1FucmRkbDNJakJZNmlEZU0?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "09:32",
-     "sorteer": "2026-11-04T08:32:34+00:00"
+     "tijd": "11:02",
+     "sorteer": "2026-11-04T10:02:34+00:00"
     }
    ]
   },
@@ -864,7 +1097,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "11:00",
+    "bijgewerkt": "11:09",
     "voetbal": {
      "uitslagen": [
       {
@@ -1426,7 +1659,7 @@
    "items": [],
    "weer": {
     "nu": 8.8,
-    "gevoel": 6.2,
+    "gevoel": 6.5,
     "wind": "ONO 3",
     "station": "Heino",
     "bericht": "Met een oostelijke stroming wordt de komende dagen geleidelijk drogere lucht aangevoerd. Het betekent op donderdag en vrijdag volop zonneschijn. Door de wind voelt het kouder aan dan de thermometer aanwijst.",
