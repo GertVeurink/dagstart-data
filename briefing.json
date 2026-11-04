@@ -3,13 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "08:00",
+  "opgehaald": "09:00",
   "blokken": 11,
-  "berichten": 107,
+  "berichten": 100,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-04T08:00+01:00",
+ "opgehaald": "2026-11-04T09:00+01:00",
  "audio": "audio/20261104.mp3",
  "afval": [
   {
@@ -182,7 +182,7 @@
    "emoji": "🌍",
    "items": [
     {
-     "titel": "Trump steekt hand uit na verlies Republikeinen, maar dreigt ook meteen met veto's",
+     "titel": "Trump erkent nederlaag, maar dreigt ook meteen met veto's",
      "context": "In een eerste reactie op de slechte resultaten voor zijn Republikeinse partij zei president Trump dat hij hoopt te kunnen samenwerken met Democraten in het Huis van Afgevaardigden en de Senaat. \"Ik denk dat ze wel met me willen samenwerken\", zei hij tegen omroep CBS. \"Anders ga ik gewoon alles vetoën en dat willen ze niet.\" Vooraf leefde de vrees dat Trump een slechte uitslag niet zou accepteren, ",
      "rubrieken": [],
      "link": "https://nos.nl/l/2637974",
@@ -228,60 +228,84 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Abdul El-Sayed gaat na turbulente laatste dagen met de winst aan de haal in Michigan",
+     "titel": "In Mississippi, normaal dieprood, is de democratische voorsprong met de hand te tellen",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/abdul-el-sayed-gaat-na-turbulente-laatste-dagen-met-de-winst-aan-de-haal-in-michigan~b782895d/",
+     "link": "https://www.volkskrant.nl/buitenland/in-mississippi-normaal-dieprood-is-de-democratische-voorsprong-met-de-hand-te-tellen~b782895d/",
      "bron": "de Volkskrant",
-     "tijd": "07:47",
-     "sorteer": "2026-11-04T06:47:00+00:00"
+     "tijd": "08:59",
+     "sorteer": "2026-11-04T07:59:00+00:00"
     },
     {
-     "titel": "Trump zegt zich neer te leggen bij uitslag midterms: ‘Democraten hebben het goed gedaan’",
+     "titel": "De belangrijkste opponent van Trump, en andere opvallende winnaars van afgelopen nacht",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/trump-zegt-zich-neer-te-leggen-bij-uitslag-midterms-democraten-hebben-het-goed-gedaan~bd7cdafa/",
+     "link": "https://www.volkskrant.nl/buitenland/de-belangrijkste-opponent-van-trump-en-andere-opvallende-winnaars-van-afgelopen-nacht~b889e399/",
      "bron": "de Volkskrant",
-     "tijd": "07:23",
-     "sorteer": "2026-11-04T06:23:00+00:00"
+     "tijd": "08:34",
+     "sorteer": "2026-11-04T07:34:00+00:00"
     },
     {
-     "titel": "Gematigde Republikein Susan Collins verliest na vijf termijnen van Democraat Troy Jackson in Maine",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeVlGLXZpcFJoN3VBUmw0QlBMbnpZekxpdnpWamlvMmtGdGtFd0JsS3g0Z2pxWTJZVERLSVk2WGFXTzNhRllpWUNFU184RjJ4RVhUUTJvTWw0dzhvNTJnakc4R1pvYk91cXhXS1Vlek0wcENvMEg3dldoX1M1em1BRGdScERwbmxoNmY2endsdGtlalVaeEd3dVBFOEEya0RPRTVlc0Q1aF83Qk9nTU1FUUUtOHFyMnd5WHdYMFVWbkllVjQ4X2FtTzVpR3NMaDZ5OXZONU5FNTd6WGpY?oc=5",
-     "bron": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-     "tijd": "07:49",
-     "sorteer": "2026-11-04T06:49:47+00:00"
-    },
-    {
-     "titel": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
-     "context": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+     "titel": "El-Sayed wint Senaatsverkiezing Michigan, wordt eerste islamitische senator ooit",
+     "context": "",
      "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "07:53",
-     "sorteer": "2026-11-04T06:53:56+00:00",
+     "link": "https://www.trouw.nl/buitenland/live-vs-el-sayed-wint-senaatsverkiezing-michigan-wordt-eerste-islamitische-senator-ooit~bbc0cf3d/",
+     "bron": "Trouw",
+     "tijd": "07:25",
+     "sorteer": "2026-11-04T06:25:00+00:00"
+    },
+    {
+     "titel": "Democrats win control of Senate as US voters reject Trump’s agenda",
+     "context": "Republicans routed as Democrats gain powerful new leverage over Trump for remainder of his presidency US midterm elections – live updates Track live results from all 50 states Tell us: what do you want to know about the midterm election results? Democrats have regained control of the US Senate, routing Republicans nationwide with historic victories that will give them powerful new leverage over Do",
+     "rubrieken": [
+      "US midterm elections 2026",
+      "US politics",
+      "US Senate",
+      "US news",
+      "Democrats",
+      "Republicans"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-republicans-midterms-trump",
+     "bron": "The Guardian",
+     "tijd": "08:47",
+     "sorteer": "2026-11-04T07:47:13+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "James Talarico wins Texas Senate race in historic victory for Democrats",
-     "context": "Jubilant Talarico says ‘Tonight we defeated Goliath’ as Ken Paxton defeat a crushing blow to Trump and Republicans US midterm elections – live updates Track live results from all 50 states Tell us: what do you want to know about the midterm election results? Democrat James Talarico has won the US Senate race in Texas , breaking a 38-year drought for his party in the Republican stronghold and deliv",
+     "titel": "Ecstatic scenes and historic results: Key moments from US midterms",
+     "context": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "08:40",
+     "sorteer": "2026-11-04T07:40:12+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+     "context": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "08:39",
+     "sorteer": "2026-11-04T07:39:38+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Bomb Threats Disrupt Several Flights Across Europe",
+     "context": "Officials are investigating threats against at least seven planes. The aircraft landed safely and no explosives were found, the authorities said.",
      "rubrieken": [
-      "US midterm elections 2026",
-      "Texas",
-      "Ken Paxton",
-      "Democrats",
-      "US politics",
-      "US Senate",
-      "Super Pacs",
-      "US news",
-      "Republicans",
-      "World news"
+      "Airlines and Airplanes",
+      "Bombs and Explosives",
+      "Threats and Threatening Messages"
      ],
-     "link": "https://www.theguardian.com/us-news/2026/nov/03/james-talarico-ken-paxton-texas-senate",
-     "bron": "The Guardian",
-     "tijd": "07:49",
-     "sorteer": "2026-11-04T06:49:33+00:00",
+     "link": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
+     "bron": "New York Times",
+     "tijd": "08:29",
+     "sorteer": "2026-11-04T07:29:45+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -298,36 +322,6 @@
      "bron": "Politico Europe",
      "tijd": "07:30",
      "sorteer": "2026-11-04T06:30:00+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Ecstatic scenes and historic moments: What's happened so far in the midterms",
-     "context": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "07:13",
-     "sorteer": "2026-11-04T06:13:09+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Democrats Win Big",
-     "context": "The party has flipped key seats in Republican strongholds, as voters rebuked Trump.",
-     "rubrieken": [
-      "internal-open-access-from-nl",
-      "Midterm Elections (2026)",
-      "Trump, Donald J",
-      "Voting and Voters",
-      "Michigan",
-      "Alaska",
-      "Ukraine"
-     ],
-     "link": "https://www.nytimes.com/2026/11/03/world/us-midterms-trump-iran-ukraine.html",
-     "bron": "New York Times",
-     "tijd": "06:45",
-     "sorteer": "2026-11-04T05:45:07+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -403,34 +397,18 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Bram Moszkowicz: 'Daar heeft Geert Wilders een punt!'",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQWdSMG01ZkNlWUJZQnFqNUgzaTV0ajdmZ09ZWHNEVm43SGM2Wlg1d1VEbXRPT2F4SVZ6SDR5NkRpb2pSbmZNeW0wVUhrX2hma0YzaHVNaE1Wdk1JOGdGaThvdEJkdExsSUVnY29RSlY3bzR0Vkl1UnB3endndDU3SkxJNGFxWXptUllCdjJqUHF6ZDQ1cTNfdU81Yw?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "06:30",
-     "sorteer": "2026-11-04T05:30:00+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "titel": "Elon Musk verliest honderden miljoenen na winst Democraten midterms",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa2NNa1ZWZDhEamtESTE3YWhZenVnMXRYTEhRVl96bmFzZlBFNkJNbFJKVlZNWTB5Qm8yWVRUODQ4c29lRHdtYV9PTkFwS19BRE41c0FOdFZjUEFDVExaaERxTlpPTXJIVTdjVE5ZS2NaUmd4bHRQUGNUZDNjUHpPZ2plODd0Ql9vTjh4cWN1UzFZaC1vSE1Od3BBcXEwb2ZtRjhqZVpVQXdqV1QySHdIcU5wT0hwdw?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "08:09",
+     "sorteer": "2026-11-04T07:09:46+00:00"
     },
     {
-     "titel": "Emile Kossen: in hetzelfde rapport over overlast door asielzoekers kunnen meerdere waarheden naast elkaar bestaan",
-     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTDVLTXpScjhWUWdwRmJ6SXpGUVZfZ0FRUjBPMzZtYnNybWsxbHBPMEJGY1ZzZVc5QzNVaEpPdFJVYjJpX0ZJMTVWU05pUmNJUTNMSDE0cXl5UmtqS1FFM01tSjJEZmt2MFp6M2pYX1BlSWVUMEhSS0htLUFLRVBCdzZFVnlOYjRhRFl1SWhEZVFhdzZoVURVem5ZdF82RW9YcnlGdW9tc3hjRHBqOEZ0ajVFcXZVZmRkZGVKTmttME1UWjBhaTlDcVhZUm9TeGJ4bzhOVXh2SVZKRERCaHBGdXpBX1J1Rm9iSmdhbnZ2SEw?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "05:00",
-     "sorteer": "2026-11-04T04:00:00+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Maanden cel voor verdachten van drugslabs in Bolsward en Idsegahuizum",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUHF1a1ZTWXBWUHJMd21wazNzMFpCTFBYOVJfN2dNN2xWbXB1NzZMTDVwSXF4d0psdURsSEg5MXU3SXA4UVJ4MDZMOGVvOGlrbkNfbDE0M3J2RUNpbTQ4eFEwcUhPTkhBUWkzb3I5YUt5d2ZsVFlFQkRDY0F3ekdsUkVTbXZMcTQ3LXM5Ujc2QWthOUpaNTVRZDIzWW5Vem9ZRGwzbmlZZEw2YWlZR2VZU2lBTTJHbXVGekhraWNNQUpyRzlRVUVmYmJBbUk4VE0?oc=5",
+     "titel": "Verdachten Friese soevereinenzaak mogen enkelband weer inleveren omdat proces zo lang duurt",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNa0VQeDFaMnRIQWlWWlREbXkzRTJDdlFYWElNeDlDSmpkTFV6ZmFUa21EZXVqTmRvUFdPMWNndHJzRTNNZ0QxRjhCbWdQb0ktc1JibGdabW9TOF8xNWozY05LLWcxRkhtOFlXa1I4NWNkSW53NDN1R2Y2WjQwNUp5T0k4N1VkdHVseTVtOW1ZbXJzS2RIUUdfTGQySXYxQ3B0SHNXWktxUm90S0Z5SkZLWk5rZktVa1ZOMVk3Qk9xNjFzVW0tRDdva254QXJ3UDhVSmZDWTU4Zw?oc=5",
      "bron": "Leeuwarder Courant",
-     "tijd": "03:40",
-     "sorteer": "2026-11-04T02:40:00+00:00"
-    },
-    {
-     "titel": "Gloort er hoop voor het kabinet? Er zijn redenen waarom het belastingplan het alsnog kan halen",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLVEtdk1oblFJbDBQOTBZb0plRDJRTXhLVFd1YzRQa3R1UnJaWGtETXZ5S2dNaWVrUmR3T1AtMTExdjAxblJYR3F5eURENUhNekRPekU5T0tSNWc5YVVMNHZsTVltMHR5M0FzdjNndld3NzlHcWxwclFhaGI3bzJDenJFdmVLNGZiYkw1QVlMTHFrV2NiUWRyOE9YY1RScEhxcndOSzViREVfeG9JVnEyOWRyYTExVkM3WFQ0WEt2QmNSOUJkZGpEVnJhTTdZNWND?oc=5",
-     "bron": "Het Parool",
-     "tijd": "03:00",
-     "sorteer": "2026-11-04T02:00:29+00:00"
+     "tijd": "07:01",
+     "sorteer": "2026-11-04T06:01:52+00:00"
     },
     {
      "titel": "Kabinet heeft nog geen vijfde van gemiste inkomsten box 3 gedekt",
@@ -438,6 +416,20 @@
      "bron": "Reformatorisch Dagblad",
      "tijd": "06:01",
      "sorteer": "2026-11-04T05:01:19+00:00"
+    },
+    {
+     "titel": "Hamas-schaduw over Rode Lijn: omstreden sprekers domineren protest op Museumplein in Amsterdam",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNalloTldNcnVIX3ZvSlRuaXpFem1wYXRsVjlwLTQ5RjRhVXVETWNlU2plMDE0MnhndEFoN05sQnlaRFZzT3ZxdnA4QUptNGpVdUQ3TWFXbEVFQVB3WmtUR2N2Z0p3Y2M3N3RhcTZLbnY5Y0VZWG01NW82SmlleTZnYlhxbDZaUVJybFc1S2ZSWmNVLVVzZlZHQ0NLbFQyZXlITldTOExoVnhxWUVsaEpzamxDOEQ4c2RnQ3UxajBpY2RKQ3hXalVYR3M0X1E1SFFDTFRfMVE0cUxIVGht?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "06:00",
+     "sorteer": "2026-11-04T05:00:00+00:00"
+    },
+    {
+     "titel": "Gloort er hoop voor het kabinet? Er zijn redenen waarom het belastingplan het alsnog kan halen",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLVEtdk1oblFJbDBQOTBZb0plRDJRTXhLVFd1YzRQa3R1UnJaWGtETXZ5S2dNaWVrUmR3T1AtMTExdjAxblJYR3F5eURENUhNekRPekU5T0tSNWc5YVVMNHZsTVltMHR5M0FzdjNndld3NzlHcWxwclFhaGI3bzJDenJFdmVLNGZiYkw1QVlMTHFrV2NiUWRyOE9YY1RScEhxcndOSzViREVfeG9JVnEyOWRyYTExVkM3WFQ0WEt2QmNSOUJkZGpEVnJhTTdZNWND?oc=5",
+     "bron": "Het Parool",
+     "tijd": "03:00",
+     "sorteer": "2026-11-04T02:00:29+00:00"
     },
     {
      "titel": "Welkom in de psychedelische renaissance. Zijn we klaar voor de trip?",
@@ -488,26 +480,53 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Zwollenaar (46) veroordeeld nadat hij met één knip alle seinen op rood had gezet",
-     "context": "Met één knip legde een koperdief (46) in november vorig jaar het treinverkeer rondom Zwolle plat. Dat was niet alleen vervelend voor reizigers, maar ook gevaarlijk, oordeelt de rechtbank vandaag. De man is ook veroordeeld voor de diefstal van brons van het Indiëmonument in Zwolle.",
+     "titel": "Ruim een kwart van de Zwolse panden staat op kwetsbare grond",
+     "context": "In Zwolle staan 18.462 panden op grond die gevoelig is voor verzakking. Dat is 26,9 procent van alle panden in de stad. Dit blijkt uit cijfers van de Rijksdienst voor Ondernemend Nederland (RVO).",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3715003/zwollenaar-46-veroordeeld-nadat-hij-met-een-knip-alle-seinen-op-rood-had-gezet",
+     "link": "https://www.oost.nl/nieuws/3714957/ruim-een-kwart-van-de-zwolse-panden-staat-op-kwetsbare-grond",
      "bron": "RTV Oost",
-     "tijd": "20:01",
-     "sorteer": "2026-11-03T19:01:31+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "tijd": "08:01",
+     "sorteer": "2026-11-04T07:01:46+00:00"
     },
     {
-     "titel": "Van zilveren munt tot bronzen bijl: Alwin uit Lutten speurt naar historische schatten",
+     "titel": "Parkeren in Enschede wordt weer duurder, P&R aan Zuiderval zelfs 50 cent",
+     "context": "Parkeren in het centrum van Enschede wordt vanaf het nieuwe jaar opnieuw duurder. De parkeertarieven op straat stijgen naar 3,90 euro. In de parkeergarages - en dus ook voor een bezoek aan ziekenhuis MST - betaal je straks 3,40 euro per uur. De P&R aan de Zuiderval wordt zelfs 50 cent duurder.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3715049/parkeren-in-enschede-wordt-weer-duurder-p-en-r-aan-zuiderval-zelfs-50-cent",
+     "bron": "RTV Oost",
+     "tijd": "06:57",
+     "sorteer": "2026-11-04T05:57:42+00:00"
+    },
+    {
+     "titel": "Ombudsman: overheid was jarenlang onbetrouwbaar voor boeren",
+     "context": "De Nederlandse overheid is de afgelopen jaren onbetrouwbaar geweest voor boeren. Gevolg is grote onzekerheid voor boeren en hun gezinnen. Boeren hebben behoefte aan duidelijkheid en willen zich gehoord voelen. Dit blijkt uit het rapport 'Een boer met kiespijn lacht niet' van de Nationale ombudsman.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3714884/ombudsman-overheid-was-jarenlang-onbetrouwbaar-voor-boeren",
+     "bron": "RTV Oost",
+     "tijd": "06:00",
+     "sorteer": "2026-11-04T05:00:00+00:00"
+    },
+    {
+     "titel": "'Doe het niet; we controleren', zegt politie over vuurwerk halen uit Duitsland",
+     "context": "\"Doe het niet, want het is strafbaar en de boetes zijn hoog.\" Die oproep doet de politie aan inwoners van Overijssel die vuurwerk uit Duitsland overwegen te halen. Praktisch al het vuurwerk is sinds 1 augustus verboden in ons land. De politie zegt \"gerichter en strenger\" te controleren aan de grens.",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3714735/doe-het-niet-we-controleren-zegt-politie-over-vuurwerk-halen-uit-duitsland",
+     "bron": "RTV Oost",
+     "tijd": "05:01",
+     "sorteer": "2026-11-04T04:01:44+00:00"
+    },
+    {
+     "titel": "Alwin uit Lutten speurt met z'n dochter Emma (16) naar ondergrondse objecten",
      "context": "Aan het gepiep van zijn metaaldetector hoort Alwin Ballast uit Lutten al of er een bijzondere vondst in de grond verborgen zit. Al ruim 25 jaar speurt hij op die manier naar historische schatten. Inmiddels heeft hij zelfs zijn eigen speciaalzaak in metaaldetectors. \"Dit is een virus en ik ben ermee besmet.\"",
      "rubrieken": [
       "breaking"
      ],
-     "link": "https://www.oost.nl/cultuur/3704188/van-zilveren-munt-tot-bronzen-bijl-alwin-uit-lutten-speurt-naar-historische-schatten",
+     "link": "https://www.oost.nl/cultuur/3704188/alwin-uit-lutten-speurt-met-zn-dochter-emma-16-naar-ondergrondse-objecten",
      "bron": "RTV Oost",
      "tijd": "19:04",
-     "sorteer": "2026-11-03T18:04:14+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "sorteer": "2026-11-03T18:04:14+00:00"
     },
     {
      "titel": "Zorgbureau Modern Care failliet: tijdelijke oplossing 35 jeugdige cliënten",
@@ -518,39 +537,6 @@
      "tijd": "17:55",
      "sorteer": "2026-11-03T16:55:59+00:00",
      "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Zwolse lichtparade krijgt opvallende uitbreiding: 'Alles wat rolt mag mee'",
-     "context": "De Zwolse Lichtparade die op 11 november door de binnenstad trekt, krijgt dit jaar een bijzondere uitbreiding. Niet alleen wandelaars kunnen meedoen: er komt ook een rollende lichtparade voor mensen met een scootmobiel, elektrische rolstoel of (aangepaste) fiets.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3712502/zwolse-lichtparade-krijgt-opvallende-uitbreiding-alles-wat-rolt-mag-mee",
-     "bron": "RTV Oost",
-     "tijd": "17:01",
-     "sorteer": "2026-11-03T16:01:01+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Provincies aan zet bij stikstofplannen, focus op maatwerk om stikstofdoelen te halen",
-     "context": "Het kabinet geeft in de uitwerking van de stikstofplannen van landbouwminister Jaimi van Essen boeren en provincies meer ruimte, maar de stikstofdoelen blijven wel staan. Provincies krijgen wel de vrijheid om maatwerk toe te passen.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3713217/provincies-aan-zet-bij-stikstofplannen-focus-op-maatwerk-om-stikstofdoelen-te-halen",
-     "bron": "RTV Oost",
-     "tijd": "15:07",
-     "sorteer": "2026-11-03T14:07:39+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "'Paarse envelop' op de mat: MST-arts roept op mee te doen aan darmkankertest",
-     "context": "Slechts zestig tot zeventig procent van de mensen die een uitnodiging krijgen, doet mee aan het darmonderzoek. Dat moet naar honderd procent volgens maag-, darm- en leverarts Niels Venneman op de eerste dag van de Paarse Envelop. Vandaag krijgen 55-plussers post om deel te nemen aan dat onderzoek.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3714754/paarse-envelop-op-de-mat-mst-arts-roept-op-mee-te-doen-aan-darmkankertest",
-     "bron": "RTV Oost",
-     "tijd": "11:09",
-     "sorteer": "2026-11-03T10:09:12+00:00"
     },
     {
      "titel": "Ongeval met letsel op Rechterensedijk",
@@ -651,22 +637,6 @@
      "bron": "Nederlands Dagblad",
      "tijd": "01:30",
      "sorteer": "2026-11-04T00:30:00+00:00"
-    },
-    {
-     "titel": "AI Discover: Netflix wil je nu met AI series aanraden op basis van thema’s",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR2xMVkhJVHFTU3NOTmdIUEhDamx2NzBKcVdubUVWYlF6WlRrT3BvQkhCZGdWcnJXYmMtNWYta2t0OUxBNkpzaFF0OFM3UUFTdXRQNlpHLXd6WlpiMjFKSDlYZHA2aVhORlJvOU1RelVONkxZZjh4S0EweVBFczZ5TlN4Z0o1Z05JdE1CZkJ0dS1DQXVEM0xUcFYwVG9YdkJucUtvNjU2ZmRWZlI5emU3TTdWclMwQQ?oc=5",
-     "bron": "Bright",
-     "tijd": "22:40",
-     "sorteer": "2026-11-03T21:40:46+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Publieksfilosoof Rüdiger Safranski snapt niet dat mensen zich zo laten imponeren door AI",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOanJRZ0xwZkNDVjlQTGI2bTl4Z3FSNklGU0Jacnp5QjJGanlPd2xXWWJ2a0VWdFdGeXVtajZUbTVaNXd6Z1JFSmhsWXFlNDJ5NEhnWHFMNk9aRmVSN1VXT3dIOHJkX0I1S3lLVml0OVFRTnJhTE14T2JudHNzZGczbGJmN0c0c3p1Z0pKMTRrRjg2WG1aUnpfSHlhdnJVMGFjeWtzOUJXcFFyTVZBd1lzdWtOWG1EcURETmFPd0Q5SUxnbDlTTUs3dw?oc=5",
-     "bron": "Trouw",
-     "tijd": "22:00",
-     "sorteer": "2026-11-03T21:00:31+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
     }
    ]
   },
@@ -895,7 +865,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "08:00",
+    "bijgewerkt": "09:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1281,18 +1251,18 @@
      "sorteer": "2026-11-04T06:00:00+00:00"
     },
     {
+     "titel": "Schelpenkorrels doen iets opmerkelijks met de genen van schelpdieren",
+     "toelichting": "Fijngemalen schelpen maken het water tussen zandkorrels minder zuur. Dat biedt jonge schelpdieren mogelijk extra bescherming. Schrijf je in voor de nieuwsbrief! Ook elke dag vers het laatste wetenschapsnieuws in je inbox",
+     "bron": "Scientias",
+     "tijd": "08:30",
+     "link": "https://scientias.nl/schelpenkorrels-doen-iets-opmerkelijks-met-de-genen-van-schelpdieren/"
+    },
+    {
      "titel": "Zombie-bacteriën blijven DNA produceren na hun dood",
      "toelichting": "Een bacterie die na zijn dood nog DNA produceert: het klinkt als sciencefiction, maar wetenschappers lijken het mogelijk te maken. Onderzoekers uit Denemarken ontdekten dat sommige bacteriesoorten na hun dood nog DNA kun",
      "bron": "Scientias",
      "tijd": "15:00",
      "link": "https://scientias.nl/zombie-bacterien-blijven-dna-produceren-na-hun-dood/"
-    },
-    {
-     "titel": "Bang voor spinnen, maar dol op het bos: biofilie blijkt minder eenzijdig dan gedacht",
-     "toelichting": "Een kind kan bang zijn voor spinnen en toch graag het bos in gaan. Een nieuw onderzoek laat zien hoe dát kan. Schrijf je in voor de nieuwsbrief! Ook elke dag vers het laatste wetenschapsnieuws in je inbox? Of elke week? ",
-     "bron": "Scientias",
-     "tijd": "08:30",
-     "link": "https://scientias.nl/bang-voor-spinnen-maar-dol-op-het-bos-biofilie-blijkt-minder-eenzijdig-dan-gedacht/"
     },
     {
      "titel": "Photograph helps identify a West African bird not seen in 13 years",
@@ -1374,14 +1344,6 @@
      "sorteer": "2026-11-03T09:38:00+01:00"
     },
     {
-     "titel": "Pallas' Boszanger",
-     "kop": "Zeldzaamheden",
-     "bron": "Noord-Holland",
-     "tijd": "08:40",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-03T08:40:00+01:00"
-    },
-    {
      "titel": "Dalfsen (nacht)",
      "kop": "Vogeltrek",
      "bron": "03-11",
@@ -1399,78 +1361,46 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 155 soorten, 118.111 vogels geteld",
+     "titel": "Landelijk vandaag: 80 soorten, 4.061 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch"
     },
     {
-     "titel": "Spreeuw — 28.459",
+     "titel": "Kolgans — 794",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch"
     },
     {
-     "titel": "Kraanvogel — 24.085",
+     "titel": "Spreeuw — 687",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch"
     },
     {
-     "titel": "Kramsvogel — 17.051",
+     "titel": "Aalscholver — 582",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch"
     },
     {
-     "titel": "Kolgans — 6.664",
+     "titel": "Kramsvogel — 252",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch"
     },
     {
-     "titel": "Brandgans — 6.661",
+     "titel": "Kauw — 226",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch"
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Kraanvogel springt eruit — 24.085, normaal 212",
-     "bron": "114× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "anser spec. springt eruit — 315, normaal 29",
-     "bron": "11× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Bergeend springt eruit — 246, normaal 34",
-     "bron": "7× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch",
-     "sein": false
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Zwarte Zee-eend springt eruit — 4.171, normaal 594",
-     "bron": "7× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch",
-     "sein": false
     },
     {
      "kop": "Pestvogels",
@@ -1482,11 +1412,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Goed pestvogeljaar — 116 meldingen in de afgelopen week",
+     "titel": "Goed pestvogeljaar — 119 meldingen in de afgelopen week, waarvan 2 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 123 vogels in de nieuwste meldingen"
+     "vergelijking": "samen 124 vogels in de nieuwste meldingen"
     },
     {
      "kop": "Pestvogels",
@@ -1528,16 +1458,16 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 4.6,
-    "gevoel": 3.1,
-    "wind": "NO 2",
+    "nu": 5.5,
+    "gevoel": 3.8,
+    "wind": "ONO 2",
     "station": "Heino",
     "bericht": "Met een oostelijke stroming wordt de komende dagen geleidelijk drogere lucht aangevoerd. Het betekent op donderdag en vrijdag volop zonneschijn. Door de wind voelt het kouder aan dan de thermometer aanwijst.",
     "vandaag": "Vanochtend is het in het gehele noorden bewolkt, maar wel droog. Vanmiddag zijn er perioden met zon, afgewisseld met wolkenvelden, en blijft het droog.",
     "temperatuur": "Richting het eind van de ochtend is het gemiddeld genomen een graad of 9 in het noorden en 7 graden in het zuiden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: 4 tot 10 graden, droog, ruim 7 uur zon, wind uit het oosten, kracht 4.",
-     "max": 10,
+     "zin": "Voor Dalfsen zelf: 4 tot 9 graden, droog, ruim 5 uur zon, wind uit het oosten, kracht 4.",
+     "max": 9,
      "min": 4,
      "regenkans": 0,
      "omschrijving": "lichte motregen"
