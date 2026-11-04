@@ -3,13 +3,15 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "20:00",
-  "blokken": 10,
-  "berichten": 105,
-  "problemen": [],
+  "opgehaald": "20:32",
+  "blokken": 11,
+  "berichten": 112,
+  "problemen": [
+   "pauw & de wit: timeout"
+  ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-04T20:00+01:00",
+ "opgehaald": "2026-11-04T20:32+01:00",
  "audio": "audio/20261104.mp3",
  "afval": [
   {
@@ -225,7 +227,16 @@
    "emoji": "🌍",
    "items": [
     {
-     "titel": "Oekraïense onderscheiding voor Melania Trump voor bemiddelende rol Olesjky",
+     "titel": "Van Oekraïne tot Iran: overwinning Democraten zal wereldwijd impact hebben",
+     "context": "De klinkende verkiezingsoverwinning van de Democraten bij de Congresverkiezingen zal niet alleen in de VS, maar ook in het buitenland veel teweegbrengen. Zo'n drastische omkering van de machtsverhoudingen in Washington kan niet onopgemerkt blijven in landen als Oekraïne, Iran en Israël. Het verschil wordt pas duidelijk nadat de nieuw gekozen Amerikaanse Congresleden echt beginnen. Dat gebeurt op 3",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638064",
+     "bron": "NOS",
+     "tijd": "20:01",
+     "sorteer": "2026-11-04T20:01:02+01:00"
+    },
+    {
+     "titel": "Oekraïense onderscheiding voor Melania Trump voor bemiddeling bij bestand in Olesjky",
      "context": "De Oekraïense president Zelensky heeft de Amerikaanse first lady Melania Trump de hoogste Oekraïense onderscheiding voor vrouwen toegekend. Aanleiding is haar bemiddelende rol bij het tot stand brengen van het bestand van de door Rusland bezette stad Olesjky. In het Oekraïense presidentiële decreet wordt verwezen naar Trumps \"aanzienlijke persoonlijke bijdrage\" aan humanitaire steun voor Oekraïne ",
      "rubrieken": [],
      "link": "https://nos.nl/l/2638056",
@@ -261,15 +272,6 @@
      "sorteer": "2026-11-04T16:43:19+01:00"
     },
     {
-     "titel": "Filipijnse politie bevestigt: kinderporno op apparaten vader Meghan Markle",
-     "context": "Op apparaten van Thomas Markle, de vader van Meghan Markle, staat inderdaad kinderporno. Dat heeft de Filipijnse politie bevestigd na een onderzoek, schrijft South China Morning Post. Vorige maand schreef de Britse krant The Sun dat Meghans broer in het huis van hun vader, op de Filipijnen, op zoek was naar een telefoon. Bij die zoektocht vond Thomas Markle junior een telefoon met daarop een video",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638039",
-     "bron": "NOS",
-     "tijd": "16:17",
-     "sorteer": "2026-11-04T16:17:13+01:00"
-    },
-    {
      "titel": "Duizelingwekkende veroveringstocht Democraten: Amerikanen rekenen af met tijdperk-Trump",
      "context": "",
      "rubrieken": [],
@@ -288,17 +290,59 @@
      "sorteer": "2026-11-04T17:43:28+00:00"
     },
     {
-     "titel": "Deze midterms zijn een afstraffing die lang zal nadreunen bij Trump en co",
+     "titel": "Trump en Vance wijzen naar de Iranoorlog als reden voor verlies midterms",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/deze-midterms-zijn-een-afstraffing-die-lang-zal-nadreunen-bij-trump-en-co~b19f2887/",
+     "link": "https://www.trouw.nl/buitenland/live-vs-trump-en-vance-wijzen-naar-de-iranoorlog-als-reden-voor-verlies-midterms~bbc0cf3d/",
      "bron": "Trouw",
-     "tijd": "17:57",
-     "sorteer": "2026-11-04T16:57:00+00:00"
+     "tijd": "20:00",
+     "sorteer": "2026-11-04T19:00:00+00:00"
+    },
+    {
+     "titel": "A Democratic Sweep Gives Congress an Opening to Reassert Itself",
+     "context": "President Trump usurped power from the legislative branch with Republican help for two years. Democrats are now positioned to try to claw back some of Congress’s prerogatives.",
+     "rubrieken": [
+      "United States Politics and Government",
+      "Presidential Power (US)",
+      "Politics and Government",
+      "Midterm Elections (2026)",
+      "Democratic Party",
+      "House of Representatives",
+      "Senate",
+      "Republican Party",
+      "Jeffries, Hakeem",
+      "Schumer, Charles E",
+      "Thune, John R",
+      "Trump, Donald J"
+     ],
+     "link": "https://www.nytimes.com/2026/11/04/us/politics/democrats-house-senate-congress-trump.html",
+     "bron": "New York Times",
+     "tijd": "20:20",
+     "sorteer": "2026-11-04T19:20:58+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Democrat Jon Rosenthal elected Texas railroad commissioner over controversial Republican Bo French",
+     "context": "State representative Rosenthal’s win comes after national backlash to French’s social media remarks targeting south Asian Americans Jon Rosenthal has won a seat on the Texas railroad commission, a powerful state regulatory agency, beating out two challengers including the controversial Republican nominee Bo French whose campaign ignited a firestorm over his bigoted remarks . Rosenthal, a Democrat,",
+     "rubrieken": [
+      "US midterm elections 2026",
+      "Texas",
+      "US politics",
+      "US news",
+      "Republicans",
+      "Democrats"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/04/jon-rosenthal-texas-railroad-commissioner",
+     "bron": "The Guardian",
+     "tijd": "20:13",
+     "sorteer": "2026-11-04T19:13:37+00:00",
+     "kop": "Midterms",
+     "taal": "en"
     },
     {
      "titel": "US midterm elections 2026 live updates: Trump defiant about brutal Republican losses and acknowledges Iran war’s unpopularity",
-     "context": "President again insisted that if he were on the ballot Republicans would have won, despite historic losses: ‘They just couldn’t transfer that love’ Track live results from all 50 states Full report: Democrats win control of Congress Tell us: how do you feel about the midterm results? Wall Street surged at the open, after Democrats scored historic victories in midterm elections and secured control ",
+     "context": "President again insisted that if he were on the ballot Republicans would have won, despite historic losses: ‘They just couldn’t transfer that love’ Live results | Republican losses mapped Tell us: how do you feel about the midterm results? Sign up for Breaking News US email Wall Street surged at the open, after Democrats scored historic victories in midterm elections and secured control of US Cong",
      "rubrieken": [
       "US midterm elections 2026",
       "US news",
@@ -312,30 +356,86 @@
      ],
      "link": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
      "bron": "The Guardian",
-     "tijd": "19:43",
-     "sorteer": "2026-11-04T18:43:31+00:00",
+     "tijd": "20:10",
+     "sorteer": "2026-11-04T19:10:47+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
     {
-     "titel": "Both sides of the Atlantic sense more hope: voters are drawn to the ‘politics of love’ | Alexander Hurst",
-     "context": "Trump’s rout could be part of a democratic spring that began in Hungary. But will it extend to the French elections next May? Hungary, Brazil, Serbia, and now the US. So far this year, when their hand has been held to the stove, voters have chosen what the Texas senator-elect James Talarico, the new face of the US’s Christian left, campaigned on as a “politics of love”: a society where we aren’t a",
+     "titel": "The great sleeping giant of America has awakened | Robert Reich",
+     "context": "The real question in my mind is whether Democrats will take advantage of the new age of populism The great sleeping giant of the US has awakened, taken a hard look at what’s become of the nation, and roared a thunderous “NO!” What occurred on Tuesday was not – as some are saying – the inevitable midterm swing of the pendulum against the party in power. Texas hasn’t elected a Democratic senator sin",
      "rubrieken": [
       "US midterm elections 2026",
-      "Hungary",
-      "France",
-      "Europe",
-      "World news",
-      "The far right",
-      "Far right (US)",
+      "Texas",
+      "Kansas",
       "Democrats",
+      "Donald Trump",
       "US politics",
       "US news"
      ],
-     "link": "https://www.theguardian.com/commentisfree/2026/nov/04/donald-trump-midterms-atlantic-hope-voters-democratic",
+     "link": "https://www.theguardian.com/commentisfree/2026/nov/04/democrats-elected-us-awakening",
      "bron": "The Guardian",
-     "tijd": "19:35",
-     "sorteer": "2026-11-04T18:35:18+00:00",
+     "tijd": "20:03",
+     "sorteer": "2026-11-04T19:03:08+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "How Troy Jackson Defeated Susan Collins in Maine, Ending Her 30 Year Senate Career",
+     "context": "Troy Jackson, a former Democratic state lawmaker, upset Senator Susan Collins, a Republican who had served the state for 30 years.",
+     "rubrieken": [
+      "Midterm Elections (2026)",
+      "United States Politics and Government",
+      "Elections, Senate",
+      "Democratic Party",
+      "Senate",
+      "Collins, Susan M",
+      "Jackson, Troy D (1968- )",
+      "Maine"
+     ],
+     "link": "https://www.nytimes.com/2026/11/04/us/politics/how-troy-jackson-beat-susan-collins.html",
+     "bron": "New York Times",
+     "tijd": "20:02",
+     "sorteer": "2026-11-04T19:02:15+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "‘Wellness is on the ballot’: Why did so many pilates studios tell me to vote in the midterms?",
+     "context": "Owners of pilates and yoga studios in the US got political and encouraged their followers to vote on social media Your local pilates instructors only want you to do two things: breathe through your side-planks and vote. In the days leading up to the US midterm elections, a wave of posts from fitness and wellness accounts blanketed Instagram, eschewing their typical messaging around the importance ",
+     "rubrieken": [
+      "US midterm elections 2026",
+      "Fitness",
+      "Pilates",
+      "Technology",
+      "Social media",
+      "Yoga",
+      "Life and style",
+      "US news",
+      "US politics"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/04/pilates-politics-fitness-studios-midterms-voting",
+     "bron": "The Guardian",
+     "tijd": "19:53",
+     "sorteer": "2026-11-04T18:53:31+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Trump boasts about ballroom in first public event since massive GOP defeat",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2Q1p0blA0MlJfdDk1X21yMTNtQjVqOFZ5c3RxUFV4R2ZVVGprXzR0WWNnQ2xIallfSElaNWVpUTF6WDNVai1NOFlKYXJaXzNCeGtqMmtDRXlTTUR0b1ZLcEhQc3RCLUxYeThjWDhfZkpyOTdM?oc=5",
+     "bron": "CNN",
+     "tijd": "19:39",
+     "sorteer": "2026-11-04T18:39:00+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Bob the poet, meet Bob the priest: Pope Leo receives Bob Dylan at the Vatican",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRU5ObEtwVHFXNnpsUzlpbWllRUE1b0wzZkxDRldxTzRpYkRvem1UMnkwa19nZzFfcjVtS28tS3NBN1F0bkprbWdUZ1Q3RlcydmVwMS1jOUhqVkFOMzVCNGFWcWtsSkg0aG54S0Y3Y0twTUhNOTdjVjI4SGRNVnBfaA?oc=5",
+     "bron": "CNN",
+     "tijd": "19:34",
+     "sorteer": "2026-11-04T18:34:07+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -365,25 +465,6 @@
      "taal": "en"
     },
     {
-     "titel": "The Guardian view on the US midterms: joy for Democrats, a rout for Republicans and a reprieve for democracy | Editorial",
-     "context": "Voters have delivered a damning verdict on Donald Trump’s presidency with this Congressional landslide Bitter experience made Democrats wary of believing that the blue wave predicted by polls would materialise. What arrived was not just victory but a rout: control of Congress and a Republican wipeout . It was an astounding humiliation for a president whose political brand is power. Donald Trump wo",
-     "rubrieken": [
-      "US midterm elections 2026",
-      "Donald Trump",
-      "Democrats",
-      "Republicans",
-      "US news",
-      "US politics",
-      "World news"
-     ],
-     "link": "https://www.theguardian.com/commentisfree/2026/nov/04/the-guardian-view-on-the-us-midterms-joy-for-democrats-a-rout-for-republicans-and-a-reprieve-for-democracy",
-     "bron": "The Guardian",
-     "tijd": "19:31",
-     "sorteer": "2026-11-04T18:31:13+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
      "titel": "There’s No Modern Precedent for This Democratic Tsunami",
      "context": "It was hard to imagine that an electoral wave this big was still possible. But there have been extraordinary changes just beneath the surface.",
      "rubrieken": [
@@ -406,74 +487,11 @@
      "taal": "en"
     },
     {
-     "titel": "Candy and Smiles on MS NOW, and Some Regrets on Fox News",
-     "context": "On TV, the outcome of the midterm elections became clear early on. Pundits celebrated and grieved by turns.",
-     "rubrieken": [
-      "Midterm Elections (2026)",
-      "United States Politics and Government",
-      "Television",
-      "News and News Media",
-      "MS NOW",
-      "Fox News Channel",
-      "Trump, Donald J",
-      "Elections, Senate",
-      "Elections, House of Representatives"
-     ],
-     "link": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
-     "bron": "New York Times",
-     "tijd": "19:22",
-     "sorteer": "2026-11-04T18:22:34+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Trump’s billionaire-blue collar coalition has been smashed by class politics | Aditya Chakrabortty",
-     "context": "As tech bosses get richer and ordinary Americans struggle, Democrats put the case against the US’s grotesque unfairness – and voters responded Remember the “vibe shift”? Just last year, columnists and corporate boardrooms alike declared that the second coming of Donald Trump meant the old rules of politics and even everyday civility were roadkill. “I feel liberated,” one top banker told the Financ",
-     "rubrieken": [
-      "US midterm elections 2026",
-      "Donald Trump",
-      "Republicans",
-      "Democrats",
-      "Cost of living crisis",
-      "Elon Musk",
-      "Silicon Valley",
-      "Datacenters – US",
-      "US politics",
-      "US news"
-     ],
-     "link": "https://www.theguardian.com/commentisfree/2026/nov/04/donald-trump-billionaire-coalition-class-politics-tech-us-democrats",
-     "bron": "The Guardian",
-     "tijd": "19:18",
-     "sorteer": "2026-11-04T18:18:34+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "A Night of Seismic Triumph for Democrats",
-     "context": "The Democratic Party wrested control of Congress from Republicans in a wave of midterm victories as voters delivered a scathing rebuke to President Trump.",
-     "rubrieken": [
-      "Midterm Elections (2026)",
-      "United States",
-      "United States Politics and Government",
-      "Elections, Governors",
-      "Democratic Party",
-      "Senate",
-      "Abbott, Gregory W (1957- )",
-      "Hinojosa, Gina (1973- )",
-      "Talarico, James",
-      "Kansas",
-      "Maine",
-      "Sacramento (Calif)",
-      "South Carolina",
-      "Texas",
-      "Republican Party",
-      "Trump, Donald J",
-      "House of Representatives"
-     ],
-     "link": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-photos.html",
-     "bron": "New York Times",
-     "tijd": "19:14",
-     "sorteer": "2026-11-04T18:14:02+00:00",
+     "titel": "Trump speaks about ballroom renovations, avoiding midterm election results",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGJvZU41UkliMjlmNkt2VTJaV2lRbFI2VnphcC1Rd2txb3RGRVNyYVFtbUpqZjllbVV2ZnN4N3pkUWdUdWF6VjE0RFhXZU1hWVJpTkswQXhBOG9zRkM4TVBPdnlOWjZ5UDh4eEhoSWVlNDJwdzRKV2N5cmctVVdfbXhTZVJpRzJwT3lMaWhZbmNjaG4zczRFX3E5bHpqNVFPT29neVJERQ?oc=5",
+     "bron": "CNN",
+     "tijd": "19:12",
+     "sorteer": "2026-11-04T18:12:36+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -487,80 +505,36 @@
      "taal": "en"
     },
     {
-     "titel": "In pictures: The 2026 midterm elections",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qRjROdGJaUFRfT3VtdkZaOW9IZHpiSHV1RjNRZHJiSzdTZWtjVW5EcXNZcVl3U252eWpwZU1wbGR1cHJTa3FLMmhvNEZWSnJhSm90UmlDRkw2ZTVKYm91amliejJKMHRlQzczdjNfQ0lqcTdhV3B2eDg0NA?oc=5",
-     "bron": "CNN",
-     "tijd": "18:21",
-     "sorteer": "2026-11-04T17:21:00+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Mississippi Democrat says he's \"confident\" he'll win razor-thin Senate race",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbldjak44TlFDdXVYeU5zNzRUcThDZ1o5SUZZdWxnNlFOWTJwQ0F3d1FPVF9rVW4tYU81RUp6Wkx4ZE13SVExSjJiMTByellIR2FuQkJoM3NoMFNWVmRzY3hqSDdRZ0lZbWdKWWJlV2RVdW1HRVZ2OXBNZ3pCQV91MVF4alZtS1YyUmVkSFc0UE5NM29sWUU3RWNlbkZXcjd2MGVKTjhB?oc=5",
-     "bron": "CNN",
-     "tijd": "17:47",
-     "sorteer": "2026-11-04T16:47:49+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "What Trump’s midterms setback could mean for Iran, Israel and Ukraine",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmRtNUxIYTJJb2ZOaEtKMGMzbjRmX0hwSk5YNXpsbHdqSzluVW5udGFObGpuVnh1VGllcWVBdXlhZExtNlE0Mi1aY1V0MktvYkpCU3EwM0ZfS2d4Q0lNMGxrRG1kZzRYZEZoZkswS2Q0RGx6ZTczT3pkUXpCeV82VVZB?oc=5",
-     "bron": "CNN",
-     "tijd": "17:37",
-     "sorteer": "2026-11-04T16:37:19+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "California progressive Randy Villegas wins redrawn House seat for Democrats",
-     "context": "Community college professor unseats incumbent Republican David Valdao in seat redrawn under Prop 50 Democrat Randy Villegas, a community college professor with major progressive endorsements, has won the race for California’s 22nd congressional district. He unseats the six-term, incumbent Republican congressman, David Valadao, in a district that was considered the only true toss-up across the stat",
+     "titel": "Miami helicopter crash leaves one person dead and two injured",
+     "context": "The helicopter was carrying three people and crashed in the waters of Biscayne Bay, east of Miami executive airport Sign up for the Breaking News US newsletter email A helicopter crash in Miami on Wednesday morning has left one person dead and two others injured. Authorities including the US Coast Guard responded to the crash at approximately 11.30am on Wednesday. According to the USCG, the helico",
      "rubrieken": [
-      "California",
-      "US midterm elections 2026",
-      "US politics",
-      "West Coast",
+      "Miami",
+      "Florida",
       "US news",
-      "World news"
+      "Plane crashes"
      ],
-     "link": "https://www.theguardian.com/us-news/2026/nov/04/california-22nd-district-house-midterms",
+     "link": "https://www.theguardian.com/us-news/2026/nov/04/miami-helicopter-crash-deadly",
      "bron": "The Guardian",
-     "tijd": "19:47",
-     "sorteer": "2026-11-04T18:47:56+00:00",
+     "tijd": "20:19",
+     "sorteer": "2026-11-04T19:19:34+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "For Israelis, U.S. Midterms Show How Far Their Star Has Fallen in America",
-     "context": "Israel once had bipartisan support in the United States, but a strong showing for Democrats, some of whom are deeply critical of the war in Gaza, has left the country with fewer friends in Congress.",
+     "titel": "John Frieda, Hairdresser to Royalty Who Built a Beauty Empire, Dies at 75",
+     "context": "A fixture of London’s high-fashion salon scene, his clients also included celebrities like Jacqueline Kennedy Onassis, Raquel Welch and Gwyneth Paltrow in a career that lasted more than 50 years.",
      "rubrieken": [
-      "International Relations",
-      "Democratic Party",
-      "Republican Party",
-      "Netanyahu, Benjamin",
-      "United States International Relations",
-      "Elections",
-      "Midterm Elections (2026)",
-      "Eisenkot, Gadi",
-      "Trump, Donald J",
-      "United States Politics and Government",
-      "US and Israeli Attack on Iran (2026)",
-      "Foreign Aid",
-      "Politics and Government",
-      "Hamas",
-      "Hezbollah",
-      "Gaza Strip",
-      "Israel",
-      "Iran",
-      "Lebanon",
-      "United States",
-      "West Bank"
+      "Frieda, John (1951-2026)",
+      "Deaths (Obituaries)",
+      "Hair",
+      "Beauty Salons",
+      "Lulu (1948-)",
+      "Cosmetics and Toiletries"
      ],
-     "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html",
+     "link": "https://www.nytimes.com/2026/11/04/style/john-frieda-dead.html",
      "bron": "New York Times",
-     "tijd": "19:46",
-     "sorteer": "2026-11-04T18:46:33+00:00",
+     "tijd": "20:12",
+     "sorteer": "2026-11-04T19:12:07+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -605,7 +579,7 @@
    "emoji": "🇳🇱",
    "items": [
     {
-     "titel": "'Mensenrechtenorganisaties breken onder Amerikaanse druk met Strafhof'",
+     "titel": "'Organisaties voor mensenrechten breken onder Amerikaanse druk met Strafhof'",
      "context": "Zeker twintig mensenrechtenorganisaties hebben sinds vorig jaar hun samenwerking met het in Den Haag gevestigde Internationaal Strafhof (ICC) flink ingeperkt of volledig gestaakt. Dat blijkt uit een rondgang van onderzoeksplatform Investico en het Duitse medium Süddeutsche Zeitung bij honderd organisaties zonder winstoogmerk, in samenwerking met weekblad De Groene Amsterdammer . Veel ngo's durven ",
      "rubrieken": [],
      "link": "https://nos.nl/l/2638063",
@@ -668,13 +642,13 @@
      "sorteer": "2026-11-04T11:52:55+00:00"
     },
     {
-     "titel": "Het plan was om bruidsjurken te stelen, het werd brandstichting. Gevolg: zes doden",
+     "titel": "‘We’re so happy’, klinkt het in de Amerikaanse boekwinkel in Amsterdam",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/het-plan-was-om-bruidsjurken-te-stelen-het-werd-brandstichting-gevolg-zes-doden~bf1c0ceb/",
+     "link": "https://www.trouw.nl/binnenland/we-re-so-happy-klinkt-het-in-de-amerikaanse-boekwinkel-in-amsterdam~b0f377a4/",
      "bron": "Trouw",
-     "tijd": "15:33",
-     "sorteer": "2026-11-04T14:33:00+00:00"
+     "tijd": "20:12",
+     "sorteer": "2026-11-04T19:12:37+00:00"
     },
     {
      "titel": "Keeper reageert na fatale botsing: 'Moeilijkste dagen van mijn leven'",
@@ -684,25 +658,25 @@
      "sorteer": "2026-11-04T18:40:37+00:00"
     },
     {
-     "titel": "Praat mee: Is het terecht dat Marco Borsato 391.000 euro aan advocaatkosten terugvraagt van de Nederlandse staat?",
-     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSHc0M09rTkdpbzFQQkZmZExjWlcwRE1DVE1odlNVSlZ1SnNKblFMclpCakQtTVplS1YyeXFMcEItMVY0WGNfTFo4YVJxY0w3SGtEbmhicTQyX2FJVUloSXdrMmNldFFCVjBrOHd0d2x1NkNLLURacHdjQUg3azNzNU85ckpxX29kYUFpbUFHZmRqRE9WWmpYV1YxYzNsVjgyUVBmc2JiRGpfbjJXTzd2bjF5LTQwX185MXE1VUxVVzI4RGNLbWg0cl9rYVdoN0ZlSkxKZmg1blFiNW84V1pJX0pjYnJDcVlHaGl6aHJ3?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "19:31",
-     "sorteer": "2026-11-04T18:31:56+00:00"
+     "titel": "Nederland schuift Klaas Knot naar voren als kandidaat-president ECB",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ0NOX0tNUVkxci1wUUswTGlqem5Pc3NwYTBvZnBtUm15bXVNeHlxV3A3NE1WWENsWFc0WGpXUEJlZWgzb01RckZMMzJUa01LY252UVJIbTNFa29XbTI1d2dab1hZZ3pBRUVodzhtS2c1T2RhbVB4MmJ0ZllVRnQ2eDBLWnNoclctRm92QURBc1pOWjMwdWtUWWRnMWE5SEIzRzRsUlNZbw?oc=5",
+     "bron": "Nederlands Dagblad",
+     "tijd": "19:47",
+     "sorteer": "2026-11-04T18:47:00+00:00"
+    },
+    {
+     "titel": "Twee mannen niet meer verdacht na schietpartij in auto Rotterdam",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXJYRTRPR3kzYk5rV2JBbUFPeFp1OXdmcnloNGd1RFREa1JidGhxODg3Q2xTT1d2VGcwaG5CZDBjaXZzX1ZlRVo5QXFlWVl3Rkh5c0NMWGJ6TTUxRnNPSHBMRHNtYzRMU0x6OGhUaFVhQU1LdkpWazFQOFptSXptVTFRQktPRlAyVVFOb2J3eGRBYldK?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "19:39",
+     "sorteer": "2026-11-04T18:39:30+00:00"
     },
     {
      "titel": "Minister Van Weel zet bij bezoek aan haven Moerdijk deur op een kier voor langgekoesterde wens",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUFpZWDM0WGhxc3VwNnJNT3NKRWkxbThyMlF6WlBIaW9CV0FDaERnbEVYWW85ZkR6MW5hcnpqeEp1YVJaVlp1dVhVUThXek5SeXlpUkNScFlmOGVFRlNqNDlvdnViTHJXbjRFQzJMYWhtYnU2eHNVVkZaekZQLUVhWnluV0R2WXRvM3cyakRsUmJYUlE5S0J1bWY1RmJpT3FTWnk2U0VWMUFPRmxQdVZZOVhodm5VbXZ0MTZnVExfNTBjY3VTUWl3WndB?oc=5",
-     "bron": "Brabants Dagblad",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOXlHbDF3ZmhtS0d0SXNZLVpib2VOY1JwNWhjY1VvTm0wVFhRUDJHTE9KUEJkamNtNFd6el9WODVMYi1VVzducnBDNmp0QXd0U0V4eUZKQkhVWFFDOG9LcnhnQldEdlhiaThRY3dKaW1Ockp2X0tGeUxPUm5BTFlnNkZ2SFdnQVBuV21MV3JVTGFsWjR6eEdXd1NLRDQ0MEVpWlVmc0k5SjZLSHluNVRDeDZMbEV4enVLVksybzVJZWxBZ2ZIaFNCcnN3?oc=5",
+     "bron": "Eindhovens Dagblad",
      "tijd": "19:30",
      "sorteer": "2026-11-04T18:30:02+00:00"
-    },
-    {
-     "titel": "Utrecht krijgt eigen ME-peloton: langgekoesterde wens van burgemeester Dijksma komt uit",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcVM2S2JiWDQ3TkpCTHB3MFRuNkdtOGN1YUVNOVFBRmZaTkxTdVZUUzFCWWp0MWRZVFhkbEFEMnFOMEI1X3BYVVpPdUJMeEVQeGhwSVpmZXNrTENlMllTZmgxR0tBaElTLUF2ZnVZX0oxQTNUUXZFUFhpZW1EelU3cDNxWWJfZEdqaXRncTRGYm0wamdhV0tmVFNYbk9udUpFTmJXNE5hbmN1S2s4VUlwNlVPTjh5NUNjQ0hFeGRybw?oc=5",
-     "bron": "AD.nl",
-     "tijd": "19:23",
-     "sorteer": "2026-11-04T18:23:09+00:00"
     },
     {
      "titel": "Vier dingen om op te letten nu de Republikeinen de verkiezingen hebben verloren",
@@ -726,6 +700,64 @@
      "sorteer": "2026-11-04T04:45:07+00:00"
     },
     {
+     "titel": "Live | VVD waarschuwt coalitiegenoten: 'Plan PRO gaat in tegen coalitieakkoord'",
+     "context": "Hallo en welkom in dit liveblog. Hier houden wij (Priscilla Slomp en Edo van der Goot) je op de hoogte van het debat over het belastingplan van het kabinet.",
+     "rubrieken": [
+      "politiek"
+     ],
+     "link": "https://www.nu.nl/politiek/6415485/vvd-waarschuwt-coalitiegenoten-plan-pro-gaat-in-tegen-coalitieakkoord.html",
+     "bron": "NU.nl",
+     "tijd": "15:02",
+     "sorteer": "2026-11-04T15:02:20+01:00",
+     "kop": "Begroting"
+    },
+    {
+     "titel": "Belastingvoorstel PRO is in strijd met coalitieakkoord, vindt VVD | Wilders: wij stemmen overal tegen",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbjdNc2VZdmNUTXd4UWQ2ekw3bFhSOEFkWmRuRzRHd0lHZlNsRFROQVlZc3dUNWxMblBUWnU0cnJjN0NwakNHbFNGVmw5Mk1IT2ZLdmNoR3VUX3BNTGxmcXQxanVfQzFGc1Q0SC1lT0xNRjJxV2tWd2dvTmFJNHROWENjWHhTSXdmLTd4aFhISUdDaEx5Vm9hYXVwRW81RGV0OGNhYlMtWXdoOXNSZnNVd1hNQm9Rcnc0SFpJelM0YUE?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "20:19",
+     "sorteer": "2026-11-04T19:19:32+00:00",
+     "kop": "Begroting"
+    },
+    {
+     "titel": "Coalitiepartijen verdeeld: D66 ‘sympathiek’ over amendement Pro/Volt, VVD noemt het ‘ondenkbaar’",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUU1xSkVPZWsyTldONEQ1d3kzaVZWMDdhaTZCNUJ3S0pmZVRGdW9Lb3FQYnlkVzlwWFNGTGE3dmZnV3BFenFxbUFqOUpJU3VIUkJJeFFQbTdIMDM5YTgyQWZzSXhGajZPOGxPLWZxUHJTTVB5VVRjX3RxTzhTSWVoNVpHYzFYQWZMX1Q4Wno0STNONXNMU21oaU1JNGpQUmFNRDlmNkZPa3JXeE5ST0lod2VTenZReV9OY1NQd1BPV09UcnB1RGtHbW5UeU50Y0h3S3c?oc=5",
+     "bron": "NRC",
+     "tijd": "20:14",
+     "sorteer": "2026-11-04T19:14:48+00:00",
+     "kop": "Begroting"
+    },
+    {
+     "titel": "VVD: ‘Ondenkbaar dat coalitiepartners voor belastingvoorstel Pro stemmen’",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.trouw.nl/politiek/live-belastingplan-ondenkbaar-dat-coalitiepartners-voor-belastingvoorstel-pro-stemmen-zegt-vvd~b6fe20720/",
+     "bron": "Trouw",
+     "tijd": "19:56",
+     "sorteer": "2026-11-04T18:56:00+00:00",
+     "kop": "Begroting"
+    },
+    {
+     "titel": "Linkse en rechtse partijen dreigen tegen de klimaatbegroting te stemmen, zonder ‘totaaldeal’ over het belastingplan",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.trouw.nl/politiek/linkse-en-rechtse-partijen-dreigen-tegen-de-klimaatbegroting-te-stemmen-zonder-totaaldeal-over-het-belastingplan~b100fd9b/",
+     "bron": "Trouw",
+     "tijd": "17:16",
+     "sorteer": "2026-11-04T16:16:00+00:00",
+     "kop": "Begroting"
+    },
+    {
+     "titel": "Belastingplan stuit op verzet van links én rechts in Eerste Kamer",
+     "context": "Het kabinet heeft moeite om voldoende steun te vinden voor het belastingplan in de Tweede Kamer, maar in de Eerste Kamer wordt de politieke puzzel nog ingewikkelder. Het minderheidskabinet heeft steun nodig van oppositiepartijen op links of rechts, maar zowel Pro als BBB tonen zich tegenover Nieuwsuur weinig bereid om het plan aan een meerderheid te helpen. \"Het betekent nogal wat om een belasting",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637959",
+     "bron": "NOS politiek",
+     "tijd": "06:00",
+     "sorteer": "2026-11-04T06:00:02+01:00",
+     "kop": "Begroting"
+    },
+    {
      "titel": "Eva",
      "link": "https://npo.nl/start/serie/eva",
      "kop": "Vanavond op tv",
@@ -744,8 +776,8 @@
      "kop": "Vanavond op tv"
     },
     {
-     "titel": "Pauw & De Wit: Sylvana Simons, Luc Stultiens, Ferd Grapperhaus & Twan Huys",
-     "link": "https://www.bnnvara.nl/pauw-de-wit/artikelen/woensdagavond-met-oa-sylvana-simons-luc-stultiens-ferd-grapperhaus-twan-huys",
+     "titel": "Pauw & De Wit",
+     "link": "https://npo.nl/start/serie/pauw-de-wit",
      "kop": "Vanavond op tv",
      "bron": "NPO1 · 22:25",
      "tijd": "22:25",
@@ -766,15 +798,6 @@
      "bron": "RTV Oost",
      "tijd": "19:03",
      "sorteer": "2026-11-04T18:03:52+00:00"
-    },
-    {
-     "titel": "Galadriël (9) plaatste zich voor WK dammen, maar kan niet gaan: 'Geld is op'",
-     "context": "Dammen is veel meer dan een hobby voor Galadriël (9) uit Zwolle. Ze werd Nederlands kampioen, eindigde bij de beste tien van Europa en dacht ook naar het WK te kunnen. Maar dat liep anders. Ze plaatste zich, maar had niet genoeg geld om naar China af te reizen.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3715333/galadriel-9-plaatste-zich-voor-wk-dammen-maar-kan-niet-gaan-geld-is-op",
-     "bron": "RTV Oost",
-     "tijd": "17:57",
-     "sorteer": "2026-11-04T16:57:00+00:00"
     },
     {
      "titel": "Burgemeester sluit woning in Hengelo na vondst drugs en wapens",
@@ -817,6 +840,28 @@
      "sorteer": "2026-11-04T13:26:39+00:00"
     },
     {
+     "titel": "Na 15 jaar eindelijk duidelijkheid: Hornbach komt definitief naar Almelo",
+     "context": "Bouwmarkt Hornbach mag definitief een vestiging realiseren in Almelo. De Raad van State hakte vandaag de knoop door. Verschillende bedrijven op de woonboulevard, zoals Beter Bed, Gamma en Praxis én omwonenden probeerden de komst van Hornbach te voorkomen.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3715231/na-15-jaar-eindelijk-duidelijkheid-hornbach-komt-definitief-naar-almelo",
+     "bron": "RTV Oost",
+     "tijd": "13:01",
+     "sorteer": "2026-11-04T12:01:16+00:00"
+    },
+    {
+     "titel": "Mooie foto",
+     "context": "DALFSEN – DEN BERG – Nog een mooie paddenstoel. Deze foto is gemaakt bij Huis den Berg, door Jan van den Berg.",
+     "rubrieken": [
+      "Dalfsen",
+      "Ingezonden bericht",
+      "Laatste nieuws"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/555986/mooie-foto-2.html",
+     "bron": "DalfsenNet",
+     "tijd": "20:13",
+     "sorteer": "2026-11-04T19:13:44+00:00"
+    },
+    {
      "titel": "Boom weghalen doet toch een beetje pijn",
      "context": "OUDLEUSEN – Een boom weghalen blijft jammer. Zeker als je bedenkt hoeveel hij betekent voor vogels, eekhoorns en al het andere leven in de tuin. Toch is het soms nodig, vooral wanneer de veiligheid in het geding komt. Bij deze boom, die flink begroeid was met hedera (klimop), bestond de vrees dat hij bij […]",
      "rubrieken": [
@@ -828,19 +873,6 @@
      "bron": "DalfsenNet",
      "tijd": "19:56",
      "sorteer": "2026-11-04T18:56:03+00:00"
-    },
-    {
-     "titel": "Er is een nieuw overlijdensbericht",
-     "context": "NIEUWLEUSEN – Er is een nieuw overlijdensbericht geplaatst op DalfsenNet.nl Mogelijk gaat het om een goede bekende van u. Klik hier om het bericht te lezen.",
-     "rubrieken": [
-      "Ingezonden bericht",
-      "Laatste nieuws",
-      "Nieuwleusen"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/555979/er-is-een-nieuw-overlijdensbericht-116.html",
-     "bron": "DalfsenNet",
-     "tijd": "19:44",
-     "sorteer": "2026-11-04T18:44:16+00:00"
     }
    ]
   },
@@ -882,6 +914,20 @@
      "kop": "Europol",
      "tijd": "",
      "link": "https://www.europol.europa.eu/media-press/newsroom/news/five-tefaf-robbery-suspects-added-to-eu-most-wanted"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "titel": "AI",
+   "emoji": "🤖",
+   "items": [
+    {
+     "titel": "Jonge, hoogopgeleide kenniswerkers krijgen op de arbeidsmarkt last van AI. Welke banen veranderen het snelst?",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDR6MXlITjFHdm5wWGdza2RyZTFLdXlxN0lJREx4R0JKTkRRVGtqY2QtU1V2Wi16anJITFVnbF9JRklqR1dfb3NIZXd2WGRoa1RlLW52LWJ1MWdRcTdJZGZNbjBWMVpXNjdrLTg1Sks4NElVTzBrU3VYV2RiRzBlY0RKN2N2ZU81aU5RMThZb1hxYUFQc3hPcG83N3FQNENUdkJibDByT3dVcGFfV0lTYg?oc=5",
+     "bron": "NRC",
+     "tijd": "14:31",
+     "sorteer": "2026-11-04T13:31:45+00:00"
     }
    ]
   },
@@ -1082,7 +1128,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "20:00",
+    "bijgewerkt": "20:32",
     "voetbal": {
      "uitslagen": [
       {
@@ -1467,20 +1513,20 @@
      "link": "https://scientias.nl/schelpenkorrels-doen-iets-opmerkelijks-met-de-genen-van-schelpdieren/"
     },
     {
-     "titel": "Scientists call on Ecuador to stop the rising trafficking of Galápagos iguanas",
-     "toelichting": "Ecuadorian authorities said they caught a Russian woman at the airport in Quito, the capital city, trying to smuggle 32 live marine iguanas, endemic to the Galápagos Islands. The iguanas — bound and stuffed in eight plas",
+     "titel": "Water rationing in Recife, Brazil, falls along racial lines",
+     "toelichting": "RECIFE, Brazil — In Ibura de Baixo, a neighborhood tucked into the South Zone region of Recife, Northeast Brazil, 27-year-old Jeyne Araújo’s day begins well before dawn. At 4 a.m., while the Pernambuco state capital slee",
      "bron": "Mongabay (Engels)",
-     "tijd": "13:04",
-     "link": "https://news.mongabay.com/2026/11/scientists-call-on-ecuador-to-stop-the-rising-trafficking-of-galapagos-iguanas/",
-     "sorteer": "2026-11-04T12:04:51+00:00"
+     "tijd": "20:26",
+     "link": "https://news.mongabay.com/2026/11/water-rationing-in-recife-brazil-falls-along-racial-lines/",
+     "sorteer": "2026-11-04T19:26:48+00:00"
     },
     {
-     "titel": "Artificial mangrove roots offer temporary shield for Thailand’s eroding coastline",
-     "toelichting": "Coastal communities near Bangkok in Thailand are testing artificial mangrove roots to combat severe shoreline erosion, reports Mongabay’s Carolyn Cowan. The shorelines of Phra Samut Chedi district, located in the Chao Ph",
+     "titel": "Mapping the ‘lines of life’ of South Sudan’s vast antelope migration",
+     "toelichting": "The lines on the map resemble the gossamer threads of dense spiders’ webs. Conservationists in South Sudan call them the “lines of life.” The map was made by joining up millions of points of data recorded by GPS collars ",
      "bron": "Mongabay (Engels)",
-     "tijd": "11:23",
-     "link": "https://news.mongabay.com/short-article/2026/11/artificial-mangrove-roots-offer-temporary-shield-for-thailands-eroding-coastline/",
-     "sorteer": "2026-11-04T10:23:06+00:00"
+     "tijd": "20:23",
+     "link": "https://news.mongabay.com/2026/11/mapping-the-lines-of-life-of-south-sudans-vast-antelope-migration/",
+     "sorteer": "2026-11-04T19:23:09+00:00"
     }
    ]
   },
@@ -1539,42 +1585,42 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 168 soorten, 135.211 vogels geteld",
+     "titel": "Landelijk vandaag: 170 soorten, 149.334 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch"
     },
     {
-     "titel": "Spreeuw — 43.222",
+     "titel": "Spreeuw — 45.490",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch"
     },
     {
-     "titel": "Brandgans — 19.887",
+     "titel": "Brandgans — 20.187",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch"
     },
     {
-     "titel": "Kraanvogel — 8.577",
+     "titel": "Kraanvogel — 11.623",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch"
     },
     {
-     "titel": "Kolgans — 7.992",
+     "titel": "Kolgans — 10.123",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch"
     },
     {
-     "titel": "Kievit — 7.443",
+     "titel": "Kievit — 7.942",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -1590,8 +1636,16 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Kraanvogel springt eruit — 8.577, normaal 212",
-     "bron": "40× het gewone niveau",
+     "titel": "Kraanvogel springt eruit — 11.623, normaal 212",
+     "bron": "55× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Kuifeend springt eruit — 1.223, normaal 30",
+     "bron": "41× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch",
      "sein": true
@@ -1603,14 +1657,6 @@
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch",
      "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Buizerd springt eruit — 590, normaal 70",
-     "bron": "8× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch",
-     "sein": false
     },
     {
      "kop": "Pestvogels",
@@ -1668,9 +1714,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 6.3,
-    "gevoel": 3.8,
-    "wind": "ONO 2",
+    "nu": 6.1,
+    "gevoel": 3.3,
+    "wind": "ONO 3",
     "station": "Heino",
     "bericht": "Het is komende tijd flink zonnig, maar vanwege de schrale oostenwind kan het wat kouder aanvoelen dan de temperatuur die de thermometer aangeeft. Ook de nachten zijn koud met in de nacht naar vrijdag de eerste vorst van het seizoen.Vanavond verdwijnt de meeste bewolking en koelt het snel af. De oostenwind waait nog altijd stevig door en is matig van kracht boven land.",
     "vandaag": "Vanavond verdwijnt de meeste bewolking en koelt het snel af. Vannacht blijft het op veel plaatsen helder.",
