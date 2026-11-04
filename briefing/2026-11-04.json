@@ -3,13 +3,15 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "16:00",
+  "opgehaald": "17:00",
   "blokken": 11,
-  "berichten": 105,
-  "problemen": [],
+  "berichten": 107,
+  "problemen": [
+   "pauw & de wit: HTTP 502"
+  ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-04T16:00+01:00",
+ "opgehaald": "2026-11-04T17:00+01:00",
  "audio": "audio/20261104.mp3",
  "afval": [
   {
@@ -212,6 +214,33 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Franse bloedbanken ontsnappen aan schade na cyberaanval op koelinstallaties",
+     "context": "Bij drie Franse bloedbanken is begin deze week via een cyberaanval geprobeerd de temperatuur van koelinstallaties te verhogen. Het gebeurde op dezelfde dag dat koelinstallaties van winkels in vier Europese landen werden gehackt, van de Carrefour in België tot de Coop in Zweden. De aanval op de bloedbanken werd echter verijdeld voordat schade kon ontstaan, waardoor geen bloed verloren is gegaan. Of",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638045",
+     "bron": "NOS",
+     "tijd": "16:57",
+     "sorteer": "2026-11-04T16:57:12+01:00"
+    },
+    {
+     "titel": "Podcast De Dag: de problemen van Trump",
+     "context": "De Amerikaanse president Trump is flink afgestraft in de tussentijdse verkiezingen, de midterms. De Democraten krijgen door de blauwe tsunami nu zowel een meerderheid in het Huis als de Senaat. Wat betekent deze gigantische overwinning van de Democraten voor Donald Trump? Luister hier: Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638044",
+     "bron": "NOS",
+     "tijd": "16:43",
+     "sorteer": "2026-11-04T16:43:19+01:00"
+    },
+    {
+     "titel": "Filipijnse politie bevestigt: kinderporno op apparaten vader Meghan Markle",
+     "context": "Op apparaten van Thomas Markle, de vader van Meghan Markle, staat inderdaad kinderporno. Dat heeft de Filipijnse politie bevestigd na een onderzoek, schrijft South China Morning Post. Vorige maand schreef de Britse krant The Sun dat Meghans broer in het huis van hun vader, op de Filipijnen, op zoek was naar een telefoon. Bij die zoektocht vond Thomas Markle junior een telefoon met daarop een video",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638039",
+     "bron": "NOS",
+     "tijd": "16:17",
+     "sorteer": "2026-11-04T16:17:13+01:00"
+    },
+    {
      "titel": "Deense acteur maandenlang voorgelogen over droomproject en stiekem gefilmd",
      "context": "De Deense acteur en komiek Rasmus Wallbridge was dolblij dat hij een film mocht maken. Zijn droom ging in vervulling, dacht hij. Maar na maandenlang werken aan de 'film' kreeg Wallbridge te horen dat hij genept was. Hij was nietsvermoedend de hoofdrolspeler geweest van een verborgen tv-show. Tv-programma Alle elsker Rasmus (Iedereen houdt van Rasmus) heeft in Denemarken tot een storm van kritiek g",
      "rubrieken": [],
@@ -230,58 +259,133 @@
      "sorteer": "2026-11-04T14:34:32+01:00"
     },
     {
-     "titel": "Wereld reageert op verlies Republikeinen: optimisme in Europa, Moskou haalt schouders op",
-     "context": "Veel buitenlandse leiders hebben positief gereageerd op de overwinning van de Democraten bij de Amerikaanse tussentijdse verkiezingen, waarbij de partij de controle kreeg over zowel het Huis van Afgevaardigden als de Senaat. Rusland en China reageerden terughoudend. De Spaanse sociaaldemocratische premier Pedro Sánchez stelde op X dat de Amerikaanse kiezer zich heeft uitgesproken \"tegen beleid dat",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638016",
-     "bron": "NOS",
-     "tijd": "13:58",
-     "sorteer": "2026-11-04T13:58:20+01:00"
-    },
-    {
-     "titel": "'Ondergrondse bankier' uit Rotterdam verdacht van witwassen van miljoenen naar Turkije",
-     "context": "Bij een actie van Europol tegen een internationaal witwasnetwerk hebben Duitse en Nederlandse rechercheurs vijf verdachten aangehouden, onder wie een 55-jarige man uit Rotterdam. Hij wordt verdacht van betrokkenheid bij de ontvangst en verzending van contant geld ter waarde van circa 60 miljoen euro. De verdachte is volgens de politie vermoedelijk een illegale financieel intermediair, in de volksm",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638013",
-     "bron": "NOS",
-     "tijd": "13:43",
-     "sorteer": "2026-11-04T13:43:54+01:00"
-    },
-    {
-     "titel": "Klimaatfinanciering voor kwetsbare landen blijft tekortschieten, terwijl probleem groeit",
-     "context": "De geldstromen die bedoeld zijn om arme landen minder kwetsbaar te maken voor klimaatverandering blijven met vele miljarden tekortschieten. En dat terwijl de kans dat de opwarming van de aarde onder de 1,5 graad Celsius blijft voorlopig is verkeken . Dat staat in een nieuw rapport van het milieuprogramma van de Verenigde Naties. De achterblijvende financiën beloven opnieuw een twistpunt te worden ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638000",
-     "bron": "NOS",
-     "tijd": "12:00",
-     "sorteer": "2026-11-04T12:00:01+01:00"
-    },
-    {
-     "titel": "Israël waarschuwt VS voor Iraanse chemische wapens, Amerikanen betwijfelen waarheidsgehalte",
+     "titel": "Democraten heroveren Huis én Senaat. Gaat Donald Trump een paar zware laatste jaren als president tegemoet?",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/israel-waarschuwt-vs-voor-iraanse-chemische-wapens-amerikanen-betwijfelen-waarheidsgehalte~b261c277/",
+     "link": "https://www.volkskrant.nl/buitenland/democraten-heroveren-huis-en-senaat-gaat-donald-trump-een-paar-zware-laatste-jaren-als-president-tegemoet~bfcc10a8/",
      "bron": "de Volkskrant",
-     "tijd": "15:38",
-     "sorteer": "2026-11-04T14:38:00+00:00"
+     "tijd": "16:59",
+     "sorteer": "2026-11-04T15:59:05+00:00"
     },
     {
-     "titel": "Missouri verwerpt hertekening kieskaart in voordeel van Republikeinen",
+     "titel": "Franse bloedbank werd ook getroffen door cyberaanval op koelingen, alarmsysteem voorkomt schade",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/missouri-verwerpt-hertekening-kieskaart-in-voordeel-van-republikeinen~b782895d/",
+     "link": "https://www.volkskrant.nl/buitenland/franse-bloedbank-werd-ook-getroffen-door-cyberaanval-op-koelingen-alarmsysteem-voorkomt-schade~b2590c52/",
      "bron": "de Volkskrant",
-     "tijd": "15:36",
-     "sorteer": "2026-11-04T14:36:00+00:00"
+     "tijd": "16:42",
+     "sorteer": "2026-11-04T15:42:00+00:00"
     },
     {
-     "titel": "Blauwe golf in Amerika: dit zijn de opvallende winnaars en verliezers van de midterms",
+     "titel": "Gerrymandering zonder effect: Democraten winnen in meerdere ‘heringerichte’ kiesdistricten",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/blauwe-golf-in-amerika-dit-zijn-de-opvallende-winnaars-en-verliezers-van-de-midterms~bc12198e/",
+     "link": "https://www.trouw.nl/buitenland/live-vs-positieve-stemming-op-wall-street-na-verkiezingszege-democraten~bbc0cf3d/",
      "bron": "Trouw",
-     "tijd": "15:22",
-     "sorteer": "2026-11-04T14:22:50+00:00"
+     "tijd": "16:55",
+     "sorteer": "2026-11-04T15:55:00+00:00"
+    },
+    {
+     "titel": "US midterm elections 2026 live updates: Democrats take control of Congress in major setback for Trump",
+     "context": "Democrats flip seven Senate seats in Kansas, Iowa, Texas, Maine, Ohio, North Carolina and South Carolina; ‘blue wave’ rejects Trump’s agenda Track live results from all 50 states Full report: Democrats win control of Congress Tell us: how do you feel about the midterm results? Wall Street surged at the open, after Democrats scored historic victories in midterm elections and secured control of US C",
+     "rubrieken": [
+      "US midterm elections 2026",
+      "US news",
+      "US Congress",
+      "US Senate",
+      "Trump administration",
+      "House of Representatives",
+      "Republicans",
+      "Democrats",
+      "US politics"
+     ],
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+     "bron": "The Guardian",
+     "tijd": "16:39",
+     "sorteer": "2026-11-04T15:39:44+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Mike Johnson says he will not pursue House minority leader role – reports",
+     "context": "Reported move from the Republican speaker of the House comes in light of the party’s disastrous midterms defeat US midterms 2026 live – latest updates Tell us: what do you want to know about the midterm election results? Mike Johnson, the Republican speaker of the House, has said he is not planning to pursue the role of minority leader once his party loses its majority in the chamber, according to",
+     "rubrieken": [
+      "Mike Johnson",
+      "Republicans",
+      "US Congress",
+      "House of Representatives",
+      "US news",
+      "US politics",
+      "US midterm elections 2026"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/04/mike-johnson-house-leadership",
+     "bron": "The Guardian",
+     "tijd": "16:36",
+     "sorteer": "2026-11-04T15:36:38+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "8 Midterm Election Takeaways: A Democratic Landslide Punishes Trump’s Party",
+     "context": "Democrats won shocking victories all over the map and flipped the Senate and House with ease, leaving the president weakened. “There was a mood in the air, I guess,” he said.",
+     "rubrieken": [
+      "Midterm Elections (2026)",
+      "Republican Party",
+      "Democratic Party",
+      "Trump, Donald J",
+      "United States Politics and Government",
+      "Elections, Senate",
+      "Elections, House of Representatives",
+      "Redistricting and Reapportionment"
+     ],
+     "link": "https://www.nytimes.com/2026/11/04/us/politics/election-takeaways-democrats-win.html",
+     "bron": "New York Times",
+     "tijd": "16:32",
+     "sorteer": "2026-11-04T15:32:06+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Five Things to Know About Hakeem Jeffries",
+     "context": "The New York Democrat who is in line to be the first Black speaker was raised in Brooklyn, is a moderate who is cautious by nature and loves a hip-hop reference.",
+     "rubrieken": [
+      "Jeffries, Hakeem",
+      "House of Representatives",
+      "Democratic Party",
+      "Black People",
+      "New York State",
+      "United States Politics and Government",
+      "Midterm Elections (2026)",
+      "Content Type: Personal Profile"
+     ],
+     "link": "https://www.nytimes.com/2026/11/04/us/politics/hakeem-jeffries-what-to-know.html",
+     "bron": "New York Times",
+     "tijd": "16:06",
+     "sorteer": "2026-11-04T15:06:03+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Democrats warn Trump officials to keep records or risk criminal penalties after midterm victories",
+     "context": "Exclusive: letter sent to department and agency heads signals Democrats will look to investigate Trump officials A group of Democratic lawmakers are asking leaders in the Trump administration to preserve records in accordance with federal law or risk criminal penalties after voters across the country gave Democrats control of Congress. In a letter sent out to department and agency heads Wednesday ",
+     "rubrieken": [
+      "Trump administration",
+      "Democrats",
+      "Republicans",
+      "US Congress",
+      "US Senate",
+      "House of Representatives",
+      "US news",
+      "US politics",
+      "Donald Trump",
+      "US midterm elections 2026"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/04/democrats-warn-trump-officials-preserve-records",
+     "bron": "The Guardian",
+     "tijd": "16:00",
+     "sorteer": "2026-11-04T15:00:37+00:00",
+     "kop": "Midterms",
+     "taal": "en"
     },
     {
      "titel": "Candy and Smiles on MS NOW, and Some Regrets on Fox News",
@@ -314,6 +418,15 @@
      "taal": "en"
     },
     {
+     "titel": "Former federal prosecutor to lead Cornell sex assault investigation",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMjJvQ0dqMTY4UlFLMlFHTTR1cDJqTVdNZGNmNkVsVVU2dXpXWEUtd21QbFFHUGpKc3pTWUtQdkhfbkFYTTkzQ1YyQ01weEkySzhLNWtHTzBsWXFoR29JVlNDSm9YdVZIV1UxcF9PNmE5VFY5SlI5bjhUR3VYX3hZblRpOV9SYm8?oc=5",
+     "bron": "CNN",
+     "tijd": "15:53",
+     "sorteer": "2026-11-04T14:53:09+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
      "titel": "El-Sayed Celebrates Win for ‘the Unlikeliest of Candidates’",
      "context": "In Michigan, Abdul El-Sayed outlasted former Representative Mike Rogers in a Senate campaign marred by ugly attacks.",
      "rubrieken": [
@@ -337,57 +450,6 @@
      "taal": "en"
     },
     {
-     "titel": "A Night of Seismic Triumph for Democrats",
-     "context": "The Democratic Party wrested control of Congress from Republicans in a wave of midterm victories as voters delivered a scathing rebuke to President Trump.",
-     "rubrieken": [
-      "Midterm Elections (2026)",
-      "United States",
-      "United States Politics and Government",
-      "Elections, Governors",
-      "Democratic Party",
-      "Senate",
-      "Abbott, Gregory W (1957- )",
-      "Hinojosa, Gina (1973- )",
-      "Talarico, James",
-      "Kansas",
-      "Maine",
-      "Sacramento (Calif)",
-      "South Carolina",
-      "Texas",
-      "Republican Party",
-      "Trump, Donald J",
-      "House of Representatives"
-     ],
-     "link": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-photos.html",
-     "bron": "New York Times",
-     "tijd": "15:36",
-     "sorteer": "2026-11-04T14:36:24+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Americans on Why They Rejected Trump’s Republican Party",
-     "context": "A G.O.P. voter in Kansas put it bluntly: “The Republican Party has lost its way.”",
-     "rubrieken": [
-      "United States Politics and Government",
-      "Midterm Elections (2026)",
-      "Elections, Senate",
-      "Republican Party",
-      "Democratic Party",
-      "Trump, Donald J",
-      "Collins, Susan M",
-      "Talarico, James",
-      "Nordone, Darline Graham",
-      "United States"
-     ],
-     "link": "https://www.nytimes.com/2026/11/04/us/elections/midterms-mood.html",
-     "bron": "New York Times",
-     "tijd": "15:34",
-     "sorteer": "2026-11-04T14:34:32+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
      "titel": "Where Trump and Republicans lost the midterms – a visual analysis of the key states",
      "context": "The Democrats have taken control of the Senate and the House of Representatives. These charts and maps reveal the key trends and races behind this result Live results from all 50 states The Republicans have lost seven Senators, 25 House districts and five governor races. As of 9.25am Eastern Time (ET) on Wednesday, more than 1,900 of nearly 2,500 counties with Senate elections had returned more th",
      "rubrieken": [
@@ -407,58 +469,7 @@
      "taal": "en"
     },
     {
-     "titel": "‘We want our taxes spent here’: 11 Democrats weigh in after sweeping the US midterm elections",
-     "context": "Democratic leaders and seat-flipping victors from Tuesday’s ‘blue tsunami’ offer post-election comments The broad repudiation of Donald Trump , his policies and the Republican party, focused on Trump’s personal unpopularity, high costs of living and the Iran war, offer Democrats an opportunity to reset the US domestic agenda. But what will they do with it? Here, Democratic leaders and seat-flippin",
-     "rubrieken": [
-      "US midterm elections 2026",
-      "US politics",
-      "US news",
-      "Hakeem Jeffries",
-      "Barack Obama",
-      "Democrats",
-      "Chuck Schumer",
-      "Texas",
-      "Maine",
-      "US Congress",
-      "US Senate",
-      "Michigan",
-      "Ohio",
-      "New Mexico",
-      "Kansas",
-      "South Carolina",
-      "North Carolina",
-      "House of Representatives"
-     ],
-     "link": "https://www.theguardian.com/us-news/2026/nov/04/democrat-midterm-election-remarks",
-     "bron": "The Guardian",
-     "tijd": "15:33",
-     "sorteer": "2026-11-04T14:33:21+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "US midterm elections 2026 live updates: Democrats take control of Congress in major setback for Trump",
-     "context": "Democrats flip seven Senate seats in Kansas, Iowa, Texas, Maine, Ohio, North Carolina and South Carolina; ‘blue wave’ rejects Trump’s agenda Track live results from all 50 states Full report: Democrats win control of Congress in ‘blue wave’ Tell us: how do you feel about the US midterm election results? Tell us: what do you want to know about the midterm election results? Reporting from Austin, Te",
-     "rubrieken": [
-      "US midterm elections 2026",
-      "US news",
-      "US Congress",
-      "US Senate",
-      "Trump administration",
-      "House of Representatives",
-      "Republicans",
-      "Democrats",
-      "US politics"
-     ],
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
-     "bron": "The Guardian",
-     "tijd": "15:27",
-     "sorteer": "2026-11-04T14:27:29+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Dow futures jump by 1,100 points as Democrats take control of Congress",
+     "titel": "Dow jumps by 1,000 points as Democrats take control of Congress",
      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vQVR4WDhsdUVseFU4eUgwa2c4aDRnWFFYV2p3X2o0OEJNbnEwUzl4dXdxd05rZHFXckg5TXB3X3YtX3pLbkxSUWJYdUlpb1NRSlhoRmMyMXd0WUJnNTN0c0hfS3M3SUI3dDJjT2N3VGpxXzdMdGctaQ?oc=5",
      "bron": "CNN",
      "tijd": "15:14",
@@ -467,65 +478,59 @@
      "taal": "en"
     },
     {
-     "titel": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
-     "context": "With many seats still to come in, the Democrats have taken control of the Senate, House and several key governorships. Find live updating results in full here Visual analysis: the key states and trends behind Republicans losses US midterm elections – live updates The US legislature, Congress, has two chambers: the House of Representatives and the Senate. Continue reading...",
+     "titel": "‘Why don’t you move to Paris?’ An American artist in the City of Light",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jeGNyTFhVdXdiZHdFUXlnM2liUWZQM0JaY0ZtSmE2SGZhZmJmM3h0MzdIQXE3Nmc0M3U4ME0tOHJqQmsyVG8ybVJHNF9fcWtoVW4xTE5TYWV0WFFtTHNwRm1KNlJSRG5OUW9yeQ?oc=5",
+     "bron": "CNN",
+     "tijd": "15:00",
+     "sorteer": "2026-11-04T14:00:15+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "CVS to split into two companies, in major breakup of its $117 billion healthcare empire",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJMk5Hb0JPYzlTU0ZOay0wUzdOYnp6bm9Fdm9JclFnMjdfeEd1dXFJaTAxWmF4QnRzSnladmJvU0lTMVZ6ei1BUkg1dzE3ZjlfR2dhNTBmRER4dzc4bHJ0ajMwUHVQZ1YxWGZjM2lBSHNkYlA4SnVQcWs5UQ?oc=5",
+     "bron": "CNN",
+     "tijd": "14:40",
+     "sorteer": "2026-11-04T13:40:13+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Palestine Action activists used similar tactics to the suffragettes, court told",
+     "context": "Lawyers for direct action group say decision to proscribe organisation as terrorist group is attack on freedom of speech and protest Palestine Action was banned as a terrorist group after using tactics similar to - or less extreme than – the suffragettes, the UK’s highest court has heard. Huda Ammori, a co-founder of Palestine Action, is challenging last year’s decision to proscribe the direct act",
      "rubrieken": [
-      "US midterm elections 2026",
-      "House of Representatives",
-      "US Senate",
-      "US news",
-      "World news",
-      "Democrats",
-      "Republicans",
-      "US politics"
+      "Palestine Action",
+      "Protest",
+      "Activism",
+      "UK news",
+      "UK supreme court"
      ],
-     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-elections-full-results-senate-house-governor-races",
+     "link": "https://www.theguardian.com/uk-news/2026/nov/04/palestine-action-tactics-suffragettes-uk-supreme-court",
      "bron": "The Guardian",
-     "tijd": "15:10",
-     "sorteer": "2026-11-04T14:10:29+00:00",
-     "kop": "Midterms",
-     "taal": "en"
+     "tijd": "16:49",
+     "sorteer": "2026-11-04T15:49:33+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
-     "titel": "Look of the Week: Glenn Close and her six-foot impersonator demand a double take",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4taVpNRVI5NE9xUlJLY2dSbWF3RHlwSUdoWjJoaWZCN2MtcmZpcGJ6OG13R1BoakpDU1BtYktiNWRpRzJyXy16U3k5YVd3V1VEY003elc3YzBaTHN2cW9JR2xTUlJEdVpSbUlBaUdQZm9Remsy?oc=5",
-     "bron": "CNN",
-     "tijd": "13:33",
-     "sorteer": "2026-11-04T12:33:59+00:00",
-     "kop": "Midterms",
-     "taal": "en"
+     "titel": "Israel's president to begin consultations with parties after election deadlock",
+     "context": "Herzog warned politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "16:45",
+     "sorteer": "2026-11-04T15:45:45+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
-     "titel": "Key Iranian leader responds to US midterms",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeVZiX0pUVGI5bFpZcHF5TUdKSks2cFNCdmFhbEtZYW80QVRwZlRycWZvZjdCWEI0WFptY1dQdVRkclpieTZzUFBYdFlYQ3VhNUZ2WkpmYUM5cDZ4bzVRREVaVXlKaHMtcXBDUW1iV2dKSHQwYmZQbkNkZDkwdC1ieTB5US1VbGlpckoxcGwtc1ZLYWdHR1liU2Q3WU56ckEyNWc?oc=5",
-     "bron": "CNN",
-     "tijd": "13:29",
-     "sorteer": "2026-11-04T12:29:00+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Key Takeaways From Historic Midterms",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ3A3ZzdWRmx0RHdLUGdHRG55OWd2bTg4YWZ6UmVBQnhwX0RodlRRZlVJMVZ2RVFrXy1lYVdGdVZZQjZueTlOcldnaDZTNktfQURfWGhJSmVLcWpabXhNeDZrcjRvMmxMSDczZVhrZDBwdGtTVm1HQVZFYXk5RVdEODFZLTcyZlhqLW5KaWh6b1lxOWM?oc=5",
-     "bron": "CNN",
-     "tijd": "13:09",
-     "sorteer": "2026-11-04T12:09:07+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "ANC faces anger over poor services as South Africans vote in local elections",
-     "context": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts The African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure. The former liberation movement, which Nelson Mandela led to power in 1994 at ",
-     "rubrieken": [
-      "South Africa",
-      "ANC (African National Congress)",
-      "Africa",
-      "World news"
-     ],
-     "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-     "bron": "The Guardian",
-     "tijd": "15:46",
-     "sorteer": "2026-11-04T14:46:54+00:00",
+     "titel": "Secret police files released in Hungary, 47 years after fall of communism",
+     "context": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "16:28",
+     "sorteer": "2026-11-04T15:28:18+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -552,19 +557,8 @@
      ],
      "link": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
      "bron": "New York Times",
-     "tijd": "15:39",
-     "sorteer": "2026-11-04T14:39:08+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
-     "context": "Police have not made any arrests and an investigation is ongoing as authorities search for three teenage boys.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "15:35",
-     "sorteer": "2026-11-04T14:35:27+00:00",
+     "tijd": "16:21",
+     "sorteer": "2026-11-04T15:21:09+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -581,17 +575,6 @@
      "bron": "Politico Europe",
      "tijd": "15:35",
      "sorteer": "2026-11-04T14:35:14+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-     "context": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "15:17",
-     "sorteer": "2026-11-04T14:17:58+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -630,6 +613,15 @@
      "sorteer": "2026-11-04T13:52:50+01:00"
     },
     {
+     "titel": "'Ondergrondse bankier' uit Rotterdam verdacht van witwassen van miljoenen naar Turkije",
+     "context": "Bij een actie van Europol tegen een internationaal witwasnetwerk hebben Duitse en Nederlandse rechercheurs vijf verdachten aangehouden, onder wie een 55-jarige man uit Rotterdam. Hij wordt verdacht van betrokkenheid bij de ontvangst en verzending van contant geld ter waarde van circa 60 miljoen euro. De verdachte is volgens de politie vermoedelijk een illegale financieel intermediair, in de volksm",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638013",
+     "bron": "NOS",
+     "tijd": "13:43",
+     "sorteer": "2026-11-04T13:43:54+01:00"
+    },
+    {
      "titel": "Hoofdverdachte gehoord op eerste van negen zittingsdagen over explosie Tarwekamp",
      "context": "Vandaag is in de rechtbank in Den Haag de eerste van negen zittingsdagen in de strafzaak over de explosie aan de Tarwekamp in Den Haag. Vier mannen worden verdacht van het organiseren en uitvoeren van de verwoestende explosie in een flat in de wijk Mariahoeve. Bij de aanslag op een bruidsmodezaak onder in het gebouw op 7 december 2024 stortte een deel van het pand in en kwamen zes mensen om het le",
      "rubrieken": [],
@@ -666,32 +658,32 @@
      "sorteer": "2026-11-04T14:33:00+00:00"
     },
     {
+     "titel": "Na vijftien jaar juridische strijd: geen veroordeling krakers Passeerdersgracht Amsterdam",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSE5JbHl5U2ptX3hCS0NYOEtwUDZEak9JSnVBLThwSHJ4UDVHV1lpa294c3oyNzlLYkVURWxXN3FjT0xFV1VZMGIxODgtczNPTmJXbmxac0lINFdOQllfMU9iLWJieFRlX1NkREhydXd1a2ZkRDJKMWVDZXlQLWJXMzhVeFFsajB6M19qbzhlS1RNZFZJai0tb0swQl9scGpvRzN5RUF3MFVFc1JuUXB4bW1wb2kweUY4NTZhMF80NU45b24yQXRZNFVtREhrTWZ5RHFsOVVR?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "16:56",
+     "sorteer": "2026-11-04T15:56:44+00:00"
+    },
+    {
      "titel": "Praat mee: Is het terecht dat Marco Borsato 391.000 euro aan advocaatkosten terugvraagt van de Nederlandse staat?",
      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSHc0M09rTkdpbzFQQkZmZExjWlcwRE1DVE1odlNVSlZ1SnNKblFMclpCakQtTVplS1YyeXFMcEItMVY0WGNfTFo4YVJxY0w3SGtEbmhicTQyX2FJVUloSXdrMmNldFFCVjBrOHd0d2x1NkNLLURacHdjQUg3azNzNU85ckpxX29kYUFpbUFHZmRqRE9WWmpYV1YxYzNsVjgyUVBmc2JiRGpfbjJXTzd2bjF5LTQwX185MXE1VUxVVzI4RGNLbWg0cl9rYVdoN0ZlSkxKZmg1blFiNW84V1pJX0pjYnJDcVlHaGl6aHJ3?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "15:28",
-     "sorteer": "2026-11-04T14:28:58+00:00"
+     "tijd": "16:31",
+     "sorteer": "2026-11-04T15:31:56+00:00"
     },
     {
-     "titel": "Ruim vier ton advocatenkosten in strafzaak Marco Borsato ’noodzakelijk en onvermijdelijk’",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSXBMLTNpUHBRTk4tWWtpbUhZcmdSZUJoU3p6WmJ1MFJNV18wNThSbVpwZDJ6OFBxVVdOQll1TzBaclJiV2Z5NnU2b3hRMllHTXpaejRlUlVQV1B3ZUpYMWxuZHJLTjZMel9vOEM0cDM2VlhKWTN3RE5QdzlhV0VwaEE0WjRyU2Myc0FYc2x6RWViU0NSeUw3enZWdEJyczluNnBoSW9FdTZWX3FXYjByRUdIaE51N3N1aFdQenl3UXFFUjNjTGpKNlhNS253NTQ0S1J2Yw?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "14:58",
-     "sorteer": "2026-11-04T13:58:55+00:00"
+     "titel": "Debat over belastingplan Kabinet Jetten van start",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNnZLT1hXNkMtalREd1luSnJqb3k1Mk5Xb0x2VjB2QnNDMlNmOFhPOFFXLUNIeS1ZZ1c2X1BrREc1dlJubzgzQkYyR2xFNUFJbnFVQzMzNVJZdzQ4RzhaNDN0YlI0a1YzeDc0NXRPREx1bFdnelFZRlRHMGloT29LVQ?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "16:14",
+     "sorteer": "2026-11-04T15:14:28+00:00"
     },
     {
-     "titel": "Vijf mannen opgepakt voor onderwatersmokkel van cocaïne in IJmuiden",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYlg2QlpqRVFKTXY2ZlZCN0lsSHc3X3E1RHM4U0c5eEhwLTMxUWlrZkhFZ05EQmk0UDJza1ctTGVDVDlnaXJHLVE3OEQzLW83VlBsYmo5dDh4a3RHTXB4dlZCUkZNaGhXM3BTZDZtUFZkUnJlXzI2R0pmNlYyMU1JWHlYWmI2aG9nSGlsNmtjS1ZybVpGWVVtYzAxbS1CcHNoTy13MXRWWHZqaEJ6ekE?oc=5",
-     "bron": "Het Parool",
-     "tijd": "14:54",
-     "sorteer": "2026-11-04T13:54:43+00:00"
-    },
-    {
-     "titel": "Vrouw aangereden op rotonde in Zwolle",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObzBITnJsaWZoSlNjeEJrb0tzWmlPOGp6N250ZDAtOXd0WV85cFZBaHBEa29QcmxJdXp4SGY1blZOZE1MeXNJTGNRQWVIelFwQS12ZFhyQ040YlVNbU9IRFVHMjZEem0wZVF4SVBORDlNUnBhTW1zZEcwZExYQklralpuV2U2aVdhTGJzMmg3VnI2WDdZ?oc=5",
-     "bron": "de Stentor",
-     "tijd": "15:25",
-     "sorteer": "2026-11-04T14:25:01+00:00"
+     "titel": "Kies Leven is aanhoudingen beu. ‘Politie vindt aanwezigheid bij abortuskliniek al verstorend’",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWV9GMGNWeElMeGUwZG9NMG04TUI3SlBHbXRtOVZDLThmZVN0UUxBbElHT2NZWmpka2gyYXNCamNxeFdkeFNWemtxWkNhQWM4Z3NhVGJIVGVoQzQ5UTM4S1FBdkFHblhpX09MSjBLc1pPLUlITHZQUzJqVFJONWpiXy1IdzVrNFVmT0JkVW4zc2VfUWJLM3hESFgyUmJYNWlJU2pKTTNxbw?oc=5",
+     "bron": "Nederlands Dagblad",
+     "tijd": "16:00",
+     "sorteer": "2026-11-04T15:00:00+00:00"
     },
     {
      "titel": "Goddank, een beetje democratische hoop in Trumpiaanse tijden",
@@ -723,15 +715,14 @@
      "sorteer": "2026-11-04T19:05:00"
     },
     {
-     "titel": "Nieuwsuur: Debat over Belastingplan nadert • Midterms in Michigan",
-     "context": "Vrijdag debat over Belastingplan Het kabinet krijgt bij de behandeling van het Belastingplan te maken met drie oppositieblokken, die ieder op hun eigen manier naar de voorstellen kijken. Hoe reageren de verschillende blokken op de plannen van het kabinet? En welke punten vinden zij belangrijk in aanloop naar het debat van morgen? Nieuwsuur blikt vooruit op de politieke behandeling. ChristenUnie-le",
+     "titel": "Nieuwsuur: Overwinning Democraten zet Trump onder druk • Debat over belastingplan",
+     "context": "Democraten winnen verkiezingen overtuigend De Democraten hebben bij de Amerikaanse verkiezingen een overtuigende overwinning geboekt. In verschillende staten die twee jaar geleden nog rood kleurden, hebben de Republikeinen terrein verloren. In Texas, Kansas en Michigan zijn opvallende resultaten geboekt, met onder anderen nieuwe Democratische senatoren die geschiedenis schrijven. De uitslag zorgt ",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2637884",
+     "link": "https://nos.nl/l/2638040",
      "bron": "NPO2 · 22:00",
      "tijd": "22:00",
      "sorteer": "2026-11-04T22:00:00",
-     "kop": "Vanavond op tv",
-     "vervolg": "stond gisteren ook in de briefing"
+     "kop": "Vanavond op tv"
     },
     {
      "titel": "Pauw & De Wit",
@@ -748,6 +739,15 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Doof en toch dj: Zwollenaar DJ KULI laat zien dat muziek voor iedereen is",
+     "context": "Muziek maken terwijl je doof bent? Voor Peter Jan Rijpkema, beter bekend als DJ KULI uit Zwolle, is het de normaalste zaak van de wereld. Al vijftien jaar draait hij muziek en laat hij zien dat zijn doofheid hem niet tegenhoudt. \"Vijftien jaar ervaring, heel veel leren en heel veel drempels overgaan.\"",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/cultuur/3712050/doof-en-toch-dj-zwollenaar-dj-kuli-laat-zien-dat-muziek-voor-iedereen-is",
+     "bron": "RTV Oost",
+     "tijd": "16:26",
+     "sorteer": "2026-11-04T15:26:24+00:00"
+    },
     {
      "titel": "Faillissement voormalig bedrijf volkszanger Frank van Etten roept vele vragen op",
      "context": "Het boekingskantoor wordt in één adem genoemd met de populaire volkszanger Frank van Etten. Zero Bookings werd gisteren failliet verklaard en er ligt voor meer dan een miljoen euro aan schulden. Het bankroet roept veel vragen op. \"Ik ben al een tijdje uit dit bedrijf, heb ook geen idee wat hier speelt.\"",
@@ -798,15 +798,16 @@
      "sorteer": "2026-11-04T10:27:42+00:00"
     },
     {
-     "titel": "Motorrijder uit Delden overleden bij frontale botsing N36",
-     "context": "Bij een ernstig ongeluk op de N36 bij Diffelen is woensdagochtend een motorrijder om het leven gekomen. Het gaat om een 59-jarige man uit Delden. De motorrijder botste frontaal op een auto. De weg is inmiddels weer open.",
+     "titel": "Anne Nijburg heeft nieuwe expositie bij Saam-Welzijn Nieuwleusen",
+     "context": "NIEUWLEUSEN – Gaan kunst en welzijn samen? Volgens Anne Nijburg uit Nieuwleusen wel. “Kunst maken of ervan genieten zorgt voor welzijn. Welzijn zorgt uiteindelijk voor het ontplooiing van diverse kunsten. En veel meer zo is te ervaren in het gebouw van Saam-Welzijn in Nieuwleusen aan het Oosterveen 21.” Op dit moment loopt er een expositie […]",
      "rubrieken": [
-      "breaking"
+      "Evenementen",
+      "Nieuwleusen"
      ],
-     "link": "https://www.oost.nl/nieuws/3715245/motorrijder-uit-delden-overleden-bij-frontale-botsing-n36",
-     "bron": "RTV Oost",
-     "tijd": "09:34",
-     "sorteer": "2026-11-04T08:34:09+00:00"
+     "link": "https://www.dalfsennet.nl/nieuws/555947/anne-nijburg-heeft-nieuwe-expositie-bij-saam-welzijn-nieuwleusen.html",
+     "bron": "DalfsenNet",
+     "tijd": "16:17",
+     "sorteer": "2026-11-04T15:17:13+00:00"
     },
     {
      "titel": "Nog meer paddenstoelen",
@@ -820,19 +821,6 @@
      "bron": "DalfsenNet",
      "tijd": "13:43",
      "sorteer": "2026-11-04T12:43:04+00:00"
-    },
-    {
-     "titel": "Er is een nieuw overlijdensbericht",
-     "context": "OMMEN – Er is een nieuw overlijdensbericht geplaatst op DalfsenNet.nl Mogelijk gaat dit bericht over een goede bekende van u. Klik hier om het bericht te lezen.",
-     "rubrieken": [
-      "Ingezonden bericht",
-      "Laatste nieuws",
-      "Ommen"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/555932/er-is-een-nieuw-overlijdensbericht-115.html",
-     "bron": "DalfsenNet",
-     "tijd": "13:10",
-     "sorteer": "2026-11-04T12:10:51+00:00"
     }
    ]
   },
@@ -841,16 +829,6 @@
    "titel": "Politie en justitie",
    "emoji": "🚔",
    "items": [
-    {
-     "titel": "Enschede - Tips uit de buurt leiden tot drie aanhoudingen voor handel in harddrugs",
-     "context": "De politie heeft op dinsdag 27 oktober een inval gedaan aan de Deurningerstraat in Enschede. Hierbij zijn drie verdachten aangehouden voor drugshandel. Ook zijn er meerdere vuurwapens en is er een handelshoeveelheid drugs aangetroffen. Het onderzoek gaat verder.",
-     "rubrieken": [],
-     "link": "https://www.politie.nl/nieuws/2026/oktober/28/02-tips-uit-de-buurt-leiden-tot-drie-aanhoudingen-voor-handel-in-harddrugs.html",
-     "bron": "Politie Overijssel",
-     "tijd": "16:44",
-     "sorteer": "2026-10-28T15:44:00+00:00",
-     "kop": "Politie"
-    },
     {
      "titel": "Zwolle - Politie treft vuurwerk en op vuurwapen gelijkende voorwerp aan in meerdere woningen bij actie",
      "context": "Op donderdag 15 oktober deden diverse agenten uit het district IJsselland mee aan een hackathon. Een hackathon heeft niets te maken met hacken maar is een evenement waarin teams van deelnemers non-stop bezig zijn om binnen een korte tijd oplossingen voor aangereikte zaken te bedenken. Collega’s van het basisteam, recherche, intelligence, digitale opsporing en milieu zijn met een officier van justi",
@@ -900,7 +878,7 @@
      "sorteer": "2026-11-04T14:23:53+00:00"
     },
     {
-     "titel": "Door AI hangt er veel rook op de arbeidsmarkt. Maar is er ook vuur?",
+     "titel": "Jonge, hoogopgeleide kenniswerkers krijgen op de arbeidsmarkt last van AI. Welke banen veranderen het snelst?",
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDR6MXlITjFHdm5wWGdza2RyZTFLdXlxN0lJREx4R0JKTkRRVGtqY2QtU1V2Wi16anJITFVnbF9JRklqR1dfb3NIZXd2WGRoa1RlLW52LWJ1MWdRcTdJZGZNbjBWMVpXNjdrLTg1Sks4NElVTzBrU3VYV2RiRzBlY0RKN2N2ZU81aU5RMThZb1hxYUFQc3hPcG83N3FQNENUdkJibDByT3dVcGFfV0lTYg?oc=5",
      "bron": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
      "tijd": "14:31",
@@ -1105,7 +1083,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "16:00",
+    "bijgewerkt": "17:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1561,42 +1539,42 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 144 soorten, 55.627 vogels geteld",
+     "titel": "Landelijk vandaag: 168 soorten, 135.211 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch"
     },
     {
-     "titel": "Spreeuw — 19.316",
+     "titel": "Spreeuw — 43.222",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch"
     },
     {
-     "titel": "Vink — 5.940",
+     "titel": "Brandgans — 19.887",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch"
     },
     {
-     "titel": "Kolgans — 5.653",
+     "titel": "Kraanvogel — 8.577",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch"
     },
     {
-     "titel": "Kauw — 2.962",
+     "titel": "Kolgans — 7.992",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch"
     },
     {
-     "titel": "Kramsvogel — 2.876",
+     "titel": "Kievit — 7.443",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -1604,16 +1582,32 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Kraanvogel springt eruit — 732, normaal 212",
-     "bron": "3× het gewone niveau",
+     "titel": "Bonte Strandloper springt eruit — 1.475, normaal 9",
+     "bron": "164× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch",
-     "sein": false
+     "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Buizerd springt eruit — 218, normaal 70",
-     "bron": "3× het gewone niveau",
+     "titel": "Kraanvogel springt eruit — 8.577, normaal 212",
+     "bron": "40× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Steenloper springt eruit — 58, normaal 5",
+     "bron": "12× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Buizerd springt eruit — 590, normaal 70",
+     "bron": "8× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261104?language=dutch",
      "sein": false
@@ -1628,11 +1622,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Goed pestvogeljaar — 128 meldingen in de afgelopen week, waarvan 11 vandaag",
+     "titel": "Goed pestvogeljaar — 130 meldingen in de afgelopen week, waarvan 13 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 124 vogels in de nieuwste meldingen"
+     "vergelijking": "samen 125 vogels in de nieuwste meldingen"
     },
     {
      "kop": "Pestvogels",
@@ -1674,16 +1668,16 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 9.0,
-    "gevoel": 6.3,
-    "wind": "ONO 3",
+    "nu": 8.0,
+    "gevoel": 6.1,
+    "wind": "ONO 2",
     "station": "Heino",
     "bericht": "Dankzij een hogedrukgebied zal het komende dagen vrij zonnig zijn maar vanwege de schrale oostenwind zal het wat kouder aanvoelen dan de temperatuur die de thermometer aangeeft. Vandaag kan het overigens regionaal nog tegenvallen met de zon maar vanavond klaart het overal op. In de nacht naar vrijdag of zaterdag is er kans op de eerste vorst Vanavond verdwijnt de meeste bewolking en koelt het snel af.",
     "vandaag": "Vandaag kan het overigens regionaal nog tegenvallen met de zon maar vanavond klaart het overal op. Vannacht blijft het op veel plaatsen tamelijk helder.",
     "temperatuur": "De minimumtemperatuur op anderhalve meter varieert van 5 graden langs de kust tot een graad of 2 in het oosten en zuidoosten.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: 4 tot 9 graden, droog, ruim 6 uur zon, wind uit het oosten, kracht 3.",
-     "max": 9,
+     "zin": "Voor Dalfsen zelf: 4 tot 10 graden, droog, ruim 8 uur zon, wind uit het oosten, kracht 3.",
+     "max": 10,
      "min": 4,
      "regenkans": 2,
      "omschrijving": "lichte motregen"
