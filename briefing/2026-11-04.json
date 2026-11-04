@@ -3,13 +3,15 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "21:00",
+  "opgehaald": "22:01",
   "blokken": 10,
-  "berichten": 112,
-  "problemen": [],
+  "berichten": 110,
+  "problemen": [
+   "pauw & de wit: timeout"
+  ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-04T21:00+01:00",
+ "opgehaald": "2026-11-04T22:01+01:00",
  "audio": "audio/20261104.mp3",
  "afval": [
   {
@@ -270,22 +272,22 @@
      "sorteer": "2026-11-04T16:43:19+01:00"
     },
     {
-     "titel": "Duizelingwekkende veroveringstocht Democraten: Amerikanen rekenen af met tijdperk-Trump",
+     "titel": "Drinkwatervoorziening Kyiv kampt door Russische aanvallen met ‘ernstigste verstoringen’ sinds begin invasie",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/duizelingwekkende-veroveringstocht-democraten-amerikanen-rekenen-af-met-tijdperk-trump~bc097074/",
+     "link": "https://www.volkskrant.nl/buitenland/drinkwatervoorziening-kyiv-kampt-door-russische-aanvallen-met-ernstigste-verstoringen-sinds-begin-invasie~bde4fbe2/",
      "bron": "de Volkskrant",
-     "tijd": "18:50",
-     "sorteer": "2026-11-04T17:50:00+00:00"
+     "tijd": "21:27",
+     "sorteer": "2026-11-04T20:27:00+00:00"
     },
     {
-     "titel": "Gekortwiekte Trump kan zich nog laten gelden in conflicten Iran en Oekraïne",
+     "titel": "Trump geeft toe dat Iran-oorlog rol speelde bij electorale afstraffing, maar ‘zou niets anders doen’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/gekortwiekte-trump-kan-zich-nog-laten-gelden-in-conflicten-iran-en-oekraine~b0a92931/",
+     "link": "https://www.volkskrant.nl/buitenland/trump-geeft-toe-dat-iran-oorlog-rol-speelde-bij-electorale-afstraffing-maar-zou-niets-anders-doen~b782895d/",
      "bron": "de Volkskrant",
-     "tijd": "18:43",
-     "sorteer": "2026-11-04T17:43:28+00:00"
+     "tijd": "21:14",
+     "sorteer": "2026-11-04T20:14:00+00:00"
     },
     {
      "titel": "Trump en Vance wijzen naar de Iranoorlog als reden voor verlies midterms",
@@ -295,6 +297,99 @@
      "bron": "Trouw",
      "tijd": "20:00",
      "sorteer": "2026-11-04T19:00:00+00:00"
+    },
+    {
+     "titel": "US midterm elections 2026 live: Democrats hope for more wins in tight races as Trump downplays his role in blue wave",
+     "context": "Senate contests in Mississippi and Alaska are still too close to call after Republicans suffered historic losses across the country Live results | Republican losses mapped Tell us: how do you feel about the midterm results? Sign up for Breaking News US email Wall Street surged at the open, after Democrats scored historic victories in midterm elections and secured control of US Congress. The Dow Jo",
+     "rubrieken": [
+      "US midterm elections 2026",
+      "US news",
+      "US Congress",
+      "US Senate",
+      "Trump administration",
+      "House of Representatives",
+      "Republicans",
+      "Democrats",
+      "US politics"
+     ],
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+     "bron": "The Guardian",
+     "tijd": "21:47",
+     "sorteer": "2026-11-04T20:47:40+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "The Democratic Wave Swept Statehouses Across the Country",
+     "context": "Democrats won control of state governments in Wisconsin, Michigan, Minnesota, Pennsylvania, Nevada, and won chambers in Texas, Georgia and North Carolina.",
+     "rubrieken": [
+      "Midterm Elections (2026)",
+      "United States Politics and Government",
+      "State Legislatures",
+      "Elections, State Legislature",
+      "Redistricting and Reapportionment",
+      "Democratic Legislative Campaign Committee",
+      "Trump, Donald J"
+     ],
+     "link": "https://www.nytimes.com/2026/11/04/us/politics/state-legislatures-democrats-midterm-election.html",
+     "bron": "New York Times",
+     "tijd": "21:39",
+     "sorteer": "2026-11-04T20:39:47+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "California progressive Randy Villegas ousts longtime Republican in redrawn House district",
+     "context": "Community college professor unseats incumbent Republican David Valadao in seat redrawn under Prop 50 Democrat Randy Villegas, a community college professor with notable progressive endorsements, has won the race for California ’s 22nd congressional district in an contest that shaped up to be one of the toughest political battles in the state. He unseated the six-term, incumbent Republican congress",
+     "rubrieken": [
+      "US midterm elections 2026",
+      "California",
+      "US politics",
+      "West Coast",
+      "US news",
+      "World news",
+      "Democrats"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/04/california-22nd-district-house-midterms",
+     "bron": "The Guardian",
+     "tijd": "21:37",
+     "sorteer": "2026-11-04T20:37:17+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Trump boasts about ‘magnificent’ ballroom day after Republican rout",
+     "context": "US president rhapsodized about ballroom features for more than 20 minutes, with no mention of Democrats’ ‘blue wave’ Less than 24 hours after suffering historic party losses in the US midterm elections , Donald Trump gathered reporters and network TV cameras at the White House to congratulate his team. “The whole thing is a miracle, and it’s all because of you,” the US president said into a microp",
+     "rubrieken": [
+      "Donald Trump",
+      "Washington DC",
+      "US news",
+      "US politics",
+      "US midterm elections 2026"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/04/trump-ballroom-midterms-reaction",
+     "bron": "The Guardian",
+     "tijd": "21:34",
+     "sorteer": "2026-11-04T20:34:08+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Trump’s wealth dented after Democrats trounce Republicans in midterms",
+     "context": "Trump Media stock and WLFI coin saw declines but he is still $2.7bn wealthier than when he won election in 2024 Donald Trump’s wealth is falling along with his political fortunes. Tradeable investment assets that helped make the president more than $2bn during his first year in office are collapsing in value the day after the Democrats trounced the Republicans in the midterm elections. Trump Media",
+     "rubrieken": [
+      "Donald Trump",
+      "US midterm elections 2026",
+      "US news",
+      "US politics",
+      "Trump administration"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/04/trump-wealth-midterm-elections",
+     "bron": "The Guardian",
+     "tijd": "21:29",
+     "sorteer": "2026-11-04T20:29:09+00:00",
+     "kop": "Midterms",
+     "taal": "en"
     },
     {
      "titel": "How Troy Jackson Defeated Susan Collins in Maine, Ending Her 30 Year Senate Career",
@@ -355,104 +450,20 @@
      "taal": "en"
     },
     {
-     "titel": "How Trump’s Energy Policies Helped Trigger Midterm Rout",
-     "context": "The war in Iran, efforts to promote fossil fuels and attacks on renewable energy contributed to higher prices for gas and electricity that drove voter discontent.",
-     "rubrieken": [
-      "Oil (Petroleum) and Gasoline",
-      "Alternative and Renewable Energy",
-      "US and Israeli Attack on Iran (2026)",
-      "United States Politics and Government",
-      "Midterm Elections (2026)",
-      "Energy and Power"
-     ],
-     "link": "https://www.nytimes.com/2026/11/04/climate/trump-fossil-fuel-energy-policy-election.html",
-     "bron": "New York Times",
-     "tijd": "20:51",
-     "sorteer": "2026-11-04T19:51:40+00:00",
+     "titel": "Suspect among two dead after incident at Citibank Center near Tampa, sheriff says",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93RWRhUnlDS2FvdFRnNnNVMmdWRkU1RVNKTkZTR3BWRXVVNDQ5cDdzd3pDdFdUcXZfTlktS0xIcDJYUUxuWVAxVDFZUEdCa0w5Wk9DRnZtYXE1X3NKXzlRUTNjVXFJSFpqbkRuSUlVOW50Y1BKd0xV?oc=5",
+     "bron": "CNN",
+     "tijd": "20:14",
+     "sorteer": "2026-11-04T19:14:31+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
     {
-     "titel": "US midterm elections 2026 live updates: Trump defiant about brutal Republican losses and acknowledges Iran war’s unpopularity",
-     "context": "President again insisted that if he were on the ballot Republicans would have won, despite historic losses: ‘They just couldn’t transfer that love’ Live results | Republican losses mapped Tell us: how do you feel about the midterm results? Sign up for Breaking News US email Wall Street surged at the open, after Democrats scored historic victories in midterm elections and secured control of US Cong",
-     "rubrieken": [
-      "US midterm elections 2026",
-      "US news",
-      "US Congress",
-      "US Senate",
-      "Trump administration",
-      "House of Representatives",
-      "Republicans",
-      "Democrats",
-      "US politics"
-     ],
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
-     "bron": "The Guardian",
-     "tijd": "20:49",
-     "sorteer": "2026-11-04T19:49:55+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "What will Democrats do with the blue tsunami? – Stateside with Kai and Carter",
-     "context": "The historic Democratic victories in the 2026 midterm elections were more than just a rebuke of Donald Trump and his Maga movement – they are a five-alarm fire for the Republican party itself, which may be on the verge of collapse. The sweeping wins in GOP strongholds like Texas, Iowa and Kansas reveal an electorate that is fed up and eager for change. But that anger could turn on Democrats – quic",
-     "rubrieken": [
-      "US midterm elections 2026",
-      "Republicans",
-      "Democrats",
-      "Donald Trump",
-      "US politics"
-     ],
-     "link": "https://www.theguardian.com/us-news/video/2026/nov/04/democrats-blue-tsunami-us-midterms",
-     "bron": "The Guardian",
-     "tijd": "20:49",
-     "sorteer": "2026-11-04T19:49:04+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "The midterms were a thumping rebuke of the US-Israel relationship",
-     "context": "Even Trump seems to recognize that the relationship has become a political liability, and may never be the same On the eve of a midterm election that ended in an unequivocal rejection of his brand of politics, even Donald Trump seemed to recognize that the US-Israel relationship had become a political liability. Trump’s 11th-hour suggestion, on election morning, that he would cut military aid to I",
-     "rubrieken": [
-      "US midterm elections 2026",
-      "Trump administration",
-      "US news",
-      "US politics",
-      "Israel",
-      "Donald Trump",
-      "Middle East and north Africa",
-      "Israel-Gaza war",
-      "US foreign policy",
-      "Democrats",
-      "Republicans"
-     ],
-     "link": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
-     "bron": "The Guardian",
-     "tijd": "20:22",
-     "sorteer": "2026-11-04T19:22:43+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "US voters rebuke Trump as Democrats win control of Congress in ‘blue wave’",
-     "context": "President’s party stripped of control after he spent weeks pleading with Americans to pretend he was on ballot US midterm elections – live updates Track live results from all 50 states Tell us: what do you want to know about the midterm election results? The United States woke up to a radically altered political landscape on Wednesday after Donald Trump was dealt a devastating blow in the midterm ",
-     "rubrieken": [
-      "US midterm elections 2026",
-      "House of Representatives",
-      "Republicans",
-      "Donald Trump",
-      "Democrats",
-      "US politics",
-      "Trump administration",
-      "US news",
-      "World news",
-      "US Senate",
-      "Texas"
-     ],
-     "link": "https://www.theguardian.com/us-news/2026/nov/04/democrats-house-midterm-elections-results",
-     "bron": "The Guardian",
-     "tijd": "20:22",
-     "sorteer": "2026-11-04T19:22:04+00:00",
+     "titel": "Jeffries hasn’t talked to Trump and doesn’t list impeachment as top priority",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNHhBcmJIMGtvY2doMHhEbkJKT1EteFB1OGdrUXZpSHotc1hlV2IyVHN1Wm51ODd5QzFOOGQ1QkR6M1IzcVZUcWlCamV1ZEl4dkwxazEta0RwZWRFYUJvOXJ5cHdkMDRMZXFkUUItM2h1WW96RHMxTmN2Wlp1QS1wSU4tTHE0SllEOHBkNmlqck9ZMDQ?oc=5",
+     "bron": "CNN",
+     "tijd": "19:51",
+     "sorteer": "2026-11-04T18:51:52+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -466,15 +477,6 @@
      "taal": "en"
     },
     {
-     "titel": "Bob the poet, meet Bob the priest: Pope Leo receives Bob Dylan at the Vatican",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRU5ObEtwVHFXNnpsUzlpbWllRUE1b0wzZkxDRldxTzRpYkRvem1UMnkwa19nZzFfcjVtS28tS3NBN1F0bkprbWdUZ1Q3RlcydmVwMS1jOUhqVkFOMzVCNGFWcWtsSkg0aG54S0Y3Y0twTUhNOTdjVjI4SGRNVnBfaA?oc=5",
-     "bron": "CNN",
-     "tijd": "19:34",
-     "sorteer": "2026-11-04T18:34:07+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
      "titel": "Trump speaks about ballroom renovations, avoiding midterm election results",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGJvZU41UkliMjlmNkt2VTJaV2lRbFI2VnphcC1Rd2txb3RGRVNyYVFtbUpqZjllbVV2ZnN4N3pkUWdUdWF6VjE0RFhXZU1hWVJpTkswQXhBOG9zRkM4TVBPdnlOWjZ5UDh4eEhoSWVlNDJwdzRKV2N5cmctVVdfbXhTZVJpRzJwT3lMaWhZbmNjaG4zczRFX3E5bHpqNVFPT29neVJERQ?oc=5",
      "bron": "CNN",
@@ -484,17 +486,8 @@
      "taal": "en"
     },
     {
-     "titel": "Tears, cheers and disbelief: Voters celebrate as Democrats flip red states",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWNLdlg0Q19RWWRaTGthSTB1STRvcTByRWt2dVkwak9GYmN3T3E5eDdiemRHZEJiUFRadDJKcmxINEFjNmFhbklWTjllNzJib2Y3MXVOQVdVYkk2cS1TbU5rNG1wVUtiWVBXT01yOEVLTUxuUEZjamZWdVpMQm42X0prWTNTbHRrcEs4ZWZ4cTRtc1FfSzM3YV92S3JJdFNWUUNUOEVwc3VCbHoxaUZrT1pB?oc=5",
-     "bron": "CNN",
-     "tijd": "19:08",
-     "sorteer": "2026-11-04T18:08:00+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "John Frieda, Hairdresser to Royalty Who Built a Beauty Empire, Dies at 75",
-     "context": "A fixture of London’s high-fashion salon scene, his clients also included celebrities like Jacqueline Kennedy Onassis, Raquel Welch and Gwyneth Paltrow in a career that lasted more than 50 years.",
+     "titel": "John Frieda, Hair-Care Mogul Who Soothed Women’s Curls, Has Died",
+     "context": "He was a celebrity stylist to rock stars and royalty whose blockbuster product, Frizz Ease, changed his fortunes (and women’s hair) forever. He was 75.",
      "rubrieken": [
       "Frieda, John (1951-2026)",
       "Deaths (Obituaries)",
@@ -506,19 +499,34 @@
      ],
      "link": "https://www.nytimes.com/2026/11/04/style/john-frieda-dead.html",
      "bron": "New York Times",
-     "tijd": "20:57",
-     "sorteer": "2026-11-04T19:57:05+00:00",
+     "tijd": "21:53",
+     "sorteer": "2026-11-04T20:53:34+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Hungary releases secret police files from communist era",
-     "context": "The files reveal the names of the socialist regime's informant network, 70 years after the Soviet Union crushed the Hungarian revolution of 1956.",
-     "rubrieken": [],
-     "link": "https://www.politico.eu/article/hungary-releases-secret-police-files-from-communist-era/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "titel": "What’s bad for Trump is good for Le Pen",
+     "context": "Anger at the rising cost of living spells danger for incumbents everywhere.",
+     "rubrieken": [
+      "Cost of living",
+      "Far right",
+      "Politics"
+     ],
+     "link": "https://www.politico.eu/article/cost-of-living-europe-elections-france-spain-italy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
      "bron": "Politico Europe",
-     "tijd": "19:43",
-     "sorteer": "2026-11-04T18:43:55+00:00",
+     "tijd": "21:34",
+     "sorteer": "2026-11-04T20:34:35+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+     "context": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "21:22",
+     "sorteer": "2026-11-04T20:22:40+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -530,17 +538,6 @@
      "bron": "BBC",
      "tijd": "19:01",
      "sorteer": "2026-11-04T18:01:31+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-     "context": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "18:45",
-     "sorteer": "2026-11-04T17:45:58+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -597,6 +594,15 @@
      "sorteer": "2026-11-04T14:49:42+01:00"
     },
     {
+     "titel": "Vernieuwen alsof het altijd zo is geweest: Janneke Bierman is met bureau BiermanHenket Architect van het Jaar",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/binnenland/vernieuwen-alsof-het-altijd-zo-is-geweest-janneke-bierman-is-met-bureau-biermanhenket-architect-van-het-jaar~b77404fc/",
+     "bron": "de Volkskrant",
+     "tijd": "21:30",
+     "sorteer": "2026-11-04T20:30:20+00:00"
+    },
+    {
      "titel": "Strafzaak over explosie Tarwekamp van start: ‘Kijk wat ik met je winkel ga doen, binnenkort heb je die niet meer’",
      "context": "",
      "rubrieken": [],
@@ -606,29 +612,20 @@
      "sorteer": "2026-11-04T17:08:00+00:00"
     },
     {
-     "titel": "Oud-oprichters binden de strijd aan met Funda met nieuwe huizensite Homek die ‘makelaar niet ziet als een melkkoe’",
+     "titel": "Ongeloof in Amersfoort: museum blaast een Joodse expositie af uit vrees voor spanningen",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/oud-oprichters-binden-de-strijd-aan-met-funda-met-nieuwe-huizensite-homek-die-makelaar-niet-ziet-als-een-melkkoe~bed5b894/",
-     "bron": "de Volkskrant",
-     "tijd": "12:52",
-     "sorteer": "2026-11-04T11:52:55+00:00"
-    },
-    {
-     "titel": "‘We’re so happy’, klinkt het in de Amerikaanse boekwinkel in Amsterdam",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/we-re-so-happy-klinkt-het-in-de-amerikaanse-boekwinkel-in-amsterdam~b0f377a4/",
+     "link": "https://www.trouw.nl/binnenland/ongeloof-in-amersfoort-museum-blaast-een-joodse-expositie-af-uit-vrees-voor-spanningen~bfb0faf0/",
      "bron": "Trouw",
-     "tijd": "20:12",
-     "sorteer": "2026-11-04T19:12:00+00:00"
+     "tijd": "21:07",
+     "sorteer": "2026-11-04T20:07:12+00:00"
     },
     {
-     "titel": "Keeper reageert na fatale botsing: 'Moeilijkste dagen van mijn leven'",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdTQ2TmpiYnRvdkVMQjl3SVRndlEzLXE1OTlvRHl0eW9yNUpxWmdaSmdFeldESUlLRXRqYUp1eFJfb3Y3dlVBUEhBVkFhWlFESlNrdmtEbUQtbW1GTS1HS2hCal92NFFIdzJocHU5OWxJNzR3QldRYnJmbnhxc1lOdk5Fb0dBVlVkRjYxS2xzLXFxTTdYQUllNWdDTjFMN1Z5amc?oc=5",
-     "bron": "RTL.nl",
-     "tijd": "19:40",
-     "sorteer": "2026-11-04T18:40:37+00:00"
+     "titel": "Oppositie boos omdat coalitieleiders ontbreken bij belastingdebat",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMUFuM2Y0ZkRPSjZBOVJNVzZENUlKZVJnakxodWM2ZTBoUXhwSmtDMlVQUTUtWE5sT1ppYUxWSlpWamVQd2lHbExQejlHU1BveEViUVNzSGpOaFVvU015ekhtOEZEcEFqRi1EVmQ1bmlBaHRDTTFVc0EwTTJzTWZCUVpYS1FwSy1oSlNkLWlfR1VtMXdzWU9mcg?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "20:26",
+     "sorteer": "2026-11-04T19:26:48+00:00"
     },
     {
      "titel": "Nederland schuift Klaas Knot naar voren als kandidaat-president ECB",
@@ -638,18 +635,18 @@
      "sorteer": "2026-11-04T18:47:00+00:00"
     },
     {
+     "titel": "Ngo’s bezorgd over achterblijven klimaatgeld, willen actie op top",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOWg0emdBa2pRSUlSU2FOZnFuZU44LUYxejVCblR3RmR4VVFQUm9aaEV6eU5kaFFld3VFaUcxdWp6bVExMk00QjR1MmhMS3JkUFhYQnlrQW5Yc3FyVS1NSURpQXFrWWhWVFBfd3lOZHJnN0luMVU3d1RtcFZ2ekRMeFRRSE9UY01RR2NDc0w3Z2xJanJ1?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "19:41",
+     "sorteer": "2026-11-04T18:41:02+00:00"
+    },
+    {
      "titel": "Twee mannen niet meer verdacht na schietpartij in auto Rotterdam",
      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXJYRTRPR3kzYk5rV2JBbUFPeFp1OXdmcnloNGd1RFREa1JidGhxODg3Q2xTT1d2VGcwaG5CZDBjaXZzX1ZlRVo5QXFlWVl3Rkh5c0NMWGJ6TTUxRnNPSHBMRHNtYzRMU0x6OGhUaFVhQU1LdkpWazFQOFptSXptVTFRQktPRlAyVVFOb2J3eGRBYldK?oc=5",
      "bron": "Reformatorisch Dagblad",
      "tijd": "19:39",
      "sorteer": "2026-11-04T18:39:30+00:00"
-    },
-    {
-     "titel": "Minister Van Weel zet bij bezoek aan haven Moerdijk deur op een kier voor langgekoesterde wens",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOXlHbDF3ZmhtS0d0SXNZLVpib2VOY1JwNWhjY1VvTm0wVFhRUDJHTE9KUEJkamNtNFd6el9WODVMYi1VVzducnBDNmp0QXd0U0V4eUZKQkhVWFFDOG9LcnhnQldEdlhiaThRY3dKaW1Ockp2X0tGeUxPUm5BTFlnNkZ2SFdnQVBuV21MV3JVTGFsWjR6eEdXd1NLRDQ0MEVpWlVmc0k5SjZLSHluNVRDeDZMbEV4enVLVksybzVJZWxBZ2ZIaFNCcnN3?oc=5",
-     "bron": "Eindhovens Dagblad",
-     "tijd": "19:30",
-     "sorteer": "2026-11-04T18:30:02+00:00"
     },
     {
      "titel": "Vier dingen om op te letten nu de Republikeinen de verkiezingen hebben verloren",
@@ -673,59 +670,39 @@
      "sorteer": "2026-11-04T04:45:07+00:00"
     },
     {
-     "titel": "Live | Wilders wil duidelijkheid van D66 over 'open huwelijk' van coalitie",
+     "titel": "Live | VVD waarschuwt coalitiegenoten: 'Plan PRO gaat in tegen coalitieakkoord'",
      "context": "Hallo en welkom in dit liveblog. Hier houden wij (Priscilla Slomp en Edo van der Goot) je op de hoogte van het debat over het belastingplan van het kabinet.",
      "rubrieken": [
       "politiek"
      ],
-     "link": "https://www.nu.nl/politiek/6415485/wilders-wil-duidelijkheid-van-d66-over-open-huwelijk-van-coalitie.html",
+     "link": "https://www.nu.nl/politiek/6415485/vvd-waarschuwt-coalitiegenoten-plan-pro-gaat-in-tegen-coalitieakkoord.html",
      "bron": "NU.nl",
      "tijd": "15:02",
      "sorteer": "2026-11-04T15:02:20+01:00",
      "kop": "Begroting"
     },
     {
+     "titel": "Miljonairsbelasting splijt coalitie: laten D66, VVD en CDA elkaar los?",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMk0ydWJqWHptMW1PNE9ESDRNNC1VcW9JcXlKeTM2NVowYkJ1UTJreHZYVmFHdTBISzg1NTc4V1VTS3lfaG1RT0ZXWGdUNTdQYW1PdUR6REpjRWdwZWNSU2RDbmFkTzNsY1I2SEpjbXpkSjJZNEtuWVlYcm5DalhncGExTlpLS3BOOU9vZEJjLUVYUTlHdWR1YQ?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "21:14",
+     "sorteer": "2026-11-04T20:14:37+00:00",
+     "kop": "Begroting"
+    },
+    {
+     "titel": "CDA vindt voorstel PRO en Volt ver gaan, geeft geen uitsluitsel | Belastingvoorstel PRO is in strijd met coalitieakkoord, vindt VVD",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUGpDVHNxZE9tc000QUg2X0FsUExfRTFOX2s3U1d6U0hmOWNBWjhiMHU5OWlpT2FOU25FeVpFdnBUX0ZvYmkxU1RUekliaXpabmtmNmFOYUg4ekJuQnVXeDBhZEpoZWhFaGdlRzdMT0lTUmN6N25ybmp2N2hQT3J1cnpESGh1cWdES1BKTXh2TGlaMzY5eHpING55Q01rNll6ZVdPMW0zLWQzbW10NTFRdmRtekdocTkxWEctNUFFQVNUbHVQeC02NjUzbHRaZzZQZV8tcVFvbkUtMTc2SElXRndsam5WZGdT?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "21:10",
+     "sorteer": "2026-11-04T20:10:16+00:00",
+     "kop": "Begroting"
+    },
+    {
      "titel": "Debat over belastingplan zorgt voor verwarring in de Tweede Kamer: bestaat deze coalitie nog wel?",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/politiek/debat-over-belastingplan-zorgt-voor-verwarring-in-de-tweede-kamer-bestaat-deze-coalitie-nog-wel~b023488c/",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaGdvcmZ5M1AyaUxmLVBpVTZyOEp3cU16ZFh0VEdERXdNZmloNWg5eEh2ZklYWFlQaVBJQmRBMXA2U2hFN2xuOHpwOXV2aHlYUnpTNGpXYlRhNTlxQVFVYnlkWnU1MkpRb2dfZTJiV3BHRjQ1alBuR0YtZXFpdFNhRDdfYjVNbmJWM2xUSG02ZHRBbFZkQ2J0WUw5THh0clJEaDVPZHRhb3kwUF9FWG9SMG1BbWJTZXJkcHVKcDlBRVJxUXpQSkw1ZGlXdHpBNEtI?oc=5",
      "bron": "Trouw",
      "tijd": "20:56",
      "sorteer": "2026-11-04T19:56:01+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "VVD weerspreekt ‘open huwelijk’ in coalitie: ‘Ondenkbaar dat CDA en D66 voor amendement stemmen’",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY2dnLWhPTUdLRUZJVS1kMUdHeGNzbmNaclFueWV3a2d1VzdQOUxwdmk3T3FpbFJ2S3R2bkZUNDVScGtDRjZqRkFmZVJNa1d0ZmJyVWF2LXFJR0lVSnZYOXZDRXVPTDRlS1dDaVFjQ05nVXhVLUlrSTJrd0pBR0xodnEtTDlHQ05tN2JTVWNOa1VOQ0p2Vk9rUkVNTnR4RmVZUDM4aHczVnlJRlpIOWdkcTJEdXZoSy1mYm5wQVpHLURxMjQxQmpqdWpMTkhQT1dwZUF3OWMtOWFDdw?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "20:40",
-     "sorteer": "2026-11-04T19:40:26+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Coalitie stapt voor belastingplan over op open huwelijk: partijen laten elkaar bij stemming ‘eventueel los’",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNajVISmtpV0FZUjhxZlM0T0h5b2JtdU9YVjBOVG9pWEFwejJKa3R3NmljR0ZnUlNyeHpEczdYZURDckxwZUk2eXdmS1lhQTczQVhYQVByTXZTdUlEYWw1czExYXMzQ2lTay1UR0paOUJoei0zeUtCaFJTb2ZZT2FsZUtrUWJQWGw3WGRNNmYyQkFRYl9HRDI4bloxQlhHVVA0WXM2X3MzczlJUHA3ZEM0WVVOblVReklCQnQwWWpkNk5ORktLWFQ2Mi1LZGJIZl83aFozUHVEUVpDa2RLLWNyYllOQQ?oc=5",
-     "bron": "de Volkskrant",
-     "tijd": "20:39",
-     "sorteer": "2026-11-04T19:39:23+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Oppositie boos omdat coalitieleiders ontbreken bij belastingdebat",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMUFuM2Y0ZkRPSjZBOVJNVzZENUlKZVJnakxodWM2ZTBoUXhwSmtDMlVQUTUtWE5sT1ppYUxWSlpWamVQd2lHbExQejlHU1BveEViUVNzSGpOaFVvU015ekhtOEZEcEFqRi1EVmQ1bmlBaHRDTTFVc0EwTTJzTWZCUVpYS1FwSy1oSlNkLWlfR1VtMXdzWU9mcg?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "20:26",
-     "sorteer": "2026-11-04T19:26:48+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "VVD: ‘Ondenkbaar dat coalitiepartners voor belastingvoorstel Pro stemmen’",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/politiek/live-belastingplan-ondenkbaar-dat-coalitiepartners-voor-belastingvoorstel-pro-stemmen-zegt-vvd~b6fe20720/",
-     "bron": "Trouw",
-     "tijd": "19:56",
-     "sorteer": "2026-11-04T18:56:00+00:00",
      "kop": "Begroting"
     },
     {
@@ -767,8 +744,8 @@
      "kop": "Vanavond op tv"
     },
     {
-     "titel": "Pauw & De Wit: Sylvana Simons, Luc Stultiens, Ferd Grapperhaus & Twan Huys",
-     "link": "https://www.bnnvara.nl/pauw-de-wit/artikelen/woensdagavond-met-oa-sylvana-simons-luc-stultiens-ferd-grapperhaus-twan-huys",
+     "titel": "Pauw & De Wit",
+     "link": "https://npo.nl/start/serie/pauw-de-wit",
      "kop": "Vanavond op tv",
      "bron": "NPO1 · 22:25",
      "tijd": "22:25",
@@ -781,6 +758,15 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Het beste gras komt al eeuwen van Kampereiland, en dat levert unieke kaas op",
+     "context": "\"Welkom in de schatkamer van Erf 1\", lacht Irene, terwijl ze een luik in de schuur opentrekt. Een eeuwenoude stenen trap leidt naar een schemerige kelder, met daarin lange planken, vol met het goud van het bedrijf: terpkaas. Gemaakt van de melk van de eigen koeien, gerijpt in de oude terpkelder.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3703568/het-beste-gras-komt-al-eeuwen-van-kampereiland-en-dat-levert-unieke-kaas-op",
+     "bron": "RTV Oost",
+     "tijd": "21:05",
+     "sorteer": "2026-11-04T20:05:21+00:00"
+    },
     {
      "titel": "Van 'Sailing for Dummies' tot een eigen schip: het verhaal van Luca (28) uit Kampen",
      "context": "Van een zeilbootje dat hij ooit van z'n zakgeld kocht tot het roer van een veertig meter lange klipper. De liefde voor varen begon bij Luca Spano (28) al vroeg. Inmiddels laat hij vanuit de haven van Kampen zien hoe de eeuwenoude zeiltraditie en een beetje luxe hand in hand gaan op zijn schip De Hester.",
@@ -831,13 +817,16 @@
      "sorteer": "2026-11-04T13:26:39+00:00"
     },
     {
-     "titel": "Na 15 jaar eindelijk duidelijkheid: Hornbach komt definitief naar Almelo",
-     "context": "Bouwmarkt Hornbach mag definitief een vestiging realiseren in Almelo. De Raad van State hakte vandaag de knoop door. Verschillende bedrijven op de woonboulevard, zoals Beter Bed, Gamma en Praxis én omwonenden probeerden de komst van Hornbach te voorkomen.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3715231/na-15-jaar-eindelijk-duidelijkheid-hornbach-komt-definitief-naar-almelo",
-     "bron": "RTV Oost",
-     "tijd": "13:01",
-     "sorteer": "2026-11-04T12:01:16+00:00"
+     "titel": "Open dag Historische Kring Dalfsen in Oudleusen",
+     "context": "OUDLEUSEN – De werkgroep Oudleusen van de Historische Kring Dalfsen hield een open dag in de Wiekelaar. Aan het begin van de middag was het nog redelijk rustig, maar later nam de drukte duidelijk toe. Bezoekers konden zich verdiepen in de geschiedenis van Oudleusen. Er waren historische boeken te koop en er was hulp bij […]",
+     "rubrieken": [
+      "Laatste nieuws",
+      "Oudleusen"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/555993/open-dag-historische-kring-dalfsen-in-oudleusen.html",
+     "bron": "DalfsenNet",
+     "tijd": "21:21",
+     "sorteer": "2026-11-04T20:21:07+00:00"
     },
     {
      "titel": "Mobiele slager in Dalfsen",
@@ -851,19 +840,6 @@
      "bron": "DalfsenNet",
      "tijd": "20:48",
      "sorteer": "2026-11-04T19:48:41+00:00"
-    },
-    {
-     "titel": "Mooie foto",
-     "context": "DALFSEN – DEN BERG – Nog een mooie paddenstoel. Deze foto is gemaakt bij Huis den Berg, door Jan van den Berg.",
-     "rubrieken": [
-      "Dalfsen",
-      "Ingezonden bericht",
-      "Laatste nieuws"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/555986/mooie-foto-2.html",
-     "bron": "DalfsenNet",
-     "tijd": "20:13",
-     "sorteer": "2026-11-04T19:13:44+00:00"
     }
    ]
   },
@@ -1105,7 +1081,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "21:00",
+    "bijgewerkt": "22:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1645,7 +1621,7 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Goed pestvogeljaar — 132 meldingen in de afgelopen week, waarvan 15 vandaag",
+     "titel": "Goed pestvogeljaar — 133 meldingen in de afgelopen week, waarvan 16 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
@@ -1653,7 +1629,7 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "10 binnen 75 km van Dalfsen",
+     "titel": "11 binnen 75 km van Dalfsen",
      "bron": "dichtstbij: Zwolle - Centrale Harculo, 11 km (2026-10-31)",
      "tijd": "09:40",
      "link": "https://waarneming.nl/species/306/observations/"
@@ -1691,17 +1667,17 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 6.0,
-    "gevoel": 3.1,
+    "nu": 5.6,
+    "gevoel": 2.8,
     "wind": "ONO 3",
     "station": "Heino",
     "bericht": "Het is komende tijd flink zonnig, maar vanwege de schrale oostenwind kan het wat kouder aanvoelen dan de temperatuur die de thermometer aangeeft. Ook de nachten zijn koud met in de nacht naar vrijdag de eerste vorst van het seizoen.Vanavond verdwijnt de meeste bewolking en koelt het snel af. De oostenwind waait nog altijd stevig door en is matig van kracht boven land.",
     "vandaag": "Vanavond verdwijnt de meeste bewolking en koelt het snel af. Vannacht blijft het op veel plaatsen helder.",
     "temperatuur": "De minimumtemperatuur varieert van 5 graden langs de kust tot een graad of 2 in het oosten en zuidoosten.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: 5 tot 10 graden, droog, ruim 7 uur zon, wind uit het oosten, kracht 3.",
+     "zin": "Voor Dalfsen zelf: 4 tot 10 graden, droog, ruim 7 uur zon, wind uit het oosten, kracht 3.",
      "max": 10,
-     "min": 5,
+     "min": 4,
      "regenkans": 2,
      "omschrijving": "lichte motregen"
     },
