@@ -3,15 +3,15 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "10:43",
+  "opgehaald": "11:00",
   "blokken": 11,
-  "berichten": 106,
+  "berichten": 107,
   "problemen": [
    "pestvogels: HTTP 503"
   ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-05T10:43+01:00",
+ "opgehaald": "2026-11-05T11:00+01:00",
  "audio": "audio/20261105.mp3",
  "afval": [
   {
@@ -265,6 +265,15 @@
      "sorteer": "2026-11-05T06:30:03+01:00"
     },
     {
+     "titel": "Na twee treinrampen in één jaar lijkt de herverkiezing van de Spaanse premier Sánchez verder weg dan ooit",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/na-twee-treinrampen-in-een-jaar-lijkt-de-herverkiezing-van-de-spaanse-premier-sanchez-verder-weg-dan-ooit~b436bacc1/",
+     "bron": "de Volkskrant",
+     "tijd": "10:47",
+     "sorteer": "2026-11-05T09:47:00+00:00"
+    },
+    {
      "titel": "Na de protesten en de rellen leggen woedende Fransen nu het werk neer",
      "context": "",
      "rubrieken": [],
@@ -274,15 +283,6 @@
      "sorteer": "2026-11-05T08:17:00+00:00"
     },
     {
-     "titel": "Olie- en benzineprijzen dalen voor tweede dag op rij na midterms VS",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/olie-en-benzineprijzen-dalen-voor-tweede-dag-op-rij-na-midterms-vs~b7a280d3/",
-     "bron": "de Volkskrant",
-     "tijd": "08:46",
-     "sorteer": "2026-11-05T07:46:00+00:00"
-    },
-    {
      "titel": "Meerdere primeurs bij Amerikaanse midterms",
      "context": "",
      "rubrieken": [],
@@ -290,24 +290,6 @@
      "bron": "Trouw",
      "tijd": "10:27",
      "sorteer": "2026-11-05T09:27:00+00:00"
-    },
-    {
-     "titel": "Vance, in Break With Trump, Blames Iran War for Republicans’ 2026 Midterm Losses",
-     "context": "The vice president offered his striking critique of the administration’s agenda and messaging with Mr. Trump’s apparent approval.",
-     "rubrieken": [
-      "Vance, J D",
-      "United States Politics and Government",
-      "US and Israeli Attack on Iran (2026)",
-      "United States International Relations",
-      "Midterm Elections (2026)",
-      "Trump, Donald J"
-     ],
-     "link": "https://www.nytimes.com/2026/11/04/us/politics/vance-iran-war-midterms-trump.html",
-     "bron": "New York Times",
-     "tijd": "10:27",
-     "sorteer": "2026-11-05T09:27:04+00:00",
-     "kop": "Midterms",
-     "taal": "en"
     },
     {
      "titel": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
@@ -326,8 +308,26 @@
      ],
      "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
      "bron": "The Guardian",
-     "tijd": "10:08",
-     "sorteer": "2026-11-05T09:08:39+00:00",
+     "tijd": "10:32",
+     "sorteer": "2026-11-05T09:32:54+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Vance, in Break With Trump, Blames Iran War for Republicans’ 2026 Midterm Losses",
+     "context": "The vice president offered his striking critique of the administration’s agenda and messaging with Mr. Trump’s apparent approval.",
+     "rubrieken": [
+      "Vance, J D",
+      "United States Politics and Government",
+      "US and Israeli Attack on Iran (2026)",
+      "United States International Relations",
+      "Midterm Elections (2026)",
+      "Trump, Donald J"
+     ],
+     "link": "https://www.nytimes.com/2026/11/04/us/politics/vance-iran-war-midterms-trump.html",
+     "bron": "New York Times",
+     "tijd": "10:27",
+     "sorteer": "2026-11-05T09:27:04+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -528,6 +528,27 @@
      "taal": "en"
     },
     {
+     "titel": "Multiple planes diverted amid bomb threats to commercial flights across Europe – live",
+     "context": "France confirms Dublin-Rome flight has landed in military base, while media in Bulgaria and Belgium also report threats Belgian newspaper Le Soir also reported a bomb threat against a LOT Polish Airline flight from Warsaw, which now landed at Zaventem. The airport’s spokesperson confirmed to Le Soir it received a “suspicious report concerning a flight to Brussels Airport.” Continue reading...",
+     "rubrieken": [
+      "France",
+      "Italy",
+      "Aer Lingus",
+      "Travel",
+      "Europe",
+      "Business",
+      "Ireland",
+      "World news",
+      "Air transport"
+     ],
+     "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+     "bron": "The Guardian",
+     "tijd": "10:48",
+     "sorteer": "2026-11-05T09:48:33+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
      "titel": "German prosecutors investigate hotel death of Bavarian minister",
      "context": "Hubert Aiwanger had led the Free Voters conservative party since 2018.",
      "rubrieken": [
@@ -602,6 +623,15 @@
    "emoji": "🇳🇱",
    "items": [
     {
+     "titel": "Nieuw instituut Defensie moet Nederland veilig houden met snellere innovaties",
+     "context": "Om Nederland veilig te houden, wil Defensie sneller en meer innoveren. Een nieuw instituut moet daar een rol in gaan spelen. Staatssecretaris Boswijk van Defensie heeft het Nationaal Instituut voor Defensie Technologie (NIDT) gepresenteerd bij de kazerne in Stroe. Bedrijven en start-ups kunnen zich daar melden voor een opdracht. Het instituut hoopt zo kennis en technieken bij elkaar te brengen. Da",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638118",
+     "bron": "NOS",
+     "tijd": "10:57",
+     "sorteer": "2026-11-05T10:57:47+01:00"
+    },
+    {
      "titel": "'Organisaties voor mensenrechten breken onder Amerikaanse druk met Strafhof'",
      "context": "Zeker twintig mensenrechtenorganisaties hebben sinds vorig jaar hun samenwerking met het in Den Haag gevestigde Internationaal Strafhof (ICC) flink ingeperkt of volledig gestaakt. Dat blijkt uit een rondgang van onderzoeksplatform Investico en het Duitse medium Süddeutsche Zeitung bij honderd organisaties zonder winstoogmerk, in samenwerking met weekblad De Groene Amsterdammer . Veel ngo's durven ",
      "rubrieken": [],
@@ -629,16 +659,6 @@
      "bron": "NOS",
      "tijd": "17:52",
      "sorteer": "2026-11-04T17:52:18+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Vaker tweede hoorimplantaat vergoed: 'Niet voor niets twee oren gekregen'",
-     "context": "Volwassenen die aan beide oren doof of ernstig slechthorend zijn, komen nu ook in aanmerking voor een vergoeding van een tweede hoorimplantaat. Dat maakte het Zorginstituut Nederland gisteren bekend. Kinderen kregen al wel voor beide oren een zogenoemd cochleair implantaat vergoed. Maar volwassenen hadden hier alleen recht op als zij doof zijn door een hersenvliesontsteking, of als ze doof én blin",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638031",
-     "bron": "NOS",
-     "tijd": "15:41",
-     "sorteer": "2026-11-04T15:41:50+01:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -670,6 +690,13 @@
      "sorteer": "2026-11-05T09:00:00+00:00"
     },
     {
+     "titel": "Sinterklaas komt naar Winkelcentrum Hoogzandveld in Nieuwegein",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONDZBY1FCLTYyQWxsaUNvUmlSSS1RdDAwV1RkZXVMS3lENjd5NWJHZjlKWnh2ZzFTWWlieDBzWFJlcmZOQzc3WDJiQUswT00yZmo5MW5UTEtGaVRpY0JzeFZqdzZ6OXA3YnlsTG1NTWo4OENuejh0RHdkbF9tM05fOHhyYXNoTl9ad1ZXVVdNc19USmVGcVZBT0hMZnlLck5OR1pj?oc=5",
+     "bron": "AD.nl",
+     "tijd": "10:41",
+     "sorteer": "2026-11-05T09:41:58+00:00"
+    },
+    {
      "titel": "Slechthorende kan in plaats van één nu twee implantaten krijgen: maakt het leven veel fijner",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWE9HLTV6NTFPdlhSUkZhZ1o3YmpjV19pdWNZQm4yTUFnWHVFNTRiTjFhNHlubWlWWm5mS0hNMExncW5xNGRrRkZZN09kSXlEUm1acnBEb3l3NFVZbF9vMzJXMHU1Uy1GX0plTzd3VEluV3ZnRlpyY3RuMlY0WUJMeG1aRW5ZUlRqWFRPUE83VXZINEFwU3JlUzF3V0dxSjZqZTNBUk9VRWxLNC1pbWR3Z21uOWZKV3RJMU41dktNRUVIMzNWY1E?oc=5",
      "bron": "AD.nl",
@@ -682,13 +709,6 @@
      "bron": "Reformatorisch Dagblad",
      "tijd": "09:56",
      "sorteer": "2026-11-05T08:56:53+00:00"
-    },
-    {
-     "titel": "Pleidooi Oldenzaalse advocaat: ‘Is korte celstraf écht nodig? Voer hem dan ook uit’",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2lEUlE3eTlDbTFaUVhWdmp4R19yVFpqOWw0ZjFVdUdpNlBfRmY4bGQwNFhqT0N0TUpNY0dUWnRRUmE5MnBtZEs0UXNYeVZnZnY1Mm9xbU1kMFNIZ09DaWtHdk1YSzZKdVN4emxMWHJmS3c0U2REWWFySm5xZ2MtSTlWTDdFdURxTDNJVElUcVpRb2NYMzVoTlhqUnlSUTBlWVF2UzgtWFktaThrSUcxdFRQWVBwd2VPRUFzLXBoUQ?oc=5",
-     "bron": "de Stentor",
-     "tijd": "09:30",
-     "sorteer": "2026-11-05T08:30:34+00:00"
     },
     {
      "titel": "Kijk, luister of lees deze vier diepgaande gesprekken over de belangrijkste kwesties rond AI",
@@ -714,15 +734,24 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Live | Jetten: 'Dit kabinet is niet doof of blind voor kritiek'",
+     "titel": "Live | SGP'er Stoffer kritisch op boekhouding minister Heinen",
      "context": "Hallo en welkom in dit liveblog. Hier houden wij (Priscilla Slomp en Edo van der Goot) je op de hoogte van het debat over het belastingplan van het kabinet.",
      "rubrieken": [
       "politiek"
      ],
-     "link": "https://www.nu.nl/politiek/6415485/jetten-dit-kabinet-is-niet-doof-of-blind-voor-kritiek.html",
+     "link": "https://www.nu.nl/politiek/6415485/sgper-stoffer-kritisch-op-boekhouding-minister-heinen.html",
      "bron": "NU.nl",
      "tijd": "15:02",
      "sorteer": "2026-11-04T15:02:20+01:00",
+     "kop": "Begroting",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Coalitiespanning loopt op: D66 wil praten over miljonairstaks, de VVD niet en wijst op ‘de pijngrens’",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcE1zUzVvb2hGcjlZN3gybkZ2SkhFTWV5c1Y0c0x0bUgzWEJ1YVFwdDN6SnN2b3NlZVhoaE9FZk1VSkpFZXV2eHRhN05RQUNLUW1HRTFqZ1JoRkd3WWdsbG9Za1ljZUdFaW0xUnhVM2I0TmxnaUsyMGNNUFRMOGlLVDJBQ2JRSVpoXzVZM3RLMUhKUHIxbWlYS2xjbmFkN2xZMnE2cTY5NzdISDVQWGl3eDFGMVdRcndxSVlQeE9kR0MzQ3drbXJDMEFaRXVWWnc?oc=5",
+     "bron": "AD.nl",
+     "tijd": "10:22",
+     "sorteer": "2026-11-05T09:22:45+00:00",
      "kop": "Begroting"
     },
     {
@@ -739,14 +768,6 @@
      "bron": "Reformatorisch Dagblad",
      "tijd": "08:57",
      "sorteer": "2026-11-05T07:57:08+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Terug naar de achterkamertjes: verdeelde coalitie moet nu uitweg in belastingdoolhof vinden",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOekxZdFNrckVCd3dLZlZTWVhrcVBDX19CMjNieUJRc19NaDUyMjl5cERwbjA3YWhOc2VIbVpGa3cwMWUweFV5Y1hmeXNkNkRvU1F2R09Oa0pPOVhhNXBQYXUyT0hOX1VJaDRzbFlnT2hVY3paRFNyTnM3dHRoZVI0bXN0cnpDUEx5MzVCMnNUY25Rem9EZHl0ZUtRelUwMDJoNWxCQ0NnSS1seERZVVRLczM2TnQtU0JQOFpHVDZhWGM3VTBlWlhjREVVd1c?oc=5",
-     "bron": "Het Parool",
-     "tijd": "08:37",
-     "sorteer": "2026-11-05T07:37:40+00:00",
      "kop": "Begroting"
     },
     {
@@ -876,15 +897,6 @@
      "sorteer": "2026-11-05T06:01:22+00:00"
     },
     {
-     "titel": "Deze bedrijven gingen de afgelopen week failliet",
-     "context": "In het overzicht van failliete bedrijven deze week onder meer aandacht voor het vroegere boekingskantoor van de populaire volkszanger Frank van Etten, een zorgbureau dat zich bezighield met jeugdzorg en de ooit zo succesvolle zakenman Hennie van der Most ziet opnieuw drie van zijn bv's omvallen",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3715461/deze-bedrijven-gingen-de-afgelopen-week-failliet",
-     "bron": "RTV Oost",
-     "tijd": "06:00",
-     "sorteer": "2026-11-05T05:00:00+00:00"
-    },
-    {
      "titel": "Aantal overboden woningen stijgt het hardst in Overijssel",
      "context": "Nergens steeg het aantal overboden woningen zo hard als in Overijssel. Tegelijk moeten meer verkopers hun vraagprijs verlagen. Volgens woningplatform Huispedia is er sprake van een tweedeling: goed geprijsde woningen worden snel verkocht, terwijl te hoog geprijsde huizen blijven staan.",
      "rubrieken": [],
@@ -894,13 +906,35 @@
      "sorteer": "2026-11-05T04:01:19+00:00"
     },
     {
-     "titel": "Celstraf dreigt voor financieel uitgeklede ex-vastgoedbaas van Megahome",
-     "context": "De voormalige eigenaar van het Twentse vastgoedbedrijf Megahome moet wat het Openbaar Ministerie betreft voor dertig maanden achter de tralies. De 64-jarige W. sluisde miljoenen uit het bedrijf. Uiteindelijk leidde dat tot het grootste Twentse faillissement uit de geschiedenis.",
+     "titel": "Irene stopt de eeuwenlange geschiedenis van Kampereiland in bijzondere terpkaas",
+     "context": "\"Welkom in de schatkamer van Erf 1\", lacht Irene, terwijl ze een luik in de schuur opentrekt. Een eeuwenoude stenen trap leidt naar een schemerige kelder, met daarin lange planken, vol met het goud van het bedrijf: terpkaas. Gemaakt van de melk van de eigen koeien, gerijpt in de oude terpkelder.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3715472/celstraf-dreigt-voor-financieel-uitgeklede-ex-vastgoedbaas-van-megahome",
+     "link": "https://www.oost.nl/nieuws/3703568/irene-stopt-de-eeuwenlange-geschiedenis-van-kampereiland-in-bijzondere-terpkaas",
      "bron": "RTV Oost",
-     "tijd": "21:28",
-     "sorteer": "2026-11-04T20:28:10+00:00"
+     "tijd": "21:05",
+     "sorteer": "2026-11-04T20:05:21+00:00"
+    },
+    {
+     "titel": "Burgemeester sluit woning in Hengelo na vondst drugs en wapens",
+     "context": "In een woning aan de Weusthagstraat in Hengelo is een grote hoeveelheid softdrugs, harddrugs en wapens gevonden. Voor burgemeester Sander Schelberg reden om het pand een maand te sluiten.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3715442/burgemeester-sluit-woning-in-hengelo-na-vondst-drugs-en-wapens",
+     "bron": "RTV Oost",
+     "tijd": "16:58",
+     "sorteer": "2026-11-04T15:58:58+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Ankummer Es",
+     "context": "DALFSEN – Deze inzonden foto van Onno is vanmorgen gemaakt aan de Ankummer Es in Dalfsen.",
+     "rubrieken": [
+      "Dalfsen",
+      "Ingezonden bericht"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/555997/ankummer-es.html",
+     "bron": "DalfsenNet",
+     "tijd": "10:49",
+     "sorteer": "2026-11-05T09:49:19+00:00"
     },
     {
      "titel": "Femmie zoekt met haar camera de mooiste plekken in de omgeving op",
@@ -915,19 +949,6 @@
      "bron": "DalfsenNet",
      "tijd": "10:42",
      "sorteer": "2026-11-05T09:42:06+00:00"
-    },
-    {
-     "titel": "Open dag Historische Kring Dalfsen in Oudleusen",
-     "context": "OUDLEUSEN – De werkgroep Oudleusen van de Historische Kring Dalfsen hield een open dag in de Wiekelaar. Aan het begin van de middag was het nog redelijk rustig, maar later nam de drukte duidelijk toe. Bezoekers konden zich verdiepen in de geschiedenis van Oudleusen. Er waren historische boeken te koop en er was hulp bij […]",
-     "rubrieken": [
-      "Laatste nieuws",
-      "Oudleusen"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/555993/open-dag-historische-kring-dalfsen-in-oudleusen.html",
-     "bron": "DalfsenNet",
-     "tijd": "21:21",
-     "sorteer": "2026-11-04T20:21:07+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
     }
    ]
   },
@@ -1183,7 +1204,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "10:43",
+    "bijgewerkt": "11:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1717,8 +1738,8 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 6.1,
-    "gevoel": 2.9,
+    "nu": 6.4,
+    "gevoel": 3.0,
     "wind": "O 3",
     "station": "Heino",
     "bericht": "Een oostelijke wind voert vandaag vrij koude en droge lucht aan. De zon komt er volop door en er wordt nauwelijks of helemaal geen bewolking verwacht. Bij een stevige oostenwind wordt het 8 tot 10 graden.Vanochtend is er veel zon en nauwelijks bewolking.",
