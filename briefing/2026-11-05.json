@@ -3,13 +3,15 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "10:00",
+  "opgehaald": "10:43",
   "blokken": 11,
-  "berichten": 109,
-  "problemen": [],
+  "berichten": 106,
+  "problemen": [
+   "pestvogels: HTTP 503"
+  ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-05T10:00+01:00",
+ "opgehaald": "2026-11-05T10:43+01:00",
  "audio": "audio/20261105.mp3",
  "afval": [
   {
@@ -269,7 +271,7 @@
      "link": "https://www.volkskrant.nl/buitenland/na-de-protesten-en-de-rellen-leggen-woedende-fransen-nu-het-werk-neer~b457dca4/",
      "bron": "de Volkskrant",
      "tijd": "09:17",
-     "sorteer": "2026-11-05T08:17:38+00:00"
+     "sorteer": "2026-11-05T08:17:00+00:00"
     },
     {
      "titel": "Olie- en benzineprijzen dalen voor tweede dag op rij na midterms VS",
@@ -281,13 +283,117 @@
      "sorteer": "2026-11-05T07:46:00+00:00"
     },
     {
-     "titel": "Republikein wil afzettingsprocedure tegen Pete Hegseth",
+     "titel": "Meerdere primeurs bij Amerikaanse midterms",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/live-vs-republikein-wil-afzettingsprocedure-tegen-pete-hegseth~bbc0cf3d/",
+     "link": "https://www.trouw.nl/buitenland/live-vs-meerdere-primeurs-bij-amerikaanse-midterms~bbc0cf3d/",
      "bron": "Trouw",
-     "tijd": "08:30",
-     "sorteer": "2026-11-05T07:30:00+00:00"
+     "tijd": "10:27",
+     "sorteer": "2026-11-05T09:27:00+00:00"
+    },
+    {
+     "titel": "Vance, in Break With Trump, Blames Iran War for Republicans’ 2026 Midterm Losses",
+     "context": "The vice president offered his striking critique of the administration’s agenda and messaging with Mr. Trump’s apparent approval.",
+     "rubrieken": [
+      "Vance, J D",
+      "United States Politics and Government",
+      "US and Israeli Attack on Iran (2026)",
+      "United States International Relations",
+      "Midterm Elections (2026)",
+      "Trump, Donald J"
+     ],
+     "link": "https://www.nytimes.com/2026/11/04/us/politics/vance-iran-war-midterms-trump.html",
+     "bron": "New York Times",
+     "tijd": "10:27",
+     "sorteer": "2026-11-05T09:27:04+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
+     "context": "Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state; JD Vance says war in Iran the ‘obvious’ culprit for results Live results | How do you feel about the results? Sign up for Breaking News US email Analysis: Is this the beginning of the end for Trump? Election night brought a series of dramatic developments, unexpected results and closely contested races acr",
+     "rubrieken": [
+      "US midterm elections 2026",
+      "US Congress",
+      "House of Representatives",
+      "US Senate",
+      "US politics",
+      "Trump administration",
+      "Democrats",
+      "Republicans",
+      "US news",
+      "Donald Trump"
+     ],
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "bron": "The Guardian",
+     "tijd": "10:08",
+     "sorteer": "2026-11-05T09:08:39+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "These rare killer whales are threatened by shipping noise. AI is turning down the din",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdUluZHNUdVkzXzQtRVB2Yi1ZcE8wSng4Nm53QWNtUHhGREpFTGMzcGdhb2daTHo1ZjlidFlOUy1kb3JzbTJYdzhpUUZVRTctN2ZTNnRrTGJKdlVjT3JfLUJ2QUlPZVpaSnVnLTAzM3l4YmtDUnV3TThEZ2FmT2MxRw?oc=5",
+     "bron": "CNN",
+     "tijd": "10:07",
+     "sorteer": "2026-11-05T09:07:29+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "‘I never understood wind’: midterms spark hope for renewables after Trump’s hostility",
+     "context": "Future brightens for US developers in particular after election when voters rejected Trump’s war on clean energy After years as collateral damage in Donald Trump’s war on climate action, the Democrats’ sweeping triumph in the US midterm elections has emerged as a victory for the global renewable energy industry, too. Across the world’s financial centres the market value of renewable energy develop",
+     "rubrieken": [
+      "Energy industry",
+      "Renewable energy",
+      "US midterm elections 2026",
+      "Business",
+      "Ørsted",
+      "RWE npower",
+      "Donald Trump",
+      "Solar power",
+      "Wind power",
+      "Green economy",
+      "Infrastructure",
+      "Democrats",
+      "Republicans",
+      "Energy",
+      "US politics"
+     ],
+     "link": "https://www.theguardian.com/business/2026/nov/05/democrats-midterms-triumph-renewable-energy-industry-donald-trump",
+     "bron": "The Guardian",
+     "tijd": "10:04",
+     "sorteer": "2026-11-05T09:04:05+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Arvid Lindblad: The rookie teen sensation shaped by India who’s chasing his F1 dream",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVTNzNlNGemlhaXpzeWlnQ1JuN2R6X1lrdzdJNGI4WThiOWgwVkEtbzJ5dlZXOEtsLXJnX01zVWdTc1pqc1hObTBMYmFDcnU5akZjYk40TVdScTJqTldUNDFEUjlnU0pTN3JFbktFQnA0ZW15VU82WEJpWU5NT0RITw?oc=5",
+     "bron": "CNN",
+     "tijd": "10:00",
+     "sorteer": "2026-11-05T09:00:15+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Tech barons cozied up to Trump. What will they do in newly blue America?",
+     "context": "Democrats’ success was helped by popular anger over tech, AI and the super rich – life for billionaires could become much more difficult The photo of Silicon Valley centi-billionaires at Donald Trump’s inauguration – Musk, Bezos, and Zuckerberg, front row and side by side – now looks like a hitlist for a blue Congress hellbent on making life difficult for billionaires. The picture symbolized at th",
+     "rubrieken": [
+      "Technology",
+      "Elon Musk",
+      "US politics",
+      "US news",
+      "World news",
+      "US midterm elections 2026",
+      "Trump administration"
+     ],
+     "link": "https://www.theguardian.com/technology/2026/nov/05/tech-barons-america-musk-bezos-zuckerberg",
+     "bron": "The Guardian",
+     "tijd": "10:00",
+     "sorteer": "2026-11-05T09:00:02+00:00",
+     "kop": "Midterms",
+     "taal": "en"
     },
     {
      "titel": "Where Trump and Republicans lost the midterms – a visual analysis of the key states",
@@ -309,48 +415,6 @@
      "taal": "en"
     },
     {
-     "titel": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
-     "context": "With many seats still to come in, the Democrats have taken control of the Senate, House and several key governorships. Find live updating results in full here Visual analysis: the key states and trends behind Republicans losses Send us your questions about the US midterms results and Democrats’ ‘blue wave’ The US legislature, Congress, has two chambers: the House of Representatives and the Senate.",
-     "rubrieken": [
-      "US midterm elections 2026",
-      "House of Representatives",
-      "US Senate",
-      "US news",
-      "World news",
-      "Democrats",
-      "Republicans",
-      "US politics"
-     ],
-     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-elections-full-results-senate-house-governor-races",
-     "bron": "The Guardian",
-     "tijd": "09:33",
-     "sorteer": "2026-11-05T08:33:19+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
-     "context": "Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state; JD Vance says war in Iran the ‘obvious’ culprit for results Live results | How do you feel about the results? Sign up for Breaking News US email Analysis: Is this the beginning of the end for Trump? The Senate race in Mississippi has become one of the most closely watched contests in the midterms, with Rep",
-     "rubrieken": [
-      "US midterm elections 2026",
-      "US Congress",
-      "House of Representatives",
-      "US Senate",
-      "US politics",
-      "Trump administration",
-      "Democrats",
-      "Republicans",
-      "US news",
-      "Donald Trump"
-     ],
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-     "bron": "The Guardian",
-     "tijd": "09:32",
-     "sorteer": "2026-11-05T08:32:21+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
      "titel": "DeSantis says voters were disappointed with Congress’s ‘productivity’",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQnhoSTU3d2VuWS0wdGdxZnNPUkF4SW96WjdSTWx3dnlOZnBvdnpSVXowY1pjTGV4NTRPSzV4Y0c1U2lyZkprbFM2Ul8zbkl3NDJrTlRkZzgtLUV1MHZtMktSNXp0Ulg5U2IwY0phTHJrcEQwN0tFNnR4bWhUSXA1R19ucU1CYmM0d3RFdDBfMjhlWTEydGRKU2ZqTHlYeFcwcXdka1Nvc3E4Y2xHUFZVQnNvRXRXZS1DRGhPWlJ6NHRKRDJmQk1N?oc=5",
      "bron": "CNN",
@@ -360,45 +424,11 @@
      "taal": "en"
     },
     {
-     "titel": "Polling experts hail ‘great night’ after correctly calling most key US midterm election races",
-     "context": "Accuracy of US polling came into sharp focus after Trump outperformed polls in 2016, 2020 and 2024 Political polling experts hailed a “great night” for the industry after surveys accurately foresaw much of the Democratic blue wave that swept across the US in midterm elections. In only a handful of US Senate races, including Texas and New Hampshire, key polls failed to gauge the scale of the Democr",
-     "rubrieken": [
-      "US midterm elections 2026",
-      "Opinion polls",
-      "US politics",
-      "US news"
-     ],
-     "link": "https://www.theguardian.com/us-news/2026/nov/05/polls-midterms-results-accurate",
-     "bron": "The Guardian",
-     "tijd": "09:00",
-     "sorteer": "2026-11-05T08:00:57+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
      "titel": "Why presidential hopefuls are gathering in Denver next week",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUlV5alZzS1gxR0FZdVFyMjBDYmNUejBOYm1nbmNnRkx5cGY4cUE3eDdOTEgyT21kYUloSnpmS0VLVGk2VmlueDBpNEZoa3dQb3dsQ2pZSDhzMkhpLUFIZ2RpWTl5LTVnQnVINU1uT0c5cWpNTFVpMDlsY1lyVG95d21GZ1phTTZBV2VtbmFpWTgwLXJoOXFWM28wUG9zRm95alVvVTg0bUVDLVJrVEQ4N3daS3pkOFZpYU4tQU13?oc=5",
      "bron": "CNN",
      "tijd": "08:57",
      "sorteer": "2026-11-05T07:57:00+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "John Frieda, celebrity hairstylist and haircare mogul, dead at 75",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSEJVOUV1Tkh0cTdJeWFMTXlfMFB5ZDZQb29HVTF1am5SRnpLbGxCNjV5OGxrZ2lWSXU1UnRkLTBtbkxJNlZvQ05ES3FLXzNYakF5M0lQZWJZV3ZVcGN3Zjc3X0JzcFJNNXJMbnZUMUJJNGtSUXJ4ZVNnLXVraHhLdg?oc=5",
-     "bron": "CNN",
-     "tijd": "08:49",
-     "sorteer": "2026-11-05T07:49:16+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "‘Hegseth has been a disaster’: Sen. Kelly tells CNN",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZjFSZk1rRTk1QlFxLTlmd0RoSDRlYXVtTUd3bGJCMVhZbDdyUGZ2d1MyREtPc3dqOUJKTTdVUDF6VEtFZWM4TDdzdlhrOFNSSVRxZ3hON3RycjRHZDZoTE96X2g2TG92T2VKTjVfczE3TFN5bmpfdWQ3VWx4UGtlUjhTMlZOaU9IOXJwdlNTd09WcmZJNlhzMnBoQ0xMSUFiVFYtTXBOVnRTdDNKNm1R?oc=5",
-     "bron": "CNN",
-     "tijd": "08:38",
-     "sorteer": "2026-11-05T07:38:00+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -498,26 +528,18 @@
      "taal": "en"
     },
     {
-     "titel": "‘It Is Never Enough’: Susan Collins Couldn’t Outrun Trump",
-     "context": "The Maine Republican survived tough cycles in the past even as the political ground shifted beneath her. But the anti-Trump fever in her state doomed her this time.",
+     "titel": "German prosecutors investigate hotel death of Bavarian minister",
+     "context": "Hubert Aiwanger had led the Free Voters conservative party since 2018.",
      "rubrieken": [
-      "United States Politics and Government",
-      "Midterm Elections (2026)",
-      "Federal Aid (US)",
-      "Senate",
-      "Senate Committee on Appropriations",
-      "Collins, Susan M",
-      "Jackson, Troy D (1968- )",
-      "Maine",
-      "Bangor (Me)",
-      "Trump, Donald J"
+      "German politics",
+      "Politics"
      ],
-     "link": "https://www.nytimes.com/2026/11/04/us/politics/susan-collins-defeat-donald-trump.html",
-     "bron": "New York Times",
-     "tijd": "02:30",
-     "sorteer": "2026-11-05T01:30:53+00:00",
-     "kop": "Midterms",
-     "taal": "en"
+     "link": "https://www.politico.eu/article/german-prosecutors-investigate-hotel-death-of-55-year-old-bavarian-minister/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "10:37",
+     "sorteer": "2026-11-05T09:37:39+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
      "titel": "Here’s Who Is Meeting Israel’s President to Recommend a Prime Minister",
@@ -545,25 +567,8 @@
      ],
      "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-herzog-prime-minister.html",
      "bron": "New York Times",
-     "tijd": "09:51",
-     "sorteer": "2026-11-05T08:51:03+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "UK can avoid euro but must accept free movement to rejoin EU, says former top Brexit negotiator – UK politics live",
-     "context": "Michel Barnier says Britain could avoid having to join the single currency, but free movement is non-negotiable Good morning. Andy Burnham is back from the Commonwealth summit, but the Commons is on mini-recess until Tuesday, and there is not much in the political diary for today. But Nigel Farage , the Reform UK leader, will be holding a press conference, which means reporters will have the chanc",
-     "rubrieken": [
-      "Politics",
-      "UK news",
-      "Labour",
-      "Conservatives",
-      "Reform UK"
-     ],
-     "link": "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour",
-     "bron": "The Guardian",
-     "tijd": "09:48",
-     "sorteer": "2026-11-05T08:48:04+00:00",
+     "tijd": "10:13",
+     "sorteer": "2026-11-05T09:13:51+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -586,28 +591,6 @@
      "bron": "BBC",
      "tijd": "08:56",
      "sorteer": "2026-11-05T07:56:53+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "How to find a job in the age of AI",
-     "context": "Artificial intelligence is fundamentally reshaping Europe’s job market. The Commission is hoping to do something about that. Today on the show, Zoya Sheftalovich and Sarah Wheaton discuss the unveiling of Commissioner Roxana Mînzatu’s Education and Skills Package. In it, the EU executive sets out plans to boost vocational education and training for jobs that require […]",
-     "rubrieken": [
-      "Artificial Intelligence",
-      "Brussels Playbook Podcast",
-      "Cybersecurity",
-      "Digital skills",
-      "Employment",
-      "European politics",
-      "Hybrid threats",
-      "Unemployment",
-      "Foreign Affairs",
-      "Politics"
-     ],
-     "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/how-to-find-a-job-in-the-age-of-ai/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "06:05",
-     "sorteer": "2026-11-05T05:05:00+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -678,27 +661,27 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Luchtvaartmaatschappij KLM schrapt 5000 banen",
+     "titel": "Nieuw innovatie-instituut Defensie richt zich eerst op bescherming Noordzee",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/luchtvaartmaatschappij-klm-schrapt-5000-banen~b4b52e99/",
+     "link": "https://www.trouw.nl/binnenland/nieuw-innovatie-instituut-defensie-richt-zich-eerst-op-bescherming-noordzee~b421f464/",
      "bron": "Trouw",
-     "tijd": "08:27",
-     "sorteer": "2026-11-05T07:27:24+00:00"
+     "tijd": "10:00",
+     "sorteer": "2026-11-05T09:00:00+00:00"
+    },
+    {
+     "titel": "Slechthorende kan in plaats van één nu twee implantaten krijgen: maakt het leven veel fijner",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWE9HLTV6NTFPdlhSUkZhZ1o3YmpjV19pdWNZQm4yTUFnWHVFNTRiTjFhNHlubWlWWm5mS0hNMExncW5xNGRrRkZZN09kSXlEUm1acnBEb3l3NFVZbF9vMzJXMHU1Uy1GX0plTzd3VEluV3ZnRlpyY3RuMlY0WUJMeG1aRW5ZUlRqWFRPUE83VXZINEFwU3JlUzF3V0dxSjZqZTNBUk9VRWxLNC1pbWR3Z21uOWZKV3RJMU41dktNRUVIMzNWY1E?oc=5",
+     "bron": "AD.nl",
+     "tijd": "10:25",
+     "sorteer": "2026-11-05T09:25:53+00:00"
     },
     {
      "titel": "Meisje (17) aangehouden voor explosie Rotterdam",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JT19QR3lJdk1TdDZuV2h0RVNDMDVCX3RrUXlvZ1NQd3dIUDhvMzFWOGdCYlliOTIyYVRiQnN4Y2tUR1A2ZVEtVzZDY3hmbUNHX093U183ckZ3c2NhTzhwckNCRVJKeXBfTHZaU25uTjJkNENUYWxNaWNoTQ?oc=5",
      "bron": "Reformatorisch Dagblad",
-     "tijd": "09:55",
-     "sorteer": "2026-11-05T08:55:26+00:00"
-    },
-    {
-     "titel": "Soroptimisten halen in Veenendaal ruim 5000 euro op voor straatkinderen Congo",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeWlRWFZDQU41dERjek83czAzQzRJOGwxcTJjUE8tdWpjcDgxblBXUHVOcGVuRVluYUFYUF9NY1ZuMkU4QkpKdEJvLWtXNWRUVm5uU0dzOVlJbWUtUFZXa3lTRVNOMjFxRllnRGluaEJnNjgzWTd1N3BtQnFTcHVRMkE5Ti1Gbnk3a1ZaZ2Zob1RVQXk4ZjVHMG9tWklMU0FZOE9lVHFQLTJkR1lLRkZxTENKQ19LeDQ?oc=5",
-     "bron": "AD.nl",
-     "tijd": "09:55",
-     "sorteer": "2026-11-05T08:55:13+00:00"
+     "tijd": "09:56",
+     "sorteer": "2026-11-05T08:56:53+00:00"
     },
     {
      "titel": "Pleidooi Oldenzaalse advocaat: ‘Is korte celstraf écht nodig? Voer hem dan ook uit’",
@@ -706,13 +689,6 @@
      "bron": "de Stentor",
      "tijd": "09:30",
      "sorteer": "2026-11-05T08:30:34+00:00"
-    },
-    {
-     "titel": "Universiteit Utrecht opnieuw beste brede universiteit, elf opleidingen krijgen topstatus",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzF4Rjc4ZkE3bE9tVE1xYXp4Y2FaZVdPRzJIdVVLOWF3SjVEMDlpTVRYZElEX2V6bjZCM25rT1hnRDFreTJ0M0ZKYnZsa3JkeDVaTXRydW5iT0hEV1paOXN5aGticklkeVkzbDVYUlFYWkNKVVhTckJCRTN4Q3padF9Za2NGLXp5U2tEb1ZFRkphWlFMelE5T2NxUGdUU1FxUURqY2ZoRGFOWW80OXR5dlYycnVMOW43OEIyRWdxQm0?oc=5",
-     "bron": "AD.nl",
-     "tijd": "09:14",
-     "sorteer": "2026-11-05T08:14:24+00:00"
     },
     {
      "titel": "Kijk, luister of lees deze vier diepgaande gesprekken over de belangrijkste kwesties rond AI",
@@ -927,6 +903,20 @@
      "sorteer": "2026-11-04T20:28:10+00:00"
     },
     {
+     "titel": "Femmie zoekt met haar camera de mooiste plekken in de omgeving op",
+     "context": "NIEUWLEUSEN – ZWOLLE – Met haar camera bij de hand trekt Femmie Smink er graag opuit om mooie plekken in de omgeving vast te leggen. Dit keer voert haar wandeling door het Westerveldse Bos in Zwolle. Een fijne plek om even de drukte achter je te laten, rustig rond te kijken en te genieten van […]",
+     "rubrieken": [
+      "Ingezonden bericht",
+      "Laatste nieuws",
+      "Nieuwleusen",
+      "Zwolle"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/555995/femmie-zoekt-met-haar-camera-de-mooiste-plekken-in-de-omgeving-op.html",
+     "bron": "DalfsenNet",
+     "tijd": "10:42",
+     "sorteer": "2026-11-05T09:42:06+00:00"
+    },
+    {
      "titel": "Open dag Historische Kring Dalfsen in Oudleusen",
      "context": "OUDLEUSEN – De werkgroep Oudleusen van de Historische Kring Dalfsen hield een open dag in de Wiekelaar. Aan het begin van de middag was het nog redelijk rustig, maar later nam de drukte duidelijk toe. Bezoekers konden zich verdiepen in de geschiedenis van Oudleusen. Er waren historische boeken te koop en er was hulp bij […]",
      "rubrieken": [
@@ -937,20 +927,6 @@
      "bron": "DalfsenNet",
      "tijd": "21:21",
      "sorteer": "2026-11-04T20:21:07+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Mobiele slager in Dalfsen",
-     "context": "DALFSEN – Al een week of vijf staat er elke woensdagmiddag een mobiele slager op het plein tegenover de Action in Dalfsen. Maar als je dat niet weet, ga je er ook niet heen. Dus dacht de slager: als we nu een advertentie op DalfsenNet zetten, zou dat misschien helpen. En als iemand adverteert op […]",
-     "rubrieken": [
-      "Dalfsen",
-      "Laatste nieuws",
-      "Zakelijk"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/555988/mobiele-slager-in-dalfsen.html",
-     "bron": "DalfsenNet",
-     "tijd": "20:48",
-     "sorteer": "2026-11-04T19:48:41+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     }
    ]
@@ -1001,6 +977,14 @@
    "titel": "AI",
    "emoji": "🤖",
    "items": [
+    {
+     "titel": "Is jouw website klaar voor AI-agents? Test het gratis",
+     "toelichting": "& Google pakt de AI-top maar verliest 500 miljard op één dag + hackers zetten vriezers op 50 graden en stelen miljarden. Was dat AI?",
+     "bron": "AI Report",
+     "tijd": "12:00",
+     "link": "https://www.aireport.nl/p/is-jouw-website-klaar-voor-ai-agents-test-het-gratis",
+     "sorteer": "2026-11-03T11:00:00+00:00"
+    },
     {
      "titel": "Kinderen en AI gebruik: HackShield en Bollebozen ontwikkelen nieuwe les voor in de klas",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZUJ5NTNIUlZ2YkFTLUw4NzI3dkwwdEcwWFhXLUdpT2E2aldoUUxpaDFra3JqTFZvaDdyR01xQ3NhcWg1NDBBYm82bWI2M3pxV0xXeXE0VnFQNm44b2dZdWN3Z2xrTU5RMUNreExaUkE4WnpjVXJLUFFXNU13VXVUUmVpcDFSMThxQXZUVC1Fcm1TRWViZVZNZUtmS2c?oc=5",
@@ -1199,7 +1183,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "10:00",
+    "bijgewerkt": "10:43",
     "voetbal": {
      "uitslagen": [
       {
@@ -1630,6 +1614,14 @@
      "sorteer": "2026-11-05T09:48:00+01:00"
     },
     {
+     "titel": "Humes Bladkoning",
+     "kop": "Zeldzaamheden",
+     "bron": "Gelderland",
+     "tijd": "09:16",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-05T09:16:00+01:00"
+    },
+    {
      "titel": "Dwergaalscholver",
      "kop": "Zeldzaamheden",
      "bron": "Overijssel",
@@ -1703,29 +1695,6 @@
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261105?language=dutch"
-    },
-    {
-     "kop": "Pestvogels",
-     "titel": "Vlakbij: 2 meldingen binnen 25 km",
-     "bron": "Raalte - Boetelerveld, 17 km van Dalfsen (2026-10-31)",
-     "tijd": "08:18",
-     "link": "https://waarneming.nl/species/306/observations/",
-     "sein": true
-    },
-    {
-     "kop": "Pestvogels",
-     "titel": "Goed pestvogeljaar — 138 meldingen in de afgelopen week, waarvan 5 vandaag",
-     "bron": "waarneming.nl",
-     "tijd": "",
-     "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 126 vogels in de nieuwste meldingen"
-    },
-    {
-     "kop": "Pestvogels",
-     "titel": "11 binnen 75 km van Dalfsen",
-     "bron": "dichtstbij: Raalte - Boetelerveld, 17 km (2026-10-31)",
-     "tijd": "08:18",
-     "link": "https://waarneming.nl/species/306/observations/"
     }
    ]
   },
@@ -1748,8 +1717,8 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 4.7,
-    "gevoel": 1.5,
+    "nu": 6.1,
+    "gevoel": 2.9,
     "wind": "O 3",
     "station": "Heino",
     "bericht": "Een oostelijke wind voert vandaag vrij koude en droge lucht aan. De zon komt er volop door en er wordt nauwelijks of helemaal geen bewolking verwacht. Bij een stevige oostenwind wordt het 8 tot 10 graden.Vanochtend is er veel zon en nauwelijks bewolking.",
