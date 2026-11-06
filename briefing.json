@@ -3,13 +3,15 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "18:00",
-  "blokken": 11,
+  "opgehaald": "19:00",
+  "blokken": 10,
   "berichten": 113,
-  "problemen": [],
+  "problemen": [
+   "Sport viel uit: TypeError"
+  ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-06T18:00+01:00",
+ "opgehaald": "2026-11-06T19:00+01:00",
  "audio": "audio/20261106.mp3",
  "afval": [
   {
@@ -63,140 +65,159 @@
  ],
  "duiding": [
   {
-   "titel": "Democraten winnen Huis, Senaat open",
-   "tekst": "Volgens de liveblog van The Guardian zitten de Democraten in het Huis van Afgevaardigden boven de 250 zetels, met gewonnen zetels in onder meer Ohio, Arizona en North Carolina. Over de Senaat staat hier geen uitslag. De Volkskrant noemt Alaska en Mississippi de grote vraagtekens voor het nieuwe Congres. In Texas won James Talarico. In Los Angeles verloor zittend Democratisch burgemeester Karen Bass van democratisch socialist Nithya Raman.\n\nRepublikein Ted Cruz noemt de uitslag een afwijzing \"op het niveau van Watergate\". The Guardian spreekt van een \"blue wave\". Oud-medewerker van het Congres Bruce Wolpe noemt het een \"profound result\" en een verkiezing over de kosten van levensonderhoud. Tucker Carlson haalt uit naar Trump en prijst Vance. Op Wall Street was het volgens NRC de slechtste dag in ruim anderhalf jaar; de BBC legt dat uit met zorgen over strenger toezicht op datacentra en AI.\n\nVolgens Trouw wacht minister Hegseth mogelijk volgende week een afzettingsprocedure in het Huis. Trump verklaarde het Oval Office tot nationaal monument, en een planningsraad vol bondgenoten keurde zijn triomfboog goed. De NYT schrijft dat rechters en de komende Democratische meerderheid in het Congres die boog nog kunnen stoppen. Dat betekent dat Trump vastlegt wat hij kan vóór de machtswissel. Het monumentbesluit kan wel worden teruggedraaid. Het vertrek van Harmeet Dhillon na onenigheid over de juridische strategie rond de verkiezingen wijst op spanning binnen zijn eigen ministerie.\n\nOp langere termijn wijst The Guardian vanuit Australië op gevolgen voor het bondgenootschap, Aukus en de bouw van datacentra. Dat betekent dat wie in de VS iets wil met AI-infrastructuur, nu rekening moet houden met een Congres dat strenger kijkt. Carlsons lof voor Vance terwijl hij Trump aanvalt, laat zien dat rechts al vooruitkijkt naar wie Trump moet opvolgen.",
+   "titel": "Democraten nemen Congres over",
+   "tekst": "De Democraten hebben de meerderheid in het Congres veroverd. The Guardian spreekt van een \"blue wave\" (11). Chuck Schumer wordt de nieuwe leider van de meerderheid in de Senaat (10). Eén race is nog niet beslist: in Mississippi staat Democraat Scott Colom nipt voor op de zittende Republikeinse senator Cindy Hyde-Smith (9). In Ohio wonnen de Democraten ruim met thema's voor werkende mensen (18). Er was ook een tegenvaller voor de winnaars. Volgens CNN wonnen de uiterst linkse Democraten wel, maar haalden ze minder stemmen dan andere Democraten (12).\n\nColom zegt dat Hyde-Smith geen weg meer heeft naar de overwinning (14). Schumer zegt dat Trump geen \"rightwinger\" in het Hooggerechtshof krijgt (10). Jon Stewart waarschuwt Schumer en de Democraten (16). In The Guardian noemen historici het te simpel om te zeggen dat de arbeiders in Ohio \"thuisgekomen\" zijn (18). De Volkskrant schrijft dat de strijd om de democratie nog lang niet gestreden is (7). Intussen meldt de New York Times het vertrek van aanklager Jason Reding Quiñones, die een centrale zaak uit Trumps wraakcampagne leidde (13).\n\nHet nieuwe Congres wordt in januari beëdigd (10). Dat betekent dat Trump tot dan nog met het oude Congres werkt. Het vertrek bij het ministerie van Justitie valt al in die tussentijd. Volgens de New York Times volgen er meer, onder wie het hoofd van de afdeling nationale veiligheid (13). Wie bij Justitie nog iets wil afronden, moet dat dus nu doen.\n\nOp langere termijn volgt uit Schumers uitspraak dat benoemingen in het Hooggerechtshof langs een Senaat moeten die Trump niet volgt (10). Daarnaast speelt een vraag binnen de partij zelf. De slechtere uitslag van de linkervleugel (12) en de vraag in The Guardian of de Democraten in Ohio kunnen waarmaken wat ze beloofden (18) laten zien waarover zij de komende jaren met elkaar in gesprek moeten.",
    "verwijzingen": [
     {
-     "titel": "Alaska en Mississippi zijn de grote vraagtekens op weg naar de installatie van een nieuw Congres",
-     "link": "https://www.volkskrant.nl/buitenland/alaska-en-mississippi-zijn-de-grote-vraagtekens-op-weg-naar-de-installatie-van-een-nieuw-congres~bbc2b4d8/",
+     "titel": "De Democraten mogen de gunst van de kiezer nu hebben teruggewonnen, het gevecht om hun democratie is nog lang niet gestreden",
+     "link": "https://www.volkskrant.nl/buitenland/de-democraten-mogen-de-gunst-van-de-kiezer-nu-hebben-teruggewonnen-het-gevecht-om-hun-democratie-is-nog-lang-niet-gestreden~bbb5f809/",
      "bron": "de Volkskrant",
-     "tijd": "05:00"
+     "tijd": "17:19"
     },
     {
-     "titel": "Hegseth wacht mogelijk volgende week afzettingsprocedure in Huis van Afgevaardigden",
-     "link": "https://www.trouw.nl/buitenland/live-vs-hegseth-wacht-mogelijk-volgende-week-afzettingsprocedure-in-huis-van-afgevaardigden~bbc0cf3d/",
-     "bron": "Trouw",
-     "tijd": "03:57"
-    },
-    {
-     "titel": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "titel": "US midterm elections 2026 live: Democrats inch ahead in Mississippi Senate count; another Trump loyalist resigns from justice department",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
      "bron": "The Guardian",
-     "tijd": "05:48"
+     "tijd": "18:46"
     },
     {
-     "titel": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
-     "link": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices",
+     "titel": "Trump will be blocked from putting ‘rightwinger’ on supreme court, Schumer says",
+     "link": "https://www.theguardian.com/us-news/2026/nov/06/trump-rightwing-supreme-court-justice",
      "bron": "The Guardian",
-     "tijd": "05:45"
+     "tijd": "18:40"
     },
     {
-     "titel": "Tucker Carlson blasts Trump, praises Vance",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS0R2aE5RM0hxNGZMcjIydG1MbXdMTWd0ZS1wQlZSTnAxNW85UThaQ3o3bzNoUlc4UngydkR3eUlJN3FPZG44Wll4WXlwYW9ScWYzVzBvdTFiSC1Hc2dyWkstRnlkY1BHamZDNHBfLW5CenBfSHBJSHBVNEFuTlNHcDJrQTZvSE9vcVMxY0RsX20?oc=5",
+     "titel": "What happens after the ‘blue wave’? Our team answers your midterm election results question",
+     "link": "https://www.theguardian.com/community/live/2026/nov/05/what-happens-after-the-blue-wave-our-reporters-answer-your-midterm-election-results-questions",
+     "bron": "The Guardian",
+     "tijd": "18:40"
+    },
+    {
+     "titel": "Far-left Democrats won in 2026. But they ran worse than other Democrats",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUhyQVdVdTBHQVZGSWxhajlXWEpmZGt1YTJ3ZGtSTkhkRXhjVHZYb0NiMWJlcDNSNVBOVUczTFoxODV2QW92cUtCQkY3eGcyelEyWXB6aGExbVN4TjgyM3JCSkZPYUw1dnNtYTduWnJfYUhRLV9UZ3ZxQTVzTERpTQ?oc=5",
      "bron": "CNN",
-     "tijd": "05:23"
+     "tijd": "18:23"
     },
     {
-     "titel": "Trump’s Triumphal Arch Wins Commission Approval Despite Court Challenges",
-     "link": "https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html",
+     "titel": "U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns",
+     "link": "https://www.nytimes.com/2026/11/06/us/politics/jason-reding-quinones-resigns.html",
      "bron": "New York Times",
-     "tijd": "04:33"
+     "tijd": "18:21"
     },
     {
-     "titel": "The Many Meanings of James Talarico’s Winning Cowboy Boots",
-     "link": "https://www.nytimes.com/2026/11/05/style/james-talarico-cowboy-boots-texas-senate-race.html",
-     "bron": "New York Times",
-     "tijd": "03:25"
+     "titel": "Colom says Hyde-Smith ‘doesn’t have’ path to victory in Mississippi Senate race",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV29CYjBzbldYa0k3X09UQTFhSkZwV1VZQk4yaTBuZE5IUV9EYTNVRExoR3FGbzJBWHB0d0k4VmcwS3pTRXJtazM4bGpab3hmNVYybWhXdXNmZ2tpc2xEVkVJMUVrNk1SbklSQjlnVTRtUmVhTHZMR21PaVdTWmlLYVRXYWxza21mM0hyRlJLcmgwQkE3b0FzeTBhMXN2QmpfM3h1WmgyMA?oc=5",
+     "bron": "CNN",
+     "tijd": "18:21"
     },
     {
-     "titel": "Democratic socialist Nithya Raman defeats Karen Bass to win Los Angeles mayoral race – video",
-     "link": "https://www.theguardian.com/us-news/video/2026/nov/05/nithya-raman-los-angeles-mayor-karen-bass",
+     "titel": "Jon Stewart issues warnings to Schumer and Dems after midterm landslide",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUXladFlQdFR4ZHExc21VMDZHRk1HYzluZ0xWMGxfVjlIdUUyLU02YjhxdDBwSTBJQVhFTkx5YUxieDJWTGt1eEFhc3hKbGJoeTVycVEtblNmbVQ4UHF6V0J3M3VaTjY5Z01DMFBHTUl2QVlKWjNWMWFWMGdzd19SMjZWZU1pblBzZ3l4dmxVajZrendYTXZycllKT3NqMjZBeEpEUjZ5bzJvMklzYzgyZjFnM3QyR1pk?oc=5",
+     "bron": "CNN",
+     "tijd": "18:04"
+    },
+    {
+     "titel": "Democrats won big in Ohio on working-class issues. Can they deliver?",
+     "link": "https://www.theguardian.com/us-news/2026/nov/06/ohio-democrats-midterms-working-class-labor",
      "bron": "The Guardian",
-     "tijd": "03:03"
-    },
-    {
-     "titel": "Harmeet Dhillon, Leader of Justice Department’s Civil Rights Unit, Resigns",
-     "link": "https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html",
-     "bron": "New York Times",
-     "tijd": "02:36"
-    },
-    {
-     "titel": "Bruce Wolpe on what Trump will do after the ‘profound result’ of the US midterms - podcast",
-     "link": "https://www.theguardian.com/australia-news/audio/2026/nov/06/bruce-wolpe-trump-us-midterms-australian-politics-podcast",
-     "bron": "The Guardian",
-     "tijd": "02:30"
-    },
-    {
-     "titel": "Trump signs order preventing future presidents from changing Oval Office",
-     "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "05:29"
-    },
-    {
-     "titel": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-     "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "03:57"
-    },
-    {
-     "titel": "Techaandelen in de uitverkoop door AI-zorgen: Wall Street beleeft slechtste dag in ruim anderhalf jaar",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUmdLU2F4Q3hqNnJ4cm1uU3o4M3Bsb0xuN3d1eVhUdUFubXVUMjcyemtwS3hqQzA5N0NwMUk4NHROdTlaVy1kS1FFYnBrLWljNEpXQ3N6VXFJYktVZTVfU3JKWGZjdWZuTFRGbXF2Wi1lVnU4dDBqWndpNmZlS000ZlRXUW0wdVkwQ2RLNVNkLXpsSFlNOVJSdURyRGpQemZPdk15RHM0RzBwMFUweDV1OE9MVnlBVVgxNEs1OGtqZ0FwMkplUlBwTjBOV3E0LUpEaXlseXhDdWIyNklSaC13Rg?oc=5",
-     "bron": "NRC",
-     "tijd": "01:11"
+     "tijd": "17:00"
     }
    ],
    "diep": true,
-   "geschreven": "06:05"
+   "geschreven": "19:00"
   },
   {
-   "titel": "Belastingplan, nu ook verzet ondernemers",
-   "tekst": "Nieuw vandaag is het verzet van ondernemers tegen het belastingplan van Pro. In De Telegraaf zegt een familiebedrijf dat het \"einde verhaal\" is als het plan doorgaat. Verder ligt het waar het gisteren lag. Paternotte (D66), Brekelmans (VVD) en Bontenbal (CDA) bellen elk apart met de oppositie en overleggen elke ochtend over de stand. Het Reformatorisch Dagblad noemt het \"zeer riskant\" dat het minderheidskabinet-Jetten zonder akkoord met de oppositie doorzet. Volgens Trouw zet Klaver de coalitie klem met een miljonairsbelasting.",
+   "titel": "Belastingplan: kabinet kiest geen kant",
+   "tekst": "Het overleg loopt nu langs drie aparte lijnen. Paternotte (D66), Brekelmans (VVD) en Bontenbal (CDA) bellen elk los van elkaar met de oppositie en stemmen elke ochtend onderling af. Vanochtend was het eerste overleg (38). Volgens NU.nl is het kabinet verdeeld over de vraag of het steun moet zoeken bij links of bij rechts (37). RTL en Trouw stellen hardop de vraag wat er gebeurt als het opnieuw niet lukt en of het kabinet kan vallen (35, 36).",
    "verwijzingen": [
     {
-     "titel": "Fel verzet ondernemers tegen belastingplan van Pro: ’Als dit doorgaat, is het einde verhaal voor ons familiebedrijf’",
-     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNN0NuVE1kai1iTHRQN2w2THpOa1JaT2FROW14RVRmZnVvT251Q0hzc2hSdmVxTHRrbHBWSHNnS3VVS0RWNF83OENZdDJWbnJsdG82RE9sdm1NVU0ycVhrdjZaUFRBMGpHQUNmVGUtS3J4MmRXSl9hU2VzUGtjajVMU3Q5cUUtTmkxckkwQ3pnSDRZdEx0UUg5X3Y3eXRMamNqMEFiQTJnbXJTWjdyMVhocVZQX1ZyQURoa0Fpc0xrTmY2eEJQUGhSY09xbVZFTHpiN0xrS29fRTJFT3M1VFJrX1FtQ0ZsenZmdGRXZU5TZU44WFJYR2c?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "05:39"
+     "titel": "Wat als ze het nu wéér niet eens worden, en andere vragen over het belastingplan",
+     "link": "https://www.trouw.nl/politiek/wat-als-ze-het-nu-weer-niet-eens-worden-en-andere-vragen-over-het-belastingplan~b4b6b734/",
+     "bron": "Trouw",
+     "tijd": "17:52"
     },
     {
-     "titel": "Minderheidskabinet-Jetten zet belastingplan op het spel zonder akkoord met oppositie: „Zeer riskante onderneming”",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcUhCajZLOXQ2R3hMb0NXY2UwQ0xVZy1Ga1NCaDlHTm9TMm5ZS0J3dXpDejQ5RUYxc2pxcVR2VW1Cc19aRGVwSUs3SW5GcjQ4Ym4xOEdMRC1DTV8yYkdQX3dlOWtHX2djTkVMWVFqOFRFYlhwWDNQQnJ2OGlqVHVSMlNzZUdoX1ZETVlHZ2w1M2RNNjBtWnZwVFFXYThnNXRFNVNjTjNiYjk4UTVoV3k2UDV5c09XRnZrVFpUU2VzS2VDSmxoczgxV3hQR08?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "01:25"
+     "titel": "Cruciale dagen voor het belastingplan: kan het kabinet vallen?",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHFaNG5LWVVhemFsYUg1YnBsaDkyeDljTHRkUzlmOTRRRVNkSGNxdGVrUjN0c2J0Zzc0VkhxRGdVNGU4QjBiR0R5SmNMSXlKcHVFZHdmbjRpcnRwNkRTME5fM0U5VTQ4UDRUaVFBUmdlT0s5VW00M3JhcERUV3V1TzBWVUpIRVczN1J2TURyanFJbWRoOUxOanBoWDZoZlEtSVRnNFNoSEdUckNoV2IxQThoOTE3QQ?oc=5",
+     "bron": "RTL.nl",
+     "tijd": "17:41"
+    },
+    {
+     "titel": "Podcast | Open huwelijk en wirwar van overlegjes: chaos rond belastingplan",
+     "link": "https://www.nu.nl/uitgelicht/6415739/open-huwelijk-en-wirwar-van-overlegjes-chaos-rond-belastingplan.html",
+     "bron": "NU.nl",
+     "tijd": "15:59"
     },
     {
      "titel": "Fractieleiders D66, VVD en CDA praten een-op-een met oppositie over belastingplan",
      "link": "https://nos.nl/l/2638202",
      "bron": "NOS politiek",
      "tijd": "20:16"
-    },
-    {
-     "titel": "Hoe Klaver de coalitie klemzet met een miljonairsbelasting",
-     "link": "https://www.trouw.nl/politiek/hoe-klaver-de-coalitie-klemzet-met-een-miljonairsbelasting~bbb221f4/",
-     "bron": "Trouw",
-     "tijd": "14:43"
     }
    ],
-   "geschreven": "06:05"
+   "geschreven": "19:00"
   },
   {
-   "titel": "Tieners zochten wapens en IS-hulp",
-   "tekst": "Op de eerste zitting zei het OM dat de vier opgepakte tieners op zoek waren naar wapens, het onderling over schieten hadden en sterk onder invloed staan van jihadistisch gedachtegoed. De Telegraaf schrijft dat ze ook hulp zochten bij IS-ronselaars. Alle vier blijven langer vastzitten.",
+   "titel": "Bekentenis in zaak Iraanse publicist",
+   "tekst": "Het proces over de mislukte moordaanslag in 2024 op een Iraanse publicist in Haarlem is begonnen op Schiphol. Een van de zes verdachten bekent dat hij voor een moord in opdracht naar Nederland kwam (25). Iran staat niet terecht, maar het regime kwam in de zaal wel ter sprake (34). De Volkskrant vraagt wie het moordkartel inschakelde (30).",
    "verwijzingen": [
     {
-     "titel": "Jonge terrorismeverdachten bleken vlak voor arrestatie op zoek naar wapens",
-     "link": "https://nos.nl/l/2638196",
+     "titel": "Verdachte bekent moordpoging op Iraanse publicist in Haarlem",
+     "link": "https://nos.nl/l/2638332",
      "bron": "NOS",
-     "tijd": "19:50"
+     "tijd": "18:43"
     },
     {
-     "titel": "Jonge terreurverdachten zochten wapens en hulp bij IS-ronselaars",
-     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRGhSVktKcUhKVnVocEtKOGxQalEyZVZ3Z3RBMHV1UjB1WjFfaEJRVFB5SU5ULU55LUJJUFdYNFZPYVZwVVg2ODA0WHlHY3lXYkh6NUFvc0JMeG5ocmFrdUpFUUhVWUs5TGhoQ0Y3cTRkMTdIalNzX2NPMTZ6RGlYaldiVUxSV1IwZUVfbmQyaFpaby10WWQ4eWZoejVQNG4zVVI5NmFBZUFFb3NidVFVeVVOZFpKdThfUWZsamhnUi1OYjM1dXR4ZXc2YVBVNWlXXzBVQ2Y3dlpockRvalhneDlReUJOcDVVZ0ZWbGNmS2d3alNfRS1kWkwzVEZueFBGREVNSWloelg?oc=5",
+     "titel": "Wie schakelde dit moordkartel in voor de politieke liquidatie op een Iraanse journalist in Nederland?",
+     "link": "https://www.volkskrant.nl/binnenland/wie-schakelde-dit-moordkartel-in-voor-de-politieke-liquidatie-op-een-iraanse-journalist-in-nederland~b06f3d42/",
+     "bron": "de Volkskrant",
+     "tijd": "17:08"
+    },
+    {
+     "titel": "Iran niet in beklaagdenbank, toch klonk het ayatollah-regime in zaak verijdelde liquidatie: ’Noem naam grote baas niet’",
+     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUUFGZDdTR0tabXZLRURZQkcxbTBMSHQ2aHl1VVlrb2dGTTVCU25HOUhxWHJUcG8yU2I0WEotd3U5WTB5RHU3dFRjX29aQmdqRnJVaXZBRWZ0aE92a2RyaDhWUGxEUnBFY1JVOFl3dkhNN1FmVHJCUmpScWxnQlB0c3dDWFJoYWtMUUk4NkRMZW1GcU1pUWxUc3Z4M3ZMOFRvOU9LUFJUTDFwU25hMnVlc3NVaTB5UE5qUkRHbWVnd0RPZW5pMmNpUDlhaU5vYUc4cUxjc1BDU2J2RkVwZW9NNmlUWTVyS0d3bTVtYUxQb21UZHRNRmdldjR3?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "03:00"
+     "tijd": "18:42"
     }
    ],
-   "geschreven": "06:05"
+   "geschreven": "19:00"
+  },
+  {
+   "titel": "NCTV: verdediging loopt achter",
+   "tekst": "De NCTV meldt dat overheden en bedrijven hun digitale verdediging niet snel genoeg verbeteren om de dreigingen bij te houden. De dienst noemt dat een \"ernstig risico voor de nationale veiligheid\" (28). Bijna alle redacties leggen de nadruk op AI, dat volgens de NCTV een steeds grotere rol speelt bij het uitvoeren van aanvallen (48, 49, 50, 52).",
+   "verwijzingen": [
+    {
+     "titel": "NCTV: overheden en bedrijven houden tempo online bedreigingen niet bij",
+     "link": "https://nos.nl/l/2638312",
+     "bron": "NOS",
+     "tijd": "15:59"
+    },
+    {
+     "titel": "NCTV: cyberdreiging neemt snel toe door AI, actie nodig",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OOGEtcTMxVHU2WDVEMjktYVNzcDh2bnVnbjlJcU9PM0l0eUZPWG56eHlhM0NxV3E5bzZfS045VERjSnhLSXhFRHNxM3h4LXBOWDhLTF9OSTNYU1lzbTZBNVhTWWFlVUhKVDhGaUlfcGx5OGJUSEJUMTc5QVpmZw?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "18:50"
+    },
+    {
+     "titel": "NCTV ziet dat AI steeds grotere rol speelt bij uitvoering van aanvallen",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPREhjT2d1SFVnRUF3YUxyWGh4dFRwN3lIZWdBdEZaVXNjLXZ6SUtiSGVjWFZCaEFnTUppcG5NZHJEcnhCVDlKZU45aDR5RUhKbWFLMnlvdjdvVmlTT3RubEcwU3NodUhMNnFSbkFHLTFTc1lqUmF1UW84eE9uSnlSbHVlclNKbnFmNUkwX3VQTDh5QzR4TmxQY3NUaENPTExsVngySVk2QzVUTl9KVG16X01rdUN0VEg0Nnc?oc=5",
+     "bron": "iBestuur",
+     "tijd": "16:09"
+    },
+    {
+     "titel": "NCTV waarschuwt: cyberdreiging door AI ’in stroomversnelling, nu actie ondernemen’",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbUJDZ3FoS09qX2s5VG5pdFZhWE1yLUluNVU0RXNRLW5udUNjZl9HaXRIQlFrMHd2UEU1ODNLcmFFVVppSUg0Q091Y3p3TmFqUm5Lb2hPTEFBSzNjbkdpM1FwaFZfSkstUUg0endZUWhjcG80TmNyWWR1WFRIMC13ZVFvLWFzdFJMbXJGOHZ3Tm1jbDFpemFhRUpzLWZiZUtfT2oxNE1rVEhuU0FCcTg1alBlcTI0UUVURWFEZ09ENjA1MU55NXpieQ?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "17:07"
+    },
+    {
+     "titel": "NCTV: cyberdreigingen door AI zijn niet meer bij te houden",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYmpZSXdNcW52Yi1idVNOYlRCT0V6c1R6VUZCS2dMRTFVTEZ3Y0VJa1hOWmNXdHFsSktUajR3RnBJa2twSmtDd2owZDVZUWRxeHB3SXk3M0p3S1BnV0FmTktQMkVQUHA0TmVMeHhIUnl1amFVSGoxSFFaT28wOW9PaFZYZG00ZmFNMzZlajEtZzhHQzVwRk1iVF83WFFHOUNKcXIwYzV4bDM1bGpt?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "16:03"
+    }
+   ],
+   "geschreven": "19:00"
   }
  ],
  "blokken": [
@@ -205,6 +226,15 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Duits parlement stemt voor celstraf van vijf jaar bij toedienen verkrachtingsdrugs",
+     "context": "In Duitsland worden de straffen voor het toedienen van zogenoemde verkrachtingsdrugs, zoals GHB, zwaarder. Een meerderheid van de Duitse Bondsdag heeft voor een voorstel gestemd om de minimumgevangenisstraffen daarvoor te verhogen van drie naar vijf jaar. Het wetsvoorstel gaat over het toedienen van drugs die erop gericht zijn om iemand buiten bewustzijn te brengen en vervolgens (seksueel) te misb",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638330",
+     "bron": "NOS",
+     "tijd": "18:24",
+     "sorteer": "2026-11-06T18:24:15+01:00"
+    },
     {
      "titel": "Vader Meghan Markle opgepakt door FBI vanwege bezit van beelden van kindermisbruik",
      "context": "De vader van Meghan Markle (82) is door de FBI aangehouden in een verzorgingshuis in de Verenigde Staten. Dat meldt het kantoor van de openbaar aanklager in Florida. Hij is aangeklaagd voor het bezit van beeldmateriaal van seksueel misbruik van kinderen. Daarbij waren volgens de aanklager ook seksueel expliciete foto's van hemzelf met jonge meisjes. Het materiaal is gevonden in twee opslagruimtes ",
@@ -242,15 +272,6 @@
      "sorteer": "2026-11-06T13:30:16+01:00"
     },
     {
-     "titel": "België neemt omstreden wet aan over binnengaan woningen van ongedocumenteerden",
-     "context": "Het Belgische parlement heeft na een urenlang nachtelijk debat een wetsvoorstel goedgekeurd waar veel om te doen is. Door de wet kan de politie privéwoningen binnengaan van mensen die geen geldige verblijfspapieren hebben, om ze te arresteren. Daartegen werd deze week nog op tientallen plekken in het land gedemonstreerd. De regering-De Wever wil een manier vinden om mensen die niet terug willen na",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638288",
-     "bron": "NOS",
-     "tijd": "13:22",
-     "sorteer": "2026-11-06T13:22:42+01:00"
-    },
-    {
      "titel": "In zijn Russische cel zag Evan Gershkovich geen monsters maar mensen: ‘Het is erg makkelijk om te zeggen dat alle Russen verantwoordelijk zijn’",
      "context": "",
      "rubrieken": [],
@@ -269,20 +290,82 @@
      "sorteer": "2026-11-06T16:19:00+00:00"
     },
     {
-     "titel": "Onrust op Wall Street over datacenters en AI",
+     "titel": "Houthi's: meerdere doden bij Saudische raketaanval op markt",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/onrust-op-wall-street-over-datacenters-en-ai~b0d81fc6/",
+     "link": "https://www.trouw.nl/buitenland/live-oorlog-midden-oosten-houthi-s-meerdere-doden-bij-saudische-raketaanval-op-markt~b4cda6da/",
      "bron": "Trouw",
-     "tijd": "17:34",
-     "sorteer": "2026-11-06T16:34:36+00:00"
+     "tijd": "18:23",
+     "sorteer": "2026-11-06T17:23:00+00:00"
     },
     {
-     "titel": "What Democrats Plan to Do with Their Power in Congress",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTXlhRWIySXNMdUF2N0d5aVIzR1VsN01RQzNXRWREb0JRdjVsSHhSZmRsZnVOcmFSUEtMc1J6ODhvY2xCdkd0d0l2Z1hERjFDOVpYemhHVHplSnRfY3VjRVFUV1ZvUnRlU3RFNE8xLW5GUndQdkRLalF2NUhhUGNHM3pldUdrUHQ3MzFzTnlBWUkwUkk?oc=5",
+     "titel": "US midterm elections 2026 live: Democrats inch ahead in Mississippi Senate count; another Trump loyalist resigns from justice department",
+     "context": "Scott Colom leading Republican incumbent Cindy Hyde-Smith in razor-thin race; president’s ally Jason Reding Quiñones steps down Live results : see results from races in all 50 states Sign up for Breaking News US email Donald Trump will begin the day in Washington today. He has closed door meetings for much of the day, and will take part in a Diwali celebration at the White House at 1:30pm ET. Whil",
+     "rubrieken": [
+      "US midterm elections 2026",
+      "US Congress",
+      "US Senate",
+      "House of Representatives",
+      "US politics",
+      "Trump administration",
+      "Democrats",
+      "Republicans",
+      "US news",
+      "Donald Trump"
+     ],
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+     "bron": "The Guardian",
+     "tijd": "18:46",
+     "sorteer": "2026-11-06T17:46:31+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Trump will be blocked from putting ‘rightwinger’ on supreme court, Schumer says",
+     "context": "After midterm wins, Democratics plan comeback for when new Congress is sworn in, including pushback against Trump and his policies Donald Trump will be blocked from putting a “rightwinger” on the US supreme court, according to Chuck Schumer, the soon-to-be Senate majority leader, in remarks that were a preview of how Democrats intend to wield their power come January. In an interview with the Asso",
+     "rubrieken": [
+      "Donald Trump",
+      "US midterm elections 2026",
+      "Democrats",
+      "Chuck Schumer",
+      "US supreme court",
+      "US politics",
+      "Trump administration",
+      "US news"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/06/trump-rightwing-supreme-court-justice",
+     "bron": "The Guardian",
+     "tijd": "18:40",
+     "sorteer": "2026-11-06T17:40:23+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "What happens after the ‘blue wave’? Our team answers your midterm election results question",
+     "context": "Democrats have taken control of Congress in a sweeping blue wave. Our reporters answer your questions about the results of the midterm elections Live results from the US midterm elections Jim Garrett in Massachusetts asked in a reader callout: Where have Democrats flipped state legislatures, and what could be the impact of that? Also, what consequential ballot measures have passed? Lex McMenamin ,",
+     "rubrieken": [
+      "US midterm elections 2026",
+      "US politics",
+      "Democrats",
+      "Republicans",
+      "Donald Trump",
+      "US immigration",
+      "ICE (US Immigration and Customs Enforcement)",
+      "US economy"
+     ],
+     "link": "https://www.theguardian.com/community/live/2026/nov/05/what-happens-after-the-blue-wave-our-reporters-answer-your-midterm-election-results-questions",
+     "bron": "The Guardian",
+     "tijd": "18:40",
+     "sorteer": "2026-11-06T17:40:04+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Far-left Democrats won in 2026. But they ran worse than other Democrats",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUhyQVdVdTBHQVZGSWxhajlXWEpmZGt1YTJ3ZGtSTkhkRXhjVHZYb0NiMWJlcDNSNVBOVUczTFoxODV2QW92cUtCQkY3eGcyelEyWXB6aGExbVN4TjgyM3JCSkZPYUw1dnNtYTduWnJfYUhRLV9UZ3ZxQTVzTERpTQ?oc=5",
      "bron": "CNN",
-     "tijd": "17:56",
-     "sorteer": "2026-11-06T16:56:39+00:00",
+     "tijd": "18:23",
+     "sorteer": "2026-11-06T17:23:50+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -305,57 +388,59 @@
      ],
      "link": "https://www.nytimes.com/2026/11/06/us/politics/jason-reding-quinones-resigns.html",
      "bron": "New York Times",
-     "tijd": "17:55",
-     "sorteer": "2026-11-06T16:55:00+00:00",
+     "tijd": "18:21",
+     "sorteer": "2026-11-06T17:21:54+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
     {
-     "titel": "US midterm elections 2026 live: all eyes on last two razor-thin Senate races as Democrats vie to expand blue wave",
-     "context": "Tight races in Mississippi and Alaska could further tip scale for Democrats; blue wave has already given the party more than 40 new House seats Live results : see results from races in all 50 states Sign up for Breaking News US email Donald Trump will begin the day in Washington today. He has closed door meetings for much of the day, and will take part in a Diwali celebration at the White House at",
+     "titel": "Colom says Hyde-Smith ‘doesn’t have’ path to victory in Mississippi Senate race",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV29CYjBzbldYa0k3X09UQTFhSkZwV1VZQk4yaTBuZE5IUV9EYTNVRExoR3FGbzJBWHB0d0k4VmcwS3pTRXJtazM4bGpab3hmNVYybWhXdXNmZ2tpc2xEVkVJMUVrNk1SbklSQjlnVTRtUmVhTHZMR21PaVdTWmlLYVRXYWxza21mM0hyRlJLcmgwQkE3b0FzeTBhMXN2QmpfM3h1WmgyMA?oc=5",
+     "bron": "CNN",
+     "tijd": "18:21",
+     "sorteer": "2026-11-06T17:21:00+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "U.S. Global Health Strategy Jeopardizes Prevention of Pandemics, Experts Warn",
+     "context": "The Trump administration has been negotiating agreements with dozens of individual countries. Public health experts say a global agreement would be far more effective.",
      "rubrieken": [
-      "US midterm elections 2026",
-      "US Congress",
-      "US Senate",
-      "House of Representatives",
-      "US politics",
-      "Trump administration",
-      "Democrats",
-      "Republicans",
-      "US news",
-      "Donald Trump"
+      "Foreign Aid",
+      "Medicine and Health",
+      "Developing Countries",
+      "Epidemics",
+      "Humanitarian Aid",
+      "International Relations",
+      "Ebola Virus",
+      "Africa Centers for Disease Control and Prevention",
+      "United Nations",
+      "World Health Organization",
+      "Africa",
+      "Congo, Democratic Republic of (Congo-Kinshasa)"
      ],
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-     "bron": "The Guardian",
-     "tijd": "17:43",
-     "sorteer": "2026-11-06T16:43:03+00:00",
+     "link": "https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html",
+     "bron": "New York Times",
+     "tijd": "18:17",
+     "sorteer": "2026-11-06T17:17:40+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
     {
-     "titel": "Why did El-Sayed call JD Vance ‘habibi’?",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSm5Tcmo1WnVzSFNOc2E5ZTJXcm9hS01hM2Q5Ump3YlFGazFIb19mNXNsSXVkeW9rdVlnOFVyNk9EazduRjh2cV9kel83UHlBNmpXNGtqZzk0MktILVFULVlad051clV4eEZJVzNMM2YzTnZXU2ZrWTFHOV96SGRtUkRwaWVaM0tXTURTRTNld2oxV3NQTHAxRkxucw?oc=5",
+     "titel": "Jon Stewart issues warnings to Schumer and Dems after midterm landslide",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUXladFlQdFR4ZHExc21VMDZHRk1HYzluZ0xWMGxfVjlIdUUyLU02YjhxdDBwSTBJQVhFTkx5YUxieDJWTGt1eEFhc3hKbGJoeTVycVEtblNmbVQ4UHF6V0J3M3VaTjY5Z01DMFBHTUl2QVlKWjNWMWFWMGdzd19SMjZWZU1pblBzZ3l4dmxVajZrendYTXZycllKT3NqMjZBeEpEUjZ5bzJvMklzYzgyZjFnM3QyR1pk?oc=5",
      "bron": "CNN",
-     "tijd": "17:21",
-     "sorteer": "2026-11-06T16:21:00+00:00",
+     "tijd": "18:04",
+     "sorteer": "2026-11-06T17:04:00+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
     {
-     "titel": "Republican blame game heats up after massive midterm losses",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUmtObU8yRjg4YXp5UkVoZ1kxTl91WUFNVW4wTmNweTJJWWUwdmthY3gza2Y5TUlBa0lFM1ctc0puVVRBSUcxdG5PQnBDaF9XcE1TN3pLZjBQOEZqRGN0TlB0V21LMnlmVXlaVms2V19hY3VQQmtSelJmb0dhZ1pwdE0xQlJFSVJ4cGwxWEdQTmRXMnhzMzdqMUtHRE1lRFl5TDNmN05MZ3RzOWM?oc=5",
+     "titel": "What Democrats Plan to Do with Their Power in Congress",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTXlhRWIySXNMdUF2N0d5aVIzR1VsN01RQzNXRWREb0JRdjVsSHhSZmRsZnVOcmFSUEtMc1J6ODhvY2xCdkd0d0l2Z1hERjFDOVpYemhHVHplSnRfY3VjRVFUV1ZvUnRlU3RFNE8xLW5GUndQdkRLalF2NUhhUGNHM3pldUdrUHQ3MzFzTnlBWUkwUkk?oc=5",
      "bron": "CNN",
-     "tijd": "17:13",
-     "sorteer": "2026-11-06T16:13:50+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Jay Rockefeller, former West Virginia governor and US senator who was part of a dynasty, dies at 89",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORk41REZrRDlVWjg4N0pXV3BpU1lndG5kRXZ3X0Vfd2FORXFEZDRmMzFOekNqTkR3X1hsa2paczJVSnpMNGk4RWlZdWI0YkxZQk5HX2dzcko4Z0taeWFod2lLRmpJQzczOFF5RDRHM0RCYll1a1d5M0U5eUZQWGlZSXB3UG04LXdrU2hlVFZlZHA0Zw?oc=5",
-     "bron": "CNN",
-     "tijd": "17:01",
-     "sorteer": "2026-11-06T16:01:56+00:00",
+     "tijd": "17:56",
+     "sorteer": "2026-11-06T16:56:39+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -377,43 +462,6 @@
      "bron": "The Guardian",
      "tijd": "17:00",
      "sorteer": "2026-11-06T16:00:45+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Democrats start plotting as civil war breaks out among Republicans | Politics Weekly America",
-     "context": "Jonathan Freedland hosts a live panel to look at what happens next – for Donald Trump, the Republicans who might want to succeed him, and for Democrats looking ahead to 2028. He is joined by the Guardian’s Washington bureau chief, David Smith; Tara Setmayer, a co-founder and CEO of the Seneca project; the Guardian’s global editor, Devika Bhat; Adam Smith, a professor of US politics and political h",
-     "rubrieken": [
-      "US politics",
-      "Donald Trump",
-      "Republicans",
-      "Democrats",
-      "US news",
-      "US midterm elections 2026"
-     ],
-     "link": "https://www.theguardian.com/politics/video/2026/nov/06/democrats-start-plotting-as-civil-war-breaks-out-among-republicans-politics-weekly-america",
-     "bron": "The Guardian",
-     "tijd": "16:00",
-     "sorteer": "2026-11-06T15:00:46+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "The most diverse, anti-establishment Congress in history is cause for optimism",
-     "context": "After years of outrage or numbness being the main options for dealing with politics, Tuesday’s results were permission to be optimistic This was originally published in the Stakes 2026, a newsletter about the midterm elections. Sign up to get it in your inbox We shed some tears this midterm cycle. US politics always makes people emotional, but I heard from friends and colleagues many times this ye",
-     "rubrieken": [
-      "US midterm elections 2026",
-      "US news",
-      "US politics",
-      "Democrats",
-      "Texas",
-      "Republicans",
-      "World news"
-     ],
-     "link": "https://www.theguardian.com/us-news/2026/nov/05/congress-midterms-diverse",
-     "bron": "The Guardian",
-     "tijd": "15:17",
-     "sorteer": "2026-11-06T14:17:18+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -460,54 +508,83 @@
      "taal": "en"
     },
     {
-     "titel": "Melania Trump Repositions the White Suit",
-     "context": "The first lady wore a white suit to preside over the White House meeting of delegations from Russia and Ukraine.",
+     "titel": "Jared Kushner’s European security plan isn’t convincing Europe",
+     "context": "Capitals fear a U.S. effort to overhaul the continent's security arrangements could exclude allies and favor Russia.",
      "rubrieken": [
-      "United States Politics and Government",
-      "Fashion and Apparel",
-      "International Relations",
-      "First Ladies (US)",
-      "Trump, Melania"
+      "EU-US military ties",
+      "NATO",
+      "U.S. foreign policy",
+      "U.S. politics",
+      "War in Ukraine",
+      "Defense",
+      "Politics"
      ],
-     "link": "https://www.nytimes.com/2026/11/06/style/melania-trump-white-suit-russia-ukraine-cease-fire.html",
-     "bron": "New York Times",
-     "tijd": "14:29",
-     "sorteer": "2026-11-06T13:29:47+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Wave of bomb threats target Irish media outlets and more European flights",
-     "context": "The latest spate of threats comes just days before a meeting of the European Political Community in Dublin.",
-     "rubrieken": [
-      "Aviation",
-      "Irish politics",
-      "Media",
-      "Security",
-      "Mobility"
-     ],
-     "link": "https://www.politico.eu/article/bomb-threats-target-irish-media-and-more-european-flights/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "link": "https://www.politico.eu/article/jared-kushner-european-security-plan-is-not-convincing-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
      "bron": "Politico Europe",
-     "tijd": "17:50",
-     "sorteer": "2026-11-06T16:50:31+00:00",
+     "tijd": "18:58",
+     "sorteer": "2026-11-06T17:58:32+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Meghan Markle’s Father Is Arrested on Child Sex Abuse Material Charges",
-     "context": "Thomas Markle Sr., Meghan’s estranged father, was arrested in Florida on Friday. He has denied the accusations against him.",
+     "titel": "Prince, the pope, and autumn 2026: purple is hot this season",
+     "context": "Spotted on Balenciaga, Celine and Valentino catwalks, purple is having a moment. If you really want to stand out, wear it with red The colour purple has links to royalty, the Catholic church, Prince, Gordon Brown’s ties and Barney the dinosaur andit now has a new association – autumn 2026. It’s been deemed fashion’s favourite colour having been spotted on autumn/winter catwalks, with Balenciaga, C",
      "rubrieken": [
-      "Royal Families",
-      "Markle, Thomas Wayne (1944- )",
-      "Markle, Meghan",
-      "Child Pornography",
-      "Federal Bureau of Investigation",
-      "Lakeland (Fla)"
+      "Fashion",
+      "Life and style",
+      "Monarchy",
+      "Catholicism",
+      "Prince",
+      "UK news",
+      "World news",
+      "Fashion weeks",
+      "Balenciaga"
      ],
-     "link": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html",
+     "link": "https://www.theguardian.com/fashion/2026/nov/06/prince-pope-autumn-2026-purple-hot-this-season",
+     "bron": "The Guardian",
+     "tijd": "18:51",
+     "sorteer": "2026-11-06T17:51:37+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
+     "context": "President Isaac Herzog is set to task a candidate with trying to form a government, following two days of talks with party leaders and officials after an inconclusive election.",
+     "rubrieken": [
+      "Jews and Judaism",
+      "Law and Legislation",
+      "Legislatures and Parliaments",
+      "Politics and Government",
+      "Elections",
+      "Joint List (Israel)",
+      "Likud Party (Israel)",
+      "Raam Party (Israel)",
+      "United Torah Judaism",
+      "Yashar Party (Israel)",
+      "Yisrael Beiteinu",
+      "Yisrael Beiteinu (Israeli Political Party)",
+      "Eisenkot, Gadi",
+      "Herzog, Isaac",
+      "Lapid, Yair",
+      "Lieberman, Avigdor",
+      "Israel",
+      "Netanyahu, Benjamin"
+     ],
+     "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
      "bron": "New York Times",
-     "tijd": "17:46",
-     "sorteer": "2026-11-06T16:46:20+00:00",
+     "tijd": "18:50",
+     "sorteer": "2026-11-06T17:50:02+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Nigerian court rules opposition candidate cannot stand in elections",
+     "context": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "18:35",
+     "sorteer": "2026-11-06T17:35:55+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -517,19 +594,8 @@
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "17:23",
-     "sorteer": "2026-11-06T16:23:16+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Two dead after bus crashes in France, officials say",
-     "context": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "16:33",
-     "sorteer": "2026-11-06T15:33:52+00:00",
+     "tijd": "18:03",
+     "sorteer": "2026-11-06T17:03:02+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -540,6 +606,24 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Verdachte bekent moordpoging op Iraanse publicist in Haarlem",
+     "context": "Een van de zes verdachten van een mislukte moordaanslag op een Iraanse activist en publicist in Haarlem, heeft bekend dat hij naar Nederland is gekomen om een moord in opdracht te plegen. Het strafproces tegen vijf mannen en een vrouw ging vandaag van start in de extra beveiligde rechtszaal op Schiphol. De zes worden verdacht van betrokkenheid bij de moordpoging in 2024 op de in Haarlem wonende Ir",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638332",
+     "bron": "NOS",
+     "tijd": "18:43",
+     "sorteer": "2026-11-06T18:43:27+01:00"
+    },
+    {
+     "titel": "Knot en Hernández de Cos als enige over in de race om presidentschap ECB",
+     "context": "Klaas Knot, de Nederlandse kandidaat voor de functie van president van de Europese Centrale Bank, heeft maar één tegenstander bij de strijd om die functie. Vandaag sloot de termijn waarin kandidaten aangemeld konden worden. Alleen Pablo Hernández de Cos, de oud-president van de Spaanse centrale bank, is naast Knot in de race voor de functie. Meer kandidaten zijn niet voorgedragen voor het presiden",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638328",
+     "bron": "NOS",
+     "tijd": "18:14",
+     "sorteer": "2026-11-06T18:14:19+01:00"
+    },
     {
      "titel": "Gemeenten worstelen met vluchtelingenopvang, in Oss hebben ze een oplossing",
      "context": "Steeds meer gemeenten kloppen aan bij de vluchtelingenopvang in Oss. Ze willen weten wat de opvang hier zo anders maakt. Ook onderzoeken ze de mogelijkheid dit voorbeeld te volgen. De eerste zeven gemeenten zijn vandaag op cursus bij de stichting die de vluchtelingen huisvest. Zestien beleidsmedewerkers van die gemeenten luisteren aandachtig naar de directeur van Stichting Thuis in Oss, Angelo Sch",
@@ -568,37 +652,19 @@
      "sorteer": "2026-11-06T15:17:12+01:00"
     },
     {
-     "titel": "Podcast De Dag: Het spel van de game-componist",
-     "context": "Deze week kwam een nieuwe versie uit van een van de populairste games ooit gemaakt: Zelda, Ocarina of Time. En later deze maand kunnen liefhebbers na jaren wachten eindelijk de gameconsole aanslingeren voor GTA VI, de grootste game-release ooit. Bij die spellen hoort onlosmakelijk muziek. Soundtracks, waar steeds meer aandacht en waardering voor is. Zo is volgende week de Gamemuziek Top 50 te hore",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638304",
-     "bron": "NOS",
-     "tijd": "15:13",
-     "sorteer": "2026-11-06T15:13:59+01:00"
-    },
-    {
-     "titel": "2026 schiet vrijwel zeker door 1,5 graad opwarming na recordwarme oktober",
-     "context": "Afgelopen maand was wereldwijd de warmste oktober ooit gemeten en het is nu vrijwel zeker dat 2026 door de 1,5 graad opwarming gaat. Dat blijkt uit de nieuwste gegevens van het Europese aardobservatieprogramma Copernicus. Daarmee lijkt het erop dat 2026 het tweede kalenderjaar wordt waarin die symbolisch belangrijke 1,5 graad wordt overschreden. De vorige keer was in 2024. Hoewel het langjarig gem",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638283",
-     "bron": "NOS",
-     "tijd": "12:46",
-     "sorteer": "2026-11-06T12:46:46+01:00"
-    },
-    {
      "titel": "Wie schakelde dit moordkartel in voor de politieke liquidatie op een Iraanse journalist in Nederland?",
      "context": "",
      "rubrieken": [],
      "link": "https://www.volkskrant.nl/binnenland/wie-schakelde-dit-moordkartel-in-voor-de-politieke-liquidatie-op-een-iraanse-journalist-in-nederland~b06f3d42/",
      "bron": "de Volkskrant",
      "tijd": "17:08",
-     "sorteer": "2026-11-06T16:08:32+00:00"
+     "sorteer": "2026-11-06T16:08:00+00:00"
     },
     {
      "titel": "Valse bommeldingen in Europa: welke gevolgen hebben die en wie zou hier achter kunnen zitten?",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/valse-bommeldingen-in-europa-welke-gevolgen-hebben-die-en-wie-zou-hier-achter-kunnen-zitten~b67cfbec/",
+     "link": "https://www.volkskrant.nl/buitenland/valse-bommeldingen-in-europa-welke-gevolgen-hebben-die-en-wie-zou-hier-achter-kunnen-zitten~b67cfbec/",
      "bron": "de Volkskrant",
      "tijd": "16:16",
      "sorteer": "2026-11-06T15:16:00+00:00"
@@ -610,14 +676,28 @@
      "link": "https://www.trouw.nl/binnenland/demonstranten-willen-datacenter-van-microsoft-terugpakken-maar-lopen-tegen-de-wapenstok-aan~bce579ff/",
      "bron": "Trouw",
      "tijd": "17:52",
-     "sorteer": "2026-11-06T16:52:28+00:00"
+     "sorteer": "2026-11-06T16:52:00+00:00"
     },
     {
-     "titel": "Van Weel (VVD) vindt nog altijd wijsheid in de Bijbelverhalen",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDZha0VEcUpSVklib1EtTV90TW56YWxQTDRZWGNYSXdRV1BSdDJsd0VKTlVLWmpEbXRxNHEyRE0zM3kzRDc0cE1yWEFiS0g3T25PNVpRVDNHaUZDVTJlWjBYQlRTQjFjeWZ3QjMyQWo0anJUMDMxd2tOeDdmeXlkUmU3VnJnSWFSRy14bTlUM2g?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "17:32",
-     "sorteer": "2026-11-06T16:32:21+00:00"
+     "titel": "Man op heterdaad aangehouden omdat hij graffiti met mogelijke discriminerende betekenis spoot",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYWV4OXRZNGxFbUV6V0s5eENaQkFTT3lPZURTeVRvRWlHdDB3blF4d1dsVGpPQXdkaDluYW1BcVFURzJleHA4VFVYcXZjcTNaWVJmVnNQS0YySGJPRmMxRXJqU05kUXVvdFlDSm1EemotdlUtNkhNcWFhSjZrSWhjWndvTk1IZ2dHLUtDakdmd21JTlpUX3B3YS1mR2hYVWUySVFtUjlKOGsxN3U3U1NqNGxWVnJKTjZqMUFnR3dxTUdSNVRINVE?oc=5",
+     "bron": "AD.nl",
+     "tijd": "18:51",
+     "sorteer": "2026-11-06T17:51:27+00:00"
+    },
+    {
+     "titel": "Iran niet in beklaagdenbank, toch klonk het ayatollah-regime in zaak verijdelde liquidatie: ’Noem naam grote baas niet’",
+     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUUFGZDdTR0tabXZLRURZQkcxbTBMSHQ2aHl1VVlrb2dGTTVCU25HOUhxWHJUcG8yU2I0WEotd3U5WTB5RHU3dFRjX29aQmdqRnJVaXZBRWZ0aE92a2RyaDhWUGxEUnBFY1JVOFl3dkhNN1FmVHJCUmpScWxnQlB0c3dDWFJoYWtMUUk4NkRMZW1GcU1pUWxUc3Z4M3ZMOFRvOU9LUFJUTDFwU25hMnVlc3NVaTB5UE5qUkRHbWVnd0RPZW5pMmNpUDlhaU5vYUc4cUxjc1BDU2J2RkVwZW9NNmlUWTVyS0d3bTVtYUxQb21UZHRNRmdldjR3?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "18:42",
+     "sorteer": "2026-11-06T17:42:00+00:00"
+    },
+    {
+     "titel": "Deurbelcamera legt onthullend gesprek vast over fatale nacht: ‘Knock-out en toen kwam een auto’",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNXVQTk5nSGZIa3pGb3NOa0gwUmdUNG1fMzZhWGdQdnd0SjQyQjZRQnBfQzJOYlIwOFc0UGVFZTQ0cE9jd3lkeUdBX3JRUHJyVmQ5SW0xeVlSRVNtRjhRd2xyaE04WVdRV1A2RkQ1QXhISzdXbFBTVXpRLVdsbWZ4NVlYRmR4SlJfb1BETmI4ZFBhNnY2U1lUM25rb284S1pHNGNVdXpFeHE2UHlyT3Q0Sl8zaC0ybll2Q0d1M3BneDdGNXVFUDhwNE9JZw?oc=5",
+     "bron": "Brabants Dagblad",
+     "tijd": "18:32",
+     "sorteer": "2026-11-06T17:32:56+00:00"
     },
     {
      "titel": "Terreurverdachten, onder wie 16-jarige Rotterdammer, bereidden volgens justitie aanslag voor: ‘Sprayen met AK47’",
@@ -625,20 +705,6 @@
      "bron": "AD.nl",
      "tijd": "17:30",
      "sorteer": "2026-11-06T16:30:38+00:00"
-    },
-    {
-     "titel": "Philip Morris krijgt boete van 45.000 euro voor verboden tabaksreclame bij Harry Mens",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMG9jMzFOSUtnLWNVeVZFVmxRZlpQY1MySUNqNmFqMDZFcERmYjVqVk1jR3d6MkF6ZThHd0JhSWNybEt1M3FRWkZZTHRBUk9ITzVyZTRvNElTQ2lDNDFBWEMxMEo2cDZhSlRmR0hIM1pRcl81Z0llRGxCLXc3QXpZSDlXNS1XTlIzYldOZ3UwczRPUXR3eVlmQTRrbjZ3M0o0OFNXTWQybUNoYk9IYnRzVmsyZll6SzVXZDVZemVn?oc=5",
-     "bron": "Eindhovens Dagblad",
-     "tijd": "17:30",
-     "sorteer": "2026-11-06T16:30:36+00:00"
-    },
-    {
-     "titel": "Zorghuis gaat gebukt onder intimidatie en bedreigingen van Velpenaar; personeel meldt zich ziek of vertrekt",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNVZrNGJ5M1l2SnFpYTVMS1YyQTB0Q04tT1BBZ1JiOGN2Z2xBVzY1Q05uc2dPbjJrWG1BWmF6V3IxcV92RE5KbndCN2xzTUhCeEx4Zl9PN2k1NV9sUElZNzdyeV9PYlVFMFYweW1GOHFTZzZBY29KNEdmN19YenBFTHpuYUhUVkVSdmlSOXZocF9HRy0wZHFkMk5NNnViMVE4ZlRvOXRUNW1COTBYN3NhLUlHazFkY1hTcHMwN3YwRWJMdVZhbnRESDI5U2w5V0Z4Y0RoV1daaXRRb3NYbmlUWHlfU3Fvdw?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "17:48",
-     "sorteer": "2026-11-06T16:48:35+00:00"
     },
     {
      "titel": "‘Nuisance Bear’ toont de verwarring, pijn en onmacht van gedwongen transformatie",
@@ -692,14 +758,6 @@
      "kop": "Begroting"
     },
     {
-     "titel": "Kabinet-Jetten krijgt Belastingplan niet rond en legt probleem bij Tweede Kamer",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PcFBiNDFnTmV3RDVBZHBCLXl5UmhFbW4zX0NVOUMzNGNKOUZ5TVozNXFlZVp6VHN0ay10aEpaQjlpdGxzSXFtLWVyYU1FQQ?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "16:13",
-     "sorteer": "2026-11-06T15:13:32+00:00",
-     "kop": "Begroting"
-    },
-    {
      "titel": "Fractieleiders D66, VVD en CDA praten een-op-een met oppositie over belastingplan",
      "context": "De fractievoorzitters van D66, VVD en CDA zoeken de komende dagen los van elkaar contact met oppositiepartijen om een oplossing te vinden voor de problemen rondom het belastingplan voor 2027. Iedere ochtend zullen Paternotte (D66), Brekelmans (VVD) en Bontenbal (CDA) contact hebben over het verloop van die gesprekken. Vanochtend was dit eerste overleg. De drie fractievoorzitters hopen dat ze begin",
      "rubrieken": [],
@@ -727,6 +785,15 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Dinie en Ali uit Markelo rollen erop los: maak kennis met deze oude huwelijkstraditie",
+     "context": "Vouwen, rollen en het eindresultaat in de kast leggen. Dat zijn de drie basisprincipes van het dook roll'n. Maar achter die lange linnen lappen schuilt een wereld vol tradities en gebruiken. Bij museumboerderij Eungs Schöppe in Markelo zijn er nog dames die dit stukje immaterieel erfgoed levend houden.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/cultuur/3704230/dinie-en-ali-uit-markelo-rollen-erop-los-maak-kennis-met-deze-oude-huwelijkstraditie",
+     "bron": "RTV Oost",
+     "tijd": "18:03",
+     "sorteer": "2026-11-06T17:03:16+00:00"
+    },
     {
      "titel": "Gerrit (58) zou nooit meer lopen, nu komt zijn droom met hond Rhiver uit",
      "context": "Hondentrainer Gerrit Wilps (58) uit Hellendoorn heeft zich samen met zijn Golden Retriever Rhiver gekwalificeerd voor een van de belangrijkste jachthondenwedstrijden van Nederland. Een bijzondere prestatie, want zijn leven kwam in 2015 volledig op zijn kop te staan.",
@@ -775,39 +842,30 @@
      "sorteer": "2026-11-06T11:11:22+00:00"
     },
     {
-     "titel": "Konijnensector werkt aan verbeterplan na video's mishandelingen op fokkerijen",
-     "context": "LTO werkt namens de konijnensector aan een verplicht verbeterplan voor het welzijn van konijnen op fokkerijen. Dit naar aanleiding van beelden van actiegroep Animal Rights, waarop ernstige misstanden te zien zijn bij bedrijven in onder meer Wijhe, Notter, Bentelo, Raalte en Diepenheim.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3715821/konijnensector-werkt-aan-verbeterplan-na-videos-mishandelingen-op-fokkerijen",
-     "bron": "RTV Oost",
-     "tijd": "10:29",
-     "sorteer": "2026-11-06T09:29:58+00:00"
-    },
-    {
-     "titel": "Vogelshow in Nieuwleusen: kleurrijke vogels en een warm welkom",
-     "context": "NIEUWLEUSEN – Een warm ontvangst, bijzondere vogels en enthousiaste liefhebbers: in de sfeervolle zaal van natuurboerderij BalkInn aan het Westerveen is volop te genieten. Vogelvereniging De Volerevriend houdt er haar jaarlijkse vogelshow, waar bezoekers vrijdag en zaterdag gratis welkom zijn. Al bij aankomst begint de gastvrijheid. Een dame van Smink — dit keer niet […]",
+     "titel": "Kerstmarkt Brugstede",
+     "context": "LEMELERVELD – Welkom op onze jaarlijkse kerstmarkt Brugstede Mooie kramen, oliebollen, muziek, Glühwein, Erwtensoep, Kerststukjes enz.",
      "rubrieken": [
-      "Laatste nieuws",
-      "Nieuwleusen"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/556067/vogelshow-in-nieuwleusen-kleurrijke-vogels-en-een-warm-welkom.html",
-     "bron": "DalfsenNet",
-     "tijd": "17:53",
-     "sorteer": "2026-11-06T16:53:11+00:00"
-    },
-    {
-     "titel": "Waor un sloot ok nog goed veur is",
-     "context": "LEMELERVELD – Um ut grus te laotn gruuien, muj dur mangs ok mest opgooin. Met det stikstofgedoe muj ok nog uutkiekn watter wel mag en niet maagt. As un boer met un bulte stront kump te zitn, kant mooi op ut grusland. Dus de giertank dur bie ehaalt en uutkaorn det spul. Asse zo un […]",
-     "rubrieken": [
-      "Columns",
       "Ingezonden bericht",
       "Laatste nieuws",
       "Lemelerveld"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/556064/waor-un-sloot-ok-nog-goed-veur-is.html",
+     "link": "https://www.dalfsennet.nl/nieuws/556066/kerstmarkt-brugstede-2.html",
      "bron": "DalfsenNet",
-     "tijd": "15:29",
-     "sorteer": "2026-11-06T14:29:06+00:00"
+     "tijd": "18:18",
+     "sorteer": "2026-11-06T17:18:19+00:00"
+    },
+    {
+     "titel": "Sociale Kwaliteit",
+     "context": "REGIO – Wij willen dat iedereen in Overijssel gezond en vitaal kan leven, anderen kan ontmoeten en mee kan doen in de samenleving. Daarom stimuleren we initiatieven die bijdragen aan sterke gemeenschappen en een leefomgeving waarin mensen zich thuis voelen, voor elkaar klaarstaan en zo lang mogelijk zelfstandig kunnen leven. Lees hier verder,",
+     "rubrieken": [
+      "Ingezonden bericht",
+      "Laatste nieuws",
+      "Regio"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/556075/sociale-kwaliteit.html",
+     "bron": "DalfsenNet",
+     "tijd": "18:17",
+     "sorteer": "2026-11-06T17:17:07+00:00"
     }
    ]
   },
@@ -858,6 +916,13 @@
    "emoji": "🤖",
    "items": [
     {
+     "titel": "NCTV: cyberdreiging neemt snel toe door AI, actie nodig",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OOGEtcTMxVHU2WDVEMjktYVNzcDh2bnVnbjlJcU9PM0l0eUZPWG56eHlhM0NxV3E5bzZfS045VERjSnhLSXhFRHNxM3h4LXBOWDhLTF9OSTNYU1lzbTZBNVhTWWFlVUhKVDhGaUlfcGx5OGJUSEJUMTc5QVpmZw?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "18:50",
+     "sorteer": "2026-11-06T17:50:41+00:00"
+    },
+    {
      "titel": "NCTV ziet dat AI steeds grotere rol speelt bij uitvoering van aanvallen",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPREhjT2d1SFVnRUF3YUxyWGh4dFRwN3lIZWdBdEZaVXNjLXZ6SUtiSGVjWFZCaEFnTUppcG5NZHJEcnhCVDlKZU45aDR5RUhKbWFLMnlvdjdvVmlTT3RubEcwU3NodUhMNnFSbkFHLTFTc1lqUmF1UW84eE9uSnlSbHVlclNKbnFmNUkwX3VQTDh5QzR4TmxQY3NUaENPTExsVngySVk2QzVUTl9KVG16X01rdUN0VEg0Nnc?oc=5",
      "bron": "iBestuur",
@@ -891,13 +956,6 @@
      "bron": "NRC",
      "tijd": "15:30",
      "sorteer": "2026-11-06T14:30:00+00:00"
-    },
-    {
-     "titel": "GS1 wil AI-modellen voorzien van betrouwbare productdata",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdlJNYXpoQTZlTThMYTM0U09ZS1EydXpIdFFEOEotcFg1bFRzZzVWckozQURJMHJQc2FCcHpZclczRWVwWEh2WGpqQzhKWXk3VEtIbWw3ejFydnJTNDE0b3JnU2dCempUMnVETlQycjhTcnhrenE0WXVveDRuZEFXX0hJeEo5cS1kUmxta29ybzBBZ2dmN0J4OWpDZVgtOFdwc0dDUXh4cGFTSGtpczhLR2l4aw?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "14:50",
-     "sorteer": "2026-11-06T13:50:12+00:00"
     }
    ]
   },
@@ -1061,360 +1119,6 @@
    ]
   },
   {
-   "id": "sport",
-   "titel": "Sport",
-   "emoji": "⚽",
-   "items": [],
-   "sport": {
-    "bijgewerkt": "18:00",
-    "voetbal": {
-     "uitslagen": [
-      {
-       "thuis": "Willem II",
-       "uit": "PEC Zwolle",
-       "score": "",
-       "wanneer": "vandaag 20:00",
-       "bezig": "Scheduled",
-       "eigen": true
-      },
-      {
-       "thuis": "PEC Zwolle",
-       "uit": "ADO Den Haag",
-       "score": "1 - 0",
-       "wanneer": "gisteren 12:15",
-       "bezig": "",
-       "eigen": true
-      },
-      {
-       "thuis": "Excelsior",
-       "uit": "FC Twente",
-       "score": "0 - 9",
-       "wanneer": "gisteren 14:30",
-       "bezig": "",
-       "eigen": false
-      },
-      {
-       "thuis": "Telstar",
-       "uit": "FC Utrecht",
-       "score": "4 - 2",
-       "wanneer": "gisteren 14:30",
-       "bezig": "",
-       "eigen": false
-      },
-      {
-       "thuis": "FC Groningen",
-       "uit": "Sparta",
-       "score": "2 - 3",
-       "wanneer": "gisteren 16:45",
-       "bezig": "",
-       "eigen": false
-      },
-      {
-       "thuis": "Feyenoord",
-       "uit": "Fortuna",
-       "score": "1 - 1",
-       "wanneer": "zaterdag 16:30",
-       "bezig": "",
-       "eigen": false
-      },
-      {
-       "thuis": "Heerenveen",
-       "uit": "NEC",
-       "score": "1 - 0",
-       "wanneer": "zaterdag 18:45",
-       "bezig": "",
-       "eigen": false
-      },
-      {
-       "thuis": "PSV",
-       "uit": "Willem II",
-       "score": "7 - 0",
-       "wanneer": "zaterdag 18:45",
-       "bezig": "",
-       "eigen": false
-      },
-      {
-       "thuis": "Ajax",
-       "uit": "AZ Alkmaar",
-       "score": "1 - 0",
-       "wanneer": "zaterdag 21:00",
-       "bezig": "",
-       "eigen": false
-      }
-     ],
-     "stand": [
-      {
-       "plek": "1",
-       "team": "Feyenoord",
-       "gespeeld": "11",
-       "punten": "25",
-       "saldo": "+21",
-       "eigen": false
-      },
-      {
-       "plek": "2",
-       "team": "Ajax",
-       "gespeeld": "11",
-       "punten": "24",
-       "saldo": "+17",
-       "eigen": false
-      },
-      {
-       "plek": "3",
-       "team": "PSV",
-       "gespeeld": "11",
-       "punten": "23",
-       "saldo": "+22",
-       "eigen": false
-      },
-      {
-       "plek": "4",
-       "team": "FC Twente",
-       "gespeeld": "11",
-       "punten": "23",
-       "saldo": "+18",
-       "eigen": false
-      },
-      {
-       "plek": "5",
-       "team": "AZ Alkmaar",
-       "gespeeld": "11",
-       "punten": "20",
-       "saldo": "+7",
-       "eigen": false
-      },
-      {
-       "plek": "6",
-       "team": "Fortuna",
-       "gespeeld": "11",
-       "punten": "19",
-       "saldo": "0",
-       "eigen": false
-      },
-      {
-       "plek": "7",
-       "team": "Heerenveen",
-       "gespeeld": "11",
-       "punten": "18",
-       "saldo": "+6",
-       "eigen": false
-      },
-      {
-       "plek": "8",
-       "team": "FC Groningen",
-       "gespeeld": "11",
-       "punten": "15",
-       "saldo": "+2",
-       "eigen": false
-      },
-      {
-       "plek": "9",
-       "team": "Cambuur",
-       "gespeeld": "11",
-       "punten": "15",
-       "saldo": "+1",
-       "eigen": false
-      },
-      {
-       "plek": "10",
-       "team": "Go Ahead Eagles",
-       "gespeeld": "11",
-       "punten": "14",
-       "saldo": "-4",
-       "eigen": false
-      },
-      {
-       "plek": "11",
-       "team": "Sparta",
-       "gespeeld": "11",
-       "punten": "12",
-       "saldo": "-6",
-       "eigen": false
-      },
-      {
-       "plek": "12",
-       "team": "FC Utrecht",
-       "gespeeld": "11",
-       "punten": "12",
-       "saldo": "-12",
-       "eigen": false
-      },
-      {
-       "plek": "13",
-       "team": "NEC",
-       "gespeeld": "11",
-       "punten": "11",
-       "saldo": "-2",
-       "eigen": false
-      },
-      {
-       "plek": "14",
-       "team": "PEC Zwolle",
-       "gespeeld": "11",
-       "punten": "11",
-       "saldo": "-11",
-       "eigen": true
-      },
-      {
-       "plek": "15",
-       "team": "Excelsior",
-       "gespeeld": "11",
-       "punten": "11",
-       "saldo": "-12",
-       "eigen": false
-      },
-      {
-       "plek": "16",
-       "team": "Telstar",
-       "gespeeld": "11",
-       "punten": "9",
-       "saldo": "-7",
-       "eigen": false
-      },
-      {
-       "plek": "17",
-       "team": "ADO Den Haag",
-       "gespeeld": "11",
-       "punten": "6",
-       "saldo": "-11",
-       "eigen": false
-      },
-      {
-       "plek": "18",
-       "team": "Willem II",
-       "gespeeld": "11",
-       "punten": "2",
-       "saldo": "-29",
-       "eigen": false
-      }
-     ]
-    },
-    "f1": {
-     "race": "Mexico City",
-     "uitslag": [
-      {
-       "plek": 1,
-       "naam": "Max Verstappen",
-       "eigen": true
-      },
-      {
-       "plek": 2,
-       "naam": "Lewis Hamilton",
-       "eigen": false
-      },
-      {
-       "plek": 3,
-       "naam": "Kimi Antonelli",
-       "eigen": false
-      },
-      {
-       "plek": 4,
-       "naam": "Charles Leclerc",
-       "eigen": false
-      },
-      {
-       "plek": 5,
-       "naam": "Lando Norris",
-       "eigen": false
-      },
-      {
-       "plek": 6,
-       "naam": "George Russell",
-       "eigen": false
-      },
-      {
-       "plek": 7,
-       "naam": "Liam Lawson",
-       "eigen": false
-      },
-      {
-       "plek": 8,
-       "naam": "Gabriel Bortoleto",
-       "eigen": false
-      },
-      {
-       "plek": 9,
-       "naam": "Isack Hadjar",
-       "eigen": false
-      },
-      {
-       "plek": 10,
-       "naam": "Ryo Hirakawa",
-       "eigen": false
-      }
-     ],
-     "volgende": {
-      "naam": "São Paulo",
-      "datum": "2026-11-08",
-      "wanneer": "zondag 8 november, 18:00"
-     },
-     "stand": [
-      {
-       "plek": "1",
-       "naam": "Kimi Antonelli",
-       "punten": "380",
-       "eigen": false
-      },
-      {
-       "plek": "2",
-       "naam": "Max Verstappen",
-       "punten": "261",
-       "eigen": true
-      },
-      {
-       "plek": "3",
-       "naam": "Lewis Hamilton",
-       "punten": "259",
-       "eigen": false
-      },
-      {
-       "plek": "4",
-       "naam": "George Russell",
-       "punten": "250",
-       "eigen": false
-      },
-      {
-       "plek": "5",
-       "naam": "Charles Leclerc",
-       "punten": "245",
-       "eigen": false
-      },
-      {
-       "plek": "6",
-       "naam": "Lando Norris",
-       "punten": "221",
-       "eigen": false
-      },
-      {
-       "plek": "7",
-       "naam": "Oscar Piastri",
-       "punten": "144",
-       "eigen": false
-      },
-      {
-       "plek": "8",
-       "naam": "Isack Hadjar",
-       "punten": "107",
-       "eigen": false
-      },
-      {
-       "plek": "9",
-       "naam": "Liam Lawson",
-       "punten": "83",
-       "eigen": false
-      },
-      {
-       "plek": "10",
-       "naam": "Pierre Gasly",
-       "punten": "42",
-       "eigen": false
-      }
-     ]
-    }
-   },
-   "aantal": 19
-  },
-  {
    "id": "natuur",
    "titel": "Natuur",
    "emoji": "🌿",
@@ -1466,20 +1170,20 @@
      "link": "https://scientias.nl/dieren-de-dupe-van-onze-herrie/"
     },
     {
-     "titel": "Drought driven by climate change is redefining how disease spreads, study finds",
-     "toelichting": "As climate change intensifies, drought is widening globally, causing alterations in water-dependent pathogen patterns, leaving scientists scrambling to understand how infectious disease transmission is evolving. They’ll ",
+     "titel": "As loggerhead turtles spread west, Mediterranean beach resorts learn to share the sand",
+     "toelichting": "ASCEA and CASTEL VOLTURNO, Italy, and BARCELONA, Spain — In the early hours of a warm July day, regular rows of still-folded sun umbrellas stand along the shores of Castel Volturno, a coastal town in the Italian region o",
      "bron": "Mongabay (Engels)",
-     "tijd": "17:16",
-     "link": "https://news.mongabay.com/2026/11/drought-driven-by-climate-change-is-redefining-how-disease-spreads-study-finds/",
-     "sorteer": "2026-11-06T16:16:11+00:00"
+     "tijd": "18:05",
+     "link": "https://news.mongabay.com/2026/11/as-loggerhead-turtles-spread-west-mediterranean-beach-resorts-learn-to-share-the-sand/",
+     "sorteer": "2026-11-06T17:05:17+00:00"
     },
     {
-     "titel": "‘Stringing me along’: After 7 years, trial in Indigenous forest guardian killing delayed again",
-     "toelichting": "Why hasn’t the trial for the 2019 killing of forest guardian Paulo Paulino Guajajara and the attempted killing of fellow guardian Láercio Guajajara, in the Brazilian Amazon, taken place yet? “[T]here are no available slo",
+     "titel": "Scientists discovered an unknown baby right whale off Canada. They say it’s a cause for joy",
+     "toelichting": "PORTLAND, Maine (AP) — Scientists who study whales are heartened by an unexpected discovery of a baby right whale off Canada. Researchers in Canada captured images of an unidentified baby North Atlantic right whale, one ",
      "bron": "Mongabay (Engels)",
-     "tijd": "16:41",
-     "link": "https://news.mongabay.com/2026/11/stringing-me-along-after-7-years-trial-in-indigenous-forest-guardian-killing-delayed-again/",
-     "sorteer": "2026-11-06T15:41:52+00:00"
+     "tijd": "18:03",
+     "link": "https://news.mongabay.com/short-article/2026/11/scientists-discovered-an-unknown-baby-right-whale-off-canada-they-say-its-a-cause-for-joy/",
+     "sorteer": "2026-11-06T17:03:15+00:00"
     }
    ]
   },
@@ -1655,11 +1359,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — 230 meldingen in de afgelopen week, waarvan 47 vandaag",
+     "titel": "Invasiejaar — 234 meldingen in de afgelopen week, waarvan 51 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 279 vogels in de nieuwste meldingen"
+     "vergelijking": "samen 285 vogels in de nieuwste meldingen"
     },
     {
      "kop": "Pestvogels",
@@ -1689,9 +1393,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 4.8,
-    "gevoel": 2.6,
-    "wind": "O 2",
+    "nu": 4.2,
+    "gevoel": 2.3,
+    "wind": "ONO 2",
     "station": "Heino",
     "bericht": "Het wordt regionaal een koude nacht met lichte vorst. Mocht de temperatuur in de Bilt ook onder nul komen dan is dat landelijk de eerste vorst van dit najaar. Verder kan vannacht regionaal mist ontstaan.",
     "vandaag": "Verder kan vannacht regionaal mist ontstaan. Vanavond begint op veel plaatsen helder, maar vanuit Duitsland komt geleidelijk laaghangende bewolking en mist binnendrijven.",
