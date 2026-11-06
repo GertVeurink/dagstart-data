@@ -3,15 +3,13 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "15:00",
+  "opgehaald": "15:58",
   "blokken": 11,
-  "berichten": 105,
-  "problemen": [
-   "kamerstukken Antwoord schriftelijke vragen: HTTP 500"
-  ],
+  "berichten": 110,
+  "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-06T15:00+01:00",
+ "opgehaald": "2026-11-06T15:58+01:00",
  "audio": "audio/20261106.mp3",
  "afval": [
   {
@@ -208,6 +206,24 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "33 doden bij aanval rebellengroep Oost-Congo, ebola-patiënten op de vlucht",
+     "context": "Bij een aanval van gewapende militanten van de Allied Democratic Forces (ADF) in een dorp in het oosten van Congo zijn minstens 33 mensen om het leven gekomen. Volgens een lokale maatschappelijke organisatie werden daarbij huizen in brand gestoken en geplunderd. \"We hoorden kogelschoten en huizen op zo'n 50 meter afstand werden in brand gestoken\", zegt de directeur van een lokaal ziekenhuis. De aa",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638311",
+     "bron": "NOS",
+     "tijd": "15:42",
+     "sorteer": "2026-11-06T15:42:39+01:00"
+    },
+    {
+     "titel": "Keniaanse sekteleider krijgt 200 jaar cel voor uithongeren 190 kinderen",
+     "context": "De Keniaanse sekteleider Paul Mackenzie is veroordeeld tot een gevangenisstraf van 200 jaar voor de moord op 190 kinderen en een volwassene. De kinderen werden op zijn bevel uitgehongerd en begraven in een bos. Mackenzie wordt gelinkt aan de massamoord op meer dan 400 mensen. Ook 28 andere leden van de sekte van Mackenzie zijn veroordeeld. Dit zijn onder meer bewakers die zijn regels handhaafden e",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638303",
+     "bron": "NOS",
+     "tijd": "15:08",
+     "sorteer": "2026-11-06T15:08:51+01:00"
+    },
+    {
      "titel": "Ouders in auto omgekomen door noodweer op Corsica, haalden dochter op van vliegveld",
      "context": "Op het Franse eiland Corsica is afgelopen nacht door noodweer een echtpaar om het leven gekomen. Dat gebeurde toen hun auto werd meegesleurd door een overstroming die was ontstaan door hevige regenval, melden de lokale autoriteiten. Hun dochter kon uit de auto worden gered. Zij is per helikopter naar het ziekenhuis gebracht. De auto kwam rond 01.00 uur tussen Bonifacio en Porto-Vecchio in de probl",
      "rubrieken": [],
@@ -235,49 +251,90 @@
      "sorteer": "2026-11-06T12:57:13+01:00"
     },
     {
-     "titel": "Bommeldingen over vluchten in Europa, pand Ierse omroep ontruimd om dreiging",
-     "context": "Voor de derde keer deze week is een reeks bommeldingen gedaan over vluchten in Europa. Ook media in Ierland en het Verenigd Koninkrijk kregen dreigingen binnen over explosieven. Voor zover bekend is er in geen enkel geval een bom aangetroffen. Er was ook een bommelding binnengekomen over een KLM-vlucht van Praag naar Amsterdam. Het vliegtuig is geland op Schiphol en gecontroleerd. Er zijn geen exp",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638285",
-     "bron": "NOS",
-     "tijd": "12:51",
-     "sorteer": "2026-11-06T12:51:50+01:00"
-    },
-    {
-     "titel": "2026 schiet vrijwel zeker door 1,5 graad opwarming na recordwarme oktober",
-     "context": "Afgelopen maand was wereldwijd de warmste oktober ooit gemeten en het is nu vrijwel zeker dat 2026 door de 1,5 graad opwarming gaat. Dat blijkt uit de nieuwste gegevens van het Europese aardobservatieprogramma Copernicus. Daarmee lijkt het erop dat 2026 het tweede kalenderjaar wordt waarin die symbolisch belangrijke 1,5 graad wordt overschreden. De vorige keer was in 2024. Hoewel het langjarig gem",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638283",
-     "bron": "NOS",
-     "tijd": "12:46",
-     "sorteer": "2026-11-06T12:46:46+01:00"
-    },
-    {
-     "titel": "Dodental Russische aanval op gebouw Zaporizja loopt op tot 53, tientallen vermist",
+     "titel": "Politieke crisis na strijd om Grondwettelijk Hof zet Polen een jaar voor verkiezingen op scherp",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/dodental-russische-aanval-op-gebouw-zaporizja-loopt-op-tot-53-tientallen-vermist~bde4fbe2/",
+     "link": "https://www.volkskrant.nl/buitenland/politieke-crisis-na-strijd-om-grondwettelijk-hof-zet-polen-een-jaar-voor-verkiezingen-op-scherp~b377204e/",
      "bron": "de Volkskrant",
-     "tijd": "13:38",
-     "sorteer": "2026-11-06T12:38:00+00:00"
+     "tijd": "15:54",
+     "sorteer": "2026-11-06T14:54:08+00:00"
     },
     {
-     "titel": "Belgische partijen praten tóch door over begroting, op advies van de koning",
+     "titel": "Ierse omroep RTE en Britse Sky krijgen bommeldingen, na eerdere dreigementen tegen vliegverkeer",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/belgische-partijen-praten-toch-door-over-begroting-op-advies-van-de-koning~bb4601e6/",
+     "link": "https://www.volkskrant.nl/buitenland/ierse-omroep-rte-en-britse-sky-krijgen-bommeldingen-na-eerdere-dreigementen-tegen-vliegverkeer~b02e57a0/",
      "bron": "de Volkskrant",
-     "tijd": "13:23",
-     "sorteer": "2026-11-06T12:23:40+00:00"
+     "tijd": "15:25",
+     "sorteer": "2026-11-06T14:25:47+00:00"
     },
     {
-     "titel": "Wie vermoordde de Italiaanse filmregisseur Pasolini? Een halve eeuw later komt er nieuw onderzoek",
+     "titel": "Na New York kiest ook Los Angeles voor een socialist als burgemeester",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/wie-vermoordde-de-italiaanse-filmregisseur-pasolini-een-halve-eeuw-later-komt-er-nieuw-onderzoek~bb0977f2/",
+     "link": "https://www.trouw.nl/buitenland/na-new-york-kiest-ook-los-angeles-voor-een-socialist-als-burgemeester~bb8e14af/",
      "bron": "Trouw",
-     "tijd": "14:20",
-     "sorteer": "2026-11-06T13:20:30+00:00"
+     "tijd": "15:28",
+     "sorteer": "2026-11-06T14:28:21+00:00"
+    },
+    {
+     "titel": "Defiant Pete Hegseth posts new video as effort to impeach him grows",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRGpKbEV0QzNBV1V5ZHZCWHREVjBUcFhJQUQ2ZDNPcG53SGgzQ2NyX2Rlelg3UWJaTllQUGVnSklCNjVfVjB4VUozaUw5UDdqU2k4QlpLa0xUY1owT3FPb1dUUmJsbENqNmxWOGFMMjJpSWtwM1hvZ3lobXZyQzYzZDVGZk5wRGpPNVJDeHpmZzlGNU5aemxz?oc=5",
+     "bron": "CNN",
+     "tijd": "15:47",
+     "sorteer": "2026-11-06T14:47:46+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "US midterm elections 2026 live: all eyes on last two razor-thin Senate races as Democrats vie to expand blue wave",
+     "context": "Tight races in Mississippi and Alaska could further tip scale for Democrats; blue wave has already given the party more than 40 new House seats Live results : see results from races in all 50 states Sign up for Breaking News US email Donald Trump will begin the day in Washington today. He has closed door meetings for much of the day, and will take part in a Diwali celebration at the White House at",
+     "rubrieken": [
+      "US midterm elections 2026",
+      "US Congress",
+      "US Senate",
+      "House of Representatives",
+      "US politics",
+      "Trump administration",
+      "Democrats",
+      "Republicans",
+      "US news",
+      "Donald Trump"
+     ],
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+     "bron": "The Guardian",
+     "tijd": "15:34",
+     "sorteer": "2026-11-06T14:34:11+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Trump to tape ‘60 Minutes’ interview after GOP midterm rout",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbHdkYkUtZVZDeUpQRlBKMTFPMGZUamdTdUtSRGg0UHJOUFM4S0k3X3gzRmxMVUV2YTZOdHM2TGFac1RhSUd0U2JLZE5uWUs4TTgta2RVS2VGNVhub21jSXpvbFFBWnJOUy0yZGJMOFpYQ0hRcWZfR2JnQ0N0cWZvWTlnM3RfQzFJdGVpbTd3?oc=5",
+     "bron": "CNN",
+     "tijd": "15:33",
+     "sorteer": "2026-11-06T14:33:51+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "The most diverse, anti-establishment Congress in history is cause for optimism",
+     "context": "After years of outrage or numbness being the main options for dealing with politics, Tuesday’s results were permission to be optimistic This was originally published in the Stakes 2026, a newsletter about the midterm elections. Sign up to get it in your inbox We shed some tears this midterm cycle. US politics always makes people emotional, but I heard from friends and colleagues many times this ye",
+     "rubrieken": [
+      "US midterm elections 2026",
+      "US news",
+      "US politics",
+      "Democrats",
+      "Texas",
+      "Republicans",
+      "World news"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/05/congress-midterms-diverse",
+     "bron": "The Guardian",
+     "tijd": "15:17",
+     "sorteer": "2026-11-06T14:17:18+00:00",
+     "kop": "Midterms",
+     "taal": "en"
     },
     {
      "titel": "John D. Rockefeller IV, West Virginia Governor and Senator, Dies at 89",
@@ -296,30 +353,67 @@
      ],
      "link": "https://www.nytimes.com/2026/11/06/us/politics/jay-rockefeller-dead.html",
      "bron": "New York Times",
-     "tijd": "14:50",
-     "sorteer": "2026-11-06T13:50:27+00:00",
+     "tijd": "15:10",
+     "sorteer": "2026-11-06T14:10:45+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
     {
-     "titel": "US midterm elections 2026 live: all eyes on last two razor-thin Senate races as Democrats vie to expand blue wave",
-     "context": "Tight races in Mississippi and Alaska could further tip scale for Democrats; blue wave has already given the party more than 40 new House seats Live results : see results from races in all 50 states Sign up for Breaking News US email The US jobs report shows that employers added 165,000 jobs in October – a significant increase, defying expectations. Meanwhile, the unemployment rate saw a slight dr",
+     "titel": "Day Drinking With the President",
+     "context": "On a visit to Lyndon Johnson’s Texas ranch, a cub reporter learned why it pays to get out of Washington.",
+     "rubrieken": [
+      "Johnson, Lyndon Baines",
+      "Nineteen Hundred Sixties",
+      "Presidents and Presidency (US)",
+      "Ranches",
+      "Texas",
+      "internal-paywall-exempt",
+      "anniversary-175",
+      "archives-informed"
+     ],
+     "link": "https://www.nytimes.com/2026/11/06/us/politics/lbj-ranch-1965-robert-b-semple-jr.html",
+     "bron": "New York Times",
+     "tijd": "15:07",
+     "sorteer": "2026-11-06T14:07:34+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Federal judge temporarily halts building work on Trump’s triumphal arch",
+     "context": "US judge issues 14-day block on construction on DC monument after it was approved by planning commission A federal judge in the early hours of Friday blocked any construction work from beginning on Donald Trump’s towering triumphal arch for 14 days, a major setback for one of the president’s most prominent projects in his vision to remake the nation’s capital. The temporary restraining order was i",
+     "rubrieken": [
+      "Washington DC",
+      "Trump administration",
+      "US politics",
+      "Virginia",
+      "Donald Trump",
+      "US news"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/06/judge-temporarily-halts-work-trump-triumphal-arch-washington",
+     "bron": "The Guardian",
+     "tijd": "15:04",
+     "sorteer": "2026-11-06T14:04:35+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Oxford, Bethnal Green and the Guardian: the British sojourn of a younger Abdul El-Sayed",
+     "context": "In a Guardian article in 2010, the Oxford Rhodes scholar said UK democracy had the ‘upper hand’ over the US US politics live – latest updates In the tense final hours before his dramatic election as senator for Michigan in this week’s midterms , Abdul El-Sayed had a heated encounter with a British TV journalist that rapidly went viral. As James Matthews, of Sky News, tried to ask him a question, E",
      "rubrieken": [
       "US midterm elections 2026",
-      "US Congress",
-      "US Senate",
-      "House of Representatives",
       "US politics",
-      "Trump administration",
-      "Democrats",
-      "Republicans",
+      "Sky News",
       "US news",
-      "Donald Trump"
+      "Democrats",
+      "UK news",
+      "Oxford",
+      "London",
+      "University of Oxford"
      ],
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+     "link": "https://www.theguardian.com/us-news/2026/nov/06/oxford-guardian-us-midterms-abdul-el-sayed",
      "bron": "The Guardian",
-     "tijd": "14:34",
-     "sorteer": "2026-11-06T13:34:29+00:00",
+     "tijd": "15:00",
+     "sorteer": "2026-11-06T14:00:44+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -341,61 +435,11 @@
      "taal": "en"
     },
     {
-     "titel": "What is this strange, post-election feeling? Oh right – it’s utter joy | Dave Schilling",
-     "context": "A decade of political misery does terrible things to the mind. Tuesday’s wins came with a sense of unreality Late on Tuesday night, the comedian Alex Edelman asked a poignant question on social media : “I know we’ve never had to ask this before tonight, but what’s the opposite of doomscrolling?” I don’t have a definitive answer to that, though I did offer the term “ boomscrolling ”, accompanied by",
-     "rubrieken": [
-      "US midterm elections 2026",
-      "US news",
-      "US politics",
-      "Trump administration"
-     ],
-     "link": "https://www.theguardian.com/commentisfree/2026/nov/06/post-election-feeling-optimism",
-     "bron": "The Guardian",
-     "tijd": "14:00",
-     "sorteer": "2026-11-06T13:00:43+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "‘I didn’t expect to be a main character’: Abdul El-Sayed heads to the Senate with a mandate – and a spotlight",
-     "context": "The successful Democratic contender for a Michigan Senate seat parried the many insinuations lobbed by Republicans Abdul El-Sayed said he did not expect to be “a main character of this midterms”, but the first Muslim elected to the US Senate in history will take his seat in January after a vitriolic campaign that cast him as the central villain of the president and his party. By October he told th",
-     "rubrieken": [
-      "US midterm elections 2026",
-      "Michigan",
-      "US Senate",
-      "Islamophobia",
-      "US Congress",
-      "Israel",
-      "Islam",
-      "Democrats",
-      "US foreign policy",
-      "US politics",
-      "US news"
-     ],
-     "link": "https://www.theguardian.com/us-news/2026/nov/06/abdul-el-sayed-islamophobia-michigan-senate-seat",
-     "bron": "The Guardian",
-     "tijd": "13:46",
-     "sorteer": "2026-11-06T12:46:37+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Day Drinking With the President",
-     "context": "On a visit to Lyndon Johnson’s Texas ranch, a cub reporter learned why it pays to get out of Washington.",
-     "rubrieken": [
-      "Johnson, Lyndon Baines",
-      "Nineteen Hundred Sixties",
-      "Presidents and Presidency (US)",
-      "Ranches",
-      "Texas",
-      "internal-paywall-exempt",
-      "anniversary-175",
-      "archives-informed"
-     ],
-     "link": "https://www.nytimes.com/2026/11/06/us/politics/lbj-ranch-1965-robert-b-semple-jr.html",
-     "bron": "New York Times",
-     "tijd": "13:44",
-     "sorteer": "2026-11-06T12:44:30+00:00",
+     "titel": "More than 40 pilot whales die in ‘distressing’ mass stranding on New Zealand coast",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVGJGd0ZYemZ4TlRzVzRYeEZ5QnZkdTFCS3Nrdkh2bzZQRFUwbmszbkV3NlB1QXdpZUQ1ZTlvQ2x3U202UE1qdHVndUszVlZ6bDFfdmdoVmRVM1JNaGM4MGtPV3Vob19HLVZkZENCNmQxNVpfMjM2THczbFZxaDkxdXNSbEwyR1k4?oc=5",
+     "bron": "CNN",
+     "tijd": "13:31",
+     "sorteer": "2026-11-06T12:31:21+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -425,94 +469,13 @@
      "taal": "en"
     },
     {
-     "titel": "Measles, mumps and misinformation: how Crunchy Moms became ‘the most dangerous’ group on Facebook",
-     "context": "Meta says it removes content that could cause imminent physical harm – but nearly half a million members have joined a group that regularly promotes misinformation As a measles outbreak spread through Lancaster county, Pennsylvania, in August, a parent turned to a massive public Facebook group, Crunchy Moms, for advice. They were considering getting their three-year-old vaccinated, in part to prot",
-     "rubrieken": [
-      "Meta",
-      "Facebook",
-      "US healthcare",
-      "Trump administration",
-      "Vaccines and immunisation",
-      "MMR",
-      "Social media",
-      "Technology",
-      "US news",
-      "US politics"
-     ],
-     "link": "https://www.theguardian.com/technology/2026/nov/06/crunchy-moms-facebook-vaccines",
-     "bron": "The Guardian",
-     "tijd": "13:00",
-     "sorteer": "2026-11-06T12:00:41+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "She went on a great first date, but it went nowhere. Here’s how she unexpectedly befriended his mom",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXY3NU5ZUXFvNm5QSmRUWWZXUjlwWlc3QTlCZlBLV0g5R0g5TDNKSXNES2VScHBXT1Y5YVdTRFlYc2doQjRfRHBnUE9lRnlLYW0zSzdOWjVXZzNON21IVGxFNUFvQ3Bod19BNFpVRERWQ014cmkxc3pCSFNScVVaSkZNRlpGT2F3cmpj?oc=5",
-     "bron": "CNN",
-     "tijd": "13:00",
-     "sorteer": "2026-11-06T12:00:15+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Kenyan cult leader sentenced to 200 years in prison over the deaths of 190 children",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90Y2dZeElCcjhrZXpTTjNXc2EzNy11czl2U3p4VjVXbUZnODhHMnU5MXdzMmVRMVljaG56V1ByNDhtbHd2ZEpCeTZaVE9JSzFrN3RwM25iY2Z2dWFRWXB0WkQ3aEZ5eU9UaE9oT2dPWXBhbWdQSVQ0LUtKYw?oc=5",
-     "bron": "CNN",
-     "tijd": "12:49",
-     "sorteer": "2026-11-06T11:49:38+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Doomscrolling (and kids) destroyed my reading habit. Could the ‘Booker Challenge’ save it?",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMDhyb3g0R3o5UFNBcUVBNnYzZXZFN3kyX2NjOEp4TFdEMTZTU1JJb0d4aHczV1lhNTNDTmtfTGtBcjVpOGN1TkkwLXNaLVZWWDBMVVRvbFpodXVPSktuR1NFdnNQXzNXcjJ6VjFkeUdwMkpzVS0tcV8xdTFxc0tFWVlwLTNwUG5l?oc=5",
-     "bron": "CNN",
-     "tijd": "12:39",
-     "sorteer": "2026-11-06T11:39:08+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder",
-     "context": "Paul Nthenge Mackenzie forced followers to starve themselves to meet Jesus and told parents to make sure their children fasted in the sun and died first.",
-     "rubrieken": [
-      "Religious Cults",
-      "Doomsday",
-      "Murders, Attempted Murders and Homicides",
-      "Decisions and Verdicts",
-      "Mackenzie, Paul Nthenge",
-      "Kenya",
-      "Shakahola Forest (Kenya)"
-     ],
-     "link": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html",
-     "bron": "New York Times",
-     "tijd": "14:53",
-     "sorteer": "2026-11-06T13:53:33+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "UK government to extend controversial Palantir NHS contract as it draws up plan for British alternative – UK politics live",
-     "context": "Health secretary Yvette Cooper has faced calls to axe US tech firm’s contract to deliver the flagship government AI system, report says Here are some more photos from prime minister Andy Burnham’s visit to Siemens Rail Technology Centre in Chippenham earlier today: The Conservative leader, Kemi Badenoch, has caused “profound anger, hurt and disbelief” among many black voters with her comments abou",
-     "rubrieken": [
-      "Politics",
-      "UK news",
-      "Andy Burnham",
-      "Chagos Islands",
-      "Shabana Mahmood",
-      "Immigration and asylum",
-      "European Union",
-      "Brexit",
-      "Universities",
-      "Education",
-      "Foreign policy",
-      "Palantir"
-     ],
-     "link": "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news",
-     "bron": "The Guardian",
-     "tijd": "14:51",
-     "sorteer": "2026-11-06T13:51:46+00:00",
+     "titel": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+     "context": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "15:57",
+     "sorteer": "2026-11-06T14:57:08+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -522,46 +485,43 @@
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "13:54",
-     "sorteer": "2026-11-06T12:54:04+00:00",
+     "tijd": "15:46",
+     "sorteer": "2026-11-06T14:46:03+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Russian extremist group denies sending hoax bomb threats",
-     "context": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "13:51",
-     "sorteer": "2026-11-06T12:51:38+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Mélenchon squares up to Brussels in election manifesto",
-     "context": "The far-left leader's plan for France will \"require a confrontation with European institutions,\" according to his presidential platform.",
+     "titel": "Alberta’s Librarians Brace for a New Era of ‘Book Bans’",
+     "context": "A new provincial law requires public libraries to pull and restrict items with “graphic visual depictions of sexual acts.” Librarians argue the mandate opens the door to censorship.",
      "rubrieken": [
-      "Competition",
-      "Crisis",
-      "Debt",
-      "Far left",
-      "French election 2027",
-      "Referendum",
-      "State aid",
-      "Trade Agreements",
-      "Competition and Industrial Policy",
-      "Energy and Climate",
-      "Financial Services",
-      "Mobility",
-      "Politics",
-      "Technology",
-      "Trade"
+      "Canada",
+      "Alberta (Canada)",
+      "Book Bans",
+      "Libraries and Librarians",
+      "Books and Literature",
+      "Law and Legislation",
+      "Freedom of Speech and Expression",
+      "Parenting"
      ],
-     "link": "https://www.politico.eu/article/france-presidential-candidate-melenchon-previews-eu-confrontation-in-presidential-platform/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "link": "https://www.nytimes.com/2026/11/06/world/canada/alberta-book-ban-public-libraries.html",
+     "bron": "New York Times",
+     "tijd": "15:41",
+     "sorteer": "2026-11-06T14:41:59+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "EU prosecutors open second fraud probe into Spanish high-speed rail",
+     "context": "The deadly collision has resulted in searches at Spain's rail safety agency and Court of Auditors.",
+     "rubrieken": [
+      "Public transport",
+      "Railways",
+      "Mobility"
+     ],
+     "link": "https://www.politico.eu/article/eu-prosecutors-open-second-fraud-probe-spain-high-speed-rail-fatal-crash/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
      "bron": "Politico Europe",
-     "tijd": "13:48",
-     "sorteer": "2026-11-06T12:48:10+00:00",
+     "tijd": "15:28",
+     "sorteer": "2026-11-06T14:28:29+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -572,6 +532,33 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Hogere straf voor doodrijden twee vrouwen en twee kinderen in Oud Gastel",
+     "context": "Een automobilist uit Roosendaal die vier jaar geleden twee kinderen en twee moeders doodreed heeft in hoger beroep een zwaardere straf gekregen. De 31-jarige Omar E. moet van het gerechtshof in Den Bosch zes jaar en acht maanden de cel in. Bij de lagere rechtbank kreeg hij eerder vier jaar cel opgelegd . Het fatale ongeluk was in september 2022 in Oud Gastel, ten noorden van Roosendaal. De man ree",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638305",
+     "bron": "NOS",
+     "tijd": "15:17",
+     "sorteer": "2026-11-06T15:17:12+01:00"
+    },
+    {
+     "titel": "Podcast De Dag: Het spel van de game-componist",
+     "context": "Deze week kwam een nieuwe versie uit van een van de populairste games ooit gemaakt: Zelda, Ocarina of Time. En later deze maand kunnen liefhebbers na jaren wachten eindelijk de gameconsole aanslingeren voor GTA VI, de grootste game-release ooit. Bij die spellen hoort onlosmakelijk muziek. Soundtracks, waar steeds meer aandacht en waardering voor is. Zo is volgende week de Gamemuziek Top 50 te hore",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638304",
+     "bron": "NOS",
+     "tijd": "15:13",
+     "sorteer": "2026-11-06T15:13:59+01:00"
+    },
+    {
+     "titel": "2026 schiet vrijwel zeker door 1,5 graad opwarming na recordwarme oktober",
+     "context": "Afgelopen maand was wereldwijd de warmste oktober ooit gemeten en het is nu vrijwel zeker dat 2026 door de 1,5 graad opwarming gaat. Dat blijkt uit de nieuwste gegevens van het Europese aardobservatieprogramma Copernicus. Daarmee lijkt het erop dat 2026 het tweede kalenderjaar wordt waarin die symbolisch belangrijke 1,5 graad wordt overschreden. De vorige keer was in 2024. Hoewel het langjarig gem",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638283",
+     "bron": "NOS",
+     "tijd": "12:46",
+     "sorteer": "2026-11-06T12:46:46+01:00"
+    },
     {
      "titel": "Kan Nederland zonder KLM? 'Gevolgen voor economie én passagiers beperkt'",
      "context": "Voor veel Nederlanders is het bijna niet voor te stellen: luchthaven Schiphol zonder de blauwe vliegtuigen van KLM. Toch waarschuwt de president-directeur van de luchtvaartmaatschappij dat dit scenario niet is uitgesloten . Om te voorkomen dat het zover komt, schrapt KLM vijfduizend banen. Hoe schadelijk is het voor de Nederlandse economie als KLM daadwerkelijk ophoudt te bestaan? En wat zouden Ne",
@@ -589,24 +576,6 @@
      "bron": "NOS",
      "tijd": "11:44",
      "sorteer": "2026-11-06T11:44:12+01:00"
-    },
-    {
-     "titel": "Tilburg viert toch Elfde van de Elfde: ook tieners mogen worden geweigerd",
-     "context": "De Elfde van de Elfde, de traditionele opening van het carnavalsseizoen, gaat toch door in Tilburg. De lokale horeca, carnavalsstichting en gemeente hebben afspraken gemaakt over het weigeren en verwijderen van feestvierders. Het feest in Tilburg stond op losse schroeven omdat de gemeente en horeca het niet eens konden worden over het toelaten van tieners op het feestterrein. De gemeente wilde vri",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638259",
-     "bron": "NOS",
-     "tijd": "10:09",
-     "sorteer": "2026-11-06T10:09:41+01:00"
-    },
-    {
-     "titel": "Eerste lokale vorstdag van het najaar, eerste natuurijsbaan korte tijd open",
-     "context": "Vannacht is voor het eerst dit najaar lokaal vorst gemeten in het land. In Brabant, Limburg en delen van Zeeland daalde de temperatuur tot onder het vriespunt. Dat is later dan gebruikelijk: de afgelopen decennia was de eerste vorstdag meestal rond 23 oktober. Vanochtend was in Winterswijk al meteen de eerste natuurijsbaan van het land kort geopend. De Winterswijkse IJsvereniging heeft daarmee opn",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638244",
-     "bron": "NOS",
-     "tijd": "08:45",
-     "sorteer": "2026-11-06T08:45:40+01:00"
     },
     {
      "titel": "Vierde Rode Lijn-protest, zondag in Amsterdam, is gericht op economie: ‘Stop met financieren genocide’",
@@ -636,25 +605,32 @@
      "sorteer": "2026-11-06T08:00:00+00:00"
     },
     {
-     "titel": "Hoger beroep levert man die vier mensen doodreed in Oud Gastel bijna drie jaar extra cel op",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV3hYYk51Z0NXN2NzUld1bnRVOGJBSTdUVzh0dGRSLThNeERHaXZNVXJSQmktS2pIQXRvNG1nQ3BSWHdxYTktbHk4Z2JBdnUtWDV6VDNwTTF3T01rUGNuSWRtU2pLOHdwMEpqVzYzM0laVVpRQ2V3dV9yOWE3MXZQd2pRZC1TdXk2dUc4RERFQ00zRWpJTDVyYWxKaXVaQjU2dXpXVUVHWXVQaGNhaUY3Z3QwNmpCc1N6WTdHUThrV29Zc0Zra3c?oc=5",
-     "bron": "Brabants Dagblad",
-     "tijd": "14:15",
-     "sorteer": "2026-11-06T13:15:00+00:00"
+     "titel": "Deurbelcamera legt onthullend gesprek vast over fatale nacht Hattem: ‘Knock-out en toen kwam een auto’",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUzU3V0YyNVFWd2FVcVRrLUhlMXRadEF0d1NXNlh5dFQ2LUFNdXFKQThrSjNjalNHN1JTZWUzRUJweXI1TFlWVXh6MWhaT1dsWmZMR0V0M1dCVmhUZzE1Y3M0dXNUWC1ka2x2cGExd2ZQQ1Q3SS1jTkFSMkI1TGd5ZmJod19BSlpDcXh4djhEeVowR3R0SW53SjFWclNCc21qdzRSa2pjc2NKZF81NEVvVW1oTDNpRWNIaFZoVlA5WFhpTHJ5VG5EZ0lzYlFJSnlCX1VpQmxYclA?oc=5",
+     "bron": "de Stentor",
+     "tijd": "15:04",
+     "sorteer": "2026-11-06T14:04:28+00:00"
     },
     {
-     "titel": "OM wil geen straf voor bestuurder Haagse tram die man overreed",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVFZuXzNqLWNDZVpCUEl0RS05dHJSM0QwTDV2QjlnNEVyWGlPc2ZSbDJzamtsSzJhd1lzOE9CZHVial9vSHlDU3dsMG5tRExQTG45SUF4OUtSTjVZRThSTGhKbzNMVmNmNTdZeUJBNUZ4QnhPRDcxeXBqaEVXcUFqY3lXSEN1YS14cnc?oc=5",
+     "titel": "Wet afpakken crimineel vermogen iets ingeperkt na kritiek RvS",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc0pJMnZaejhLaEJ4ZkwwTk5CS3MtRGo3eEk2X1ZsR1gzUXpMTllFZC1hNlJQTFZ5ZTF2UDZJc2ctNmdUWUpBX0hYbFpCNk9zV21oWUpuX1Fpa09NTzMtN19iX3hpTExHc2pIMUotNVl5WXlsdXgxd01zRTJra0FVanFIMjdXQ0JKT1E?oc=5",
      "bron": "Reformatorisch Dagblad",
-     "tijd": "14:47",
-     "sorteer": "2026-11-06T13:47:29+00:00"
+     "tijd": "15:51",
+     "sorteer": "2026-11-06T14:51:54+00:00"
     },
     {
-     "titel": "VanWyck speelt theaterconcert 'Thin Places' in Wijchen",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc21hUU45VUZWc3NsV2FhbnV5Mlc4dEtLeHZtdTB1anltbzFnU2ZXTXFnWUxZX1R4cEhYaFJzMFR4V01HZDlkTlBGU1VGcHNFcFdaVlRXWWRKY19FTDBDampReGhRYjVNSERXWnp3NmJxZFlNU0IzQmpwTDJEZzNrbkhKX3VIUDhVX3ktTTZzd21BQnl6cHNiOE1uZDRCbUU?oc=5",
+     "titel": "Schoolplein nog lang niet klaar: Dodewaardse scholen verhuizen pas eind februari",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX0hSeVVGWmZGcFV2T0ZCODRTRTR6R0hRUXpoNUx5THNqQlkxZm45aldwUlo1bE9QTzlsNXpmUHUyYTU0MjJjUlZtN292Z0hTMVlVVmdvZWNHWFF5dGlTWW9TampGZGI5aEFhZVFybzlWZE1RVzFaaW9Eb2tPbkRzaFlCRW1XYXRhaVZzWFA1X2pRU3BtNzVkLVFWV21xU2xheWp2bHhmQnhUbGVuX3FhVWpONUtJeE91bVNpWGhGazBZT19YRThnbVln?oc=5",
      "bron": "De Gelderlander",
-     "tijd": "14:35",
-     "sorteer": "2026-11-06T13:35:01+00:00"
+     "tijd": "15:48",
+     "sorteer": "2026-11-06T14:48:39+00:00"
+    },
+    {
+     "titel": "ME grijpt in bij bezetting bouwplaats datacentrum Microsoft",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObE11Q1I5ejRHTUtFMHhPQUhnUXNWa002RDVtbmI2dmdYdDRiRS03RDc5R2VPVU9zVXNhN3JubXVxUFl1NGktczVXcXFEY0VxZzdSRG5FY1BkN1B6d1d1Y3lRNGI4ZjVyZVNBY2lYOXFsclV6SnhUb1dWMjhsejR6SHNHV1gxWTY1VUVVTzB3?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "15:11",
+     "sorteer": "2026-11-06T14:11:50+00:00"
     },
     {
      "titel": "‘Nuisance Bear’ toont de verwarring, pijn en onmacht van gedwongen transformatie",
@@ -694,6 +670,14 @@
      "kop": "Begroting"
     },
     {
+     "titel": "Belgische partijen praten tóch door over begroting, op advies van de koning",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFdoY01lWUtGNi15UDgtWEVBZkw0bE0tcGJiRUZVb19yS0duMmZfdE44ZnFkblJYVjJUX29LQ0hOMEpiNU5IZFF3Z2tDWnU0MGhRRGxFUWFPcDZCRXp4M0RIRWpUYVBJeWRXaTFIYm9nTmNaeDJwOXFtUVhQUUpFX0hQU2J5NTRwcWZjLVRma0p6c25mYTQtWWViOXVtY0hjdDNwX2l3ajlhVHR6ZWdkdXFfTjdpd2ZmUlNaUzVn?oc=5",
+     "bron": "de Volkskrant",
+     "tijd": "13:23",
+     "sorteer": "2026-11-06T12:23:40+00:00",
+     "kop": "Begroting"
+    },
+    {
      "titel": "Fractieleiders D66, VVD en CDA praten een-op-een met oppositie over belastingplan",
      "context": "De fractievoorzitters van D66, VVD en CDA zoeken de komende dagen los van elkaar contact met oppositiepartijen om een oplossing te vinden voor de problemen rondom het belastingplan voor 2027. Iedere ochtend zullen Paternotte (D66), Brekelmans (VVD) en Bontenbal (CDA) contact hebben over het verloop van die gesprekken. Vanochtend was dit eerste overleg. De drie fractievoorzitters hopen dat ze begin",
      "rubrieken": [],
@@ -721,6 +705,15 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Bouw van jeugdcomplex voor FC Twente en Heracles begonnen",
+     "context": "De bouw van het nieuwe trainingscomplex voor de jeugdspelers van FC Twente en Heracles is begonnen. De accommodatie komt op Sportpark Veldwijk in Hengelo, bij het FBK-stadion. Na de bouw wordt een deel van het FBK-stadion gerenoveerd voor de FC Twente/Heracles Academy. In 2028 moet alles klaar zijn.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3716099/bouw-van-jeugdcomplex-voor-fc-twente-en-heracles-begonnen",
+     "bron": "RTV Oost",
+     "tijd": "14:33",
+     "sorteer": "2026-11-06T13:33:12+00:00"
+    },
     {
      "titel": "Minister zet toch in op Europees verbod en komt naar Rijssen voor schuimzorgen",
      "context": "Minister Elanor Boekholt-O'Sullivan maakt toch werk van een verbod op het omstreden UF-schuim. Volgende week vrijdag gaat ze op bezoek bij bewoners van het Pottenbakkerserf in Rijssen. Zij worstelen met gezondheidsklachten nadat hun woningen werden geïsoleerd met het schuim.",
@@ -769,13 +762,18 @@
      "sorteer": "2026-11-06T06:01:11+00:00"
     },
     {
-     "titel": "Vandaag gaat het doek weer open in Theaterhotel Almelo: 'Ik vind het ontroerend'",
-     "context": "Na jaren zonder reguliere theatervoorstellingen gaat vanavond het doek weer open in Theaterhotel Almelo. Cabaretière Tineke Schouten staat op het podium met haar voorstelling Femme Vitaal. Toch is van een terugkeer van het oude Stadstheater nog geen sprake.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3715817/vandaag-gaat-het-doek-weer-open-in-theaterhotel-almelo-ik-vind-het-ontroerend",
-     "bron": "RTV Oost",
-     "tijd": "05:57",
-     "sorteer": "2026-11-06T04:57:23+00:00"
+     "titel": "Waor un sloot ok nog goed veur is",
+     "context": "LEMELERVELD – Um ut grus te laotn gruuien, muj dur mangs ok mest opgooin. Met det stikstofgedoe muj ok nog uutkiekn watter wel mag en niet maagt. As un boer met un bulte stront kump te zitn, kant mooi op ut grusland. Dus de giertank dur bie ehaalt en uutkaorn det spul. Asse zo un […]",
+     "rubrieken": [
+      "Columns",
+      "Ingezonden bericht",
+      "Laatste nieuws",
+      "Lemelerveld"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/556064/waor-un-sloot-ok-nog-goed-veur-is.html",
+     "bron": "DalfsenNet",
+     "tijd": "15:29",
+     "sorteer": "2026-11-06T14:29:06+00:00"
     },
     {
      "titel": "Anne Nijburg vanavond live op radio RTV4",
@@ -787,19 +785,6 @@
      "bron": "DalfsenNet",
      "tijd": "12:18",
      "sorteer": "2026-11-06T11:18:06+00:00"
-    },
-    {
-     "titel": "Peuterochtend Sjaloom 11 november",
-     "context": "DALFSEN – Komen jullie meespelen op CBS Sjaloom? Binnenkort is er weer een peuterochtend! Woensdag 11 november zijn jullie welkom om 9.00 uur. Om 11.00 uur is het programma weer afgelopen. Alle informatie staat op de flyer, delen is fijn!",
-     "rubrieken": [
-      "Dalfsen",
-      "Ingezonden bericht",
-      "Laatste nieuws"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/556040/peuterochtend-sjaloom-11-november.html",
-     "bron": "DalfsenNet",
-     "tijd": "11:49",
-     "sorteer": "2026-11-06T10:49:51+00:00"
     }
    ]
   },
@@ -857,6 +842,20 @@
      "sorteer": "2026-11-06T12:21:00+00:00"
     },
     {
+     "titel": "Opinie | Koester het lanterfanten, want dat kan de chatbot niet",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY2NzSXZOXzZ2U0RIMThLU284MzNON2wwU3hCSDVTN0gxNFVSa3ZVWUVQREJiTjQ1UV9XVXNuQlgtcktJbVhNSVNQVEFBOHJLU2JtQTB4eUpnQWQ3Y3Bob3hJUlhWd1BZTmd6bGlwMW5iZnowTkdTMjlNdGxrWnAzMHBUZWp6LWFrMV8xOTdnd3BQWE5Uc1QtMWJRb2Q4alI3?oc=5",
+     "bron": "NRC",
+     "tijd": "15:30",
+     "sorteer": "2026-11-06T14:30:00+00:00"
+    },
+    {
+     "titel": "GS1 wil AI-modellen voorzien van betrouwbare productdata",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdlJNYXpoQTZlTThMYTM0U09ZS1EydXpIdFFEOEotcFg1bFRzZzVWckozQURJMHJQc2FCcHpZclczRWVwWEh2WGpqQzhKWXk3VEtIbWw3ejFydnJTNDE0b3JnU2dCempUMnVETlQycjhTcnhrenE0WXVveDRuZEFXX0hJeEo5cS1kUmxta29ybzBBZ2dmN0J4OWpDZVgtOFdwc0dDUXh4cGFTSGtpczhLR2l4aw?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "14:50",
+     "sorteer": "2026-11-06T13:50:12+00:00"
+    },
+    {
      "titel": "Kabinet wil meer met AI, maar Nederland zal afhankelijk blijven",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2tTa05GaWFwaHY0eW1vYVJpaGF6MUticU8zTFZuZWhfbC1QZS1qY05tZjBUY2xfZXJOaHZHbC14N3VNM1RCdVZVdklJVE5CeTVSa1E0S1FWUGVmSmxVTWZQNE8yT1ZzTDFOZEdnS3dFU0NxbTZQNVRoYjVwVWFUM1JHcHZYNFUyaFJub1U0NWlRZ2RzYTBvaQ?oc=5",
      "bron": "NOS",
@@ -871,18 +870,11 @@
      "sorteer": "2026-11-06T12:48:00+00:00"
     },
     {
-     "titel": "AI-bedrijven leken onaantastbaar. Maar na de midterms kwamen ze in de verdrukking",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTkVOdUdWQU5wM0VHRTFCdFY4ODRwWFhJTzRrV3ZCNHFmQU5PNFg2bFBTV2k1dm9BV2hibU9pRVo5bDEwOWgyWXlWT1dwLXlBQ0JyOXJfMm5mU3k0c2xCRWNOUVlJQmJXRTJRbTdhUUNST2pFU0hFU28tWFFVcm9nMThNWHRfVTRDaEJSWFJLaGFZTlVPd0k4SXREOW5ZWGExMVdLQlJGWnBrcFVWbHlZX255dG1yWVNRZGdFdWRCdw?oc=5",
-     "bron": "NRC",
-     "tijd": "12:03",
-     "sorteer": "2026-11-06T11:03:21+00:00"
-    },
-    {
-     "titel": "Onze welvaart van morgen begint met het omarmen van de kracht van AI vandaag",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVURhSmJ1ZVN0ZXBTOS1pSHZYT0E5RTdNOGw0X1FGQkZaYzg0U0pWR0lGMm5mZjhoNnVUa0VNZTgyWFAtMjNweWVrY1FPSUZ6ZjlXZGhLRWw0UHVDRnZ5R3QyQTZRZE1DdVVzeG1fV0xRSk5heU5TZ0h1SHkweWdQMw?oc=5",
-     "bron": "Het Financieele Dagblad",
-     "tijd": "11:00",
-     "sorteer": "2026-11-06T10:00:25+00:00"
+     "titel": "Kabinet zet in op industrie om bij te blijven op AI",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMHZwOGk4aFRhVFFZTkpvSzNFY29URmM2QXM1alF0aTYtbENRLWF2N28zQWNuMXVLSllqZGhBY0h6ZTZVenFWM1R4X0xPMGZhZ1BIRVZmWHdKODRUZUo0aVBVV1dYdkM4bzViUW5kNXRYYnFDMUFtV05UODkzTzcyVHU1VQ?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "13:16",
+     "sorteer": "2026-11-06T12:16:40+00:00"
     }
    ]
   },
@@ -924,6 +916,14 @@
      "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07993"
     },
     {
+     "titel": "Het optreden tegen een anti-Hamas-bord tijdens een demonstratie in Amsterdam en de positie van burgemeester Halsema",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "16-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51785",
+     "sorteer": "2026-11-06T15:39:56.243+01:00"
+    },
+    {
      "titel": "De continuering van de sectoraanpak sociale veiligheid",
      "bron": "Kamervraag",
      "kop": "Kamervragen",
@@ -940,20 +940,28 @@
      "sorteer": "2026-11-05T13:18:15.7+01:00"
     },
     {
-     "titel": "Strafrechtelijke aanpak Veilig Publieke Taak waaronder de herziene Eenduidige Landelijke Afspraken",
-     "bron": "Brief van de regering",
-     "kop": "Brieven en moties",
-     "tijd": "30-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D47421",
-     "sorteer": "2026-11-06T11:51:25.813+01:00"
+     "titel": "Antwoord op vragen van het lid Raijer over de onveiligheid van Joodse en Israëlische studenten aan de Universiteit Maastricht en…",
+     "bron": "Antwoord op Kamervragen",
+     "kop": "Kamervragen",
+     "tijd": "06-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D56195",
+     "sorteer": "2026-11-06T15:38:30.647+01:00"
     },
     {
-     "titel": "Wijziging wetsvoorstel verhoging strafmaxima grootschalige drugscriminaliteit (Kamerstuk 36705)",
+     "titel": "Beleidsreactie WODC-onderzoek naar de externe openbaarheid van strafzittingen in relatie tot de belangen van privacy en veiligheid",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
-     "tijd": "01-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D40258",
-     "sorteer": "2026-11-06T11:11:49.667+01:00"
+     "tijd": "06-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D56185",
+     "sorteer": "2026-11-06T15:13:40.253+01:00"
+    },
+    {
+     "titel": "Reactie op verzoek commissie inzake blokkeren van burgerinitiatief voor asielopvang door gemeente Neder-Betuwe",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "06-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D56183",
+     "sorteer": "2026-11-06T15:12:09.563+01:00"
     },
     {
      "titel": "Motie van de leden Bamenga en Kröger over de juridische bescherming van vrouwen en vrouwenrechtenorganisaties structureel…",
@@ -1035,7 +1043,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "15:00",
+    "bijgewerkt": "15:58",
     "voetbal": {
      "uitslagen": [
       {
@@ -1405,20 +1413,27 @@
      "sorteer": "2026-11-06T05:45:00+00:00"
     },
     {
-     "titel": "Hommels 2026: de laatste exemplaren van een vroeg seizoen",
-     "toelichting": "Het is inmiddels begin november en het vliegseizoen van de meeste hommels is grotendeels voorbij. De meeste hommelsoorten vlogen dit jaar vroeger dan gemiddeld, zo blijkt uit het Meetnet Hommels. Wie nu naar buiten gaat ",
-     "bron": "Nature Today",
-     "tijd": "15:30",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35155",
-     "sorteer": "2026-11-05T14:30:00+00:00"
-    },
-    {
      "titel": "CO2-opslag in venen",
      "toelichting": "Verdroging van natuurveengebieden is niet alleen een groot probleem voor de biodiversiteit, maar leidt ook tot afbraak van veen. Hierdoor komt vastgelegde CO2 weer in de atmosfeer. Uit berekeningen voor de Algemene Reken",
      "bron": "Nature Today",
      "tijd": "07:00",
      "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36010",
      "sorteer": "2026-11-06T06:00:00+00:00"
+    },
+    {
+     "titel": "Terugblik webinar Beheer van Bijenlandschappen",
+     "toelichting": "Met meer dan 340 deelnemers, bestaande uit professionals, gemeenten, vrijwilligers, beleidsmakers en beheerders uit heel Nederland, was er veel belangstelling voor het webinar Beheer van Bijenlandschappen. Tijdens de bij",
+     "bron": "Nature Today",
+     "tijd": "10:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36023",
+     "sorteer": "2026-11-06T09:00:00+00:00"
+    },
+    {
+     "titel": "Waarom jouw hond weleens een onverwachte natuurheld kan worden",
+     "toelichting": "Uit een nieuw onderzoek blijkt dat huishonden getraind kunnen worden om invasieve planten op te sporen. Schrijf je in voor de nieuwsbrief! Ook elke dag vers het laatste wetenschapsnieuws in je inbox? Of elke week? Schrij",
+     "bron": "Scientias",
+     "tijd": "15:00",
+     "link": "https://scientias.nl/waarom-jouw-hond-weleens-een-onverwachte-natuurheld-kan-worden/"
     },
     {
      "titel": "Dieren de dupe van onze herrie",
@@ -1428,11 +1443,12 @@
      "link": "https://scientias.nl/dieren-de-dupe-van-onze-herrie/"
     },
     {
-     "titel": "Archeologische vondst onthult dat cannabis 2.800 jaar geleden al werd gebruikt als geestverruimend middel",
-     "toelichting": "Cannabis staat wereldwijd bekend om haar geestverruimende werking. Van eeuwenoude rituelen tot geneeskunde: mensen gebruiken de plant al duizenden jaren om lichaam én geest te beïnvloeden. De kennis over de oorsprong van",
-     "bron": "Scientias",
-     "tijd": "19:00",
-     "link": "https://scientias.nl/archeologische-vondst-onthult-dat-cannabis-2-800-jaar-geleden-al-werd-gebruikt-als-geestverruimend-middel/"
+     "titel": "Mediterranean fisheries commission adopts species management plans but punts on deep-sea protections",
+     "toelichting": "The international organization responsible for regulating fisheries in the Mediterranean and Black seas concluded its annual meeting with the adoption of new management plans for some iconic species. However, it declined",
+     "bron": "Mongabay (Engels)",
+     "tijd": "15:43",
+     "link": "https://news.mongabay.com/2026/11/mediterranean-fisheries-commission-adopts-species-management-plans-but-punts-on-deep-sea-protections/",
+     "sorteer": "2026-11-06T14:43:47+00:00"
     },
     {
      "titel": "Kenya launches $160 million conservation initiative to support communities and biodiversity",
@@ -1441,14 +1457,6 @@
      "tijd": "11:52",
      "link": "https://news.mongabay.com/2026/11/kenya-launches-160-million-conservation-initiative-to-support-communities-and-biodiversity/",
      "sorteer": "2026-11-06T10:52:44+00:00"
-    },
-    {
-     "titel": "India repatriates seized orangutan, raising hopes for five more",
-     "toelichting": "A juvenile orangutan seized from an apartment in the Indian city of Mumbai in 2024 has been repatriated to its native Indonesia, following two years of health and procedural delays. The endangered animal was transferred ",
-     "bron": "Mongabay (Engels)",
-     "tijd": "10:15",
-     "link": "https://news.mongabay.com/short-article/2026/11/india-repatriates-seized-orangutan-raising-hopes-for-five-more/",
-     "sorteer": "2026-11-06T09:15:44+00:00"
     }
    ]
   },
@@ -1608,11 +1616,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — 209 meldingen in de afgelopen week, waarvan 28 vandaag",
+     "titel": "Invasiejaar — 212 meldingen in de afgelopen week, waarvan 30 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 237 vogels in de nieuwste meldingen"
+     "vergelijking": "samen 240 vogels in de nieuwste meldingen"
     },
     {
      "kop": "Pestvogels",
@@ -1643,14 +1651,14 @@
    "items": [],
    "weer": {
     "nu": 8.9,
-    "gevoel": 6.4,
-    "wind": "O 3",
+    "gevoel": 7.6,
+    "wind": "OZO 2",
     "station": "Heino",
     "bericht": "Een oostelijke wind voert ook vandaag vrij koude en droge lucht aan. De zon schijnt volop, al is het in het zuidwesten wel een waterig zonnetje met wat bewolking. Bij een stevige oostenwind wordt het 8 tot 10 graden.Vanmiddag houdt het zonnige weer op veel plaatsen aan, al is er in Zuid-Limburg en het zuidwesten bewolking met hooguit een waterig zonnetje.",
     "vandaag": "Een oostelijke wind voert ook vandaag vrij koude en droge lucht aan. Vanmiddag houdt het zonnige weer op veel plaatsen aan, al is er in Zuid-Limburg en het zuidwesten bewolking met hooguit een waterig zonnetje.",
     "temperatuur": "Bij een stevige oostenwind wordt het 8 tot 10 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: 1 tot 9 graden, droog, ruim 8 uur zon, wind uit het oosten, kracht 2.",
+     "zin": "Voor Dalfsen zelf: 1 tot 9 graden, droog, ruim 8 uur zon, wind uit het oosten, kracht 3.",
      "max": 9,
      "min": 1,
      "regenkans": 0,
