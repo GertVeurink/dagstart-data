@@ -3,15 +3,15 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "21:00",
+  "opgehaald": "22:00",
   "blokken": 10,
-  "berichten": 113,
+  "berichten": 112,
   "problemen": [
    "Sport viel uit: TypeError"
   ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-06T21:00+01:00",
+ "opgehaald": "2026-11-06T22:00+01:00",
  "audio": "audio/20261106.mp3",
  "afval": [
   {
@@ -293,26 +293,173 @@
      "titel": "Duitse dames in een rijtuigje en andere opmerkelijke foto’s van vrijdag",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTE9XV0x6dXpqYlFQZDBUN3VtM2RlNmJNbmVLaUN2ZFRzTHlhUGZIS0VrU3paZ1NKemJ4aV9HbVYwamkxRkJXRG5RV1JDMC1QSmV0aWwxUGFMV3dFY0htb2w4UU5ERC1HdG5yWGpRNTRCdlYxR0ZPM0dtZHhtUE5XcmxzWWNBdm16dVFBRm9CUGhaelFUSUtqNzFfQTFOanhxUDd0N21xbmtLeno2RGlENnRISQ?oc=5",
      "bron": "de Volkskrant",
-     "tijd": "19:57",
-     "sorteer": "2026-11-06T18:57:13+00:00"
+     "tijd": "21:27",
+     "sorteer": "2026-11-06T20:27:13+00:00"
     },
     {
-     "titel": "These Newly Elected Lawmakers Know Something Trump Doesn’t: Science",
-     "context": "Among those elected to Congress on Tuesday are a mathematician, a microbiologist and a chemical engineer. They plan to take on a White House that has threatened funding cuts to research.",
+     "titel": "Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections",
+     "context": "A looming impeachment push could put President Trump’s polarizing defense secretary in a standoff with Democrats and Republicans.",
      "rubrieken": [
+      "United States Defense and Military Forces",
+      "Impeachment",
+      "US and Israeli Attack on Iran (2026)",
+      "United States International Relations",
+      "Defense Department",
+      "Hegseth, Pete",
+      "Trump, Donald J",
       "Midterm Elections (2026)",
-      "United States Politics and Government",
-      "Mathematics",
-      "Science and Technology",
-      "Democratic Party",
-      "Daniel K. Biss",
-      "Jasmine Clark",
-      "Elections, House of Representatives"
+      "Blackburn, Marsha",
+      "Vance, J D",
+      "Tennessee",
+      "Senate",
+      "House Committee on Armed Services",
+      "House of Representatives",
+      "Senate Committee on Armed Services"
      ],
-     "link": "https://www.nytimes.com/2026/11/06/science/scientists-election-congress.html",
+     "link": "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html",
      "bron": "New York Times",
-     "tijd": "20:50",
-     "sorteer": "2026-11-06T19:50:43+00:00",
+     "tijd": "21:53",
+     "sorteer": "2026-11-06T20:53:50+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Trump Elevates Stephen Miller to Chief of Staff in Post-Election Shake-Up",
+     "context": "Mr. Miller will replace Susie Wiles, the highest-ranking administration official to exit in the wake of the midterms, in which Republicans lost ground across the country.",
+     "rubrieken": [
+      "United States Politics and Government",
+      "Midterm Elections (2026)",
+      "Appointments and Executive Changes",
+      "Wiles, Susie",
+      "Trump, Donald J"
+     ],
+     "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html",
+     "bron": "New York Times",
+     "tijd": "21:50",
+     "sorteer": "2026-11-06T20:50:29+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Cornell Faculty Senate approves no-confidence resolution over sexual assault allegations",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOHYzVFVHQ0JQV0Zoal9ybVUwVGZPa1Q3S09oMlRYVHVwY0pCcVVNX1lib1lFV3VCZF9GTTJaSXdOY2ppSjA2R1NCWURlZl9IekN0em96RXhMSVl2ODVpektEd19ZUnRWemZqM3FOeWlJNmhZdGlNbGdjVFFqb1daQQ?oc=5",
+     "bron": "CNN",
+     "tijd": "21:50",
+     "sorteer": "2026-11-06T20:50:12+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "‘He gets it’: Trump replaces Susie Wiles with Stephen Miller as chief of staff",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY0pyV2NSb3VkLUhPdzRNOHhlUmFiQThJT3REV2dpTGpNVU9pcVB0aTNlVHFRVXQzVDJxeFVqNnFDLXpEbDFnZm5IUEYyOUdvYThZYjVrdlBVU0V0UmlQUU1NdkVLenliNkR1aW9RcjFRcW1SS1pyaEs1UHBZOFctal9la0JCN2l1OHVGc29qWk1qcHNkWVJ0eA?oc=5",
+     "bron": "CNN",
+     "tijd": "21:46",
+     "sorteer": "2026-11-06T20:46:00+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "F.A.A. to Phase Out Floppy Disks in Air Traffic Control Towers",
+     "context": "Decades after the computer industry moved on, federal officials plan to finally ground the once-vaunted tech relic at the nation’s air traffic control centers.",
+     "rubrieken": [
+      "Federal Aviation Administration",
+      "Computers and the Internet",
+      "Air Traffic Control",
+      "Airlines and Airplanes",
+      "Regulation and Deregulation of Industry",
+      "Duffy, Sean P",
+      "Airports",
+      "Atlantic City (NJ)",
+      "Nashville (Tenn)",
+      "Rochester (NY)",
+      "United States"
+     ],
+     "link": "https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html",
+     "bron": "New York Times",
+     "tijd": "21:45",
+     "sorteer": "2026-11-06T20:45:56+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
+     "context": "Chuck Schumer says the move to promote the controversial immigration hardliner shows that Donald Trump ‘learned nothing from his historic defeat’ in the midterms Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff Sign up for Breaking News US email Donald Trump will begin the day in Washington today. He has closed door meetings for much of the day, and ",
+     "rubrieken": [
+      "US midterm elections 2026",
+      "US Congress",
+      "US Senate",
+      "House of Representatives",
+      "US politics",
+      "Trump administration",
+      "Democrats",
+      "Republicans",
+      "US news",
+      "Donald Trump"
+     ],
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+     "bron": "The Guardian",
+     "tijd": "21:45",
+     "sorteer": "2026-11-06T20:45:48+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "How Elon Musk Frittered Away Nearly $500 Million on the Midterm Elections",
+     "context": "Behind the scenes, the world’s richest person spent a record amount over two years to bend the country’s politics to his will. He couldn’t.",
+     "rubrieken": [
+      "Musk, Elon",
+      "Midterm Elections (2026)",
+      "America PAC",
+      "Republican Party",
+      "Texas",
+      "United States Politics and Government",
+      "Political Action Committees",
+      "Paxton, Ken",
+      "Talarico, James",
+      "House of Representatives",
+      "Senate"
+     ],
+     "link": "https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html",
+     "bron": "New York Times",
+     "tijd": "21:42",
+     "sorteer": "2026-11-06T20:42:07+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+     "context": "US president confirms Susie Wiles, current chief of staff and first woman to serve in the role, will step down US politics live – latest updates Stephen Miller, Donald Trump ’s most controversial aide and the architect of his sweeping immigration crackdown, will become his new White House chief of staff days after Republicans lost control of the US Congress in US midterm elections. The president a",
+     "rubrieken": [
+      "Donald Trump",
+      "Trump administration",
+      "US politics",
+      "US news",
+      "Washington DC"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+     "bron": "The Guardian",
+     "tijd": "21:06",
+     "sorteer": "2026-11-06T20:06:11+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "What happens after the ‘blue wave’? Your questions on the US midterm election results answered",
+     "context": "Democrats have taken control of Congress in a sweeping blue wave. Our reporters answered your questions about the results of the US midterm elections Live results from the US midterm elections Bgdxc1 asks in the comments : How will this election impact the implementation of NPVIC? How plausible is it that the bills would impact 2028? Sam Levine , voting rights reporter: The mid-term results give t",
+     "rubrieken": [
+      "US midterm elections 2026",
+      "US politics",
+      "Democrats",
+      "Republicans",
+      "Donald Trump",
+      "US immigration",
+      "ICE (US Immigration and Customs Enforcement)",
+      "US economy"
+     ],
+     "link": "https://www.theguardian.com/community/live/2026/nov/05/what-happens-after-the-blue-wave-our-reporters-answer-your-midterm-election-results-questions",
+     "bron": "The Guardian",
+     "tijd": "20:59",
+     "sorteer": "2026-11-06T19:59:42+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -326,89 +473,11 @@
      "taal": "en"
     },
     {
-     "titel": "What happens after the ‘blue wave’? Our team answers your midterm election results question",
-     "context": "Democrats have taken control of Congress in a sweeping blue wave. Our reporters answer your questions about the results of the midterm elections Live results from the US midterm elections Bgdxc1 asks in the comments : How will this election impact the implementation of NPVIC? How plausible is it that the bills would impact 2028? Sam Levine , voting rights reporter: The mid-term results give the Th",
-     "rubrieken": [
-      "US midterm elections 2026",
-      "US politics",
-      "Democrats",
-      "Republicans",
-      "Donald Trump",
-      "US immigration",
-      "ICE (US Immigration and Customs Enforcement)",
-      "US economy"
-     ],
-     "link": "https://www.theguardian.com/community/live/2026/nov/05/what-happens-after-the-blue-wave-our-reporters-answer-your-midterm-election-results-questions",
-     "bron": "The Guardian",
-     "tijd": "20:49",
-     "sorteer": "2026-11-06T19:49:50+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
      "titel": "GOP Regroups After Election Losses - CNN This Morning with Audie Cornish - Podcast on CNN Podcasts",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeFAxR2hDMVA0UjVlYmZhbWcxcmtpbnlDZU9mbHc1V3AtZTNLM2hvWVVRR1pKLUN3Z2gxVVB4Z0F2WDBtc2lEYl9KNWIzSjJkczVmZW00T0NvZHZoTHlRZ3hLdzN2MUZEeFFMUWZyb2htZ2Zqb1ZjSFZvMVF0RWdKc2xBczZ1RjN1WVRLQy1ZUFpQUEpOaXpabU1mTE9Ndw?oc=5",
      "bron": "CNN",
      "tijd": "20:49",
      "sorteer": "2026-11-06T19:49:43+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Trump Elevates Stephen Miller to Chief of Staff in White House Shake-Up",
-     "context": "Mr. Miller, the White House’s domestic policy adviser, who has driven the administration’s immigration crackdown, will replace Susie Wiles, the president said.",
-     "rubrieken": [
-      "United States Politics and Government",
-      "Midterm Elections (2026)",
-      "Appointments and Executive Changes",
-      "Wiles, Susie",
-      "Trump, Donald J"
-     ],
-     "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html",
-     "bron": "New York Times",
-     "tijd": "20:46",
-     "sorteer": "2026-11-06T19:46:11+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Amazon Follows Melania Trump Film With Two-Part Series by the Same Director",
-     "context": "The documentary, which the first lady executive produces, will debut on Nov. 20. Brett Ratner directs.",
-     "rubrieken": [
-      "Documentary Films and Programs",
-      "Television",
-      "First Ladies (US)",
-      "United States Politics and Government",
-      "Amazon.com Inc",
-      "Trump, Melania",
-      "Ratner, Brett",
-      "Melania, The Series (Movie)",
-      "Trump, Donald J"
-     ],
-     "link": "https://www.nytimes.com/2026/11/06/arts/television/melania-trump-the-series-amazon-prime.html",
-     "bron": "New York Times",
-     "tijd": "20:44",
-     "sorteer": "2026-11-06T19:44:43+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Christopher Murphy Will Not Return to Senate Next Week After Stroke",
-     "context": "Senator Christopher S. Murphy, Democrat of Connecticut, said in a statement that he would spend several weeks recovering at a rehabilitation center.",
-     "rubrieken": [
-      "United States Politics and Government",
-      "Midterm Elections (2026)",
-      "Therapy and Rehabilitation",
-      "Democratic Party",
-      "Murphy, Christopher Scott",
-      "Connecticut",
-      "Senate",
-      "Stroke"
-     ],
-     "link": "https://www.nytimes.com/2026/11/06/us/politics/chris-murphy-senate-stroke.html",
-     "bron": "New York Times",
-     "tijd": "20:44",
-     "sorteer": "2026-11-06T19:44:15+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -430,63 +499,41 @@
      "taal": "en"
     },
     {
-     "titel": "Houston to limit police cooperation with federal immigration authorities",
-     "context": "Mayor said only immigrants that ‘pose a danger’ would be referred to ICE, after Democrats gain control of governor’s seat The mayor of Houston on Friday said the city would limit cooperation with federal immigration authorities, heralding “a new model” of immigration enforcement after Democrats won power in Texas for the first time in decades. Houston’s mayor, John Whitmire, said the city would go",
+     "titel": "Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?",
+     "context": "In the lead-up to an election in which economic concerns dominate, there was no clear front-runner. Minor parties will most likely determine who governs.",
      "rubrieken": [
-      "Houston",
-      "US policing",
-      "US immigration",
-      "ICE (US Immigration and Customs Enforcement)",
-      "US politics",
-      "Texas",
-      "US news"
+      "Polls and Public Opinion",
+      "Elections",
+      "Legislatures and Parliaments",
+      "Politics and Government",
+      "Maori",
+      "Labour Party (New Zealand)",
+      "National Party (New Zealand)",
+      "Hipkins, Chris",
+      "Luxon, Christopher",
+      "Peters, Winston (1945- )",
+      "New Zealand"
      ],
-     "link": "https://www.theguardian.com/us-news/2026/nov/06/houston-police-ice-immigration",
-     "bron": "The Guardian",
-     "tijd": "20:29",
-     "sorteer": "2026-11-06T19:29:55+00:00",
-     "kop": "Midterms",
-     "taal": "en"
+     "link": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-polls.html",
+     "bron": "New York Times",
+     "tijd": "21:51",
+     "sorteer": "2026-11-06T20:51:39+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
-     "titel": "Pope Leo ‘proud to be an American’ and vote in US midterms",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kNjhVNHNzdHpUb1BGekhwYW1UNGpKdHJzWTZveFpxaVp3aTIyQmdmOUdOblB2M2dqQ2s1S2wwS3JKY2FieTVxdWNjY1pQVkZ2ZXJZamVOVzAtellsQUJma2hhc004cnBsUlowc24yMGlpaWJuODNV?oc=5",
-     "bron": "CNN",
-     "tijd": "20:26",
-     "sorteer": "2026-11-06T19:26:53+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Trump promotes immigration hardliner Stephen Miller to White House chief of staff - live",
-     "context": "Susie Wiles, the current White House chief of staff, will move to the president’s political operation Live results : see results from races in all 50 states Sign up for Breaking News US email Donald Trump will begin the day in Washington today. He has closed door meetings for much of the day, and will take part in a Diwali celebration at the White House at 1:30pm ET. While that’s currently not ope",
+     "titel": "Merz’s conservatives poised to nominate Germany’s first woman president",
+     "context": "Bavarian politician Ilse Aigner is \"the perfect candidate,\" according to one center-left state premier.",
      "rubrieken": [
-      "US midterm elections 2026",
-      "US Congress",
-      "US Senate",
-      "House of Representatives",
-      "US politics",
-      "Trump administration",
-      "Democrats",
-      "Republicans",
-      "US news",
-      "Donald Trump"
+      "German politics",
+      "Global reporters network"
      ],
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-     "bron": "The Guardian",
-     "tijd": "20:23",
-     "sorteer": "2026-11-06T19:23:49+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Where Scott Colom agrees and disagrees with Trump",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcXhBSWRNUHJJQmNkbkxCTjJZVTUtR1pKY2QwN0NQT1Jwdk5iRVU2a1VPZU9vZXB6dndYUTAyZkxYck4xUmUxeDRSaGJ2aElqLWtlZmViTGpyMXlRSVUwUy1fMnJyTmZkX3ZHcW0zaVFnN29IRkpIQzJoRWM0MWZtU3RJRGNyNjlmM3VMSHg1Q2o5YTZpNk1BallCNA?oc=5",
-     "bron": "CNN",
-     "tijd": "20:22",
-     "sorteer": "2026-11-06T19:22:00+00:00",
-     "kop": "Midterms",
-     "taal": "en"
+     "link": "https://www.politico.eu/article/merz-conservatives-poised-nominate-ilse-aigner-first-woman-president-germany/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "21:02",
+     "sorteer": "2026-11-06T20:02:13+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
      "titel": "AI stocks climb after trillions wiped from market values",
@@ -496,46 +543,6 @@
      "bron": "BBC",
      "tijd": "20:37",
      "sorteer": "2026-11-06T19:37:10+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
-     "context": "Pope Leo XIV’s tour of Uruguay, Argentina and Peru is his first major trip since an operation on his lung last month.",
-     "rubrieken": [
-      "Popes",
-      "Politics and Government",
-      "Leo XIV",
-      "Roman Catholic Church",
-      "Latin America",
-      "Fujimori, Keiko",
-      "Milei, Javier",
-      "Argentina",
-      "Peru"
-     ],
-     "link": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
-     "bron": "New York Times",
-     "tijd": "20:24",
-     "sorteer": "2026-11-06T19:24:08+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Jared Kushner’s European security plan isn’t convincing Europe",
-     "context": "Capitals fear a U.S. effort to overhaul the continent's security arrangements could exclude allies and favor Russia.",
-     "rubrieken": [
-      "EU-US military ties",
-      "NATO",
-      "U.S. foreign policy",
-      "U.S. politics",
-      "War in Ukraine",
-      "Defense",
-      "Politics"
-     ],
-     "link": "https://www.politico.eu/article/jared-kushner-european-security-plan-is-not-convincing-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "18:58",
-     "sorteer": "2026-11-06T17:58:32+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -557,6 +564,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Rechter: ANWB-staking mag, maar met genoeg wegenwachters op de weg",
+     "context": "Tijdens een staking van ANWB-medewerkers komende maandag moet er bij de verkeersorganisatie een minimale bezetting blijven van 12,5 procent. Dat heeft de voorzieningenrechter bepaald. De ANWB had een kort geding aangespannen tegen een staking van onder meer medewerkers van de Wegenwacht en de Alarmcentrale. Die is door de vakbonden georganiseerd. De verkeersorganisatie vreesde dat gestrande automo",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638355",
+     "bron": "NOS",
+     "tijd": "21:16",
+     "sorteer": "2026-11-06T21:16:23+01:00"
+    },
     {
      "titel": "Zeker 150 demonstranten opgepakt bij protest tegen datacenter in Amsterdam",
      "context": "Bij protest tegen een datacenter van Microsoft in Amsterdam-West zijn vermoedelijk 150 tot 200 verdachten aangehouden. Ze worden verdacht van huisvredebreuk, meldt de politie. Een deel van de demonstranten heeft het terrein vrijwillig verlaten. De actiegroep Fossielvrij demonstreerde vandaag bij de bouwlocatie van het datacenter, op een aangewezen plek. De groep verzet zich tegen de komst van data",
@@ -594,15 +610,6 @@
      "sorteer": "2026-11-06T17:55:04+01:00"
     },
     {
-     "titel": "NCTV: overheden en bedrijven houden tempo online bedreigingen niet bij",
-     "context": "Nederlandse bedrijven, organisaties en overheden nemen maatregelen om de weerbaarheid tegen online aanvallen te verhogen, maar niet snel en stevig genoeg om het oplopende tempo van alle dreigingen bij te benen, signaleert de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV). Die noemt dat een \"ernstig risico voor de nationale veiligheid\". Volgens de NCTV vergroot het de kans op \"maa",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638312",
-     "bron": "NOS",
-     "tijd": "15:59",
-     "sorteer": "2026-11-06T15:59:33+01:00"
-    },
-    {
      "titel": "Wie schakelde dit moordkartel in voor de politieke liquidatie op een Iraanse journalist in Nederland?",
      "context": "",
      "rubrieken": [],
@@ -637,25 +644,25 @@
      "sorteer": "2026-11-06T19:18:11+00:00"
     },
     {
+     "titel": "Gemeenten bekijken samen hoe ze fatbike-overlast kunnen aanpakken: ‘Ouders onderschatten hún rol’",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaXQ2R2FOUHJ3TFhUSVNXcUZEZ1EwdEpXVkx3ZVF5V2gtaWU2d3ZzZmxNd3FLaUhSelFVaDkxRkNDQ2pFc01MWTlYZmxwUEgzSFFmTmVPVGNXYTFTcER5d2kxME1SSGZFVHlkSHJIcFNwQzdhQjlVSzVqYW4wVmw4MnVCanJBWHBrUEljZ0EweVEtRVEwRXFrV1ZUeFZzMXdxVjByOGNNOVpZTFRjakpWbVUtTWIxNHpTRV85TEQxLUgzTUI0MVJjb0NkZ2ctQ1FMdmtLU0UyR3NFUQ?oc=5",
+     "bron": "AD.nl",
+     "tijd": "20:13",
+     "sorteer": "2026-11-06T19:13:24+00:00"
+    },
+    {
+     "titel": "David van Weel: Het ministerschap is altijd een onrustig bezit",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1NKbEJyY0tjb3lLXzlwblJ6eXFKOEhMN01fWnF4Sk91NHoxR1Q2WWdlb3dFS1BSWEFKalJTY3ZxSkVUTmpSYzBuSWQ0UDZfcUduaWp1OUZrOGpRX2Vab3JHLWRiSEg0LUNLSndKeXg1blVkcU42WDZJWUJSaUp4RVNzTjRFQ1pydE1j?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "19:45",
+     "sorteer": "2026-11-06T18:45:54+00:00"
+    },
+    {
      "titel": "Iran niet in beklaagdenbank, toch klonk het ayatollah-regime in zaak verijdelde liquidatie: ’Noem naam grote baas niet’",
      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUUFGZDdTR0tabXZLRURZQkcxbTBMSHQ2aHl1VVlrb2dGTTVCU25HOUhxWHJUcG8yU2I0WEotd3U5WTB5RHU3dFRjX29aQmdqRnJVaXZBRWZ0aE92a2RyaDhWUGxEUnBFY1JVOFl3dkhNN1FmVHJCUmpScWxnQlB0c3dDWFJoYWtMUUk4NkRMZW1GcU1pUWxUc3Z4M3ZMOFRvOU9LUFJUTDFwU25hMnVlc3NVaTB5UE5qUkRHbWVnd0RPZW5pMmNpUDlhaU5vYUc4cUxjc1BDU2J2RkVwZW9NNmlUWTVyS0d3bTVtYUxQb21UZHRNRmdldjR3?oc=5",
      "bron": "De Telegraaf",
      "tijd": "19:24",
      "sorteer": "2026-11-06T18:24:00+00:00"
-    },
-    {
-     "titel": "Trio verdacht van neersteken man om fatbike: ‘Ze wisten van geen ophouden’",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWk5hcFlFakRvRDJiY2I4NW40OEx1aFhLMUl4UmRCUS1oZkU5bzFXS2RLaFI2aDFlNFVuOHBJQWRRUTdzN0hoWHpxc1dFYU1hYnhuaHNOaVZUNnRHeHBDbmdDTk84SmZTT2I0X2V5dWh3dGEzcFpmbkRqSlNpYjRJM25HUnRLWmZiZGVSeWhlZGw3LVJrNUxlWnZkc3NuRHo1NlpCWDltLTRIRXQ3dHJtSjJoSQ?oc=5",
-     "bron": "de Stentor",
-     "tijd": "19:00",
-     "sorteer": "2026-11-06T18:00:44+00:00"
-    },
-    {
-     "titel": "Man op heterdaad aangehouden omdat hij graffiti met mogelijke discriminerende betekenis spoot",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYWV4OXRZNGxFbUV6V0s5eENaQkFTT3lPZURTeVRvRWlHdDB3blF4d1dsVGpPQXdkaDluYW1BcVFURzJleHA4VFVYcXZjcTNaWVJmVnNQS0YySGJPRmMxRXJqU05kUXVvdFlDSm1EemotdlUtNkhNcWFhSjZrSWhjWndvTk1IZ2dHLUtDakdmd21JTlpUX3B3YS1mR2hYVWUySVFtUjlKOGsxN3U3U1NqNGxWVnJKTjZqMUFnR3dxTUdSNVRINVE?oc=5",
-     "bron": "AD.nl",
-     "tijd": "18:51",
-     "sorteer": "2026-11-06T17:51:27+00:00"
     },
     {
      "titel": "‘Nuisance Bear’ toont de verwarring, pijn en onmacht van gedwongen transformatie",
@@ -679,11 +686,19 @@
      "sorteer": "2026-11-06T04:45:05+00:00"
     },
     {
+     "titel": "Belgische koning accepteert ontslag niet: premier moet nieuwe poging doen om begrotingsakkoord te bereiken",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa2VrLWYtSk5QcW9JWlRBaDBTTmJFYUZlRGhnay16V0FnbDJxUG00ZW5VRFVZY3cxbjk2ZzlpNEM1LUlST3ROVTNUanE1LVdKY0lPek1RTEJObzJkcWNrdVozSUY4X0VMN29zbGZCZndhY3V4QmF6Tkt4VnlXd2VGbnJKMjZwbllCbEYyb3NYZ3BwWFpSOXZxMnVqSG1BM1ZNdkFlQnpyOExXNzRPaWZnMW9TRVRhZ2YwbTBTbzVDeXJmQXN1aXhiVTVRS2p5eUdUVDJtbVFIQlRtTU5reG93MDVLWC1pME1CaEZmQg?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "20:32",
+     "sorteer": "2026-11-06T19:32:51+00:00",
+     "kop": "Begroting"
+    },
+    {
      "titel": "Tromgeroffel bij coalitie Vlaardingen: de begroting is zonder kleerscheuren goedgekeurd",
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSjc1eERiZ0xkc3VBMWQ4N1JyYU00cWMtaW1YRFRheGh6UXVKakQ3aXJhY1FlbGI2NHhyWVNLVjIzWFoxODE0aXBMOFpLcE1UVlJOM19iRFRmMmFxUVg5WDY5bGgtdTN6dmE0RGo5QUlCelEyWC1Db2h4c0tqbTNLOFVjbWVqYkxTcFRBWXZ5dTNFRGNKdWJvVHNYdnhMWEhyNm5oX3Z4VUVQSk1aeVRXVUp6M3BGUUtaZ25UakdsSjZxVy1o?oc=5",
      "bron": "AD.nl",
      "tijd": "20:01",
-     "sorteer": "2026-11-06T19:01:36+00:00",
+     "sorteer": "2026-11-06T19:01:00+00:00",
      "kop": "Begroting"
     },
     {
@@ -734,24 +749,6 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Gerrit (58) zou nooit meer lopen, nu komt zijn droom met hond Rhiver uit",
-     "context": "Hondentrainer Gerrit Wilps (58) uit Hellendoorn heeft zich samen met zijn Golden Retriever Rhiver gekwalificeerd voor een van de belangrijkste jachthondenwedstrijden van Nederland. Een bijzondere prestatie, want zijn leven kwam in 2015 volledig op zijn kop te staan.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3710719/gerrit-58-zou-nooit-meer-lopen-nu-komt-zijn-droom-met-hond-rhiver-uit",
-     "bron": "RTV Oost",
-     "tijd": "17:02",
-     "sorteer": "2026-11-06T16:02:12+00:00"
-    },
-    {
-     "titel": "Twente krijgt belangrijke rol bij innovatie voor Defensie met eigen centrum",
-     "context": "Een van de drie hubs van het gloednieuwe Nationaal Instituut voor Defensie Technologie (NIDT) komt in Twente. Het innovatiecentrum moet ervoor zorgen dat nieuwe technologieën sneller worden ontwikkeld, getest en toegepast. De provincie en Twente Board pleitten al langer voor het centrum.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3716064/twente-krijgt-belangrijke-rol-bij-innovatie-voor-defensie-met-eigen-centrum",
-     "bron": "RTV Oost",
-     "tijd": "16:32",
-     "sorteer": "2026-11-06T15:32:50+00:00"
-    },
-    {
      "titel": "Bouw van jeugdcomplex voor FC Twente en Heracles begonnen",
      "context": "De bouw van het nieuwe trainingscomplex voor de jeugdspelers van FC Twente en Heracles is begonnen. De accommodatie komt op Sportpark Veldwijk in Hengelo, bij het FBK-stadion. Na de bouw wordt een deel van het FBK-stadion gerenoveerd voor de FC Twente/Heracles Academy. In 2028 moet alles klaar zijn.",
      "rubrieken": [],
@@ -761,33 +758,33 @@
      "sorteer": "2026-11-06T13:33:12+00:00"
     },
     {
-     "titel": "Minister zet toch in op Europees verbod en komt naar Rijssen voor schuimzorgen",
-     "context": "Minister Elanor Boekholt-O'Sullivan maakt toch werk van een verbod op het omstreden UF-schuim. Volgende week vrijdag gaat ze op bezoek bij bewoners van het Pottenbakkerserf in Rijssen. Zij worstelen met gezondheidsklachten nadat hun woningen werden geïsoleerd met het schuim.",
+     "titel": "Vandaag gaat het doek weer open in Theaterhotel Almelo: 'Ik vind het ontroerend'",
+     "context": "Na jaren zonder reguliere theatervoorstellingen gaat vanavond het doek weer open in Theaterhotel Almelo. Cabaretière Tineke Schouten staat op het podium met haar voorstelling Femme Vitaal. Toch is van een terugkeer van het oude Stadstheater nog geen sprake.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/cultuur/3715817/vandaag-gaat-het-doek-weer-open-in-theaterhotel-almelo-ik-vind-het-ontroerend",
+     "bron": "RTV Oost",
+     "tijd": "05:57",
+     "sorteer": "2026-11-06T04:57:23+00:00"
+    },
+    {
+     "titel": "Boer Alexander ziet zijn schapenkudde slinken door terugkerende aanvallen wolven",
+     "context": "Schapenhouder Alexander Morren uit Kamperveen verloor in korte tijd zo'n honderd schapen door aanvallen van wolven. Ook andere boeren in de omgeving zijn getroffen. Bij meldingen uit Overijssel tussen mei en augustus staan bij BIJ12 bijna 150 dode schapen geregistreerd.",
      "rubrieken": [
       "breaking"
      ],
-     "link": "https://www.oost.nl/nieuws/3716068/minister-zet-toch-in-op-europees-verbod-en-komt-naar-rijssen-voor-schuimzorgen",
+     "link": "https://www.oost.nl/nieuws/3715843/boer-alexander-ziet-zijn-schapenkudde-slinken-door-terugkerende-aanvallen-wolven",
      "bron": "RTV Oost",
-     "tijd": "12:16",
-     "sorteer": "2026-11-06T11:16:26+00:00"
+     "tijd": "05:01",
+     "sorteer": "2026-11-06T04:01:45+00:00"
     },
     {
-     "titel": "Twentse Taalpries erkenning voor Laurens ten Den: 'Wil mensen verbinden aan taal'",
-     "context": "Steeds minder jongeren worden opgevoed met streektaal als eerste taal. Volgens Laurens ten Den, die gisteravond de Twentse Taalpries uitgereikt kreeg, betekent dat niet dat het uitsterft. \"Ik zie dat ze de streektaal nu als tweede taal leren. Het hoort bij identiteit en zal er altijd zijn.\"",
+     "titel": "LEES TERUG | FC Twente wint ook derde duel in Conference League: 'We moesten diep gaan'",
+     "context": "FC Twente heeft ook na speelronde drie de volle buit binnen in de Conference League. Het won vanavond in eigen huis van Pafos en is al zeker van overwintering. Twente is nu zelfs de nummer drie in de stand. Volg hieronder alles rondom het duel, met straks de reacties uit Enschede.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3714931/twentse-taalpries-erkenning-voor-laurens-ten-den-wil-mensen-verbinden-aan-taal",
+     "link": "https://www.oost.nl/nieuws/3715570/lees-terug-fc-twente-wint-ook-derde-duel-in-conference-league-we-moesten-diep-gaan",
      "bron": "RTV Oost",
-     "tijd": "12:11",
-     "sorteer": "2026-11-06T11:11:22+00:00"
-    },
-    {
-     "titel": "Konijnensector werkt aan verbeterplan na video's mishandelingen op fokkerijen",
-     "context": "LTO werkt namens de konijnensector aan een verplicht verbeterplan voor het welzijn van konijnen op fokkerijen. Dit naar aanleiding van beelden van actiegroep Animal Rights, waarop ernstige misstanden te zien zijn bij bedrijven in onder meer Wijhe, Notter, Bentelo, Raalte en Diepenheim.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3715821/konijnensector-werkt-aan-verbeterplan-na-videos-mishandelingen-op-fokkerijen",
-     "bron": "RTV Oost",
-     "tijd": "10:29",
-     "sorteer": "2026-11-06T09:29:58+00:00"
+     "tijd": "23:53",
+     "sorteer": "2026-11-05T22:53:03+00:00"
     },
     {
      "titel": "Vogelshow Nieuwleusen (2)",
@@ -1307,7 +1304,7 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Vlakbij: 1 melding binnen 25 km",
+     "titel": "Vlakbij: 5 plekken binnen 25 km",
      "bron": "Zwolle - Molenpolder, 10 km van Dalfsen (2026-11-05)",
      "tijd": "12:38",
      "link": "https://waarneming.nl/species/306/observations/",
@@ -1315,15 +1312,15 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — 236 meldingen in de afgelopen week, waarvan 53 vandaag",
+     "titel": "Invasiejaar — op 114 plekken in de afgelopen week, waarvan 11 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 287 vogels in de nieuwste meldingen"
+     "vergelijking": "samen 178 vogels; 236 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
-     "titel": "6 binnen 75 km van Dalfsen",
+     "titel": "19 plekken binnen 75 km van Dalfsen",
      "bron": "dichtstbij: Zwolle - Molenpolder, 10 km (2026-11-05)",
      "tijd": "12:38",
      "link": "https://waarneming.nl/species/306/observations/"
@@ -1349,9 +1346,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 2.7,
-    "gevoel": 0.9,
-    "wind": "ONO 2",
+    "nu": 2.2,
+    "gevoel": -0.5,
+    "wind": "O 2",
     "station": "Heino",
     "bericht": "Het wordt regionaal een koude nacht met lichte vorst. Mocht de temperatuur in de Bilt ook onder nul komen dan is dat landelijk de eerste vorst van dit najaar. Verder kan regionaal mist ontstaan.",
     "vandaag": "Vanavond begint op veel plaatsen helder, maar vanuit Duitsland komt in het noorden geleidelijk laaghangende bewolking en mist binnendrijven. Vannacht raakt het hele noorden bewolkt en ook in het zuiden en zuidwesten komt wat meer bewolking voor.",
