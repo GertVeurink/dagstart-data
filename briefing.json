@@ -3,15 +3,15 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "09:00",
+  "opgehaald": "10:00",
   "blokken": 10,
-  "berichten": 101,
+  "berichten": 99,
   "problemen": [
    "Sport viel uit: TypeError"
   ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-07T09:00+01:00",
+ "opgehaald": "2026-11-07T10:00+01:00",
  "audio": "audio/20261107.mp3",
  "afval": [
   {
@@ -215,6 +215,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Politie Mexico schiet meisje (7) dood",
+     "context": "Bij een actie tegen drugscriminaliteit in Mexico heeft de politie een meisje van 7 doodgeschoten. Dat gebeurde in de stad Matamoros, die aan de Amerikaanse grens met Texas ligt. Het doodgeschoten meisje heeft de Amerikaanse nationaliteit. In delen van de stad was het al dagen onrustig. Vorige week hield de politie een plaatselijke drugscrimineel aan en uit protest daartegen hielden gewapende manne",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638404",
+     "bron": "NOS",
+     "tijd": "09:48",
+     "sorteer": "2026-11-07T09:48:23+01:00"
+    },
+    {
      "titel": "VS voert eerste aanval na verkiezingen op Iran uit",
      "context": "Het Amerikaanse leger heeft gisteravond een aanval uitgevoerd op Iran, de eerste sinds de tussentijdse verkiezingen in de VS afgelopen dinsdag. President Trump heeft de actie bevestigd. Volgens hem was het \"een kleine aanval\". Iraanse staatsmedia melden op basis van getuigen dat twee projectielen zijn ingeslagen in het gebied Suza op het eiland Qeshm. Dat eiland ligt op een strategische positie in",
      "rubrieken": [],
@@ -252,13 +261,13 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Groen licht voor Trumps triomfboog, maar rechter legt bouw direct stil",
-     "context": "Een Amerikaanse rechter heeft de bouw stilgelegd van de triomfboog die president Trump in Washington wil laten plaatsen. Dat gebeurde een uur nadat een commissie juist toestemming had gegeven voor het bouwwerk. Die sprak van een passend eerbetoon voor de Amerikaanse geschiedenis en veteranen van het land. De triomfboog moet 76 meter hoog worden, groter dan de Arc de Triomphe in Parijs. De boog moe",
+     "titel": "Trump stuurt stafchef weg en vervangt haar door hardliner Stephen Miller",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2638361",
-     "bron": "NOS",
-     "tijd": "22:12",
-     "sorteer": "2026-11-06T22:12:35+01:00",
+     "link": "https://www.volkskrant.nl/buitenland/trump-stuurt-stafchef-weg-en-vervangt-haar-door-hardliner-stephen-miller~bb7feb7f/",
+     "bron": "de Volkskrant",
+     "tijd": "09:23",
+     "sorteer": "2026-11-07T08:23:54+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -271,22 +280,31 @@
      "sorteer": "2026-11-07T07:46:00+00:00"
     },
     {
-     "titel": "Het van kleur verschoten Texas heeft óók tegen zoemende bezorgdrones gestemd: ‘Je begrijpt pas hoe hinderlijk ze zijn als je het zelf ervaart’",
+     "titel": "Trump meldt aanval op Iraanse luchtafweer",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/het-van-kleur-verschoten-texas-heeft-ook-tegen-zoemende-bezorgdrones-gestemd-je-begrijpt-pas-hoe-hinderlijk-ze-zijn-als-je-het-zelf-ervaart~bb073cec/",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-11-07T04:00:39+00:00"
-    },
-    {
-     "titel": "VS voeren nieuwe aanvallen uit op Iraans eiland Qeshm, Iran meldt neerhalen Amerikaanse drone",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/live-oorlog-midden-oosten-vs-voeren-nieuwe-aanvallen-uit-op-iraans-eiland-qeshm-iran-meldt-neerhalen-amerikaanse-drone~b4cda6da/",
+     "link": "https://www.trouw.nl/buitenland/live-oorlog-midden-oosten-trump-meldt-aanval-op-iraanse-luchtafweer~b4cda6da/",
      "bron": "Trouw",
      "tijd": "00:44",
      "sorteer": "2026-11-06T23:44:00+00:00"
+    },
+    {
+     "titel": "Congressman-elect Manny Rutinel speaks to CNN after election win",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcTVyZmlHUHZFaDRkSHZFZlZnX3NPWWNtekhYSmVWWFBYZTY3UDJQbTVmX19oM280TVdNbzR1eHdQT3VyU1pCS242clZ5d3I4RmlUbnoyRDVxQjNlSGVQODhfM1FvRVdzZlY1VnJhN2NzSlVfOHl0Y0JhSzJVZVNlSVVnMGJyc0MyM1daRWdlbzJIT2NSa3pIZTBJRHpEOEVfTnBIZV9xWUJiSWFlNDR0TUxlVlhJN3NEWDhFQk9zaFkxMDhJTlpJazA0N0tpaExXUE10TDFLZTNaZw?oc=5",
+     "bron": "CNN",
+     "tijd": "09:22",
+     "sorteer": "2026-11-07T08:22:40+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "How Democrats used anger over data centers to flip red states",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc0ZoaDN5c0hWOXFRalVqZ04tQ1Z4YjFGLUh2Tkt3VGVFelJMT1RVZDRXdzh6Sl9vekhqUzRDX29RZWhyRUMwb3VaQ3E3Tjhwcjc1allINTd2TUFFM1VhUGlEQXYzbTdxUS1taTY0Nnl1TDNRSkZNMmZJSEV1NDBtTnRCTVVNSmY0dXE4Um15Rld5TEhkeEhBQzBSNU5ZZw?oc=5",
+     "bron": "CNN",
+     "tijd": "09:00",
+     "sorteer": "2026-11-07T08:00:15+00:00",
+     "kop": "Midterms",
+     "taal": "en"
     },
     {
      "titel": "Utah 2026 election results",
@@ -323,24 +341,6 @@
      "kop": "Midterms",
      "taal": "en",
      "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Iran’s hardliners see a weakened Trump – and want more to end the war",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Ra0drcEFnU1lVY0lfOVJ0YkFxeVFfbE9YcEdmZm1PNHAxMkpLWUU5Q29oM3dONEFqTlVqOVlGaDBWZWhOcjBmb3dQUEZSV1ctd2JlRkl1bUdhVE15Z2NteXF4cGctNDRnSnlxUTYzRC1vTTNlb3FTNldLM04?oc=5",
-     "bron": "CNN",
-     "tijd": "06:01",
-     "sorteer": "2026-11-07T05:01:15+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "60 years of denial about Israel’s nuclear weapons program confronts a new reality",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1ZmdPOVA5TFVsRkppNmNVcTdVREJUaWUxZTJFbGxiVF94NXZFVVdvNmp5ZzNGOFVCZlVaRWtCcC12MVRtVFltNXd2REVnbkstYVAzQTBuMGtRemZtY3NWbTYwc0hpaXZKcEVHWnkyOXVDM3lEdDJCeXVfbw?oc=5",
-     "bron": "CNN",
-     "tijd": "06:01",
-     "sorteer": "2026-11-07T05:01:15+00:00",
-     "kop": "Midterms",
-     "taal": "en"
     },
     {
      "titel": "U.S. Homeless Population Had Record Drop in 2025",
@@ -384,7 +384,7 @@
      "link": "https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html",
      "bron": "New York Times",
      "tijd": "04:08",
-     "sorteer": "2026-11-07T03:08:57+00:00",
+     "sorteer": "2026-11-07T03:08:58+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -499,19 +499,57 @@
      "taal": "en"
     },
     {
-     "titel": "New Zealand election 2026 live results: Labour draws level with National as count continues in close race",
-     "context": "Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent history New Zealand heads for election cliffhanger with minor party cast as kingmaker In New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms? Another update here with 8% of the vote counted . National on 31.2%, Labour 28.4%, the Greens 12.9%, Act 11.2%, NZ Fir",
+     "titel": "Russell Brand barrister reports himself to watchdog over clash with journalist",
+     "context": "Ian Winter KC told Rosamund Urwin of the Sunday Times, whose investigation led to Brand’s victims coming forward: ‘I hope you are pleased with yourself’ Russell Brand’s barrister has reported himself to his professional regulator after being accused of launching a tirade at a journalist shortly after his client had been found guilty of rape. Ian Winter KC “confronted” the Sunday Times journalist R",
      "rubrieken": [
-      "New Zealand",
-      "New Zealand election 2026",
-      "National Party",
-      "Labour party",
-      "Asia Pacific"
+      "Russell Brand",
+      "Barristers",
+      "Law",
+      "UK news",
+      "Violence against women and girls",
+      "Sunday Times",
+      "Rape and sexual assault",
+      "Crime",
+      "Journalist safety",
+      "National newspapers",
+      "Newspapers",
+      "Newspapers & magazines",
+      "Media"
      ],
-     "link": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
+     "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
      "bron": "The Guardian",
-     "tijd": "08:49",
-     "sorteer": "2026-11-07T07:49:47+00:00",
+     "tijd": "09:49",
+     "sorteer": "2026-11-07T08:49:43+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
+     "context": "President Isaac Herzog is set to task a candidate with trying to form a government, following two days of talks with party leaders and officials after an inconclusive election.",
+     "rubrieken": [
+      "Jews and Judaism",
+      "Law and Legislation",
+      "Legislatures and Parliaments",
+      "Politics and Government",
+      "Elections",
+      "Joint List (Israel)",
+      "Likud Party (Israel)",
+      "Raam Party (Israel)",
+      "United Torah Judaism",
+      "Yashar Party (Israel)",
+      "Yisrael Beiteinu",
+      "Yisrael Beiteinu (Israeli Political Party)",
+      "Eisenkot, Gadi",
+      "Herzog, Isaac",
+      "Lapid, Yair",
+      "Lieberman, Avigdor",
+      "Israel",
+      "Netanyahu, Benjamin"
+     ],
+     "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+     "bron": "New York Times",
+     "tijd": "09:02",
+     "sorteer": "2026-11-07T08:02:08+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -534,30 +572,6 @@
      "bron": "BBC",
      "tijd": "07:59",
      "sorteer": "2026-11-07T06:59:48+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?",
-     "context": "Economic concerns dominated in the lead-up to the election on Saturday, in which there was no clear front-runner and smaller parties were expected to wield greater influence.",
-     "rubrieken": [
-      "Polls and Public Opinion",
-      "Elections",
-      "Legislatures and Parliaments",
-      "Politics and Government",
-      "Maori",
-      "Labour Party (New Zealand)",
-      "National Party (New Zealand)",
-      "Hipkins, Chris",
-      "Luxon, Christopher",
-      "Peters, Winston (1945- )",
-      "New Zealand",
-      "Qiulae Wong"
-     ],
-     "link": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
-     "bron": "New York Times",
-     "tijd": "07:45",
-     "sorteer": "2026-11-07T06:45:04+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -663,11 +677,11 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Enschedese (65) dreigt strafblad te krijgen om schilmes",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQks3V0U0WUZMX3htc0pfbV9RMEhFQlFkcU1DTS1XTC1xVFNUVEhyQ1dMNkR5OTFnck0xbzFJeDNRckR6eXNOU3BlWm9oeF8tQ1pGMV9raS1mc3Y0Qm9Yb0RwMDQ3RWhlWHp3ekxZVG1MN1F0OVFvRV90Z0QxVDBETk5mSGRDbFhGcnE1WElocTZpVjFFa05KS1dBQ0s?oc=5",
-     "bron": "Tubantia",
-     "tijd": "06:31",
-     "sorteer": "2026-11-07T05:31:00+00:00"
+     "titel": "Verdachten gedragen zich als laffe honden in een schouwspel van vingerwijzen",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTlRYYWpPYmZFeWFSQUQzbGhMazJJSWx0dVl3VUlaUENVRnVPY05TcDczdHhhZ19fbFRNQlZXalZwSkE5a1pmTUM2UUNhTkJNOGhUeGNTVXMwWWllaThXSDMxWEd4UTlOWlBFQ0R3U3hrU3RfQW1NeWhveVdTQUxoX1ppd3RfQVF5amhJQ0dsVlJvcVFzNWx4QVhTeUJnbktpWm5iOUpocFV0cGREcmJRcDZ6SQ?oc=5",
+     "bron": "AD.nl",
+     "tijd": "09:03",
+     "sorteer": "2026-11-07T08:03:49+00:00"
     },
     {
      "titel": "Werkwijze mensensmokkelaars onthuld: asielzoekers naar Ter Apel met geblindeerde busjes, nep-huwelijken en peperdure vip-reizen",
@@ -684,12 +698,11 @@
      "sorteer": "2026-11-07T04:00:43+00:00"
     },
     {
-     "titel": "Iran niet in beklaagdenbank, toch klonk het ayatollah-regime in zaak verijdelde liquidatie: ’Noem naam grote baas niet’",
-     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUUFGZDdTR0tabXZLRURZQkcxbTBMSHQ2aHl1VVlrb2dGTTVCU25HOUhxWHJUcG8yU2I0WEotd3U5WTB5RHU3dFRjX29aQmdqRnJVaXZBRWZ0aE92a2RyaDhWUGxEUnBFY1JVOFl3dkhNN1FmVHJCUmpScWxnQlB0c3dDWFJoYWtMUUk4NkRMZW1GcU1pUWxUc3Z4M3ZMOFRvOU9LUFJUTDFwU25hMnVlc3NVaTB5UE5qUkRHbWVnd0RPZW5pMmNpUDlhaU5vYUc4cUxjc1BDU2J2RkVwZW9NNmlUWTVyS0d3bTVtYUxQb21UZHRNRmdldjR3?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "03:24",
-     "sorteer": "2026-11-07T02:24:00+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "titel": "Paraguay beëdigt nieuwe president na afzetting Peña",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yUi1HMUY5NTlRc3VHWDVKZnRhaURFZHNmZlM0RUh6bzRyYkZHNDFHYkU3YWpqeDAtXzVnUmxWMTJXYUVmcm9aSndMNWtUUy1Fd3Q5QXBndkwxaHMwZHFkeTdEUm0xVWRGZlZURTdydUNRdGZ4RFo0bkhFQQ?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "03:48",
+     "sorteer": "2026-11-07T02:48:45+00:00"
     },
     {
      "titel": "Casinopolitiek, coalitiediscipline en de grote gok met het Belastingplan",
@@ -700,19 +713,19 @@
      "kop": "Begroting"
     },
     {
-     "titel": "Belgische koning accepteert ontslag niet: premier moet nieuwe poging doen om begrotingsakkoord te bereiken",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa2VrLWYtSk5QcW9JWlRBaDBTTmJFYUZlRGhnay16V0FnbDJxUG00ZW5VRFVZY3cxbjk2ZzlpNEM1LUlST3ROVTNUanE1LVdKY0lPek1RTEJObzJkcWNrdVozSUY4X0VMN29zbGZCZndhY3V4QmF6Tkt4VnlXd2VGbnJKMjZwbllCbEYyb3NYZ3BwWFpSOXZxMnVqSG1BM1ZNdkFlQnpyOExXNzRPaWZnMW9TRVRhZ2YwbTBTbzVDeXJmQXN1aXhiVTVRS2p5eUdUVDJtbVFIQlRtTU5reG93MDVLWC1pME1CaEZmQg?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "05:25",
-     "sorteer": "2026-11-07T04:25:00+00:00",
-     "kop": "Begroting"
-    },
-    {
      "titel": "Coalitie rijdt razendsnel af op ravijn van vermogensbelasting: wie knippert als eerste?",
      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORU5ldjkxR05JSkEzOFIxNWIxQmkxajFXeUZRRXduV0ZiMlB3R1Z5bDJfcnM4YXZMUHJkNGZydFB5Q3pESU56aWNJVTZKMUpxblZKcUJJUTlSTDU2RjJ6V2J1UWhJaTNBdGxTdGxEU25laXdHZkZwTFRUeVNVTTBoXzRoWmZTYU9NOVgwQ3dUSUFHUUZ4YTBpRUF1eFpFWmVET0NkTmhEWVppczRkTzNGYlJjczdDTVJ1d3o2Uy1FRnU2bks0TVlQY0RR?oc=5",
      "bron": "de Volkskrant",
      "tijd": "05:00",
      "sorteer": "2026-11-07T04:00:38+00:00",
+     "kop": "Begroting"
+    },
+    {
+     "titel": "Minister Eelco Heinen (Financiën) benadrukt graag hoe zuinig hij is – maar zijn begroting zit vol gaten",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ3luOFNCTzlpWnVKSUpVMHJJVDZBNXVXZVB3ZGd3elpUS2hXY05vODUxMDAtVkZTTmtZOTBqa2JFaUZxcm5RT3Y4QW16Vm1UNDdlMkZ3SXFhN3FXcjczVGZtYjRISEk2ZG42Tm1wMkVKT1RxVUtlZ3Y2dkdZMEM2YVJFWGUzY1VRVWpNZG5aYU5wQklxT3lsQm0wX2lNVUZDeFhORTAzZldpQ2lOdnkyWWM2NEdVVXpsTHVCbzFVakx3SzJUYkpUMGx6bzFFRkdOeTN4aENYMUQ?oc=5",
+     "bron": "Het Parool",
+     "tijd": "03:00",
+     "sorteer": "2026-11-07T02:00:24+00:00",
      "kop": "Begroting"
     },
     {
@@ -909,14 +922,6 @@
      "bron": "de Volkskrant",
      "tijd": "06:25",
      "sorteer": "2026-11-07T05:25:49+00:00"
-    },
-    {
-     "titel": "NCTV waarschuwt: cyberdreiging door AI ’in stroomversnelling, nu actie ondernemen’",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbUJDZ3FoS09qX2s5VG5pdFZhWE1yLUluNVU0RXNRLW5udUNjZl9HaXRIQlFrMHd2UEU1ODNLcmFFVVppSUg0Q091Y3p3TmFqUm5Lb2hPTEFBSzNjbkdpM1FwaFZfSkstUUg0endZUWhjcG80TmNyWWR1WFRIMC13ZVFvLWFzdFJMbXJGOHZ3Tm1jbDFpemFhRUpzLWZiZUtfT2oxNE1rVEhuU0FCcTg1alBlcTI0UUVURWFEZ09ENjA1MU55NXpieQ?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "01:07",
-     "sorteer": "2026-11-07T00:07:29+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
     }
    ]
   },
@@ -1069,14 +1074,6 @@
      "sorteer": "2026-11-07T05:45:00+00:00"
     },
     {
-     "titel": "Terugblik webinar Beheer van Bijenlandschappen",
-     "toelichting": "Met meer dan 340 deelnemers, bestaande uit professionals, gemeenten, vrijwilligers, beleidsmakers en beheerders uit heel Nederland, was er veel belangstelling voor het webinar Beheer van Bijenlandschappen. Tijdens de bij",
-     "bron": "Nature Today",
-     "tijd": "10:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36023",
-     "sorteer": "2026-11-06T09:00:00+00:00"
-    },
-    {
      "titel": "Twee nieuwe brulapen ontdekt",
      "toelichting": "Voor het eerst in 85 jaar is er een nieuwe soort brulaap ontdekt. Twee zelfs! Genetisch onderzoek, geleid door onderzoekers van de University of Salford, bracht twee tot dusver onbekende soorten aan het licht: de Pantepu",
      "bron": "Nature Today",
@@ -1122,6 +1119,22 @@
    "emoji": "🐦",
    "items": [
     {
+     "titel": "Siberische Braamsluiper",
+     "kop": "Zeldzaamheden",
+     "bron": "Zuid-Holland",
+     "tijd": "08:40",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-07T08:40:00+01:00"
+    },
+    {
+     "titel": "Siberische Boompieper",
+     "kop": "Zeldzaamheden",
+     "bron": "Flevoland",
+     "tijd": "07:17",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-07T07:17:00+01:00"
+    },
+    {
      "titel": "Witbandkruisbek",
      "kop": "Zeldzaamheden",
      "bron": "Friesland",
@@ -1152,22 +1165,6 @@
      "tijd": "13:43",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-11-06T13:43:00+01:00"
-    },
-    {
-     "titel": "Siberische Boompieper",
-     "kop": "Zeldzaamheden",
-     "bron": "Flevoland",
-     "tijd": "10:35",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-06T10:35:00+01:00"
-    },
-    {
-     "titel": "Dwerggors",
-     "kop": "Zeldzaamheden",
-     "bron": "Noord-Holland",
-     "tijd": "10:00",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-06T10:00:00+01:00"
     },
     {
      "titel": "Dalfsen (nacht)",
@@ -1286,16 +1283,16 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 0.1,
-    "gevoel": -2.9,
-    "wind": "ONO 2",
+    "nu": 1.2,
+    "gevoel": -1.8,
+    "wind": "O 2",
     "station": "Heino",
     "bericht": "Het weekend verloopt rustig, met regionale verschillen in de hoeveelheid zon en bewolking. In de ochtend komt plaatselijk eerst ook nevel of mist voor. De eerste officiële vorst van het najaar een feit.",
     "vandaag": "Vanochtend is het plaatselijk nevelig en in het zuiden lokaal nog mistig. Vanmiddag is het in het noorden, zuiden en zuidwesten bewolkt, met in Zeeland plaatselijk soms lichte regen.",
     "temperatuur": "De middagtemperatuur varieert van 5 graden in het noordoosten tot 10 graden in Zeeland en Zuid-Limburg.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -0 tot 4 graden, droog, ruim 7 uur zon, wind uit het oosten, kracht 3.",
-     "max": 4,
+     "zin": "Voor Dalfsen zelf: -0 tot 5 graden, droog, ruim 8 uur zon, wind uit het oosten, kracht 3.",
+     "max": 5,
      "min": 0,
      "regenkans": 0,
      "omschrijving": "mistig"
