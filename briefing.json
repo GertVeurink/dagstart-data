@@ -3,15 +3,15 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "12:00",
+  "opgehaald": "13:00",
   "blokken": 10,
-  "berichten": 104,
+  "berichten": 105,
   "problemen": [
    "Sport viel uit: TypeError"
   ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-07T12:00+01:00",
+ "opgehaald": "2026-11-07T13:00+01:00",
  "audio": "audio/20261107.mp3",
  "afval": [
   {
@@ -260,6 +260,15 @@
      "sorteer": "2026-11-07T01:12:02+01:00"
     },
     {
+     "titel": "Amerikaanse techbeurs Nasdaq trekt iets bij na monsterverlies op donderdag",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/economie/amerikaanse-techbeurs-nasdaq-trekt-iets-bij-na-monsterverlies-op-donderdag~b2466533/",
+     "bron": "de Volkskrant",
+     "tijd": "12:23",
+     "sorteer": "2026-11-07T11:23:24+00:00"
+    },
+    {
      "titel": "‘Blauwe golf’ gaat niet per se samen met ruk naar links: miljardairstaks Californië lijkt weggestemd",
      "context": "",
      "rubrieken": [],
@@ -269,20 +278,85 @@
      "sorteer": "2026-11-07T09:27:00+00:00"
     },
     {
-     "titel": "Topman Jensen Huang van AI-chipfabrikant Nvidia zou zijn verleid door Chinese spion",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/topman-jensen-huang-van-ai-chipfabrikant-nvidia-zou-zijn-verleid-door-chinese-spion~b763bec8/",
-     "bron": "de Volkskrant",
-     "tijd": "10:13",
-     "sorteer": "2026-11-07T09:13:00+00:00"
-    },
-    {
      "titel": "Commentaar",
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrUlVNOEgzblByeXRNcU9iUHhzb2FJNjRtR2E2eVZNT1RGMGVHQTctZFdfYV9aWTF6Ml9xcEo1MVNEQXBrRkE0MXNZSnZkTzg?oc=5",
      "bron": "NRC",
-     "tijd": "11:38",
-     "sorteer": "2026-11-07T10:38:44+00:00"
+     "tijd": "12:36",
+     "sorteer": "2026-11-07T11:36:57+00:00"
+    },
+    {
+     "titel": "Mississippi GOP chair says state has thousands more uncounted ballots",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXJnOGJVVDFWcm5EM3hSX3RpSzdnLV9NcjJkYTRqY1M1eE55SUJzOU1PQzlIRXY1OGhoNFlQTW1ndlk1SF9ER1RDLTE3ekhIcGx2aWZUOURHT3padDF6UjVpQndIWnVybHRtLVY0YWFVSFViWjAxaThRUzh3eGpxVXNGc09wVWJfRGpFU2s3VmNFNzRycFlDMWF2bjJRRk9YS0w2LWpRbzNoNkJaTzVLVVdWSkRXZw?oc=5",
+     "bron": "CNN",
+     "tijd": "12:34",
+     "sorteer": "2026-11-07T11:34:00+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "How one of Trump’s most controversial advisers rose to chief of staff – and what it means",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZTE1VFYyVURidnQ3dFRmMko4ZHRtQXZKT094WExDTHJTMlBJY2hqSEx1dzN1bUZYWGt5NXgzSGVRblVGT204MnNxYlYyVkNSc2dBYUd6bi02bFMzNjhfc19YUnBpV044S3JQcW4tb19FYTVGN0ZKZmQ0c1JqSVhVNg?oc=5",
+     "bron": "CNN",
+     "tijd": "12:30",
+     "sorteer": "2026-11-07T11:30:15+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Immigration",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ycjZxZVVJWjh5WmtLeXI1Nm9tNFdVcDN2WjBjcFlXdDA3ZldVTW5RdnNlVUdzWThWaWVzVjNSOWVyNjV3UTB4Rl9VX2xuM2VtT1UyMDZ4Zw?oc=5",
+     "bron": "CNN",
+     "tijd": "12:23",
+     "sorteer": "2026-11-07T11:23:56+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "This actor is starring in the biggest film of his career. He’s also fighting deportation",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTTczUHM5OXZUaloyYUtqbktDdmpFdHUzTHlLc3NxRTQtaWNDMlk3TF9WdnZ1d2xnRnlpaTh4ZW1sZ3hZODNlT19tLWtYMVhsWlc1djdLeVZSYXNIOHJXM3hfYzNXTXpXNk9Sc2Z5b1JEZHROY3N3M2dSLUFlbjhBSw?oc=5",
+     "bron": "CNN",
+     "tijd": "12:00",
+     "sorteer": "2026-11-07T11:00:16+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Black voter turnout surges in US south despite Republican redistricting drive: ‘They could not stop the momentum’",
+     "context": "The GOP tried to dilute their power, but Black voters helped Democrats get elected in Alabama, Texas and Florida Black voter turnout surged across US southern states where Republicans were accused of redrawing electoral maps to “diminish Black political power” in the wake of a seismic supreme court ruling. Democrats flipped or held seats in Alabama, Texas and Florida with the support of this votin",
+     "rubrieken": [
+      "US midterm elections 2026",
+      "US voting rights",
+      "Race",
+      "Democrats",
+      "Republicans",
+      "US politics",
+      "US news"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/07/black-voter-turnout-gerrymandering",
+     "bron": "The Guardian",
+     "tijd": "12:00",
+     "sorteer": "2026-11-07T11:00:10+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Trump may have lost but don’t bet Democrats can fix the economy",
+     "context": "There’s not much they can do over the next couple of years to alleviate angry voters’ stress over prices It was the economy, again. Although Donald Trump largely ignored it, voters’ acute concerns over the rising cost of living fuelled a political upheaval for the ages that is likely to deliver the biggest swing toward Democrats since Watergate, granting them the largest House majority in nearly f",
+     "rubrieken": [
+      "US economy",
+      "Democrats",
+      "Business",
+      "US midterm elections 2026",
+      "US news",
+      "Economics",
+      "US politics"
+     ],
+     "link": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
+     "bron": "The Guardian",
+     "tijd": "12:00",
+     "sorteer": "2026-11-07T11:00:08+00:00",
+     "kop": "Midterms",
+     "taal": "en"
     },
     {
      "titel": "The Good, the Bad and the Cringe: 10 Ads That Defined the Midterms",
@@ -397,83 +471,6 @@
      "taal": "en"
     },
     {
-     "titel": "Congressman-elect Manny Rutinel speaks to CNN after election win",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcTVyZmlHUHZFaDRkSHZFZlZnX3NPWWNtekhYSmVWWFBYZTY3UDJQbTVmX19oM280TVdNbzR1eHdQT3VyU1pCS242clZ5d3I4RmlUbnoyRDVxQjNlSGVQODhfM1FvRVdzZlY1VnJhN2NzSlVfOHl0Y0JhSzJVZVNlSVVnMGJyc0MyM1daRWdlbzJIT2NSa3pIZTBJRHpEOEVfTnBIZV9xWUJiSWFlNDR0TUxlVlhJN3NEWDhFQk9zaFkxMDhJTlpJazA0N0tpaExXUE10TDFLZTNaZw?oc=5",
-     "bron": "CNN",
-     "tijd": "09:22",
-     "sorteer": "2026-11-07T08:22:40+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "How Democrats used anger over data centers to flip red states",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc0ZoaDN5c0hWOXFRalVqZ04tQ1Z4YjFGLUh2Tkt3VGVFelJMT1RVZDRXdzh6Sl9vekhqUzRDX29RZWhyRUMwb3VaQ3E3Tjhwcjc1allINTd2TUFFM1VhUGlEQXYzbTdxUS1taTY0Nnl1TDNRSkZNMmZJSEV1NDBtTnRCTVVNSmY0dXE4Um15Rld5TEhkeEhBQzBSNU5ZZw?oc=5",
-     "bron": "CNN",
-     "tijd": "09:00",
-     "sorteer": "2026-11-07T08:00:15+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Utah 2026 election results",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hVWhuLUNhVWVRbG9tWHhWMUNDN04tMXFrQWY3YXVobG1BOE5nUzdEN296MDZnT1ZUblRtQUJsVWNKaXVxZHdqVEF4Sm9Qam9BQmVORWJfY0ZQdEk?oc=5",
-     "bron": "CNN",
-     "tijd": "07:03",
-     "sorteer": "2026-11-07T06:03:08+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "The end of Maga as we know it",
-     "context": "The Republican party will regroup after their shellacking in the US midterm elections, but it won’t look the same Walking by a tattoo studio and medical spa on the pretty main street of Round Rock , in Texas Hill Country, Tarik Bakir recalled voting for Barack Obama in 2008 and Donald Trump in 2024. But when it came to the 2026 midterm elections, he was firmly back in the Democrats’ column. “I’m n",
-     "rubrieken": [
-      "Republicans",
-      "Donald Trump",
-      "US midterm elections 2026",
-      "US politics",
-      "US news"
-     ],
-     "link": "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it",
-     "bron": "The Guardian",
-     "tijd": "07:00",
-     "sorteer": "2026-11-07T06:00:05+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Ballot measure results",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ma0U1VzZ6THVPaUlKOXBuclNXLVRRWFRPR0VkZ1dIOEtFNk1YZ1hHZG1zU0M2WlBWQ3hMY0ZqU0tHcktXY3A3OWF3SWRNWmpTYlgtczlNWFgyWWpieEc0?oc=5",
-     "bron": "CNN",
-     "tijd": "06:55",
-     "sorteer": "2026-11-07T05:55:04+00:00",
-     "kop": "Midterms",
-     "taal": "en",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Democrats blast Trump’s decision to make Stephen Miller his chief of staff as president defends picking loyal ‘MVP’ - as it happened",
-     "context": "This live blog is now closed. Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff Sign up for Breaking News US email Donald Trump will begin the day in Washington today. He has closed door meetings for much of the day, and will take part in a Diwali celebration at the White House at 1:30pm ET. While that’s currently not open to the press we’ll let you k",
-     "rubrieken": [
-      "US midterm elections 2026",
-      "US Congress",
-      "US Senate",
-      "House of Representatives",
-      "US politics",
-      "Trump administration",
-      "Democrats",
-      "Republicans",
-      "US news",
-      "Donald Trump"
-     ],
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-     "bron": "The Guardian",
-     "tijd": "04:02",
-     "sorteer": "2026-11-07T03:02:26+00:00",
-     "kop": "Midterms",
-     "taal": "en",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
      "titel": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
      "context": "Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent history New Zealand heads for election cliffhanger with minor party cast as kingmaker In New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms? Another update here with 8% of the vote counted . National on 31.2%, Labour 28.4%, the Greens 12.9%, Act 11.2%, NZ Fir",
      "rubrieken": [
@@ -485,28 +482,34 @@
      ],
      "link": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
      "bron": "The Guardian",
-     "tijd": "11:48",
-     "sorteer": "2026-11-07T10:48:27+00:00",
+     "tijd": "12:49",
+     "sorteer": "2026-11-07T11:49:15+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
-     "context": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.",
+     "titel": "America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony",
+     "context": "While U.S. voters largely oppose the trade war with Canada, many Democrats and their supporters have protectionist leanings.",
      "rubrieken": [
-      "Threats and Threatening Messages",
-      "Cyberwarfare and Defense",
-      "Bombs and Explosives",
-      "Airlines and Airplanes",
-      "Supermarkets and Grocery Stores",
-      "Refrigerators",
-      "European Union",
-      "Europe"
+      "Canada",
+      "Carney, Mark J",
+      "Trump, Donald J",
+      "Midterm Elections (2026)",
+      "Customs (Tariff)",
+      "North American Free Trade Agreement",
+      "International Relations",
+      "International Trade and World Market",
+      "Democratic Party",
+      "Republican Party",
+      "Senate",
+      "House of Representatives",
+      "Peterson, Peter G, Institute for International Economics",
+      "Collins, Susan M"
      ],
-     "link": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
+     "link": "https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html",
      "bron": "New York Times",
-     "tijd": "11:32",
-     "sorteer": "2026-11-07T10:32:52+00:00",
+     "tijd": "12:00",
+     "sorteer": "2026-11-07T11:00:07+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -634,6 +637,13 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Verdachte broers blijven weg bij de rechtszaak, met één zet stellen ze net op tijd het vonnis uit",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRDhvajRFYW1RR0dGWWJpZU9QdkVWWVplTHAtSHprTE9fd2dwX1JZWDdZX3MyVTE1cDJIeUNwNHJFT0Zod183cm0wcjQ4Z1FjeHdhQTdLd0liQllELV9XMEtPMEttYjZ0S21NeC1aU25yT2VjVGt4bnRORVFKY25qRjB4SUtEd3AyZXlUQmZkVDN0bUJabzFYVzVFWWk4X1dtNlV0U1cxaXJRcG5DaEMwYkhoWm1iWG4zY2ZRUEQ5SEJ0dVJmRTQ3OFV1MFhmVTAxSlFHVQ?oc=5",
+     "bron": "de Stentor",
+     "tijd": "12:34",
+     "sorteer": "2026-11-07T11:34:37+00:00"
+    },
+    {
      "titel": "Werkwijze mensensmokkelaars onthuld: asielzoekers naar Ter Apel met geblindeerde busjes, nep-huwelijken en peperdure vip-reizen",
      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZHh2TlRfQW9MNUJxbWNMUVVWQkdRT0ZVb1ItMHFDNXhMdWMtWFVRQjN0N016V08yejBUeDFNMlZiaTg0OEdhWGFSSEkxOGJTWHpjT0I3NWVYR3RNRkFtOVdOT2EzYndKQ3p3VGcwREtyOWhLeHNxc3VKQzJmTDBZbHlBRE9OMWdUMVpEcEI3REwwRTQyalBlQkNud0hEazBSUVZDX2Rka3ZsREpzNUZCZU9HMzNiZVAtTF8wZnZCVlItalNxTUlnMW4xVnBNcW95LUliVms3Y05fU2c0NXRPRTZKSnd1dTU0WGtjTTRXWG45eGtuc3daSElKaC1zcS1TdklrY2tPcw?oc=5",
      "bron": "De Telegraaf",
@@ -641,33 +651,37 @@
      "sorteer": "2026-11-07T10:54:23+00:00"
     },
     {
-     "titel": "Twee mannen lopen lachend de winkel uit nadat ze voor honderden euro’s aan gereedschap hebben gestolen in Zutphen",
+     "titel": "Twee mannen lopen lachend de winkel uit nadat ze voor honderden euro’s aan gereedschap stelen",
      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeWFoTHRBUzBhbFUtZlNRUjVRRlVGMURIczlEd2MtWUVzcWV5cE5BZUJNMm9KUmJWNzcyV2RqWk9NbkhYYUhNMkdKY0RBUnlhTzF5bHI0dW9ybW1BanAwY2NWaVR2eUl5WENYRjZoZXd4bjVIeWt2QXlaQkhndXoxQVZPQlV1UDhORVFKY25SZlVyVS1hYnR2YnNxN3M3aU1lTjliZVMzdi04dlVxcmlXQ19HSzRFSWxoWExiWjM1VXl2SklBbllFTVA3TFE5RG92eDlNMlJoU2dVRmJ0NFhRamln?oc=5",
      "bron": "AD.nl",
      "tijd": "11:13",
      "sorteer": "2026-11-07T10:13:00+00:00"
     },
     {
-     "titel": "Politie deelt beelden van jongeman die pakket met cocaïne aflevert in Apeldoorn: ‘Willen heel graag weten of iemand hem herkent’",
-     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcWlHeG9pQTR2UXQ5N2d3ZkVsQTFRajAtS2o2TUszZ2RrZTBBeDhJN3BQb2M2a1pvVnp2dUdlOUVibndleXU4WHBQbDVGMjJxNWo3ajI4YzZ2SXphUmNKY2d5WF9hWmRtcU96Q1RGcEhvZC1Tc0k5dzVSY3ZQU3FXT200YW5sNHJOWERrRG56MHoteF9SdHdIRXVzZW9DZ2pTUURCRGp6eU5obFlwRU1Ka1dzYmpWRVpFRWxNakdiMi1jS3RnMkxEaDJXeDdvLUp2S2RmUHBvLTJ6dEU2QzYwdHhYTFk4aXBxRzZFRFZzb29TODE3Z1pVcldBLVJKNVE?oc=5",
+     "titel": "Politie deelt beelden van jongeman die pakket met cocaïne aflevert in Apeldoorn: ‘Pakketezel of zit hij achter drugshandel?’",
+     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPOTNtWHJBalhZN1kyNnB6OUZWT20zaERnV1dzTGlyem9mSW5GUVN1OGIyQnBBdVV1Z3lobURuLV8tRVNlbEQ3UlVIdFZSeUhXVTRrb2pFVmN3Nm1WMEdacFVCb3BZalNSNENYT2VVU2psdWlSN01kSkY0VFZSeVFIVG5PcWpYWXJnVjRIR1VGc0VMMTVObEM2eVJ5YXN0ZThQZXdmTXpiMVdRRjFaUm82UDFMZUljTXJfU1QtRUdaM1dOS0VGTEpVWFAydUp2a1pfNTdpZFIwRlpFUUN1dllPVG9qSGE2TmpjTjdTcmF3d2kxWU5mWDBtTA?oc=5",
      "bron": "de Stentor",
      "tijd": "10:02",
      "sorteer": "2026-11-07T09:02:00+00:00"
     },
     {
-     "titel": "Enschedese (65) dreigt strafblad te krijgen om schilmes",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQks3V0U0WUZMX3htc0pfbV9RMEhFQlFkcU1DTS1XTC1xVFNUVEhyQ1dMNkR5OTFnck0xbzFJeDNRckR6eXNOU3BlWm9oeF8tQ1pGMV9raS1mc3Y0Qm9Yb0RwMDQ3RWhlWHp3ekxZVG1MN1F0OVFvRV90Z0QxVDBETk5mSGRDbFhGcnE1WElocTZpVjFFa05KS1dBQ0s?oc=5",
-     "bron": "Tubantia",
-     "tijd": "09:13",
-     "sorteer": "2026-11-07T08:13:03+00:00"
+     "titel": "Bontenbal op partijcongres over belastingplan: ‘Wij CDA’ers hebben het niet zo op gokken’",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/politiek/bontenbal-op-partijcongres-over-belastingplan-wij-cda-ers-hebben-het-niet-zo-op-gokken~b63db01bd/",
+     "bron": "de Volkskrant",
+     "tijd": "12:44",
+     "sorteer": "2026-11-07T11:44:13+00:00",
+     "kop": "Begroting"
     },
     {
-     "titel": "Casinopolitiek, coalitiediscipline en de grote gok met het Belastingplan",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRFNhaS1qSkVPZGl2bmNXSXV5RmhFejlmTXhkYlI0TVZ3V3ZaV0FmSVlxc2tMTFY0WjN2Znlfck14YmVnREhsNHQ0T01SUURBQ2hwRmNyVkF5dlZhVTlqV1NoR19sZnYyLUFXTi1QdmgxaE5nT29TZ1JTY0V1QkNocUNUb1hGUlhCeFBfVmVzY0FxRVM0Z1RIanpkalJ2YlZtVThEUS1oaHpwNmtPaFBkdzh2cUdwaFc2?oc=5",
-     "bron": "NRC",
-     "tijd": "05:30",
-     "sorteer": "2026-11-07T04:30:00+00:00",
-     "kop": "Begroting"
+     "titel": "Tromgeroffel bij coalitie Vlaardingen: de begroting is zonder kleerscheuren goedgekeurd",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSjc1eERiZ0xkc3VBMWQ4N1JyYU00cWMtaW1YRFRheGh6UXVKakQ3aXJhY1FlbGI2NHhyWVNLVjIzWFoxODE0aXBMOFpLcE1UVlJOM19iRFRmMmFxUVg5WDY5bGgtdTN6dmE0RGo5QUlCelEyWC1Db2h4c0tqbTNLOFVjbWVqYkxTcFRBWXZ5dTNFRGNKdWJvVHNYdnhMWEhyNm5oX3Z4VUVQSk1aeVRXVUp6M3BGUUtaZ25UakdsSjZxVy1o?oc=5",
+     "bron": "AD.nl",
+     "tijd": "12:29",
+     "sorteer": "2026-11-07T11:29:43+00:00",
+     "kop": "Begroting",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Wat als het belastingplan straks alsnog strandt in de Eerste Kamer?",
@@ -692,17 +706,6 @@
      "sorteer": "2026-11-06T15:59:08+01:00",
      "kop": "Begroting",
      "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Nieuwsuur: Verantwoordelijkheid van bergbeklimmers • De AI-strategie van het kabinet • Seksualiteit van dementerende ouderen",
-     "context": "De AI-strategie van het kabinet Het kabinet komt vandaag met een nieuwe AI-strategie. Die moet zorgen voor een veilige, verantwoorde en toekomstbestendige inzet van AI. Want AI heeft een grote impact op de economie, veiligheid en internationale verhoudingen. Het kabinet wil dat Nederland minder afhankelijk is van andere landen. Ondertussen maken beleggers zich zorgen over de enorme investeringen i",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638282",
-     "bron": "NPO2 · 22:00",
-     "tijd": "22:00",
-     "sorteer": "2026-11-07T22:00:00",
-     "kop": "Vanavond op tv",
-     "vervolg": "stond gisteren ook in de briefing"
     }
    ]
   },
@@ -712,10 +715,21 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Nieuwe beelden tonen trappende man bij zware mishandeling in Kampen",
+     "titel": "Acht tegenliggers en toch inhalen: automobilist neemt risico bij Dalfsen",
+     "context": "In Oost op het Asfalt bekijken we opvallende dashcambeelden van de Overijsselse wegen: gevaarlijke stunts, agressie onder automobilisten en grappige of kolderieke taferelen. Deze week een Peugeot die inhaalt waar dat eigenlijk niet kan (in de bebouwde kom!).",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3715018/acht-tegenliggers-en-toch-inhalen-automobilist-neemt-risico-bij-dalfsen",
+     "bron": "RTV Oost",
+     "tijd": "12:01",
+     "sorteer": "2026-11-07T11:01:16+00:00"
+    },
+    {
+     "titel": "Wie herkent de man met het witte shirt op nieuwe beelden uit Kampen?",
      "context": "De politie heeft nieuwe beelden vrijgegeven van de ernstige mishandeling tijdens de Kamper Ui(t)dagen. Een minderjarige jongen uit Zwolle liep daarbij een gebroken kaak en zware hersenschudding op.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3713021/nieuwe-beelden-tonen-trappende-man-bij-zware-mishandeling-in-kampen",
+     "link": "https://www.oost.nl/nieuws/3713021/wie-herkent-de-man-met-het-witte-shirt-op-nieuwe-beelden-uit-kampen",
      "bron": "RTV Oost",
      "tijd": "08:02",
      "sorteer": "2026-11-07T07:02:23+00:00"
@@ -759,40 +773,32 @@
      "sorteer": "2026-11-07T04:01:25+00:00"
     },
     {
-     "titel": "Politie ontruimt kraakpand in Zwolle na zorgen over veiligheid museumcollectie",
-     "context": "Voor de derde keer in een maand tijd is in Zwolle een pand gekraakt. Gisteravond ontruimde de politie een historisch pand van de gemeente in de Voorstraat, direct naast stadsmuseum ANNO. Omwille van de veiligheid van de collectie.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3716244/politie-ontruimt-kraakpand-in-zwolle-na-zorgen-over-veiligheid-museumcollectie",
-     "bron": "RTV Oost",
-     "tijd": "21:38",
-     "sorteer": "2026-11-06T20:38:56+00:00"
+     "titel": "Knuffel gevonden",
+     "context": "DALFSEN – We hebben bij ons in de winkel een knuffel gevonden die is blijven liggen. Groetjes , Kamst mode Dalfsen",
+     "rubrieken": [
+      "Dalfsen",
+      "Ingezonden bericht",
+      "Kwiet en weer terechte"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/556116/knuffel-gevonden-12.html",
+     "bron": "DalfsenNet",
+     "tijd": "12:42",
+     "sorteer": "2026-11-07T11:42:26+00:00"
     },
     {
-     "titel": "Vorst zorgt voor rijp en een dun laagje ijs",
-     "context": "NIEUWLEUSEN – Door de vorst van afgelopen nacht en vanochtend is er rijp op de planten ontstaan. Ook heeft zich al een dun laagje ijs gevormd op de vijver in de tuin van Femmie Smink. Op de foto’s is te zien hoe de vorst haar tuin een winters tintje heeft gegeven. Tekst en foto’s: Femmie […]",
+     "titel": "Apple AirPods Oplaadcase gevonden",
+     "context": "DALFSEN – Apple AirPods Oplaadcase gevonden op de rotonde Kampmansweg gisteravond rond 19.30 uur. De eigenaar zal blij zijn dat de oplaad case gevonden is. Is deze van u mail dan naar de vinder.",
      "rubrieken": [
+      "Dalfsen",
       "Ingezonden bericht",
+      "Kwiet en weer terechte",
       "Laatste nieuws",
-      "Nieuwleusen"
+      "Regio"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/556106/vorst-zorgt-voor-rijp-en-een-dun-laagje-ijs.html",
+     "link": "https://www.dalfsennet.nl/nieuws/556108/apple-airpods-oplaadcase-gevonden.html",
      "bron": "DalfsenNet",
-     "tijd": "10:40",
-     "sorteer": "2026-11-07T09:40:32+00:00"
-    },
-    {
-     "titel": "Auto botst tegen boom in Nieuwleusen",
-     "context": "NIEUWLEUSEN – Vrijdagavond 6 november is een auto tegen een boom gebotst aan de Wethouder de Boerstraat in Nieuwleusen. De auto raakte daarbij zwaar beschadigd en is mogelijk total loss. Eén persoon is door de politie meegenomen voor nader verhoor of onderzoek. De beschadigde auto is later opgehaald.",
-     "rubrieken": [
-      "112-nieuws",
-      "Ingezonden bericht",
-      "Laatste nieuws",
-      "Nieuwleusen"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/556104/auto-botst-tegen-boom-in-nieuwleusen.html",
-     "bron": "DalfsenNet",
-     "tijd": "10:30",
-     "sorteer": "2026-11-07T09:30:32+00:00"
+     "tijd": "12:19",
+     "sorteer": "2026-11-07T11:19:08+00:00"
     }
    ]
   },
@@ -890,18 +896,25 @@
      "sorteer": "2026-11-07T10:38:40+00:00"
     },
     {
-     "titel": "Zelfs in de winkelstraat ben je niet meer veilig voor ‘AI-slop’: ‘ChatGPT gebruik ik niet, dat zie je meteen’",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeGltMmJNQzdoT0tPWWNIYllXNzEyVlZHcEpWN2ZGVk9XLVcxR3FhMXQ0Nl9Bd21TNnpnM3piNzRBZ1BvSG9ybmJ2VDFUajFwbmVadmVVZXV2SzZqWWtOMzFGOFVlRVZGYnI3TFgwNEpTSmxBTlNYaS1GWE5ZVDB2OEFDZlVEM3Q2Wk1ibERqSFYtS0tRc1pCenlrcHZ1ZEpjT0I1VnlLeGpCQmxFbDJlUGFZRjlFN2RraW1mN0lTZXd2dHU5OVlQblozdHlGai1MeXdUMXVNQUVLSnNwa0gxckhB?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "22:00",
-     "sorteer": "2026-11-06T21:00:00+00:00"
-    },
-    {
      "titel": "Barst de AI-bubbel? ‘De beurzen worden bepaald door AI’",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm1hMEtRX1BzWmozcHJfbWpNbHFVWWlFUmVtUmc2U2hXN3BiVHRhOHlsOTVGRVR5eDFHejFoMjBGaE55elg5VmVKQkJGNFh3b0swbFdhUVhadkk3c3R5UXdxRnpXN3V0VGk5UEdpMzFqSnRYTWY1RFQwWmR2Q2otdDRPYnpfOTNpdzRXZ1hkbUZibHdaQ2NsLXJDTDQ3Y0E?oc=5",
      "bron": "De Telegraaf",
      "tijd": "21:21",
      "sorteer": "2026-11-06T20:21:00+00:00"
+    },
+    {
+     "titel": "Raad wil af van digitale ‘slagboom’ voor ChatGPT: gemeente gaat in gesprek met leverancier",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLUplNzdfWVVWNG9NczNIRWZ1STdYS0wxdkJvYmtFNVE4ZHpSWFM4aHBqMUxCdmtrZmtjQjB2YkdNWm9BRi15S1RxYnc2XzBzZ1Zad01ZTFJpeEZfei1rcG9PSkJxTzA3eVVqaFhMMWcwOGg0ZnVRTlJTVE1NMTVKNFNuZ3lLS3BNLUpubTRoLXZ0cFBJbE1PYWozUWtuSGp5TGVKZlowRmFPVnNyRGlOTHJfOWp2NzU5YzRucVBGZENLdi16UDYtWUtPSC0tUQ?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "12:00",
+     "sorteer": "2026-11-07T11:00:13+00:00"
+    },
+    {
+     "titel": "Topman Jensen Huang van AI-chipfabrikant Nvidia zou zijn verleid door Chinese spion",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR2ZtWW1aczdlMmNOdVJMOHhzLWJudlhCQjJSMHZvMTUtVEdYQWxlRWtPVGsyRmVXWS1tcFNzd1BRLVc4TWxGUlhuQTUwaFk4ZjlQWVpkTTd0bEstMlRGTC0wSEFtVl93YXg0cnJEeDl0dE9PY3d0VHUzMUpwLXNiMmIyVHluRWMyZTBPSVd2cDRkV3dlY0ZIZ3Y4UG53U1M3QmZ4RWZhMk52U0J3bE9JSEZVOUFSU0M2R2FrbTQxY3FYN0E1QmxMQnZ3?oc=5",
+     "bron": "de Volkskrant",
+     "tijd": "10:13",
+     "sorteer": "2026-11-07T09:13:45+00:00"
     },
     {
      "titel": "Geschreven met AI, ondertekend door de minister",
@@ -1069,6 +1082,13 @@
      "sorteer": "2026-11-07T06:00:00+00:00"
     },
     {
+     "titel": "Kraaien kunnen supersnel een keuze maken: vergelijkbare reactietijd als mensen",
+     "toelichting": "Nieuw onderzoek wijst uit dat kraaien supersnel een beslissing kunnen maken. De vogels doen er maar liefst iets meer dan twee seconden over om te observeren en een keuze te maken. Vogels werden vroeger voornamelijk gezie",
+     "bron": "Scientias",
+     "tijd": "13:00",
+     "link": "https://scientias.nl/kraaien-kunnen-supersnel-een-keuze-maken-vergelijkbare-reactietijd-als-mensen/"
+    },
+    {
      "titel": "Hoe wurmt een octopus zich door een gat dat kleiner is dan zijn lijf?",
      "toelichting": "Octopussen zijn in staat om door een opening te kruipen die kleiner is dan hun eigen lichaam. Onderzoekers hebben nu gefilmd hoe ze dat doen en ontdekten een slimme techniek die de dieren daarbij gebruiken. Die kennis wi",
      "bron": "Scientias",
@@ -1076,27 +1096,20 @@
      "link": "https://scientias.nl/hoe-wurmt-een-octopus-zich-door-een-gat-dat-kleiner-is-dan-zijn-lijf/"
     },
     {
-     "titel": "Bijna uitgestorven, toch gered",
-     "toelichting": "Als er van een diersoort nog maar een paar exemplaren over zijn, lijkt uitsterven onvermijdelijk. Toch kan zo’n soort zich met de juiste hulp nog herstellen. Kleine populaties zijn kwetsbaar, dat staat buiten kijf. Diere",
-     "bron": "Scientias",
-     "tijd": "19:00",
-     "link": "https://scientias.nl/bijna-uitgestorven-maar-niet-verloren/"
+     "titel": "These divers are killing a beautiful coral to save Brazil’s marine life",
+     "toelichting": "RIO DE JANEIRO — Beneath the surface of Brazil’s coastal waters, a silent invasion is transforming marine ecosystems. Sun coral (Tubastraea coccinea and Tubastraea tagusensis), an invasive coral native to the Indo-Pacifi",
+     "bron": "Mongabay (Engels)",
+     "tijd": "12:19",
+     "link": "https://news.mongabay.com/video/2026/11/these-divers-are-killing-a-beautiful-coral-to-save-brazils-marine-life/",
+     "sorteer": "2026-11-07T11:19:00+00:00"
     },
     {
-     "titel": "Guatemala faces a human rights court over violent evictions of Indigenous communities",
-     "toelichting": "Years after Indigenous communities in Guatemala were forcibly evicted from their ancestral land, the Inter-American Commission on Human Rights (IACHR) is asking a court to hold the government responsible and provide repa",
+     "titel": "This riverside border town is fueling an illegal gold rush",
+     "toelichting": "Mongabay’s reporter Max Radwin went to Suriname’s Amazon to investigate the advance of illegal gold mining on Indigenous territories. Despite a government pledge to combat the activity, Indigenous Wayana communities are ",
      "bron": "Mongabay (Engels)",
-     "tijd": "20:42",
-     "link": "https://news.mongabay.com/short-article/2026/11/guatemala-faces-a-human-rights-court-over-violent-evictions-of-indigenous-communities/",
-     "sorteer": "2026-11-06T19:42:56+00:00"
-    },
-    {
-     "titel": "Peru’s drive for critical minerals threatens a disappearing glacier",
-     "toelichting": "Like many in the community of Phinaya, in southeastern Peru, Donato Bermúdez makes his living from alpacas. His flock of 500 roams the slopes beneath the vast Quelccaya glacier, the site of the second-largest tropical ic",
-     "bron": "Mongabay (Engels)",
-     "tijd": "19:21",
-     "link": "https://news.mongabay.com/2026/11/perus-drive-for-critical-minerals-threatens-a-disappearing-glacier/",
-     "sorteer": "2026-11-06T18:21:03+00:00"
+     "tijd": "12:08",
+     "link": "https://news.mongabay.com/short-article/2026/11/this-riverside-border-town-is-fueling-an-illegal-gold-rush/",
+     "sorteer": "2026-11-07T11:08:19+00:00"
     }
    ]
   },
@@ -1106,12 +1119,20 @@
    "emoji": "🐦",
    "items": [
     {
+     "titel": "Dwerggors",
+     "kop": "Zeldzaamheden",
+     "bron": "Noord-Holland",
+     "tijd": "12:38",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-07T12:38:00+01:00"
+    },
+    {
      "titel": "Rotszwaluw",
      "kop": "Zeldzaamheden",
      "bron": "Zeeland",
-     "tijd": "11:45",
+     "tijd": "12:16",
      "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-07T11:45:00+01:00"
+     "sorteer": "2026-11-07T12:16:00+01:00"
     },
     {
      "titel": "Bruine Boszanger",
@@ -1130,6 +1151,14 @@
      "sorteer": "2026-11-07T10:50:00+01:00"
     },
     {
+     "titel": "Pallas' Boszanger",
+     "kop": "Zeldzaamheden",
+     "bron": "Zuid-Holland",
+     "tijd": "10:35",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-07T10:35:00+01:00"
+    },
+    {
      "titel": "Siberische Braamsluiper",
      "kop": "Zeldzaamheden",
      "bron": "Zuid-Holland",
@@ -1144,22 +1173,6 @@
      "tijd": "07:17",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-11-07T07:17:00+01:00"
-    },
-    {
-     "titel": "Woestijntapuit",
-     "kop": "Zeldzaamheden",
-     "bron": "Zuid-Holland",
-     "tijd": "16:26",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-06T16:26:00+01:00"
-    },
-    {
-     "titel": "Dwergaalscholver",
-     "kop": "Zeldzaamheden",
-     "bron": "Overijssel",
-     "tijd": "13:43",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-06T13:43:00+01:00"
     },
     {
      "titel": "Dalfsen (nacht)",
@@ -1230,11 +1243,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 88 plekken in de afgelopen week, waarvan 1 vandaag",
+     "titel": "Invasiejaar — op 89 plekken in de afgelopen week, waarvan 2 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 148 vogels; 202 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 153 vogels; 207 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1276,16 +1289,16 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 4.3,
-    "gevoel": 2.1,
+    "nu": 5.5,
+    "gevoel": 3.4,
     "wind": "O 2",
     "station": "Heino",
-    "bericht": "Het weekend verloopt rustig, met regionale verschillen in de hoeveelheid zon en bewolking. In de ochtend komt plaatselijk eerst ook nevel of mist voor. De eerste officiële vorst van het najaar een feit.",
-    "vandaag": "Vanochtend is het plaatselijk nevelig en in het zuiden lokaal nog mistig. Vanmiddag is het in het noorden, zuiden en zuidwesten bewolkt, met in Zeeland plaatselijk soms lichte regen.",
-    "temperatuur": "De middagtemperatuur varieert van 5 graden in het noordoosten tot 10 graden in Zeeland en Zuid-Limburg.",
+    "bericht": "Het weekend verloopt rustig, met regionale verschillen in de hoeveelheid zon, bewolking en regen(buien). De eerste officiële vorst van het najaar een feit. In De Bilt zakte het kwik vanochtend tot -1,4 graden.Vanmiddag is het in het noorden en zuid(west)en bewolkt, met in Zeeland plaatselijk soms lichte regen.",
+    "vandaag": "In De Bilt zakte het kwik vanochtend tot -1,4 graden. Vanmiddag is het in het noorden en zuid(west)en bewolkt, met in Zeeland plaatselijk soms lichte regen.",
+    "temperatuur": "",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -0 tot 4 graden, droog, ruim 6 uur zon, wind uit het oosten, kracht 3.",
-     "max": 4,
+     "zin": "Voor Dalfsen zelf: -0 tot 6 graden, droog, ruim 7 uur zon, wind uit het oosten, kracht 3.",
+     "max": 6,
      "min": 0,
      "regenkans": 0,
      "omschrijving": "mistig"
