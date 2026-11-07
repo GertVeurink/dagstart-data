@@ -1,9 +1,9 @@
 {
  "datum": "2026-11-07",
- "naam": "Ochtendbriefing",
+ "naam": "Middagbriefing",
  "status": {
-  "ronde": "Ochtendbriefing",
-  "opgehaald": "11:00",
+  "ronde": "Middagbriefing",
+  "opgehaald": "12:00",
   "blokken": 10,
   "berichten": 104,
   "problemen": [
@@ -11,7 +11,7 @@
   ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-07T11:00+01:00",
+ "opgehaald": "2026-11-07T12:00+01:00",
  "audio": "audio/20261107.mp3",
  "afval": [
   {
@@ -215,6 +215,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Ook Democratische sheriffs, aanklagers en regiobestuurders gekozen, wat doen ze?",
+     "context": "\"Blue, blue, blue, blue \", kleurde de landkaart van de VS met de uitslagen van de tussentijdse verkiezingen. De Democraten wisten niet alleen in het Congres zetels van de Republikeinen over te nemen, ook op lokaal niveau versloegen ze hun tegenstanders. Bij de tussentijdse verkiezingen wordt ook altijd gestemd voor bestuursfuncties in de Amerikaanse staten. Zo worden er gouverneurs, sheriffs, hoof",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638414",
+     "bron": "NOS",
+     "tijd": "11:30",
+     "sorteer": "2026-11-07T11:30:02+01:00"
+    },
+    {
      "titel": "Politie Mexico schiet meisje (7) dood bij protest tegen arrestatie drugscrimineel",
      "context": "Bij een actie tegen drugscriminaliteit in Mexico heeft de politie een meisje van 7 doodgeschoten. Dat gebeurde in de stad Matamoros, die aan de Amerikaanse grens met Texas ligt. Het doodgeschoten meisje heeft de Amerikaanse nationaliteit. In delen van de stad was het al dagen onrustig. Vorige week hield de politie een plaatselijke drugscrimineel aan en uit protest daartegen hielden gewapende manne",
      "rubrieken": [],
@@ -251,20 +260,10 @@
      "sorteer": "2026-11-07T01:12:02+01:00"
     },
     {
-     "titel": "Kiest Mississippi een Democraat als senator of net niet? Race blijft spannend",
-     "context": "De laatste Democratische senator uit Mississippi werd gekozen in 1947: John C. Stennis, als ' Dixiecrat ' fel voorstander van de rassenscheiding. Nu heeft een zwarte partijgenoot een significante kans om te winnen in de conservatieve staat. Openbaar aanklager Scott Colom staat momenteel 2010 stemmen voor op zittend Republikeins senator Cindy Hyde-Smith; het is 49,1 tegen 48,8 procent. Een lichtbla",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638369",
-     "bron": "NOS",
-     "tijd": "22:45",
-     "sorteer": "2026-11-06T22:45:33+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "‘Blauwe golf’ gaat niet per se samen met ruk naar links: miljardairstaks Californië weggestemd",
+     "titel": "‘Blauwe golf’ gaat niet per se samen met ruk naar links: miljardairstaks Californië lijkt weggestemd",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/blauwe-golf-gaat-niet-per-se-samen-met-ruk-naar-links-miljardairstaks-californie-weggestemd~b9883cb5/",
+     "link": "https://www.volkskrant.nl/buitenland/blauwe-golf-gaat-niet-per-se-samen-met-ruk-naar-links-miljardairstaks-californie-lijkt-weggestemd~b9883cb5/",
      "bron": "de Volkskrant",
      "tijd": "10:27",
      "sorteer": "2026-11-07T09:27:00+00:00"
@@ -279,31 +278,121 @@
      "sorteer": "2026-11-07T09:13:00+00:00"
     },
     {
-     "titel": "Trump meldt aanval op Iraanse luchtafweer",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/live-oorlog-midden-oosten-trump-meldt-aanval-op-iraanse-luchtafweer~b4cda6da/",
-     "bron": "Trouw",
-     "tijd": "00:44",
-     "sorteer": "2026-11-06T23:44:00+00:00"
+     "titel": "Commentaar",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrUlVNOEgzblByeXRNcU9iUHhzb2FJNjRtR2E2eVZNT1RGMGVHQTctZFdfYV9aWTF6Ml9xcEo1MVNEQXBrRkE0MXNZSnZkTzg?oc=5",
+     "bron": "NRC",
+     "tijd": "11:38",
+     "sorteer": "2026-11-07T10:38:44+00:00"
     },
     {
-     "titel": "With So Much New Blood in the Senate, the Average Age Is Falling. To 63.",
-     "context": "Incoming senators are nearly 15 years younger than departing ones, on average. But the chamber’s overall age isn’t shifting much.",
+     "titel": "The Good, the Bad and the Cringe: 10 Ads That Defined the Midterms",
+     "context": "In a Democratic landslide election, here are the ads that stood out. Some were effective, while others backfired.",
+     "rubrieken": [
+      "Mississippi",
+      "Elections, Senate"
+     ],
+     "link": "https://www.nytimes.com/2026/11/07/us/politics/midterm-ads-republicans-democrats.html",
+     "bron": "New York Times",
+     "tijd": "11:03",
+     "sorteer": "2026-11-07T10:03:35+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "He’ll Be Clerk of One of the Country’s Largest Counties. He’s 19.",
+     "context": "Sebastian Matta, a sophomore at Arizona State University, was elected on Tuesday as Superior Court clerk in Maricopa County, Ariz.",
      "rubrieken": [
       "Midterm Elections (2026)",
-      "Age, Chronological",
+      "United States Politics and Government",
+      "Politics and Government",
+      "Arizona State University",
+      "Maricopa County (Ariz)",
+      "Sebastian Matta"
+     ],
+     "link": "https://www.nytimes.com/2026/11/07/us/politics/asu-student-maricopa-county-clerk-election.html",
+     "bron": "New York Times",
+     "tijd": "11:02",
+     "sorteer": "2026-11-07T10:02:25+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Mysterious Request Scrambles Major Supreme Court Gun Case Against Cook County",
+     "context": "In an unusual move, the lead plaintiff in one of two cases challenging semiautomatic weapons bans has asked to drop out weeks before the cases are heard.",
+     "rubrieken": [
+      "Gun Control",
+      "Suits and Litigation (Civil)",
+      "Second Amendment (US Constitution)",
+      "United States Politics and Government",
+      "States (US)",
+      "Second Amendment Foundation",
+      "Supreme Court (US)"
+     ],
+     "link": "https://www.nytimes.com/2026/11/07/us/politics/supreme-court-guns-plaintiff.html",
+     "bron": "New York Times",
+     "tijd": "11:02",
+     "sorteer": "2026-11-07T10:02:14+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Democrats, Newly Ascendant, Begin a Fight to Shape the Party’s Future",
+     "context": "At a moment of opportunity for the party, its long-feuding factions are seizing on the midterm results to make their case for tacking to the center or to the left.",
+     "rubrieken": [
       "Democratic Party",
-      "Republican Party",
-      "Elections, Senate",
-      "Senate",
-      "Voting and Voters",
+      "Liberalism (US Politics)",
+      "Progressivism (Theory and Philosophy)",
+      "Midterm Elections (2026)",
+      "Presidential Election of 2028",
+      "Emanuel, Rahm",
+      "Khanna, Ro",
       "United States Politics and Government"
      ],
-     "link": "https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html",
+     "link": "https://www.nytimes.com/2026/11/07/us/politics/democrats-midterms-2028-presidential-race.html",
      "bron": "New York Times",
-     "tijd": "10:58",
-     "sorteer": "2026-11-07T09:58:33+00:00",
+     "tijd": "11:02",
+     "sorteer": "2026-11-07T10:02:07+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff",
+     "context": "Democrats and Republicans blast promotion of ‘xenophobe’ who led administration’s immigration crackdown in wake of US midterm elections Democratic lawmakers decried Stephen Miller as a “ hatemonger ”, a “ xenophobe ” and “ vile ” after Donald Trump appointed his most trusted adviser as White House chief of staff. On Friday afternoon, the US president abruptly announced via his Truth Social platfor",
+     "rubrieken": [
+      "Trump administration",
+      "US news",
+      "US politics"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react",
+     "bron": "The Guardian",
+     "tijd": "11:00",
+     "sorteer": "2026-11-07T10:00:08+00:00",
+     "kop": "Midterms",
+     "taal": "en",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "‘Minimal look, maximal politics’: why the black T-shirt signals modern power",
+     "context": "The look – worn by Abdul El-Sayed, Andy Burnham and Volodymyr Zelenskyy – radiates authority and no-nonsense masculinity, say fashion experts For years the black T-shirt was consigned to the clothing category of plain basics. A hidden layer rather than the main event. But modern politics has pushed it to the frontlines as a sartorial shortcut to signal power. The progressive Democrat Abdul El-Saye",
+     "rubrieken": [
+      "Fashion",
+      "Men's fashion",
+      "Life and style",
+      "Abdul El-Sayed",
+      "Andy Burnham",
+      "Politics",
+      "US politics",
+      "US news",
+      "World news",
+      "UK news",
+      "Volodymyr Zelenskyy",
+      "Naftali Bennett",
+      "Men's tops"
+     ],
+     "link": "https://www.theguardian.com/fashion/2026/nov/06/minimal-look-maximal-politics-how-the-black-t-shirt-became-a-political-weapon",
+     "bron": "The Guardian",
+     "tijd": "10:51",
+     "sorteer": "2026-11-07T09:51:10+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -362,52 +451,6 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "U.S. Homeless Population Had Record Drop in 2025",
-     "context": "The Department of Housing and Urban Development credited President Trump, while homeless advocacy groups said that so-called Housing First policies of his predecessors played a part.",
-     "rubrieken": [
-      "Homeless Persons",
-      "United States Politics and Government",
-      "Urban Areas",
-      "Housing and Urban Development Department",
-      "Cicero Institute",
-      "National Alliance to End Homelessness",
-      "Poverty",
-      "Trump, Donald J"
-     ],
-     "link": "https://www.nytimes.com/2026/11/06/us/politics/homeless-population-drop.html",
-     "bron": "New York Times",
-     "tijd": "04:09",
-     "sorteer": "2026-11-07T03:09:53+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Trump’s D.C. Construction Blitz May Be About to Get Tougher",
-     "context": "The president has bulldozed through obstacles as he has sought to remake the face of Washington. But newly empowered Democrats and angry judges are setting up a high-stakes showdown.",
-     "rubrieken": [
-      "United States Politics and Government",
-      "Courts and the Judiciary",
-      "Building (Construction)",
-      "Midterm Elections (2026)",
-      "Suits and Litigation (Civil)",
-      "White House East Wing and Ballroom (Washington, DC)",
-      "White House Building (Washington, DC)",
-      "Commission of Fine Arts",
-      "Kennedy, John F, Center for the Performing Arts",
-      "National Capital Planning Commission",
-      "Democratic Party",
-      "House of Representatives",
-      "Senate",
-      "Trump, Donald J"
-     ],
-     "link": "https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html",
-     "bron": "New York Times",
-     "tijd": "04:08",
-     "sorteer": "2026-11-07T03:08:58+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
      "titel": "Democrats blast Trump’s decision to make Stephen Miller his chief of staff as president defends picking loyal ‘MVP’ - as it happened",
      "context": "This live blog is now closed. Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff Sign up for Breaking News US email Donald Trump will begin the day in Washington today. He has closed door meetings for much of the day, and will take part in a Diwali celebration at the White House at 1:30pm ET. While that’s currently not open to the press we’ll let you k",
      "rubrieken": [
@@ -431,94 +474,6 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "What to Know About Stephen Miller, Trump’s New Chief of Staff",
-     "context": "The architect of President Trump’s mass deportation campaign, Mr. Miller has been the public face of many of Mr. Trump’s immigration policies.",
-     "rubrieken": [
-      "Miller, Stephen (1985- )",
-      "Midterm Elections (2026)",
-      "Trump, Donald J",
-      "United States Politics and Government",
-      "Deportation",
-      "Illegal Immigration",
-      "Appointments and Executive Changes",
-      "Presidential Election of 2024",
-      "Demonstrations, Protests and Riots"
-     ],
-     "link": "https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html",
-     "bron": "New York Times",
-     "tijd": "03:56",
-     "sorteer": "2026-11-07T02:56:14+00:00",
-     "kop": "Midterms",
-     "taal": "en",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
-     "context": "US president confirms Susie Wiles, current chief of staff and first woman to serve in the role, will step down US politics live – latest updates Stephen Miller, Donald Trump ’s most controversial aide and the architect of his sweeping immigration crackdown, will become his new White House chief of staff days after Republicans lost control of the US Congress in US midterm elections. The president a",
-     "rubrieken": [
-      "Donald Trump",
-      "Trump administration",
-      "US politics",
-      "US news",
-      "Washington DC"
-     ],
-     "link": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
-     "bron": "The Guardian",
-     "tijd": "02:38",
-     "sorteer": "2026-11-07T01:38:06+00:00",
-     "kop": "Midterms",
-     "taal": "en",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Stephen Miller’s appointment shows Trump hasn’t learned his lesson on immigration",
-     "context": "US voters repudiated mass deportation campaign, but choice of new chief of staff is an ominous signal that Trump is driving ahead at full speed On Tuesday, US midterm voters resoundingly rebuked Donald Trump and his brutal mass deportation campaign that sent military tanks and masked agents though residential streets. But on Friday, the president doubled down. He named Stephen Miller – the archite",
-     "rubrieken": [
-      "Trump administration",
-      "US midterm elections 2026",
-      "Donald Trump",
-      "US immigration",
-      "ICE (US Immigration and Customs Enforcement)",
-      "US news",
-      "US politics"
-     ],
-     "link": "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration",
-     "bron": "The Guardian",
-     "tijd": "02:04",
-     "sorteer": "2026-11-07T01:04:52+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
-     "context": "In his twilight years, the British monarch is embracing his role as a global statesman, even when that involves heavy rain and difficult questions about his nation’s history.",
-     "rubrieken": [
-      "Royal Families",
-      "Parades",
-      "Slavery (Historical)",
-      "Apologies",
-      "Colonization",
-      "Buckingham Palace",
-      "Ali, Irfaan",
-      "Burnham, Andrew M (1970- )",
-      "Camilla, Queen Consort of the United Kingdom",
-      "Charles III, King of the United Kingdom",
-      "Elba, Idris",
-      "Elizabeth II, Queen of Great Britain",
-      "Antigua and Barbuda",
-      "Bahama Islands",
-      "Caribbean Area",
-      "Great Britain",
-      "Guyana"
-     ],
-     "link": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
-     "bron": "New York Times",
-     "tijd": "10:57",
-     "sorteer": "2026-11-07T09:57:14+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
      "titel": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
      "context": "Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent history New Zealand heads for election cliffhanger with minor party cast as kingmaker In New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms? Another update here with 8% of the vote counted . National on 31.2%, Labour 28.4%, the Greens 12.9%, Act 11.2%, NZ Fir",
      "rubrieken": [
@@ -530,8 +485,28 @@
      ],
      "link": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
      "bron": "The Guardian",
-     "tijd": "10:45",
-     "sorteer": "2026-11-07T09:45:09+00:00",
+     "tijd": "11:48",
+     "sorteer": "2026-11-07T10:48:27+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
+     "context": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.",
+     "rubrieken": [
+      "Threats and Threatening Messages",
+      "Cyberwarfare and Defense",
+      "Bombs and Explosives",
+      "Airlines and Airplanes",
+      "Supermarkets and Grocery Stores",
+      "Refrigerators",
+      "European Union",
+      "Europe"
+     ],
+     "link": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
+     "bron": "New York Times",
+     "tijd": "11:32",
+     "sorteer": "2026-11-07T10:32:52+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -659,32 +634,32 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Jongeman levert pakket met cocaïne af in Apeldoorn: ‘We willen heel graag onderzoeken wat zijn rol precies is’",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRUhBMC0yRnBvYmprbVFtZkhkNG0wcWF3Q3hOWjN2c3daYnFROHFvSXVzRVc5ejZteklHMEtDUTlFc2E5WXZUdS1EaVp5NDNYMVM4eTRRV3FuakFjd1FoaWZXeXdjd2pvV2Y5U2VoQzZHZTVlR3JROF9Wa3lmZkY4OHpRVjNRT2VtdjdlcjNFWTZvdTZiNnJlUDBrOGNsZDJzSi1TMVNLLWFwcGhDZzdXWE01d3NubWE2OWhNMEdDWGhnbklLTTBwWElZdU5VMHcta1ZnV1pzclNtSDdhbUtTbHdPLUVTdXc?oc=5",
-     "bron": "de Stentor",
-     "tijd": "10:02",
-     "sorteer": "2026-11-07T09:02:48+00:00"
-    },
-    {
      "titel": "Werkwijze mensensmokkelaars onthuld: asielzoekers naar Ter Apel met geblindeerde busjes, nep-huwelijken en peperdure vip-reizen",
      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZHh2TlRfQW9MNUJxbWNMUVVWQkdRT0ZVb1ItMHFDNXhMdWMtWFVRQjN0N016V08yejBUeDFNMlZiaTg0OEdhWGFSSEkxOGJTWHpjT0I3NWVYR3RNRkFtOVdOT2EzYndKQ3p3VGcwREtyOWhLeHNxc3VKQzJmTDBZbHlBRE9OMWdUMVpEcEI3REwwRTQyalBlQkNud0hEazBSUVZDX2Rka3ZsREpzNUZCZU9HMzNiZVAtTF8wZnZCVlItalNxTUlnMW4xVnBNcW95LUliVms3Y05fU2c0NXRPRTZKSnd1dTU0WGtjTTRXWG45eGtuc3daSElKaC1zcS1TdklrY2tPcw?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "10:02",
-     "sorteer": "2026-11-07T09:02:01+00:00"
+     "tijd": "11:54",
+     "sorteer": "2026-11-07T10:54:23+00:00"
     },
     {
-     "titel": "Verdachten gedragen zich als laffe honden in een schouwspel van vingerwijzen",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTlRYYWpPYmZFeWFSQUQzbGhMazJJSWx0dVl3VUlaUENVRnVPY05TcDczdHhhZ19fbFRNQlZXalZwSkE5a1pmTUM2UUNhTkJNOGhUeGNTVXMwWWllaThXSDMxWEd4UTlOWlBFQ0R3U3hrU3RfQW1NeWhveVdTQUxoX1ppd3RfQVF5amhJQ0dsVlJvcVFzNWx4QVhTeUJnbktpWm5iOUpocFV0cGREcmJRcDZ6SQ?oc=5",
+     "titel": "Twee mannen lopen lachend de winkel uit nadat ze voor honderden euro’s aan gereedschap hebben gestolen in Zutphen",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeWFoTHRBUzBhbFUtZlNRUjVRRlVGMURIczlEd2MtWUVzcWV5cE5BZUJNMm9KUmJWNzcyV2RqWk9NbkhYYUhNMkdKY0RBUnlhTzF5bHI0dW9ybW1BanAwY2NWaVR2eUl5WENYRjZoZXd4bjVIeWt2QXlaQkhndXoxQVZPQlV1UDhORVFKY25SZlVyVS1hYnR2YnNxN3M3aU1lTjliZVMzdi04dlVxcmlXQ19HSzRFSWxoWExiWjM1VXl2SklBbllFTVA3TFE5RG92eDlNMlJoU2dVRmJ0NFhRamln?oc=5",
      "bron": "AD.nl",
-     "tijd": "09:03",
-     "sorteer": "2026-11-07T08:03:49+00:00"
+     "tijd": "11:13",
+     "sorteer": "2026-11-07T10:13:00+00:00"
     },
     {
-     "titel": "We maakten goede én minder goede keuzes in de berichtgeving over de Gazaanse student",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ3duZGpzQUd3cjBGMlFRUElCSW43MVdGemg2OVJPdkRLSmU4ejBMRzVHaDV1TFJEbjRNWHJaRWdJaEd5dG50VkxCTjBpSGxpeEQzY0x5cW5wOXgzN20wWmJRWWR3bHEzdU5naHlSZXhCZC14MzJ4cmNwMFpETnZjTUxhTlNxcFl2VnRpQkY0a1RzREI3UXZhSHpTZmR6TThnZVlmZ0locHJQSlpxazNFb0o5MU5fUXY1UXRIU2txWUdFamVrWXp3SkF1dDhrQmNk?oc=5",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-11-07T04:00:43+00:00"
+     "titel": "Politie deelt beelden van jongeman die pakket met cocaïne aflevert in Apeldoorn: ‘Willen heel graag weten of iemand hem herkent’",
+     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcWlHeG9pQTR2UXQ5N2d3ZkVsQTFRajAtS2o2TUszZ2RrZTBBeDhJN3BQb2M2a1pvVnp2dUdlOUVibndleXU4WHBQbDVGMjJxNWo3ajI4YzZ2SXphUmNKY2d5WF9hWmRtcU96Q1RGcEhvZC1Tc0k5dzVSY3ZQU3FXT200YW5sNHJOWERrRG56MHoteF9SdHdIRXVzZW9DZ2pTUURCRGp6eU5obFlwRU1Ka1dzYmpWRVpFRWxNakdiMi1jS3RnMkxEaDJXeDdvLUp2S2RmUHBvLTJ6dEU2QzYwdHhYTFk4aXBxRzZFRFZzb29TODE3Z1pVcldBLVJKNVE?oc=5",
+     "bron": "de Stentor",
+     "tijd": "10:02",
+     "sorteer": "2026-11-07T09:02:00+00:00"
+    },
+    {
+     "titel": "Enschedese (65) dreigt strafblad te krijgen om schilmes",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQks3V0U0WUZMX3htc0pfbV9RMEhFQlFkcU1DTS1XTC1xVFNUVEhyQ1dMNkR5OTFnck0xbzFJeDNRckR6eXNOU3BlWm9oeF8tQ1pGMV9raS1mc3Y0Qm9Yb0RwMDQ3RWhlWHp3ekxZVG1MN1F0OVFvRV90Z0QxVDBETk5mSGRDbFhGcnE1WElocTZpVjFFa05KS1dBQ0s?oc=5",
+     "bron": "Tubantia",
+     "tijd": "09:13",
+     "sorteer": "2026-11-07T08:13:03+00:00"
     },
     {
      "titel": "Casinopolitiek, coalitiediscipline en de grote gok met het Belastingplan",
@@ -692,22 +667,6 @@
      "bron": "NRC",
      "tijd": "05:30",
      "sorteer": "2026-11-07T04:30:00+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Coalitie rijdt razendsnel af op ravijn van vermogensbelasting: wie knippert als eerste?",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORU5ldjkxR05JSkEzOFIxNWIxQmkxajFXeUZRRXduV0ZiMlB3R1Z5bDJfcnM4YXZMUHJkNGZydFB5Q3pESU56aWNJVTZKMUpxblZKcUJJUTlSTDU2RjJ6V2J1UWhJaTNBdGxTdGxEU25laXdHZkZwTFRUeVNVTTBoXzRoWmZTYU9NOVgwQ3dUSUFHUUZ4YTBpRUF1eFpFWmVET0NkTmhEWVppczRkTzNGYlJjczdDTVJ1d3o2Uy1FRnU2bks0TVlQY0RR?oc=5",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-11-07T04:00:38+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Minister Eelco Heinen (Financiën) benadrukt graag hoe zuinig hij is – maar zijn begroting zit vol gaten",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ3luOFNCTzlpWnVKSUpVMHJJVDZBNXVXZVB3ZGd3elpUS2hXY05vODUxMDAtVkZTTmtZOTBqa2JFaUZxcm5RT3Y4QW16Vm1UNDdlMkZ3SXFhN3FXcjczVGZtYjRISEk2ZG42Tm1wMkVKT1RxVUtlZ3Y2dkdZMEM2YVJFWGUzY1VRVWpNZG5aYU5wQklxT3lsQm0wX2lNVUZDeFhORTAzZldpQ2lOdnkyWWM2NEdVVXpsTHVCbzFVakx3SzJUYkpUMGx6bzFFRkdOeTN4aENYMUQ?oc=5",
-     "bron": "Het Parool",
-     "tijd": "03:00",
-     "sorteer": "2026-11-07T02:00:24+00:00",
      "kop": "Begroting"
     },
     {
@@ -884,6 +843,14 @@
    "emoji": "🤖",
    "items": [
     {
+     "titel": "Hoe de paniek rond AI-teksten ons slechtere schrijvers maakt",
+     "toelichting": "Of je nu met AI schrijft of niet",
+     "bron": "AI Report",
+     "tijd": "11:00",
+     "link": "https://www.aireport.nl/p/hoe-de-paniek-rond-ai-teksten-ons-slechtere-schrijvers-maakt",
+     "sorteer": "2026-11-07T10:00:00+00:00"
+    },
+    {
      "titel": "Reactie op het AI Deltaplan en het rapport Europe2031",
      "bron": "Brief van de regering",
      "kop": "Uit de Tweede Kamer",
@@ -916,19 +883,25 @@
      "sorteer": "2026-11-05T10:00:03.39+01:00"
     },
     {
+     "titel": "Reuters: Democraten VS willen AI met 'vloedgolf' aan wetten aan banden leggen",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOalNVcV9BVHZ1R3hhMjFpQ3lWdENwSEdXanpQUWQ5REFPT2RPQTg0ZEd3VVZBbGRQNFlTZ1B4SHlDOXdwNmVKekNYNmxZZU1KRUtHOXc0VXc5UW1aVXVsRlhPeklFSFFmSl9WYnBmalBJUXlWS1RIbFA2a21ZTlJFQmhHSzZXVHNtSTdQMGs4a1RUbE9MRVdXMzVVd2lYYnV4N1YySGJ3eS1QS29WMmhIQkZkamw?oc=5",
+     "bron": "Tweakers",
+     "tijd": "11:38",
+     "sorteer": "2026-11-07T10:38:40+00:00"
+    },
+    {
+     "titel": "Zelfs in de winkelstraat ben je niet meer veilig voor ‘AI-slop’: ‘ChatGPT gebruik ik niet, dat zie je meteen’",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeGltMmJNQzdoT0tPWWNIYllXNzEyVlZHcEpWN2ZGVk9XLVcxR3FhMXQ0Nl9Bd21TNnpnM3piNzRBZ1BvSG9ybmJ2VDFUajFwbmVadmVVZXV2SzZqWWtOMzFGOFVlRVZGYnI3TFgwNEpTSmxBTlNYaS1GWE5ZVDB2OEFDZlVEM3Q2Wk1ibERqSFYtS0tRc1pCenlrcHZ1ZEpjT0I1VnlLeGpCQmxFbDJlUGFZRjlFN2RraW1mN0lTZXd2dHU5OVlQblozdHlGai1MeXdUMXVNQUVLSnNwa0gxckhB?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "22:00",
+     "sorteer": "2026-11-06T21:00:00+00:00"
+    },
+    {
      "titel": "Barst de AI-bubbel? ‘De beurzen worden bepaald door AI’",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm1hMEtRX1BzWmozcHJfbWpNbHFVWWlFUmVtUmc2U2hXN3BiVHRhOHlsOTVGRVR5eDFHejFoMjBGaE55elg5VmVKQkJGNFh3b0swbFdhUVhadkk3c3R5UXdxRnpXN3V0VGk5UEdpMzFqSnRYTWY1RFQwWmR2Q2otdDRPYnpfOTNpdzRXZ1hkbUZibHdaQ2NsLXJDTDQ3Y0E?oc=5",
      "bron": "De Telegraaf",
      "tijd": "21:21",
      "sorteer": "2026-11-06T20:21:00+00:00"
-    },
-    {
-     "titel": "NCTV: cyberdreiging neemt snel toe door AI, actie nodig",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OOGEtcTMxVHU2WDVEMjktYVNzcDh2bnVnbjlJcU9PM0l0eUZPWG56eHlhM0NxV3E5bzZfS045VERjSnhLSXhFRHNxM3h4LXBOWDhLTF9OSTNYU1lzbTZBNVhTWWFlVUhKVDhGaUlfcGx5OGJUSEJUMTc5QVpmZw?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "18:50",
-     "sorteer": "2026-11-06T17:50:41+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Geschreven met AI, ondertekend door de minister",
@@ -1096,18 +1069,18 @@
      "sorteer": "2026-11-07T06:00:00+00:00"
     },
     {
+     "titel": "Hoe wurmt een octopus zich door een gat dat kleiner is dan zijn lijf?",
+     "toelichting": "Octopussen zijn in staat om door een opening te kruipen die kleiner is dan hun eigen lichaam. Onderzoekers hebben nu gefilmd hoe ze dat doen en ontdekten een slimme techniek die de dieren daarbij gebruiken. Die kennis wi",
+     "bron": "Scientias",
+     "tijd": "11:01",
+     "link": "https://scientias.nl/hoe-wurmt-een-octopus-zich-door-een-gat-dat-kleiner-is-dan-zijn-lijf/"
+    },
+    {
      "titel": "Bijna uitgestorven, toch gered",
      "toelichting": "Als er van een diersoort nog maar een paar exemplaren over zijn, lijkt uitsterven onvermijdelijk. Toch kan zo’n soort zich met de juiste hulp nog herstellen. Kleine populaties zijn kwetsbaar, dat staat buiten kijf. Diere",
      "bron": "Scientias",
      "tijd": "19:00",
      "link": "https://scientias.nl/bijna-uitgestorven-maar-niet-verloren/"
-    },
-    {
-     "titel": "Waarom jouw hond weleens een onverwachte natuurheld kan worden",
-     "toelichting": "Uit een nieuw onderzoek blijkt dat huishonden getraind kunnen worden om invasieve planten op te sporen. Schrijf je in voor de nieuwsbrief! Ook elke dag vers het laatste wetenschapsnieuws in je inbox? Of elke week? Schrij",
-     "bron": "Scientias",
-     "tijd": "15:00",
-     "link": "https://scientias.nl/waarom-jouw-hond-weleens-een-onverwachte-natuurheld-kan-worden/"
     },
     {
      "titel": "Guatemala faces a human rights court over violent evictions of Indigenous communities",
@@ -1133,12 +1106,28 @@
    "emoji": "🐦",
    "items": [
     {
+     "titel": "Rotszwaluw",
+     "kop": "Zeldzaamheden",
+     "bron": "Zeeland",
+     "tijd": "11:45",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-07T11:45:00+01:00"
+    },
+    {
      "titel": "Bruine Boszanger",
      "kop": "Zeldzaamheden",
-     "bron": "Gelderland",
-     "tijd": "10:20",
+     "bron": "Flevoland",
+     "tijd": "10:51",
      "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-07T10:20:00+01:00"
+     "sorteer": "2026-11-07T10:51:00+01:00"
+    },
+    {
+     "titel": "Witbandkruisbek",
+     "kop": "Zeldzaamheden",
+     "bron": "Utrecht",
+     "tijd": "10:50",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-07T10:50:00+01:00"
     },
     {
      "titel": "Siberische Braamsluiper",
@@ -1155,22 +1144,6 @@
      "tijd": "07:17",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-11-07T07:17:00+01:00"
-    },
-    {
-     "titel": "Witbandkruisbek",
-     "kop": "Zeldzaamheden",
-     "bron": "Friesland",
-     "tijd": "20:09",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-06T20:09:00+01:00"
-    },
-    {
-     "titel": "Rotszwaluw",
-     "kop": "Zeldzaamheden",
-     "bron": "Groningen",
-     "tijd": "16:55",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-06T16:55:00+01:00"
     },
     {
      "titel": "Woestijntapuit",
@@ -1191,59 +1164,57 @@
     {
      "titel": "Dalfsen (nacht)",
      "kop": "Vogeltrek",
-     "bron": "06-11",
-     "wanneer": "de nacht van donderdag op vrijdag",
-     "tijd": "18:00–07:00",
-     "link": "https://trektellen.org/count/view/2364/20261106",
+     "bron": "07-11",
+     "wanneer": "vannacht",
+     "tijd": "17:30–07:05",
+     "link": "https://trektellen.org/count/view/2364/20261107",
      "soorten": [
-      "Koperwiek 70",
-      "Merel 24",
-      "Zanglijster 7",
-      "Brilduiker 2"
+      "Koperwiek 20",
+      "Merel 8",
+      "Zanglijster 2",
+      "Toendrarietgans 1"
      ],
-     "aantal_soorten": 8,
-     "opmerkingen": [
-      "Kleine Rietgans Pink-footed Goose , Roerdomp Bittern"
-     ],
+     "aantal_soorten": 6,
+     "opmerkingen": [],
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 77 soorten, 4.279 vogels geteld",
+     "titel": "Landelijk vandaag: 133 soorten, 22.437 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261107?language=dutch"
     },
     {
-     "titel": "Spreeuw — 2.353",
+     "titel": "Spreeuw — 11.303",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261107?language=dutch"
     },
     {
-     "titel": "Kokmeeuw — 311",
+     "titel": "Vink — 2.499",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261107?language=dutch"
     },
     {
-     "titel": "Vink — 228",
+     "titel": "Kolgans — 1.559",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261107?language=dutch"
     },
     {
-     "titel": "Kauw — 205",
+     "titel": "Kokmeeuw — 817",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261107?language=dutch"
     },
     {
-     "titel": "Kolgans — 160",
+     "titel": "Toendrarietgans — 614",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -1263,7 +1234,7 @@
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 148 vogels; 199 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 148 vogels; 202 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1305,16 +1276,16 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 2.8,
-    "gevoel": 0.1,
+    "nu": 4.3,
+    "gevoel": 2.1,
     "wind": "O 2",
     "station": "Heino",
     "bericht": "Het weekend verloopt rustig, met regionale verschillen in de hoeveelheid zon en bewolking. In de ochtend komt plaatselijk eerst ook nevel of mist voor. De eerste officiële vorst van het najaar een feit.",
     "vandaag": "Vanochtend is het plaatselijk nevelig en in het zuiden lokaal nog mistig. Vanmiddag is het in het noorden, zuiden en zuidwesten bewolkt, met in Zeeland plaatselijk soms lichte regen.",
     "temperatuur": "De middagtemperatuur varieert van 5 graden in het noordoosten tot 10 graden in Zeeland en Zuid-Limburg.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -0 tot 6 graden, droog, ruim 6 uur zon, wind uit het oosten, kracht 3.",
-     "max": 6,
+     "zin": "Voor Dalfsen zelf: -0 tot 4 graden, droog, ruim 6 uur zon, wind uit het oosten, kracht 3.",
+     "max": 4,
      "min": 0,
      "regenkans": 0,
      "omschrijving": "mistig"
