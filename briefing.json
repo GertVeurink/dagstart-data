@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "20:00",
+  "opgehaald": "21:00",
   "blokken": 11,
   "berichten": 100,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-07T20:00+01:00",
+ "opgehaald": "2026-11-07T21:00+01:00",
  "audio": "audio/20261107.mp3",
  "afval": [
   {
@@ -194,6 +194,24 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "In Liechtenstein is de publieke omroep ingeruild voor goedkopere AI-radio",
+     "context": "Het is bijna als bij zoveel andere radiostations in Europa en in de rest van de wereld: elk uur of halfuur klinkt een deuntje en leest een presentator het radionieuws voor. Zo ook in het kleine Alpenland Liechtenstein. \"Elf uur, met nu: het nieuws\", klinkt het op Radio Vaterland. Maar de eerste zin van het radiobulletin verraadt het al: \"Dit is met kunstmatige intelligentie de stem van Nicky Stett",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638489",
+     "bron": "NOS",
+     "tijd": "20:50",
+     "sorteer": "2026-11-07T20:50:29+01:00"
+    },
+    {
+     "titel": "Hevige regen treft tentenkampen in Gaza, hulpvraag neemt toe",
+     "context": "Door hevige regenval zijn tienduizenden tenten voor ontheemden in Gaza onder water komen te staan. De verwachting is dat de situatie verder zal verslechteren, omdat het regenseizoen net is begonnen. Jonathan Veitch, de Unicef-vertegenwoordiger voor Palestina, zegt tegen de BBC dat de \"wanhopige\" situatie wordt verergerd door Israëlische beperkingen op de invoer van bijvoorbeeld zware machines. Het",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638483",
+     "bron": "NOS",
+     "tijd": "20:07",
+     "sorteer": "2026-11-07T20:07:34+01:00"
+    },
+    {
      "titel": "Noodtoestand op Canarisch eiland El Hierro: 3000 migranten in een week",
      "context": "Het Spaanse eiland El Hierro heeft de noodtoestand uitgeroepen. Het eilandbestuur zegt de toestroom aan migranten niet aan te kunnen en vraagt de landelijke regering en de regioregering om hulp. Met 3000 nieuwe migranten in een week tijd en 8000 sinds het einde van de zomer, staan de publieke diensten op het eiland onder druk. De eilandraad waarschuwt ook met oog op de toekomst. Verwacht wordt dat",
      "rubrieken": [],
@@ -213,30 +231,12 @@
     },
     {
      "titel": "Man opent vanuit auto het vuur op centraal plein Krakau: 6 doden, 15 gewonden",
-     "context": "Bij een schietpartij in het historische centrum van de Poolse stad Krakau zijn zes doden gevallen, het gaat om vier vrouwen en twee mannen. Ook zijn er vijftien mensen gewond geraakt, onder wie drie politieagenten. De schutter is door agenten neergeschoten en naar een ziekenhuis gebracht, meldt de politie. Een van de agenten is drie keer geraakt en verkeert in kritieke toestand, aldus minister Kie",
+     "context": "Bij een aanslag in het historische centrum van de Poolse stad Krakau zijn zes mensen doodgeschoten, het gaat om vier vrouwen en twee mannen. Ook zijn er vijftien mensen gewond geraakt, onder wie drie politieagenten. De schutter is door agenten neergeschoten en naar een ziekenhuis gebracht, meldt de politie. Een van de agenten is drie keer geraakt en verkeert in kritieke toestand, aldus minister Ki",
      "rubrieken": [],
      "link": "https://nos.nl/l/2638449",
      "bron": "NOS",
      "tijd": "16:23",
      "sorteer": "2026-11-07T16:23:47+01:00"
-    },
-    {
-     "titel": "'Topman chipgigant Nvidia had intieme relatie met Chinese spion'",
-     "context": "De topman van chipgigant Nvidia had een intieme relatie met een Chinese spion, vermoeden Amerikaanse inlichtingendiensten. Dat zeggen bronnen tegen de Britse zakenkrant Financial Times , nadat The New York Times daar vorige week voor het eerst over had bericht. De affaire draait rond Nvidia-CEO Jensen Huang en Alice Huang, ook wel bekend als Huang Le, een leidinggevende bij Megaspeed. Dat is een S",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638442",
-     "bron": "NOS",
-     "tijd": "15:58",
-     "sorteer": "2026-11-07T15:58:46+01:00"
-    },
-    {
-     "titel": "EU-onderzoek naar mogelijke fraude subsidies voor spooronderhoud Spanje na ongeluk",
-     "context": "Het Europees Openbaar Ministerie (EOM) heeft een tweede onderzoek geopend naar mogelijke fraude met EU-subsidies, die bedoeld waren voor de renovatie en modernisering van de beveiligings-, sein- en communicatiesystemen op de hogesnelheidslijn Madrid-Sevilla. Op dit traject botste vorige week een hogesnelheidstrein nabij het dorpje Urda, 140 kilometer ten zuiden van Madrid, met volle vaart op een s",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638429",
-     "bron": "NOS",
-     "tijd": "14:57",
-     "sorteer": "2026-11-07T14:57:00+01:00"
     },
     {
      "titel": "Apple blijkt maar liefst 100 duizend woorden en termen te weren van tekstvoorspelling: ‘Lichte censuur’",
@@ -248,29 +248,75 @@
      "sorteer": "2026-11-07T17:38:00+00:00"
     },
     {
-     "titel": "Zeker zes doden en vijftien gewonden bij schietpartij in stadshart Krakau",
+     "titel": "Zes doden en vijftien gewonden bij schietpartij in stadshart Krakau",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/zeker-zes-doden-en-vijftien-gewonden-bij-schietpartij-in-stadshart-krakau~b98c9dc8c/",
+     "link": "https://www.volkskrant.nl/buitenland/zes-doden-en-vijftien-gewonden-bij-schietpartij-in-stadshart-krakau~b98c9dc8c/",
      "bron": "de Volkskrant",
      "tijd": "16:40",
      "sorteer": "2026-11-07T15:40:00+00:00"
     },
     {
-     "titel": "Minstens zes doden door schietpartij in centrum van Krakau, dader is Pools en zou alleen hebben gehandeld",
+     "titel": "Trump beveelt onderzoek naar 'bedreigingen' door Democraten",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/minstens-zes-doden-door-schietpartij-in-centrum-van-krakau-dader-is-pools-en-zou-alleen-hebben-gehandeld~b81b8a0f/",
+     "link": "https://www.trouw.nl/buitenland/live-vs-trump-zegt-hoofd-ufc-als-nieuwe-woordvoerder-witte-huis-te-willen~bbc0cf3d/",
      "bron": "Trouw",
-     "tijd": "19:52",
-     "sorteer": "2026-11-07T18:52:00+00:00"
+     "tijd": "20:58",
+     "sorteer": "2026-11-07T19:58:00+00:00"
     },
     {
-     "titel": "Black Women Win Nearly All Top Statewide Offices in Georgia",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWHBJdjIwX3BzNXpLQkduZzFJdUE4LXZBVlN2MVdGYW9zU3JiTVlFRGMtcTZ1TXZNc3ZXX2NwYVZuSndyRTA0QVNpbGdieHlQVlhvY19uRTFHb2Z0Tm1rTTBUSW05STJ5RGxwN3RUSUljel9uQUNxTjBSQzU1QmhBZ09XdEFSaUppaTNoZ3dVampMRzFzYTJObmV4aXVETHo5enBGc2VNOVIyS1dvU2Zvdk1uVkZrdw?oc=5",
+     "titel": "Man arrested near White House allegedly threatened to kill Trump",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IWWlxNDFQb1R5QXhPNFhheXh1Q3JSelZlRl9HWnZIdWNxSFhQaW96bWlkQXdNUWRRU3JtOTRTcEIwb2ljWUcwQzBYbFNuMGlteTlzaGxSdERCY2lXQlg3TVl5ZkJ4ZkdGTnQweQ?oc=5",
      "bron": "CNN",
-     "tijd": "19:31",
-     "sorteer": "2026-11-07T18:31:03+00:00",
+     "tijd": "20:51",
+     "sorteer": "2026-11-07T19:51:00+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Judge to appoint special master to determine whether Trump lawyers purposely misled her over golf course",
+     "context": "Ana Reyes wants to know whether federal officials lied about extent of renovation plans at East Potomac golf course A federal judge said on Saturday that she intended to appoint an ex-top federal prosecutor who served during Donald Trump’s first term to investigate whether she was purposely misled by lawyers and administration officials over changes to a historic public golf course in Washington D",
+     "rubrieken": [
+      "Washington DC",
+      "Trump administration",
+      "Golf",
+      "US justice system",
+      "US news",
+      "Law (US)",
+      "US politics"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/07/trump-east-potomac-golf-course-lawsuit",
+     "bron": "The Guardian",
+     "tijd": "20:47",
+     "sorteer": "2026-11-07T19:47:10+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Judge expected to tap former US attorney to investigate possible ‘ethical violations’ by Trump admin lawyers in case",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRHAxbzVfaEc5WEV3bUtWNzBzVHFMck5Ha3JxQjV1cHY0Z0lUenlSOU5sRGluUFppeXVULXZ1Y1R1YXpsV3ZBYUI5dUNhb19ncDFUMTlCQmU3c2pmNkNXNGFQeW9Lay1XazhJSFFxWDRCZWNEdHJlbVRHcFdKMnZQRy1IcW0xS0k?oc=5",
+     "bron": "CNN",
+     "tijd": "20:40",
+     "sorteer": "2026-11-07T19:40:55+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Video captures gunshots from site of deadly shooting in Kraków Poland",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbEVxX1Vqd0x2ZWpnSW9Sb2h1d09KRDYzdWxueS10NEJhd1FyR1ZKMUdBczFwQndsaUhBUEZaaU9zcFh0REFRQ1BPMmFiWUstNkllcnNYZzkwMFl6cndweTAtbDFwZDkyZWYtd3o0NzA5NTZCMURwUTVmZVRNZjBqOGJQT2Q4X0dNY0pKelhUQWpvbDkwYW9XeVJfVjJ6NjFKdUxZLTRBWWpXQzhXOWlZVnljR0g?oc=5",
+     "bron": "CNN",
+     "tijd": "20:40",
+     "sorteer": "2026-11-07T19:40:00+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "The Independent Surge: How Undecided Voters Shaped the Midterms",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTHBoUEF6U3ZpZGJBMm5zZE1NcUxabFJGZlZhellMU3hWdVpmWFpfazZaWE55aTUzbDlXSENZVTNGcWlONTFDcXRickFXb242X1NrS2NYNUE2ZzlXcmtyVzRmcVBwMGhRUldRZHdHbkxBNWUxaFh3SFZRYUN5T2tFcWVreU9UZXBmenIxTWRZS29iR2x2ekhwZFR5WEFZcDQ?oc=5",
+     "bron": "CNN",
+     "tijd": "20:21",
+     "sorteer": "2026-11-07T19:21:05+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -300,15 +346,6 @@
      "taal": "en"
     },
     {
-     "titel": "Shooting in Poland kills at least 6",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQjJ2bGpnNnF6S3V2TERPMDFMTFNYQ05zOEF3b0NreVZIMFpfQ0ZhVzlYekNoeEh6TWZNb2JwY0xCWk9Tblc0RFZrdmE3d0s4ZF9wRDZlb1BEWTRWR1lDYmVqVTQwN2lWdkM3YlR2RUZkVjdGWUkzdnh6U0lRVnVPSkJ2MFFrYlVXVE9Z?oc=5",
-     "bron": "CNN",
-     "tijd": "19:26",
-     "sorteer": "2026-11-07T18:26:00+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
      "titel": "Why White Working-Class Voters Shifted Left in the Midterms",
      "context": "White voters without a college degree, a cornerstone of the Republican base in the Trump era, moved left this year. Some cited high prices, the war with Iran and more in their decisions.",
      "rubrieken": [
@@ -324,24 +361,6 @@
      "bron": "New York Times",
      "tijd": "19:22",
      "sorteer": "2026-11-07T18:22:09+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Immigration",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ycjZxZVVJWjh5WmtLeXI1Nm9tNFdVcDN2WjBjcFlXdDA3ZldVTW5RdnNlVUdzWThWaWVzVjNSOWVyNjV3UTB4Rl9VX2xuM2VtT1UyMDZ4Zw?oc=5",
-     "bron": "CNN",
-     "tijd": "19:21",
-     "sorteer": "2026-11-07T18:21:17+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Trump tells ‘60 Minutes’ he has confidence in Hegseth",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaEZGaVhqZTVocnNncFpDLWloTldqcnNXaVcxOVlCekZoY1diTEx6cFd5VkpjV2JBRFpRM040RnBLbFMySFRUTFdTOG5yWV85QkpXODdYX0FjZndsNHRqcFB0VlJKSWlaWVJGUXlCNU5vSTlKM2oxNFZsWHpVQ2tZQmlYd0FhU3pteFNBZ2p0Mm0xbHVDbmcwc0dVTkN1TW5SOVZlaVVUNHh6akw0TUE?oc=5",
-     "bron": "CNN",
-     "tijd": "19:09",
-     "sorteer": "2026-11-07T18:09:00+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -465,37 +484,13 @@
      "taal": "en"
     },
     {
-     "titel": "LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark",
-     "context": "Democratic socialists won the mayorship, a US House seat and powerful positions in Los Angeles – and a large network of volunteers helped them do it As a blue tsunami overtook US politics this week, Los Angeles saw a major shake-up of its own with a wave of democratic socialists elected to key offices. Most notably, Nithya Raman, the first democratic socialist to serve on the Los Angeles city coun",
-     "rubrieken": [
-      "Los Angeles",
-      "California",
-      "US politics",
-      "West Coast",
-      "US news"
-     ],
-     "link": "https://www.theguardian.com/us-news/2026/nov/07/los-angeles-mayor-nithya-raman-progressives-dsa",
-     "bron": "The Guardian",
-     "tijd": "16:00",
-     "sorteer": "2026-11-07T15:00:14+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Inside the Nightclub Sheltering Haitians From Violent Gangs",
-     "context": "Club International was once a popular music venue in Port-au-Prince. Now it’s a makeshift shelter for hundreds of Haitian families fleeing gang violence, and the club’s owner wants them out.",
-     "rubrieken": [
-      "Refugees and Displaced Persons",
-      "Bars and Nightclubs",
-      "Gangs",
-      "Haiti",
-      "Port-au-Prince (Haiti)",
-      "vis-vid"
-     ],
-     "link": "https://www.nytimes.com/video/world/americas/100000011168848/haiti-nightclub-shelter-gang-violence.html",
-     "bron": "New York Times",
-     "tijd": "19:52",
-     "sorteer": "2026-11-07T18:52:27+00:00",
+     "titel": "What we know so far after Polish gunman in military clothing opens fire in Krakow",
+     "context": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "20:51",
+     "sorteer": "2026-11-07T19:51:44+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -508,30 +503,39 @@
      ],
      "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
      "bron": "The Guardian",
-     "tijd": "19:50",
-     "sorteer": "2026-11-07T18:50:49+00:00",
+     "tijd": "20:51",
+     "sorteer": "2026-11-07T19:51:23+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "What we know about Krakow mass shooting so far",
-     "context": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "19:22",
-     "sorteer": "2026-11-07T18:22:11+00:00",
+     "titel": "Israeli Opposition Leader Tapped to Try to Form Government",
+     "context": "Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election.",
+     "rubrieken": [
+      "Legislatures and Parliaments",
+      "Politics and Government",
+      "Israel-Gaza War (2023- )",
+      "Elections",
+      "Israel",
+      "Eisenkot, Gadi",
+      "Herzog, Isaac",
+      "Netanyahu, Benjamin"
+     ],
+     "link": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+     "bron": "New York Times",
+     "tijd": "20:50",
+     "sorteer": "2026-11-07T19:50:21+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "US offers $20m reward for information about Iran's nuclear programme",
-     "context": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+     "titel": "Paraguay's former president charged after bank collapse",
+     "context": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
      "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+     "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "19:14",
-     "sorteer": "2026-11-07T18:14:38+00:00",
+     "tijd": "20:17",
+     "sorteer": "2026-11-07T19:17:22+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -627,39 +631,47 @@
      "sorteer": "2026-11-07T17:16:00+00:00"
     },
     {
-     "titel": "Donald Trump beveelt onderzoek naar ’bedreigingen’ door Democraten",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdlBDN3Z6YnBwZjh6R1lDX2VyeG1yTHZtamVrQjh5M2lHUDhmUEF1U2hyMVlyN3hvbjJtTXl3eU9PSUtCd2oxc3Y1VEg2aGxnRjBIdERhNTBSZEY2ZV9rUmJsTzljTlFGSFp5ZEVPN1UxYUh6QXRvcVVGOWs5UkJ3Z2VndEZodUN3LVZ5Xy1rakcyWEpJMXpWbUlOckFpeUgyVWxUTnVMMjNKLXlEdTNQb1R6NlZTZw?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "19:35",
-     "sorteer": "2026-11-07T18:35:46+00:00"
+     "titel": "Trump eist een onderzoek naar Democraten wegens ‘bedreigingen en afpersingen’",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVVkxbWhWX0JfT1BJc044dFZHYU1oY29EWWFPRlE1VXo2cUVBcms0R1ZtR19abzRreUhyZkRBcHlqYVJnLTVEN0JUTXhjMmdEcW5GZmdVbmE4OGRwck9VS3JXd3NuSUlBVW1mcDU0ck50ZTdwRkxpVTV4TnVFdUdGYjJNWURBOXVkR2NxSm12S2FPWmd3eUpGZVBmZkc1MVMzeGpsbWlqd3pMX2lGVHdEeDZkMkZHZHEzcExGTzVJVGkyN1k?oc=5",
+     "bron": "NRC",
+     "tijd": "20:40",
+     "sorteer": "2026-11-07T19:40:51+00:00"
     },
     {
-     "titel": "Afrika wordt serieuze drugshub nu kartels samenwerken met Afrikaanse bendes",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZWhxMWlrdmFRRDVYQlVta2NQZUh0bUJJLW1zY0RvVVZGcThRVEZDNko0ZmhpVnRRSXNsa2RVT2ZFOVFKcG5HS0JkNDVna0JCY1k2VDFGZ2Q5SEZFVThRQmhrS0NuWjJIZUJnOTBrWFN4Q1oyQzlyYk9EWklkcXBzV0ZNNURHcXNHUFVUamNaUkNwb3BNN2xuRHJNWXBYZV9KYzViNEZuQ2dXQk1oMUhIVEhRc0VraVJVdk5vQ2FVcldsNzQ?oc=5",
+     "titel": "Ongeval met letsel op Stationsplein in Arnhem",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNm05TGIyWUZ1MWk1ZXREazJna1g0VVR1N29nZmxTQm1tRExMdnNMdFFSUVlqYzRraFg3VnBSVXNzZ2dVM3pYTDNPLXVGMzJOMzdBMEdtRmVZRDBWUk9YLTlkd2FMdDJBZ3JobTJNZl9oclFvVFhDSm1iVGxmWmY3a3FHYUxOZjRCNG42U196aEFQaWx2Njc0dHdJazRjZjFaTi1F?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "20:11",
+     "sorteer": "2026-11-07T19:11:54+00:00"
+    },
+    {
+     "titel": "Trump wil nu kooivechters als woordvoerders in het Witte Huis",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaVNvRC1YR1lqRy1XTGI1cFhrcW9QSFN4d1kyZ19tRUlIZTFhSDB3dTZLanJRLW1EbzItRklmTjZNLW9wclhwak9ILVhnWlRqSVdOdGJqLXMzc19qM3lBalRheWpJckZSUXJDWjBNVmdFWlRmZ3JmZWFfYmt5M2pJbkZXSVVSNngxeUN4LU8xekVWeGFqR1lJZ214bm1jT0VjaTR3cXlPN01Ddy1nVjFFeA?oc=5",
      "bron": "bnr.nl",
-     "tijd": "18:50",
-     "sorteer": "2026-11-07T17:50:40+00:00"
+     "tijd": "20:40",
+     "sorteer": "2026-11-07T19:40:00+00:00"
     },
     {
      "titel": "Wouter de Winther: ’Dit verziekt het politieke klimaat’",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQREpackV3bTJyLWJBcnFTWEl3b2I5eXUzUkpPY3ZOaDhWRGxNS3VnYklaTldfLVZXTmVWSGxOWlNaZ0swMjQxd2dhRi1ZWHVXUmNnMDZWWVBlakxKSUZoT1d4V1NFM2kxNFlfVUFQNXBaT0ZMSnFsejhWNDF3d0JhWjduNEhFRTl6QXZGMDZfQmQ1S1dJM093aHFVOFhYVjg?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "19:43",
-     "sorteer": "2026-11-07T18:43:20+00:00"
+     "tijd": "20:24",
+     "sorteer": "2026-11-07T19:24:19+00:00"
     },
     {
-     "titel": "Evenementen in Arnhem mogen NOG VEEL HARDER (qua vergunning dan), maar moet je dat ook willen?",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdktxRjBySjdUOFpQWWdBd3JDaUpOWUNOU0xaU1hmZVREaDVOVTNOSEZObW9feVB1azRpNk5rN01rS0Y5OExTNWNwcFpSYkFpVlNsS2RTb1hYdmNoRDBnSzdwM1lPMC1RemZOZFFBSVdXTlRaMjFKckdpWUp3TU5iR19yY0s4REJZOFdPZzlPNVVOTG0xNkFYN2ZmZlBNNVpWSkt0Y1dnd2xKY3EzbHBFOVBKV0JHU0tndlI3emdGVHRhU3RWM1VKS19VQmZBbnhi?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "19:22",
-     "sorteer": "2026-11-07T18:22:36+00:00"
+     "titel": "Maite en Adinda dachten allebei dat ze hetero waren: ‘Toen besloot ik mijn kans te grijpen’",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM0M2TXBndlI1T2VwUElucFF5LVZGR0lzbUNSdDJsc0phcjYzb09odl9RZDQ2M25leDRLcnR6SUdUT3FXOTRqMlQwNTFNQzV3Qmlrcl9mVHpLVVdPc3ZhaDVvaENrRlBuazRabHpUc0c5dERVV25UbFlVRXAwRmx6RVdwMU04b0c3S0tZTE5XUUVyVFBVaFc2anJTMWlQcW9jMGh3aF9ZUE9tdVBSNVR5Q212cUNBYVNoVzhoWDVFYmxLX1lhbmc?oc=5",
+     "bron": "AD.nl",
+     "tijd": "20:00",
+     "sorteer": "2026-11-07T19:00:47+00:00"
     },
     {
-     "titel": "Capella Arnhem geeft barokconcert in Grote Kerk Velp",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdy1nTkhkM3NqRUxuQk9QVjdxY3BzTGJ6U2dsRlQ2cUdaNTRIeE1oR0p5Tlc5OUxrMWRtMVZhcWcxM0NmaEVxTS1GZWR2NVNWUEhkRkVJY2YzbFdwQzFER19lMENEQ1NPcmIyM1Z2amVvQ045TjZWd3g5Sk1lSFJEWC11TUhtV2NocjVGYXZXTWFWSU94N0ZlaGNR?oc=5",
-     "bron": "de Stentor",
-     "tijd": "18:05",
-     "sorteer": "2026-11-07T17:05:00+00:00"
+     "titel": "Bontenbal wil komende dagen alsnog meerderheid vinden voor belastingplan",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0RMMXIwbWI4MFB1MTNJV1doZUJHd2x1MEtfSEdlVnIwbnI4YkRUUmNCZ3p1SS04a0Yxdm9mT2QzZHRBX2R5Q2FpMUQ2WHFzQkhwUFVKTUNZb2k2VWNnMUxGV0JNUUotdkY1RjVRVzIwZmZaWVhpamlGejZlZ3RJUHgzOUNDVWRSOHZoMmdVeWVqMEZsMXdOekZKblIxOUlLektXVDRnRXlBVkwyVlpjVlBvLUZFVTluZlJzVDhobE9uaXBjOFR2aEc4OHM?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "20:41",
+     "sorteer": "2026-11-07T19:41:58+00:00",
+     "kop": "Begroting"
     },
     {
      "titel": "Nieuwsuur: De toekomst van het minderheidskabinet • Hybride oorlog • Bruggen mogelijk langer mee",
@@ -678,6 +690,15 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Man barst in tranen uit als agent hem bekeurt voor rijden zonder rijbewijs",
+     "context": "Een controle van wijkagent Jordy loopt uit op een emotioneel moment. De agent ziet een bekende op een scooter rijden en ontdekt dat de jongeman geen rijbewijs heeft. Als hij een boete van 170 euro krijgt en niet verder mag rijden, belt hij zijn moeder. Aan de telefoon barst hij in tranen uit.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3713348/man-barst-in-tranen-uit-als-agent-hem-bekeurt-voor-rijden-zonder-rijbewijs",
+     "bron": "RTV Oost",
+     "tijd": "20:02",
+     "sorteer": "2026-11-07T19:02:00+00:00"
+    },
     {
      "titel": "Van straat naar cel en weer terug: Overijsselse rechters slaan alarm",
      "context": "Mensen met ernstige psychiatrische problemen belanden steeds opnieuw voor de rechter, terwijl passende zorg ontbreekt. Daarvoor waarschuwen strafrechters Elmy Elderman en Joyce de Ruiter van de rechtbank Overijssel. Ook bij Dimence Groep zijn er zorgen: geschikte woonplekken zijn moeilijk te vinden.",
@@ -699,24 +720,6 @@
      "sorteer": "2026-11-07T16:05:34+00:00"
     },
     {
-     "titel": "Hoe goed heb jij het nieuws gevolgd? Test het hier!",
-     "context": "De Hellehond, een paarse envelop en betaalde kaartjes bij The Passion. Gaat er al een belletje rinkelen? Dan wordt de nieuwsquiz van deze week vast een makkie!",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3716124/hoe-goed-heb-jij-het-nieuws-gevolgd-test-het-hier",
-     "bron": "RTV Oost",
-     "tijd": "17:00",
-     "sorteer": "2026-11-07T16:00:00+00:00"
-    },
-    {
-     "titel": "Wout en Maud schrijven over mentale druk: 'Misschien had ik hulp nodig gehad'",
-     "context": "Toen Maud Roetgering nog voetbalde, overleed haar oma. Een dag later stond ze alweer op het veld. \"Je gaat gewoon weer door in de waan van de dag.\" Die ervaring sluit aan bij het thema van haar derde kinderboek met oud-FC Twente-voetballer Wout Brama: mentale gezondheid.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3715722/wout-en-maud-schrijven-over-mentale-druk-misschien-had-ik-hulp-nodig-gehad",
-     "bron": "RTV Oost",
-     "tijd": "13:46",
-     "sorteer": "2026-11-07T12:46:54+00:00"
-    },
-    {
      "titel": "Acht tegenliggers en toch inhalen: automobilist neemt risico bij Dalfsen",
      "context": "In Oost op het Asfalt bekijken we opvallende dashcambeelden van de Overijsselse wegen: gevaarlijke stunts, agressie onder automobilisten en grappige of kolderieke taferelen. Deze week een Peugeot die inhaalt waar dat eigenlijk niet kan (in de bebouwde kom!).",
      "rubrieken": [
@@ -735,6 +738,15 @@
      "bron": "RTV Oost",
      "tijd": "08:02",
      "sorteer": "2026-11-07T07:02:23+00:00"
+    },
+    {
+     "titel": "Een persoon aangehouden na steekincident in Hengelo",
+     "context": "Een persoon is vannacht met spoed naar het ziekenhuis gebracht na een steekincident aan de Enschedesestraat in Hengelo. Daarna viel de politie een woning binnen en is er één iemand aangehouden.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3716398/een-persoon-aangehouden-na-steekincident-in-hengelo",
+     "bron": "RTV Oost",
+     "tijd": "07:31",
+     "sorteer": "2026-11-07T06:31:52+00:00"
     },
     {
      "titel": "Sleutels gevonden in Hessum",
@@ -851,13 +863,6 @@
      "tijd": "16-10",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51798",
      "sorteer": "2026-11-05T10:00:03.39+01:00"
-    },
-    {
-     "titel": "Steenbergen gaat in gesprek met leverancier over digitale ‘slagboom’ voor ChatGPT",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDlVZ2ZBbHFGazI1QjFuQUJ2aUVhNXlJb1I4LWJXT2dmYWJWTnhVa1JmLWlMRmNXN2dqZUJuVEMya09TSGJiX1RGNk5pWmFfQmZRbnhCZVZyUV85YndCa0ZSQ0daRDFMLXFBMnhteTItby10OWxOUXF2VE1laUhkaTlqTnhFWTRZblZxVm9acFZIbTMwMjJpM3luWlNGUHZxcDVPc01zUEY0aUxPUWFGdHFSNjhsQlAtYUFV?oc=5",
-     "bron": "AD.nl",
-     "tijd": "12:00",
-     "sorteer": "2026-11-07T11:00:00+00:00"
     },
     {
      "titel": "Democraten VS gaan AI proberen aan banden te leggen met een 'vloedgolf' aan wetten",
@@ -1001,7 +1006,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "20:00",
+    "bijgewerkt": "21:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1015,9 +1020,9 @@
       {
        "thuis": "ADO Den Haag",
        "uit": "Sparta",
-       "score": "1 - 1",
+       "score": "3 - 1",
        "wanneer": "vandaag 18:45",
-       "bezig": "56'",
+       "bezig": "",
        "eigen": false
       },
       {
@@ -1152,18 +1157,18 @@
       },
       {
        "plek": "11",
-       "team": "Sparta",
-       "gespeeld": "11",
-       "punten": "12",
-       "saldo": "-6",
-       "eigen": false
-      },
-      {
-       "plek": "12",
        "team": "FC Utrecht",
        "gespeeld": "11",
        "punten": "12",
        "saldo": "-12",
+       "eigen": false
+      },
+      {
+       "plek": "12",
+       "team": "Sparta",
+       "gespeeld": "12",
+       "punten": "12",
+       "saldo": "-8",
        "eigen": false
       },
       {
@@ -1201,9 +1206,9 @@
       {
        "plek": "17",
        "team": "ADO Den Haag",
-       "gespeeld": "11",
-       "punten": "6",
-       "saldo": "-11",
+       "gespeeld": "12",
+       "punten": "9",
+       "saldo": "-9",
        "eigen": false
       },
       {
@@ -1544,7 +1549,7 @@
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 161 vogels; 235 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 161 vogels; 236 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1586,13 +1591,13 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 4.3,
-    "gevoel": 3.4,
+    "nu": 4.4,
+    "gevoel": 4.4,
     "wind": "ONO 1",
     "station": "Heino",
     "bericht": "Het is bewolkt en het kan mistig zijn. Vanuit het zuidwesten gaat het af en toe regenen. In het noordoosten kan het lokaal nog afkoelen tot het vriespunt.",
     "vandaag": "Vanavond raakt het op veel plaatsen verder bewolkt en vanuit het zuidwesten en vooral langs de westkust valt er wat regen. Vannacht is het bewolkt en valt er plaatselijk regen en langs de kust een bui met mogelijk een donderklap.",
-    "temperatuur": "Elders ligt de temperatuur tussen de 4 en 8 graden.",
+    "temperatuur": "De minimumtemperatuur varieert van een fractie boven het vriespunt in Groningen tot 7 graden in Zeeland, maar in de loop van de nacht wordt het juist wat zachter.",
     "dalfsen": {
      "zin": "Voor Dalfsen zelf: -0 tot 6 graden, droog, ruim 7 uur zon, wind uit het oosten, kracht 3.",
      "max": 6,
