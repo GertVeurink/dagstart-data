@@ -3,15 +3,15 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "15:00",
+  "opgehaald": "16:00",
   "blokken": 10,
-  "berichten": 100,
+  "berichten": 99,
   "problemen": [
    "Sport viel uit: TypeError"
   ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-07T15:00+01:00",
+ "opgehaald": "2026-11-07T16:00+01:00",
  "audio": "audio/20261107.mp3",
  "afval": [
   {
@@ -215,6 +215,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "'Topman chipgigant Nvidia had intieme relatie met Chinese spion'",
+     "context": "De topman van chipgigant Nvidia had een intieme relatie met een Chinese spion, vermoeden Amerikaanse inlichtingendiensten. Dat zeggen bronnen tegen de Britse zakenkrant Financial Times , nadat The New York Times daar vorige week voor het eerst over had bericht. De affaire draait rond Nvidia-CEO Jensen Huang en Alice Huang, ook wel bekend als Huang Le, een leidinggevende bij Megaspeed. Dat is een S",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638442",
+     "bron": "NOS",
+     "tijd": "15:58",
+     "sorteer": "2026-11-07T15:58:46+01:00"
+    },
+    {
      "titel": "EU-onderzoek naar mogelijke fraude subsidies voor spooronderhoud Spanje na ongeluk",
      "context": "Het Europees Openbaar Ministerie (EOM) heeft een tweede onderzoek geopend naar mogelijke fraude met EU-subsidies, die bedoeld waren voor de renovatie en modernisering van de beveiligings-, sein- en communicatiesystemen op de hogesnelheidslijn Madrid-Sevilla. Op dit traject botste vorige week een hogesnelheidstrein nabij het dorpje Urda, 140 kilometer ten zuiden van Madrid, met volle vaart op een s",
      "rubrieken": [],
@@ -251,13 +260,13 @@
      "sorteer": "2026-11-07T09:48:23+01:00"
     },
     {
-     "titel": "VS voert eerste aanval na verkiezingen op Iran uit",
-     "context": "Het Amerikaanse leger heeft gisteravond een aanval uitgevoerd op Iran, de eerste sinds de tussentijdse verkiezingen in de VS afgelopen dinsdag. President Trump heeft de actie bevestigd. Volgens hem was het \"een kleine aanval\". Iraanse staatsmedia melden op basis van getuigen dat twee projectielen zijn ingeslagen in het gebied Suza op het eiland Qeshm. Dat eiland ligt op een strategische positie in",
+     "titel": "Met Ilse Aigner zou Duitsland voor het eerst een vrouw en CSU’er als bondspresident krijgen",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2638392",
-     "bron": "NOS",
-     "tijd": "07:34",
-     "sorteer": "2026-11-07T07:34:02+01:00"
+     "link": "https://www.volkskrant.nl/buitenland/met-ilse-aigner-zou-duitsland-voor-het-eerst-een-vrouw-en-csu-er-als-bondspresident-krijgen~b31799c9/",
+     "bron": "de Volkskrant",
+     "tijd": "15:21",
+     "sorteer": "2026-11-07T14:21:02+00:00"
     },
     {
      "titel": "Italiaanse minister van Buitenlandse Zaken gehackt, premier Meloni wijst naar Rusland",
@@ -269,29 +278,40 @@
      "sorteer": "2026-11-07T12:08:00+00:00"
     },
     {
-     "titel": "Amerikaanse techbeurs Nasdaq trekt iets bij na monsterverlies op donderdag",
+     "titel": "Eerste aanval op Iran na Amerikaanse tussentijdse verkiezingen",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/economie/amerikaanse-techbeurs-nasdaq-trekt-iets-bij-na-monsterverlies-op-donderdag~b2466533/",
-     "bron": "de Volkskrant",
-     "tijd": "12:23",
-     "sorteer": "2026-11-07T11:23:00+00:00"
-    },
-    {
-     "titel": "President van Paraguay afgezet en onder huisarrest geplaatst",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/president-van-paraguay-afgezet-en-onder-huisarrest-geplaatst~b62289b8/",
+     "link": "https://www.trouw.nl/buitenland/eerste-aanval-op-iran-na-amerikaanse-tussentijdse-verkiezingen~b89448b6/",
      "bron": "Trouw",
-     "tijd": "11:31",
-     "sorteer": "2026-11-07T10:31:56+00:00"
+     "tijd": "15:55",
+     "sorteer": "2026-11-07T14:55:00+00:00"
     },
     {
-     "titel": "Democrats’ midterm wins send AI stocks plunging",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmY1bGhUVkdFcEMzV3RrOUxVMGlfTmJhLVBpNGdjUENtVXVnei1JVVE2ZlFETHl6OHpBM0plYXk3enlKUzYyX0xidFl6UUVPRU1wZFNaYkpXR2V3VWhqRVg1X1BxMEFiZnBaQWxHcUlZeXJyV2IwbWxjSmxSTEJPQksxaDRFTVZxVWpFVDRiY3pET29aYk1GSVBsWW1XakZhblNfVHJzQ2c1cm1w?oc=5",
+     "titel": "Pelacarsen, a promising drug for an inherited heart risk, flops, stunning doctors",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85b2prT3ZGd3ZrRGJRRTRLNFBVVjBxdUR6QTlZSHhHNXZrd0lBaW1jbld0Q1ZiMlg5S04xemlfUkQwLVFpQXo0TzlERDRISXJpOWRmZ2JNVXZZRnZCenZ3YlBSUkpJUnV2eGM3WDZHeVFRRjh1b095UWdzSGpELVk?oc=5",
      "bron": "CNN",
-     "tijd": "14:47",
-     "sorteer": "2026-11-07T13:47:00+00:00",
+     "tijd": "15:50",
+     "sorteer": "2026-11-07T14:50:15+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "South Carolina Republicans Fracture Over Stunning Defeat of Darline Graham",
+     "context": "Some blamed President Trump for backing the novice candidate after the death of her brother, Lindsey Graham. Others accused Mr. Graham’s team of pushing her to run despite her lack of experience.",
+     "rubrieken": [
+      "South Carolina",
+      "Nordone, Darline Graham",
+      "Senate",
+      "Elections, Senate",
+      "Trump, Donald J",
+      "Midterm Elections (2026)",
+      "Graham, Lindsey",
+      "Republican Party"
+     ],
+     "link": "https://www.nytimes.com/2026/11/07/us/politics/darline-graham-loss-blame.html",
+     "bron": "New York Times",
+     "tijd": "15:30",
+     "sorteer": "2026-11-07T14:30:09+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -299,8 +319,26 @@
      "titel": "Immigration",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ycjZxZVVJWjh5WmtLeXI1Nm9tNFdVcDN2WjBjcFlXdDA3ZldVTW5RdnNlVUdzWThWaWVzVjNSOWVyNjV3UTB4Rl9VX2xuM2VtT1UyMDZ4Zw?oc=5",
      "bron": "CNN",
-     "tijd": "14:24",
-     "sorteer": "2026-11-07T13:24:17+00:00",
+     "tijd": "15:24",
+     "sorteer": "2026-11-07T14:24:15+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "2 skydivers die after colliding midair in California and their parachutes become entangled",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jdkF5cEFoWkRKNldJeDd2OGlTaFVKcEpxanhEaFZuR0NMajNERGJneFExOTNOYVc5TEtCR01DeUdPeENhUEdPN3hXcTBiN3QxUTJmbW11ck5xOXRvMkcweG5EUHZFa2RkZlNwMlg2dlY?oc=5",
+     "bron": "CNN",
+     "tijd": "15:15",
+     "sorteer": "2026-11-07T14:15:15+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Democrats’ midterm wins send AI stocks plunging",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmY1bGhUVkdFcEMzV3RrOUxVMGlfTmJhLVBpNGdjUENtVXVnei1JVVE2ZlFETHl6OHpBM0plYXk3enlKUzYyX0xidFl6UUVPRU1wZFNaYkpXR2V3VWhqRVg1X1BxMEFiZnBaQWxHcUlZeXJyV2IwbWxjSmxSTEJPQksxaDRFTVZxVWpFVDRiY3pET29aYk1GSVBsWW1XakZhblNfVHJzQ2c1cm1w?oc=5",
+     "bron": "CNN",
+     "tijd": "14:47",
+     "sorteer": "2026-11-07T13:47:00+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -341,15 +379,6 @@
      "bron": "New York Times",
      "tijd": "14:11",
      "sorteer": "2026-11-07T13:11:20+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "New Zealand in political limbo after knife-edge election",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNazZ3Q0ZwVlVRTW5aZTJnZDVjSXkyVzU0b0NwNmdLMlE1eUk4UmRJM2EwYmF5V0VIeVZnZXpuRG1pbDU3TjNtV21nWFg3aER6T0ZBNXdfWkl5WFBSa1UzYTllUGhiUE5BRmVJSFlSMkwxdEtMekc5R3UySmpUaEwwMHFEaUJFaWM3bG84?oc=5",
-     "bron": "CNN",
-     "tijd": "14:09",
-     "sorteer": "2026-11-07T13:09:24+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -414,15 +443,6 @@
      "taal": "en"
     },
     {
-     "titel": "He left NYC after 9/11 for a new life in South America",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0VqY1cweXpFa1h4T3dwN2QwYXZpVnR6bUQtUEp3T1BLZl9RVE9EVDdTMExocWg3YXhhLXFMOVNWbzdWNUtCcVpaVFFtT0RiYU03TFg3TE1pTnVhOEVodFloSUVfT05Pdkl1b3Z3eVduSzVOMW1ibDFENDBrN0t5N2VtU3g?oc=5",
-     "bron": "CNN",
-     "tijd": "13:34",
-     "sorteer": "2026-11-07T12:34:28+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
      "titel": "Flip voters discovered that Trump’s racism and xenophobia are expensive",
      "context": "Maga’s regret voters were all-in for Trump’s racism. Then they found out they couldn’t afford it For the first time in a decade, election predictions far exceeded public expectations. What pollsters anticipated as a blue wave billowed into a blue tsunami . Wins that held ground for already blue seats eased nerves, and the flips of swing states like Michigan, Georgia, North Carolina and Ohio energi",
      "rubrieken": [
@@ -458,25 +478,28 @@
      "taal": "en"
     },
     {
-     "titel": "He’ll Be Clerk of One of the Country’s Largest Counties. He’s 19.",
-     "context": "Sebastian Matta, a sophomore at Arizona State University, was elected on Tuesday as Superior Court clerk in Maricopa County, Ariz.",
+     "titel": "Another Day of Protests Unfurls in France’s Autumn of Discontent",
+     "context": "Two days after a general strike and huge demonstrations, students and workers took to the streets again on Saturday.",
      "rubrieken": [
-      "Midterm Elections (2026)",
-      "United States Politics and Government",
-      "Politics and Government",
-      "Arizona State University",
-      "Maricopa County (Ariz)",
-      "Sebastian Matta"
+      "France",
+      "Group of Seven",
+      "Demonstrations, Protests and Riots",
+      "Strikes",
+      "Looting (Crime)",
+      "Paris (France)",
+      "Marseille (France)",
+      "Education",
+      "Wages and Salaries"
      ],
-     "link": "https://www.nytimes.com/2026/11/07/us/politics/asu-student-maricopa-county-clerk-election.html",
+     "link": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
      "bron": "New York Times",
-     "tijd": "11:02",
-     "sorteer": "2026-11-07T10:02:25+00:00",
-     "kop": "Midterms",
-     "taal": "en"
+     "tijd": "15:47",
+     "sorteer": "2026-11-07T14:47:43+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
-     "titel": "New Zealand facing weeks of uncertainty with election ‘too close to call’",
+     "titel": "New Zealand faces weeks of uncertainty with election ‘too close to call’",
      "context": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some time New Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-biting election failed to hand a decisive victory to either the incumbent rightwing coalition or opposition left bloc. On preliminary results, the centre-right National party, led by ",
      "rubrieken": [
       "New Zealand election 2026",
@@ -497,31 +520,7 @@
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties",
-     "context": "Preliminary results showed the right-wing bloc slightly ahead but no clear winner after an election that was dominated by economic concerns.",
-     "rubrieken": [
-      "Polls and Public Opinion",
-      "Elections",
-      "Legislatures and Parliaments",
-      "Politics and Government",
-      "Maori",
-      "Labour Party (New Zealand)",
-      "National Party (New Zealand)",
-      "Hipkins, Chris",
-      "Luxon, Christopher",
-      "Peters, Winston (1945- )",
-      "New Zealand",
-      "Qiulae Wong"
-     ],
-     "link": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
-     "bron": "New York Times",
-     "tijd": "14:13",
-     "sorteer": "2026-11-07T13:13:40+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Ukraine's power network suffers further damage after fresh Russian strikes",
+     "titel": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
      "context": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
@@ -571,6 +570,15 @@
    "emoji": "🇳🇱",
    "items": [
     {
+     "titel": "'Doorbreek taboe en maak seksualiteit bij mensen met dementie bespreekbaar'",
+     "context": "Hulpverleners moeten de intieme, seksuele wensen van mensen met dementie en hun partner beter bespreekbaar maken. Het taboe op intimiteit en seks bij mensen met dementie moet worden doorbroken, zowel in de thuissituatie als in verpleeghuizen. Daarvoor pleiten gezondheidspsycholoog Frans Hoogeveen en Sara Vegt, seksuoloog in de ouderenzorg, in Nieuwsuur . Hoogeveen merkt dat casemanagers, die mense",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638435",
+     "bron": "NOS",
+     "tijd": "15:30",
+     "sorteer": "2026-11-07T15:30:01+01:00"
+    },
+    {
      "titel": "Cohen en Van Aartsen lopen mee met Rode Lijn: 'We moeten het genocide noemen'",
      "context": "Oud-politici Job Cohen en Jozias van Aartsen lopen morgen mee bij het Rode Lijn-protest in Amsterdam. Dat zeggen de twee oudgedienden van de PvdA en de VVD in een uitgebreid interview in de Volkskrant . Bij het protest eisen de demonstranten actie van het Nederlandse kabinet tegen Israël \"om de illegale bezetting van Palestina definitief te beëindigen\". Het is de vierde keer dat het protest gehoud",
      "rubrieken": [],
@@ -607,15 +615,6 @@
      "sorteer": "2026-11-07T08:23:32+01:00"
     },
     {
-     "titel": "Wat zijn de gevolgen van de bommeldingen voor reizigers en vliegmaatschappijen?",
-     "context": "Het Europese vliegverkeer werd deze week drie keer geconfronteerd met een reeks bommeldingen. Zeker tien vliegtuigen kregen ermee te maken . Eén daarvan was een KLM-vlucht van Praag naar Amsterdam. Voor zover bekend is er nergens een bom gevonden en raakte ook niemand gewond. De dreigingen lijken vooral bedoeld om de burgerluchtvaart te verstoren. Voor het totale vliegverkeer waren er weinig gevol",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638391",
-     "bron": "NOS",
-     "tijd": "07:17",
-     "sorteer": "2026-11-07T07:17:39+01:00"
-    },
-    {
      "titel": "Kind van gehuwd stel krijgt niet meer automatisch naam van vader",
      "context": "",
      "rubrieken": [],
@@ -625,13 +624,20 @@
      "sorteer": "2026-11-06T22:31:12+00:00"
     },
     {
-     "titel": "Lee Towers, zoon van hardwerkend Rotterdam, heeft nu ook een biografie",
+     "titel": "Bommen in vliegtuigen? Die komen zelden aan boord",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/lee-towers-zoon-van-hardwerkend-rotterdam-heeft-nu-ook-een-biografie~b17a8d88/",
+     "link": "https://www.trouw.nl/binnenland/bommen-in-vliegtuigen-die-komen-zelden-aan-boord~bfabd572/",
      "bron": "Trouw",
-     "tijd": "13:46",
-     "sorteer": "2026-11-07T12:46:29+00:00"
+     "tijd": "15:29",
+     "sorteer": "2026-11-07T14:29:00+00:00"
+    },
+    {
+     "titel": "Duitsland in de ban van vermissing Lisa (13): politie vreest misdrijf",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQem1rRzBkS0ZTMzcwMXdTbW9kRWxqWEo2Z092QnFvYTZnV19IanJqdk1mcjdWYXlnQWQzd0pFQTJzQ2N2N3owaEZRd2dKSVNNRVlQMFRXX3BmLW1yOXcxUXYxTThGM0lEeTBtTVFmV2Zfa2k4blotb2hJNUZvZ3B0c3BEUTh1UmVPWGd5QVJ3aVhkdjhLaFlwc1N4X0tOdGg3ZEtYN1FtM1JTUFBwN0E?oc=5",
+     "bron": "RTL.nl",
+     "tijd": "15:15",
+     "sorteer": "2026-11-07T14:15:40+00:00"
     },
     {
      "titel": "Werkwijze mensensmokkelaars onthuld: asielzoekers naar Ter Apel met geblindeerde busjes, nep-huwelijken en peperdure vip-reizen",
@@ -641,25 +647,18 @@
      "sorteer": "2026-11-07T13:30:00+00:00"
     },
     {
-     "titel": "Tweelingbroers beschuldigden half Elburg via Facebook, nu leggen ze vlak voor het vonnis hun eigen proces stil",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTWhKcnkzR05SeTdFb3JpSlZZc0kyeEFBVGgxTDBaS2djdDlhYllpRGU4T2p1OFFjVEEyREJGM0MwMlkzY0dFWkt3WEttZzRxWDhvWnlVa0hfLUtjTXhOUGZTSE5URXdmb21ZVU1fa1NMbVJEUzMxakJYc1ZUdGl6YmtUZXhaVkVWWDRELTJSV1V5dmxpSExCdkhEQ0dEdjhUS2NTbUVTVG91THFqLXQyZ1BSeVl1eF9JMWNNeVY4OHhJYjMwaU1jWWtsbUZWa1lLaWNmVHBLRFNaV3pmTkNOcmdqLWs4UQ?oc=5",
+     "titel": "Van debat tot polonaise: de Hofkerk kan alles aan",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmp1Q01NcnFDaGowMkN1a252Nm15eVFaUURRVV9yZDI2RXotYU9jODNjS1FXT0VlWUdlMDM0MEhIZ3hPdGgtWHVSUWtwT3c2MDV6cXlyVVJrU3U2WUdObVZoTkFoNEkxV1JPQWxzMnM1SFVtRTZraGxZQjlaRGxpRnJpUW1QSExiNEp5eEh6UVhxOXZoaDhR?oc=5",
+     "bron": "Tubantia",
+     "tijd": "14:00",
+     "sorteer": "2026-11-07T13:00:32+00:00"
+    },
+    {
+     "titel": "De Groene Vos houdt workshops over eetbare paddenstoelen in Arnhem",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWWloZjRRcTQ2dllSb3Q3Rk9mRU1MWWlHcVlHLWJMajFGUURJYkU3VzFGSWFPb3lleHNjdVlYam9Ha21IT2RvZmJyVy1UMEkwLVpvMThwLVZEZG9JSVJxQzRpLTNlTWZLMkh6OXRaTXJxMjlFNnZkNzNsZFBIYl9CdUUtUWN1eEdhNFlYZ0dneTNOc1ROdXh0TUxOcU12U0VZV18tOUw4ZzZyRUs1?oc=5",
      "bron": "de Stentor",
-     "tijd": "12:34",
-     "sorteer": "2026-11-07T11:34:00+00:00"
-    },
-    {
-     "titel": "Problemen bij 112-meldkamer in Oost-Nederland: te weinig personeel, dus zeker twee nachten op zwart",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTmE2cEJkRjZXWDhBQll4SkIwUUxpRGpUWnVEQjNPZWNuOW9qU0wxSThfTHNEblVxZEpkc2FscU8wMVFzM0dzeXMtWjRuRkFyaHlIMUdZak1zVXJLRmdxX0ZpZWlzQ0x0eUIydDF1UExwOVl2VGR5VmZrcFdkMWNLSjZtNHoxYlloanFfZU5qdEE5ZXlEQlpjVmFfVm9XQmxKNzYwY0xSQ3hqZnd4cUQyZ3AxcWRrTjlKZ3ZCbG9WdU5OR1RraXF2eUZfZ3F0aHhGakE?oc=5",
-     "bron": "AD.nl",
-     "tijd": "14:50",
-     "sorteer": "2026-11-07T13:50:00+00:00"
-    },
-    {
-     "titel": "Voor Milan (40) was naar Vitesse gaan altijd iets doodnormaals, totdat hij aan zijn nieuwe fotoboek begon",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNjZTR3R2TVlqXzlsbWJPUFVYcWZZSkFHd09zZ3NUZXE3MWNzQWxaZHYzb0NnUjVReHlsYzdzZG1fUTRkaWJFSFBqaXBsY0VYWlhDWjM5c284V3AxSUx2X0JWUnFIWDlqTEsxb2NvRUVaMWR4elJvMGg4emRrZEtRSHAxRDNqdHBVaFIzT2daZEFwTEhSYWRPSGJWaDlialFVSGVVOFdsc2EtYi0xaUhiazh5bF9TejFCY0o4SWVkZnFYaUVnQngtTXdKYVlUTnBoT05WV0hqNXVmM2RTZUVnTQ?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "14:04",
-     "sorteer": "2026-11-07T13:04:00+00:00"
+     "tijd": "15:13",
+     "sorteer": "2026-11-07T14:13:00+00:00"
     },
     {
      "titel": "Bontenbal wil komende dagen alsnog meerderheid vinden voor belastingplan",
@@ -687,19 +686,6 @@
      "bron": "Trouw",
      "tijd": "17:52",
      "sorteer": "2026-11-06T16:52:00+00:00",
-     "kop": "Begroting",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Podcast | Open huwelijk en wirwar van overlegjes: chaos rond belastingplan",
-     "context": "Het blijft hommeles rond het belastingplan. Het kabinet zoekt steun bij de oppositie, maar is zelf verdeeld over de vraag of het links of rechts moet aankloppen. Komt dit nog goed? Ondertussen lijkt het op het gebied van stikstof wél allemaal te lukken.",
-     "rubrieken": [
-      "uitgelicht"
-     ],
-     "link": "https://www.nu.nl/uitgelicht/6415739/open-huwelijk-en-wirwar-van-overlegjes-chaos-rond-belastingplan.html",
-     "bron": "NU.nl",
-     "tijd": "15:59",
-     "sorteer": "2026-11-06T15:59:08+01:00",
      "kop": "Begroting",
      "vervolg": "stond gisteren ook in de briefing"
     }
@@ -1199,7 +1185,7 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Vlakbij: 2 plekken binnen 25 km",
+     "titel": "Vlakbij: 3 plekken binnen 25 km",
      "bron": "Zwolle - Molenpolder, 10 km van Dalfsen (2026-11-05)",
      "tijd": "12:38",
      "link": "https://waarneming.nl/species/306/observations/",
@@ -1207,15 +1193,15 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 92 plekken in de afgelopen week, waarvan 5 vandaag",
+     "titel": "Invasiejaar — op 93 plekken in de afgelopen week, waarvan 5 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 158 vogels; 220 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 159 vogels; 223 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
-     "titel": "13 plekken binnen 75 km van Dalfsen",
+     "titel": "14 plekken binnen 75 km van Dalfsen",
      "bron": "dichtstbij: Zwolle - Molenpolder, 10 km (2026-11-05)",
      "tijd": "12:38",
      "link": "https://waarneming.nl/species/306/observations/"
@@ -1253,16 +1239,16 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 6.1,
-    "gevoel": 4.1,
+    "nu": 5.5,
+    "gevoel": 3.2,
     "wind": "O 2",
     "station": "Heino",
     "bericht": "Het weekend verloopt rustig, met regionale verschillen in de hoeveelheid zon, bewolking en regen(buien). De eerste officiële vorst van het najaar een feit. In De Bilt zakte het kwik vanochtend tot -1,4 graden.Vanmiddag is het in het noorden en zuid(west)en bewolkt, met in Zeeland plaatselijk soms lichte regen.",
     "vandaag": "In De Bilt zakte het kwik vanochtend tot -1,4 graden. Vanmiddag is het in het noorden en zuid(west)en bewolkt, met in Zeeland plaatselijk soms lichte regen.",
     "temperatuur": "",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -0 tot 5 graden, droog, ruim 7 uur zon, wind uit het oosten, kracht 3.",
-     "max": 5,
+     "zin": "Voor Dalfsen zelf: -0 tot 6 graden, droog, ruim 7 uur zon, wind uit het oosten, kracht 3.",
+     "max": 6,
      "min": 0,
      "regenkans": 0,
      "omschrijving": "mistig"
