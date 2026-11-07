@@ -3,15 +3,15 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "14:00",
+  "opgehaald": "15:00",
   "blokken": 10,
-  "berichten": 105,
+  "berichten": 100,
   "problemen": [
    "Sport viel uit: TypeError"
   ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-07T14:00+01:00",
+ "opgehaald": "2026-11-07T15:00+01:00",
  "audio": "audio/20261107.mp3",
  "afval": [
   {
@@ -215,8 +215,17 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "EU-onderzoek naar mogelijke fraude subsidies voor spooronderhoud Spanje na ongeluk",
+     "context": "Het Europees Openbaar Ministerie (EOM) heeft een tweede onderzoek geopend naar mogelijke fraude met EU-subsidies, die bedoeld waren voor de renovatie en modernisering van de beveiligings-, sein- en communicatiesystemen op de hogesnelheidslijn Madrid-Sevilla. Op dit traject botste vorige week een hogesnelheidstrein nabij het dorpje Urda, 140 kilometer ten zuiden van Madrid, met volle vaart op een s",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638429",
+     "bron": "NOS",
+     "tijd": "14:57",
+     "sorteer": "2026-11-07T14:57:00+01:00"
+    },
+    {
      "titel": "Verkiezingen Nieuw-Zeeland nek-aan-nekrace, mogelijk sleutelrol voor nieuwkomer",
-     "context": "De parlementsverkiezingen in Nieuw-Zeeland zijn uitgelopen op een nek-aan-nekrace. De centrumrechtse National-partij van premier Chris Luxon gaat gelijk op met de grootste oppositiepartij Labour van Chris Hipkins. Met ruim 80 procent van de stemmen geteld schommelen beide partijen rond de 30 procent van de stemmen. \"Nieuw-Zeeland heeft gesproken, maar het duurt misschien wat langer om uit te vogel",
+     "context": "De parlementsverkiezingen in Nieuw-Zeeland zijn uitgelopen op een nek-aan-nekrace. De centrumrechtse National-partij van premier Chris Luxon gaat gelijk op met de grootste oppositiepartij Labour van Chris Hipkins. Met ruim 95 procent van de stemmen geteld schommelen beide partijen net onder de 30 procent. Enkele duizenden stemmen scheiden de twee. \"Nieuw-Zeeland heeft gesproken, maar het duurt mis",
      "rubrieken": [],
      "link": "https://nos.nl/l/2638420",
      "bron": "NOS",
@@ -251,15 +260,6 @@
      "sorteer": "2026-11-07T07:34:02+01:00"
     },
     {
-     "titel": "Verdachte met meerdere vuurwapens in auto aangehouden nabij Witte Huis",
-     "context": "De Secret Service, verantwoordelijk voor de beveiliging van president Trump, heeft donderdagavond lokale tijd nabij het Witte Huis een man gearresteerd die drie wapens in zijn auto had liggen, waaronder een semiautomatisch geweer. De verdachte verklaarde tegenover agenten dat stemmen in zijn hoofd hem opdracht hadden gegeven naar de Amerikaanse hoofdstad te reizen om de president te doden. De man ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638384",
-     "bron": "NOS",
-     "tijd": "04:51",
-     "sorteer": "2026-11-07T04:51:33+01:00"
-    },
-    {
      "titel": "Italiaanse minister van Buitenlandse Zaken gehackt, premier Meloni wijst naar Rusland",
      "context": "",
      "rubrieken": [],
@@ -287,11 +287,129 @@
      "sorteer": "2026-11-07T10:31:56+00:00"
     },
     {
+     "titel": "Democrats’ midterm wins send AI stocks plunging",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmY1bGhUVkdFcEMzV3RrOUxVMGlfTmJhLVBpNGdjUENtVXVnei1JVVE2ZlFETHl6OHpBM0plYXk3enlKUzYyX0xidFl6UUVPRU1wZFNaYkpXR2V3VWhqRVg1X1BxMEFiZnBaQWxHcUlZeXJyV2IwbWxjSmxSTEJPQksxaDRFTVZxVWpFVDRiY3pET29aYk1GSVBsWW1XakZhblNfVHJzQ2c1cm1w?oc=5",
+     "bron": "CNN",
+     "tijd": "14:47",
+     "sorteer": "2026-11-07T13:47:00+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
      "titel": "Immigration",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ycjZxZVVJWjh5WmtLeXI1Nm9tNFdVcDN2WjBjcFlXdDA3ZldVTW5RdnNlVUdzWThWaWVzVjNSOWVyNjV3UTB4Rl9VX2xuM2VtT1UyMDZ4Zw?oc=5",
      "bron": "CNN",
-     "tijd": "13:24",
-     "sorteer": "2026-11-07T12:24:19+00:00",
+     "tijd": "14:24",
+     "sorteer": "2026-11-07T13:24:17+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "U.S. Homeless Population Had Record Drop in 2025",
+     "context": "The Department of Housing and Urban Development credited President Trump, while homeless advocacy groups said that so-called Housing First policies of his predecessors played a part.",
+     "rubrieken": [
+      "Homeless Persons",
+      "United States Politics and Government",
+      "Urban Areas",
+      "Housing and Urban Development Department",
+      "Cicero Institute",
+      "National Alliance to End Homelessness",
+      "Poverty",
+      "Trump, Donald J"
+     ],
+     "link": "https://www.nytimes.com/2026/11/06/us/politics/homeless-population-drop.html",
+     "bron": "New York Times",
+     "tijd": "14:15",
+     "sorteer": "2026-11-07T13:15:59+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Democrats, Newly Ascendant, Begin a Fight to Shape the Party’s Future",
+     "context": "At a moment of opportunity for the party, its long-feuding factions are seizing on the midterm results to make their case for tacking to the center or to the left.",
+     "rubrieken": [
+      "Democratic Party",
+      "Liberalism (US Politics)",
+      "Progressivism (Theory and Philosophy)",
+      "Midterm Elections (2026)",
+      "Presidential Election of 2028",
+      "Emanuel, Rahm",
+      "Khanna, Ro",
+      "United States Politics and Government"
+     ],
+     "link": "https://www.nytimes.com/2026/11/07/us/politics/democrats-midterms-2028-presidential-race.html",
+     "bron": "New York Times",
+     "tijd": "14:11",
+     "sorteer": "2026-11-07T13:11:20+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "New Zealand in political limbo after knife-edge election",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNazZ3Q0ZwVlVRTW5aZTJnZDVjSXkyVzU0b0NwNmdLMlE1eUk4UmRJM2EwYmF5V0VIeVZnZXpuRG1pbDU3TjNtV21nWFg3aER6T0ZBNXdfWkl5WFBSa1UzYTllUGhiUE5BRmVJSFlSMkwxdEtMekc5R3UySmpUaEwwMHFEaUJFaWM3bG84?oc=5",
+     "bron": "CNN",
+     "tijd": "14:09",
+     "sorteer": "2026-11-07T13:09:24+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Trump’s elevation of Stephen Miller a middle finger to millions of voters",
+     "context": "Architect of Trump’s far-right immigration agenda is now most powerful unelected figure in government – it suggests White House is moving to a war footing Donald Trump just gave the middle finger to millions of American voters. Any other president who suffered the kind of drubbing at the polls that Trump did this week might have felt at least a sliver of humility – and perhaps even an obligation t",
+     "rubrieken": [
+      "Donald Trump",
+      "Democrats",
+      "US news",
+      "US politics",
+      "US midterm elections 2026",
+      "World news",
+      "Trump administration",
+      "Republicans"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
+     "bron": "The Guardian",
+     "tijd": "14:00",
+     "sorteer": "2026-11-07T13:00:12+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Not a pretty sight: Trump’s ‘beautiful’ Republican men flop at midterms",
+     "context": "President spent weeks praising his favored candidates’ physiques, from their jawlines to their shoulders – but most of his hot guys lost ​It was either a last-ditch considered strategy to win votes, or the ramblings of an increasingly unhinged and increasingly amorous party leader. Either way, it didn’t work. Continue reading...",
+     "rubrieken": [
+      "Donald Trump",
+      "US midterm elections 2026",
+      "Republicans",
+      "US politics"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/07/trump-republican-candidates-struggled-midterm-election-results",
+     "bron": "The Guardian",
+     "tijd": "14:00",
+     "sorteer": "2026-11-07T13:00:12+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Will Pete Hegseth be the blue tsunami’s next victim? | Arwa Mahdawi",
+     "context": "The ‘secretary of war’ and his shameful history are facing bipartisan scrutiny Can you smell the schadenfreude in the air? Watching some of the worst people in the world get their comeuppance this week has been deeply satisfying. And the show isn’t over yet. While the midterms have wrapped up, the blame game is only just getting started, with Republicans desperate to find scapegoats for their shel",
+     "rubrieken": [
+      "Pete Hegseth",
+      "US news",
+      "Trump administration",
+      "US politics",
+      "South Carolina",
+      "Republicans",
+      "Russell Brand",
+      "Amtrak",
+      "West Bank",
+      "Israel",
+      "Vaccines and immunisation",
+      "Meta"
+     ],
+     "link": "https://www.theguardian.com/commentisfree/2026/nov/07/pete-hegseth-midterms-consequences",
+     "bron": "The Guardian",
+     "tijd": "14:00",
+     "sorteer": "2026-11-07T13:00:12+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -299,8 +417,8 @@
      "titel": "He left NYC after 9/11 for a new life in South America",
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0VqY1cweXpFa1h4T3dwN2QwYXZpVnR6bUQtUEp3T1BLZl9RVE9EVDdTMExocWg3YXhhLXFMOVNWbzdWNUtCcVpaVFFtT0RiYU03TFg3TE1pTnVhOEVodFloSUVfT05Pdkl1b3Z3eVduSzVOMW1ibDFENDBrN0t5N2VtU3g?oc=5",
      "bron": "CNN",
-     "tijd": "13:00",
-     "sorteer": "2026-11-07T12:00:15+00:00",
+     "tijd": "13:34",
+     "sorteer": "2026-11-07T12:34:28+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -322,85 +440,6 @@
      "bron": "The Guardian",
      "tijd": "13:00",
      "sorteer": "2026-11-07T12:00:12+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Israel took a beating in the US midterms | Judith Levine",
-     "context": "In a reversal of longstanding assumptions, strong criticism of Israel’s actions may have helped put candidates over the top “You took a chance on the unlikeliest of candidates,” Abdul El-Sayed told a Detroit crowd on Wednesday, declaring victory in Michigan’s hard-fought, often ugly, Senate race. In what was predicted to be a squeaker, the Democrat beat his Republican opponent, Mike Rogers, by a h",
-     "rubrieken": [
-      "US midterm elections 2026",
-      "US politics",
-      "Donald Trump",
-      "Religion",
-      "US news",
-      "Judaism",
-      "Republicans",
-      "Democrats",
-      "US-Israel war on Iran",
-      "Israel-Gaza war",
-      "Israel"
-     ],
-     "link": "https://www.theguardian.com/commentisfree/2026/nov/07/midterms-israel-criticism",
-     "bron": "The Guardian",
-     "tijd": "13:00",
-     "sorteer": "2026-11-07T12:00:11+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "‘Wait, what?’: the underdog Democrats who won their midterm races against all odds",
-     "context": "From North Carolina to Arizona, Democrats with almost no public profile were stunned at their election triumphs One candidate had dropped out in September. One had no campaign staff. One was a 19-year-old and halfway through the fall college semester. Across the US, Democratic candidates with almost no public profile and long odds of winning their midterm races were stunned to find they had outper",
-     "rubrieken": [
-      "US midterm elections 2026",
-      "US news",
-      "US politics",
-      "Democrats",
-      "US Congress",
-      "House of Representatives",
-      "Republicans"
-     ],
-     "link": "https://www.theguardian.com/us-news/2026/nov/07/surprising-wins-democrats-midterm-elections",
-     "bron": "The Guardian",
-     "tijd": "13:00",
-     "sorteer": "2026-11-07T12:00:10+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Mississippi GOP chair says state has thousands more uncounted ballots",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXJnOGJVVDFWcm5EM3hSX3RpSzdnLV9NcjJkYTRqY1M1eE55SUJzOU1PQzlIRXY1OGhoNFlQTW1ndlk1SF9ER1RDLTE3ekhIcGx2aWZUOURHT3padDF6UjVpQndIWnVybHRtLVY0YWFVSFViWjAxaThRUzh3eGpxVXNGc09wVWJfRGpFU2s3VmNFNzRycFlDMWF2bjJRRk9YS0w2LWpRbzNoNkJaTzVLVVdWSkRXZw?oc=5",
-     "bron": "CNN",
-     "tijd": "12:34",
-     "sorteer": "2026-11-07T11:34:00+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "How one of Trump’s most controversial advisers rose to chief of staff – and what it means",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZTE1VFYyVURidnQ3dFRmMko4ZHRtQXZKT094WExDTHJTMlBJY2hqSEx1dzN1bUZYWGt5NXgzSGVRblVGT204MnNxYlYyVkNSc2dBYUd6bi02bFMzNjhfc19YUnBpV044S3JQcW4tb19FYTVGN0ZKZmQ0c1JqSVhVNg?oc=5",
-     "bron": "CNN",
-     "tijd": "12:30",
-     "sorteer": "2026-11-07T11:30:15+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "Black voter turnout surges in US south despite Republican redistricting drive: ‘They could not stop the momentum’",
-     "context": "The GOP tried to dilute their power, but Black voters helped Democrats get elected in Alabama, Texas and Florida Black voter turnout surged across US southern states where Republicans were accused of redrawing electoral maps to “diminish Black political power” in the wake of a seismic supreme court ruling. Democrats flipped or held seats in Alabama, Texas and Florida with the support of this votin",
-     "rubrieken": [
-      "US midterm elections 2026",
-      "US voting rights",
-      "Race",
-      "Democrats",
-      "Republicans",
-      "US politics",
-      "US news"
-     ],
-     "link": "https://www.theguardian.com/us-news/2026/nov/07/black-voter-turnout-gerrymandering",
-     "bron": "The Guardian",
-     "tijd": "12:00",
-     "sorteer": "2026-11-07T11:00:10+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -437,43 +476,49 @@
      "taal": "en"
     },
     {
-     "titel": "Mysterious Request Scrambles Major Supreme Court Gun Case Against Cook County",
-     "context": "In an unusual move, the lead plaintiff in one of two cases challenging semiautomatic weapons bans has asked to drop out weeks before the cases are heard.",
+     "titel": "New Zealand facing weeks of uncertainty with election ‘too close to call’",
+     "context": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some time New Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-biting election failed to hand a decisive victory to either the incumbent rightwing coalition or opposition left bloc. On preliminary results, the centre-right National party, led by ",
      "rubrieken": [
-      "Gun Control",
-      "Suits and Litigation (Civil)",
-      "Second Amendment (US Constitution)",
-      "United States Politics and Government",
-      "States (US)",
-      "Second Amendment Foundation",
-      "Supreme Court (US)"
+      "New Zealand election 2026",
+      "New Zealand",
+      "Asia Pacific",
+      "World news",
+      "New Zealand politics",
+      "Christopher Luxon",
+      "Chris Hipkins",
+      "Māori",
+      "National Party"
      ],
-     "link": "https://www.nytimes.com/2026/11/07/us/politics/supreme-court-guns-plaintiff.html",
-     "bron": "New York Times",
-     "tijd": "11:02",
-     "sorteer": "2026-11-07T10:02:14+00:00",
-     "kop": "Midterms",
-     "taal": "en"
+     "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+     "bron": "The Guardian",
+     "tijd": "14:48",
+     "sorteer": "2026-11-07T13:48:18+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
-     "titel": "Democrats, Newly Ascendant, Begin a Fight to Shape the Party’s Future",
-     "context": "At a moment of opportunity for the party, its long-feuding factions are seizing on the midterm results to make their case for tacking to the center or to the left.",
+     "titel": "New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties",
+     "context": "Preliminary results showed the right-wing bloc slightly ahead but no clear winner after an election that was dominated by economic concerns.",
      "rubrieken": [
-      "Democratic Party",
-      "Liberalism (US Politics)",
-      "Progressivism (Theory and Philosophy)",
-      "Midterm Elections (2026)",
-      "Presidential Election of 2028",
-      "Emanuel, Rahm",
-      "Khanna, Ro",
-      "United States Politics and Government"
+      "Polls and Public Opinion",
+      "Elections",
+      "Legislatures and Parliaments",
+      "Politics and Government",
+      "Maori",
+      "Labour Party (New Zealand)",
+      "National Party (New Zealand)",
+      "Hipkins, Chris",
+      "Luxon, Christopher",
+      "Peters, Winston (1945- )",
+      "New Zealand",
+      "Qiulae Wong"
      ],
-     "link": "https://www.nytimes.com/2026/11/07/us/politics/democrats-midterms-2028-presidential-race.html",
+     "link": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
      "bron": "New York Times",
-     "tijd": "11:02",
-     "sorteer": "2026-11-07T10:02:07+00:00",
-     "kop": "Midterms",
-     "taal": "en"
+     "tijd": "14:13",
+     "sorteer": "2026-11-07T13:13:40+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
      "titel": "Ukraine's power network suffers further damage after fresh Russian strikes",
@@ -483,49 +528,6 @@
      "bron": "BBC",
      "tijd": "13:49",
      "sorteer": "2026-11-07T12:49:36+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "This Israeli Vows to Oust Netanyahu. Here’s How.",
-     "context": "Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.",
-     "rubrieken": [
-      "Israel",
-      "Politics and Government",
-      "Eisenkot, Gadi",
-      "Netanyahu, Benjamin",
-      "Legislatures and Parliaments",
-      "Lieberman, Avigdor",
-      "Israel-Gaza War (2023- )",
-      "Draft and Recruitment (Military)",
-      "Yisrael Beiteinu (Israeli Political Party)",
-      "Bennett, Naftali",
-      "Lapid, Yair",
-      "Abbas, Mansour",
-      "United Torah Judaism",
-      "Raam Party (Israel)",
-      "Joint List (Israel)",
-      "Yashar Party (Israel)",
-      "Likud Party (Israel)"
-     ],
-     "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
-     "bron": "New York Times",
-     "tijd": "13:42",
-     "sorteer": "2026-11-07T12:42:56+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Two men arrested after boy injured in Gloucester sword attack",
-     "context": "Armed police attended the scene, which led to two nearby schools going into lockdown on Friday Two teenagers have been arrested after a 17-year-old was injured in a suspected sword attack near a Catholic school in Gloucester. Officers were called to Chalford Road, near St Peter’s high school, in Tuffley, shortly after 8.50am on Friday. It was reported that two men – one in possession of a sword – ",
-     "rubrieken": [
-      "Gloucestershire",
-      "UK news"
-     ],
-     "link": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
-     "bron": "The Guardian",
-     "tijd": "13:32",
-     "sorteer": "2026-11-07T12:32:29+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -569,6 +571,15 @@
    "emoji": "🇳🇱",
    "items": [
     {
+     "titel": "Cohen en Van Aartsen lopen mee met Rode Lijn: 'We moeten het genocide noemen'",
+     "context": "Oud-politici Job Cohen en Jozias van Aartsen lopen morgen mee bij het Rode Lijn-protest in Amsterdam. Dat zeggen de twee oudgedienden van de PvdA en de VVD in een uitgebreid interview in de Volkskrant . Bij het protest eisen de demonstranten actie van het Nederlandse kabinet tegen Israël \"om de illegale bezetting van Palestina definitief te beëindigen\". Het is de vierde keer dat het protest gehoud",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638426",
+     "bron": "NOS",
+     "tijd": "14:04",
+     "sorteer": "2026-11-07T14:04:18+01:00"
+    },
+    {
      "titel": "Meer mensen met verward gedrag, drukken op hulpverlening en rechtspraak",
      "context": "De overlast van mensen met verward gedrag neemt elk jaar toe. Moest de politie in 2015 nog ruim 66.000 keer in actie komen, vorig jaar was dat al bijna 170.000 keer. Ook dit jaar, gekeken naar de cijfers tot september, loopt het aantal meldingen weer op, met een tussenstand van 149.519 incidenten. Strafrechters Elmy Elderman en Joyce de Ruiter van de rechtbank Overijssel zijn bezorgd over dit toen",
      "rubrieken": [],
@@ -605,24 +616,6 @@
      "sorteer": "2026-11-07T07:17:39+01:00"
     },
     {
-     "titel": "Massadonor Simon belooft in contract te stoppen na jarenlange misleiding wensouders",
-     "context": "Massadonor Simon heeft zijn handtekening gezet onder een contract dat hem verbiedt nog zaad te doneren. Ook mag hij niet meer aan nieuwe wensouders communiceren dat hij zou willen doneren en is hij verplicht het zaad dat nog opgeslagen zit bij klinieken te laten vernietigen. Als Simon zich niet houdt aan deze afspraken, die hij met Stichting Donorkind maakte, zitten hier \"financiële consequenties\"",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638389",
-     "bron": "NOS",
-     "tijd": "07:00",
-     "sorteer": "2026-11-07T07:00:02+01:00"
-    },
-    {
-     "titel": "Job Cohen en Jozias van Aartsen lopen mee met de Rode Lijn: ‘Jetten toont onvoldoende leiderschap’",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/job-cohen-en-jozias-van-aartsen-lopen-mee-met-de-rode-lijn-jetten-toont-onvoldoende-leiderschap~b0724ece/",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-11-07T04:00:42+00:00"
-    },
-    {
      "titel": "Kind van gehuwd stel krijgt niet meer automatisch naam van vader",
      "context": "",
      "rubrieken": [],
@@ -644,8 +637,8 @@
      "titel": "Werkwijze mensensmokkelaars onthuld: asielzoekers naar Ter Apel met geblindeerde busjes, nep-huwelijken en peperdure vip-reizen",
      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZHh2TlRfQW9MNUJxbWNMUVVWQkdRT0ZVb1ItMHFDNXhMdWMtWFVRQjN0N016V08yejBUeDFNMlZiaTg0OEdhWGFSSEkxOGJTWHpjT0I3NWVYR3RNRkFtOVdOT2EzYndKQ3p3VGcwREtyOWhLeHNxc3VKQzJmTDBZbHlBRE9OMWdUMVpEcEI3REwwRTQyalBlQkNud0hEazBSUVZDX2Rka3ZsREpzNUZCZU9HMzNiZVAtTF8wZnZCVlItalNxTUlnMW4xVnBNcW95LUliVms3Y05fU2c0NXRPRTZKSnd1dTU0WGtjTTRXWG45eGtuc3daSElKaC1zcS1TdklrY2tPcw?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "13:02",
-     "sorteer": "2026-11-07T12:02:01+00:00"
+     "tijd": "14:30",
+     "sorteer": "2026-11-07T13:30:00+00:00"
     },
     {
      "titel": "Tweelingbroers beschuldigden half Elburg via Facebook, nu leggen ze vlak voor het vonnis hun eigen proces stil",
@@ -655,43 +648,36 @@
      "sorteer": "2026-11-07T11:34:00+00:00"
     },
     {
-     "titel": "Twee mannen lopen lachend de winkel uit nadat ze voor honderden euro’s aan gereedschap stelen",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeWFoTHRBUzBhbFUtZlNRUjVRRlVGMURIczlEd2MtWUVzcWV5cE5BZUJNMm9KUmJWNzcyV2RqWk9NbkhYYUhNMkdKY0RBUnlhTzF5bHI0dW9ybW1BanAwY2NWaVR2eUl5WENYRjZoZXd4bjVIeWt2QXlaQkhndXoxQVZPQlV1UDhORVFKY25SZlVyVS1hYnR2YnNxN3M3aU1lTjliZVMzdi04dlVxcmlXQ19HSzRFSWxoWExiWjM1VXl2SklBbllFTVA3TFE5RG92eDlNMlJoU2dVRmJ0NFhRamln?oc=5",
+     "titel": "Problemen bij 112-meldkamer in Oost-Nederland: te weinig personeel, dus zeker twee nachten op zwart",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTmE2cEJkRjZXWDhBQll4SkIwUUxpRGpUWnVEQjNPZWNuOW9qU0wxSThfTHNEblVxZEpkc2FscU8wMVFzM0dzeXMtWjRuRkFyaHlIMUdZak1zVXJLRmdxX0ZpZWlzQ0x0eUIydDF1UExwOVl2VGR5VmZrcFdkMWNLSjZtNHoxYlloanFfZU5qdEE5ZXlEQlpjVmFfVm9XQmxKNzYwY0xSQ3hqZnd4cUQyZ3AxcWRrTjlKZ3ZCbG9WdU5OR1RraXF2eUZfZ3F0aHhGakE?oc=5",
      "bron": "AD.nl",
-     "tijd": "11:13",
-     "sorteer": "2026-11-07T10:13:00+00:00"
+     "tijd": "14:50",
+     "sorteer": "2026-11-07T13:50:00+00:00"
     },
     {
-     "titel": "Enschedese (65) dreigt strafblad te krijgen om schilmes",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUtUR1N6b1BIbk9sUmEteXhSN051MXJKM083amo3Qm9WaHNpQUZSdGR0ZV9oWjJzUEFOWjJtQ3BkNzRNMHY2eFoxd1NQb1dEQlZaSk5XZXRJSjNreXRCSkc4Z1FvNjlMR1F2SDRvNmNhcG0teGhxSVdmY1pMbVI4cjVuMnVCOU11NkJjSVBkNUdXdEx4enZJWlQyaVBJQk5YRzRzVQ?oc=5",
+     "titel": "Voor Milan (40) was naar Vitesse gaan altijd iets doodnormaals, totdat hij aan zijn nieuwe fotoboek begon",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNjZTR3R2TVlqXzlsbWJPUFVYcWZZSkFHd09zZ3NUZXE3MWNzQWxaZHYzb0NnUjVReHlsYzdzZG1fUTRkaWJFSFBqaXBsY0VYWlhDWjM5c284V3AxSUx2X0JWUnFIWDlqTEsxb2NvRUVaMWR4elJvMGg4emRrZEtRSHAxRDNqdHBVaFIzT2daZEFwTEhSYWRPSGJWaDlialFVSGVVOFdsc2EtYi0xaUhiazh5bF9TejFCY0o4SWVkZnFYaUVnQngtTXdKYVlUTnBoT05WV0hqNXVmM2RTZUVnTQ?oc=5",
      "bron": "De Gelderlander",
-     "tijd": "10:35",
-     "sorteer": "2026-11-07T09:35:24+00:00"
+     "tijd": "14:04",
+     "sorteer": "2026-11-07T13:04:00+00:00"
     },
     {
      "titel": "Bontenbal wil komende dagen alsnog meerderheid vinden voor belastingplan",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWjJuZWQ3SVI2V2tNM3JuLWRuY0s5WnJpUUlBbTNTcDg5OERORUg2QnJja1oyWnc4dDdYS095RUtWeFJXaFlMZW9lVS1LTVJtblZTb3NRLTJWblJBakM1ejRrN0plb0RxYmlMdktnVGdDdUw3ZklaelZVR3lnOW1kSkhETTZyQ3JiUVhVYVNvV1JVc3FUdC1NaG1qbmd2VVZHRWt2LS1RYzh1eUZVMG5PNV9uWXBiY2ZvU0VkMTJLSFI?oc=5",
      "bron": "bnr.nl",
      "tijd": "13:07",
-     "sorteer": "2026-11-07T12:07:41+00:00",
+     "sorteer": "2026-11-07T12:07:39+00:00",
      "kop": "Begroting"
     },
     {
      "titel": "Bontenbal op partijcongres over belastingplan: ‘Wij CDA’ers hebben het niet zo op gokken’",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdkhOYW9SZi1kZ2lXTm4weXp2cW8wbE1POWtXVGRacmJJMkJ2N1lKVl93aDFlZGhaQXgyZndoUldoY0hDVEptYWNxZHlCZFA2NjE0V2RnYU1CMHA1eVBXZFprQk9HWkYtWE1Xd2V3UWZ2SEQ4TnlPZnZTSkVyaUw4eXh3Q2QxTGoxTHE0N3EyZ2tIcWxBMXFZVDhoX1lGeElhSy11dG9RTk00NTRKajc2Y3JGS2p4dWtVamdNWG1XSWdQcnFSRjZkWHdWc00?oc=5",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/politiek/bontenbal-op-partijcongres-over-belastingplan-wij-cda-ers-hebben-het-niet-zo-op-gokken~b63db01bd/",
      "bron": "de Volkskrant",
      "tijd": "12:44",
-     "sorteer": "2026-11-07T11:44:13+00:00",
+     "sorteer": "2026-11-07T11:44:00+00:00",
      "kop": "Begroting"
-    },
-    {
-     "titel": "Tromgeroffel bij coalitie Vlaardingen: de begroting is zonder kleerscheuren goedgekeurd",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSjc1eERiZ0xkc3VBMWQ4N1JyYU00cWMtaW1YRFRheGh6UXVKakQ3aXJhY1FlbGI2NHhyWVNLVjIzWFoxODE0aXBMOFpLcE1UVlJOM19iRFRmMmFxUVg5WDY5bGgtdTN6dmE0RGo5QUlCelEyWC1Db2h4c0tqbTNLOFVjbWVqYkxTcFRBWXZ5dTNFRGNKdWJvVHNYdnhMWEhyNm5oX3Z4VUVQSk1aeVRXVUp6M3BGUUtaZ25UakdsSjZxVy1o?oc=5",
-     "bron": "AD.nl",
-     "tijd": "12:29",
-     "sorteer": "2026-11-07T11:29:43+00:00",
-     "kop": "Begroting",
-     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Wat als het belastingplan straks alsnog strandt in de Eerste Kamer?",
@@ -754,17 +740,6 @@
      "sorteer": "2026-11-07T06:31:52+00:00"
     },
     {
-     "titel": "Personeelstekort bij 112-meldkamer leidt tot ingrijpend besluit in de nacht",
-     "context": "Het is crisis op de ambulancemeldkamer Oost-Nederland. Door personeelskrapte komen roosters niet rond, waardoor al enkele nachten geen 112-telefoontjes werden aangenomen. \"Dit gaat over leven of dood. 112 moet altijd goed bereikbaar zijn\", reageert Patiëntenfederatie Nederland.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3716227/personeelstekort-bij-112-meldkamer-leidt-tot-ingrijpend-besluit-in-de-nacht",
-     "bron": "RTV Oost",
-     "tijd": "07:09",
-     "sorteer": "2026-11-07T06:09:33+00:00"
-    },
-    {
      "titel": "De verwarming gaat aan, maar pas op voor dit onzichtbare gevaar",
      "context": "Met het koude weer in aantocht is er een groter risico op koolmonoxidevergiftiging. De gemeente Hof van Twente vraagt aandacht voor het gevaar van koolmonoxide en het belang van een CO-melder in huis. \"Je ruikt het niet, je ziet het niet.\" Burgemeester Ellen Nauta trapte de campagne af.",
      "rubrieken": [],
@@ -783,8 +758,17 @@
      "sorteer": "2026-11-07T04:01:25+00:00"
     },
     {
+     "titel": "Dure Mustang knalt tegen boom, bestuurder mee naar politiebureau",
+     "context": "Een flinke klap vrijdagavond in Nieuwleusen. Een automobilist botste op de Wethouder de Boerstraat met zijn Ford Mustang tegen een boom . Ook een geparkeerde auto liep schade op. Eén persoon moest mee naar het politiebureau.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3716307/dure-mustang-knalt-tegen-boom-bestuurder-mee-naar-politiebureau",
+     "bron": "RTV Oost",
+     "tijd": "20:31",
+     "sorteer": "2026-11-06T19:31:58+00:00"
+    },
+    {
      "titel": "Jongeren steken de handen uit de mouwen op het Rechterense Veld",
-     "context": "DALFSEN – RECHTEREN – Met zagen, veel enthousiasme en prachtig weer gingen meer dan honderd vrijwilligers aan de slag tijdens de Natuurwerkdag op het Rechterense Veld. Onder leiding van Dalfsenaar Wim Lenkeek verwijderden zij jonge dennenboompjes om de heide de ruimte te geven. Vroeger hielden grazende schapen het jonge opschot kort. Nu die er […]",
+     "context": "DALFSEN – RECHTEREN – Met zagen, veel enthousiasme en prachtig weer gingen meer dan honderd vrijwilligers aan de slag tijdens de Natuurwerkdag vandaag op het Rechterense Veld. Onder leiding van Dalfsenaar Wim Lenkeek verwijderden zij jonge dennenboompjes om de heide de ruimte te geven. Vroeger hielden grazende schapen het jonge opschot kort. Nu die […]",
      "rubrieken": [
       "Dalfsen",
       "Laatste nieuws",
@@ -897,25 +881,11 @@
      "sorteer": "2026-11-05T10:00:03.39+01:00"
     },
     {
-     "titel": "Reuters: Democraten VS willen AI met 'vloedgolf' aan wetten aan banden leggen",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOalNVcV9BVHZ1R3hhMjFpQ3lWdENwSEdXanpQUWQ5REFPT2RPQTg0ZEd3VVZBbGRQNFlTZ1B4SHlDOXdwNmVKekNYNmxZZU1KRUtHOXc0VXc5UW1aVXVsRlhPeklFSFFmSl9WYnBmalBJUXlWS1RIbFA2a21ZTlJFQmhHSzZXVHNtSTdQMGs4a1RUbE9MRVdXMzVVd2lYYnV4N1YySGJ3eS1QS29WMmhIQkZkamw?oc=5",
-     "bron": "Tweakers",
-     "tijd": "11:38",
-     "sorteer": "2026-11-07T10:38:40+00:00"
-    },
-    {
      "titel": "Steenbergen gaat in gesprek met leverancier over digitale ‘slagboom’ voor ChatGPT",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDlVZ2ZBbHFGazI1QjFuQUJ2aUVhNXlJb1I4LWJXT2dmYWJWTnhVa1JmLWlMRmNXN2dqZUJuVEMya09TSGJiX1RGNk5pWmFfQmZRbnhCZVZyUV85YndCa0ZSQ0daRDFMLXFBMnhteTItby10OWxOUXF2VE1laUhkaTlqTnhFWTRZblZxVm9acFZIbTMwMjJpM3luWlNGUHZxcDVPc01zUEY0aUxPUWFGdHFSNjhsQlAtYUFV?oc=5",
-     "bron": "AD.nl",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcVoyMlZPekRzaEpJYy1jVGNfOXN5c29peGdIakdERGFPckZ1TXpBWDdScXpCX2NYTnpoSXhMODJ4akZTdGV0OVZON3RtYXlKZVYyTUZCNUVqVl9pOWVtSnN5eHNvVW1qQUFpUlJHbmhjNkRGS1JhYVhtVVJfbEM4M2hYZEVKNktBVWtVMGVZMFhkN1hxZ0E0TWlaVGlJb1B3QVc4UHFRb20zT3o2SUlsTXZmNWJLaVpnYWJnRDNFMHhoV1Y2?oc=5",
+     "bron": "Eindhovens Dagblad",
      "tijd": "12:00",
      "sorteer": "2026-11-07T11:00:00+00:00"
-    },
-    {
-     "titel": "Topman Jensen Huang van AI-chipfabrikant Nvidia zou zijn verleid door Chinese spion",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR2ZtWW1aczdlMmNOdVJMOHhzLWJudlhCQjJSMHZvMTUtVEdYQWxlRWtPVGsyRmVXWS1tcFNzd1BRLVc4TWxGUlhuQTUwaFk4ZjlQWVpkTTd0bEstMlRGTC0wSEFtVl93YXg0cnJEeDl0dE9PY3d0VHUzMUpwLXNiMmIyVHluRWMyZTBPSVd2cDRkV3dlY0ZIZ3Y4UG53U1M3QmZ4RWZhMk52U0J3bE9JSEZVOUFSU0M2R2FrbTQxY3FYN0E1QmxMQnZ3?oc=5",
-     "bron": "de Volkskrant",
-     "tijd": "10:13",
-     "sorteer": "2026-11-07T09:13:00+00:00"
     }
    ]
   },
@@ -1113,6 +1083,22 @@
    "emoji": "🐦",
    "items": [
     {
+     "titel": "Bruine Boszanger",
+     "kop": "Zeldzaamheden",
+     "bron": "Noord-Holland",
+     "tijd": "13:38",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-07T13:38:00+01:00"
+    },
+    {
+     "titel": "Humes Bladkoning",
+     "kop": "Zeldzaamheden",
+     "bron": "Friesland",
+     "tijd": "13:28",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-07T13:28:00+01:00"
+    },
+    {
      "titel": "Kleine Geelpootruiter",
      "kop": "Zeldzaamheden",
      "bron": "Flevoland",
@@ -1137,14 +1123,6 @@
      "sorteer": "2026-11-07T12:16:00+01:00"
     },
     {
-     "titel": "Bruine Boszanger",
-     "kop": "Zeldzaamheden",
-     "bron": "Flevoland",
-     "tijd": "10:51",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-07T10:51:00+01:00"
-    },
-    {
      "titel": "Witbandkruisbek",
      "kop": "Zeldzaamheden",
      "bron": "Utrecht",
@@ -1159,22 +1137,6 @@
      "tijd": "10:35",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-11-07T10:35:00+01:00"
-    },
-    {
-     "titel": "Siberische Braamsluiper",
-     "kop": "Zeldzaamheden",
-     "bron": "Zuid-Holland",
-     "tijd": "08:40",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-07T08:40:00+01:00"
-    },
-    {
-     "titel": "Siberische Boompieper",
-     "kop": "Zeldzaamheden",
-     "bron": "Flevoland",
-     "tijd": "07:17",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-07T07:17:00+01:00"
     },
     {
      "titel": "Dalfsen (nacht)",
@@ -1194,42 +1156,42 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 133 soorten, 22.437 vogels geteld",
+     "titel": "Landelijk vandaag: 148 soorten, 26.372 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261107?language=dutch"
     },
     {
-     "titel": "Spreeuw — 11.303",
+     "titel": "Spreeuw — 11.876",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261107?language=dutch"
     },
     {
-     "titel": "Vink — 2.499",
+     "titel": "Vink — 2.725",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261107?language=dutch"
     },
     {
-     "titel": "Kolgans — 1.559",
+     "titel": "Kolgans — 2.245",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261107?language=dutch"
     },
     {
-     "titel": "Kokmeeuw — 817",
+     "titel": "Kokmeeuw — 949",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261107?language=dutch"
     },
     {
-     "titel": "Toendrarietgans — 614",
+     "titel": "Kramsvogel — 819",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -1245,11 +1207,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 90 plekken in de afgelopen week, waarvan 3 vandaag",
+     "titel": "Invasiejaar — op 92 plekken in de afgelopen week, waarvan 5 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 154 vogels; 213 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 158 vogels; 220 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1291,16 +1253,16 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 5.9,
-    "gevoel": 3.6,
+    "nu": 6.1,
+    "gevoel": 4.1,
     "wind": "O 2",
     "station": "Heino",
     "bericht": "Het weekend verloopt rustig, met regionale verschillen in de hoeveelheid zon, bewolking en regen(buien). De eerste officiële vorst van het najaar een feit. In De Bilt zakte het kwik vanochtend tot -1,4 graden.Vanmiddag is het in het noorden en zuid(west)en bewolkt, met in Zeeland plaatselijk soms lichte regen.",
     "vandaag": "In De Bilt zakte het kwik vanochtend tot -1,4 graden. Vanmiddag is het in het noorden en zuid(west)en bewolkt, met in Zeeland plaatselijk soms lichte regen.",
     "temperatuur": "",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -0 tot 7 graden, droog, ruim 7 uur zon, wind uit het oosten, kracht 3.",
-     "max": 7,
+     "zin": "Voor Dalfsen zelf: -0 tot 5 graden, droog, ruim 7 uur zon, wind uit het oosten, kracht 3.",
+     "max": 5,
      "min": 0,
      "regenkans": 0,
      "omschrijving": "mistig"
