@@ -3,13 +3,13 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "13:00",
+  "opgehaald": "14:00",
   "blokken": 11,
-  "berichten": 95,
+  "berichten": 97,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-08T13:00+01:00",
+ "opgehaald": "2026-11-08T14:00+01:00",
  "audio": "audio/20261108.mp3",
  "afval": [
   {
@@ -247,7 +247,7 @@
     },
     {
      "titel": "Parachutisten komen om na botsing in de lucht in Californië",
-     "context": "In de Verenigde Staten zijn twee parachutisten omgekomen bij een botsing in de lucht. Tijdens de vlucht raakten hun parachutes met elkaar verstrikt, waarna ze allebei op de grond vielen. De slachtoffers zijn een vrouw van 56 en een man van 29 jaar. Het ongeluk gebeurde vrijdag in de buurt van Los Angeles. Volgens het bedrijf dat de sprong organiseerde, verliep de sprong aanvankelijk zonder problem",
+     "context": "In de Verenigde Staten zijn twee parachutisten omgekomen bij een botsing in de lucht. Tijdens de vlucht raakten hun parachutes met elkaar verstrikt, waarna ze allebei op de grond vielen. De slachtoffers zijn vrouwen van 56 en 29 jaar. Het ongeluk gebeurde vrijdag in de buurt van Los Angeles. Volgens het bedrijf dat de sprong organiseerde, verliep de sprong aanvankelijk zonder problemen en gingen b",
      "rubrieken": [],
      "link": "https://nos.nl/l/2638537",
      "bron": "NOS",
@@ -264,6 +264,15 @@
      "sorteer": "2026-11-08T09:57:36+01:00"
     },
     {
+     "titel": "Trump wil worstelmagnaat Dana White als woordvoerder, maar die hapt niet direct",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/trump-wil-worstelmagnaat-dana-white-als-woordvoerder-maar-die-hapt-niet-direct~b827847a/",
+     "bron": "de Volkskrant",
+     "tijd": "13:18",
+     "sorteer": "2026-11-08T12:18:23+00:00"
+    },
+    {
      "titel": "Vader Meghan Markle gearresteerd voor bezit kinderporno: nieuw hoofdstuk in drama rond Britse koninklijke familie",
      "context": "",
      "rubrieken": [],
@@ -271,15 +280,6 @@
      "bron": "de Volkskrant",
      "tijd": "11:46",
      "sorteer": "2026-11-08T10:46:00+00:00"
-    },
-    {
-     "titel": "600 duizend Oekraïners zonder elektriciteit na Russische aanvallen op de regio Dnipropetrovsk",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/600-duizend-oekrainers-zonder-elektriciteit-na-russische-aanvallen-op-de-regio-dnipropetrovsk~bde4fbe2/",
-     "bron": "de Volkskrant",
-     "tijd": "11:41",
-     "sorteer": "2026-11-08T10:41:00+00:00"
     },
     {
      "titel": "Polen wordt wakker in rouw, de schutter kan nog niet worden verhoord",
@@ -291,11 +291,47 @@
      "sorteer": "2026-11-08T10:19:00+00:00"
     },
     {
-     "titel": "Immigration",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ycjZxZVVJWjh5WmtLeXI1Nm9tNFdVcDN2WjBjcFlXdDA3ZldVTW5RdnNlVUdzWThWaWVzVjNSOWVyNjV3UTB4Rl9VX2xuM2VtT1UyMDZ4Zw?oc=5",
+     "titel": "Centrism did not win the Democratic party the election",
+     "context": "The blue wave, while a rebuke of Trump’s policies, was also a referendum on the party’s status quo On election night I stood in a crowd at Harlem Tavern, a restaurant in New York City, at the electoral party for Darializa Avila Chevalier, the Democratic Socialists of America (DSA) member and congresswoman-elect from New York’s 13th congressional district. The crowd cheered as what came to be calle",
+     "rubrieken": [
+      "US midterm elections 2026",
+      "Democratic socialism",
+      "US politics",
+      "Democrats",
+      "US news"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/08/democratic-party-midterm-election-centrism",
+     "bron": "The Guardian",
+     "tijd": "13:00",
+     "sorteer": "2026-11-08T12:00:41+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Healthcare, tariffs – but not Trump impeachment: Democrats chart next two years of power",
+     "context": "Midterms success gives party potent leverage over Trump – expect tough campaigns of investigating and lawmaking “Costs, chaos, corruption”: after almost two years spent relentlessly criticizing Donald Trump for failing to address those three, broad political concerns, Democrats won a monumental return to power in Tuesday’s midterm elections that will give them potent new leverage over the presiden",
+     "rubrieken": [
+      "Democrats",
+      "Donald Trump",
+      "US news",
+      "World news",
+      "US midterm elections 2026",
+      "Trump administration",
+      "US politics"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms",
+     "bron": "The Guardian",
+     "tijd": "13:00",
+     "sorteer": "2026-11-08T12:00:40+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "How the rejection of Trump produced a biblical downpour on Republicans",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xYXlEZHVtZmwtdjF4YlBHV1doVEVWa0kzTlNlM2NLOXE0bEJTSXd0ajRrZndzZFRSckhNd2JnWDhfRVBiMy00TnlGdk5ubmtSR01PNmo1T19FWlNCdUJidlNMMDQwLWpJZi1adGZkQUctYzJwMDljVjcwTQ?oc=5",
      "bron": "CNN",
-     "tijd": "12:14",
-     "sorteer": "2026-11-08T11:14:21+00:00",
+     "tijd": "12:00",
+     "sorteer": "2026-11-08T11:00:15+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -311,15 +347,6 @@
     {
      "titel": "Construction flaws found in housing towers that collapsed in Venezuela quakes",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm5ZbnlINmJJT0Z0NW5TVUhPZTZlbkNndllYamY0WUdkTEFnNjlFUS01N2Z0SDV1OURCQzVqb1ZLQmszdjd2VEdPYzlWQWNMczRCcnBheXVXSXk2Nm5YYzNrRFJNR0c4UGRESENZVzZ3OUJQYmsxZU1qWVpmN0pGT0UxV1kwTTdfRU5kcXlwWnZwT2JTWHNGdG9IRGdNWXF6M3c?oc=5",
-     "bron": "CNN",
-     "tijd": "12:00",
-     "sorteer": "2026-11-08T11:00:15+00:00",
-     "kop": "Midterms",
-     "taal": "en"
-    },
-    {
-     "titel": "How the rejection of Trump produced a biblical downpour on Republicans",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdDVmeWhtZjZsaE9tRXFDalVXSGlodmMtckdCUDFYQnYzcHp0b2dCemQyMUYyRHVhSkd2UmF4dTJUMTlzUXpfWjFqenhzSU5ENXFxMVo0WkZiZ2I1Qm1haVJTd19XY20tbjd3aFFacU51bl8tS0RCUEtKVzl1MDF0dw?oc=5",
      "bron": "CNN",
      "tijd": "12:00",
      "sorteer": "2026-11-08T11:00:15+00:00",
@@ -380,6 +407,15 @@
      "bron": "New York Times",
      "tijd": "11:01",
      "sorteer": "2026-11-08T10:01:51+00:00",
+     "kop": "Midterms",
+     "taal": "en"
+    },
+    {
+     "titel": "Map: How Democrats reshaped the Senate, in charts and maps",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNEQ3aEI1a1ZDS2xIU3BqTGREUGRmNzRlajVBcE0zU1FzYko0Wk1KYVlqSXZTRXduS0pYQk83VlRhRzZ3akhoWmVMYVd0NHpoTW1taGRUbElsZ1pPVlRSQmRTOUw1em44TUdic3M4ZllBLVdkaVotUVBFU0lrdDd4Zw?oc=5",
+     "bron": "CNN",
+     "tijd": "11:00",
+     "sorteer": "2026-11-08T10:00:15+00:00",
      "kop": "Midterms",
      "taal": "en"
     },
@@ -445,77 +481,25 @@
      "taal": "en"
     },
     {
-     "titel": "Judge to appoint special master to determine whether Trump lawyers purposely misled her over golf course",
-     "context": "Ana Reyes wants to know whether federal officials lied about extent of renovation plans at East Potomac golf course A federal judge said on Saturday that she intended to appoint an ex-top federal prosecutor who served during Donald Trump’s first term to investigate whether she was purposely misled by lawyers and administration officials over changes to a historic public golf course in Washington D",
+     "titel": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
+     "context": "Mr. Eisenkot, a career general and the leading rival of Prime Minister Benjamin Netanyahu of Israel, will now have up to six weeks to form a coalition.",
      "rubrieken": [
-      "Washington DC",
-      "Trump administration",
-      "Golf",
-      "US justice system",
-      "US news",
-      "Law (US)",
-      "US politics"
+      "Defense and Military Forces",
+      "Israel-Gaza War (2023- )",
+      "US and Israeli Attack on Iran (2026)",
+      "Eisenkot, Gadi",
+      "Herzog, Isaac",
+      "Netanyahu, Benjamin",
+      "Dahiya (Lebanon)",
+      "Israel",
+      "Lebanon",
+      "Politics and Government",
+      "Elections"
      ],
-     "link": "https://www.theguardian.com/us-news/2026/nov/07/trump-east-potomac-golf-course-lawsuit",
-     "bron": "The Guardian",
-     "tijd": "20:47",
-     "sorteer": "2026-11-07T19:47:10+00:00",
-     "kop": "Midterms",
-     "taal": "en",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "‘People are active, they are fed up’: young voters fueled the Democratic wave",
-     "context": "After helping Trump to victory in 2024, young voters swung decisively toward Democrats, helping deliver a wave of midterm victories The 2026 blue tsunami owes a lot to the youth vote. According to data from Tufts University’s Center for Information & Research on Civic Learning and Engagement (Circle), which monitors youth civic engagement, early estimates show the second-highest youth turnout in a",
-     "rubrieken": [
-      "US midterm elections 2026",
-      "Young people",
-      "Democrats",
-      "US news",
-      "US politics",
-      "Democratic socialism",
-      "Student politics",
-      "Students"
-     ],
-     "link": "https://www.theguardian.com/us-news/2026/nov/07/youth-vote-turnout-midterm-elections",
-     "bron": "The Guardian",
-     "tijd": "18:00",
-     "sorteer": "2026-11-07T17:00:16+00:00",
-     "kop": "Midterms",
-     "taal": "en",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "What to Know About the Mass Shooting in Krakow, Poland",
-     "context": "At least nine people were dead and at least 16 injured after shootings in Krakow and another town, the police said. The motive remains unclear.",
-     "rubrieken": [
-      "Murders, Attempted Murders and Homicides",
-      "Police",
-      "Attacks on Police",
-      "Mass Shootings",
-      "Krakow (Poland)",
-      "Poland"
-     ],
-     "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
+     "link": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
      "bron": "New York Times",
-     "tijd": "12:52",
-     "sorteer": "2026-11-08T11:52:20+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Polish prosecutors open terrorism investigation into Kraków shooting",
-     "context": "Officials say suspect holds far-right views and three people found dead at his home were his parents and sister Polish prosecutors have opened a terrorism investigation after a 24-year-old man opened fire in a busy market square in Kraków, killing six people including a Briton and injuring 17, in an attack that authorities said was probably inspired by far-right ideologies. Police confirmed on Sun",
-     "rubrieken": [
-      "Poland",
-      "Gun crime",
-      "Europe",
-      "World news"
-     ],
-     "link": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation",
-     "bron": "The Guardian",
-     "tijd": "12:50",
-     "sorteer": "2026-11-08T11:50:15+00:00",
+     "tijd": "13:33",
+     "sorteer": "2026-11-08T12:33:40+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -621,28 +605,41 @@
      "sorteer": "2026-11-08T00:23:00+00:00"
     },
     {
-     "titel": "De oliebollenbakker breidt zijn kraam uit tot oliebollenbistro",
+     "titel": "Museumplein stroomt vol met Rode Lijn-demonstranten",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/de-oliebollenbakker-breidt-zijn-kraam-uit-tot-oliebollenbistro~b858c8ab/",
+     "link": "https://www.trouw.nl/binnenland/museumplein-stroomt-vol-met-rode-lijn-demonstranten~b2c779f9/",
      "bron": "Trouw",
-     "tijd": "18:16",
-     "sorteer": "2026-11-07T17:16:00+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "tijd": "13:17",
+     "sorteer": "2026-11-08T12:17:00+00:00"
     },
     {
-     "titel": "Dagje op de latten in Oostenrijk: per Nederlandse bezoeker 254 euro per dag",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMndFdFp6d1VyeUJjZHR1T2tZQ2pTdWUwTVVRQmVnYmFmbGtLVnFTc0xEYnJ6Um9hYUw5VHN5WEFMMkgxTk5qZ0NvLUhIV25jVnQzX1lSVjJJUnpKT3VkNHgzZVB1ci1qck9kbnZDUnplZmcyUUl3SGVoVEMtWEhtZ19OeXdsWWNuSTBRMjRGOGZyMWY0RTZnN1VtYzNiYmYtdHVBdm9ZUVFpeHBnMGxYcmltSQ?oc=5",
-     "bron": "AD.nl",
-     "tijd": "12:00",
-     "sorteer": "2026-11-08T11:00:08+00:00"
-    },
-    {
-     "titel": "De omhelzing is in, de drie klapzoenen zijn passé",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWpSNDFRamxMc2xnb2ZZdmlxdnZEdmVKakZYWGlUSW5Hc0RHdVVpdmJGRTN5bWtWc2NGQ3FXUUU4bUpOc2xNelJXZFdBblUwU2lhTExENzh1ZGFUdWVFOU1JV1pTd2ltTFF3cGdLMEdNclB0aWNTUFFkWWQ1T0JCLVV3ZHJSOVRlRmVrcThwWk4?oc=5",
+     "titel": "Dinteloord ontsnapt aan explosie door illegale vuurwerkopslag: burgemeester roept inwoners op waakzaam te blijven",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR3BSX0w5YkhzSS1tbjVhVi13MDgwY2xra3RlWkUyWDB2ZTRsbUllVTZ4RGo1a1R2dlVWTFpZTHNOdWpsSE1zNDBuNkVGRVFpeXVnTENSMnFQTU51elM0SFZSVkdhVWxkNE5HeVlnRHFoOUU5MGozNVRnak44azZUSlF0M3NsOUc0NTR0NmFHMDZ5UE1uLTdpeExwZzNxNmg5Mk9pUG0xejRadU01SmpYVXpYYS13Yi0yMTNMSkRmMlZ1d1JIdlBTNkZnZGQtaU96ZWYwd1JWVy1EOVFfakF4SmJ3?oc=5",
      "bron": "Eindhovens Dagblad",
-     "tijd": "11:30",
-     "sorteer": "2026-11-08T10:30:48+00:00"
+     "tijd": "13:56",
+     "sorteer": "2026-11-08T12:56:35+00:00"
+    },
+    {
+     "titel": "Gewonde Poolse agent ‘vecht voor zijn leven’, politie bevestigt dat schutter zijn ouders en zus doodschoot",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaDNTYm5kQ1FRMlF5cHAxSnowT2s0TTFISFJFLUU2dVU1TzFPOWtPdnVPVHMtSnFIZUFyRUJMRUxMMlVUU2tIN3hWU0pwUmZ2SjFRa1NuNTRIWVVoaUYteHRxLU9WRlk5cUZKWGlpYXFoLWRqUVdrU0JpNmZBZEY5YlN1X0RLSk9iN1cwSE9QQkdldnphMEhyQ2Vuakk0OGZ0ZUg0VnpPQkJ4RmM0ck5WaVNLZ3BPU0FQX3VmdmtKSmNKaHljYnBKN09WQnQ3VjVoUVZBbnA5V2w3LVU3c0loQjNJOA?oc=5",
+     "bron": "NRC",
+     "tijd": "13:46",
+     "sorteer": "2026-11-08T12:46:59+00:00"
+    },
+    {
+     "titel": "President van Paraguay krijgt na bankval de rekening gepresenteerd, wordt onder huisarrest geplaatst",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV2VEdGlOYzhWU0ROZnpya1dpei1XU1J5TzVCVDVINXFwV1UzNnd1SEtDM18tOS1VQl9hajB1UHZBUmdKNmk3T3pxcGJjc2VSbG5BS3VfRUR0aHVnVnhGRmlfSjlCU0hqeTVoOTNFVlRKX3YwdGJkVG16N09kbExoOGRIOGtHdTBmblc1Q3J1VGVKeWFlU3VxMFVnd0pCWDROMVVnV1JZRWY3NHNSdS1Lam13eHF3NzdtbDNGQWlZS1BoV2VQMThiOVZUMUVaWkh4UUdDekVOY2E3azY3cFJla2Y2SQ?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "13:02",
+     "sorteer": "2026-11-08T12:02:42+00:00"
+    },
+    {
+     "titel": "Oud-inwoners van drie verdwenen dorpen in Groningen voelen dezelfde pijn als Moerdijkers: ‘Emotionele schade is onbetaalbaar’",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWVBtOXBnU3VRMUNMbXI4bVJ3NHJTTW5OWG9zNDdGMTRoT3dNWEFQTnVRc1BJbUpmbm9NN3h4eHBaajlLOWtkOHVpZEhrbHFUdFpLanVLeDZBVW1xNWFmd1ZfaWRkWS1nNFQ3Sm1iNHp1UzJ3MmNELTFWWldaUEprSy1sWHFBakI2c01FMVE5eHhEVEk0bWRyUWVFVW0xRG94RzRZak9yelVFb3hCM1pxSmsyMUpqVTNBcXl0ZUJfQjRCQmNDN3ByOTd6TXBIa2ZfTmFsdFd6S1hxWnFPQUZMZEU3MjBCa0xVbS0xSFhNQXRVOGM?oc=5",
+     "bron": "AD.nl",
+     "tijd": "13:34",
+     "sorteer": "2026-11-08T12:34:23+00:00"
     },
     {
      "titel": "Nieuwsuur: De toekomst van het minderheidskabinet • Hybride oorlog • Bruggen mogelijk langer mee",
@@ -723,6 +720,19 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Nog even kilometers maken voordat de winter toeslaat",
+     "context": "NIEUWLEUSEN – Nu de dagen korter worden en de winter dichterbij komt, is het fijn om nog even op de fiets te stappen. Gisteren maakte ik samen met mijn zus een mooie tocht van 65 kilometer. Want samen fietsen is altijd gezelliger! Vanuit Nieuwleusen fietsten we eerst naar Dedemsvaart om boodschappen te doen. Daarna maakten […]",
+     "rubrieken": [
+      "Ingezonden bericht",
+      "Laatste nieuws",
+      "Nieuwleusen"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/556178/nog-even-kilometers-maken-voordat-de-winter-toeslaat.html",
+     "bron": "DalfsenNet",
+     "tijd": "13:46",
+     "sorteer": "2026-11-08T12:46:58+00:00"
+    },
+    {
      "titel": "Gewoon Nederpop in de Trefkoele+ Eén avond vol nostalgie en non-stop feest",
      "context": "DALFSEN – Op zaterdagavond 14 november is het Gewoon Nederpop met: Gewoon De Dijk – Gewoon Doe Maar – Gewoon André in Trefkoele+. Drie iconen van de Nederlandse popmuziek in Dalfsen. Eén avond lang non-stop feest. GEWOON NEDERPOP brengt het allerbeste van de Nederpop samen in één ijzersterk programma. We bouwen Trefkoele+ weer om tot […]",
      "rubrieken": [
@@ -734,20 +744,6 @@
      "bron": "DalfsenNet",
      "tijd": "10:35",
      "sorteer": "2026-11-08T09:35:34+00:00"
-    },
-    {
-     "titel": "Powerbank gevonden",
-     "context": "VILSTEREN – Powerbank gevonden, is blijven liggen in de buurtbus Vilsteren. Af te halen bij Ron Feijen na telefonische afspraak. Tel. : 06 – 120 909 50",
-     "rubrieken": [
-      "Ingezonden bericht",
-      "Kwiet en weer terechte",
-      "Laatste nieuws",
-      "Vilsteren"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/556164/powerback-gevonden.html",
-     "bron": "DalfsenNet",
-     "tijd": "23:09",
-     "sorteer": "2026-11-07T22:09:00+00:00"
     }
    ]
   },
@@ -967,15 +963,15 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "13:00",
+    "bijgewerkt": "14:00",
     "voetbal": {
      "uitslagen": [
       {
        "thuis": "Heerenveen",
        "uit": "Feyenoord",
-       "score": "0 - 2",
+       "score": "3 - 3",
        "wanneer": "vandaag 12:15",
-       "bezig": "44'",
+       "bezig": "83'",
        "eigen": false
       },
       {
@@ -1353,18 +1349,18 @@
      "sorteer": "2026-11-08T11:00:00+00:00"
     },
     {
+     "titel": "Jagen alleen voor mannen? Vrouwelijke bonobo’s bewijzen het tegendeel",
+     "toelichting": "Het idee dat jagen een mannending is, wordt steeds meer verleden tijd. Vakblad Current Biology onderzocht namelijk het jaaggedrag van bonobo’s, een aapsoort die qua genen zeer verwant is aan de mens. Wat bleek? Vrouwelij",
+     "bron": "Scientias",
+     "tijd": "13:00",
+     "link": "https://scientias.nl/jagen-alleen-voor-mannen-vrouwelijke-bonobos-bewijzen-het-tegendeel/"
+    },
+    {
      "titel": "Dit vaccin zou vogelgriep telkens een stap voor zijn, zelfs nieuwe varianten",
      "toelichting": "Britse onderzoekers hebben met behulp van computermodellen een vaccin tegen vogelgriep ontworpen dat bij dieren bredere bescherming zou bieden dan de vaccins die overheden momenteel in voorraad hebben. Muizen waren volle",
      "bron": "Scientias",
      "tijd": "11:01",
      "link": "https://scientias.nl/dit-vaccin-zou-vogelgriep-telkens-een-stap-voor-zijn-zelfs-nieuwe-varianten/"
-    },
-    {
-     "titel": "Kraaien kunnen supersnel een keuze maken: vergelijkbare reactietijd als mensen",
-     "toelichting": "Nieuw onderzoek wijst uit dat kraaien supersnel een beslissing kunnen maken. De vogels doen er maar liefst iets meer dan twee seconden over om te observeren en een keuze te maken. Vogels werden vroeger voornamelijk gezie",
-     "bron": "Scientias",
-     "tijd": "13:00",
-     "link": "https://scientias.nl/kraaien-kunnen-supersnel-een-keuze-maken-vergelijkbare-reactietijd-als-mensen/"
     },
     {
      "titel": "These divers are killing a beautiful coral to save Brazil’s marine life",
@@ -1389,6 +1385,14 @@
    "titel": "Vogels",
    "emoji": "🐦",
    "items": [
+    {
+     "titel": "Woestijntapuit",
+     "kop": "Zeldzaamheden",
+     "bron": "Friesland",
+     "tijd": "13:17",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-08T13:17:00+01:00"
+    },
     {
      "titel": "Pallas' Boszanger",
      "kop": "Zeldzaamheden",
@@ -1514,7 +1518,7 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Vlakbij: 4 plekken binnen 25 km",
+     "titel": "Vlakbij: 5 plekken binnen 25 km",
      "bron": "Zwolle - Molenpolder, 10 km van Dalfsen (2026-11-05)",
      "tijd": "12:38",
      "link": "https://waarneming.nl/species/306/observations/",
@@ -1522,15 +1526,15 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 76 plekken in de afgelopen week, waarvan 3 vandaag",
+     "titel": "Invasiejaar — op 79 plekken in de afgelopen week, waarvan 6 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 138 vogels; 211 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 142 vogels; 215 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
-     "titel": "8 plekken binnen 75 km van Dalfsen",
+     "titel": "10 plekken binnen 75 km van Dalfsen",
      "bron": "dichtstbij: Zwolle - Molenpolder, 10 km (2026-11-05)",
      "tijd": "12:38",
      "link": "https://waarneming.nl/species/306/observations/"
@@ -1568,19 +1572,19 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 9.6,
-    "gevoel": 8.2,
+    "nu": 9.9,
+    "gevoel": 8.6,
     "wind": "ZZW 2",
     "station": "Heino",
     "bericht": "Vanmiddag zien we vanuit het zuiden steeds vaker de zon tevoorschijn komen. Morgen en dinsdag is het rustig en overwegend droog, met kans op mist in de nacht en ochtend. De meeste zon zien we op maandag.Vanmiddag breekt soms de zon door en in het noordwesten enkele buien, langs de kust mogelijk met een donderklap.",
     "vandaag": "Vanmiddag zien we vanuit het zuiden steeds vaker de zon tevoorschijn komen. Vanmiddag breekt soms de zon door en in het noordwesten enkele buien, langs de kust mogelijk met een donderklap.",
     "temperatuur": "De maximumtemperatuur komt uit op zo'n 10 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: 3 tot 9 graden, 16% kans op neerslag, weinig zon, wind uit het zuiden, kracht 2.",
-     "max": 9,
+     "zin": "Voor Dalfsen zelf: 3 tot 11 graden, 16% kans op neerslag, ruim 4 uur zon, wind uit het zuiden, kracht 3.",
+     "max": 11,
      "min": 3,
      "regenkans": 16,
-     "omschrijving": "lichte motregen"
+     "omschrijving": "mistig"
     },
     "vooruit": "Eerst vrijwel droog en af en toe zon. In de nacht en ochtend dan kans op (dichte) mist die dinsdag overdag mogelijk hardnekkig kan zijn. Woensdag en donderdag tijdelijk wisselvallig met af en toe regen, daarna keert het overwegend droge weerbeeld terug en laat de zon zich steeds vaker zien.",
     "omslag": "Vanaf woensdag 5 graden warmer, een graad of 12.",
