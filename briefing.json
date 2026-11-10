@@ -3,16 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "05:55",
+  "opgehaald": "07:00",
   "blokken": 11,
-  "berichten": 88,
-  "problemen": [
-   "geen toegang tot /Users/thuismap/Library/Mobile Documents/com~apple~CloudDocs/Ochtendbriefing — overgeslagen"
-  ],
-  "audio_herkomst": "model",
-  "audio_aangehaakt": "06:50"
+  "berichten": 84,
+  "problemen": [],
+  "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-10T05:55+01:00",
+ "opgehaald": "2026-11-10T07:00+01:00",
  "audio": "audio/20261110.mp3",
  "afval": [
   {
@@ -203,6 +200,24 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "'Vliegtuigen VS weg van tweede Britse basis om dreiging Iran'",
+     "context": "De VS haalt vliegtuigen weg van een tweede Britse luchtmachtbasis, schrijft The Wall Street Journal. Bronnen zeggen tegen de Amerikaanse krant dat de beslissing is genomen vanwege de dreiging van Iran. Het gaat om de RAF-basis Mildenhall, in de buurt van Cambridge. Tankvliegtuigen die daar gestationeerd zijn, worden weggehaald. Twee zullen vanmorgen al vertrekken naar bases in Duitsland, andere vo",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638811",
+     "bron": "NOS",
+     "tijd": "06:51",
+     "sorteer": "2026-11-10T06:51:24+01:00"
+    },
+    {
+     "titel": "Wekdienst 10/11: Onderhandelingen in Abu Dhabi • Kamer discussieert over belastingplan",
+     "context": "Goedemorgen! In Abu Dhabi spreken gezanten uit de VS, Rusland en Oekraïne vandaag en morgen over een einde aan de oorlog in Oekraïne. En de Tweede Kamer buigt zich opnieuw over het belastingplan, daar is nog steeds geen meerderheid voor. Eerst het weer: Vanochtend komt op veel plaatsen (dichte) mist en lage bewolking voor die vanaf eind van de ochtend vanuit het zuiden langzaam oplost, waarna de z",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638810",
+     "bron": "NOS",
+     "tijd": "06:39",
+     "sorteer": "2026-11-10T06:39:05+01:00"
+    },
+    {
      "titel": "Kiezers Californië stemmen tegen eenmalige vermogensbelasting voor miljardairs",
      "context": "Californië krijgt niet als eerste Amerikaanse staat een eenmalige belasting voor miljardairs. Kiezers hebben bij een referendum het voorstel verworpen om 5 procent van het nettovermogen van superrijken te belasten. De tegenstanders van 'Proposition 40' voerden flink campagne. Ze haalden in totaal 333 miljoen dollar op, tien keer zoveel geld als de voorstanders. Vooral techmiljardairs trokken de po",
      "rubrieken": [],
@@ -230,32 +245,13 @@
      "sorteer": "2026-11-10T02:00:15+01:00"
     },
     {
-     "titel": "Republikein dient voorstel in voor afzetten Amerikaanse defensieminister Hegseth",
-     "context": "Het Republikeinse congreslid Thomas Massie wil de Amerikaanse minister van Defensie Pete Hegseth afzetten. Hij had al aangekondigd een impeachment-procedure te willen starten tegen een van de meest prominente mensen in de regering-Trump. Of het voorstel ook gaat leiden tot het vertrek van Hegseth, is nog maar de vraag. Massie las zijn resolutie voor in het Huis van Afgevaardigden, waar voor het ee",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638802",
-     "bron": "NOS",
-     "tijd": "01:46",
-     "sorteer": "2026-11-10T01:46:18+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Vermist meisje (13) uit Berlijn dood gevonden in huis naast zwaargewonde 22-jarige man",
-     "context": "Een 13-jarig meisje uit Berlijn dat sinds vorige week dinsdag werd vermist, is gisteren dood gevonden in een leegstaand huis in het dorpje Altglietzen, dicht bij de grens met Polen. De politie trof daar ook een zwaargewonde 22-jarige man aan. Hij is in kritieke toestand naar het ziekenhuis gebracht en wordt daar bewaakt door de politie. De politie in Berlijn zegt ervan uit te gaan dat de man veran",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638794",
-     "bron": "NOS",
-     "tijd": "23:01",
-     "sorteer": "2026-11-09T23:01:40+01:00"
-    },
-    {
      "titel": "Nvidia en topman Huang aangeklaagd in verband met spionagezaak, Trump neemt het voor hem op",
      "context": "",
      "rubrieken": [],
      "link": "https://www.volkskrant.nl/buitenland/nvidia-en-topman-huang-aangeklaagd-in-verband-met-spionagezaak-trump-neemt-het-voor-hem-op~badee4af/",
      "bron": "de Volkskrant",
      "tijd": "01:27",
-     "sorteer": "2026-11-10T00:27:46+00:00"
+     "sorteer": "2026-11-10T00:27:00+00:00"
     },
     {
      "titel": "Vietnam profiteert van windenergie uit buurland Laos. ‘De twee landen zijn als broers, ze helpen elkaar’",
@@ -268,86 +264,90 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Hooggerechtshof VS: de bouw van een grensmuur door Texaans natuurpark mag doorgaan",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVVB1elFTeUVCZTZTTzlKdU8zMWJYZzJab3ZYZWZqZTgwWHVJYklRUWFDR0hPRlAxRGR1MEczZUY4SmZsSFRpbmJCSGJKOXF5Q3Exb1B2UkMtb0FpWUotTHc0eGwtSFQyeGJPdTdTRzM1QWNabUxiZjduNE5tdUVEV1hFZ0ctaHBTeTBDeHhyTWNyX0FkQ1VMOFRIS1hEZFNYazFXYUZOcTZvRXQ5VFNn?oc=5",
+     "titel": "7 op de 10 Nederlanders weten niet hoeveel werkgever inlegt voor pensioen",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR1BoSG04TVY4RHhsX0NGb2Jkcy1tMW9rbmtKZGZ5NVhFbjB5TGNPTk0zY1BkVUdsMTZmdHZ5SjE3cWRYQlpBTGN3VzViQ1BpQ3ZWbzc4RndtNVhnVzJ4dlNRWmVoQlBUamFwTmk2YmNqSWM4Zkp6RHFyXzRsVHRZZEpZM2EwUjBIWlItXzZnSy1VVlZOSlZGanJYNWlna2JSeUptX1ZiNm8zUngy?oc=5",
      "bron": "RTL.nl",
-     "tijd": "04:29",
-     "sorteer": "2026-11-10T03:29:00+00:00"
+     "tijd": "06:20",
+     "sorteer": "2026-11-10T05:20:28+00:00"
     },
     {
-     "titel": "Aigner und die ganz große Koalition",
-     "context": "Präsentiert von YouTube.",
+     "titel": "The Nvidia Affair",
+     "context": "An illicit relationship between the C.E.O. and an alleged Chinese spy is putting the spotlight on a murky ecosystem of companies smuggling A.I. chips into China.",
      "rubrieken": [
-      "Defense",
-      "Der Podcast",
-      "European Defense",
-      "Foreign policy",
-      "German politics",
-      "Governance",
-      "Middle East",
-      "Playbook",
-      "Polish Politics",
-      "Playbook",
-      "Politics"
+      "internal-open-access-from-nl",
+      "Huang, Jen-Hsun",
+      "NVIDIA Corporation",
+      "China",
+      "Megaspeed International Pte Ltd",
+      "Embargoes and Sanctions",
+      "Computer Chips",
+      "Singapore",
+      "Brand, Russell"
      ],
-     "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/aigner-und-die-ganz-grose-koalition/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "05:30",
-     "sorteer": "2026-11-10T04:30:00+00:00",
+     "link": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
+     "bron": "New York Times",
+     "tijd": "06:43",
+     "sorteer": "2026-11-10T05:43:35+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Polish unity on show in silent march to honour Krakow shooting victims",
+     "context": "Fiercely proud of its reputation for safety, Poland has been profoundly shaken by Saturday's attack, writes Sarah Rainsford.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "06:38",
+     "sorteer": "2026-11-10T05:38:53+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
      "titel": "Trump says more US attacks on Iran 'highly unlikely'",
-     "context": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation in the Middle East change.",
+     "context": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "05:09",
-     "sorteer": "2026-11-10T04:09:16+00:00",
+     "tijd": "06:33",
+     "sorteer": "2026-11-10T05:33:25+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
-     "context": "China’s factories are finding eager buyers worldwide, but the export boom is raising concerns about its impact on trading partner nations.",
+     "titel": "Beau Lamarre-Condon admits entering Jesse Baird’s house when he wasn’t home and eating Easter egg, murder trial hears",
+     "context": "Former police officer tells jury he joked about being ‘white girl crazy’ with friends as lawyer questions him about start of relationship with TV presenter Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has denied misusing his authority as a police officer to access CCTV footage of Jesse Baird or stalking him after their breakup, a court has heard. But he admitted",
      "rubrieken": [
-      "China",
-      "International Trade and World Market",
-      "Factories and Manufacturing",
-      "Currency",
-      "Supply Chain"
+      "Sydney",
+      "New South Wales",
+      "Australia news"
      ],
-     "link": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
-     "bron": "New York Times",
-     "tijd": "05:00",
-     "sorteer": "2026-11-10T04:00:06+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-     "context": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "04:58",
-     "sorteer": "2026-11-10T03:58:13+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
-     "context": "Tasmanian premier leads tributes for Russell, who earlier this month returned home to ‘see out his days’ Get our breaking news email , free app or daily news podcast Beaconsfield mine collapse survivor Todd Russell has died aged 54 after recently announcing deteriorating health. The Tasmanian premier, Jeremy Rockliff, led the tributes on Tuesday morning, saying his thoughts were with Russell’s lov",
-     "rubrieken": [
-      "Tasmania",
-      "Australia news",
-      "Mining"
-     ],
-     "link": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
      "bron": "The Guardian",
-     "tijd": "04:47",
-     "sorteer": "2026-11-10T03:47:33+00:00",
+     "tijd": "06:28",
+     "sorteer": "2026-11-10T05:28:25+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Can the EU’s climate strategy survive election season?",
+     "context": "The EU wants to be a heavyweight at U.N. climate summits. But upcoming elections across the bloc could upend those efforts. As COP31 kicks off this week, Zoya Sheftalovich and Ian Wishart discuss how the populist surge across the continent could undermine the EU’s efforts to take a stronger leadership role in climate talks like […]",
+     "rubrieken": [
+      "Brussels Playbook Podcast",
+      "Climate change",
+      "Climate diplomacy",
+      "COP31",
+      "Electricity",
+      "European politics",
+      "Grains",
+      "Negotiations",
+      "War in Ukraine",
+      "Foreign Affairs",
+      "Politics"
+     ],
+     "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/can-the-eus-climate-strategy-survive-election-season/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "06:05",
+     "sorteer": "2026-11-10T05:05:00+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -358,6 +358,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Dichte mist in bijna heel het land",
+     "context": "In een groot deel van het land moet het verkeer rekening houden met dichte mist. Op veel plekken is het zicht minder dan 200 meter, waarschuwt het KNMI. Het weerinstituut heeft tot 12.00 uur code geel uitgegeven. Die waarschuwing geldt voor het hele land, met uitzondering van de Waddeneilanden, Zeeland en Zuid-Limburg. Het KNMI adviseert weggebruikers langzamer te rijden, een grote afstand tot and",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638809",
+     "bron": "NOS",
+     "tijd": "06:26",
+     "sorteer": "2026-11-10T06:26:45+01:00"
+    },
     {
      "titel": "Inwoonster Baarle-Hertog mishandeld na aanspreken van jongen op afsteken van vuurwerk",
      "context": "In de Belgische gemeente Baarle-Hertog is een vrouw zaterdag ernstig mishandeld nadat ze een jongen had aangesproken op het afsteken van vuurwerk. De vader van de jongen was het daar niet mee eens, schrijft ze op Facebook . Hij zou haar tot twee keer toe tegen de grond hebben geslagen en tegen het hoofd hebben geschopt. \"Volgens de artsen in het ziekenhuis ben ik goed weggekomen met slechts uitwen",
@@ -386,26 +395,6 @@
      "bron": "NOS",
      "tijd": "19:27",
      "sorteer": "2026-11-09T19:27:20+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Politieke boodschap bij Kristallnachtherdenking: 'Rode Lijn-protest is anti-Israël'",
-     "context": "In Amsterdam is de Kristallnacht herdacht, vandaag 88 jaar geleden. De voorzitter van het Centraal Joods Overleg (CJO), Chanan Hertzberger, koos in zijn toespraak voor een opmerkelijk politieke boodschap. Hij trok een direct verband met de Rode Lijn-demonstratie van gisteren. Hertzberger bedankte Jetten dat hij niet is ingegaan \"op de eisen van de organisatoren van de anti-Israël-demonstratie\". Op",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638768",
-     "bron": "NOS",
-     "tijd": "19:00",
-     "sorteer": "2026-11-09T19:00:41+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Sinterklaasjournaal houdt het spannend, opvolger van De Walle nog onduidelijk",
-     "context": "In de eerste aflevering van Het Sinterklaasjournaal is nog niet duidelijk geworden wie zich voortaan ontfermt over het Grote Boek. Afgelopen september werd bekend dat Stefan de Walle na vijftien jaar de rode mantel aan de wilgen zou hangen. Omroep NTR hulde zich in stilzwijgen over zijn opvolger. Nog steeds is dat een raadsel. Hoofdpiet liet in de eerste aflevering aan presentator Merel Westrik de",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638762",
-     "bron": "NOS",
-     "tijd": "18:36",
-     "sorteer": "2026-11-09T18:36:08+01:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -439,25 +428,11 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Files verminderen door carpoolen: waarom samen rijden helpt",
-     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPajNqM0k0MHNxc2k2dzhvUmZXaXJUaVgtVF9lLUZKYmFRSzE3R3lXd3ZaLTJRMTc2R3JNV0JuMUZfR3lDRVUzRHEtNXJoZjRtWFFFQmp6aF9zRGFQY1U0ajEwM1hmSHBvS29fb2ZGb0xlRUp2alZIMWYyM05fX3J5VXc5bURlUjk4X0dzRzdwMWlqSERZaEVSaGZTRnpWM3cyd2RlbXc5VlNTakJCeGI1RDJfbjVrRC1BY1VDTGw2eFJ6MC1YRUloZ184X0FNbFBIQzRVd3Y0ZHNNTm1sYXpFdXlPVzlIVDJ5OHVON3V0NWVYNkJKRWcyRQ?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "05:24",
-     "sorteer": "2026-11-10T04:24:24+00:00"
-    },
-    {
-     "titel": "Meerdere tips over Bolle Jos na beloning van 2 miljoen euro",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYkMwcHZRenJRZmo5UlJBTV9hUFJ4RVJlVjUxNk9wRzQxeGdMWTU0LUhiYVk1MnhFZUtOZVBOU0NtUVpLVk5tUzBUYmZqS3VZdjdwZXlJbERKc09qTXF2OVJnVnd2QXB6cEpyXzUxMHQ1Y2hab2p4Tm9CWEpVOVhtX044djF2RHU5T1NkR1ZnUGNGM1JvR2NKdlBtSmFlZnB3bjBzS19GQ2RtWGhUNWtj?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "04:43",
-     "sorteer": "2026-11-10T03:43:28+00:00"
-    },
-    {
      "titel": "Korpschef Janny Knol ziet geen link tussen racisme en fataal politiegeweld: ’Daar neem ik afstand van’",
      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTjUwRzEybEtwa3ZSdWZtYWt3bGFycHlERGZQRElWS3RrcHU2T2poZmZaTzV3eDQxaEppM1U5SDcyODh2RW5ZUWcxVDMwSjI4bl9obmNPM2NhTFdBaTRhM3lvaUk0ZHhqRkpld0p5aEowOHdGYXFDRlM4UEFZVFZqREVWTnZ0ZTh3eGxLeVJkRlRiLWg1bTdjNzdtX0xqVk9xZnhoQnViUVN3UHoxRVdiV2tRbWh6ejlXYVhlanZnbEdnY1BaTTFmTlhzM1NodWg3UkliY1dKSmtFUlhzWVR2ZDJyc1o?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "04:41",
-     "sorteer": "2026-11-10T03:41:58+00:00"
+     "tijd": "06:39",
+     "sorteer": "2026-11-10T05:39:50+00:00"
     },
     {
      "titel": "Man met antisemitisch bord duikt op bij Rode Lijn-demonstratie, blijft wéér uit handen van politie",
@@ -465,6 +440,20 @@
      "bron": "De Telegraaf",
      "tijd": "04:15",
      "sorteer": "2026-11-10T03:15:00+00:00"
+    },
+    {
+     "titel": "Hoge politie­ambtenaren willen geen meetbare doelen",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUGRyQWhFb0E5emZOU2lFSDhRN3VveGpQaXVUM19QbFRSbDlRQ21rNDA3Rm1ScGZWbVFaaFhjVGtXZjIzSS15M25oMGJvSkttcDFKN3k5SWNyc04teTRYczRqVzdfdEcycVo5N3l2ZmhwMTVVeU10emFEa1hTTWNHR0ROeVE0UlU?oc=5",
+     "bron": "Follow the Money",
+     "tijd": "06:00",
+     "sorteer": "2026-11-10T05:00:00+00:00"
+    },
+    {
+     "titel": "Een landschap van angst voor mensen die willen demonstreren tegen Israëls staatsterreur",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOUZzYWNvcVg5c0RjMGdfQWcycjMwNi1McGlQYkY1X1FWVFI0dUtYMldMbUs2ZjJuVGxOb1hlVlpwUDhQNzlZelhvZWNJeElsUURCeHhFa29KTk1CNkFfN3BxYS1WZWpnbzVuS3VGUWx1LUFyYU9qc3hUSVFXOUJUSnE2aU5IZVlOVjhuNTViT2tGRzBHY2xCSEk4S1pPVHUxWWRTOUxsel9JSFRkaTJLTHFRRjlUdk12SGtZVTZXU2lrQXhTZFlWcnhpLWJSOEF2TEs0UHM0TU56UQ?oc=5",
+     "bron": "de Volkskrant",
+     "tijd": "05:00",
+     "sorteer": "2026-11-10T04:00:31+00:00"
     },
     {
      "titel": "In hun onderhandelingen over ‘vrede’ in Oekraïne kunnen Trump en Poetin niet om Europa heen",
@@ -481,29 +470,19 @@
      "sorteer": "2026-11-10T04:45:04+00:00"
     },
     {
+     "titel": "Californië verwerpt unieke vermogensbelasting miljardairs",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObmllTl9lbkg2bjZPclB3cWRzTm5ValZkV0cxU1hqSzlycUdad2NuSVR6dVdtUnlhXzJRRWZHZm80WGRvQ09panhqbnQ3ajNWVmdRN1V4TkZVV0NaUHMwUy1rWlNhaG5iMklqSE5fNFF0RjV4ZFpKbEF5OUc4ZXhuMFhrM0N4S19fOVpmVGl6S0c1OTUza3VfLTc4a2loekxuOWZieGFPWGYtRGs?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "06:28",
+     "sorteer": "2026-11-10T05:28:45+00:00",
+     "kop": "Begroting"
+    },
+    {
      "titel": "Jetten slaat klimaattop over vanwege begrotingsgedoe",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTC00MHVHMDJGTV9KR3ZkWldiRmxjQ1NIdTQzVEk4WG14Mms3ZEVTcmZNb1BSbm5GbWNKak9Kb25na3F3dHFwS21fQVNQUEJNQzVDckdya19wUGxNSGN0OVlzQUVQOG44QUlmaXBJdmk1ZkQzVWFfV2J2V3hhQ25ybmhnZmtrVUlYS1pGdnpSaHVCVFU1dUF4akhIamhrY1VtZFNJ?oc=5",
      "bron": "De Telegraaf",
      "tijd": "23:41",
      "sorteer": "2026-11-09T22:41:23+00:00",
-     "kop": "Begroting",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Politieke spanning in Albrandswaard loopt nu al flink op: begrotingsdebat onverwacht geblokkeerd",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUmRGUTFSRU5ybXVoai11ZmZ6Z1k0Z2JBTGFTWmNvQTVfMDdRNnZ3dTRweXY4UnFfYWdEb3lOaGhUZ0hYWmFjTi0wUFU5Zk9YSU9SaHpBMDBXdjMzVnFOVi16SWRieURURnVkWklsVjU1OEdtN3RYZ2xIbzZ0S2pnR05NNlFua0RUZWFJQXhBVjBnYnVNaGlhS1FBcXdjbkNQNmhSRzNkdkcwMHlOMVRDUWRhUFJLbHdHYTVpZ0drQVplY2VUS1NHMG1tQXluRUlBdjdn?oc=5",
-     "bron": "AD.nl",
-     "tijd": "22:28",
-     "sorteer": "2026-11-09T21:28:00+00:00",
-     "kop": "Begroting",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "VVD’er Van Eijk trekt rode lijn in debat belastingplan én is bereid tot compromis",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONjVXb3JUTUZuQVRTbTBNWlAxekFJbENuSkF4WDZpT2drT3VMYjhiMGh6OHlCR0w5U19xQmhEZGRtZGJ1XzBYWC1PYUhKR1RZMHRXbTg4cnZEQWxNblRPN2RPMzYwVHJJSTcxVUQxdWVoZE54S2Q5Q0dHWDItWklFanhONUZaaWNQaTZpRG02UmFNbndLcHhoVEhOaE1EZl8tY0hQM2VMMGlCM2s?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "22:18",
-     "sorteer": "2026-11-09T21:18:28+00:00",
      "kop": "Begroting",
      "vervolg": "stond gisteren ook in de briefing"
     },
@@ -542,6 +521,33 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Zwolse uitvinder bedenkt warmtebatterij die problemen stroomnet kan oplossen",
+     "context": "Als een Zwolse Willie Wortel is Hans Wolters al decennialang bezig met het bedenken en maken van diverse oplossingen. Met de Powerstove denkt hij nu een oplossing te hebben voor het overvolle stroomnet. Het apparaat kan zoveel stroom opslaan dat 275 huizen een jaar lang stroom hebben. \"Je moet het zien als het kolenhok van vroeger.\"",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3699165/zwolse-uitvinder-bedenkt-warmtebatterij-die-problemen-stroomnet-kan-oplossen",
+     "bron": "RTV Oost",
+     "tijd": "06:01",
+     "sorteer": "2026-11-10T05:01:54+00:00"
+    },
+    {
+     "titel": "Gescheperde schaapskuddes slaken noodkreet: 'Toekomst staat op het spel'",
+     "context": "Honderden schapen die grazend door de weide lopen: het is voor veel velen niet alleen een prachtig beeld; het is ook belangrijk voor het onderhoud van de natuur in Overijssel. Maar de toekomst van de gescheperde schaapskuddes staat op het spel, schrijven ze zelf in een noodkreet. \"We zijn kwetsbaar.\"",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3716926/gescheperde-schaapskuddes-slaken-noodkreet-toekomst-staat-op-het-spel",
+     "bron": "RTV Oost",
+     "tijd": "05:02",
+     "sorteer": "2026-11-10T04:02:17+00:00"
+    },
+    {
+     "titel": "Kinderen in actie voor behoud Zwolse jeugdtuinen: ‘Laat ze groeien, niet verdwijnen’",
+     "context": "Ruim honderd kinderen, ouders en vrijwilligers hebben vanavond in de Zwolse raadszaal geprotesteerd tegen de dreigende sluiting van de drie jeugdtuinen in de stad. Gewapend met protestborden, bloemen uit de pluktuinen en grote spruitjesstronken riepen ze de gemeenteraad op de tuinen te behouden.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3717074/kinderen-in-actie-voor-behoud-zwolse-jeugdtuinen-laat-ze-groeien-niet-verdwijnen",
+     "bron": "RTV Oost",
+     "tijd": "21:42",
+     "sorteer": "2026-11-09T20:42:48+00:00"
+    },
+    {
      "titel": "Vaten met onbekende stof aangetroffen op picknickplaats in Hoge Hexel",
      "context": "Een buurtbewoner heeft maandagavond meerdere vaten gevonden op een picknickplaats aan de Veltkampszijweg in Hoge Hexel. De politie en brandweer onderzochten de vaten. Het is nog onbekend welke stof erin zit.",
      "rubrieken": [],
@@ -549,6 +555,16 @@
      "bron": "RTV Oost",
      "tijd": "21:31",
      "sorteer": "2026-11-09T20:31:58+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "'Lastige' Enschedeër vecht verwijdering uit adviescommissie aan",
+     "context": "Enschedeër Tim Huinink is onterecht uit de Adviescommissie Toegankelijkheid gezet door het gemeentebestuur van Enschede, zegt hij. Huinink hoeft zijn plek in de commissie niet terug, maar hij wil wel genoegdoening. De Enschedeër is naar de Raad van State gestapt.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3717003/lastige-enschedeer-vecht-verwijdering-uit-adviescommissie-aan",
+     "bron": "RTV Oost",
+     "tijd": "21:02",
+     "sorteer": "2026-11-09T20:02:37+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -560,45 +576,6 @@
      "tijd": "20:01",
      "sorteer": "2026-11-09T19:01:26+00:00",
      "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Jelle onderzoekt doorbloeding borsten dankzij bijzonder ontwikkeltraject",
-     "context": "Minimaal één keer per week staat Jelle Steentjes in de operatiekamer. Niet om zelf te opereren, maar om onderzoek te doen. Hiermee hoopt hij complicaties bij borstreconstructies te voorkomen. Hij krijgt deze kans dankzij een bijzonder ontwikkeltraject voor jonge onderzoekers.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3710994/jelle-onderzoekt-doorbloeding-borsten-dankzij-bijzonder-ontwikkeltraject",
-     "bron": "RTV Oost",
-     "tijd": "18:56",
-     "sorteer": "2026-11-09T17:56:19+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Waterschap stelt schoonmaak en controle van sloten uit door extreem droge zomer",
-     "context": "Waterschap Drents Overijsselse Delta stelt de deadline voor de najaarsschoonmaak van sloten uit tot 1 januari 2027. De reden hiervoor is de extreme droogte van afgelopen zomer. De controle die hierop volgt is ook uitgesteld. Normaal gesproken is deze controle al in de herfst.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3716980/waterschap-stelt-schoonmaak-en-controle-van-sloten-uit-door-extreem-droge-zomer",
-     "bron": "RTV Oost",
-     "tijd": "17:01",
-     "sorteer": "2026-11-09T16:01:50+00:00"
-    },
-    {
-     "titel": "Na halfjaar onderzoek heeft provincie oplossing voor gladde fietstunnels: afstappen",
-     "context": "Gladheid, water op het fietspad en onoverzichtelijke bochten: fietsers voelen zich niet veilig in de tunnels onder de N340 bij Oudleusen. Gemeente en provincie hebben maatregelen aangekondigd, maar die zijn niet op tijd klaar voor de winter. En dus moeten fietsers maar afstappen als het glad is.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3716778/na-halfjaar-onderzoek-heeft-provincie-oplossing-voor-gladde-fietstunnels-afstappen",
-     "bron": "RTV Oost",
-     "tijd": "16:26",
-     "sorteer": "2026-11-09T15:26:05+00:00"
-    },
-    {
-     "titel": "Gewapende overval in Deventer, slachtoffer moest telefoon afgeven",
-     "context": "In Deventer is zaterdagavond een 18-jarige man onder bedreiging van een wapen beroofd. Dat gebeurde in het Godebaldpark in de wijk Keizerslanden. Een week eerder waren er ook al twee gewapende berovingen in de stad. De politie doet onderzoek.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3716908/gewapende-overval-in-deventer-slachtoffer-moest-telefoon-afgeven",
-     "bron": "RTV Oost",
-     "tijd": "15:16",
-     "sorteer": "2026-11-09T14:16:38+00:00"
     },
     {
      "titel": "Natuurwerkdag op landgoed Den Berg krijgt andere invulling",
@@ -681,14 +658,6 @@
      "tijd": "02-10",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D48325",
      "sorteer": "2026-11-09T10:18:56.65+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Stadslicht presenteert debuut-EP 'Algoritme' in Arnhem",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUFNNYUVfU25XZGFnRGhJZzJWbnpjZ1had2FZRlg5V0duRG9LWUVHenQ2SG9FSGFTb2xURU1YT2Q1dkdzOFFkREdrYktRZTJOM3NianAtSlh3ZEtRXzVieXpPTi1IV3BuNnlKTm90Qm5oYmFjbklLV1VpNjZLRHhhZXNzTlppNXVjRXV6YjBBcmc?oc=5",
-     "bron": "AD.nl",
-     "tijd": "19:22",
-     "sorteer": "2026-11-09T18:22:46+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     }
    ]
@@ -826,7 +795,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "05:55",
+    "bijgewerkt": "07:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1180,36 +1149,28 @@
    "emoji": "🌿",
    "items": [
     {
-     "titel": "Vandaag in de natuur",
-     "toelichting": "Pissebedden zijn bijzondere kreeftachtigen. De meeste dieren uit deze groep geleedpotigen leven in zoet of zout water, maar pissebedden zijn een van de weinige vertegenwoordigers op het land.",
-     "bron": "Nature Today",
-     "tijd": "",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36034",
-     "sein": true
-    },
-    {
-     "titel": "Natuurjournaal 9 november 2026",
-     "toelichting": "Reserveer vast plek in huis voor de zwartkoppissebed en zeepissebed is marien bijtje.",
-     "bron": "Nature Today",
-     "tijd": "06:45",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36034",
-     "sorteer": "2026-11-09T05:45:00+00:00"
-    },
-    {
-     "titel": "Atalanta's in de winter",
-     "toelichting": "Hoewel er niet veel dagvlinders meer te zien zijn in november, komen er toch dagelijks meldingen van atalanta’s binnen. Deels komen deze vlinders uit noordelijker streken en deels zullen ze hier in Nederland uit de pop z",
-     "bron": "Nature Today",
-     "tijd": "07:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36027",
-     "sorteer": "2026-11-09T06:00:00+00:00"
-    },
-    {
      "titel": "Ontdek de waarde van natuur: twee inspirerende masterclassseries, één abonnement",
      "toelichting": "Hoe kunnen we de waarde van natuur beter begrijpen, zichtbaar maken en meenemen in de keuzes die we dagelijks maken? Ontdek het samen met toonaangevende experts uit binnen- en buitenland tijdens de masterclasses van We V",
      "bron": "Nature Today",
      "tijd": "12:00",
      "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36039",
      "sorteer": "2026-11-09T11:00:00+00:00"
+    },
+    {
+     "titel": "Bioquest in Leidse Singelpark: meer dan tweeduizend soorten en vijf nieuwe voor Nederland",
+     "toelichting": "Sinds de oprichting heeft het Singelpark in Leiden de ene accolade na de andere ontvangen. Zo'n 350.000 mensen lopen jaarlijks het 6,5 kilometer lange rondje en onlangs werd het park bekroond met de Large Urban Parks Awa",
+     "bron": "Nature Today",
+     "tijd": "14:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36025",
+     "sorteer": "2026-11-09T13:00:00+00:00"
+    },
+    {
+     "titel": "Stabilisatie van aantal eikenprocessievlinders maar stijging plaagdruk",
+     "toelichting": "Het aantal eikenprocessievlinders lag dit jaar iets lager dan vorig jaar. Het aantal daalde in de noordelijke provincies maar steeg sterk in de andere provincies. De plaagdruk steeg sterk met regionaal hotspots. Door de ",
+     "bron": "Nature Today",
+     "tijd": "07:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36044",
+     "sorteer": "2026-11-10T06:00:00+00:00"
     },
     {
      "titel": "Deze bijzondere vogel gebruikt zijn hele lichaam voor het hakken van hout",
@@ -1226,20 +1187,20 @@
      "link": "https://scientias.nl/jagen-alleen-voor-mannen-vrouwelijke-bonobos-bewijzen-het-tegendeel/"
     },
     {
-     "titel": "Brazil deploys national security force to Indigenous territory following invasion",
-     "toelichting": "Two months ago, more than 500 people invaded Brazil’s Ituna/Itatá Indigenous Territory in Pará, northern Brazil, where the isolated Igarapé Ipiaçava Indigenous people live. In response, Brazil has deployed the National P",
+     "titel": "Tens of thousands of orchids saved from road development in southern India",
+     "toelichting": "An emergency effort to rescue tens of thousands of orchids from being razed for a road-building projects in southern India has been hailed a success in a recent study. Many species of orchids are classified as epiphytes,",
      "bron": "Mongabay (Engels)",
-     "tijd": "02:01",
-     "link": "https://news.mongabay.com/short-article/2026/11/brazil-deploys-national-security-force-to-indigenous-territory-following-invasion/",
-     "sorteer": "2026-11-10T01:01:07+00:00"
+     "tijd": "06:48",
+     "link": "https://news.mongabay.com/short-article/2026/11/tens-of-thousands-of-orchids-saved-from-road-development-in-southern-india/",
+     "sorteer": "2026-11-10T05:48:56+00:00"
     },
     {
-     "titel": "El Niño’s hidden toll on trees emerges years later in Papua New Guinea rainforest",
-     "toelichting": "When the El Niño drought ended in a remote Papua New Guinea rainforest, the trees did not immediately recover. Many kept dying. That is one of the findings of a recent study of more than 21,000 trees in the Wanang Forest",
+     "titel": "A year after a wastewater spill in the Philippines, communities fight to save a dying sea",
+     "toelichting": "MANJUYOD, Philippines — For years, Jonalyn Rentuaya, president of Alangilanan United Seaweed Growers Association, began her mornings the same way. By 6:00 a.m., she and other seaweed growers in the Alangilanan neighborho",
      "bron": "Mongabay (Engels)",
-     "tijd": "00:22",
-     "link": "https://news.mongabay.com/2026/11/el-ninos-hidden-toll-on-trees-emerges-years-later-in-papua-new-guinea-rainforest/",
-     "sorteer": "2026-11-09T23:22:18+00:00"
+     "tijd": "06:17",
+     "link": "https://news.mongabay.com/2026/11/a-year-after-a-wastewater-spill-in-the-philippines-communities-fight-to-save-a-dying-sea/",
+     "sorteer": "2026-11-10T05:17:44+00:00"
     }
    ]
   },
@@ -1407,19 +1368,19 @@
    "weer": {
     "nu": 0.4,
     "gevoel": 0.4,
-    "wind": "W 1",
+    "wind": "NW 0",
     "station": "Heino",
     "bericht": "De dag begint in het grootste deel van het land met dichte (aanvriezende) mist en voor veel automobilisten betekent dat autoruiten krabben. In het noordoosten kan de mist de hele dag hardnekkig aanwezig blijven.Vanochtend is het koud met lichte vorst en op uitgebreide schaal komt dichte (aanvriezende) mist voor, die hinderlijk kan zijn voor het verkeer. Het KNMI heeft hiervoor dan ook code geel afgegeven.",
     "vandaag": "Vanochtend is het koud met lichte vorst en op uitgebreide schaal komt dichte (aanvriezende) mist voor, die hinderlijk kan zijn voor het verkeer. Vanmiddag is het op veel plaatsen zonnig met wat sluierbewolking en blijft het droog.",
     "temperatuur": "De middagtemperatuur varieert van slechts 4 graden in het noordoosten, via 7 graden in het midden van het land, tot 9 graden in het zuiden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -1 tot 6 graden, droog, ruim 8 uur zon, wind uit het oosten, kracht 2.",
+     "zin": "Voor Dalfsen zelf: -1 tot 6 graden, droog, ruim 7 uur zon, wind uit het oosten, kracht 2.",
      "max": 6,
      "min": -1,
      "regenkans": 0,
      "omschrijving": "mistig"
     },
-    "vooruit": "Eerst droog met af en toe zon. In de nacht en ochtend dan kans op (dichte) mist, die dinsdag overdag mogelijk hardnekkig kan zijn. Woensdag tijdelijk wisselvallig met vooral in het zuiden regen. Daarna keert het overwegend droge weerbeeld terug met steeds meer zon en in de nachten en ochtenden weer kans op mist en lichte vorst.",
+    "vooruit": "Meest droog, vrij zonnig en in de nachten en ochtenden kans op mist en lichte vorst.",
     "omslag": null,
     "min": "0",
     "max": "7",
