@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "21:00",
+  "opgehaald": "22:00",
   "blokken": 11,
-  "berichten": 103,
+  "berichten": 102,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-11T21:00+01:00",
+ "opgehaald": "2026-11-11T22:00+01:00",
  "audio": "audio/20261111.mp3",
  "afval": [
   {
@@ -256,6 +256,15 @@
      "sorteer": "2026-11-11T16:42:04+01:00"
     },
     {
+     "titel": "De CEO van het Oekraïense defensiebedrijf Fire Point werkt nu aan een project van immens belang, en niet alleen voor Oekraïne",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/de-ceo-van-het-oekraiense-defensiebedrijf-fire-point-werkt-nu-aan-een-project-van-immens-belang-en-niet-alleen-voor-oekraine~b1a27c68/",
+     "bron": "de Volkskrant",
+     "tijd": "21:02",
+     "sorteer": "2026-11-11T20:02:59+00:00"
+    },
+    {
      "titel": "Voor het eerst in veertien jaar algemene staking in Spanje, met mogelijke gevolgen voor de verkiezingen",
      "context": "",
      "rubrieken": [],
@@ -265,15 +274,6 @@
      "sorteer": "2026-11-11T19:05:00+00:00"
     },
     {
-     "titel": "Tot vreugde van Trump hoeft defensieminister Hegseth voorlopig nog geen afzetting te vrezen",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/tot-vreugde-van-trump-hoeft-defensieminister-hegseth-voorlopig-nog-geen-afzetting-te-vrezen~b3494f23/",
-     "bron": "de Volkskrant",
-     "tijd": "18:24",
-     "sorteer": "2026-11-11T17:24:27+00:00"
-    },
-    {
      "titel": "Amerikanen zien nu ook dat Oekraïne-overleg zonder Europa weinig zin heeft",
      "context": "",
      "rubrieken": [],
@@ -281,6 +281,69 @@
      "bron": "Trouw",
      "tijd": "18:58",
      "sorteer": "2026-11-11T17:58:00+00:00"
+    },
+    {
+     "titel": "Clashes erupt in Barcelona as thousands join Spain general strike",
+     "context": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "21:52",
+     "sorteer": "2026-11-11T20:52:52+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Trump praises Hegseth after failed impeachment effort and shrugs off Iran war criticism - live",
+     "context": "President claims US ‘did not start war with Iran’ in Veterans Day speech where he also backed defense secretary again day after failed impeachment vote Democrats lambast absent peers over failed Hegseth impeachment House Republicans block effort to impeach Hegseth Sign up for the US Breaking News email Some Democrats, out of the 11 who missed the key procedural vote on Tuesday to impeach Pete Hegs",
+     "rubrieken": [
+      "Donald Trump",
+      "US news",
+      "US midterm elections 2026",
+      "Pete Hegseth",
+      "US military",
+      "Republicans",
+      "Democrats"
+     ],
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
+     "bron": "The Guardian",
+     "tijd": "21:49",
+     "sorteer": "2026-11-11T20:49:47+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "A.I. and Market Whiplash",
+     "context": "A Times reporter who covers financial markets helps us make sense of tech turbulence.",
+     "rubrieken": [
+      "internal-open-access-from-nl",
+      "Silicon Valley (Calif)",
+      "New York Stock Exchange",
+      "Dow Jones Stock Average",
+      "Stocks and Bonds",
+      "Initial Public Offerings",
+      "Data Centers",
+      "NVIDIA Corporation",
+      "China",
+      "Espionage and Intelligence Services"
+     ],
+     "link": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html",
+     "bron": "New York Times",
+     "tijd": "21:48",
+     "sorteer": "2026-11-11T20:48:08+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "African writing award probe finds 'no evidence' winning story was AI generated",
+     "context": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "21:00",
+     "sorteer": "2026-11-11T20:00:54+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
      "titel": "‘The only way to get this done’: Why the US wants Europe at Ukraine talks next time",
@@ -304,69 +367,6 @@
      "sorteer": "2026-11-11T19:53:57+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Trump praises Hegseth after failed impeachment effort and shrugs off Iran war criticism - live",
-     "context": "President claims US ‘did not start war with Iran’ in Veterans Day speech where he also backed defense secretary again day after failed impeachment vote Democrats lambast absent peers over failed Hegseth impeachment House Republicans block effort to impeach Hegseth Sign up for the US Breaking News email Some Democrats, out of the 11 who missed the key procedural vote on Tuesday to impeach Pete Hegs",
-     "rubrieken": [
-      "Donald Trump",
-      "US news",
-      "US midterm elections 2026",
-      "Pete Hegseth",
-      "US military",
-      "Republicans",
-      "Democrats"
-     ],
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
-     "bron": "The Guardian",
-     "tijd": "20:39",
-     "sorteer": "2026-11-11T19:39:20+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Protesters Throw Projectiles at Biden During Dublin Trip",
-     "context": "Video showed demonstrators from a pro-Palestinian protest throwing projectiles at former President Joseph R. Biden Jr. after he attended an event at Trinity College Dublin on Tuesday.",
-     "rubrieken": [
-      "Dublin (Ireland)",
-      "Demonstrations, Protests and Riots",
-      "Biden, Joseph R Jr",
-      "Biden, Jill Tracy Jacobs",
-      "Biden, Hunter",
-      "Trinity College (Dublin, Ireland)",
-      "Ireland",
-      "United States International Relations",
-      "Israel-Gaza War (2023- )",
-      "Palestinians"
-     ],
-     "link": "https://www.nytimes.com/2026/11/11/world/europe/joe-biden-dublin-ireland-protesters-attack.html",
-     "bron": "New York Times",
-     "tijd": "20:34",
-     "sorteer": "2026-11-11T19:34:11+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-     "context": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "19:38",
-     "sorteer": "2026-11-11T18:38:45+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
-     "context": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "19:10",
-     "sorteer": "2026-11-11T18:10:57+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
     }
    ]
   },
@@ -375,6 +375,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Jongeren vieren tóch Elfde van de Elfde in Tilburg: 'We kennen onze grenzen'",
+     "context": "In de sprinter van Den Bosch naar Tilburg zit een groep meiden, verkleed als bijtjes en lieveheersbeestjes. Ze zijn onderweg naar de Elfde van de Elfde in Tilburg, de traditionele opening van het carnavalsseizoen. De meiden proppen zich met z'n allen in de wc in de trein. Als ze weer buitenkomen, is het tijd voor nieuwe alcoholhoudende drankjes. Eén lieveheersbeestje hangt laveloos tegen een ander",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639061",
+     "bron": "NOS",
+     "tijd": "21:06",
+     "sorteer": "2026-11-11T21:06:33+01:00"
+    },
     {
      "titel": "Kogelwerende koffertjes en beveiligers op ski's: zo bescherm je de koning",
      "context": "Hoe beveilig je een koning die graag toegankelijk wil zijn en zich tussen de mensen wil begeven? Op grote evenementen, maar ook tijdens werkbezoeken, zien we koning Willem-Alexander dicht bij het publiek. Onlangs zorgde het nog voor een schrikmoment toen een verward persoon op hem afstapte tijdens een werkbezoek in het Noord-Hollandse dorp Ursem. \"Je gaat een geaccepteerd risico aan\", zegt expert ",
@@ -403,15 +412,6 @@
      "sorteer": "2026-11-11T15:10:02+01:00"
     },
     {
-     "titel": "Staatssecretaris na U-bocht Moerdijk: 'Taak om het vertrouwen terug te winnen'",
-     "context": "Hoe kunnen plannen in korte tijd zo wijzigen? Staan we hier volgend jaar weer, en wordt inwoners van Moerdijk dan opnieuw een andere toekomst voorgespiegeld? Deze vragen kreeg staatssecretaris De Bat (Klimaat en Groene Groei) vandaag op een persconferentie in het Brabantse dorp waar hij de bijgestelde plannen toelichtte. Een jaar geleden maakte de gemeente bekend dat het Brabantse dorp in de gelij",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638990",
-     "bron": "NOS",
-     "tijd": "13:10",
-     "sorteer": "2026-11-11T13:10:00+01:00"
-    },
-    {
      "titel": "Mag het dorp nou blijven of niet? In Moerdijk hangt zowel blijdschap als argwaan in de lucht: ‘Ik wil hier nooit meer weg’",
      "context": "",
      "rubrieken": [],
@@ -430,16 +430,30 @@
      "sorteer": "2026-11-11T15:21:00+00:00"
     },
     {
-     "titel": "Mag Moerdijk toch blijven bestaan? Zo lijkt het, maar het vertrouwen van de bewoners terugwinnen wordt nog een hele klus",
+     "titel": "Tbs-kliniek De Kijvelanden bestaat 30 jaar: ‘Toen mijn collega doodging, belde mijn moeder: je bent druk, maar ik wil even je stem horen’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/mag-moerdijk-toch-blijven-bestaan-zo-lijkt-het-maar-het-vertrouwen-van-de-bewoners-terugwinnen-wordt-nog-een-hele-klus~b385e3c4b/",
+     "link": "https://www.trouw.nl/binnenland/tbs-kliniek-de-kijvelanden-bestaat-30-jaar-toen-mijn-collega-doodging-belde-mijn-moeder-je-bent-druk-maar-ik-wil-even-je-stem-horen~b38b6662/",
      "bron": "Trouw",
-     "tijd": "18:00",
-     "sorteer": "2026-11-11T17:00:00+00:00"
+     "tijd": "21:11",
+     "sorteer": "2026-11-11T20:11:48+00:00"
     },
     {
-     "titel": "Verdachte van online misbruiken 245 meisjes voor rechter: 'Ik voel me vies'",
+     "titel": "ING beschuldigt stel onterecht van hypotheekfraude: bank moet ze van ’zwarte lijst’ halen",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcHNLNVRlTlA5VUI0MkJLQTdoeG1sVXdfSmVFM2lITUpaRkxqTVlPUV9mZC04QS1CRmwyMktLelhrTGdEYkxBZGtRUkxiRWctcy13TE5ubkhBLXl1WWxPYXQ0NmxxOVh4WUFsc3VjdmJwSWM5SUxlRFFRX0QxeDZmM1BXaVBvNHRhczh5OG9jN0ZFcGZ4YXFfcWhQS2hObUwwT1J1b1NTOTRUVjZmaUlWZ2xQcHNLRXhvVkJKNkxBeFBzenFmUi1RYXl0ampsQ2tLVmUycm1MMlhyQQ?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "21:21",
+     "sorteer": "2026-11-11T20:21:42+00:00"
+    },
+    {
+     "titel": "Arnhemmer moet de cel in voor bezit van kilo’s harddrugs en duizenden pillen",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeG5WYjlnX00tU2Z4OWE0azY1WnBBSDVpaHVuQkUyUkFZaGhkTmdYaEhjd0NBTjZxTURHdGZ0NF9rQnI1N1c1bUJFZTRXQ3dYWEVyUTV5SXhKbno1U2IwaHpxSXB0aUMxSmFvYld3eEd6NlBmaWF5aEVZMFIyOFpRZENaLUNuZE9scks5aUF6SWZQaHVkNXhFN0dUZ1BxRC1FZnZEU3RlNURfeVI1VmFmckxINlMzRTJC?oc=5",
+     "bron": "de Stentor",
+     "tijd": "21:10",
+     "sorteer": "2026-11-11T20:10:18+00:00"
+    },
+    {
+     "titel": "Limburger Bas P. (40) voor de rechter voor onlinemisbruik van 245 meisjes",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQWVuUUVfbnVKUkNWLXJQc0FGcS1yNnlVNjRpcm03YWhpcWVDT0FQczhpZkFsS0VjNDFLMW80Y2kyeU03dm9IUldMd2ZaaFZ3T0phWUJyS2UwS0pabDR5UGs2cDJtNFVYandyMGdNU0N0dVhIanhDRU1LaEl0SUtiaFZVSnZLcFNJMmxrekZUZWY4Z2JmRFFFVnFCWlNGblhEcnc?oc=5",
      "bron": "RTL.nl",
      "tijd": "20:43",
@@ -451,20 +465,6 @@
      "bron": "AD.nl",
      "tijd": "20:00",
      "sorteer": "2026-11-11T19:00:34+00:00"
-    },
-    {
-     "titel": "Hoogleraar over blokkade spelersbus De Graafschap: ‘Ik tel al vijf misdrijven’",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT0htYkVrVktYdF9KUDN1LV9hSnlxclU0MzZyVWxMcEtKRXhJU0p0Z25ERHNPVENDQzFOWE43N1NWQXdJZkE1OXJlSjd5dkR5Z2RTTGhwa1ptX090LVVIWVNtOHkyUFlGR2FfRE5PVlQxVzBDcTVGUnZJeXh2T3BGUkkwZXg1YlJqUjcxd0pEUmhnbzNSQVBGdWMzQW5zZ0w4a0lqLXNLRVU1VXl3VHN2UEtJenh5aFo4aENwM1g1bw?oc=5",
-     "bron": "de Stentor",
-     "tijd": "19:42",
-     "sorteer": "2026-11-11T18:42:00+00:00"
-    },
-    {
-     "titel": "Ineens komt de minister op bezoek bij Jan, en dat voor een lepel en een vork",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVFNJUFhNUUFoMWVFVERra2E2Y3IxaHFXcFZMVGtTMFctNS1GSFFyS0JnT0xvSG9fZFFsZ0UyR1RmSG1CYnRsaWNMd2p2TmtPel9Qb1ZTYnhxcWxWc215cko2TFE3aXVFR2NDN1Fyc0w5X2NWcmlfMnlrSzJpRDUyY0owSnVwRlB4SXl3ZGZFbUJkaTV6OXUxZk85ZVFOYkR0ajlOTGt5LWxjbnMyU1FPTHhQNl9UY0R4V2dERg?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "18:59",
-     "sorteer": "2026-11-11T17:59:00+00:00"
     },
     {
      "titel": "Deze tentoonstelling laat zien hoe het wél kan: Nederland toekomstbestendig inrichten",
@@ -488,12 +488,12 @@
      "sorteer": "2026-11-11T04:45:05+00:00"
     },
     {
-     "titel": "Live | VVD op ramkoers met coalitiepartners: 'D66 en CDA hebben ons overvallen'",
+     "titel": "Live | Crisis in coalitie is compleet, premier Jetten wil donderdag pas reageren",
      "context": "Hallo en welkom in dit liveblog. Hier houden we je op de hoogte van de politieke ontwikkelingen rond het belastingplan.",
      "rubrieken": [
       "politiek"
      ],
-     "link": "https://www.nu.nl/politiek/6416233/vvd-op-ramkoers-met-coalitiepartners-d66-en-cda-hebben-ons-overvallen.html",
+     "link": "https://www.nu.nl/politiek/6416233/crisis-in-coalitie-is-compleet-premier-jetten-wil-donderdag-pas-reageren.html",
      "bron": "NU.nl",
      "tijd": "14:23",
      "sorteer": "2026-11-11T14:23:20+01:00",
@@ -503,16 +503,8 @@
      "titel": "Debat in Tweede Kamer met premier Jetten, daarna stemming over belastingplan",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ05MZ1g5M0FXcTBzNjN5Wm5VblpoeTgwZXZPbEgtNVBwWVN5alplOHNQSmNrNC1LV1ZpcmVpaURjZDRtem9OazR3THlTZ09JbDFmeE1fNDJuUzNwLTBPODFydGFLTDREakVkcHdiSjhra3puU2lvTkw3WkE5M2hsRkxibVJ6NlZianNTQkxBdTlhazQweDBRdDd2OVFza1YzQ0lGYnBzZDFoYUhDVkE?oc=5",
      "bron": "NOS",
-     "tijd": "20:51",
-     "sorteer": "2026-11-11T19:51:27+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Dilan Yesilgöz reageert op Belastingplan: ‘Wij zijn overvallen door deze deal’",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR0ZYRnZVQzJHOXVNeWRSRkp2SlBRWTFiUWREWjJDMHIzZlpSc0NmM0FXamJEZGlvUVYzdF9odVp6T2lBT1ZIUzQtWmFFcF9vTjNNcXVkYUJVSXFpcm9qNHJQbkpuRTFmeUs5el9aNXBUYjVHZ2tPNXlfU3M2YkFiUUNKY2xiZWV1QVZJWHB0Ukw3SFdsN2Y4ejNQaVVsa0UyVVdBcHBOektTeGZZQzBfZEh4SGNTbkMtblVpY3l3?oc=5",
-     "bron": "NRC",
-     "tijd": "20:10",
-     "sorteer": "2026-11-11T19:10:21+00:00",
+     "tijd": "21:12",
+     "sorteer": "2026-11-11T20:12:38+00:00",
      "kop": "Begroting"
     },
     {
@@ -611,15 +603,6 @@
      "sorteer": "2026-11-11T18:01:15+00:00"
     },
     {
-     "titel": "Minimagezinnen uit Twente kunnen weer terecht bij mobiele voedselbank",
-     "context": "De mobiele voedselbank rijdt vanaf vanavond weer door Twente. In de bus zitten allerlei producten voor mensen die het financieel moeilijk hebben. Het project werd vroegtijdig stilgezet door geldgebrek, maar het winnen van een vrijwilligersprijs bracht daar verandering in.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3717545/minimagezinnen-uit-twente-kunnen-weer-terecht-bij-mobiele-voedselbank",
-     "bron": "RTV Oost",
-     "tijd": "18:30",
-     "sorteer": "2026-11-11T17:30:03+00:00"
-    },
-    {
      "titel": "Man uit Enschede levensgevaarlijk gewond na avondje stappen in Duitsland",
      "context": "Een 23-jarige man uit Enschede is zondagochtend ernstig gewond geraakt na een stapavond in de bekende discotheek Index. Dit meldden Duitse media. De man werd door meerdere personen mishandeld en raakte daardoor levensgevaarlijk gewond.",
      "rubrieken": [],
@@ -647,6 +630,30 @@
      "sorteer": "2026-11-11T15:49:03+00:00"
     },
     {
+     "titel": "Twentse gemeente neemt omstreden Oekraïense broers over van Hengelo",
+     "context": "Er is plek voor twee Oekraïners die Hengelo uit de opvang zette vanwege wangedrag. Hengelo wilde ze niet meer, maar kon geen andere locatie voor ze vinden. Een andere Twentse gemeente biedt hulp. Zaak gesloten? Niet dus, Hengelo wil meer: een aanpassing in de wet",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3717699/twentse-gemeente-neemt-omstreden-oekraiense-broers-over-van-hengelo",
+     "bron": "RTV Oost",
+     "tijd": "16:30",
+     "sorteer": "2026-11-11T15:30:14+00:00"
+    },
+    {
+     "titel": "Getuigen oproep",
+     "context": "DALFSEN – Gisteren 10-11-2026 reed er een witte vrachtwagen met daarachter een trailer geladen met rollen kabels over de Langkamp richting de rotonde Koesteeg. Deze vrachtwagen heeft onze auto van de weg gedrukt in de bocht waar fietspad weer normale weg wordt. Heeft iemand dit gezien? Er reed een andere auto achter. Wij horen […]",
+     "rubrieken": [
+      "Dalfsen",
+      "Ingezonden bericht",
+      "Laatste nieuws"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/556432/getuigen-oproep-2.html",
+     "bron": "DalfsenNet",
+     "tijd": "21:38",
+     "sorteer": "2026-11-11T20:38:50+00:00"
+    },
+    {
      "titel": "Tweede aflevering van het Dalfser Sinterklaasjournaal",
      "context": "DALFSEN – Vandaag in het Dalfser Sinterklaasjournaal gaat Babet samen met rijdende reporter Maartje op zoek naar meer informatie over het grote cadeau dat verscheen in de studio gisteren. Maartje rijdt met haar scooter door Dalfsen en interviewt allemaal mensen of zij er misschien iets meer van weten. Gaan we erachter komen wat erin zit? […]",
      "rubrieken": [
@@ -659,19 +666,6 @@
      "tijd": "15:24",
      "sorteer": "2026-11-11T14:24:50+00:00",
      "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Mbo-studenten helpen basisscholieren met bomen planten",
-     "context": "DALFSEN – Mbo-studenten helpen basisscholieren met bomen planten in Dalfsen. Studenten Bos,- en Natuurbeheer van het Zone College in Zwolle helpen op 18 november basisschoolleerlingen van basisschool De Spiegel in Dalfsen met het planten van bomen. Leerlingen die maanden voor hun eigen boom zorgen, mbo-studenten die praktijkervaring opdoen én een groener schoolplein als resultaat. […]",
-     "rubrieken": [
-      "Dalfsen",
-      "Ingezonden bericht",
-      "Laatste nieuws"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/556423/556423.html",
-     "bron": "DalfsenNet",
-     "tijd": "14:20",
-     "sorteer": "2026-11-11T13:20:38+00:00"
     }
    ]
   },
@@ -961,7 +955,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "21:00",
+    "bijgewerkt": "22:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1538,15 +1532,15 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 3.4,
+    "nu": 3.1,
     "gevoel": 1.8,
-    "wind": "N 2",
+    "wind": "N 1",
     "station": "Heino",
     "bericht": "Vannacht komt het landinwaarts tot een graadje vorst. Vanaf morgen is de zon in het hele land vaker te zien, maar het blijft niet overal droog.Vanavond zijn er in het noorden opklaringen met later op de avond in het Waddengebied kans op een bui. In het zuiden blijft het bewolkt met in het uiterste zuiden en in het zuidoosten nog af en toe wat regen of motregen.",
     "vandaag": "Vannacht komt het landinwaarts tot een graadje vorst. Vanavond zijn er in het noorden opklaringen met later op de avond in het Waddengebied kans op een bui.",
     "temperatuur": "De temperatuur daalt naar -2 graden in het oosten en noordoosten tot 5 graden in Zeeland.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: 0 tot 5 graden, droog, ruim 4 uur zon, wind uit het noordoosten, kracht 2.",
+     "zin": "Voor Dalfsen zelf: -0 tot 5 graden, droog, ruim 4 uur zon, wind uit het noordoosten, kracht 2.",
      "max": 5,
      "min": 0,
      "regenkans": 2,
