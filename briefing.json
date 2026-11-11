@@ -3,16 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "05:55",
+  "opgehaald": "07:00",
   "blokken": 11,
   "berichten": 100,
-  "problemen": [
-   "geen toegang tot /Users/thuismap/Library/Mobile Documents/com~apple~CloudDocs/Ochtendbriefing — overgeslagen"
-  ],
-  "audio_herkomst": "model",
-  "audio_aangehaakt": "06:50"
+  "problemen": [],
+  "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-11T05:55+01:00",
+ "opgehaald": "2026-11-11T07:00+01:00",
  "audio": "audio/20261111.mp3",
  "afval": [
   {
@@ -230,6 +227,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Wekdienst 11/11: Elfde van de Elfde en Sint-Maarten gevierd • Online misbruikzaak voor de rechter",
+     "context": "Goedemorgen! Het is de Elfde van de Elfde, de traditionele opening van het carnavalsseizoen. Ook wordt in delen van Nederland Sint-Maarten gevierd. In Spanje wordt in heel het land gestaakt. In bijna alle grote steden zijn demonstraties aangekondigd. Eerst het weer Vanochtend is het bewolkt met in de zuidelijke helft perioden met regen. In het Waddengebied komt mist voor. Vanmiddag schijnt in het ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638953",
+     "bron": "NOS",
+     "tijd": "06:44",
+     "sorteer": "2026-11-11T06:44:24+01:00"
+    },
+    {
      "titel": "Voorlopig geen afzettingsprocedure tegen Amerikaanse defensieminister Hegseth",
      "context": "De Amerikaanse minister van Defensie Pete Hegseth blijft voorlopig aan. De Republikeinen in het Huis van Afgevaardigden hebben een poging tot een afzettingsprocedure tegengehouden. Hegseth ligt onder vuur na de door de Republikeinen verloren tussentijdse verkiezingen van vorige week. Onder zijn leiding begonnen de Verenigde Staten een oorlog tegen Iran. Het Republikeinse Congreslid Thomas Massie h",
      "rubrieken": [],
@@ -269,16 +275,6 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "VN-chef haalt op klimaattop uit naar megawinsten die oliebedrijven 'binnenharken'",
-     "context": "Fossiele brandstoffen zijn niet alleen de drijvende kracht achter klimaatverandering, onze afhankelijkheid ervan heeft ook hoge economische en veiligheidsgerelateerde kosten. Met die boodschap sprak secretaris-generaal António Guterres van de Verenigde Naties de klimaattop in Turkije toe. De afzwaaiend leider van de VN was fel over de recordwinsten die oliebedrijven sinds de Iranoorlog maken. \"Sin",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638922",
-     "bron": "NOS",
-     "tijd": "20:11",
-     "sorteer": "2026-11-10T20:11:08+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
      "titel": "Alle ogen op Mississippi, dat een ongekend spannende strijd om de Senaatszetel kent: ‘Hoop is een schaars goed’",
      "context": "",
      "rubrieken": [],
@@ -297,72 +293,71 @@
      "sorteer": "2026-11-11T01:40:00+00:00"
     },
     {
-     "titel": "Een bestaand vaccin lijkt Congolezen te beschermen tegen de ebolavariant",
+     "titel": "Brand in Russische havenstad aan Finse Golf na Oekraïense aanval",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/een-bestaand-vaccin-lijkt-congolezen-te-beschermen-tegen-de-ebolavariant~b176f353/",
+     "link": "https://www.trouw.nl/buitenland/live-oorlog-oekraine-brand-in-russische-havenstad-aan-finse-golf-na-oekraiense-aanval~ba2815bb/",
      "bron": "Trouw",
-     "tijd": "20:50",
-     "sorteer": "2026-11-10T19:50:42+00:00"
+     "tijd": "06:52",
+     "sorteer": "2026-11-11T05:52:00+00:00"
     },
     {
-     "titel": "Die dunkle Seite der Bundeswehr: Sexualisierte Gewalt gegen Frauen",
-     "context": "Präsentiert von YouTube.",
+     "titel": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
+     "context": "Capture of man from Java follows reports that hundreds are being recruited from the south-east Asian country as Moscow seeks to boost its war effort Ukraine says it has captured its first Indonesian prisoner of war, amid what it says is a spike in recruitment by Russia from the south-east Asian nation. The 49-year-old man from Java was taken to Ukraine’s Zaporizhzhia region to take part in a Russi",
      "rubrieken": [
-      "Budget",
-      "Defense",
-      "Der Podcast",
-      "German politics",
-      "Military",
-      "Playbook",
-      "Sexual assault",
-      "Sexual harassment",
-      "Playbook",
+      "Ukraine",
+      "Indonesia",
+      "Russia",
+      "Asia Pacific",
+      "Europe"
+     ],
+     "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
+     "bron": "The Guardian",
+     "tijd": "06:33",
+     "sorteer": "2026-11-11T05:33:27+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "No Good Choices on Iran",
+     "context": "As top Trump aides clash over a strategy to end the war, the administration is weighing escalation, narrower strikes and diplomacy.",
+     "rubrieken": [
+      "internal-open-access-from-nl",
+      "Iran",
+      "United States International Relations",
+      "Hegseth, Pete",
+      "Trump, Donald J",
+      "Strait of Hormuz",
+      "United States Defense and Military Forces",
+      "Nuclear Weapons"
+     ],
+     "link": "https://www.nytimes.com/2026/11/10/world/iran-trump-war-hegseth-impeach.html",
+     "bron": "New York Times",
+     "tijd": "06:27",
+     "sorteer": "2026-11-11T05:27:26+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "How to bypass unruly MEPs",
+     "context": "The European Parliament has figured out how to pass controversial legislation … just bypass the full vote of all 720 MEPs. Today on the show, Zoya Sheftalovich and Ian Wishart discuss how cross-party leaders are worried that the plenary’s shifting alliances — particularly with the rise of the far right — could blow up legislation […]",
+     "rubrieken": [
+      "Brussels Playbook Podcast",
+      "Consumer Policy",
+      "digital tech regulation",
+      "EU Budget",
+      "European politics",
+      "Hybrid threats",
+      "Russian politics",
+      "Transatlantic relations",
+      "War in Ukraine",
+      "Foreign Affairs",
       "Politics"
      ],
-     "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/die-dunkle-seite-der-bundeswehr-sexualisierte-gewalt-gegen-frauen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/how-to-bypass-unruly-meps/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
      "bron": "Politico Europe",
-     "tijd": "05:01",
-     "sorteer": "2026-11-11T04:01:00+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "David Jones to close half its stores triggering mass job losses under ‘urgent restructure’",
-     "context": "Australia’s oldest department store collapsed into voluntary administration last week after years of steep losses David Jones is set to shutter half its department store network, triggering mass job losses under a sweeping restructure, receivers FTI Consulting said on Wednesday. David Jones employs more than 6,000 staff across 38 stores. Continue reading...",
-     "rubrieken": [
-      "David Jones",
-      "Business",
-      "Australia news"
-     ],
-     "link": "https://www.theguardian.com/business/2026/nov/11/david-jones-store-closures-administration-restructure",
-     "bron": "The Guardian",
-     "tijd": "04:59",
-     "sorteer": "2026-11-11T03:59:03+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
-     "context": "The Iranian immigrants in the plane were scheduled to be flown to Pakistan and then transferred to Iran, lawyers for the group said.",
-     "rubrieken": [
-      "Illegal Immigration",
-      "Deportation",
-      "United States International Relations",
-      "Immigration Detention",
-      "Airlines and Airplanes",
-      "Iranian-Americans",
-      "US and Israeli Attack on Iran (2026)",
-      "Trump, Donald J",
-      "Iran",
-      "Arizona",
-      "Mesa (Ariz)",
-      "Pakistan"
-     ],
-     "link": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
-     "bron": "New York Times",
-     "tijd": "04:57",
-     "sorteer": "2026-11-11T03:57:10+00:00",
+     "tijd": "06:05",
+     "sorteer": "2026-11-11T05:05:00+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -396,6 +391,15 @@
    "emoji": "🇳🇱",
    "items": [
     {
+     "titel": "Zakenmannen onderhandelen over Oekraïne, wie zit aan tafel namens Rusland?",
+     "context": "Oekraïne, Rusland en de Verenigde Staten onderhandelen in Abu Dhabi over een mogelijk einde aan de Oekraïne-oorlog. De Amerikaanse en Russische onderhandelaars hebben iets opvallends met elkaar gemeen: zij zijn geen diplomaten met jarenlange ervaring in de internationale politiek, maar zakenmannen. Over de Amerikaanse onderhandelaars Jared Kushner en Steve Witkoff is al veel gezegd en geschreven. ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638948",
+     "bron": "NOS",
+     "tijd": "06:00",
+     "sorteer": "2026-11-11T06:00:02+01:00"
+    },
+    {
      "titel": "Schietpartij in Amsterdam, kogel komt in rijdende bus terecht",
      "context": "In Amsterdam is bij een schietpartij gisteravond mogelijk een kogel door de ruit van een rijdende bus gevlogen. Voor zover bekend is er niemand gewond geraakt. Rond 22.30 uur werd er aan de Slotermeerlaan in stadsdeel Nieuw-West geschoten. Bij stadszender AT5 zijn beelden te zien van een gat onderin de deur van een bus en een voorwerp dat lijkt op een kogelhuls op de vloer. Een passagier van de bu",
      "rubrieken": [],
@@ -406,7 +410,7 @@
     },
     {
      "titel": "Gegevens sportverenigingen op straat door datalek bij beheersysteem",
-     "context": "Er is een datalek geweest bij een systeem dat de gegevens van leden van sportclubs- en bonden beheert. Daarbij zouden persoonsgegevens zijn buitgemaakt, meldt RTL Nieuws . Het gaat om het systeem van All United. Onder meer de Nederlandse cricketbond KNCB maakt melding van het lek. De bond zegt dat de gegevens van alle spelers zijn gestolen. Het gaat om namen, adressen, telefoonnummers, geboortedat",
+     "context": "Er is een datalek geweest bij een systeem dat de gegevens van leden van sportclubs- en bonden beheert. Daarbij zijn persoonsgegevens buitgemaakt. RTL Nieuws berichtte als eerste over het lek. Het gaat om het systeem van All United. Onder meer de Nederlandse cricketbond KNCB maakt melding van het lek. De bond zegt dat de gegevens van alle spelers zijn gestolen. Het gaat om namen, adressen, telefoon",
      "rubrieken": [],
      "link": "https://nos.nl/l/2638945",
      "bron": "NOS",
@@ -422,25 +426,6 @@
      "tijd": "22:30",
      "sorteer": "2026-11-10T22:30:41+01:00",
      "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Van verkiezingsfraude verdacht D66-raadslid Boxtel neemt ontslag",
-     "context": "Het Boxtelse D66-raadslid Sohib H., dat eind oktober werd opgepakt op verdenking van verkiezingsfraude, heeft zijn ontslag ingediend als gemeenteraadslid. Dat maakt de plaatselijke fractievoorzitter van de partij bekend tijdens de raadvergadering . De 38-jarige H. werd op 27 oktober aangehouden op verdenking van onder meer corruptie en verkiezingsfraude. H. is naast zijn raadswerk medewerker van h",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638929",
-     "bron": "NOS",
-     "tijd": "21:13",
-     "sorteer": "2026-11-10T21:13:40+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Migrantenbootjes van zee gehaald vlak bij onze kust, wat is er aan de hand?",
-     "context": "De afgelopen weken zijn boten met migranten gesignaleerd voor de Nederlandse en Belgische kust. Dat viel op, omdat nog niet eerder wat gebeurd bij de Nederlandse kust. Ook in België lijkt de hoeveelheid bootjes toegenomen. Wat is er gebeurd? Verplaatst de smokkelroute zich naar het noorden? We zetten de vijf belangrijkste vragen op een rijtje. Wat is er gebeurd? Gisteravond was het opnieuw raak in",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638919",
-     "bron": "NOS",
-     "tijd": "19:30",
-     "sorteer": "2026-11-10T19:30:01+01:00"
     },
     {
      "titel": "Advocaat van slachtoffers van huiselijk geweld stopt: ‘Ik kan en wil geen slachtoffers verdedigen met ducttape op mijn mond’",
@@ -462,14 +447,20 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Leraar van het jaar Ninah Tiemersma weet het zeker: Griekse tragedies hebben haar het leven gered",
+     "titel": "CBS: fors verschil tussen groepen ouders bij het bieden van ‘ideale’ start voor hun kind",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/leraar-van-het-jaar-ninah-tiemersma-weet-het-zeker-griekse-tragedies-hebben-haar-het-leven-gered~b2ebe248a/",
+     "link": "https://www.trouw.nl/binnenland/cbs-fors-verschil-tussen-groepen-ouders-bij-het-bieden-van-ideale-start-voor-hun-kind~b7f1136b/",
      "bron": "Trouw",
-     "tijd": "21:17",
-     "sorteer": "2026-11-10T20:17:51+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "tijd": "06:30",
+     "sorteer": "2026-11-11T05:30:14+00:00"
+    },
+    {
+     "titel": "In bos begraven baby na 24 uur levend gevonden, vader gearresteerd",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZkJDd2FqaVlYSTUtd1lRQzVJSk8wd3dpMkJkMWFmQS01ckxSVzhVV0daS0pFa0p1WGFxVDB4WWVJeHBXMjlKNk9VUS1Ka3E5Wm8zTkY2S2RIN3lpb3VXaExwMUpWSldTY3d3XzJTOUlQT3E4VXphWHI3NjlCeXllNkFBeTF0cWVUUURjTDhOdVBrUm9GdUJiYktSUl9PbzJqWE5OTGRrRDYtVjhmeDZoSGpSR0Zzakk?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "06:29",
+     "sorteer": "2026-11-11T05:29:13+00:00"
     },
     {
      "titel": "Bij dit Twentse tankstation kun je als je goed gokt gratis tanken & explosie bij woning in Enschede",
@@ -477,6 +468,14 @@
      "bron": "Tubantia",
      "tijd": "21:31",
      "sorteer": "2026-11-10T20:31:32+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Van verkiezingsfraude verdacht D66-raadslid Boxtel neemt ontslag",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHN3QVRFeGJZbzIwMmlGaGlVN3dBeWJvTG1TcVZqSndLWXk5bzJxcHNRVWxwT0ZsdktWUDgzN1I2c1BuNHVvYzJRME1ZU19kV2lpT1N6NFBpa1VxVW9iMEhKUDl5QklURlJESE9qcTF1dWxudFVvaXRJRGtEanJpaEkzMkhHbHF6TS1Ua0kzR2tsalVFYVQ0S0k0RQ?oc=5",
+     "bron": "NOS",
+     "tijd": "21:13",
+     "sorteer": "2026-11-10T20:13:40+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -534,14 +533,6 @@
      "kop": "Begroting"
     },
     {
-     "titel": "Urenlang debat brengt geen doorbraak over belastingplan: nu moet het achter de schermen gebeuren",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSjhTV2g4a05QTndYUXdYQ0s5OV8tdXlhR1V1U0xuWkFQUlc1alEtN0V1eS1HaVdPbHFkQzdpLUliUmh1bnRST0Fpb3JuX1VlbzUtVGVTWTFpZTQ4c3Rjb3dBVm56dDJZbkxsTEZVNHVEMzg2MkVXRzlvTzF2WnVLTXVJcFREWlJHQW96ME0wclE1WXd1NzBWei1qQ3FIQTZiN1gtOElDelJudW9keG9xTFI1WDVnTTUwSE9XQjJuR2dGVWkzTWJaZ2tJWTVCRXB5M1NIbg?oc=5",
-     "bron": "Het Parool",
-     "tijd": "23:07",
-     "sorteer": "2026-11-10T22:07:17+00:00",
-     "kop": "Begroting"
-    },
-    {
      "titel": "Chaos rond belastingplan neemt toe: Heinen verdedigt miljardengat in box 3",
      "context": "",
      "rubrieken": [],
@@ -587,6 +578,25 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Plan voor meer treinen én snellere verbinding naar Duitsland",
+     "context": "Het is goed voor toeristen, de economie, maar ook voor Defensie. Dat is de gedachte achter het plan van Nederland en Duitsland om nauwer samen te werken op het spoor. Daarvoor moeten trajecten beter op elkaar aansluiten en er meer passagierstreinen gaan rijden die korter onderweg zijn.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3717403/plan-voor-meer-treinen-en-snellere-verbinding-naar-duitsland",
+     "bron": "RTV Oost",
+     "tijd": "05:05",
+     "sorteer": "2026-11-11T04:05:20+00:00"
+    },
+    {
+     "titel": "Doek valt voor vier speeltuinen in Enschede, bezuinigingen gaan niet van tafel",
+     "context": "Voor de Enschedese speeltuinen De Wester, Voortsweg, Stadsveld en Bruggert valt volgend jaar definitief het doek. Deze speeltuinlocaties zijn de eerste slachtoffers van de gemeentebezuinigingen. Een protestdemonstratie van buurtbewoners voor het stadhuis van Enschede gisteravond haalde niks uit.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3717439/doek-valt-voor-vier-speeltuinen-in-enschede-bezuinigingen-gaan-niet-van-tafel",
+     "bron": "RTV Oost",
+     "tijd": "20:58",
+     "sorteer": "2026-11-10T19:58:59+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
      "titel": "'Hij herkende me niet meer': Wendy schrijft boek over mantelzorg voor haar vader",
      "context": "Hoe bewaar je de herinneringen van iemand die ze zelf langzaam kwijtraakt? Voor Wendy ten Klooster uit Balkbrug werd het antwoord een boek. Over haar vader, zijn leven als persfotograaf en de mooie én moeilijke momenten van mantelzorg.",
      "rubrieken": [],
@@ -626,25 +636,6 @@
      "bron": "RTV Oost",
      "tijd": "19:22",
      "sorteer": "2026-11-10T18:22:10+00:00"
-    },
-    {
-     "titel": "Verdachte geraakt door afgeketste kogel bij vermeende afrekening in Zwolle",
-     "context": "De politie stond na een schietpartij in Zwolle voor een raadsel. Meer dan een jaar later blijkt dat het slachtoffer volgens het Openbaar Ministerie een potentiële dader was die per ongeluk een kogel ontving. Vandaag moesten hij en zijn compagnon zich voor de rechter verantwoorden.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3717441/verdachte-geraakt-door-afgeketste-kogel-bij-vermeende-afrekening-in-zwolle",
-     "bron": "RTV Oost",
-     "tijd": "18:41",
-     "sorteer": "2026-11-10T17:41:37+00:00"
-    },
-    {
-     "titel": "Voorbereidingen Wintercircus Zwolle in volle gang: 'Iets creëren dat onszelf verrast'",
-     "context": "Over een maand staat de eerste voorstelling van de eerste editie van het Wintercircus in Zwolle op het programma. Op het Rodetorenplein in de binnenstad is nog niets te zien, maar achter de schermen is het een drukte van belang, vertelt organisator Frens Jorian, die nog weinig last van stress heeft.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3717367/voorbereidingen-wintercircus-zwolle-in-volle-gang-iets-creeren-dat-onszelf-verrast",
-     "bron": "RTV Oost",
-     "tijd": "18:03",
-     "sorteer": "2026-11-10T17:03:03+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Het dansen gaat weer beginnen",
@@ -959,7 +950,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "05:55",
+    "bijgewerkt": "07:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1329,12 +1320,12 @@
      "sorteer": "2026-11-10T06:30:00+00:00"
     },
     {
-     "titel": "Stabilisatie van aantal eikenprocessievlinders maar stijging plaagdruk",
-     "toelichting": "Het aantal eikenprocessievlinders lag dit jaar iets lager dan vorig jaar. Het aantal daalde in de noordelijke provincies maar steeg sterk in de andere provincies. De plaagdruk steeg sterk met regionaal hotspots. Door de ",
+     "titel": "Natuurjournaal 11 november 2026",
+     "toelichting": "Rotganzen zijn indrukwekkende marathonvliegers, maar ze zijn niet allemaal hetzelfde.",
      "bron": "Nature Today",
-     "tijd": "07:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36044",
-     "sorteer": "2026-11-10T06:00:00+00:00"
+     "tijd": "06:45",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35976",
+     "sorteer": "2026-11-11T05:45:00+00:00"
     },
     {
      "titel": "3.000 gratis vlindertuinpakketten voor inwoners van provincie Utrecht",
@@ -1544,17 +1535,17 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 4.1,
-    "gevoel": 1.8,
-    "wind": "NO 2",
+    "nu": 4.0,
+    "gevoel": 1.4,
+    "wind": "ONO 2",
     "station": "Heino",
     "bericht": "Vandaag ten zuiden van de grote rivieren af en toe (mot)regen. In het noorden vanochtend eerst plaatselijk mist, daarna perioden met zon. Morgen geregeld zon en plaatselijk een buitje.Vanochtend is het grijs, met in het zuiden van het land af en toe regen of motregen.",
     "vandaag": "Vandaag ten zuiden van de grote rivieren af en toe (mot)regen. In het noorden vanochtend eerst plaatselijk mist, daarna perioden met zon.",
     "temperatuur": "De temperatuur varieerde in alle vroegte van 3 graden in het noorden tot 6 graden in het zuiden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: 0 tot 7 graden, 18% kans op neerslag, ruim 5 uur zon, wind uit het noordoosten, kracht 2.",
-     "max": 7,
-     "min": 0,
+     "zin": "Voor Dalfsen zelf: -1 tot 6 graden, 18% kans op neerslag, ruim 7 uur zon, wind uit het noordoosten, kracht 2.",
+     "max": 6,
+     "min": -1,
      "regenkans": 18,
      "omschrijving": "mistig"
     },
