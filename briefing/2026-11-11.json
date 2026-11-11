@@ -3,13 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "08:00",
+  "opgehaald": "09:00",
   "blokken": 11,
-  "berichten": 102,
+  "berichten": 100,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-11T08:00+01:00",
+ "opgehaald": "2026-11-11T09:00+01:00",
  "audio": "audio/20261111.mp3",
  "afval": [
   {
@@ -227,6 +227,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Vier beren gedood in Canada na dodelijke, 'roofdierachtige' aanval op wandelaars",
+     "context": "In Canada zijn een moederbeer en haar drie welpen afgemaakt omdat ze verantwoordelijk worden gehouden voor een recente dodelijke aanval op twee vrouwen. De beren werden afgelopen weekend gevangen in de Canadese provincie British Columbia. Uit forensisch onderzoek, waaronder DNA-analyse van de dieren, bleek dat zij verantwoordelijk waren voor de aanval, meldden lokale natuurautoriteiten. Uit het on",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638957",
+     "bron": "NOS",
+     "tijd": "08:25",
+     "sorteer": "2026-11-11T08:25:09+01:00"
+    },
+    {
      "titel": "Vijf jaar The Kyiv Independent: hoe bedrijf je journalistiek in een land in oorlog?",
      "context": "Terwijl in Abu Dhabi opnieuw wordt onderhandeld over het verloop van de oorlog, kijkt de redactie van The Kyiv Independent vandaag terug op bijna vijf jaar oorlogsverslaggeving. Toen Rusland begin 2022 zijn grootschalige invasie in Oekraïne begon, bestond de Engelstalige nieuwssite pas drie maanden. Inmiddels vormt de site voor ruim 2 miljoen maandelijkse lezers, met name buiten Oekraïne, een bela",
      "rubrieken": [],
@@ -246,7 +255,7 @@
     },
     {
      "titel": "Voorlopig geen afzettingsprocedure tegen Amerikaanse defensieminister Hegseth",
-     "context": "De Amerikaanse minister van Defensie Pete Hegseth blijft voorlopig aan. De Republikeinen in het Huis van Afgevaardigden hebben een poging tot een afzettingsprocedure tegengehouden. Hegseth ligt onder vuur na de door de Republikeinen verloren tussentijdse verkiezingen van vorige week. Onder zijn leiding begonnen de Verenigde Staten een oorlog tegen Iran. Het Republikeinse Congreslid Thomas Massie h",
+     "context": "De Amerikaanse minister Hegseth van Defensie blijft voorlopig aan. De Republikeinen in het Huis van Afgevaardigden hebben een poging tot een afzettingsprocedure tegengehouden. Hegseth ligt onder vuur na de door de Republikeinen verloren tussentijdse verkiezingen van vorige week. Onder zijn leiding begonnen de Verenigde Staten begin dit jaar samen met Israël een oorlog tegen Iran. Het Republikeinse",
      "rubrieken": [],
      "link": "https://nos.nl/l/2638946",
      "bron": "NOS",
@@ -264,23 +273,13 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Amerikaanse militair opgepakt in VK voor spionage voor Rusland",
-     "context": "Een militair van het Amerikaanse leger is in het Verenigd Koninkrijk gearresteerd vanwege mogelijke spionage. Dat meldt de Britse politie. Het gaat om een 41-jarige man. Volgens de politie deed hij dit voor Rusland. De arrestatie volgde na een samenwerking tussen de Britse en Amerikaanse autoriteiten, het Amerikaanse leger en de FBI. FBI-directeur Patel zegt dat de man beschuldigd wordt van spiona",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638925",
-     "bron": "NOS",
-     "tijd": "20:35",
-     "sorteer": "2026-11-10T20:35:36+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Zelensky blij met nieuwe aanpak vredesonderhandelingen vanuit VS",
+     "titel": "Oekraïne neemt voor het eerst Indonesische huurling gevangen aan front met Rusland",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/russische-leger-bestookt-vrachtschip-in-zwarte-zee-en-drie-elektriciteitscentrales-in-oekraine~bffaf222/",
+     "link": "https://www.volkskrant.nl/buitenland/oekraine-neemt-voor-het-eerst-indonesische-huurling-gevangen-aan-front-met-rusland~bffaf222/",
      "bron": "de Volkskrant",
-     "tijd": "07:32",
-     "sorteer": "2026-11-11T06:32:00+00:00"
+     "tijd": "08:19",
+     "sorteer": "2026-11-11T07:19:00+00:00"
     },
     {
      "titel": "Brand in Russische havenstad aan Finse Golf na Oekraïense aanval",
@@ -292,44 +291,42 @@
      "sorteer": "2026-11-11T05:52:00+00:00"
     },
     {
-     "titel": "Commentaar",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrUlVNOEgzblByeXRNcU9iUHhzb2FJNjRtR2E2eVZNT1RGMGVHQTctZFdfYV9aWTF6Ml9xcEo1MVNEQXBrRkE0MXNZSnZkTzg?oc=5",
-     "bron": "NRC",
-     "tijd": "07:24",
-     "sorteer": "2026-11-11T06:24:25+00:00"
-    },
-    {
-     "titel": "One Nation Victoria candidate apologises for slew of offensive comments about lesbians, Indians and Julia Gillard",
-     "context": "Exclusive: Chris Moore, running for the party in Greenvale, made derogatory social media comments between 2010 and 2012 Get our daily political email , free app or daily news podcast A One Nation candidate in Victoria has apologised for a series of offensive comments including repeated references to Australian-Indians as “curry munchers”, comparing a woman in burqa to a bag of rubbish, and sharing",
+     "titel": "Canadian Authorities Kill 4 Bears Involved in Deadly Attack on Hikers",
+     "context": "Wildlife authorities said evidence, including animal DNA, conclusively linked a sow and her three cubs to the deaths of two women along a hiking trail in British Columbia.",
      "rubrieken": [
-      "One Nation",
-      "Australia news",
-      "Australian politics"
+      "British Columbia (Canada)",
+      "Canada",
+      "Bears",
+      "Animal Attacks",
+      "Hikes and Hiking",
+      "DNA (Deoxyribonucleic Acid)"
      ],
-     "link": "https://www.theguardian.com/australia-news/2026/nov/11/one-nation-candidate-apologises-offensive-comments-ntwnfb",
-     "bron": "The Guardian",
-     "tijd": "07:27",
-     "sorteer": "2026-11-11T06:27:38+00:00",
+     "link": "https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html",
+     "bron": "New York Times",
+     "tijd": "08:32",
+     "sorteer": "2026-11-11T07:32:18+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "No Good Choices on Iran",
-     "context": "As top Trump aides clash over a strategy to end the war, the administration is weighing escalation, narrower strikes and diplomacy.",
+     "titel": "Aldi cuts hundreds of UK head office roles as part of global cost trimming",
+     "context": "Supermarket’s move labelled ‘shortsighted’ by worker who calls upper management ‘woefully out of touch with reality’ Aldi’s UK business is cutting hundreds of head office roles as part of a global effort to trim costs at the budget grocer. The retailer is consulting with its technology team on the loss of up to 150 roles after 103 redundancies in its finance and administration team earlier this ye",
      "rubrieken": [
-      "internal-open-access-from-nl",
-      "Iran",
-      "United States International Relations",
-      "Hegseth, Pete",
-      "Trump, Donald J",
-      "Strait of Hormuz",
-      "United States Defense and Military Forces",
-      "Nuclear Weapons"
+      "Aldi",
+      "Supermarkets",
+      "Business",
+      "Food & drink industry",
+      "Retail industry",
+      "Job losses",
+      "UK news",
+      "Germany",
+      "Europe",
+      "World news"
      ],
-     "link": "https://www.nytimes.com/2026/11/10/world/iran-trump-war-hegseth-impeach.html",
-     "bron": "New York Times",
-     "tijd": "06:27",
-     "sorteer": "2026-11-11T05:27:26+00:00",
+     "link": "https://www.theguardian.com/business/2026/nov/11/aldi-cuts-hundreds-of-uk-head-office-and-logistics-roles-global-cost-trimming",
+     "bron": "The Guardian",
+     "tijd": "08:30",
+     "sorteer": "2026-11-11T07:30:12+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -451,6 +448,13 @@
      "sorteer": "2026-11-11T05:30:00+00:00"
     },
     {
+     "titel": "Fiscalist Frank Butselaar en Linda de Mol: opkomst en val",
+     "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQVmpEZ0dyQkM2U0hwYTFEcV9TM0Q4WWdkYkpueHhoNmZ1Nk4yZEdZbk44alE2YjlPTEZzR3NONFpVZk9CdEFNWnhXUzVrR293TzlfRHpGUjNVYVhzc3E2dVpBU0tGTEZqRVlIdGdMTHRsRGk1T3Q4RTFwY3pJcXh6Z1JxNVhuS0Jadl9KdEpCdVY4eW9IalJFd3pKQ05uOGdEenpJbnNZZ2oyYW1zNlU0Y01TbnhteXlYUFgxSFAtQXdsV1BSUm5sM3k2NjlxcHpDQnNSNm5TQWdmQUFqNk10SU55aUtaQkpqWjU4aC1TNU9HQmx0NEJsYVdhbFdRTGFXVkVYaVhoQWo5RXp3ZWpxMWEtcTkwQ1BMdWY5VUEwRl9WQQ?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "08:51",
+     "sorteer": "2026-11-11T07:51:23+00:00"
+    },
+    {
      "titel": "In bos begraven baby na 24 uur levend gevonden, vader gearresteerd",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZkJDd2FqaVlYSTUtd1lRQzVJSk8wd3dpMkJkMWFmQS01ckxSVzhVV0daS0pFa0p1WGFxVDB4WWVJeHBXMjlKNk9VUS1Ka3E5Wm8zTkY2S2RIN3lpb3VXaExwMUpWSldTY3d3XzJTOUlQT3E4VXphWHI3NjlCeXllNkFBeTF0cWVUUURjTDhOdVBrUm9GdUJiYktSUl9PbzJqWE5OTGRrRDYtVjhmeDZoSGpSR0Zzakk?oc=5",
      "bron": "De Telegraaf",
@@ -465,18 +469,11 @@
      "sorteer": "2026-11-11T06:11:43+00:00"
     },
     {
-     "titel": "Zelfs milde coronabesmettingen laten sporen na in hersenen: onderzoekers ontdekken mogelijk verband met alzheimer",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNksxV3pMX0RWS1o1UmN2eHotY1BLX3ZrTV9WeEdQZmhBRndKQTFhR2RnUEpMU0ZWbGxyQ19MRHJhOHRzYnJUZzE4VW12SVBRUVFjcnpoX0tmYnBjUVVEai1Mdm43dVIwekNwb1pqejF1QUNBM09XbE10UF8yVXBMX0pVcV9ZazE3NWUwRnhibW5LUGpaNTRNRXZPQ09ReVB1UkZ0Q1Ruc0xQS2ZRYWxrbEhXZVV4WURrNmUtdjF4TzJfS29nVkF2dG5JZmpsR0ZoOVh5b3hnc0cyY1dwN1h5Y3JzNHZzQQ?oc=5",
-     "bron": "Brabants Dagblad",
-     "tijd": "22:41",
-     "sorteer": "2026-11-10T21:41:00+00:00"
-    },
-    {
-     "titel": "Overlastgevende Oekraïners niet weg te krijgen uit opvang: VNG wil haast met speciale, aparte locaties",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZHRiblJCd1k3UjhFdEtvWWYwQUlKTWcxT1BmUDQya3NKdndqLUctczlaTEFjYUI1RkNpX3h5dmNIRVFqQmFFSUZRakk5WXFOWEhOWGVfZ2VROU1JRTNwdFY5OUE3dnljUDBtb3EwX3BkaDlpeGtUUG9EVHQ2TmZIMkRSRmhjTThlQlM1cGxuanFHUGdYeTNyQndwZllkR0d1NnhCSVpYUEJ4RzgzQ0o1MS04cjlUdmdLeGVFWDJacjR3Yndqb2xZYUZyMGg1U1haZm00MHR6Yll4S0ktZmxJ?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "06:30",
-     "sorteer": "2026-11-11T05:30:00+00:00"
+     "titel": "Amsterdam trekt 6 miljoen uit voor aanpak drugsoverlast",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2VEaDViZ3diTEt2M3pHYm82YTVjQ29zU2Z6YUp4SWNUcnhLQmpUSFM0T1VqN095YnJwNE42aEl2VklnbDE5YzN5ZU95V0Vsd3gxNlQ4VFhjT0RwY0s5V2pkSnZFVG5PV2JqTUhCdTdxWEVlSi1sbXNiOThUamxzdlNlOGFWTVpU?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "08:41",
+     "sorteer": "2026-11-11T07:41:06+00:00"
     },
     {
      "titel": "Met dit stikstofbeleid wordt de boerderij definitief een anoniem bedrijf",
@@ -493,12 +490,17 @@
      "sorteer": "2026-11-11T04:45:05+00:00"
     },
     {
-     "titel": "Ochtendnieuws: Kabinet verdedigt onzeker box 3-dekking terwijl coalitie op breekpunt staat",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTXF1anByZFRCci1SQ1BvR255Y0JHX1dNazlVR2Q1RG1nU3BkOTJlYUxFbU03NTJRT2NDSFpnR2JSWFMyQ3ppb0liTnlUTzhxWXM4TFczUHNQVDRDQURudkFSQm9CcGYzUV9sZ0NUM3FmVGZFaXBxaVpfdEZFa21Uc0ZNSl81b21zZnY2dXZVLTFCNVJKeE5VbkYtazNDcjlCeTRRU2M5OE5VTVhZMUVjaFc3Rk5PNXZEQkxlOThVbXBreEIwRnB0ZFF5Z3M0X1BDejdpRmcwSEc?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "06:44",
-     "sorteer": "2026-11-11T05:44:59+00:00",
-     "kop": "Begroting"
+     "titel": "Live | Heinen verdedigt box 3-plan en dekking kabinet: 'Ramingen te onzeker'",
+     "context": "Hallo en welkom in dit liveblog. Hier houden wij (Priscilla Slomp en Edo van der Goot) je op de hoogte van het debat over het belastingplan van het kabinet.",
+     "rubrieken": [
+      "politiek"
+     ],
+     "link": "https://www.nu.nl/politiek/6416125/heinen-verdedigt-box-3-plan-en-dekking-kabinet-ramingen-te-onzeker.html",
+     "bron": "NU.nl",
+     "tijd": "16:10",
+     "sorteer": "2026-11-10T16:10:47+01:00",
+     "kop": "Begroting",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Deadline nadert, maar duidelijkheid over belastingplan blijft uit",
@@ -519,7 +521,7 @@
     },
     {
      "titel": "Coalitie en Kamer nog geen steek verder met belastingplan",
-     "context": "Na weer een avond debatteren is nog altijd niet duidelijk hoe het verder moet met het belastingplan. Een deal over meerderheden in de Tweede en Eerste Kamer is nog altijd niet in zicht. De politieke partijen onderhandelen vandaag verder. \"Laten we met een nieuwe dag en frisse moed kijken naar wat er dan op tafel ligt\", zei staatssecretaris Eerenberg (Fiscaliteit) in het debat. Het belastingplan da",
+     "context": "Na weer een avond debatteren is nog altijd niet duidelijk hoe het verder moet met het belastingplan. Een akkoord over meerderheden in de Tweede en Eerste Kamer is nog altijd niet in zicht. De politieke partijen onderhandelen vandaag verder. \"Laten we met een nieuwe dag en frisse moed kijken naar wat er dan op tafel ligt\", zei staatssecretaris Eerenberg (Fiscaliteit) in het debat. Het belastingplan",
      "rubrieken": [],
      "link": "https://nos.nl/l/2638942",
      "bron": "NOS politiek",
@@ -573,6 +575,17 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Alaaf! Het is de elfde van de elfde: het carnavalsseizoen is begonnen",
+     "context": "Voor doorgewinterde carnavalisten begint vandaag de mooiste tijd van het jaar: carnaval. Want het is 11 november - de elfde van de elfde - de traditionele aftrap van het carnavalsseizoen. Maar waar komt die traditie eigenlijk vandaan? En waarom speelt het getal elf zo'n grote rol in carnavalsland?",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/cultuur/3716316/alaaf-het-is-de-elfde-van-de-elfde-het-carnavalsseizoen-is-begonnen",
+     "bron": "RTV Oost",
+     "tijd": "07:00",
+     "sorteer": "2026-11-11T06:00:11+00:00"
+    },
+    {
      "titel": "Plan voor meer treinen én snellere verbinding naar Duitsland",
      "context": "Het is goed voor toeristen, de economie, maar ook voor Defensie. Dat is de gedachte achter het plan van Nederland en Duitsland om nauwer samen te werken op het spoor. Daarvoor moeten trajecten beter op elkaar aansluiten en er meer passagierstreinen gaan rijden die korter onderweg zijn.",
      "rubrieken": [],
@@ -592,36 +605,6 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "'Hij herkende me niet meer': Wendy schrijft boek over mantelzorg voor haar vader",
-     "context": "Hoe bewaar je de herinneringen van iemand die ze zelf langzaam kwijtraakt? Voor Wendy ten Klooster uit Balkbrug werd het antwoord een boek. Over haar vader, zijn leven als persfotograaf en de mooie én moeilijke momenten van mantelzorg.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3717489/hij-herkende-me-niet-meer-wendy-schrijft-boek-over-mantelzorg-voor-haar-vader",
-     "bron": "RTV Oost",
-     "tijd": "20:11",
-     "sorteer": "2026-11-10T19:11:31+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Auto neemt afslag het spoor op bij Dalfsen",
-     "context": "Een opmerkelijk gezicht dinsdagavond bij spoorwegovergang Het Lage Veld, vlak buiten Dalfsen. Geen trein, maar een personenauto reed daar over de rails.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3717539/auto-neemt-afslag-het-spoor-op-bij-dalfsen",
-     "bron": "RTV Oost",
-     "tijd": "19:34",
-     "sorteer": "2026-11-10T18:34:37+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "In dit nieuwe laboratorium van de Universiteit Twente komen allerlei robots samen",
-     "context": "Robots bouwen, testen en demonstreren gebeurde aan de Universiteit Twente tot nu toe verspreid over verschillende faculteiten. Daar komt verandering in: met een nieuw roboticalab krijgen onderzoekers, studenten en bedrijven voor het eerst één gezamenlijke plek om samen te werken aan nieuwe toepassingen.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3717492/in-dit-nieuwe-laboratorium-van-de-universiteit-twente-komen-allerlei-robots-samen",
-     "bron": "RTV Oost",
-     "tijd": "19:28",
-     "sorteer": "2026-11-10T18:28:57+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
      "titel": "James verloor zoon Mick aan zelfdoding: 'Zijn dood mag niet zinloos zijn'",
      "context": "Twee jaar na de zelfdoding van zijn zoon Mick zoekt James Eekhout uit Almelo naar een manier om met zijn verlies om te gaan. Met Mick’s Place wil hij jongeren in Twente een plek bieden waar ze zichzelf kunnen zijn en steun vinden, voordat hun problemen escaleren.",
      "rubrieken": [
@@ -631,6 +614,25 @@
      "bron": "RTV Oost",
      "tijd": "19:22",
      "sorteer": "2026-11-10T18:22:10+00:00"
+    },
+    {
+     "titel": "Verdachte geraakt door afgeketste kogel bij vermeende afrekening in Zwolle",
+     "context": "De politie stond na een schietpartij in Zwolle voor een raadsel. Meer dan een jaar later blijkt dat het slachtoffer volgens het Openbaar Ministerie een potentiële dader was die per ongeluk een kogel ontving. Vandaag moesten hij en zijn compagnon zich voor de rechter verantwoorden.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3717441/verdachte-geraakt-door-afgeketste-kogel-bij-vermeende-afrekening-in-zwolle",
+     "bron": "RTV Oost",
+     "tijd": "18:41",
+     "sorteer": "2026-11-10T17:41:37+00:00"
+    },
+    {
+     "titel": "Enschedese verkeersader afgesloten nadat voetganger wordt geschept",
+     "context": "De Pathmossingel in Enschede is tijdens de dinsdagavondspits tijdelijk afgesloten vanwege een verkeersongeval. Op de kruising van de Sterkerstraat met de Pathmossingel kwam vanmiddag rond half zes een voetganger met fiets aan de hand hard in botsing met een auto.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3717530/enschedese-verkeersader-afgesloten-nadat-voetganger-wordt-geschept",
+     "bron": "RTV Oost",
+     "tijd": "17:47",
+     "sorteer": "2026-11-10T16:47:52+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Het dansen gaat weer beginnen",
@@ -714,6 +716,14 @@
      "tijd": "12:00",
      "link": "https://www.aireport.nl/p/ai-vond-alle-elf-valkuilen-in-onze-testcontracten",
      "sorteer": "2026-11-10T11:00:00+00:00"
+    },
+    {
+     "titel": "Motie van de leden Mathlouti en Struijs over inzicht in de AI-toepassingen die de politie al inzet en de mogelijkheden ọm deze op…",
+     "bron": "Motie",
+     "kop": "Uit de Tweede Kamer",
+     "tijd": "10-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D57026",
+     "sorteer": "2026-11-11T08:58:37.55+01:00"
     },
     {
      "titel": "Appreciatie moties van de leden Kostić en Teunissen over datacenters",
@@ -873,36 +883,20 @@
      "sorteer": "2026-11-11T07:49:28.22+01:00"
     },
     {
+     "titel": "Reactie op verzoek van het lid Piri, gedaan tijdens de regeling van werkzaamehden van 10 november 2026, over de zorgen en…",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "11-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D57077",
+     "sorteer": "2026-11-11T08:59:18.103+01:00"
+    },
+    {
      "titel": "Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Organisatie der Verenigde Naties voor Onderwijs…",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
      "tijd": "04-11",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D56371",
      "sorteer": "2026-11-10T17:51:36.21+01:00"
-    },
-    {
-     "titel": "Omnibus veiligheid van voedsel en diervoeder - COREPER 30 september 2026",
-     "bron": "Brief van de regering",
-     "kop": "Brieven en moties",
-     "tijd": "29-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D46929",
-     "sorteer": "2026-11-10T17:35:35.653+01:00"
-    },
-    {
-     "titel": "Motie van het lid Van den Berg c.s. over per ministerie inzichtelijk maken welke verouderde ICT-systemen risico's vormen voor de…",
-     "bron": "Motie",
-     "kop": "Brieven en moties",
-     "tijd": "09-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D56688",
-     "sorteer": "2026-11-10T09:07:09.827+01:00"
-    },
-    {
-     "titel": "Motie van het lid Rajkowski c.s. over onderzoek naar mogelijkheden voor de politie om bij cybercrimes vaker aan…",
-     "bron": "Motie",
-     "kop": "Brieven en moties",
-     "tijd": "09-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D56685",
-     "sorteer": "2026-11-10T09:05:39.48+01:00"
     },
     {
      "titel": "Economische veiligheid en strategische autonomie",
@@ -952,7 +946,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "08:00",
+    "bijgewerkt": "09:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1440,42 +1434,42 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 106 soorten, 5.657 vogels geteld",
+     "titel": "Landelijk vandaag: 23 soorten, 515 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261111?language=dutch"
     },
     {
-     "titel": "Spreeuw — 1.261",
+     "titel": "Spreeuw — 195",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261111?language=dutch"
     },
     {
-     "titel": "Kolgans — 617",
+     "titel": "Kolgans — 122",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261111?language=dutch"
     },
     {
-     "titel": "Zwarte Zee-eend — 505",
+     "titel": "Toendrarietgans — 48",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261111?language=dutch"
     },
     {
-     "titel": "Vink — 479",
+     "titel": "Sijs — 46",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261111?language=dutch"
     },
     {
-     "titel": "Kokmeeuw — 275",
+     "titel": "Kramsvogel — 30",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -1538,14 +1532,14 @@
    "items": [],
    "weer": {
     "nu": 3.9,
-    "gevoel": 1.9,
+    "gevoel": 1.3,
     "wind": "ONO 2",
     "station": "Heino",
-    "bericht": "Vandaag ten zuiden van de grote rivieren af en toe (mot)regen. In het noorden vanochtend eerst plaatselijk mist, daarna perioden met zon. Morgen geregeld zon en plaatselijk een buitje.Vanochtend is het grijs, met in het zuiden van het land af en toe regen of motregen.",
-    "vandaag": "Vandaag ten zuiden van de grote rivieren af en toe (mot)regen. In het noorden vanochtend eerst plaatselijk mist, daarna perioden met zon.",
+    "bericht": "Vandaag ten zuiden van de grote rivieren valt af en toe (mot)regen. In het noorden zijn er perioden met zon. Morgen is er geregeld zon met plaatselijk een buitje.Vanochtend is het grijs, met in het zuiden van het land af en toe regen of motregen.",
+    "vandaag": "Vandaag ten zuiden van de grote rivieren valt af en toe (mot)regen. Vanochtend is het grijs, met in het zuiden van het land af en toe regen of motregen.",
     "temperatuur": "De temperatuur varieerde in alle vroegte van 3 graden in het noorden tot 6 graden in het zuiden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: 0 tot 6 graden, 18% kans op neerslag, ruim 7 uur zon, wind uit het noordoosten, kracht 2.",
+     "zin": "Voor Dalfsen zelf: 0 tot 6 graden, 18% kans op neerslag, ruim 3 uur zon, wind uit het noordoosten, kracht 2.",
      "max": 6,
      "min": 0,
      "regenkans": 18,
