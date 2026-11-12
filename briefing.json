@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "21:00",
+  "opgehaald": "22:00",
   "blokken": 11,
-  "berichten": 105,
+  "berichten": 100,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-12T21:00+01:00",
+ "opgehaald": "2026-11-12T22:00+01:00",
  "audio": "audio/20261112.mp3",
  "afval": [
   {
@@ -186,6 +186,7 @@
    "geschreven": "19:00"
   }
  ],
+ "verder": [],
  "blokken": [
   {
    "id": "internationaal",
@@ -265,96 +266,84 @@
      "sorteer": "2026-11-12T19:14:00+00:00"
     },
     {
-     "titel": "‘Who will be held accountable?’: fatal Brooklyn building collapse devastates community",
-     "context": "New York City officials have confirmed at least eight casualties – six adults and two children – in the collapse Flatbush Ave in Flatbush, New York, stood still and in shock after a three-story apartment building collapsed on Wednesday afternoon near a construction site. “The last time I saw something like this was when I went to work at 9/11,” Prudence Foster said. Continue reading...",
+     "titel": "The End of Russia’s Bravest Newspaper",
+     "context": "For more than 30 years, the paper covered an increasingly repressive state under Vladimir Putin.",
      "rubrieken": [
-      "New York",
-      "Brooklyn",
-      "Zohran Mamdani",
-      "US news",
-      "Emergency services",
-      "Firefighters"
-     ],
-     "link": "https://www.theguardian.com/us-news/2026/nov/12/nyc-building-collapse-reaction",
-     "bron": "The Guardian",
-     "tijd": "20:49",
-     "sorteer": "2026-11-12T19:49:24+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Jensen Huang has resigned, what's next for Nvidia?",
-     "context": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "20:33",
-     "sorteer": "2026-11-12T19:33:37+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-     "context": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "20:23",
-     "sorteer": "2026-11-12T19:23:02+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
-     "context": "The Kremlin, taking a hard line, is pushing to widen negotiations to overhaul European security structures.",
-     "rubrieken": [
-      "Russian Invasion of Ukraine (2022)",
-      "International Relations",
-      "United States International Relations",
-      "Politics and Government",
+      "internal-open-access-from-nl",
+      "Novaya Gazeta",
+      "Russia",
+      "Newspapers",
+      "Politkovskaya, Anna",
       "Putin, Vladimir V",
-      "Witkoff, Steven",
-      "Ukraine",
-      "United States"
+      "Huang, Jen-Hsun",
+      "NVIDIA Corporation",
+      "Gaza Strip"
      ],
-     "link": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+     "link": "https://www.nytimes.com/2026/11/12/world/russia-novaya-gazeta-nvidia-gaza.html",
      "bron": "New York Times",
-     "tijd": "19:40",
-     "sorteer": "2026-11-12T18:40:46+00:00",
+     "tijd": "21:51",
+     "sorteer": "2026-11-12T20:51:26+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Climate science says 1.5C is dead. No one wants to bury it.",
-     "context": "Leaders at COP31 want to keep the totemic goal alive, even after the U.N. declared it impossible to hit.",
+     "titel": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
+     "context": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown Soldier Pete Hegseth awards medal to soldier who reprimanded him Sign up for the Breaking News US email Perhaps you saw this ad from Scott Colom, who was just elected to serve as Mississippi’s first Democratic senator since 1989: The New York Times spoke ",
      "rubrieken": [
-      "Alternative fuels",
-      "Carbon",
-      "Carbon removal",
-      "Coal",
-      "COP31",
-      "Department",
-      "Dumping/Duties",
-      "Emissions",
-      "Energy",
-      "Fossil fuels",
-      "Fuels",
-      "Greenhouse gas emissions",
-      "History",
-      "Hospitals",
-      "Natural gas",
-      "Negotiations",
-      "North Sea",
-      "Oil",
-      "Rights",
-      "Safety",
-      "Energy and Climate",
-      "Energy and Climate UK"
+      "US news",
+      "Mississippi",
+      "Donald Trump",
+      "US midterm elections 2026",
+      "Democrats",
+      "Republicans"
      ],
-     "link": "https://www.politico.eu/article/climate-science-1-5c-target-global-warming-dead/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+     "bron": "The Guardian",
+     "tijd": "21:47",
+     "sorteer": "2026-11-12T20:47:00+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Not even old Andalusian heartlands can save Pedro Sánchez",
+     "context": "Spain’s most populous region powered the Socialists for decades, but the politics of the south are changing.",
+     "rubrieken": [
+      "Cities",
+      "Corruption",
+      "Elections",
+      "Elections in Europe",
+      "Railways",
+      "Spanish election 2026",
+      "Spanish politics",
+      "Politics"
+     ],
+     "link": "https://www.politico.eu/article/pedro-sanchez-uphill-battle-to-win-back-the-socialists-andalusian-heartland/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
      "bron": "Politico Europe",
-     "tijd": "19:27",
-     "sorteer": "2026-11-12T18:27:58+00:00",
+     "tijd": "21:45",
+     "sorteer": "2026-11-12T20:45:45+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+     "context": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "21:37",
+     "sorteer": "2026-11-12T20:37:36+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+     "context": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "21:09",
+     "sorteer": "2026-11-12T20:09:16+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -429,6 +418,13 @@
      "sorteer": "2026-11-12T13:45:00+00:00"
     },
     {
+     "titel": "Steeds schaamtelozer dragen Franse studenten hun wereldvreemdheid uit",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS3dnbnRwQ21xQTZHMDQzQ2NVZjNKX3FvbFlidzlNU3FPQVNKa1U5czdacTZPSGcwUHMzQUdsa0VVOThocXprcWJYc21Xbnhxc29fN3BHZlBCNllKN3VXekNrQWZrSmpXLXJJZ2dIc0RqNXVRd3Y1TUtHdEJfQmdwMDJFb3hwbldKTmNyMTg0X21GRTBfZ09ERFZQV2NCOUNRSTJjaXhsQ241dmhwTmVjRk1RdVlla1h3cmc?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "21:39",
+     "sorteer": "2026-11-12T20:39:48+00:00"
+    },
+    {
      "titel": "Joost had nog maar 8 procent nierfunctie, zijn 74-jarige broer schoot te hulp: ‘Noemen we broederliefde’",
      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUHRITHk1OHBTcWFCYURmYmlWLTVHYVQzbWNRZndCdnEtUmo5R1pNVWVfNFVQdmFOZVZNR2NqS25Obk9rMU1ZYU9JaWZmNTJ4OVlwdk1mZ2w2dU5kY2hRX2pfM0RFcUlpZjVNNFAyeGtmVzJKMWM4cWk3X0VHbEV4RnVBU21pTGU2ZUFISzJzWkoxVDlHY2QxVU9ZalJPSDNPZklUaTNhVWpOQms3SS1TRjdOazR2U0JwQU9uN3MtdnhKN2xGZ0x4RE5kbER2cUtlVnpFaExBS0M3VkdXRWc?oc=5",
      "bron": "Tubantia",
@@ -443,13 +439,6 @@
      "sorteer": "2026-11-12T18:30:22+00:00"
     },
     {
-     "titel": "Ze had uitgezaaide longkanker en kon niet meer lopen: wat er daarna gebeurde, verbaasde zelfs haar arts",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOTgxMTBWTW5ubTlPdnF4c0F1U2pKdUlnbGYtVmNXODJ3QUFVWWQxb2NURHdmblZ5dUs3Wnd3U3RCc2cwbFdvSnczeHplOThYbDBveUc3SXVtaWp6WWRqOXhUcHpYOEZtbEM1eEJWLVhkWmRzTWlfeEI3Wng3bEh2MDktVlFIbGwtVW0xVFFpSm5OREQ3WDZGTlFsNkJYVEtPU0owXzV0QzVOVVJYWlJpeTI1QU9TWFdOMHJNZ2ZyTjl4M2F3ZklzdlZNUlpvck5TcDFiaTYzMmtvelNDbUh4NA?oc=5",
-     "bron": "de Stentor",
-     "tijd": "19:30",
-     "sorteer": "2026-11-12T18:30:00+00:00"
-    },
-    {
      "titel": "‘Brein’ van aanslag op Tarwekamp gebruikt list en bedrog en toont maar weinig emotie, zeggen specialisten",
      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQME1mT3VTTW9xdE5pd19HcDk3YjNJb1ZXQUR6NDJ2MzN3ZHBRUm1ER0Z5VnA4VzR4emd3Ql9WZGxkei1mUGpTZFdGMzBRaFBPNzFPd1ZXNW1scjJ6emFRdWdJeS0zMjBWcDMzRmVQMmM0VTlTQndOamtlUjNnQ3M2M0gwZzZRbk1mTEJDb1BfU0dMMEl3eTdMZTB0elc1YTZPRi1aeXFwUE1qc3QxQUxrTkduWC1KQVNWTW9NNnQwQXBSYnRXbE9wOTZSTS1wY2pETDUybDNYNlpVUHNUcDNHRWZB?oc=5",
      "bron": "de Stentor",
@@ -457,11 +446,11 @@
      "sorteer": "2026-11-12T18:00:00+00:00"
     },
     {
-     "titel": "Jeugdzorgaanbieder stapt naar de rechter na breuk met Flevolandse gemeenten: ‘Ze proberen ons kapot te maken’",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMzdrbFJNNmRfMU45U2p5QjYyT2p5dW16dE1aVVNhUG4ydHQ1RkpzR0w2VXFlYWJyaVVqb3AyUUhXQjlCNzJyNFJOQU4ta1RzdjdnbmRpeTEyZFA3eUx4eFNSOTJndUhhQmRySEhET29NRWpyX3FIaUJESHNiYktQemNHbEZ1X1BZejV4SlFsNVhQUFpTbHhMcElIWVBacmoyXzU5UGNCS3ZBM1VWSlNxRTVpaTQ5SE94T19fVTNmYlAzQlgtVkg3ell6bHFPMUVPY2RkREh1ZldFdzE4MDBVTjNJb1E?oc=5",
+     "titel": "Belastingplan aangenomen, inclusief miljonairstaks, VVD woedend: ‘Slecht voor Nederland’",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdFpmek9kaDdnUUluRENzaUUwOVJIemJ3MlVIc0pzcnBCdUkwVHd4Y2JEQXNGVXNuRm9LVjYtRndtdVhSOGlFd3hlemZNV1p3YkVOSEhLQmh5Y0FjRWVXamQzd0l5SkFDaWdlRmFrRklqaF9LeTZqN25sSjJJUmFiTExaZ2tjMV9WN18tR1NvLWxNSk01aFVzZjMtcUxCOXp0TDQ4dlJNYXZ5eHdFdHBDWU91MkNDYVRVM3o1amZnUi05c1ZGU0E?oc=5",
      "bron": "de Stentor",
-     "tijd": "20:00",
-     "sorteer": "2026-11-12T19:00:54+00:00"
+     "tijd": "20:24",
+     "sorteer": "2026-11-12T19:24:00+00:00"
     },
     {
      "titel": "Ik ben geen AI-bot, maar journalist. Kan ik jou daar nog van overtuigen?",
@@ -478,41 +467,24 @@
      "sorteer": "2026-11-12T04:45:05+00:00"
     },
     {
-     "titel": "Live | Kamermeerderheid voor links voorstel dankzij D66 en CDA: belastingplan onzeker",
+     "titel": "Live | Coalitiecrisis naar kookpunt nu belastingplan door Tweede Kamer is",
      "context": "Hallo en welkom in dit liveblog. Hier houden wij (Sanne Oving, Edo van der Goot en Priscilla Slomp) je op de hoogte van de politieke ontwikkelingen in Den Haag.",
      "rubrieken": [
       "politiek"
      ],
-     "link": "https://www.nu.nl/politiek/6416283/kamermeerderheid-voor-links-voorstel-dankzij-d66-en-cda-belastingplan-onzeker.html",
+     "link": "https://www.nu.nl/politiek/6416283/coalitiecrisis-naar-kookpunt-nu-belastingplan-door-tweede-kamer-is.html",
      "bron": "NU.nl",
      "tijd": "07:36",
      "sorteer": "2026-11-12T07:36:36+01:00",
-     "kop": "Begroting"
+     "kop": "Begroting",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Kamer stemt in met links belastingvoorstel: lagere belasting op arbeid wordt opgehaald bij vermogenden",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVTREZ2VqMVpyUFpaQXljUzhNNXNkMFhtY0pvZnJ4UXQ2MWNPOV9xRzNvUWdkaTdYOWt4a2NJOVNMWnBNYWxQQUp6N05SSUwzNWg2Qk55X3FMU19DUFQ2R3BTeW5IbUxvdUVTbjF3TVRMX01DTVVUaWNiYWVoeE01cVJCd1NiYjc5VVNfeWtmZTRFN0tyZE5RNnU1Zm9CQ2xOR2F4OTQ1TG9rOUltOHY0YXNCeUdIZFVrU0tud2MtSFZNbDVCNFpHU29ETFhEWmtmZVVaXw?oc=5",
-     "bron": "AD.nl",
-     "tijd": "20:24",
-     "sorteer": "2026-11-12T19:24:15+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Amendement van Klaver en Dassen aangenomen: alle ogen gericht op de VVD",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/politiek/amendement-van-klaver-en-dassen-aangenomen-alle-ogen-gericht-op-de-vvd~ba7ccd26/",
-     "bron": "de Volkskrant",
-     "tijd": "20:01",
-     "sorteer": "2026-11-12T19:01:00+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Invoering ‘miljonairsbelasting’ krijgt steun van Tweede Kamer. Belastingplan hangt aan zijden draad",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR2kzQ0d4TGpJT3ZmVEdYSzFlam83a3B6WmU3eHBlRWFweG02aGkyRzlycmdvQUE3WW94VVU0QVZvR093LU1QNFFKQmRmYWNQTFFTRDhfdUt3aC1Tc29FSHpQZGY1TzhfbXNMOGVEZF91aURLWGhGVnY1UjRrUVV2RHhRT0FhRHNHLXpPZU5iUVlVY0tUcTNyd2hYb2xfTFRaLVppaXJB?oc=5",
-     "bron": "Nederlands Dagblad",
-     "tijd": "19:58",
-     "sorteer": "2026-11-12T18:58:39+00:00",
+     "titel": "Pro-partijleider Jesse Klaver zegt dat het Belastingplan Nederland behoedt voor ‘chaos’",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUUV1QTFCSFlkQm5ER1pUUUlfR2M3T2ZsN09zNVprbkFETUlqSnRhYWVQOGxiVkpUMzlySzliNlFUR2Uwb3dKbGFTTFRmOHdVcmktX2F0THhoRk0wbGZGRFhHSng3Y0FBdTY2QWotb1BVRHh0bzQzSzZlYWVzOXd2dURCS2xJTnVMUmlFWXZSWjdtYW95eDZPdWttOUVyRkF2dDRKLWFLMVpXVXZtTVBOd2ZpaW5GUDhLY1VWSFFTeEczZjJ1dXBXaDNydw?oc=5",
+     "bron": "NRC",
+     "tijd": "21:57",
+     "sorteer": "2026-11-12T20:57:00+00:00",
      "kop": "Begroting"
     },
     {
@@ -523,24 +495,6 @@
      "bron": "NOS politiek",
      "tijd": "18:20",
      "sorteer": "2026-11-12T18:20:28+01:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Belastingplan levert zware coalitiecrisis op: vier vragen en antwoorden",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdEt4enhVMmUxU3l5NWtTT3ExRDZIREE0UVVQQTVmaWJScW5kQzhjMzV5RUIzM1BiNU1teXBwdDZXTlpBVjUtejRXZXJVcG9nTk1uYXRPUVplMXotaXNwVHNqeENQXzBORTh6aU1GRGZGcGF2TFVVS2Fic1ZwR3h4UmlCdzJTSXdzOEFrOEZORUxyMmI5WDNuYlJ1VUlGTmdlWDVv?oc=5",
-     "bron": "NOS",
-     "tijd": "18:29",
-     "sorteer": "2026-11-12T17:29:39+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Meerderheid voor het amendement van Pro en Volt",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/politiek/live-kabinetscrisis-meerderheid-voor-het-amendement-van-pro-en-volt~b6fe20720/",
-     "bron": "Trouw",
-     "tijd": "18:08",
-     "sorteer": "2026-11-12T17:08:00+00:00",
      "kop": "Begroting"
     },
     {
@@ -562,7 +516,7 @@
      "sorteer": "2026-11-12T19:05:00"
     },
     {
-     "titel": "Nieuwsuur: Cruciaal debat in Den Haag over belastingplan",
+     "titel": "Nieuwsuur: Coalitie wankelt na stemming belastingplan",
      "context": "Cruciaal debat over belastingplan De Tweede Kamer is vandaag in de ban van de deal tussen coalitiepartijen D66 en CDA met Pro en Volt over het belastingplan. Zonder de VVD. Dat veelbesproken voorstel van Pro en Volt is vanavond aangenomen. In het voorstel staat dat mensen met veel vermogen meer belasting gaan betalen. Met het geld dat daarmee wordt opgehaald, gaat de inkomstenbelasting wat omlaag.",
      "rubrieken": [],
      "link": "https://nos.nl/l/2639151",
@@ -586,6 +540,15 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Buurmannen blij met vuurwerkontheffing: 'Aan vuurwerk komen is het volgende'",
+     "context": "Buurmannen Alex van den Hoorn en Jan Meuleman uit IJsselmuiden hebben goed nieuws gekregen. Hun vuurwerkontheffing is binnen. Maar daarmee is nog niet alles geregeld. Er moet nog veel gebeuren voordat ze het nieuwe jaar met vuurwerk kunnen inluiden.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3718270/buurmannen-blij-met-vuurwerkontheffing-aan-vuurwerk-komen-is-het-volgende",
+     "bron": "RTV Oost",
+     "tijd": "21:56",
+     "sorteer": "2026-11-12T20:56:33+00:00"
+    },
     {
      "titel": "Bioloog kritisch op plan om wolven te verjagen: 'Besteed geld aan workshops'",
      "context": "De provincie Overijssel trekt geld uit om wolven actief te verjagen, onder meer met paintballgeweren of rubberen kogels. Bioloog Diederik van Liere vindt dat er al veel eerder geld beschikbaar had moeten komen, maar voor een andere oplossing.",
@@ -614,62 +577,50 @@
      "sorteer": "2026-11-12T17:35:16+00:00"
     },
     {
-     "titel": "Minister bezoekt schuimhuizen in Rijssen: 'Schrijnende verhalen'",
-     "context": "Hoog bezoek vandaag aan het Pottebakkerserf in Rijssen: woonminister Elanor Boekholt-O’Sullivan ging er in gesprek met bewoners van huurwoningen. Veel van hen kampen al meer dan een jaar met gezondheidsklachten, sinds hun woningen werden geïsoleerd met UF-schuim.",
+     "titel": "Politie oefent met gemaskerde agenten op straat in Zwolle",
+     "context": "Wie vandaag opvallend veel politie tegenkomt in Zwolle, hoeft niet te schrikken. De politie houdt de hele dag oefeningen in de stad. Zo waren vanmorgen bij de Stadkamer aan de Burgemeester van Roijensingel meerdere gemaskerde agenten bezig met een training.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3718142/politie-oefent-met-gemaskerde-agenten-op-straat-in-zwolle",
+     "bron": "RTV Oost",
+     "tijd": "14:36",
+     "sorteer": "2026-11-12T13:36:42+00:00"
+    },
+    {
+     "titel": "Hoofdgasleiding geraakt bij slootonderhoud: flinke gaslekkage in Zwolle",
+     "context": "Bij werkzaamheden langs de Ceintuurbaan in Zwolle is vanmiddag een hoofdgasleiding geraakt. Dit gebeurde ter hoogte van de Kuyserhuislaan, vlak bij ziekenhuis Isala. Meerdere kantoorpanden zijn ontruimd. Twee woningen en het hospice zitten zonder gas.",
      "rubrieken": [
       "breaking"
      ],
-     "link": "https://www.oost.nl/nieuws/3718050/minister-bezoekt-schuimhuizen-in-rijssen-schrijnende-verhalen",
+     "link": "https://www.oost.nl/nieuws/3718128/hoofdgasleiding-geraakt-bij-slootonderhoud-flinke-gaslekkage-in-zwolle",
      "bron": "RTV Oost",
-     "tijd": "18:19",
-     "sorteer": "2026-11-12T17:19:54+00:00"
+     "tijd": "12:48",
+     "sorteer": "2026-11-12T11:48:09+00:00"
     },
     {
-     "titel": "Flinke file rondom Zwolle verholpen nadat paard door bodem trailer zakt",
-     "context": "Op de A28 bij De Lichtmis tussen Zwolle en Meppel moest het verkeer rekening houden met een flinke file tijdens de avondspits. Op die weg zakte een paard door een paardentrailer.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3718931/flinke-file-rondom-zwolle-verholpen-nadat-paard-door-bodem-trailer-zakt",
-     "bron": "RTV Oost",
-     "tijd": "17:42",
-     "sorteer": "2026-11-12T16:42:02+00:00"
+     "titel": "Paard trapt deur van trailer kapot op A28",
+     "context": "LICHTMIS – Paard trapt deur van trailer kapot op A28 bij Zwolle: lange file tijdens avondspits. Een opmerkelijk incident heeft donderdagmiddag voor flinke verkeershinder gezorgd op de A28 bij Zwolle. Een paard heeft tijdens het vervoer de deur van een paardentrailer kapotgetrapt. Het dier kwam daarbij deels buiten de trailer te hangen. Door de beschadigde […]",
+     "rubrieken": [
+      "112-nieuws",
+      "Laatste nieuws",
+      "Lichtmis"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/556498/paard-trapt-deur-van-trailer-kapot-op-a28.html",
+     "bron": "DalfsenNet",
+     "tijd": "21:32",
+     "sorteer": "2026-11-12T20:32:31+00:00"
     },
     {
-     "titel": "Provincie eist einde aan gaslekken, Groen Gas Goor vindt dat onmogelijk",
-     "context": "Groen Gas Goor moet een einde maken aan gaslekkages bij zijn installaties. Gebeurt dat niet, dan kan het bedrijf een dwangsom van maximaal 500.000 euro krijgen van de provincie Overijssel. Maar volgens de biogasproducent is het onmogelijk om te voorkomen dat er nog ergens gas ontsnapt.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3717862/provincie-eist-einde-aan-gaslekken-groen-gas-goor-vindt-dat-onmogelijk",
-     "bron": "RTV Oost",
-     "tijd": "17:01",
-     "sorteer": "2026-11-12T16:01:31+00:00"
-    },
-    {
-     "titel": "Herfstbeelden uit de Dalfser bossen",
-     "context": "DALFSEN – Wat is het nog heerlijk in de Dalfser bossen! Tijdens een wandeling heb ik een aantal mooie herfstfoto’s gemaakt. Met het zonnetje dat af en toe tussen de bomen door piept, komen de warme herfstkleuren prachtig tot hun recht. Hoewel steeds meer bomen hun bladeren verliezen, valt er nog volop te genieten. De […]",
+     "titel": "Nu een bijzondere gast in Twente, in 1968 zat het Dalfser Sterrebos er vol mee",
+     "context": "DALFSEN – Een zeldzame notenkraker bij Holten trekt de aandacht van vogelliefhebbers. De bijzondere verschijning op de Sallandse Heuvelrug brengt ook een stukje Dalfser natuurgeschiedenis in herinnering. Want waar één zo’n vogel nu al voor belangstelling zorgt, zaten er in 1968 volop notenkrakers in het Sterrebos. Op DalfsenNet verscheen in januari 2020 al eens een […]",
      "rubrieken": [
       "Dalfsen",
-      "Ingezonden bericht",
       "Laatste nieuws",
       "Sterrebos"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/556490/herfstbeelden-uit-de-dalfser-bossen.html",
+     "link": "https://www.dalfsennet.nl/nieuws/556494/nu-een-bijzondere-gast-in-twente-in-1968-zat-het-dalfser-sterrebos-er-vol-mee.html",
      "bron": "DalfsenNet",
-     "tijd": "20:25",
-     "sorteer": "2026-11-12T19:25:55+00:00"
-    },
-    {
-     "titel": "Eigenaar gezocht van sieraden",
-     "context": "ZWOLLE – Bericht van de Politie: Op de A28 bij Zwolle troffen we bij een voertuig controle sieraden aan die vermoedelijk zijn gestolen. Dit kan in heel Nederland zijn gebeurd. Denkt u dat ze van u zijn? Neem dan alstublieft contact met ons op. Datum: 31 augustus 2026 Laatste update: 2 uur geleden Zaaknummer: PL06002026444642 […]",
-     "rubrieken": [
-      "Geen categorie",
-      "Ingezonden bericht",
-      "Laatste nieuws",
-      "Regio",
-      "Zwolle"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/556486/eigenaar-gezocht-van-sieraden.html",
-     "bron": "DalfsenNet",
-     "tijd": "20:01",
-     "sorteer": "2026-11-12T19:01:50+00:00"
+     "tijd": "21:19",
+     "sorteer": "2026-11-12T20:19:30+00:00"
     }
    ]
   },
@@ -751,13 +702,6 @@
      "bron": "Reformatorisch Dagblad",
      "tijd": "17:04",
      "sorteer": "2026-11-12T16:04:42+00:00"
-    },
-    {
-     "titel": "AI geeft Geralt zijn oude stem terug in nieuwe Witcher-uitbreiding",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmp0Um9vd2c5bGcxQVl6d0d6aDYzcGxzOHJObjdXRjZEX0lab3ZFYTZVRmdlWXRKSlplNDMwS1plU0F4VGZhSl9UaXQ4cmd6VmZSc2tDaWQzOUhpLURwVjdHM1FaT2F1dHJpU3NuSHFjMlFnYy1UYU4xaVlzRXo5aHhpUmhYSHZlbElnZEtIYW00blctdHpjek5NNHFZaFF2M09sMU9TNHpEVVpY?oc=5",
-     "bron": "Bright",
-     "tijd": "17:01",
-     "sorteer": "2026-11-12T16:01:55+00:00"
     }
    ]
   },
@@ -957,7 +901,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "21:00",
+    "bijgewerkt": "22:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1350,20 +1294,20 @@
      "link": "https://scientias.nl/deze-zeevogel-vliegt-zichzelf-een-jetlag-in-en-stuurt-daardoor-scheef/"
     },
     {
-     "titel": "After years of speculation, Suriname evicts Mennonites farming in the Amazon",
-     "toelichting": "More than 50 Mennonites have been deported from Suriname following years of controversy over plans to establish agricultural settlements for large-scale farming in the Amazon Rainforest. Authorities removed the Mennonite",
+     "titel": "In Brazil’s prey-rich Pantanal, jaguars reveal a surprisingly social side",
+     "toelichting": "Jaguars are widely believed to be solitary cats, only tolerating others when mating or raising cubs. However, a new study in the Brazilian Pantanal has found the jaguars there often pair up and are far more social than e",
      "bron": "Mongabay (Engels)",
-     "tijd": "18:40",
-     "link": "https://news.mongabay.com/short-article/2026/11/after-years-of-speculation-suriname-evicts-mennonites-farming-in-the-amazon/",
-     "sorteer": "2026-11-12T17:40:19+00:00"
+     "tijd": "21:45",
+     "link": "https://news.mongabay.com/short-article/2026/11/in-brazils-prey-rich-pantanal-jaguars-reveal-a-surprisingly-social-side/",
+     "sorteer": "2026-11-12T20:45:40+00:00"
     },
     {
-     "titel": "Smallholder farmers struggle on El Niño frontline; will the world help?",
-     "toelichting": "Smallholder farmers across the globe are bracing for, or already feeling, the effects of a historically strong El Niño. This event — forecast to peak in December with lasting impacts deep into 2027 — has brought warnings",
+     "titel": "US renews push to open Pacific marine protected area to fishing",
+     "toelichting": "The U.S. government has published proposed rules to allow commercial fishing in an area more than double the size of California inside a Pacific marine reserve that encompasses a network of islands, atolls, seamounts and",
      "bron": "Mongabay (Engels)",
-     "tijd": "17:35",
-     "link": "https://news.mongabay.com/2026/11/smallholder-farmers-struggle-on-el-nino-frontline-will-the-world-help/",
-     "sorteer": "2026-11-12T16:35:39+00:00"
+     "tijd": "21:06",
+     "link": "https://news.mongabay.com/short-article/2026/11/us-renews-push-to-open-pacific-marine-protected-area-to-fishing/",
+     "sorteer": "2026-11-12T20:06:26+00:00"
     }
    ]
   },
@@ -1536,9 +1480,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 3.9,
-    "gevoel": 1.2,
-    "wind": "WZW 2",
+    "nu": 5.0,
+    "gevoel": 3.2,
+    "wind": "WNW 2",
     "station": "Heino",
     "bericht": "Vanavond en vannacht valt vooral in het noorden een enkele bui. Daarbij wakker de wind op de wadden flink aan. Morgen wisselen zon, wolken en een paar buien elkaar af.",
     "vandaag": "Vanavond en vannacht valt vooral in het noorden een enkele bui. Vanavond vallen in de kustgebieden nog wat buien.",
@@ -1548,7 +1492,7 @@
      "max": 9,
      "min": 0,
      "regenkans": 7,
-     "omschrijving": "bewolkt"
+     "omschrijving": "lichte motregen"
     },
     "vooruit": "De rest van de week meest droog, vrij zonnig en in de nachten en ochtenden kans op lichte vorst en soms ook mist. Begin volgende week veel bewolking, dagelijks regen of buien en soms vrij veel wind, bij temperaturen rond of iets boven normaal.",
     "omslag": "Nachtvorst in aantocht: zondag tot 0 graden.",
