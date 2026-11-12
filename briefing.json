@@ -3,14 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "07:00",
+  "opgehaald": "08:00",
   "blokken": 11,
   "berichten": 102,
   "problemen": [],
-  "audio_herkomst": "model",
-  "audio_aangehaakt": "07:20"
+  "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-12T07:00+01:00",
+ "opgehaald": "2026-11-12T08:00+01:00",
  "audio": "audio/20261112.mp3",
  "afval": [
   {
@@ -219,6 +218,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Gebouw ingestort in New York: twee doden en zeker zeventien gewonden",
+     "context": "In de wijk Brooklyn in New York zijn twee mensen omgekomen en zeker zeventien gewond geraakt nadat een gebouw was ingestort. Van de gewonden verkeren er vier in kritieke toestand. Autoriteiten waarschuwen dat het aantal slachtoffers waarschijnlijk nog oploopt. Reddingswerkers weten niet hoeveel mensen er nog vermist zijn. Bouwvakkers waren bezig met graafwerkzaamheden op het naastgelegen terrein t",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639108",
+     "bron": "NOS",
+     "tijd": "07:46",
+     "sorteer": "2026-11-12T07:46:44+01:00"
+    },
+    {
      "titel": "Wekdienst 12/11: Erop of eronder voor kabinet • Hoger beroep tegen Erasmusschutter",
      "context": "Goedemorgen! De toekomst van het minderheidskabinet hangt aan een zijden draadje, in Den Haag wordt vandaag gestemd over het belastingplan. In Rotterdam begint het hoger beroep tegen Erasmusschutter Fouad L. Eerst het weer: De dag start met vrij veel bewolking en enkele buien. In de middag wisselen zon en wolken elkaar af en is het overwegend droog. Bij een matige tot vrij krachtige noordwestenwin",
      "rubrieken": [],
@@ -228,8 +236,8 @@
      "sorteer": "2026-11-12T06:39:25+01:00"
     },
     {
-     "titel": "'Chipbedrijf Nvidia neemt snel besluit over ontslag topman Huang'",
-     "context": "De raad van bestuur van chipbedrijf Nvidia beslist op zeer korte termijn of de in opspraak geraakte topman Jensen Huang ontslagen wordt of niet. Dat melden onder meer de persbureaus Bloomberg en Reuters na berichtgeving door The Wall Street Journal. Aanleiding is Huangs affaire met een vrouw die volgens de Amerikaanse inlichtingendiensten spioneerde voor China. Ze zou hebben geprobeerd chipgeheime",
+     "titel": "'Nvidia neemt snel besluit over ontslag topman Huang na nieuws over tweede affaire'",
+     "context": "De raad van bestuur van chipbedrijf Nvidia beslist op zeer korte termijn of de in opspraak geraakte topman Jensen Huang ontslagen wordt of niet. Dat melden onder meer de persbureaus Bloomberg en Reuters na berichtgeving door The Wall Street Journal. Aanleiding is een nieuwe affaire die aan het licht is gekomen. Volgens Amerikaanse media gaat het deze keer om een een werknemer van Nvidia. Eerder bl",
      "rubrieken": [],
      "link": "https://nos.nl/l/2639095",
      "bron": "NOS",
@@ -253,15 +261,6 @@
      "bron": "NOS",
      "tijd": "04:17",
      "sorteer": "2026-11-12T04:17:58+01:00"
-    },
-    {
-     "titel": "Ook historische uitslag Mississippi, Democraat wint Senaatszetel in dieprode staat",
-     "context": "In de zeer conservatieve Amerikaanse staat Mississippi hebben de Democraten een historische overwinning behaald. Een week na de tussentijdse verkiezingen meldt persbureau AP dat de zwarte Democraat Scott Colom in de Senaat is gekozen. Colom (43) versloeg de Republikeinse kandidaat Cindy Hyde-Smith (67) met enkele duizenden stemmen verschil. Hyde-Smith feliciteerde Colom in een video op sociale med",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639091",
-     "bron": "NOS",
-     "tijd": "00:32",
-     "sorteer": "2026-11-12T00:32:39+01:00"
     },
     {
      "titel": "Rapport over seksueel wangedrag bij Duits leger staat militaire expansie in de weg",
@@ -292,62 +291,69 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
-     "context": "Huang’s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia’s shares sliding about 8% in ​after-hours trading Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to ha",
+     "titel": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
+     "context": "Seven Chinese tourists, a dozen villagers and a couple of journalists forded streams and bushwhacked to the downed plane of Isoroku Yamamoto, the Japanese admiral. Machetes proved handy.",
      "rubrieken": [
+      "Airlines and Airplanes",
+      "World War II (1939-45)",
+      "Travel and Vacations",
+      "War and Armed Conflicts",
+      "Aviation Accidents, Safety and Disasters",
+      "Bougainville (Papua New Guinea)",
+      "Japan",
+      "Papua New Guinea",
+      "Pearl Harbor (Hawaii)",
+      "Secession and Independence Movements",
+      "United States Defense and Military Forces"
+     ],
+     "link": "https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html",
+     "bron": "New York Times",
+     "tijd": "07:52",
+     "sorteer": "2026-11-12T06:52:24+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
+     "context": "In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang Good morning. Espionage is supposed to be a secretive business, and spies are supposed to be virtually invisible. That hasn’t been the case for Alice Huang, the mysterious Shanghai ",
+     "rubrieken": [
+      "China",
+      "AI (artificial intelligence)",
       "Nvidia",
       "Jensen Huang",
       "Technology",
-      "US news"
+      "US news",
+      "Computing",
+      "Asia Pacific",
+      "Donald Trump",
+      "Technology sector"
      ],
-     "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+     "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
      "bron": "The Guardian",
-     "tijd": "06:43",
-     "sorteer": "2026-11-12T05:43:00+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "A.I. and Market Whiplash",
-     "context": "A Times reporter who covers financial markets helps us make sense of tech turbulence.",
-     "rubrieken": [
-      "internal-open-access-from-nl",
-      "Silicon Valley (Calif)",
-      "New York Stock Exchange",
-      "Dow Jones Stock Average",
-      "Stocks and Bonds",
-      "Initial Public Offerings",
-      "Data Centers",
-      "NVIDIA Corporation",
-      "China",
-      "Espionage and Intelligence Services"
-     ],
-     "link": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html",
-     "bron": "New York Times",
-     "tijd": "06:30",
-     "sorteer": "2026-11-12T05:30:46+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "New York building collapse kills at least two, officials say",
-     "context": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "06:12",
-     "sorteer": "2026-11-12T05:12:56+00:00",
+     "tijd": "07:43",
+     "sorteer": "2026-11-12T06:43:31+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
      "titel": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-     "context": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says.",
+     "context": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says.",
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "06:06",
-     "sorteer": "2026-11-12T05:06:27+00:00",
+     "tijd": "07:12",
+     "sorteer": "2026-11-12T06:12:05+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+     "context": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "06:59",
+     "sorteer": "2026-11-12T05:59:18+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -379,6 +385,15 @@
    "emoji": "🇳🇱",
    "items": [
     {
+     "titel": "De woningmarkt verandert: fijn voor kopers, of begin van nieuwe crisis?",
+     "context": "De woningmarkt lijkt langzaam maar zeker af te koelen. Huizenprijzen dalen nu al twee maanden op rij, terwijl de hypotheekrente verder stijgt. Tegelijkertijd worden nieuwbouwhuizen moeizamer verkocht, staan bestaande woningen langer te koop en gaan de vraagprijzen vaker omlaag. Dat klinkt positief voor potentiële huizenkopers, want door de ontwikkelingen is er meer keuze op de woningmarkt en meer ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639105",
+     "bron": "NOS",
+     "tijd": "07:00",
+     "sorteer": "2026-11-12T07:00:02+01:00"
+    },
+    {
      "titel": "Niet eerder zo veel schouderblessures bij sportende Nederlanders",
      "context": "Het aantal schouderblessures onder sportende Nederlanders neemt flink toe. Uit cijfers van VeiligheidNL, het kenniscentrum voor letselpreventie, blijkt dat er 530.000 schouderblessures waren in 2025. Niet eerder lag dat aantal zo hoog. Afgelopen jaar liepen 4,7 miljoen Nederlanders samen 5,7 miljoen sportblessures op. De knie werd daarbij het meest belast, gevolgd door de enkel. Op de derde plaats",
      "rubrieken": [],
@@ -404,16 +419,6 @@
      "bron": "NOS",
      "tijd": "22:47",
      "sorteer": "2026-11-11T22:47:14+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Terug naar kantoor? Een serie over thuiswerken",
-     "context": "Thuiswerkenden willen niet terug naar kantoor De helft van de thuiswerkenden kan niet zomaar terug naar kantoor. Thuiswerkers hebben hun leven zo aangepast dat ze terugkeer naar kantoor moeilijk vinden. Dat blijkt uit een enquête die Nieuwsuur liet doen onder FNV-leden. Volgens het CBS werken 3,6 miljoen mensen vanuit huis. Dit doen ze gemiddeld de helft van hun werkweek. Werknemers van ABN AMRO z",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639078",
-     "bron": "NOS",
-     "tijd": "22:35",
-     "sorteer": "2026-11-11T22:35:13+01:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -449,8 +454,15 @@
      "titel": "Wachtende tbs'ers in de bajes kosten Staat fortuin: bedrag vertwintigvoudigde sinds 2021",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeG5Qc3U4eGNyWTduS2dIT3duMGhBOEhQMmVPOGVZck1GQzhrZkk0bUtxMTZWMzJZVU9KUE9kNWEyT2x2U2tQMGM0ekRIaXJDMlp6WXNqM3IwTGdzOGVxaUh6X0IweU5qNWozNXV1cjNSOGY3X3dzeVJyNzRycEZaNUY0YlA4OUZUd1BzLXVvQ3JGTFR2U3ltV1BhSXdwYThDOUZVVGN2N255NENmal96Z2JHUWxDNktlcXd4UEEtRGlWX2t1YjRBVjFSc3R3TEY0?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "06:20",
-     "sorteer": "2026-11-12T05:20:26+00:00"
+     "tijd": "07:03",
+     "sorteer": "2026-11-12T06:03:16+00:00"
+    },
+    {
+     "titel": "Na een grijze start volgt later vandaag meer zon, volgende week slaat het weer om",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbFZkVzR1b1hrMWY0dzBFQVlIZjZ5QmxPdG5ZLXZ1MmZJdDBTWlktZndKQnljVTlVNmNRU2FhRy0tQk5zc1BXVnF3VGxxcmRHQi0tRGdFc2QzWkZRd2RBQ2tsMnFtZzNyM080ZGFUb3R6SWV1TEgweTRnSkZTSUFDTGhDRm9KU2NCcERIc3YwcDBYemM1cm5EZmhOUW1RdlhTNmhVWGhqWnRzeG9PVkFsalR0OVk5OFVfOXlr?oc=5",
+     "bron": "Eindhovens Dagblad",
+     "tijd": "06:00",
+     "sorteer": "2026-11-12T05:00:00+00:00"
     },
     {
      "titel": "ING beschuldigt stel onterecht van hypotheekfraude: bank moet ze van ’zwarte lijst’ halen",
@@ -461,19 +473,11 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Israël wil uitleg van ambassadeur in Nederland over uitspraken in AD",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTF9GNlBlaW5mbjZSQmU1Rjh1cHVSLWhrNjlwakxobWRwQ0xUSEo3N0tuR3hJaGpnOC1aVzRtVXJGbjB6QmtQakxHb2h0RU1sdGdSVFRPSFRwN2JacjdJbXAzblpkWTBHcV9xWTNQZFpYNjhkV05VYkF1Vy1BclhXMm0za2V6MjZjVHJUZ09nbnN6RzhMNDZHbi1QQWsxajd6UDdpSjFQcmhmX0dULVVz?oc=5",
-     "bron": "de Stentor",
-     "tijd": "21:49",
-     "sorteer": "2026-11-11T20:49:00+00:00"
-    },
-    {
-     "titel": "Joey brengt bezoek aan bewoners van afgebrand huis in Hedel, maar dan vliegt ook zijn eigen auto in de fik",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcEhhY1lOYlg3bUJTdE9tQmlyZUdFQ2JFTWdRd25INXgzeWhpZjlabWJLR0JuWXZ6TzBvVWUzTVdvbkVMWEh4OHBhZkpjSC12dkdIQV94LUwweVY1Ym5heHVzRDJnTklEMlJqV1ZkdURNUkdudVEwMzZ4M2pwellyUk1NSzRxbmJ2SlFJUHZIUTBLem1kRG9zM0s5a3FGNzZoU05Edkp1bXVuLXc1Q1kzVmtNMGhvNTYyMl9JZkdzNjBraTA5MTZ6cWtRTmNRcGs0ZnFyaENoOTRSR3pq?oc=5",
-     "bron": "Eindhovens Dagblad",
-     "tijd": "21:43",
-     "sorteer": "2026-11-11T20:43:00+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "titel": "Crisis naar kookpunt: D66 en CDA willen niet inbinden na ’koekje van eigen deeg voor VVD’",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY05iV3RrVnhCcVNfb2Z5dTlnbU1ocVBLcUYyTjd2MzNuRVFNU0k4Qlp4TUJZal9WSXFvOVk2aUNsMTNpYnBCdXZUUXBLbFAxYU1pTEMwY1YxSUFqUjk2SUVXdDJuTFl2SUEtdWdYckNfWnROU2tDLTBtZjd1UHN2TTlxUEdZOWJOQVhnMk4xQ25UM254NmtvMXdaMEFIeExyQndQdWxNbjVXY3JXWi1EZExUTExqZkt4Q3duSngtUlpzWW1tZGtORk5FRWlVYUlJ?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "07:00",
+     "sorteer": "2026-11-12T06:00:00+00:00"
     },
     {
      "titel": "Ik ben geen AI-bot, maar journalist. Kan ik jou daar nog van overtuigen?",
@@ -498,6 +502,18 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Live | Kabinet-Jetten in totale coalitiecrisis richting cruciaal debat en stemming",
+     "context": "Hallo en welkom in dit liveblog. Hier houden we je op de hoogte van de politieke ontwikkelingen in Den Haag.",
+     "rubrieken": [
+      "politiek"
+     ],
+     "link": "https://www.nu.nl/politiek/6416283/kabinet-jetten-in-totale-coalitiecrisis-richting-cruciaal-debat-en-stemming.html",
+     "bron": "NU.nl",
+     "tijd": "07:36",
+     "sorteer": "2026-11-12T07:36:36+01:00",
+     "kop": "Begroting"
+    },
+    {
      "titel": "Live | Teruglezen | Crisis in coalitie is compleet: zo verliep de hectische dag in Den Haag",
      "context": "Hallo en welkom in dit liveblog. Hier houden we je op de hoogte van de politieke ontwikkelingen rond het belastingplan.",
      "rubrieken": [
@@ -510,28 +526,19 @@
      "kop": "Begroting"
     },
     {
-     "titel": "Het minderheidskabinet is in crisis en wacht vandaag een confrontatie over het eigen Belastingplan",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRGdjLTJ3cGppLW9xWFBKbm1hQ0I0SEtHZHFBNVpCUnNuQlBLeF8yUXBrNzZkOWhsS1VmemhxbExDYVctMkpiaUZCN3Y2RHV6b2d0VDFGT1BfOTloTnlpSWNrb3FTV1MyNTl3VFlHZ3kxSjh1b01nQ2dvelBzUWhHX0RLSzlfaXFJWGVueUxIYk9EcHJSSU1QWjRUa0lkcHVZYllxX21yTG03enNqNEdQcXI4RVd3OUhnSUNMZmc0X1NSVTNkVlYycHhyT0gzZWs5eXNpRURRQ19Xc0ZZ?oc=5",
-     "bron": "NRC",
-     "tijd": "05:00",
-     "sorteer": "2026-11-12T04:00:06+00:00",
+     "titel": "RD Vandaag: spannende dag voor kabinet-Jetten, Tweede Kamer debatteert over belastingplan",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNDhyOUhtVm9FQjNRRHpNVVdCejJieW1OcFNaelJHbTVCRkRkcWpKRXhzWkNBQ0tJeVd0UVFYN0dLbTZqSmxhbWhKcWNPVVNBVk9ZdVlSbXl0dThKdy1JNVVGaGdMeUN2bk9uM0lHRGNGaTNYeFQyaTUzR2JybkJRNlBnYnVHZHpzQ3V6Nk1xZGZxMy1xUVZiZm5oelJRaGRwZzVLOENUMjB6c0Fidy0xbGZTOA?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "07:36",
+     "sorteer": "2026-11-12T06:36:09+00:00",
      "kop": "Begroting"
     },
     {
-     "titel": "Debat in Tweede Kamer met premier Jetten, daarna stemming over belastingplan",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ05MZ1g5M0FXcTBzNjN5Wm5VblpoeTgwZXZPbEgtNVBwWVN5alplOHNQSmNrNC1LV1ZpcmVpaURjZDRtem9OazR3THlTZ09JbDFmeE1fNDJuUzNwLTBPODFydGFLTDREakVkcHdiSjhra3puU2lvTkw3WkE5M2hsRkxibVJ6NlZianNTQkxBdTlhazQweDBRdDd2OVFza1YzQ0lGYnBzZDFoYUhDVkE?oc=5",
-     "bron": "NOS",
-     "tijd": "03:12",
-     "sorteer": "2026-11-12T02:12:38+00:00",
-     "kop": "Begroting",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "VVD twijfelt aan coalitie als D66 en CDA amendement PRO steunen",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdUVOSmlWajFEWWxuNVR1SE9qYU93LUl6Ump3RTV5dllSS0VtZUNmbE1nMTB0LXpxSm9YakEtMFJ6Z185dlY3VTdpbVdVNWVBbnc2bXJIMzBUNjV5VThPZE1DYTQtOXcyWVdzcVF2aHBZTFJCWTd3N053VUxqNWdhck9WSkFRUDRqMkxtMHN4Q0ppWEVLZXc?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "22:52",
-     "sorteer": "2026-11-11T21:52:18+00:00",
+     "titel": "Ochtendnieuws: Crisis in Den Haag, belastingdeal duwt kabinet richting heronderhandeling coalitieakkoord",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWG1vWGdqTk5oTnZVdWVqUnZDTVc1d3VtSnpiQTcxaWRWb3locDVNNGRrcFVWRFJmY3VOY2VBXzF0amlvT3F6ZDdSeXZWMU5MUWN5UnVSUllpRTlOelJuMXFxSkU5Wi1rZzFvTDRMWDJaWnlKdWJfWUJFQmJENWdkcldXRVVXeEdXOEZSd1FaT2p1VkJWMUkxYkVVNzlrRW9XNGtHY2dSOWNrQ3RVZEJVNUUxcm1UbUJrMEdFSGxRb0hsQXNyWDhJV09VbE15b3JFSU9GZ1NfdjRXb3lyUHVvR3d3U01lWXl6NXc?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "07:31",
+     "sorteer": "2026-11-12T06:31:18+00:00",
      "kop": "Begroting"
     },
     {
@@ -615,6 +622,15 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Lokale uitzondering vuurwerkverbod nauwelijks gebruikt: vijf aanvragen in Overijssel",
+     "context": "'Slechts' vijf Overijsselse verenigingen en stichtingen vroegen een ontheffing aan om op 31 december vuurwerk af te mogen steken. De uitzondering die het landelijke vuurwerkverbod lokaal draaglijker moet maken, blijkt zo ingewikkeld en streng dat er in de praktijk nauwelijks gebruik van wordt gemaakt.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3717438/lokale-uitzondering-vuurwerkverbod-nauwelijks-gebruikt-vijf-aanvragen-in-overijssel",
+     "bron": "RTV Oost",
+     "tijd": "07:02",
+     "sorteer": "2026-11-12T06:02:35+00:00"
+    },
+    {
      "titel": "Zonnepanelenhandelaar op de fles, andermaal bv van Van der Most failliet",
      "context": "Voor een zonnepanelenhandelaar in Nijverdal schijnt de zon een stuk minder nu de onderneming failliet is verklaard. En aan de reeks van faillissementen van bv's uit het imperium van zakenman Hennie van der Most lijkt ondertussen maar geen einde te komen.",
      "rubrieken": [],
@@ -626,7 +642,9 @@
     {
      "titel": "Na 17 jaar gaat bouw van nieuwe moskee in Enschede nu écht van start",
      "context": "Na 17 jaar aan onderzoeken, politiek gesteggel, rechtszaken en bezwaarprocedures wordt nu echt begonnen met de bouw van de nieuwe moskee in Enschede. Volgende maand gaat de eerste schop de grond in. \"Hoe blij kun je zijn? Dit gaan we heel groots vieren\", zegt het moskeebestuur.",
-     "rubrieken": [],
+     "rubrieken": [
+      "breaking"
+     ],
      "link": "https://www.oost.nl/nieuws/3717658/na-17-jaar-gaat-bouw-van-nieuwe-moskee-in-enschede-nu-echt-van-start",
      "bron": "RTV Oost",
      "tijd": "05:02",
@@ -661,15 +679,6 @@
      "tijd": "20:57",
      "sorteer": "2026-11-11T19:57:18+00:00",
      "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Lichtjes, muziek en veel gezelligheid: rollende parade steelt de show in Zwolle",
-     "context": "Het was een vrolijk gezicht in Zwolle: overal lichtjes, versierde fietsen en scootmobielen en vooral heel veel blije gezichten. Zo'n honderd deelnemers maakten er fietsend en rollend door de stad een gezellig verlicht feestje van.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3717933/lichtjes-muziek-en-veel-gezelligheid-rollende-parade-steelt-de-show-in-zwolle",
-     "bron": "RTV Oost",
-     "tijd": "20:35",
-     "sorteer": "2026-11-11T19:35:25+00:00"
     },
     {
      "titel": "Jumbo Kamphuis heeft een hart voor de Voedselbank",
@@ -716,6 +725,14 @@
      "kop": "Politie"
     },
     {
+     "titel": "EU Most Wanted: 19 fugitives wanted for targeting the vulnerable",
+     "toelichting": "Nineteen fugitives wanted for crimes against children and older people are the focus of a new EU Most Wanted appeal launched on 12 November. Featuring cases from 14 countries, the appeal includes individuals sought for child…",
+     "bron": "Europol (Engels)",
+     "kop": "Europol",
+     "tijd": "",
+     "link": "https://www.europol.europa.eu/media-press/newsroom/news/eu-most-wanted-19-fugitives-wanted-for-targeting-vulnerable"
+    },
+    {
      "titel": "Investment scams with potential victims in at least 50 countries: over 100 servers seized",
      "toelichting": "Led by the German Itzehoe Public Prosecutor's Office (Staatsanwaltschaft Itzehoe), the operation targeted a company suspected of supplying fraudulent trading websites to criminal groups. The entity is connected to call centre…",
      "bron": "Europol (Engels)",
@@ -730,14 +747,6 @@
      "kop": "Europol",
      "tijd": "",
      "link": "https://www.europol.europa.eu/media-press/newsroom/news/not-game-europol-and-partners-target-terrorist-role-playing-online"
-    },
-    {
-     "titel": "Five TEFAF robbery suspects added to EU Most Wanted",
-     "toelichting": "As of 29 October 2026, five new fugitives, four men and one woman, have been added to the EU Most Wanted list. According to the Limburg Public Prosecutor's Office (Openbaar Ministerie) and the Dutch Police (Politie), all five…",
-     "bron": "Europol (Engels)",
-     "kop": "Europol",
-     "tijd": "",
-     "link": "https://www.europol.europa.eu/media-press/newsroom/news/five-tefaf-robbery-suspects-added-to-eu-most-wanted"
     }
    ]
   },
@@ -989,7 +998,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "07:00",
+    "bijgewerkt": "08:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1497,7 +1506,7 @@
      "kop": "Pestvogels",
      "titel": "Vlakbij: 4 plekken binnen 25 km",
      "bron": "Zwolle - Aa-Landen, 10 km van Dalfsen (2026-11-11)",
-     "tijd": "15:59",
+     "tijd": "16:02",
      "link": "https://waarneming.nl/species/306/observations/",
      "sein": true
     },
@@ -1513,7 +1522,7 @@
      "kop": "Pestvogels",
      "titel": "12 plekken binnen 75 km van Dalfsen",
      "bron": "dichtstbij: Zwolle - Aa-Landen, 10 km (2026-11-11)",
-     "tijd": "15:59",
+     "tijd": "16:02",
      "link": "https://waarneming.nl/species/306/observations/"
     }
    ]
@@ -1543,9 +1552,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 2.0,
-    "gevoel": 2.0,
-    "wind": "WZW 1",
+    "nu": 1.6,
+    "gevoel": 0.1,
+    "wind": "ZW 1",
     "station": "Heino",
     "bericht": "Een noordwestelijke wind voert vandaag onstabiele lucht aan waarin wolken en de zon elkaar afwisselen. Vooral in het noorden valt een enkele bui. Het wordt tussen 9 en 11 graden.",
     "vandaag": "Een noordwestelijke wind voert vandaag onstabiele lucht aan waarin wolken en de zon elkaar afwisselen. Vanochtend trekt een smalle band met bewolking vanuit het noordwesten over het land.",
@@ -1555,7 +1564,7 @@
      "max": 10,
      "min": 0,
      "regenkans": 2,
-     "omschrijving": "lichte motregen"
+     "omschrijving": "motregen"
     },
     "vooruit": "De rest van de week meest droog, vrij zonnig en in de nachten en ochtenden kans op lichte vorst en soms ook mist. Begin volgende week veel bewolking, dagelijks regen of buien en soms vrij veel wind, bij temperaturen rond of iets boven normaal.",
     "omslag": "Nachtvorst in aantocht: zondag tot 0 graden.",
