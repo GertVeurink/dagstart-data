@@ -3,13 +3,13 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "12:00",
+  "opgehaald": "13:00",
   "blokken": 11,
-  "berichten": 107,
+  "berichten": 105,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-12T12:00+01:00",
+ "opgehaald": "2026-11-12T13:00+01:00",
  "audio": "audio/20261112.mp3",
  "afval": [
   {
@@ -218,6 +218,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Tijdelijke verstoring Eurostar door bommelding treinstation Calais",
+     "context": "Door een inmiddels opgeheven bommelding bij treinstation Calais-Fréthun in Frankrijk zijn vertragingen ontstaan bij de internationale treinen van Eurostar. Het treinverkeer op het station werd vanochtend om 09.40 uur stilgelegd om veiligheidscontroles uit te voeren. Dat meldden lokale autoriteiten op X. Dit leidde niet alleen tot vertragingen van Franse treinen, maar ook van internationaal treinve",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639157",
+     "bron": "NOS",
+     "tijd": "12:52",
+     "sorteer": "2026-11-12T12:52:12+01:00"
+    },
+    {
      "titel": "Ook België heeft aanwijzingen dat Iran achter cyberaanval op koelsystemen zit",
      "context": "In navolging van Frankrijk heeft ook België aanwijzingen dat Iran betrokken was bij de recente cyberaanvallen op koelsystemen in meerdere Europese landen. Tientallen Belgische winkels moesten daardoor begin deze maand voor grote bedragen aan voedsel weggooien. Volgens minister Quintin van Binnenlandse Zaken en Veiligheid hebben de Belgische veiligheidsdiensten aanwijzingen dat aan Iran verbonden h",
      "rubrieken": [],
@@ -254,15 +263,6 @@
      "sorteer": "2026-11-12T11:07:19+01:00"
     },
     {
-     "titel": "Iran: twee olietankers 'uitgeschakeld' in Straat van Hormuz",
-     "context": "Iran zegt dat het vannacht twee grote olietankers heeft aangevallen in de Straat van Hormuz. De schepen zouden zich volgens het land niet hebben gehouden aan de door Iran ingestelde route door de nauwe vaarweg. Volgens Iraanse staatsmedia werden de schepen meerdere keren gewaarschuwd. De aanvallen zijn nog niet onafhankelijk bevestigd. Het is niet duidelijk onder welke vlag beide schepen varen. De",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639133",
-     "bron": "NOS",
-     "tijd": "10:39",
-     "sorteer": "2026-11-12T10:39:59+01:00"
-    },
-    {
      "titel": "Zelensky zegt dat snelheid Amerikaanse Starshield-verbinding weer wordt beperkt",
      "context": "",
      "rubrieken": [],
@@ -281,61 +281,87 @@
      "sorteer": "2026-11-12T09:57:00+00:00"
     },
     {
-     "titel": "België ziet mogelijke rol Iran bij cyberaanval koelinstallaties",
+     "titel": "Oekraïne raakt voor het eerst Russisch oorlogsschip op Oostzee",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/belgie-ziet-mogelijke-rol-iran-bij-cyberaanval-koelinstallaties~bffda9f8/",
+     "link": "https://www.trouw.nl/buitenland/live-oorlog-oekraine-oekraine-raakt-voor-het-eerst-russisch-oorlogsschip-op-oostzee~ba2815bb/",
      "bron": "Trouw",
-     "tijd": "10:42",
-     "sorteer": "2026-11-12T09:42:00+00:00"
+     "tijd": "12:43",
+     "sorteer": "2026-11-12T11:43:00+00:00"
     },
     {
-     "titel": "Nvidia board reportedly meets to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
-     "context": "Nvidia shares plunge in extended trading, sending Asian markets lower Nvidia board reportedly deciding whether to oust CEO Jensen Huang Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time worrying abo",
-     "rubrieken": [
-      "Nvidia",
-      "Jensen Huang",
-      "Technology",
-      "US news",
-      "Business",
-      "Stock markets",
-      "Currencies",
-      "Commodities",
-      "World news"
-     ],
-     "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-     "bron": "The Guardian",
-     "tijd": "11:49",
-     "sorteer": "2026-11-12T10:49:36+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "New York building collapse kills at least two, officials say",
+     "titel": "New York building collapse kills at least four people",
      "context": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "11:40",
-     "sorteer": "2026-11-12T10:40:49+00:00",
+     "tijd": "12:48",
+     "sorteer": "2026-11-12T11:48:14+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "China’s diaspora crackdown reaches deep into Europe, report finds",
-     "context": "The report alleging Beijing uses hundreds of European outposts to monitor and police diaspora communities lands as EU trade officials meet a Chinese counterpart.",
+     "titel": "Ukraine hit by ‘significant’ Starshield disruptions as US envoys meet Putin, Zelenskyy says - Europe live",
+     "context": "Ukraine’s president said unwelcome ‘speed restrictions’ on military connectivity are ‘helping the Russians kill’ Luxembourg’s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux countries at today’s summit, as his Belgian and Dutch colleagues are too busy to attend as they face domestic crises. “I have the privilege of representing 30 millions citizens today,” he sai",
      "rubrieken": [
-      "Bilateral trade",
-      "Critical infrastructure",
-      "Cybersecurity",
-      "Supply chain security",
-      "Supply chains",
-      "Trade"
+      "Ukraine",
+      "Europe",
+      "World news",
+      "Russia",
+      "Vladimir Putin",
+      "Jared Kushner",
+      "US news"
      ],
-     "link": "https://www.politico.eu/article/china-diaspora-crackdown-reaches-deep-into-europe-report-finds/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+     "bron": "The Guardian",
+     "tijd": "12:47",
+     "sorteer": "2026-11-12T11:47:00+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "EU court rejects Poland’s bid to overturn 7 major climate laws",
+     "context": "Lawsuits launched by the previous nationalist government were kept alive under pro-EU Prime Minister Donald Tusk.",
+     "rubrieken": [
+      "Carbon",
+      "Carbon Border Tax",
+      "Cars",
+      "Coal",
+      "Courts",
+      "Emissions",
+      "Energy",
+      "Energy efficiency",
+      "Tax",
+      "Transport",
+      "Energy and Climate",
+      "Mobility",
+      "Politics"
+     ],
+     "link": "https://www.politico.eu/article/eu-court-rejects-poland-bid-overturn-7-climate-laws/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
      "bron": "Politico Europe",
-     "tijd": "11:30",
-     "sorteer": "2026-11-12T10:30:21+00:00",
+     "tijd": "12:25",
+     "sorteer": "2026-11-12T11:25:35+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
+     "context": "Abed Abu Shehadeh, a Palestinian citizen of Israel, was detained without being charged with a crime, raising concerns that the domestic security service is overstepping its authority.",
+     "rubrieken": [
+      "Israel",
+      "Jaffa (Israel)",
+      "Shin Bet",
+      "News and News Media",
+      "Elections",
+      "Arabs",
+      "Freedom of the Press",
+      "Netanyahu, Benjamin",
+      "Abed Abu Shehadeh"
+     ],
+     "link": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
+     "bron": "New York Times",
+     "tijd": "11:59",
+     "sorteer": "2026-11-12T10:59:13+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -349,25 +375,6 @@
      "sorteer": "2026-11-12T10:13:35+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say",
-     "context": "The Israeli authorities said that Hamas had established a command center at the hospital complex, but the militant group said the attack was “a heinous crime targeting a civilian medical facility.”",
-     "rubrieken": [
-      "Israel-Gaza War (2023- )",
-      "Civilian Casualties",
-      "Deaths (Fatalities)",
-      "Hospitals",
-      "Khan Younis (Gaza Strip)",
-      "Israel",
-      "Nasser Hospital (Gaza Strip)"
-     ],
-     "link": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
-     "bron": "New York Times",
-     "tijd": "11:08",
-     "sorteer": "2026-11-12T10:08:56+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
     }
    ]
   },
@@ -376,6 +383,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "12 jaar celstraf en tbs geëist voor online misbruik van 245 meisjes",
+     "context": "Het Openbaar Ministerie heeft 12 jaar celstraf en een tbs-behandeling geëist tegen een man voor online misbruik van zeker 245 meisjes. De 41-jarige Bas P. uit het Limburgse Herten kwam vorig jaar in beeld bij de opsporingsdiensten na een tip vanuit Amerika. P. heeft volgens het OM jarenlang misbruikbeelden gedeeld van minderjarige meisjes op een forum op het darkweb, een afgesloten gedeelte van in",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639149",
+     "bron": "NOS",
+     "tijd": "12:13",
+     "sorteer": "2026-11-12T12:13:41+01:00"
+    },
     {
      "titel": "128.000 e-mailadressen van Vrienden van Amstel op straat door datalek",
      "context": "Door een datalek liggen 128.000 e-mailadressen van De Vrienden van Amstel Live en Amstel Live in de Kroeg op straat. Het gaat om persoonsgegevens van mensen die zijn benaderd voor bezoekersonderzoek. Moederbedrijf Heineken waarschuwt voor phishingmails of andere verdachte berichten. Het lek is ontstaan bij hostingbedrijf Cloudbear, een leverancier van onderzoeksbureau Abbi Insights, dat bezoekerso",
@@ -413,15 +429,6 @@
      "sorteer": "2026-11-12T06:30:19+01:00"
     },
     {
-     "titel": "Friese munt uit Tachtigjarige Oorlog brengt recordbedrag op bij veiling",
-     "context": "Een gouden munt uit Friesland is verkocht voor een recordbedrag. De zeldzame halve Filipsdaalder uit 1580 is in IJsselstein geveild voor 369.000 euro en daarmee de duurste Nederlandse provinciale munt ooit. Op het muntstuk staat een afbeelding van Filips II, de koning van Spanje en heerser over de Spaanse Nederlanden aan het begin van de Tachtigjarige Oorlog. Hij kwam in de eerste jaren van de ops",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639093",
-     "bron": "NOS",
-     "tijd": "04:52",
-     "sorteer": "2026-11-12T04:52:12+01:00"
-    },
-    {
      "titel": "Chanan Hertzberger: ‘Het woord genocideleugen zou ik morgen gewoon weer gebruiken’",
      "context": "",
      "rubrieken": [],
@@ -451,6 +458,20 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "OM eist 12 jaar en tbs voor onlinemisbruik 245 minderjarigen",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWWhDWmtCYW5rVW8xSWlmRVlkTUlqQkpWSXdtaWYyU280UmVlSzNjWVh3c2llVDc2cGFrWjg2WGotLTF5OGh4NENFS2k2STdpbGdYVlh0MXdRUDFHWXY0VjBoTUx6RDZaNTgtT1NISTFWVlpKbVd0ZU1sZXFvUVYtY0N2bXhHYWc?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "12:58",
+     "sorteer": "2026-11-12T11:58:06+00:00"
+    },
+    {
+     "titel": "Chemours op steeds meer fronten voor de rechter: ‘Dit kun je niet laten lopen’",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1ZjY1V1TFJOdkpiemgyTUs5Yy02N3dRTExBZFNuaUpmVEJlenE2ZndIQU1keVZkN2RMX29lblJUUEE5Y0s2SHJwR3FYS3V4cFNZUGxYWGhxdTVoMkRob21Fenlob2xQTFQ5T05qOTRoME1CTVdGUHVqRk5penNEc0dSaEdYcDZtWVhvbTZiY0lBajV6WFlTSHBZeENsQUdvVDFHTFU1akNiN3FXZVl3dkNRa1M3dw?oc=5",
+     "bron": "AD.nl",
+     "tijd": "12:00",
+     "sorteer": "2026-11-12T11:00:59+00:00"
+    },
+    {
      "titel": "Wachtende tbs'ers in de bajes kosten Staat fortuin: bedrag vertwintigvoudigde sinds 2021",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeG5Qc3U4eGNyWTduS2dIT3duMGhBOEhQMmVPOGVZck1GQzhrZkk0bUtxMTZWMzJZVU9KUE9kNWEyT2x2U2tQMGM0ekRIaXJDMlp6WXNqM3IwTGdzOGVxaUh6X0IweU5qNWozNXV1cjNSOGY3X3dzeVJyNzRycEZaNUY0YlA4OUZUd1BzLXVvQ3JGTFR2U3ltV1BhSXdwYThDOUZVVGN2N255NENmal96Z2JHUWxDNktlcXd4UEEtRGlWX2t1YjRBVjFSc3R3TEY0?oc=5",
      "bron": "De Telegraaf",
@@ -463,20 +484,6 @@
      "bron": "Tubantia",
      "tijd": "11:33",
      "sorteer": "2026-11-12T10:33:23+00:00"
-    },
-    {
-     "titel": "België ziet toch aanwijzingen voor rol Iran bij cyberaanvallen op koelinstallaties",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOFRYU0N2UUszV0prWDBiaUtIeGJEY2lDNV91ZGRsRDZzUnJpWk1XLUdLOGhESi1mcVFhV0pWMnZFT1V0WWstN1NiWGZKbmlUdFQzbHNzekRrU0FPXzBTdEdMSzlUNjUxU3E4RzEtNWpBOUg0bWVJRW1wVDctSWUyMGFURFdWV0JVbXd6em5DcGd0aUc3XzllSFp2d25aR2ZYYjB6ZVRQRGFpMk1vLXhHQzhOLU9Ld3RodTFnQzlLeG5vZFBqbHdYNmY2WVp1Zw?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "11:24",
-     "sorteer": "2026-11-12T10:24:15+00:00"
-    },
-    {
-     "titel": "Reanimatie op Utrechtseweg in Amersfoort",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOTd1dERtQ3UyNFVqdmN3RWJGZUxvTG5GZHV0WGg2RGI2M0Y2bnNESkN1aW1WbzlVdHF2OGxibFo1RVVkWG1tSWJoa0UzenJOMlE0WTFoWWl6bGVDLU5WdG1ucWR0bFhjVXNnU3lnLVJSTndFX2c5NXlSMmxFdnJ0dnFzaWdhb1FiQ2RzQU9GcjdlRDktdURHRUV2clB1Zw?oc=5",
-     "bron": "de Stentor",
-     "tijd": "11:26",
-     "sorteer": "2026-11-12T10:26:37+00:00"
     },
     {
      "titel": "Ik ben geen AI-bot, maar journalist. Kan ik jou daar nog van overtuigen?",
@@ -525,28 +532,29 @@
      "kop": "Begroting"
     },
     {
-     "titel": "Deze kanten kan het op met het belastingplan én de toekomst van het kabinet",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORTJmSm51dTR0UElQN1EwenpYTU9IZnBXLV9ERHBYM2lJTzhudDdURlc2YkZqdGhkS0FORlRtQTBJSGprRllMY2J5Z202TUV3LThtVVpPZzBGWGphME5uM0ZCMm80MDRaWkZMdXh2a29KRUU0Z1ZmN0N6REdKZFo5TkRNSmZ0ZDFtRzM5RVdsTHdCN0gwcU1WMHpQODhzcjB1clFGbUp6cDFGTzdOaWRUM1B2Z0hrRVhQSU50dTJES09kUQ?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "10:44",
-     "sorteer": "2026-11-12T09:44:15+00:00",
+     "titel": "Partijen geven elkaar de schuld in debat over belastingplan",
+     "context": "Welke coalitiepartij heeft de meeste schuld aan de ontstane crisis over het belastingplan? Daar wordt in de Tweede Kamer verschillend over gedacht, blijkt aan het begin van het debat over dat plan. Linkse partijen als Denk en de Partij voor de Dieren vinden dat de VVD zich onverantwoordelijk opstelt door openlijk te twijfelen aan de toekomst van het kabinet. Rechtse partijen als de PVV, JA21 en Fo",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639156",
+     "bron": "NOS politiek",
+     "tijd": "12:41",
+     "sorteer": "2026-11-12T12:41:53+01:00",
      "kop": "Begroting"
     },
     {
-     "titel": "KIJK LIVE: Dag van de waarheid voor kabinet-Jetten, Kamer in debat over belastingplan",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVGx1UndWWUFnM1l6c25KSlh0RHRoVmRPN2NjdW5BYmRWYXBRWVdVNEFKcGhtWU5rckJJakpMeXB0elNQU2RsQ0JoZS1SRnk4eXRDcWV1WFFkNDgxTGVXcHhxVjQ0dW9jeWdQY0h3Uk9hUTdlODRnVmpYZEtZUk9mWlZMa2I5aGp6TE1McFpYeldLMTlLaWpwVUFjUVJ2ejVvaFpCQkk4OEp0eklPTWtySUdaSWdXOUF5R3NlSjNPNm11TlBsazU5Qg?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "10:29",
-     "sorteer": "2026-11-12T09:29:00+00:00",
-     "kop": "Begroting",
-     "vervolg": "stond gisteren ook in de briefing"
+     "titel": "RD Vandaag: spannende dag voor kabinet-Jetten, Tweede Kamer debatteert over belastingplan",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaUR4bDgyZmQ3QUJSbmlCanhaWjVwWlhYUnlKTlpQVFZQemZIREtBeHRVT0VQR2RWV09MRkVzaVZ6bU93bzdYN1BWM0lxOXRpY1VHUUVLSUFPNUM0WFR2UG9idWdHR2dPZzdjMlZBS1BPeFBjeWJIdmdLQy1lcDFOYndGYzlqbXloMWdONWVkNF9EeDE3dG5obHJXQlg5RHdRTWRZWkhCblYyVmc?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "12:38",
+     "sorteer": "2026-11-12T11:38:04+00:00",
+     "kop": "Begroting"
     },
     {
-     "titel": "ChristenUnie en 50Plus twijfelen over steun aan Pro-amendement en Belastingplan",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFdXSkNjU1k5NVlCVjBWTFQ2MVRYY0p0b2kwNlB4OGJQYTd6cUJ1WlJsUFdaY29kSm5jc2RIQ3pLb2xpVEUxODRjS2VWMXpRWWlObl9RUWc0YUpqdDVoWVQyYnhLQVhmT0JuaWVfdG5aNTdTZTJQeU5UQUVNcHVvY2dDREo0UjNhSjRCQUxHV0xIcEplUHJ0Z012bkNGSVpZMlZIS0xPWFpqM3hWeEdrdXFpVnR0Wmg4eDAxYmtlV0tjb0k?oc=5",
-     "bron": "NRC",
-     "tijd": "10:27",
-     "sorteer": "2026-11-12T09:27:45+00:00",
+     "titel": "Deze kanten kan het op met het belastingplan én de toekomst van het kabinet",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORTJmSm51dTR0UElQN1EwenpYTU9IZnBXLV9ERHBYM2lJTzhudDdURlc2YkZqdGhkS0FORlRtQTBJSGprRllMY2J5Z202TUV3LThtVVpPZzBGWGphME5uM0ZCMm80MDRaWkZMdXh2a29KRUU0Z1ZmN0N6REdKZFo5TkRNSmZ0ZDFtRzM5RVdsTHdCN0gwcU1WMHpQODhzcjB1clFGbUp6cDFGTzdOaWRUM1B2Z0hrRVhQSU50dTJES09kUQ?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "12:35",
+     "sorteer": "2026-11-12T11:35:29+00:00",
      "kop": "Begroting"
     },
     {
@@ -585,17 +593,6 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "D66 en CDA sluiten deal met Pro en Volt rond belastingplan, nog geen reactie VVD",
-     "context": "Coalitiepartijen D66 en CDA hebben een deal gesloten met oppositiepartijen Pro en Volt over een belastingverhoging voor vermogenden en een belastingverlaging op loon. Dat is gebeurd zonder instemming van coalitiegenoot VVD. \"Dit is een doorbraak\", zegt Pro-leider Klaver. \"De afgelopen dagen hebben wij in goed overleg gezocht naar een compromis om Nederland eerlijker te maken. Als dit voorstel word",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639001",
-     "bron": "NOS politiek",
-     "tijd": "14:15",
-     "sorteer": "2026-11-11T14:15:18+01:00",
-     "kop": "Begroting",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
      "titel": "Eva",
      "link": "https://npo.nl/start/serie/eva",
      "kop": "Vanavond op tv",
@@ -604,15 +601,14 @@
      "sorteer": "2026-11-12T19:05:00"
     },
     {
-     "titel": "Nieuwsuur: Deal over belastingplan, hoe nu verder? • Hoe (on)veilig is Syrië? • Bedrijven willen minder thuiswerkers",
-     "context": "Deal met Pro en Volt rond belastingplan Coalitiepartijen D66 en CDA hebben een deal gesloten met oppositiepartijen Pro en Volt over een belastingverhoging voor vermogenden en een belastingverlaging op loon. \"Dit is een doorbraak\", zegt Pro-leider Klaver. Het is nog niet duidelijk of dit de coalitie uit de impasse haalt en of hiermee het belastingplan in zowel de Tweede als Eerste Kamer een meerder",
+     "titel": "Nieuwsuur: Cruciaal debat in Den Haag over belastingplan",
+     "context": "Cruciaal debat over belastingplan Premier Jetten is vandaag in de Tweede Kamer om uitleg te geven over de ontstane politieke situatie, nu coalitiepartijen D66 en CDA zonder de VVD een deal hebben gesloten met Pro en Volt over het belastingplan. We besteden er vanavond uitgebreid aandacht aan, met onze politiek duider Arjan Noorlander . Volg tot die tijd hier live de ontwikkelingen in het debat:",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639013",
+     "link": "https://nos.nl/l/2639151",
      "bron": "NPO2 · 22:00",
      "tijd": "22:00",
      "sorteer": "2026-11-12T22:00:00",
-     "kop": "Vanavond op tv",
-     "vervolg": "stond gisteren ook in de briefing"
+     "kop": "Vanavond op tv"
     },
     {
      "titel": "Pauw & De Wit",
@@ -639,15 +635,6 @@
      "sorteer": "2026-11-12T10:27:26+00:00"
     },
     {
-     "titel": "Zeldzame Siberische vogel trekt vogelaars naar Sallandse Heuvelrug: 'Dit is zo kicken'",
-     "context": "Een bijzondere gast op de Sallandse Heuvelrug trekt de aandacht van vogelliefhebbers uit het hele land. De Siberische dunsnavelnotenkraker laat zich de laatste tijd regelmatig zien bij Holten. De zeldzame vogel komt uit Siberië, maar is door voedselgebrek naar Nederland getrokken.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3718049/zeldzame-siberische-vogel-trekt-vogelaars-naar-sallandse-heuvelrug-dit-is-zo-kicken",
-     "bron": "RTV Oost",
-     "tijd": "11:24",
-     "sorteer": "2026-11-12T10:24:03+00:00"
-    },
-    {
      "titel": "Overijssel deelt geld uit: boeren, bieb en beesten gaan het merken",
      "context": "Geld voor een krant in elk dorpshuis, een Europafestival, dierenambulances, het boerenerf en meertalige boeken in de bibliotheek: Overijssel deelt wederom miljoenen uit 'de vrije ruimte' uit. Enkele opvallende initiatieven op een rij.",
      "rubrieken": [],
@@ -666,15 +653,6 @@
      "sorteer": "2026-11-12T08:00:00+00:00"
     },
     {
-     "titel": "Slechts vijf vuurwerkaanvragen in Overijssel, burgemeesters kritisch op regels",
-     "context": "'Slechts' vijf Overijsselse verenigingen en stichtingen vroegen een ontheffing aan om op 31 december vuurwerk af te mogen steken. De uitzondering die het landelijke vuurwerkverbod lokaal draaglijker moet maken, blijkt zo ingewikkeld en streng dat er in de praktijk nauwelijks gebruik van wordt gemaakt.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3717438/slechts-vijf-vuurwerkaanvragen-in-overijssel-burgemeesters-kritisch-op-regels",
-     "bron": "RTV Oost",
-     "tijd": "07:02",
-     "sorteer": "2026-11-12T06:02:35+00:00"
-    },
-    {
      "titel": "Van verfgroothandel tot schoonmaak: deze bedrijven gingen de afgelopen week failliet",
      "context": "Nadat de schuldenlast voor de verfgroothandel DBG in Nijverdal was opgelopen naar 1,5 miljoen euro trok de fiscus de stekker eruit en vroeg het faillissement aan. En aan de reeks van faillissementen van bv's uit het imperium van zakenman Hennie van der Most lijkt ondertussen maar geen einde te komen.",
      "rubrieken": [],
@@ -684,32 +662,50 @@
      "sorteer": "2026-11-12T05:04:05+00:00"
     },
     {
-     "titel": "Wonen, toegankelijkheid en leefbaarheid (Provincie OV)",
-     "context": "REGIO – Er komt 250.000 euro beschikbaar om groepen inwoners te helpen die samen een woonproject willen beginnen, zoals een knarrenhof of wooncoöperatie. Ook wordt 150.000 euro uitgetrokken voor openbare toiletten die toegankelijk zijn voor mensen met een beperking. Daarnaast krijgen dorpshuizen en wijkcentra ondersteuning om regionale kranten beschikbaar te stellen voor hun bezoekers. Hiervoor […",
+     "titel": "Na 17 jaar gaat bouw van nieuwe moskee in Enschede nu écht van start",
+     "context": "Na 17 jaar aan onderzoeken, politiek gesteggel, rechtszaken en bezwaarprocedures wordt nu echt begonnen met de bouw van de nieuwe moskee in Enschede. Volgende maand gaat de eerste schop de grond in. \"Hoe blij kun je zijn? Dit gaan we heel groots vieren\", zegt het moskeebestuur.",
      "rubrieken": [
-      "Ingezonden bericht",
-      "Laatste nieuws",
-      "Politiek",
-      "Regio"
+      "breaking"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/556457/wonen-toegankelijkheid-en-leefbaarheid.html",
-     "bron": "DalfsenNet",
-     "tijd": "11:44",
-     "sorteer": "2026-11-12T10:44:24+00:00"
+     "link": "https://www.oost.nl/nieuws/3717658/na-17-jaar-gaat-bouw-van-nieuwe-moskee-in-enschede-nu-echt-van-start",
+     "bron": "RTV Oost",
+     "tijd": "05:02",
+     "sorteer": "2026-11-12T04:02:00+00:00"
     },
     {
-     "titel": "Toelichting besteding provincie gelden",
-     "context": "BEKNOPTE TOELICHTING 1.Van berekenen naar meten De uitstoot van ammoniak uit open stallen wordt nu vooral berekend met standaardmodellen, terwijl de werkelijke uitstoot sterk kan verschillen per bedrijf. Met dit voorstel sluit Overijssel aan bij meet- en ontwikkelprogramma’s gericht op het ontwikkelen van betrouwbare, reproduceerbare en juridisch houdbare meetmethoden. Daarmee krijgen ondernemers ",
+     "titel": "Oldenzaalse carnavalsgemeenschap trapt het seizoen af met busrit naar Keulen",
+     "context": "Blauw en geel van Oldenzaal, rood en wit van Keulen. In jasjes met de kleuren van beide steden stapten de 36 leden van carnavalsgenootschap 47-11 vanochtend in de bus. De elfde van de elfde vieren ze namelijk niet thuis, maar in Keulen.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/cultuur/3717740/oldenzaalse-carnavalsgemeenschap-trapt-het-seizoen-af-met-busrit-naar-keulen",
+     "bron": "RTV Oost",
+     "tijd": "21:28",
+     "sorteer": "2026-11-11T20:28:22+00:00"
+    },
+    {
+     "titel": "De spin en de roos",
+     "context": "NIEUWLEUSEN – In een hoekje van de oude tuin groeide een roze roos. Op een herfstmorgen ontdekte ze tussen haar steel en de takjes naast haar een web. Midden tussen de draden zat een kleine tuinspin, die de laatste losse eindjes vastmaakte. ‘Je bent vroeg bezig,’ zei de roos. ‘Laat, eigenlijk,’ antwoordde de spin. ‘Ik […]",
      "rubrieken": [
       "Ingezonden bericht",
       "Laatste nieuws",
-      "Politiek",
-      "Regio"
+      "Nieuwleusen"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/556451/toelichting-besteding-provincie-gelden.html",
+     "link": "https://www.dalfsennet.nl/nieuws/556465/de-spin-en-de-roos.html",
      "bron": "DalfsenNet",
-     "tijd": "11:39",
-     "sorteer": "2026-11-12T10:39:29+00:00"
+     "tijd": "12:09",
+     "sorteer": "2026-11-12T11:09:30+00:00"
+    },
+    {
+     "titel": "27 nieuwe berichten van de gemeente Dalfsen en de overheid (update)",
+     "context": "DALFSEN – Ontvangen aanvraag voor een omgevingsvergunning, het plaatsen van een dakkapel, Pastoriestraat 43 7721CV Dalfsen omgevingsvergunning | Dalfsen | 11-11-2026 het plaatsen van een dakkapel Bekijk bericht Ontwerpbesluit omgevingsvergunning, het restaureren van de monumentale buitenplaats de Horte, Poppenallee 39 7722KW Dalfsen omgevingsvergunning | Dalfsen | 10-11-2026 het restaureren van de",
+     "rubrieken": [
+      "Dalfsen",
+      "Ingezonden bericht",
+      "Laatste nieuws"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/556399/26-nieuwe-berichten-van-de-gemeente-dalfsen-en-de-overheid.html",
+     "bron": "DalfsenNet",
+     "tijd": "12:00",
+     "sorteer": "2026-11-12T11:00:48+00:00"
     }
    ]
   },
@@ -795,18 +791,18 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Verzekeraars ontmaskeren veel meer fraudeurs: ’AI-sjoemelaars bestrijden met AI’",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaU80bzJpSEItdWdKaURPMkVSUXMwOTYtd3RWUE5oU0dUQWx1OFhpMl9aRnQtbW5zVGVqa2JRWnc1Yk9PSmczRVlrRzFJelVUcTBtZS1oRzY3RTh6b05DbEJoSDhfR0NON2hxbUV5U2U5M1dDbXBxTExXd01QM0k3ak1EeklxVjFyZUxqRWpXWjR5cHN4ckZLcHNvdldFck1YYkFZaGJPb0l2OTFBUDVEc0Y1UE1ORlJWUFUxVUFvN2Q4ZEtRaVBPZU85TzBndw?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "12:29",
+     "sorteer": "2026-11-12T11:29:44+00:00"
+    },
+    {
      "titel": "Je herkent ze van verre: AI-posters. ’Volwassenen zijn er helemaal gek van’",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZDFPTXpUTVVydGlkZVB3VnFfQ1lNOWlXNXFPRVZ6S25OY2lJZXBaMWFHYXBJLW13WTZ1WE5VcFNlS0tFbkd4UDNQZlJVSXhPUWhxWjF2M0tFd0V3U01hQmwyRmNzWVVnRElXdkkwUnk5YU01Y0F5V1BkaTRFV3FlS0h1a05WNnUxTjQxMVZCZEN0czZZNnRpN09VbmpBeDZ1b05YWThYcFJyaG9HbkV3NkhPbkd2a3Z4MUo0U3BST0dJX2pqX1BtZVh3ZGU?oc=5",
      "bron": "Leeuwarder Courant",
      "tijd": "10:48",
      "sorteer": "2026-11-12T09:48:02+00:00"
-    },
-    {
-     "titel": "Verzekeraars ontmaskeren veel meer fraudeurs: ’AI-sjoemelaars bestrijden met AI’",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaU80bzJpSEItdWdKaURPMkVSUXMwOTYtd3RWUE5oU0dUQWx1OFhpMl9aRnQtbW5zVGVqa2JRWnc1Yk9PSmczRVlrRzFJelVUcTBtZS1oRzY3RTh6b05DbEJoSDhfR0NON2hxbUV5U2U5M1dDbXBxTExXd01QM0k3ak1EeklxVjFyZUxqRWpXWjR5cHN4ckZLcHNvdldFck1YYkFZaGJPb0l2OTFBUDVEc0Y1UE1ORlJWUFUxVUFvN2Q4ZEtRaVBPZU85TzBndw?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "10:44",
-     "sorteer": "2026-11-12T09:44:13+00:00"
     },
     {
      "titel": "Dankzij AI timmert Erik Lindeman uit Beverwijk aan de weg als countryzanger: ‘Dit vind ik veel efficiënter dan een band’",
@@ -1022,7 +1018,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "12:00",
+    "bijgewerkt": "13:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1445,14 +1441,6 @@
    "emoji": "🐦",
    "items": [
     {
-     "titel": "Bruine Boszanger",
-     "kop": "Zeldzaamheden",
-     "bron": "Friesland",
-     "tijd": "12:05",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-11T12:05:00+01:00"
-    },
-    {
      "titel": "Landelijk vandaag: 86 soorten, 10.436 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
@@ -1529,24 +1517,24 @@
     {
      "kop": "Pestvogels",
      "titel": "Vlakbij: 6 plekken binnen 25 km",
-     "bron": "Zwolle - Aa-Landen, 10 km van Dalfsen (2026-11-11)",
-     "tijd": "16:02",
+     "bron": "Zwolle - Aa-Landen, 10 km van Dalfsen (2026-11-12)",
+     "tijd": "12:10",
      "link": "https://waarneming.nl/species/306/observations/",
      "sein": true
     },
     {
      "kop": "Pestvogels",
-     "titel": "Goed pestvogeljaar — op 50 plekken in de afgelopen week, waarvan 4 vandaag",
+     "titel": "Goed pestvogeljaar — op 51 plekken in de afgelopen week, waarvan 5 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 105 vogels; 142 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 107 vogels; 144 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
-     "titel": "14 plekken binnen 75 km van Dalfsen",
-     "bron": "dichtstbij: Zwolle - Aa-Landen, 10 km (2026-11-11)",
-     "tijd": "16:02",
+     "titel": "15 plekken binnen 75 km van Dalfsen",
+     "bron": "dichtstbij: Zwolle - Aa-Landen, 10 km (2026-11-12)",
+     "tijd": "12:10",
      "link": "https://waarneming.nl/species/306/observations/"
     }
    ]
@@ -1576,9 +1564,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 7.9,
-    "gevoel": 6.5,
-    "wind": "W 2",
+    "nu": 9.1,
+    "gevoel": 7.1,
+    "wind": "WNW 3",
     "station": "Heino",
     "bericht": "Een noordwestelijke wind voert vandaag onstabiele lucht aan waarin wolken en de zon elkaar afwisselen. Vooral in het noorden valt een enkele bui. Het wordt tussen 9 en 11 graden.",
     "vandaag": "Een noordwestelijke wind voert vandaag onstabiele lucht aan waarin wolken en de zon elkaar afwisselen. Vanmiddag komt vanuit het noorden de zon er steeds beter door.",
@@ -1588,7 +1576,7 @@
      "max": 10,
      "min": 0,
      "regenkans": 12,
-     "omschrijving": "lichte motregen"
+     "omschrijving": "bewolkt"
     },
     "vooruit": "De rest van de week meest droog, vrij zonnig en in de nachten en ochtenden kans op lichte vorst en soms ook mist. Begin volgende week veel bewolking, dagelijks regen of buien en soms vrij veel wind, bij temperaturen rond of iets boven normaal.",
     "omslag": "Nachtvorst in aantocht: zondag tot 0 graden.",
