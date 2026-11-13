@@ -3,13 +3,13 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "14:00",
+  "opgehaald": "15:00",
   "blokken": 11,
-  "berichten": 99,
+  "berichten": 95,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-13T14:00+01:00",
+ "opgehaald": "2026-11-13T15:00+01:00",
  "audio": "audio/20261113.mp3",
  "afval": [
   {
@@ -270,7 +270,7 @@
      "link": "https://www.volkskrant.nl/buitenland/van-de-bijbel-tot-zwaluwen-en-romeo-s-de-spion-die-verleidt-is-van-alle-tijden~b0869bf4/",
      "bron": "de Volkskrant",
      "tijd": "13:28",
-     "sorteer": "2026-11-13T12:28:48+00:00"
+     "sorteer": "2026-11-13T12:28:00+00:00"
     },
     {
      "titel": "IEA: voor eerst sinds begin Iranoorlog overschot bij aanbod olie",
@@ -282,17 +282,17 @@
      "sorteer": "2026-11-13T12:20:00+00:00"
     },
     {
-     "titel": "Met karton, water en planten houden Peter Singh (81) en Neeno Kaur (72) de schadelijke smog van Delhi buiten",
+     "titel": "Microsoft: vooruitgang bij oplossen grote storing",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/met-karton-water-en-planten-houden-peter-singh-81-en-neeno-kaur-72-de-schadelijke-smog-van-delhi-buiten~b5bc2da4/",
+     "link": "https://www.trouw.nl/buitenland/microsoft-vooruitgang-bij-oplossen-grote-storing~b19abb6b/",
      "bron": "Trouw",
-     "tijd": "12:04",
-     "sorteer": "2026-11-13T11:04:00+00:00"
+     "tijd": "14:50",
+     "sorteer": "2026-11-13T13:50:00+00:00"
     },
     {
-     "titel": "UK-EU deal will lead to ‘growing pressure’ for parliament to scrutinise legislation, warns committee – UK politics live",
-     "context": "The report on food and emissions comes ahead of a joint UK-EU summit next week A news conference in Piddington descended into a shouting match between Reform’s Zia Yusuf and the Conservative’s Chris Philp. The two men, who are both home affairs spokespeople for their respective parties, appeared alongside Piddington parish council leader Tim McNally at a media event designed to outline local oppos",
+     "titel": "Row breaks out between Tories and Reform at Piddington news conference – UK politics live",
+     "context": "United front is short-lived as Zia Yusuf and Chris Philp bicker in front of residents and cameras Earlier today, Downing Street said the government was seeking to establish “the full picture” of Microsoft outages as it urged people too follow advice on “alternative ways to get in touch” where services are disrupted. A spokesperson said ministers are being kept updated and that a “range of services",
      "rubrieken": [
       "Politics",
       "UK news",
@@ -301,8 +301,50 @@
      ],
      "link": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
      "bron": "The Guardian",
-     "tijd": "13:43",
-     "sorteer": "2026-11-13T12:43:12+00:00",
+     "tijd": "14:49",
+     "sorteer": "2026-11-13T13:49:44+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "EU institutions survive Microsoft outage unscathed",
+     "context": "Europe is working to reduce its use of big U.S. providers.",
+     "rubrieken": [
+      "Cloud",
+      "Critical infrastructure",
+      "Data protection",
+      "digital",
+      "EU Commission",
+      "Infrastructure",
+      "Internet of Things",
+      "Network security",
+      "Parliament",
+      "Platforms",
+      "Resilience",
+      "Security",
+      "Services",
+      "Software",
+      "Stability",
+      "Strategic autonomy",
+      "Supply chain security",
+      "Cybersecurity and Data Protection",
+      "Technology"
+     ],
+     "link": "https://www.politico.eu/article/eu-institutions-survive-microsoft-outage-unscathed/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "14:36",
+     "sorteer": "2026-11-13T13:36:35+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "What we know about the global Microsoft outage",
+     "context": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "14:34",
+     "sorteer": "2026-11-13T13:34:53+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -331,17 +373,6 @@
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "What we know about the global Microsoft outage",
-     "context": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "13:31",
-     "sorteer": "2026-11-13T12:31:49+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
      "titel": "UN watchdog 'increasingly concerned' over Iran nuclear site",
      "context": "It says it has never been able to inspect a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
      "rubrieken": [],
@@ -349,26 +380,6 @@
      "bron": "BBC",
      "tijd": "13:28",
      "sorteer": "2026-11-13T12:28:28+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Tinder owner hit with €11M privacy fine",
-     "context": "The Irish Data Protection Commission ruled that Tinder's \"Download My Data\" tool is not complaint with GDPR. The company plans to appeal.",
-     "rubrieken": [
-      "Data",
-      "Data / privacy",
-      "Data protection",
-      "Privacy",
-      "Regulation",
-      "Rights",
-      "Cybersecurity and Data Protection",
-      "Technology"
-     ],
-     "link": "https://www.politico.eu/article/tinder-owner-hit-with-e11m-privacy-fine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "12:01",
-     "sorteer": "2026-11-13T11:01:01+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -425,6 +436,15 @@
      "sorteer": "2026-11-13T07:23:50+01:00"
     },
     {
+     "titel": "Man en vrouw uit Drenthe aangehouden in onderzoek naar spoorsabotage op Prinsjesdag",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/binnenland/man-en-vrouw-uit-drenthe-aangehouden-in-onderzoek-naar-spoorsabotage-op-prinsjesdag~b10459c2/",
+     "bron": "de Volkskrant",
+     "tijd": "14:13",
+     "sorteer": "2026-11-13T13:13:00+00:00"
+    },
+    {
      "titel": "Wereldwijde Microsoft-storing legt systemen plat: overheden getroffen, ook Tweede Kamer kan niet mailen",
      "context": "",
      "rubrieken": [],
@@ -434,50 +454,41 @@
      "sorteer": "2026-11-13T10:58:00+00:00"
     },
     {
-     "titel": "Man en vrouw uit Drenthe aangehouden in onderzoek naar spoorsabotage op Prinsjesdag",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/man-en-vrouw-uit-drenthe-aangehouden-in-onderzoek-naar-spoorsabotage-op-prinsjesdag~b10459c2/",
-     "bron": "de Volkskrant",
-     "tijd": "11:20",
-     "sorteer": "2026-11-13T10:20:00+00:00"
-    },
-    {
      "titel": "Internationale correspondenten verbazen zich over politieke crisis in Nederland. ‘Er zijn geen grote problemen’",
      "context": "",
      "rubrieken": [],
      "link": "https://www.trouw.nl/binnenland/internationale-correspondenten-verbazen-zich-over-politieke-crisis-in-nederland-er-zijn-geen-grote-problemen~bfa216e6/",
      "bron": "Trouw",
      "tijd": "13:52",
-     "sorteer": "2026-11-13T12:52:46+00:00"
+     "sorteer": "2026-11-13T12:52:00+00:00"
+    },
+    {
+     "titel": "Verdachte (16) van dodelijke schietpartij Schiedam blijft langer vast",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYzIzWENuNEpJTG9CMlYyVE54TmUxOFdHd0lsMFZJS3lrVEtBaTVwcHlNZ2hpRHR1aUdWZ0NEU1JtdjBjdDJLYXVkWGpsdFJOVTNiX1QwMXRYNi14WEJBSzliQ2RyNlJFN0hnd0FRMjBxZ2VxTjJlVDRXYXBQYW1xS1FDNnR4dVQxTXdQSHFQdkNVYUFKZVFmTmdOcEdzdnZOV2piUVhaQjhZYkVYUHpGR3d2MEcxWW5paGc?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "14:56",
+     "sorteer": "2026-11-13T13:56:19+00:00"
     },
     {
      "titel": "OM ziet af van vervolging persoon die wolf Bram doodschoot",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORkZpaVdsN0VXSlB3cWYxaUJSV0R1ZlZoMi1sdjFzZ1R3R05IcmVQOFkzR1JNVEhiQXNzX01VdmNDNGhLYlhPMG16ajk4TEVUVGswUFRWZ2VUeGdPMU9aNGpsYl9hd05sR1pRcFIxdWlvcjkxQzlTUE1tNGo4SXhpcGliWjlKWnAxWUdtSg?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "13:43",
-     "sorteer": "2026-11-13T12:43:31+00:00"
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeEZ0cWEwcGdrUG9fSjE5enZsdjEtTEVCa3o4bGp5TXJVV2NXSUJSOVNGRXF1OWRfeGRvcWl2T3FndHhDNmQ1YkhfdkNQUUdSOHhjZ1p4YjAwYnhISkpHdDNTUDJSb2lGakplMkNuYVQ5eDFvVFFRVk1VSEhhRE5VUW4wTS1ieE5ZSVZha0xteGpCVUZvRTdlNUs5dXV6MnhUZjdGbTJENFZDbzJxWnNaNA?oc=5",
+     "bron": "Trouw",
+     "tijd": "14:49",
+     "sorteer": "2026-11-13T13:49:33+00:00"
     },
     {
-     "titel": "Supermarkt is 30.000 euro kwijt door gestolen handscanners: ‘Alsjeblieft, breng ze terug’",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMTJ2SXpUclpMV284WU9rRkJqM0Q1aUc2dmM0UjBJMUJrRFI0ZU9PcWlmcE83TEptazMxeF96emxsSHA3WjNmU1RfRnVxSmI0WmJ1X2N1MWpmNlNZaXV5cWVDTExfS3pJRUw5Z0sxeEhxVUlWVERfX2tQVlZsRk53anBzTHNURXgxRWlmQnN4Vk5qMERjejVDOEVsZG44dnpZbk5nTmlpa1V4YnVKYVZqYlBiVW5LZjVmdTZ1THZadXZJSFNWeWNLanN6RnBSY28?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "13:01",
-     "sorteer": "2026-11-13T12:01:55+00:00"
-    },
-    {
-     "titel": "Noodlijdend Pactum heeft goed nieuws voor 200 gemeenten: vooralsnog geen extra geld nodig",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM1RJZDVGTHFUS2xRRnNsRmVvaHFkM015R2xwcFRvZjh0bDB0QXZYQldfRzBtSHROeFNEVGc1TU85Q0M2YXpSNWhKeWMzTWlOTHFlYVFlakhMUl9ySFFIUXBTRkRlM283aDUyY2J2a3pQUWIzd1JzbmMzTFlHNjNfNnlqU3M5V0hIQ0ZWNW5vNzBldG1vblZuWm81Q0FXQ0duSHZBaXd5ZVdsZVc1MjA1dkNYdmhVRjNVeVBfRTN1VUtmRldaYy1RRXc4blZJRzQ?oc=5",
+     "titel": "Rechter beslist: man (39) mag na straf voor misbruik en mishandeling terug naar oude woonplaats",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN2U0WFdRWEZxY3h6TzJhSkVsVDB5X0VEek8tdThia29nMzVsS1BLdkZzUmRpdmxzUS1iNTc1WHEyaVVnd3h2dDhpV1l4UGJxQ0hablFpUFNZbDVMaFg4NGpHNDU4RTNVX0ZnWDlQenB5X25GQXNXRHhzMTVvWTJ3Qk9DcW96bzFrcjc1NDRTR3RucWhpaVlFODh0T3NWTFotN19PZTFXZi1uVTNHcS1kQnVaUUJjX0JCSkhOeVliNUwxQUZ0c2I2YngxVVprci05UUE?oc=5",
      "bron": "de Stentor",
-     "tijd": "13:37",
-     "sorteer": "2026-11-13T12:37:59+00:00"
+     "tijd": "14:54",
+     "sorteer": "2026-11-13T13:54:40+00:00"
     },
     {
-     "titel": "Informatieavond over Luchthaven Teuge en komst traumahelikopter",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMVpfaW9RM1dPci1GTkd6bEtGTTRDOTFOcnJNY2dLc1FfSEMwMUJBVC1PRDcxR3VEbkVGOVdPRk5LS05sbUR0bEhpeXJJdTMyandCV3dXT1FRVkxpaEg4MnpRbjVQTVV6cnFUeVVTNlJ5STJDYW5CLWZnYXVrR19MZVJOUjZYMGtnSTlyeTdfQ3pVMVM2aVRkaG1RMkFIVW16TVQ1cWtCOWo?oc=5",
-     "bron": "de Stentor",
-     "tijd": "13:30",
-     "sorteer": "2026-11-13T12:30:00+00:00"
+     "titel": "Ruim 15 kilo zwaar illegaal vuurwerk gevonden in Heeswijk-Dinther, politie onderzoekt betrokkenheid jongen (16)",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWHBYSkVmUUR5MXJPQWNsQTg2NVNaZDlyWUZjWkpUb21wVDZ4QlNwWE9LbkJqSDZSV3A2MklBQnVFa2lGTk5IZ3lvSlNINUFKdmNlOGJ3SlZqc3I3VDdvT3ROSHdjem9Ga1QtMnFzQkdydngtS294ZVJ3Q1JBcUl5QUh2X25ra29kLVNHb0hDRkU4aWtyTS1rNU1kZlZGX3ZTZlByVnQ0RHQzY2tOZTlzYTlGeWVFU09KTmZLXzZVVmZCalRlVWtUWmVHd3J4cnR3RzhPc1NFNEE4ZHNRMU5wVG4zb2VkMXA0RjhmbXh4c1g?oc=5",
+     "bron": "Eindhovens Dagblad",
+     "tijd": "14:24",
+     "sorteer": "2026-11-13T13:24:50+00:00"
     },
     {
      "titel": "Zo helpen we slachtoffers van dwingende controle beter dan we nu doen",
@@ -521,11 +532,11 @@
      "kop": "Begroting"
     },
     {
-     "titel": "Wat is het eindplaatje van het belastingplan na de politieke chaos? Inkomens voor ruim 2 miljard zwaarder belast",
-     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdWE5Y2FUN1JiSUQzTk9aQkV5WEhGcmp2X0s5ZklhdFJyLU51MFVHRkVKenpfcmJMZ0J5Mi11dmwzSjFqa3Z3TzVDTG4zeEZrS2E5MzRqMTFlUFFjQXowck1BQkRoZ0R3aDg4MkVHMUJBU0hsQlBxWU5xVkh1TWYyeWxxajZiYjdXNTdGZV84ZWxSazRSejRqTGlNN1RsMWJYcGd5UWk0bl9RWkp3c3dtZWxEdkFoTWdWYXFUSEFvWHpyQU9ER1pnVTlKSjZqWnIxczVNR1VuSUNPZ3pVbTY0NEpQZ0x1T0pJRE4yMlZlUk5ZVTZi?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "10:45",
-     "sorteer": "2026-11-13T09:45:00+00:00",
+     "titel": "VVD tegen belastingplan als voorstel PRO en Volt het haalt",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ3RuR2VVSzlwWGd0amNYeEdTVkoyUnRlTGVpOC1wbHprRm1QYmwwLW1aNm8xRzVJTi0xV2FpM3lfVjlYTWJyVTY1MkFPWmhjUUd2Z3dhV2VpOWZKcVlMcHFPaTJnMWRfaU41NkxrVVB1SVE2dDgteUp1ci1ycUx5UERYbW5rU0JnaGtGX2FuMUFlZ0tYVkhReXZiRENJdlNKZnc?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "11:10",
+     "sorteer": "2026-11-13T10:10:56+00:00",
      "kop": "Begroting"
     },
     {
@@ -758,29 +769,8 @@
      "titel": "Wereldwijde storing treft Microsoft: problemen met Outlook, Teams en AI-assistent Copilot",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWXR6dkpXbzdhR0RINDFsZ1AtVU9kVEZ2VHE2Qldpa29qM2ZrZWpWbGI3VkFscjAzNHZOd1FybVNMSWpVMFZrYTZhbGFiQ1pYR0xRMnAyaDJuSUVkUVEyTjRjNV9rLXoyME45VmpYSXlMbHVBZll6dUotb3V6ZG4zcmxFTmtSVEtOeVhzSTZQd2JlVnVnd3RHeVdrZFN6WVFEejVXZDNNWll0UklJNHlvVm1oREg3UFAxUVRSMkRNb3FkQjk0RWhfMzYzQTU3WHRQ?oc=5",
      "bron": "Leeuwarder Courant",
-     "tijd": "13:32",
-     "sorteer": "2026-11-13T12:32:41+00:00"
-    },
-    {
-     "titel": "AI spoort prostaatkanker net zo snel op als radioloog",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa2ZWVWg2ek80YUVBSWczMmtBM0RHOFM1alpQc2lGX3E0V21GOXhsUmdoWmhuYkNWeUt3b0VDSXNDUFJGdU9EZ0tYWlRVV2tIYzc2ZXFlUmxCWXVLbWlEakNtNXh6OVZ2M2MtSU84Ni0yTVRkU001M3A3dF83ekdVd1JjWTFqVXpxbnRiR3lyRUtJUWpDLUE1X0ExM0ViZk5MazZJTkhB?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "07:58",
-     "sorteer": "2026-11-13T06:58:35+00:00"
-    },
-    {
-     "titel": "Opinie: Waarom moet je aan de schandpaal als AI je helpt om beter te werken?",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYktlY3NaNUQ2Wkd1RFE3aXduUWtGU29MdWVPVXZYSV91c0Y1NVd3UWdwLUVaZE1vQ3hiV3dpTzZsb3hCU3N4bTR5elpjUllTOFdJM0FLMm9QODhmOTBTZ0wtZWhEV3JKMkhMdDhNcjR0b0VjanF2ZlViOU9kZld1NHhpSHlrV0I2Q296RHNGWG0xN251MVJ5VG04Vm9WUXNVQUUtYTNhWENoUzNEWTN6Z0JXYWRnREw4b0RoSEhWOVZUZDg?oc=5",
-     "bron": "de Volkskrant",
-     "tijd": "07:31",
-     "sorteer": "2026-11-13T06:31:18+00:00"
-    },
-    {
-     "titel": "EU-leiders buigen zich over AI: wacht Europa de digitale hemel of wordt het de hel?",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVBOaXlfZXRVd2RQWlpfUzdMYzFRNFRjUjlxaUQzR1pId29Jck9fdkRrdmVhZHlVYm16Y09VamdYcng4N3BGdWN0VVp5cTA4MkhIR19CVFJPdDFYc282b0lzN3VkSlQtaFJSUTJ3aHpZdTVJZjliS1FPOFdCeXdrWkt1UEs0SFNJb2hnbDlTemZxOThMUjloNElvUDVUcU9NUFIxS2l3MzRKNk9GLWh1aGF0RU5nQ0VUbWdGLXRhYw?oc=5",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-11-13T04:00:00+00:00"
+     "tijd": "14:24",
+     "sorteer": "2026-11-13T13:24:50+00:00"
     },
     {
      "titel": "Nooit meer uitgelachen om je steenkolenfrans – hoe een chatbot leerlingen met spreekangst helpt",
@@ -788,13 +778,6 @@
      "bron": "de Volkskrant",
      "tijd": "10:46",
      "sorteer": "2026-11-13T09:46:39+00:00"
-    },
-    {
-     "titel": "Examenfraude in Zuid-Korea: universiteiten op jacht naar studenten met AI-brillen",
-     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQa0YwZk8yVEJSZWRDS2tFZ3V3T0c2OW9rRm9IRnlNbnpTMTNHenJjZk05N1FBcXdlTEpqLUJtMW1uWmdERHRjSkVUTlBBWnZuY1Jyem9RT3gtczAwdEF6UEN5UGhPdU1YMEN6cDIxZ3haREVCVHY1cEZVS01CeU00OUd6ZmlNNUpXNW9ieGJOWU5HRmM2d1RwZG1YWUJsWHVoQUVrZ2h5bHdsX1Yxd0p0MGJIb2hhNUFud3dBVTd3R1JUZmtkcVBGb2FfcC02WTVYdzl6R29pOEw1dUNjZUNjek1pRm82THFWSTVKUzNFamJjdkZ0MjZ4QWFQSU9iaEJKempOWFBGWkUyTDA?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "10:45",
-     "sorteer": "2026-11-13T09:45:00+00:00"
     }
    ]
   },
@@ -811,28 +794,28 @@
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z24796"
     },
     {
+     "titel": "De verschuivende politieke prioriteiten in beleidsgelden en uitvoeringsgelden waardoor minder geïnvesteerd wordt in de strijd…",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "13-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D57842",
+     "sorteer": "2026-11-13T14:10:08.8+01:00"
+    },
+    {
+     "titel": "Het bericht dat er in interneringskampen volop seksueel geweld was, maar bewijs werd weggemoffeld",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "13-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D57839",
+     "sorteer": "2026-11-13T14:09:26.767+01:00"
+    },
+    {
      "titel": "De AIVD-publicatie 'De moderne auto als mogelijke spion'",
      "bron": "Kamervraag",
      "kop": "Kamervragen",
      "tijd": "23-10",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D52664",
      "sorteer": "2026-11-12T17:26:41.3+01:00"
-    },
-    {
-     "titel": "Online oproepen tot een demonstratie op 31 oktober in Den Haag en het mogelijke risico op gewelddadige rellen zoals in Frankrijk",
-     "bron": "Kamervraag",
-     "kop": "Kamervragen",
-     "tijd": "22-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D52531",
-     "sorteer": "2026-11-12T15:19:29.74+01:00"
-    },
-    {
-     "titel": "De veiligheid van en het toezicht op de laboratoria van het RIVM",
-     "bron": "Kamervraag",
-     "kop": "Kamervragen",
-     "tijd": "12-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D57621",
-     "sorteer": "2026-11-12T13:34:16.91+01:00"
     },
     {
      "titel": "Antwoord op vragen van het lid Van Leijen over de AIVD-publicatie \"De moderne auto als mogelijke spion\"",
@@ -843,6 +826,14 @@
      "sorteer": "2026-11-13T13:22:17.34+01:00"
     },
     {
+     "titel": "Stand van zaken haalbaarheidsanalyse screening kennisveiligheid",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "30-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D54474",
+     "sorteer": "2026-11-13T14:18:42.417+01:00"
+    },
+    {
      "titel": "Wetgevingsplanning Ministerie van Justitie en Veiligheid 2026",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
@@ -851,28 +842,12 @@
      "sorteer": "2026-11-13T11:45:36.157+01:00"
     },
     {
-     "titel": "Verdeling middelen versterking rechtsstaat",
-     "bron": "Brief van de regering",
-     "kop": "Brieven en moties",
-     "tijd": "12-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D57662",
-     "sorteer": "2026-11-12T15:25:28.417+01:00"
-    },
-    {
-     "titel": "Motie van het lid Van der Plas over nagaan of de basispolitieopleiding tot beroepsagent ook in deeltijd kan worden aangeboden",
+     "titel": "Motie van het lid Lammers over inzicht in hoeveel politiecapaciteit er wordt besteed aan de beoordeling en behandeling van…",
      "bron": "Motie",
      "kop": "Brieven en moties",
      "tijd": "10-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D57040",
-     "sorteer": "2026-11-13T13:56:18.6+01:00"
-    },
-    {
-     "titel": "Motie van de leden Straatman en Mathlouti over onderzoeken hoe de samenwerking tussen de politie en de KMar in de grensregio's…",
-     "bron": "Motie",
-     "kop": "Brieven en moties",
-     "tijd": "10-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D57039",
-     "sorteer": "2026-11-13T13:51:28.233+01:00"
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D57053",
+     "sorteer": "2026-11-13T14:53:39.653+01:00"
     },
     {
      "titel": "Begroting Justitie en Veiligheid (37020-VI)1e TK",
@@ -954,7 +929,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "14:00",
+    "bijgewerkt": "15:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1346,20 +1321,20 @@
      "link": "https://scientias.nl/planten-lijden-in-stilte-maar-niet-meer-onopgemerkt/"
     },
     {
+     "titel": "Animal cafes and exotic pet trade bring wildlife disease risks into public spaces",
+     "toelichting": "Mumbai-based veterinarian Rina Dev was hospitalized for four days recently with a lung infection. “I hope it’s not something from the parrots I was treating,” she told Mongabay India after being discharged from the hospi",
+     "bron": "Mongabay (Engels)",
+     "tijd": "14:04",
+     "link": "https://news.mongabay.com/2026/11/animal-cafes-and-exotic-pet-trade-bring-wildlife-disease-risks-into-public-spaces/",
+     "sorteer": "2026-11-13T13:04:04+00:00"
+    },
+    {
      "titel": "In India, volunteers map riverside trees to make a case for urban conservation",
      "toelichting": "Every weekend, several residents of Pune in India set out to map trees along the city’s riverbanks. It’s not just a weekend hobby; it’s meant to serve as evidence to protect the city’s greenery when developmental project",
      "bron": "Mongabay (Engels)",
      "tijd": "09:22",
      "link": "https://news.mongabay.com/short-article/2026/11/in-india-volunteers-map-riverside-trees-to-make-a-case-for-urban-conservation/",
      "sorteer": "2026-11-13T08:22:04+00:00"
-    },
-    {
-     "titel": "As incidents spike, Sri Lanka identifies 17 tuskers considered at high risk",
-     "toelichting": "COLOMBO – Following widespread public outrage over the recent death of Kavantissa, one of Sri Lanka’s most celebrated wild tuskers, the government has decided to involve the country’s armed forces to protect vulnerable e",
-     "bron": "Mongabay (Engels)",
-     "tijd": "08:11",
-     "link": "https://news.mongabay.com/2026/11/as-incidents-spike-sri-lanka-identifies-17-tuskers-considered-at-high-risk/",
-     "sorteer": "2026-11-13T07:11:49+00:00"
     }
    ]
   },
@@ -1377,42 +1352,42 @@
      "sorteer": "2026-11-13T10:09:00+01:00"
     },
     {
-     "titel": "Landelijk vandaag: 106 soorten, 8.076 vogels geteld",
+     "titel": "Landelijk vandaag: 121 soorten, 13.722 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261113?language=dutch"
     },
     {
-     "titel": "Spreeuw — 3.104",
+     "titel": "Spreeuw — 4.049",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261113?language=dutch"
     },
     {
-     "titel": "Bergeend — 629",
+     "titel": "Zwarte Zee-eend — 1.391",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261113?language=dutch"
     },
     {
-     "titel": "Zilvermeeuw — 612",
+     "titel": "Kramsvogel — 784",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261113?language=dutch"
     },
     {
-     "titel": "Aalscholver — 492",
+     "titel": "Zilvermeeuw — 738",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261113?language=dutch"
     },
     {
-     "titel": "Zwarte Zee-eend — 345",
+     "titel": "Aalscholver — 677",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -1420,15 +1395,15 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Bergeend springt eruit — 629, normaal 22",
-     "bron": "29× het gewone niveau",
+     "titel": "Bergeend springt eruit — 669, normaal 22",
+     "bron": "30× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261113?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "gans spec. springt eruit — 89, normaal 6",
+     "titel": "gans spec. springt eruit — 92, normaal 6",
      "bron": "15× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261113?language=dutch",
@@ -1436,8 +1411,16 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Zilvermeeuw springt eruit — 612, normaal 67",
-     "bron": "9× het gewone niveau",
+     "titel": "Zilvermeeuw springt eruit — 738, normaal 67",
+     "bron": "11× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261113?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Roodkeelduiker springt eruit — 172, normaal 40",
+     "bron": "4× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261113?language=dutch",
      "sein": false
@@ -1493,18 +1476,18 @@
    "items": [],
    "weer": {
     "nu": 9.1,
-    "gevoel": 6.1,
-    "wind": "WNW 4",
+    "gevoel": 6.7,
+    "wind": "W 3",
     "station": "Heino",
     "bericht": "Zon, wolken en verspreid enkele buien. Morgen start de dag koud maar de intocht van de Sint verloopt droog en vrij zonnig. Zondag volgt later op de dag regen.",
     "vandaag": "Vanmiddag is er een mix van zon, wolken en verspreid over het land enkele buien. Vanavond neemt het aantal buien geleidelijk aan af, ook is er iets minder wind.",
     "temperatuur": "Het wordt maximaal 10 graden, in het oosten en zuidoosten een graad of 9.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: 3 tot 9 graden, droog, ruim 4 uur zon, wind uit het westen, kracht 4.",
+     "zin": "Voor Dalfsen zelf: 2 tot 9 graden, droog, ruim 6 uur zon, wind uit het westen, kracht 3.",
      "max": 9,
-     "min": 3,
+     "min": 2,
      "regenkans": 4,
-     "omschrijving": "lichte motregen"
+     "omschrijving": "bewolkt"
     },
     "vooruit": "Vanaf zondag veel bewolking, bijna dagelijks regen en de eerste dagen vrij veel wind. De temperatuur overdag is nog onzeker, maar ligt tussen 5 en 10°C. 's Nachts blijft het meestal boven nul.",
     "omslag": "Nachtvorst in aantocht: zondag tot 0 graden.",
