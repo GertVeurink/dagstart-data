@@ -7,10 +7,11 @@
   "blokken": 11,
   "berichten": 91,
   "problemen": [],
-  "audio_herkomst": null
+  "audio_herkomst": "model",
+  "audio_aangehaakt": "06:06"
  },
  "opgehaald": "2026-11-13T05:55+01:00",
- "audio": null,
+ "audio": "audio/20261113.mp3",
  "afval": [
   {
    "datum": "2026-11-13",
@@ -55,8 +56,163 @@
    "afwijkend": false
   }
  ],
- "duiding": [],
- "verder": [],
+ "duiding": [
+  {
+   "titel": "D66 en CDA passeren VVD",
+   "tekst": "D66 en CDA hebben het belastingplan met Pro en Volt en buiten coalitiepartner VVD om door de Tweede Kamer geloodst, en daarmee staat de minderheidscoalitie op het spel (28, 24). Die deal belast mensen met veel vermogen zwaarder en verlaagt de inkomstenbelasting wat (31). Daarom stemde de VVD tegen: volgens fractieleider Brekelmans schaadt het voorstel het vestigingsklimaat en is het strijdig met het coalitieakkoord (30, 28). Premier Jetten wil de coalitie lijmen en praat vandaag met de vicepremiers Yeşilgöz en Van den Brink (28). Het plan haalde 76 tegen 74 stemmen, maar komt in de Eerste Kamer nog vier zetels tekort en is er daarmee nog niet door (24, 27).",
+   "verwijzingen": [
+    {
+     "titel": "Belastingplan gered ten koste van coalitie: toekomst VVD in kabinet onzeker",
+     "link": "https://www.nu.nl/politiek/6416421/belastingplan-gered-ten-koste-van-coalitie-toekomst-vvd-in-kabinet-onzeker.html",
+     "bron": "NU.nl",
+     "tijd": "05:01",
+     "nummers": [
+      24
+     ]
+    },
+    {
+     "titel": "Belastingplan komt nog vier zetels tekort in Eerste Kamer",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUJFdzBxZWYtMDJURFN1aldhamdOajV0V1VId3FGWVNyQ3d0RnV0bmFpVkNpRTJlb1E0M1JRYlpxUy1WME9CeVVjZ1dFWENKNTJWSW5hbGNJaHdFel85azJua3VackVWSElORmlJUGx5Um00OWVCYnJyVzUxLXRXQ0lrQQ?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "04:27",
+     "nummers": [
+      27
+     ]
+    },
+    {
+     "titel": "Belastingplan aangenomen, en nu is de vraag wat de VVD gaat doen",
+     "link": "https://nos.nl/l/2639225",
+     "bron": "NOS politiek",
+     "tijd": "22:50",
+     "nummers": [
+      28
+     ]
+    },
+    {
+     "titel": "Pas na de stemmingen wordt duidelijk hoe het verder gaat met belastingplan en kabinet",
+     "link": "https://nos.nl/l/2639200",
+     "bron": "NOS politiek",
+     "tijd": "18:20",
+     "nummers": [
+      30
+     ]
+    },
+    {
+     "titel": "Nieuwsuur: Coalitie wankelt na stemming belastingplan",
+     "link": "https://nos.nl/l/2639151",
+     "bron": "NPO2 · 22:00",
+     "tijd": "22:00",
+     "nummers": [
+      31
+     ]
+    }
+   ],
+   "geschreven": "06:06"
+  },
+  {
+   "titel": "CZ verhoogt premie ruim 17 euro",
+   "tekst": "De zorgpremies stijgen in 2027 flink, maar met grote verschillen tussen verzekeraars (13). Zo gaat CZ ruim 17 euro omhoog naar 177,25 euro, terwijl de goedkoopste polis van Zilveren Kruis 5,50 euro stijgt naar 159,45 euro (13). Daartussen zit Menzis, met 9,50 euro erbij op 165,75 euro (32, 13). Die verzekeraar waarschuwt wel dat de zorgkosten de komende jaren verder oplopen (32).",
+   "verwijzingen": [
+    {
+     "titel": "Zorgpremies stijgen volgend jaar flink, maar er zijn grote verschillen",
+     "link": "https://nos.nl/l/2639241",
+     "bron": "NOS",
+     "tijd": "04:49",
+     "nummers": [
+      13
+     ]
+    },
+    {
+     "titel": "Zorgpremie Menzis stijgt met bijna 10 euro per maand: 'Kosten blijven oplopen'",
+     "link": "https://www.oost.nl/nieuws/3715742/zorgpremie-menzis-stijgt-met-bijna-10-euro-per-maand-kosten-blijven-oplopen",
+     "bron": "RTV Oost",
+     "tijd": "23:59",
+     "nummers": [
+      32
+     ]
+    }
+   ],
+   "geschreven": "06:06"
+  },
+  {
+   "titel": "Huang moet getuigen voor Congres",
+   "tekst": "Jensen Huang is weg bij Nvidia en moet nu voor het Amerikaanse Congres getuigen over een affaire met een vrouw die Amerikaanse functionarissen een Chinese spion noemen (12, 11). Hij stapte donderdag abrupt op als topman, na onthullingen over buitenechtelijke affaires (12). Daarmee vestigt de zaak volgens de New York Times de aandacht op de rol van intieme relaties in Chinese spionage (11).",
+   "verwijzingen": [
+    {
+     "titel": "In China’s Spy Operations, Romance Can Be a Long Game",
+     "link": "https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html",
+     "bron": "New York Times",
+     "tijd": "04:58",
+     "nummers": [
+      11
+     ]
+    },
+    {
+     "titel": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+     "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "04:57",
+     "nummers": [
+      12
+     ]
+    },
+    {
+     "titel": "Afgetreden Nvidia-topman Huang opgeroepen om te getuigen voor Amerikaanse Senaat",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORDlXWlFQZDgtMi1rOW9rSHJKakgzYjFCWTExODAtSWhweWFfZ2p3NkNKYTllMlNjUFNHSFpvQnNiczZUc0xYM2JCZHl1ZG1jelhKckZ1NnI0TkgtcTZCU2EtWkZkbThHbUZoZ20xMXhSZnplOENsZTJSYWpCVFRBV3haTGdNeFpTanplMXVuamZQVUNnd05JX3p4Rng4RW1adUlWSU5qLWdYajdXYmUxRk4tSFRQMEZZclBqb1ZIbzNCOVNTeHFCb2xsX1cydw?oc=5",
+     "bron": "Trouw",
+     "tijd": "03:28",
+     "nummers": [
+      20
+     ]
+    }
+   ],
+   "geschreven": "06:06"
+  }
+ ],
+ "verder": [
+  {
+   "kop": "N35 opnieuw onzeker bij kabinetsval",
+   "blok": "lokaal",
+   "link": "https://www.dalfsennet.nl/nieuws/556502/opnieuw-onzekerheid-over-n35-bij-mogelijke-kabinetsval.html",
+   "bron": "DalfsenNet",
+   "titel": "Opnieuw onzekerheid over N35 bij mogelijke kabinetsval"
+  },
+  {
+   "kop": "De Graafschap weert vijftig fans",
+   "blok": "nationaal",
+   "link": "https://nos.nl/l/2639197",
+   "bron": "NOS",
+   "titel": "De Graafschap legt vijftig supporters stadionverbod op vanwege blokkeren spelersbus"
+  },
+  {
+   "kop": "Fouad L. staat in hoger beroep",
+   "blok": "nationaal",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSkdxTTlQNllkbVdHYkJzZlIyNXNLUElwdXlrbjV2MXlhWDRuTmg3LU1UOEpJczdhTksyTm03S2FkVFAtRWZWaE9PMHFYM1VBRmdMTktYQUFIUUxUN1N3d1I0X0haaW9MNlhNX1NOdEZfZXF0a3F4Yi1Qd2JwRjkxbVNwZzJwcWpuOHg0TVkxWEo5ZkFPX1lyTjRZcHFIblp6Rm05MDBXcmdxU2RPbmZvemN5SGNwV1ZyM0todnZjQnd1NzZlOVNuTXRqUQ?oc=5",
+   "bron": "De Telegraaf",
+   "titel": "Erasmusschutter Fouad L. tijdens hoger beroep over drie moorden: ’Voel er niks bij’"
+  },
+  {
+   "kop": "Noord-Korea rooft crypto met AI",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2639239",
+   "bron": "NOS",
+   "titel": "FBI: Noord-Korea gebruikte deepfakes om honderden miljoenen aan crypto te stelen"
+  },
+  {
+   "kop": "Kamer steunt motie over RSF",
+   "blok": "bron",
+   "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z24796",
+   "bron": "motie aangenomen",
+   "titel": "Motie van het lid Van Baarle over in Europees verband mogelijkheden verkennen om de Rapid Support Forces aan te duiden als…"
+  },
+  {
+   "kop": "Van Hollen daagt Schumer uit",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2639240",
+   "bron": "NOS",
+   "titel": "Machtsstrijd bij Democraten voor leiderschap in Senaat"
+  }
+ ],
  "blokken": [
   {
    "id": "internationaal",
@@ -1328,5 +1484,15 @@
     }
    }
   }
+ ],
+ "archief": [
+  "2026-11-13",
+  "2026-11-12",
+  "2026-11-11",
+  "2026-11-10",
+  "2026-11-09",
+  "2026-11-08",
+  "2026-11-07",
+  "2026-11-06"
  ]
 }
