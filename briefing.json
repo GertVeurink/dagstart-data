@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "23:00",
+  "opgehaald": "23:19",
   "blokken": 11,
   "berichten": 90,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-13T23:00+01:00",
+ "opgehaald": "2026-11-13T23:19+01:00",
  "audio": "audio/20261113.mp3",
  "afval": [
   {
@@ -259,37 +259,30 @@
      "sorteer": "2026-11-13T21:00:12+00:00"
     },
     {
-     "titel": "How Does a 74-Year-Old in Argentina Escape House Arrest on the Fifth Floor?",
-     "context": "The answer involves a heating pad, a bomb scare and animal fats. Police are still searching for an Italian man facing extradition on terrorism charges from the 1970s.",
+     "titel": "Here’s the latest.",
+     "context": "The F.A.A. grounded all flights nationwide, citing “extraordinary circumstances” and “reasons of safety.”",
      "rubrieken": [
-      "Fugitives",
-      "Extradition",
-      "Terrorism",
-      "Red Brigades",
-      "Meloni, Giorgia (1977- )",
-      "Buenos Aires (Argentina)",
-      "Argentina"
+      "Airlines and Airplanes",
+      "Federal Aviation Administration"
      ],
-     "link": "https://www.nytimes.com/2026/11/13/world/americas/74-year-old-in-argentina-escapes-house-arrest.html",
+     "link": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
      "bron": "New York Times",
-     "tijd": "22:56",
-     "sorteer": "2026-11-13T21:56:01+00:00",
+     "tijd": "23:09",
+     "sorteer": "2026-11-13T22:09:26+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Tanker collides with cruise ship on Mississippi River in New Orleans",
-     "context": "Large emergency response under way to rescue people from the water, with overnight cruise ship on its side New Orleans river collision – latest updates A tanker collided with a river cruise ship docked on the Mississippi River in New Orleans on Friday afternoon, prompting an emergency effort to rescue people from the water, according to officials. The Atlantic Asphalt tanker collided with American",
+     "titel": "New Orleans boat crash: tanker collides with river cruise ship carrying more than 130 people – latest updates",
+     "context": "Rescue efforts under way as American Heritage takes on water; governor confirms incident in Mississippi River Tanker collides with cruise ship on Mississippi River in New Orleans A video circulating around social media shows a different angle during the moment the ship was falling on its side into the water. Passengers can be seen climbing onto the balconies’ railing to avoid sliding into the rive",
      "rubrieken": [
       "New Orleans",
-      "US news",
-      "Louisiana",
-      "Water transport"
+      "US news"
      ],
-     "link": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates",
      "bron": "The Guardian",
-     "tijd": "22:49",
-     "sorteer": "2026-11-13T21:49:50+00:00",
+     "tijd": "23:03",
+     "sorteer": "2026-11-13T22:03:54+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -518,17 +511,6 @@
      "sorteer": "2026-11-13T19:05:25+00:00"
     },
     {
-     "titel": "Blijven lokale VVD-ers de partij trouw? 'Partij moet zich hervinden'",
-     "context": "Het is bijna niet meer te volgen in Den Haag, waar de hele dag crisisoverleg plaats vond, omdat VVD het kabinet dreigt op te blazen. Het overleg gaat de komende dagen door, waardoor de val van het kabinet nog steeds boven de markt hangt. Lokale liberalen, inwoners van VVD-bolwerk Delden en politicoloog Henk van der Kolk van universiteit Twente reageren.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3719089/blijven-lokale-vvd-ers-de-partij-trouw-partij-moet-zich-hervinden",
-     "bron": "RTV Oost",
-     "tijd": "19:34",
-     "sorteer": "2026-11-13T18:34:36+00:00"
-    },
-    {
      "titel": "Duitsland wil zich inkopen in Urenco, dat grote fabriek in Almelo heeft",
      "context": "De Duitse staat wil voor miljarden euro's mede-eigenaar worden van uraniumverrijkingsbedrijf Urenco, dat een grote vestiging in Almelo heeft. Volgens zakenkrant Handelsblatt wil Berlijn de aandelen overnemen van de Duitse energiebedrijven RWE en E.ON.",
      "rubrieken": [],
@@ -565,6 +547,15 @@
      "bron": "RTV Oost",
      "tijd": "13:32",
      "sorteer": "2026-11-13T12:32:04+00:00"
+    },
+    {
+     "titel": "Deventer Stadsfestival keert terug op 'mooiste festivallocatie van de stad'",
+     "context": "Het Deventer Stadsfestival maakt een comeback. Het ging deze zomer niet door, maar volgend jaar wordt het weer gehouden in het Rijsterborgherpark. Daarmee gaat een langgekoesterde wens van de organisatie in vervulling, die eerder te horen kreeg dat het festival te veel schade toebracht aan de bodem.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/cultuur/3719091/deventer-stadsfestival-keert-terug-op-mooiste-festivallocatie-van-de-stad",
+     "bron": "RTV Oost",
+     "tijd": "13:08",
+     "sorteer": "2026-11-13T12:08:21+00:00"
     },
     {
      "titel": "Kinderatelier, tekenen, schilderen en meer",
@@ -816,71 +807,79 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "23:00",
+    "bijgewerkt": "23:19",
     "voetbal": {
      "uitslagen": [
       {
        "thuis": "Heerenveen",
        "uit": "Feyenoord",
        "score": "5 - 3",
-       "wanneer": "vandaag 12:15",
+       "wanneer": "zondag 12:15",
        "bezig": "",
+       "tijd": "12:15",
        "eigen": false
       },
       {
        "thuis": "FC Twente",
        "uit": "Ajax",
        "score": "2 - 2",
-       "wanneer": "vandaag 14:30",
+       "wanneer": "zondag 14:30",
        "bezig": "",
+       "tijd": "14:30",
        "eigen": false
       },
       {
        "thuis": "AZ Alkmaar",
        "uit": "FC Groningen",
        "score": "4 - 3",
-       "wanneer": "vandaag 16:45",
+       "wanneer": "zondag 16:45",
        "bezig": "",
+       "tijd": "16:45",
        "eigen": false
       },
       {
        "thuis": "Cambuur",
        "uit": "PSV",
        "score": "2 - 5",
-       "wanneer": "vandaag 16:45",
+       "wanneer": "zondag 16:45",
        "bezig": "",
+       "tijd": "16:45",
        "eigen": false
       },
       {
        "thuis": "FC Utrecht",
        "uit": "NEC",
        "score": "2 - 3",
-       "wanneer": "vandaag 20:00",
+       "wanneer": "zondag 20:00",
        "bezig": "",
+       "tijd": "20:00",
        "eigen": false
       },
       {
        "thuis": "Fortuna",
        "uit": "Telstar",
        "score": "2 - 2",
-       "wanneer": "vandaag 16:30",
+       "wanneer": "zaterdag 16:30",
        "bezig": "",
+       "tijd": "16:30",
        "eigen": false
       },
       {
        "thuis": "ADO Den Haag",
        "uit": "Sparta",
        "score": "3 - 1",
-       "wanneer": "vandaag 18:45",
+       "wanneer": "zaterdag 18:45",
        "bezig": "",
+       "tijd": "18:45",
        "eigen": false
       },
       {
        "thuis": "Excelsior",
        "uit": "Go Ahead Eagles",
        "score": "0 - 1",
-       "wanneer": "vandaag 21:00",
+       "wanneer": "zaterdag 21:00",
        "bezig": "",
+       "tijd": "21:00",
        "eigen": false
       }
      ],
@@ -1396,7 +1395,7 @@
    "items": [],
    "weer": {
     "nu": 2.6,
-    "gevoel": 0.0,
+    "gevoel": -0.1,
     "wind": "ZW 2",
     "station": "Heino",
     "bericht": "Onder invloed van een hogedrukgebied is het zaterdag rustig weer met veel zon. Het is wel wat aan de frisse kant, dus kleed je goed aan als je zaterdag naar de intocht gaat.Vannacht zijn er brede opklaringen. De meeste bewolking bevindt zich in het noorden van het land waar de buien het langste aanhouden.",
