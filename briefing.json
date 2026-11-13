@@ -3,13 +3,13 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "16:00",
+  "opgehaald": "17:00",
   "blokken": 11,
-  "berichten": 95,
+  "berichten": 94,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-13T16:00+01:00",
+ "opgehaald": "2026-11-13T17:00+01:00",
  "audio": "audio/20261113.mp3",
  "afval": [
   {
@@ -220,7 +220,7 @@
    "items": [
     {
      "titel": "Wolven doden 35 schapen in België, dodelijkste aanval sinds terugkeer roofdier",
-     "context": "In een natuurgebied in België zijn vorige maand bij een wolvenaanval zeker 35 schapen doodgebeten. Het gaat om de dodelijkste wolvenaanval sinds de wolf is teruggekeerd in Vlaanderen in 2018, schrijft het dagblad Gazet van Antwerpen. De schapen werden op 4 oktober door herder Bert Plasmans getroffen, maar de aanval wordt nu pas gemeld. De dieren behoorden tot een kudde van 450 schapen die werden i",
+     "context": "In een natuurgebied in België zijn vorige maand bij een wolvenaanval zeker 35 schapen doodgebeten. Het gaat om de dodelijkste wolvenaanval sinds de wolf is teruggekeerd in Vlaanderen in 2018, schrijft het dagblad Gazet van Antwerpen. De schapen werden op 4 oktober door herder Bert Plasmans aangetroffen, maar de aanval wordt nu pas gemeld. De dieren behoorden tot een kudde van 450 schapen die werde",
      "rubrieken": [],
      "link": "https://nos.nl/l/2639327",
      "bron": "NOS",
@@ -264,6 +264,15 @@
      "sorteer": "2026-11-13T12:56:16+01:00"
     },
     {
+     "titel": "Trump torpedeert poging Vance om te praten met Iran, opvallende terechtwijzing van vicepresident",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/trump-torpedeert-poging-vance-om-te-praten-met-iran-opvallende-terechtwijzing-van-vicepresident~bdfad744/",
+     "bron": "de Volkskrant",
+     "tijd": "16:06",
+     "sorteer": "2026-11-13T15:06:27+00:00"
+    },
+    {
      "titel": "Russische muur van onwil: nieuwe vredesbesprekingen leiden vooral tot nieuwe druk op Oekraïne",
      "context": "",
      "rubrieken": [],
@@ -271,15 +280,6 @@
      "bron": "de Volkskrant",
      "tijd": "15:33",
      "sorteer": "2026-11-13T14:33:34+00:00"
-    },
-    {
-     "titel": "Nu Jensen Huang is opgestapt, richt de blik zich ook op de rol van Trump en diens handelsminister in de Nvidia-affaire",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/nu-jensen-huang-is-opgestapt-richt-de-blik-zich-ook-op-de-rol-van-trump-en-diens-handelsminister-in-de-nvidia-affaire~bc7d45ee/",
-     "bron": "de Volkskrant",
-     "tijd": "15:04",
-     "sorteer": "2026-11-13T14:04:00+00:00"
     },
     {
      "titel": "Microsoft: vooruitgang bij oplossen grote storing",
@@ -291,18 +291,35 @@
      "sorteer": "2026-11-13T13:50:00+00:00"
     },
     {
-     "titel": "Eleanor Donaldson, wife of former DUP leader, placed on sex offender register",
-     "context": "Judge imposes three-year treatment order on Donaldson for aiding and abetting sexual offences by her husband, Jeffrey Jeffrey Donaldson’s wife, Eleanor, has been placed on the sex offender register for five years for aiding and abetting sexual offences by her disgraced husband. Eleanor Donaldson appeared via remote link at Newry crown court to hear the order on Friday one month after her husband, ",
+     "titel": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live",
+     "context": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlie",
      "rubrieken": [
-      "Northern Ireland",
-      "Democratic Unionist party (DUP)",
-      "Politics",
-      "UK news"
+      "US news",
+      "US politics",
+      "Democrats",
+      "Republicans",
+      "Donald Trump",
+      "Chuck Schumer"
      ],
-     "link": "https://www.theguardian.com/uk-news/2026/nov/13/eleanor-donaldson-wife-of-former-dup-leader-placed-on-sex-offender-register",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
      "bron": "The Guardian",
-     "tijd": "15:48",
-     "sorteer": "2026-11-13T14:48:02+00:00",
+     "tijd": "16:34",
+     "sorteer": "2026-11-13T15:34:45+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Whitehall to increase face-to-face job interviews after surge in AI applications",
+     "context": "In the most extreme cases, civil service leaders suspect that entire applications — including interviewees on a video calls — were generated by AI.",
+     "rubrieken": [
+      "Services",
+      "Skills",
+      "Technology UK"
+     ],
+     "link": "https://www.politico.eu/article/whitehall-increase-in-person-job-interviews-after-ai-applications/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "16:00",
+     "sorteer": "2026-11-13T15:00:00+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -310,71 +327,38 @@
      "titel": "One of France’s Most Popular Athletes Is Running for President",
      "context": "Centrists want alternatives to a matchup between the far right and far left in the 2027 presidential race. Enter Christine Lagarde, a former central banker — and Teddy Riner, a judo star.",
      "rubrieken": [
-      "France",
+      "Politics and Government",
       "Elections",
+      "Judo",
+      "Right-Wing Extremism and Alt-Right",
+      "France",
       "Riner, Teddy",
       "Lagarde, Christine",
-      "Melenchon, Jean-Luc",
       "Le Pen, Marine",
+      "Melenchon, Jean-Luc",
+      "de Villepin, Dominique Galouzeau",
       "Lisnard, David (1969- )",
       "Philippe, Edouard",
-      "European Central Bank",
-      "Politics and Government",
-      "Judo",
-      "Demonstrations, Protests and Riots",
-      "de Villepin, Dominique Galouzeau",
       "Glucksmann, Andre (1937-2015)",
+      "Hollande, Francois",
       "Daniel, Jean",
-      "Polls and Public Opinion",
-      "Right-Wing Extremism and Alt-Right",
-      "Liberalism (US Politics)"
+      "Macron, Emmanuel (1977- )"
      ],
      "link": "https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html",
      "bron": "New York Times",
      "tijd": "15:47",
-     "sorteer": "2026-11-13T14:47:22+00:00",
+     "sorteer": "2026-11-13T14:47:23+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "What we know about the global Microsoft outage",
-     "context": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+     "titel": "Why is the Microsoft outage lasting so long?",
+     "context": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing.",
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
      "tijd": "15:21",
      "sorteer": "2026-11-13T14:21:26+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "EU institutions survive Microsoft outage unscathed",
-     "context": "Europe is working to reduce its use of big U.S. providers.",
-     "rubrieken": [
-      "Cloud",
-      "Critical infrastructure",
-      "Data protection",
-      "digital",
-      "EU Commission",
-      "Infrastructure",
-      "Internet of Things",
-      "Network security",
-      "Parliament",
-      "Platforms",
-      "Resilience",
-      "Security",
-      "Services",
-      "Software",
-      "Stability",
-      "Strategic autonomy",
-      "Supply chain security",
-      "Cybersecurity and Data Protection",
-      "Technology"
-     ],
-     "link": "https://www.politico.eu/article/eu-institutions-survive-microsoft-outage-unscathed/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "14:36",
-     "sorteer": "2026-11-13T13:36:35+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -407,7 +391,7 @@
     },
     {
      "titel": "Prins Claus deserteerde niet uit leger nazi-Duitsland, blijkt uit nieuwe biografie",
-     "context": "Claus von Amsberg, de man van de vorige koningin, prinses Beatrix, en vader van koning Willem-Alexander, had een wat ander oorlogsverleden dan tot nu toe bekend. Zo deserteerde hij niet uit het Duitse leger, zoals hij later beweerde, en was zijn vader lid van nazipartij NSDAP. Dat blijkt uit een nieuwe biografie van de prins, geschreven door journalisten Jutta Chorus en Bas Blokker. Claus vertelde",
+     "context": "Claus von Amsberg, de man van de vorige koningin, prinses Beatrix, en vader van koning Willem-Alexander, had een wat ander oorlogsverleden dan tot nu toe bekend. Zo deserteerde hij niet uit het Duitse leger, zoals hij later beweerde, en was zijn vader lid van nazipartij NSDAP. Dat blijkt uit een nieuwe biografie van de in 2002 overleden prins, geschreven door journalisten Jutta Chorus en Bas Blokk",
      "rubrieken": [],
      "link": "https://nos.nl/l/2639323",
      "bron": "NOS",
@@ -460,27 +444,27 @@
      "sorteer": "2026-11-13T13:13:00+00:00"
     },
     {
-     "titel": "Waarom is het steeds weer crisis in de Nederlandse politiek? ‘Politieke partijen moeten uit de electorale ratrace stappen’",
+     "titel": "Opsteker voor de sociale advocatuur: 22 miljoen euro van het kabinet",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/waarom-is-het-steeds-weer-crisis-in-de-nederlandse-politiek-politieke-partijen-moeten-uit-de-electorale-ratrace-stappen~b463cb14/",
+     "link": "https://www.trouw.nl/binnenland/opsteker-voor-de-sociale-advocatuur-22-miljoen-euro-van-het-kabinet~b7e167da/",
      "bron": "Trouw",
-     "tijd": "15:34",
-     "sorteer": "2026-11-13T14:34:00+00:00"
+     "tijd": "16:03",
+     "sorteer": "2026-11-13T15:03:25+00:00"
     },
     {
-     "titel": "OM ziet af van vervolging persoon die wolf Bram doodschoot",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNTBZalFCSU9tUVlOTWJiQTNTOVJfWkNKcWZjYllMeHRZNUtfekx6T2QxZjR0cTVITmxkZGZ3eG9vcUQ3b0pXUW1TR3Y0b0MxM2lxNEZuR3hQT3pxVHV6dW9XZ2lyTEwxLVNjUFM5TVZVNW5ld0ZjQWEzRnJ1Z1R5T2xlVDJLWmtKOFY5amJaTUFMSm5MYWthdGhWZjY2VFZtTWRXdHIwaW54YkZnWlE?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "15:20",
-     "sorteer": "2026-11-13T14:20:21+00:00"
-    },
-    {
-     "titel": "Putten week lang decor van oefening van Koninklijke Landmacht",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR29XS2RMREFiMUJDNG8xdlhYb3dCbnF4X0ZrMVk4bzZYM013RzN1YVBFZ3pFbkNSaVNjOHNyWHFaeHNSWThfX3FPSE83X3hvV0lfSWdqY2ZCcGduOUFjenNRYTZFcEU1TVYwNHMtbDFMLUQ0REh2RmJvYXk0VHlRSnBHV2haNWlid1pWRkJiQXZXRFdzZkctQUdoQXRnVVA1WklzWU5n?oc=5",
+     "titel": "Ongeval met letsel op Verzetstraat in Holten",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmhDanZqTWVBdVNvRmRfaUFjNW5KT2VEOFA4THh3LUNZdy1XRms0VndXMUNtc0JZRGt2eERjZXRGOUZnWU1HVUlvLUNEZkF3VV9pbmVXbEZSOXJITTUxSEs4VlR2OXdMV1VaT0tpTFY5M0g1QUVXemJialMzU1VvbW1IQkhNMVZYN0U1cjh2WGxOU05WNWJDQy1FVnJ3X0RySFB4Q05fc3E?oc=5",
      "bron": "de Stentor",
-     "tijd": "15:51",
-     "sorteer": "2026-11-13T14:51:00+00:00"
+     "tijd": "15:38",
+     "sorteer": "2026-11-13T14:38:56+00:00"
+    },
+    {
+     "titel": "Snoeiharde Haagse kritiek op FUMO. Friese omgevingsdienst is slechtste van Nederland",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLUdSZno0VGFPS0JmbHltWXFKci1JdElOZlBtVGFOQXFuTFZWUWVjZmV4azhVdko0OW5qMEVjNVJDck51eDZEUm14ckRiLWhMNzJjb0ZmZTNaY0NyZFl1TERnXzNVMHNCQ2l4LU9jVGhUMHNyU0p2bWVlZTZOTmNJZHh0dS1MUGxoV05jYVNvUndwSnRlYUlBR3MtT3dfMGwyWTBtcHJLUnM1UW1ZUTNnZ1BGY1RNNHFYY0hYVzlMd1lCdE1XcE41WEh4UEkzQQ?oc=5",
+     "bron": "Leeuwarder Courant",
+     "tijd": "15:20",
+     "sorteer": "2026-11-13T14:20:00+00:00"
     },
     {
      "titel": "KLM doet aangifte tegen passagier vanwege ontplofte powerbank tijdens vlucht",
@@ -488,13 +472,6 @@
      "bron": "Brabants Dagblad",
      "tijd": "15:18",
      "sorteer": "2026-11-13T14:18:00+00:00"
-    },
-    {
-     "titel": "Vriendin moet bestuurder ophalen bij politie, maar is woest na zoveelste dronken rit: ‘Bekijk het maar’",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX0xCUU1TVjNTM01fa0RhNmEwV1FEbTJtcVBXM1YwdUplXzRyOWtRamZ3REpjaDJHM1VOcTJhaUhpQVJPZFJTTTRkMXdKdXJjQnpTX2RqZ21LRTdqcWl2UXNJNmJfdDladl8yU1c0TnYyVVlkQnI5d1lnRzdlTzhkOWFGR1NtX2d3TERlVU5NMWxEM2x6dHNjbHd1b2ZNWTlDTnYyQ0hueEpBTmVMY2ZsYjNiVGl3amFoeEtIY19MWENmbEFiblZUMnQ3NjJVNFpYRWRmU200QldCUFpFMXc?oc=5",
-     "bron": "de Stentor",
-     "tijd": "15:00",
-     "sorteer": "2026-11-13T14:00:00+00:00"
     },
     {
      "titel": "Zo helpen we slachtoffers van dwingende controle beter dan we nu doen",
@@ -518,15 +495,23 @@
      "sorteer": "2026-11-13T04:45:07+00:00"
     },
     {
-     "titel": "Live | VVD'ers laten niets los over coalitiecrisis, topoverleg al uren bezig",
+     "titel": "Live | Jetten en vicepremiers overleggen al ruim 5 uur over toekomst van kabinet",
      "context": "Hallo en welkom in dit liveblog. Hier houden wij je op de hoogte van de politieke ontwikkelingen in Den Haag.",
      "rubrieken": [
       "politiek"
      ],
-     "link": "https://www.nu.nl/politiek/6416422/vvders-laten-niets-los-over-coalitiecrisis-topoverleg-al-uren-bezig.html",
+     "link": "https://www.nu.nl/politiek/6416422/jetten-en-vicepremiers-overleggen-al-ruim-5-uur-over-toekomst-van-kabinet.html",
      "bron": "NU.nl",
      "tijd": "06:30",
      "sorteer": "2026-11-13T06:30:33+01:00",
+     "kop": "Begroting"
+    },
+    {
+     "titel": "Belastingplan over links, crisis in kabinet | Rondje Binnenhof #112",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0c3VHAwTko5T05aQmpWUDNWYVY0eVdLZ0NwREQzdEgtNG9tVjNkRlpIZDVVTEktTnlGRUwzRWppQ3l2Rm5qWExGN25qcUttTXZheWxBNGV5ZldTUng2OHlvSmlFMDhlNGxFc25sU2ZiUF9yRTNQYlRxb0lyZHdsckhHRHdGclZsSVk2bC1selBacGRsWlc0?oc=5",
+     "bron": "NOS",
+     "tijd": "16:45",
+     "sorteer": "2026-11-13T15:45:16+00:00",
      "kop": "Begroting"
     },
     {
@@ -543,14 +528,6 @@
      "bron": "Het Parool",
      "tijd": "07:38",
      "sorteer": "2026-11-13T06:38:00+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Ochtendnieuws: Kabinet wankelt na VVD-verzet tegen belastingplan en roep om ‘reset’",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQXJPdllNUXJhN3FiY0ItaTFqUy1UU0VGdWdMRG1KeG85Y0ZYNlZEcjFzSHNUTFluYXkxcjZ3cFI4TU16Yzl4TzVjeXRxRjM2T01OY2JHYnI3ZUd6R3NfVEVpQ2ZMb2dFZWNmMkVIUlFLdUtNMGowRjhXX3hxLTVyTU1SUGZNRTAwVWJPUV94ZnIybmFuZlJONF9kaFBHWExIOWtOMjd6aGJuenIxRG1kM0hvUGU5X0xLd3NJWVp6UkxvbGFqQ3BhdHhCbw?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "07:04",
-     "sorteer": "2026-11-13T06:04:33+00:00",
      "kop": "Begroting"
     },
     {
@@ -625,17 +602,6 @@
      "sorteer": "2026-11-13T12:08:21+00:00"
     },
     {
-     "titel": "Twee aanhoudingen na grootschalige spoorsabotage op Prinsjesdag",
-     "context": "In het onderzoek naar de spoorsabotages op Prinsjesdag zijn gisteren een man en een vrouw uit Drenthe aangehouden voor betrokkenheid. Ze zijn dezelfde dag weer vrijgelaten, maar blijven wel verdachten in de zaak.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3719139/twee-aanhoudingen-na-grootschalige-spoorsabotage-op-prinsjesdag",
-     "bron": "RTV Oost",
-     "tijd": "11:59",
-     "sorteer": "2026-11-13T10:59:03+00:00"
-    },
-    {
      "titel": "Wereldwijde storing bij Microsoft raakt ook Overijssel: mailverkeer verstoord",
      "context": "Een mailtje versturen of ontvangen? Dat lukt bij veel mensen vandaag niet. Microsoft kampt wereldwijd met een grote storing. Ook in Overijssel merken bedrijven en organisaties de gevolgen. RTV Oost was tot het middaguur ook niet bereikbaar via de mail. Dit is inmiddels niet meer het geval.",
      "rubrieken": [],
@@ -643,15 +609,6 @@
      "bron": "RTV Oost",
      "tijd": "11:19",
      "sorteer": "2026-11-13T10:19:51+00:00"
-    },
-    {
-     "titel": "Na 14 jaar nieuw album The Horse Company, zonder overleden oprichter Arjan Pronk",
-     "context": "The Horse Company bracht tussen 2009 en 2012 drie albums uit. Ondanks de ronkende recensies trok de Zwols-Luttenbergse band in 2013 de stekker eruit. Maar het bloed kruipt waar het niet gaan kan en nu is de band terug, met een nieuwe plaat. \"Klamme zweethandjes, maar het gaat lekker!\"",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3717392/na-14-jaar-nieuw-album-the-horse-company-zonder-overleden-oprichter-arjan-pronk",
-     "bron": "RTV Oost",
-     "tijd": "08:55",
-     "sorteer": "2026-11-13T07:55:30+00:00"
     },
     {
      "titel": "Overleden persoon aangetroffen in Deventer",
@@ -663,31 +620,48 @@
      "sorteer": "2026-11-13T07:22:44+00:00"
     },
     {
-     "titel": "Multifunctioneel gebouw voor begraafplaats Welsum",
-     "context": "DALFSEN – WELSUM – College stelt nieuw multifunctioneel gebouw voor op begraafplaats Welsum. Het college van Dalfsen stelt de gemeenteraad voor om te kiezen voor een voorkeursvariant voor de vernieuwing van de gebouwen op begraafplaats Welsum. Het voorstel is om een nieuw multifunctioneel en duurzaam gebouw op de begraafplaats te realiseren. De drie bestaande […]",
-     "rubrieken": [
-      "Dalfsen",
-      "Ingezonden bericht",
-      "Laatste nieuws",
-      "Politiek"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/556538/multifunctioneel-gebouw-voor-begraafplaats-welsum.html",
-     "bron": "DalfsenNet",
-     "tijd": "13:42",
-     "sorteer": "2026-11-13T12:42:04+00:00"
+     "titel": "Ziekenhuis in Oldenzaal krijgt CT-scan, parkeerterrein straks afgesloten",
+     "context": "Het ziekenhuis in Oldenzaal krijgt een eigen CT-scan. Ook wordt de parkeerplaats straks afgesloten met een slagboom. Plannen om de locatie ingrijpend te veranderen of zelfs te sluiten zijn er niet, zegt MST. De buitenpoli in Haaksbergen sloot onlangs, maar daar is in Oldenzaal dus geen sprake van.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3718232/ziekenhuis-in-oldenzaal-krijgt-ct-scan-parkeerterrein-straks-afgesloten",
+     "bron": "RTV Oost",
+     "tijd": "07:02",
+     "sorteer": "2026-11-13T06:02:21+00:00"
     },
     {
-     "titel": "De gouden pepernoot",
-     "context": "DALFSEN – In samenwerking met de Speelotheek en Bergopwaarts coaching is er een gratis lidmaatschap voor een jaar te winnen. Doe je mee? Sint en zijn pieten hebben ons gebeld, en het volgende aan ons verteld. Zaterdag meren ze pas aan, dus wij mogen nu alvast voor ze aan de slag gaan! In Dalfsen ligt […]",
+     "titel": "Kinderkoor heet Sinterklaas welkom met eigen lied: 'Hopelijk wordt het traditie'",
+     "context": "Voor de mensen die zich afvragen wat al die kinderen met mijtertjes en pietenpetten zaterdag in Hengelo zingen bij de intocht van Sinterklaas, heeft dirigent Sebastiaan Haverkate van Koorschool Lambertus nu al het antwoord. \"Ze zingen het nieuwe Hengelose sinterklaaslied.\"",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/cultuur/3717696/kinderkoor-heet-sinterklaas-welkom-met-eigen-lied-hopelijk-wordt-het-traditie",
+     "bron": "RTV Oost",
+     "tijd": "07:01",
+     "sorteer": "2026-11-13T06:01:09+00:00"
+    },
+    {
+     "titel": "Dit is alweer de laatste aflevering van het Dalfser Sinterklaasjournaal",
+     "context": "DALFSEN – Alles lijkt goed te komen. Babet belt nog even met Maartje en ze zien hoe het in het dorp gaat. Is Dalfsen er klaar voor? Nog 1 nachtje slapen dan is het zo ver! Zien wij jullie morgen? Om 14.00 komt de Sint met zijn pieten aan in de haven van Dalfsen. […]",
      "rubrieken": [
       "Dalfsen",
       "Ingezonden bericht",
       "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/556477/de-gouden-pepernoot.html",
+     "link": "https://www.dalfsennet.nl/nieuws/556548/dit-is-alweer-de-laatste-aflevering-van-het-dalfser-sinterklaasjournaal.html",
      "bron": "DalfsenNet",
-     "tijd": "13:36",
-     "sorteer": "2026-11-13T12:36:49+00:00"
+     "tijd": "16:19",
+     "sorteer": "2026-11-13T15:19:17+00:00"
+    },
+    {
+     "titel": "Melding: vliegtuigongeval Staphorst",
+     "context": "STAPHORST – Een eenmotorig vliegtuigje heeft vrijdagmiddag rond 14.30 uur een noodlanding gemaakt op een bouwland aan de Lommertsteeg in Staphorst. De piloot en de medepassagier bleven ongedeerd. De brandweer en ambulance kwamen ter plaatse na een melding van een crash. Eventuele bijzonderheden later. De eerste melding is van 14.15 uur. Rond kwart over 2 […]",
+     "rubrieken": [
+      "112-nieuws",
+      "Laatste nieuws",
+      "Staphorst"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/556542/vliegtuigongeval-staphorst.html",
+     "bron": "DalfsenNet",
+     "tijd": "16:01",
+     "sorteer": "2026-11-13T15:01:58+00:00"
     }
    ]
   },
@@ -771,10 +745,10 @@
     },
     {
      "titel": "AI spoort prostaatkanker net zo snel op als radioloog",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVlBsd2VobzUyaTNSMktlWEJWZXhtWjB0TmFVcS1ydkktaHItSmlZLVdiWlp2VDN3dERhRFptZ2xEcEIxbENzZndOR1JFcDl1TlRXVk51UXR1ZTZ3c0RmNlVITXZXb3V6N3BmbVFYSC1CVE1QMUUtRzVvVUZpYVlDM19TVXRDM0xIUnBEM3hMWEJYWHU4d1h5N2FGcUNCd0VpbEZhT0x1RHMxWG1ISEQ1X21B?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdWlVYnZ1eWlIUjRwSUxaeUZNU3dJc2dEc3BJSTBHdU12MUJiNkxnVm9kY2xKM19nT1hTenlTa3pfbzBhLVJaSWhKZnVpX0c2TzhwX1dWcWJwMTZhNUZ3TXRLN1ZaUl9pQjNfd0hHNllzdHVpQ1dIejNrZnFENkxkUkJRbGhxdFQ4Q1BvZDRqV08zdTZudVdzV081dlpTSjRnbFEwUjBoX3JLZVZpbkx5X2dB?oc=5",
      "bron": "bnr.nl",
-     "tijd": "13:23",
-     "sorteer": "2026-11-13T12:23:31+00:00"
+     "tijd": "13:21",
+     "sorteer": "2026-11-13T12:21:27+00:00"
     }
    ]
   },
@@ -823,20 +797,20 @@
      "sorteer": "2026-11-13T13:22:17.34+01:00"
     },
     {
-     "titel": "Belang spoedige behandeling Wijziging van de Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding (Kamerstuk 36918)",
+     "titel": "Opvolging debat over de bevindingen van de Algemene Rekenkamer dat 10000 aangiften niet door de politie worden onderzocht",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
-     "tijd": "08-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D41843",
-     "sorteer": "2026-11-13T15:16:59.323+01:00"
+     "tijd": "28-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D53827",
+     "sorteer": "2026-11-13T16:22:51.183+01:00"
     },
     {
-     "titel": "Stand van zaken haalbaarheidsanalyse screening kennisveiligheid",
+     "titel": "Begrotingsonderdeel Artikel 31 Politie",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
-     "tijd": "30-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D54474",
-     "sorteer": "2026-11-13T14:18:42.417+01:00"
+     "tijd": "28-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D53911",
+     "sorteer": "2026-11-13T16:07:09.873+01:00"
     },
     {
      "titel": "Motie van het lid Lammers over inzicht in hoeveel politiecapaciteit er wordt besteed aan de beoordeling en behandeling van…",
@@ -926,7 +900,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "16:00",
+    "bijgewerkt": "17:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1318,20 +1292,20 @@
      "link": "https://scientias.nl/darmcellen-onthouden-vetrijk-eten-zelfs-nadat-muizen-weer-gezond-eten/"
     },
     {
+     "titel": "Fruit bats emerge as unlikely allies in the Atlantic Forest restoration",
+     "toelichting": "Bats have long occupied a sinister place in Western pop culture. Ever since Bram Stoker published Dracula in 1897, these nocturnal mammals have been associated with vampires. Outside fiction, however, only three of the w",
+     "bron": "Mongabay (Engels)",
+     "tijd": "16:22",
+     "link": "https://news.mongabay.com/2026/11/fruit-bats-emerge-as-unlikely-allies-in-the-atlantic-forest-restoration/",
+     "sorteer": "2026-11-13T15:22:50+00:00"
+    },
+    {
      "titel": "El Niño drove drought, but climate change intensified Indonesia’s fire crisis: Study",
      "toelichting": "Human-caused climate change significantly amplified extreme heat during Indonesia’s 2026 fire season, turning an El Niño-driven drought into a severe regional crisis, according to a recent rapid analysis. The report was ",
      "bron": "Mongabay (Engels)",
      "tijd": "15:30",
      "link": "https://news.mongabay.com/short-article/2026/11/el-nino-drove-drought-but-climate-change-intensified-indonesias-fire-crisis-study/",
      "sorteer": "2026-11-13T14:30:40+00:00"
-    },
-    {
-     "titel": "Animal cafes and exotic pet trade bring wildlife disease risks into public spaces",
-     "toelichting": "Mumbai-based veterinarian Rina Dev was hospitalized for four days recently with a lung infection. “I hope it’s not something from the parrots I was treating,” she told Mongabay India after being discharged from the hospi",
-     "bron": "Mongabay (Engels)",
-     "tijd": "14:04",
-     "link": "https://news.mongabay.com/2026/11/animal-cafes-and-exotic-pet-trade-bring-wildlife-disease-risks-into-public-spaces/",
-     "sorteer": "2026-11-13T13:04:04+00:00"
     }
    ]
   },
@@ -1440,11 +1414,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Goed pestvogeljaar — op 46 plekken in de afgelopen week, waarvan 7 vandaag",
+     "titel": "Goed pestvogeljaar — op 48 plekken in de afgelopen week, waarvan 8 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 89 vogels; 110 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 99 vogels; 114 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1480,9 +1454,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 8.3,
-    "gevoel": 6.0,
-    "wind": "W 3",
+    "nu": 5.8,
+    "gevoel": 3.8,
+    "wind": "W 2",
     "station": "Heino",
     "bericht": "Zon, wolken en verspreid enkele buien. Morgen start de dag koud maar de intocht van de Sint verloopt droog en vrij zonnig. Zondag volgt later op de dag regen.",
     "vandaag": "Vanmiddag is er een mix van zon, wolken en verspreid over het land enkele buien. Vanavond neemt het aantal buien geleidelijk aan af, ook is er iets minder wind.",
