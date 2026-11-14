@@ -3,13 +3,13 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "12:00",
+  "opgehaald": "13:00",
   "blokken": 11,
-  "berichten": 85,
+  "berichten": 84,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-14T12:00+01:00",
+ "opgehaald": "2026-11-14T13:00+01:00",
  "audio": "audio/20261114.mp3",
  "afval": [
   {
@@ -57,16 +57,16 @@
  ],
  "duiding": [
   {
-   "titel": "VVD dreigt kabinet op te blazen",
-   "tekst": "De VVD dreigt het kabinet op te blazen in de ruzie over het belastingplan, en daarmee staat de coalitie op het spel (25, 29). Dat plan moet een VVD-minister volgens NU.nl met tegenzin uitvoeren (27). Daarop noemt Jetten de chaos rond het belastingplan niet uit te leggen (24). Hij praat de komende dagen in alle rust verder met de coalitiepartijen (23, 29). Stemt de VVD ook in de Eerste Kamer tegen, dan zijn daar volgens de Volkskrant eenmansfracties hard nodig om het plan aangenomen te krijgen (25).",
+   "titel": "Jetten zet crisisberaad voort",
+   "tekst": "Premier Jetten praat vandaag met zijn vicepremiers verder op landgoed De Zwaluwenberg, en daarmee staat het belastingplan van zijn eigen kabinet nog altijd onder druk (2, 24). Die gesprekken volgen op roerige dagen in Den Haag (2). Jetten noemt de chaos rond het belastingplan zelf niet uit te leggen (23). Die chaos raakt ook de Eerste Kamer: stemt de VVD daar ook tegen het plan, dan zijn volgens de Volkskrant de eenmansfracties hard nodig (24).",
    "verwijzingen": [
     {
-     "titel": "Live | Jetten gaat komende dagen 'in alle rust' verder praten met coalitiepartijen",
-     "link": "https://www.nu.nl/politiek/6416422/jetten-gaat-komende-dagen-in-alle-rust-verder-praten-met-coalitiepartijen.html",
-     "bron": "NU.nl",
-     "tijd": "06:30",
+     "titel": "Wekdienst 14/11: Crisisgesprekken van kabinet gaan verder • Intocht Sint in Grave",
+     "link": "https://nos.nl/l/2639431",
+     "bron": "NOS",
+     "tijd": "07:37",
      "nummers": [
-      23
+      2
      ]
     },
     {
@@ -75,7 +75,7 @@
      "bron": "Reformatorisch Dagblad",
      "tijd": "05:38",
      "nummers": [
-      24
+      23
      ]
     },
     {
@@ -84,141 +84,105 @@
      "bron": "de Volkskrant",
      "tijd": "05:00",
      "nummers": [
-      25
-     ]
-    },
-    {
-     "titel": "Explainer | Hoe de VVD-minister het belastingplan met tegenzin moet uitvoeren",
-     "link": "https://www.nu.nl/332236/video/hoe-de-vvd-minister-het-belastingplan-met-tegenzin-moet-uitvoeren.html",
-     "bron": "NU.nl",
-     "tijd": "06:01",
-     "nummers": [
-      27
-     ]
-    },
-    {
-     "titel": "Blijven lokale VVD-ers de partij trouw? 'Partij moet zich hervinden'",
-     "link": "https://www.oost.nl/nieuws/3719089/blijven-lokale-vvd-ers-de-partij-trouw-partij-moet-zich-hervinden",
-     "bron": "RTV Oost",
-     "tijd": "19:34",
-     "nummers": [
-      29
+      24
      ]
     }
    ],
-   "geschreven": "06:05"
+   "geschreven": "13:00"
   },
   {
-   "titel": "Storing legt luchtruim VS plat",
-   "tekst": "Een storing bij de luchtverkeersleiding legde de VS ongeveer vijf uur stil in de langste landelijke vliegstop in 25 jaar, en reizigers zitten nog vast (1, 4). Die storing ontstond volgens regeringsfunctionarissen doordat nieuwe technieken de verouderde apparatuur overbelastten (4, 11). Daardoor vielen communicatie en radar op momenten uit (4). Een herhaling kon minister van Transport Sean Duffy niet uitsluiten, en de regering vraagt het Congres om geld voor vernieuwing (4, 10). Rond 02.00 uur waren duizenden vluchten vertraagd of geannuleerd (4).",
+   "titel": "VS opperen Donbas voor Navo",
+   "tekst": "Volgens president Zelensky hebben Amerikaanse gezanten voor het eerst geopperd dat Oekraïne de Donbas afstaat in ruil voor lidmaatschap van de Navo (6, 9). Die ruil brachten zij volgens de BBC naar voren als deel van pogingen om de oorlog met Rusland te beëindigen (9).",
    "verwijzingen": [
     {
-     "titel": "Passagiers in onzekerheid na grote vliegstop in VS: 'Ik zit hier vast'",
-     "link": "https://nos.nl/l/2639423",
-     "bron": "NOS",
-     "tijd": "05:28",
+     "titel": "Zelensky: VS opperden voor eerste keer afstaan van de Donbas in ruil voor Navo-lidmaatschap",
+     "link": "https://www.volkskrant.nl/buitenland/zelensky-vs-opperden-voor-eerste-keer-afstaan-van-de-donbas-in-ruil-voor-navo-lidmaatschap~bffaf222/",
+     "bron": "de Volkskrant",
+     "tijd": "11:36",
      "nummers": [
-      1
+      6
      ]
     },
     {
-     "titel": "Vliegverkeer VS hervat na grote communicatiestoring, apparatuur raakte overbelast",
-     "link": "https://nos.nl/l/2639391",
-     "bron": "NOS",
-     "tijd": "22:09",
+     "titel": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "12:41",
      "nummers": [
-      4
-     ]
-    },
-    {
-     "titel": "Here’s the latest.",
-     "link": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
-     "bron": "New York Times",
-     "tijd": "05:00",
-     "nummers": [
-      10
-     ]
-    },
-    {
-     "titel": "US flight outage: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment – as it happened",
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-     "bron": "The Guardian",
-     "tijd": "04:11",
-     "nummers": [
-      11
+      9
      ]
     }
    ],
-   "geschreven": "06:05"
+   "geschreven": "13:00"
   },
   {
-   "titel": "Trump treft Poetin en Xi",
-   "tekst": "Trump spreekt donderdag in Shenzhen met Poetin en Xi Jinping, het eerste drielandengesprek van deze leiders (3, 8). Dat gesprek gaat onder meer over het verminderen van kernwapens (3). Het laatste kernwapenverdrag tussen de VS en Rusland liep in februari af (3). Volgens de Amerikaanse pers verwachten analisten geen nieuw akkoord, en een functionaris noemt het tegen CNN een startpunt (3).",
+   "titel": "Getuige videobelde met Bolle Jos",
+   "tekst": "Een getuige die vlak na Overasselt met Bolle Jos videobelde, heeft volgens het Brabants Dagblad een explosieve verklaring afgelegd (22). Dat videobelletje is volgens De Gelderlander een ongelooflijk verhaal vol belangrijke verklaringen voor de klopjacht op hem (20).",
    "verwijzingen": [
     {
-     "titel": "Voor het eerst drielandengesprek tussen Trump, Poetin en Xi Jinping in China",
-     "link": "https://nos.nl/l/2639421",
-     "bron": "NOS",
-     "tijd": "02:51",
+     "titel": "Wat het onverwachte videobelletje betekent voor klopjacht op Bolle Jos: ‘Ongelooflijk verhaal vol belangrijke verklaringen’",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTVJhOEFaODFhRXlkRE1mdTNXOTRCMjZyQmoxY1ZBR3gzMTVsa2gydGVTczNaR256RG1TcUt4cjl4SktIazVxTzJ6WUw3MHpUTXFUamI2Y2VreF9EbWxZZkpYdkV5WFJrQ2pWQnVaRDJqMFRmd2JscXBZZXRxcFg4U1Q0dXNaV0hLTVQ5SEwwUVNjZ1lBS1pETmVUTENnbFZ0WlQtTFlvZEFoY0RDb3F4dkFNcUFfWm00UHBUQ1ZEU1YyZU9EUkMzU2xuaWs1TEhJaWRjOG9iZ011MEF4V1M4UWdUZGpRcFFvUEdaVWpDcw?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "10:30",
      "nummers": [
-      3
+      20
      ]
     },
     {
-     "titel": "Witte Huis: Trump heeft donderdag in China ontmoeting met Poetin en Xi",
-     "link": "https://www.trouw.nl/buitenland/live-vs-witte-huis-trump-heeft-donderdag-in-china-ontmoeting-met-poetin-en-xi~bbc0cf3d/",
-     "bron": "Trouw",
-     "tijd": "03:29",
+     "titel": "Explosieve verklaring van getuige die videobelde met ‘Bolle Jos’ vlak na Overasselt",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmc4aEF6eW9JUkpTMXdhMDZqdGJOazA5YWwycG5hQ3R4NzBrRVdRUElYU29PQ01raWYyRHVwS3hPZ3pYdUY0SEExRmdxU2xJanNMalFwYnRHSzhYcHA5d0NhbjIyN0x3YVgtM1Zaa3YzWXU0bW95dHh4bklxc2tBWk1jSS12T2QyaWpXNmlncUd2bG96SUMwQm8wVFM0Yks0dmlNZXY0OTk2LWdyVHJUaTRKUGJZb0l4TGhEWg?oc=5",
+     "bron": "Brabants Dagblad",
+     "tijd": "09:22",
      "nummers": [
-      8
+      22
      ]
     }
    ],
-   "geschreven": "06:05"
+   "geschreven": "13:00"
   }
  ],
  "verder": [
   {
-   "kop": "Piet Deelman wordt directeur SMVP",
-   "blok": "nationaal",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiVnhKNlZiYjFlYXFHaWJUVVhBTlV5MkpYZUdNcXJkVldudS1FcTV4Z2drTHRuLVQ5alo0U2dJbUxFYzliZTFveHFCV21WcDFJOVRhbGVSNXpucGxIRFBOQWJsZEphZE5oVFlQMzlYbHgwTEV3RnM2X3ln?oc=5",
-   "bron": "Reformatorisch Dagblad",
-   "titel": "Korpschef Piet Deelman nieuwe directeur SMVP"
-  },
-  {
-   "kop": "Nepagenten in Drunen opgepakt",
-   "blok": "nationaal",
-   "link": "https://nos.nl/l/2639355",
-   "bron": "NOS",
-   "titel": "Vier minderjarigen in Drunen aangehouden die zich voordeden als agenten"
-  },
-  {
-   "kop": "Politie zoekt eigenaar sieraden",
+   "kop": "Man pint met pas van opgelichte",
    "blok": "lokaal",
-   "link": "https://www.oost.nl/nieuws/3715816/zijn-deze-sieraden-van-jou-politie-zoekt-eigenaren-na-vondst-bij-zwolle",
+   "link": "https://www.oost.nl/nieuws/3715815/wie-is-de-lachende-pinner-aan-de-dorpsstraat-in-hellendoorn",
    "bron": "RTV Oost",
-   "titel": "Zijn deze sieraden van jou? Politie zoekt eigenaren na vondst bij Zwolle"
+   "titel": "Wie is de lachende pinner aan de Dorpsstraat in Hellendoorn?"
   },
   {
-   "kop": "Twitteraar voor rechter om tweet",
+   "kop": "Rijssenaar verliest rijbewijs",
    "blok": "lokaal",
-   "link": "https://www.oost.nl/nieuws/3719269/twitteraar-met-maar-30-volgers-schrikt-zich-rot-als-opeens-politie-belt",
+   "link": "https://www.oost.nl/nieuws/3719500/rijssenaar-verliest-rijbewijs-na-botsing-onder-invloed",
    "bron": "RTV Oost",
-   "titel": "Twitteraar 'met maar 30 volgers' schrikt zich rot als opeens politie belt"
+   "titel": "Rijssenaar verliest rijbewijs na botsing onder invloed"
   },
   {
-   "kop": "VS verliest mazelenvrije status",
-   "blok": "internationaal",
-   "link": "https://nos.nl/l/2639422",
+   "kop": "Jager verliest vergunning",
+   "blok": "nationaal",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV0pTTUR6OUJSWC12VlV0Y1k3YUdSX2ZZVVo1YWJFSzV6TUl3NFU5R09QOXZSSkhGSDhIT21zZzlmYlJHUEw5NTJxdWxDb3o0X1JvSDAwenpObzVLNE11aHlsM0VPSEVnVGM5X1E3X0xLdGx4elJYSEFTT2c5VXF5djQ5MXNHYVhPRC11U3A3bkJoZXpua0JfckctWWUzNU5wazN4S1A2aUNEWjZxUnhrRndjYm9oS3IySzA0WEpDOGJxcVhWVDFDRVQ0TjA?oc=5",
+   "bron": "de Stentor",
+   "titel": "Hij liet zijn geweren en kogels achter in de auto, nu is de jager zijn vergunning kwijt"
+  },
+  {
+   "kop": "Vogelgriep treft Hierden opnieuw",
+   "blok": "nationaal",
+   "link": "https://nos.nl/l/2639437",
    "bron": "NOS",
-   "titel": "WSJ: Amerika verliest status van mazelenvrij land"
+   "titel": "Opnieuw vogelgriep in Hierden, 19.000 eenden en kippen gedood"
   },
   {
-   "kop": "Twee tankers branden door mijnen",
+   "kop": "Italië ontruimt school niet blind",
    "blok": "internationaal",
-   "link": "https://www.volkskrant.nl/buitenland/israel-hamas-iran-gaza-hormuz-trump~b65f9edd/",
-   "bron": "de Volkskrant",
-   "titel": "Iran: twee olietankers in brand door mijnen in Straat van Hormuz"
+   "link": "https://nos.nl/l/2639426",
+   "bron": "NOS",
+   "titel": "Italiaanse minister: scholen niet meteen dicht na een bommelding"
+  },
+  {
+   "kop": "België pakt Rwandese verdachte op",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2639441",
+   "bron": "NOS",
+   "titel": "78-jarige verdachte van genocide Rwanda opgepakt in België"
   }
  ],
  "blokken": [
@@ -300,6 +264,67 @@
      "sorteer": "2026-11-14T04:47:00+00:00"
     },
     {
+     "titel": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "context": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "12:41",
+     "sorteer": "2026-11-14T11:41:20+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+     "context": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "12:30",
+     "sorteer": "2026-11-14T11:30:10+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
+     "context": "Prime ministerial hopeful calls Arab minority ‘an integral part of the Israeli story’ as he seeks to form government Israeli prime ministerial hopeful Gadi Eisenkot condemned a “racist and aggressive campaign of delegitimisation” against the country’s Arab citizens, after the caretaker prime minister, Benjamin Netanyahu, accused Arab parties of electoral fraud without evidence. Netanyahu has repea",
+     "rubrieken": [
+      "Israel",
+      "Benjamin Netanyahu",
+      "Middle East and north Africa",
+      "World news",
+      "Palestine"
+     ],
+     "link": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+     "bron": "The Guardian",
+     "tijd": "12:11",
+     "sorteer": "2026-11-14T11:11:03+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "In Canada, Watching the N.H.L. Has Become Expensive and Cumbersome",
+     "context": "Games behind paywalls and exorbitant costs forcing a drop in attendance — even to watch Connor McDavid in Edmonton — have only compounded the loss of a Saturday night ritual.",
+     "rubrieken": [
+      "Canada",
+      "Hockey, Ice",
+      "Prices (Fares, Fees and Rates)",
+      "Cable Television",
+      "Fans (Persons)",
+      "Canadian Broadcasting Corp",
+      "Hospital for Sick Children",
+      "National Hockey League",
+      "Sportsnet (Rogers Media Inc)",
+      "Hockey Night in Canada (TV Program)"
+     ],
+     "link": "https://www.nytimes.com/2026/11/14/world/canada/national-hockey-league-rogers-sportsnet.html",
+     "bron": "New York Times",
+     "tijd": "12:00",
+     "sorteer": "2026-11-14T11:00:08+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
      "titel": "US suggested Ukraine could give up Donbas for NATO membership, Zelenskyy says",
      "context": "\"This was the first time this had been raised,\" the Ukrainian president told reporters.",
      "rubrieken": [
@@ -316,70 +341,6 @@
      "sorteer": "2026-11-14T10:48:19+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-     "context": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "11:30",
-     "sorteer": "2026-11-14T10:30:38+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Noel Fielding ‘horrified and deeply disturbed’ by Russell Brand’s crimes",
-     "context": "Comedian regrets ‘inappropriate’ jokes he made with Brand during work pair did together in the 2000s The Great British Bake Off presenter Noel Fielding has said he was “horrified and deeply disturbed to learn of Russell Brand’s crimes” and has had no contact with his fellow comedian “for many years”. In the early 2000s, Fielding often worked with Brand, who was sentenced to more than 10 years in p",
-     "rubrieken": [
-      "Russell Brand",
-      "Noel Fielding",
-      "Culture",
-      "Comedy",
-      "TV comedy",
-      "Television",
-      "Crime",
-      "UK news"
-     ],
-     "link": "https://www.theguardian.com/news/2026/nov/14/noel-fielding-horrified-deeply-disturbed-russell-brand-crimes",
-     "bron": "The Guardian",
-     "tijd": "11:14",
-     "sorteer": "2026-11-14T10:14:07+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
-     "context": "Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves.",
-     "rubrieken": [
-      "Oil (Petroleum) and Gasoline",
-      "Politics and Government",
-      "United States International Relations",
-      "Economic Conditions and Trends",
-      "Chavez, Hugo",
-      "Maduro, Nicolas",
-      "Rodriguez, Delcy (1969- )",
-      "Trump, Donald J",
-      "United States",
-      "Venezuela"
-     ],
-     "link": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
-     "bron": "New York Times",
-     "tijd": "11:10",
-     "sorteer": "2026-11-14T10:10:01+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "What we know about the ground stop and what to do if you're affected",
-     "context": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "08:42",
-     "sorteer": "2026-11-14T07:42:11+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
     }
    ]
   },
@@ -388,6 +349,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Sinterklaasmysterie na weken onthuld, Gijs Naber volgt Stefan de Walle op",
+     "context": "Het Sinterklaasmysterie is eindelijk onthuld. Gijs Naber mag de rode mijter opzetten en vandaag in het Brabantse Grave naast Ozosnel lopen. Hij neemt de staf over van de 61-jarige Stefan de Walle, die in september na vijftien jaar afscheid nam. De afgelopen weken buitelden de namen van mogelijke opvolgers over elkaar heen. Daan Schuurmans, Ramsey Nasr en Kasper van Kooten kwamen allemaal voorbij. ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639457",
+     "bron": "NOS",
+     "tijd": "12:25",
+     "sorteer": "2026-11-14T12:25:54+01:00"
+    },
     {
      "titel": "Opnieuw vogelgriep in Hierden, 19.000 eenden en kippen gedood",
      "context": "In het dorp Hierden in Gelderland is voor de derde keer deze week bij een bedrijf vogelgriep vastgesteld. Deze keer bij een eenden- en legpluimveebedrijf. De circa 6000 eenden en 13.000 legkippen worden om verdere verspreiding van het virus tegen te gaan, afgemaakt door de Nederlandse Voedsel- en Warenautoriteit. Het bedrijf was in 2022 ook al eens slachtoffer van de vogelgriep. In een zone van 10",
@@ -416,14 +386,13 @@
      "sorteer": "2026-11-14T01:41:59+01:00"
     },
     {
-     "titel": "Voormalig Doe Maar-drummer Jan Pijnenburg (70) overleden",
-     "context": "Jan Pijnenburg, voormalig drummer van de band Doe Maar, is op 70-jarige leeftijd onverwachts overleden. Dat schrijft Dagblad van het Noorden. Hij stierf in zijn woonplaats in Spanje. De doodsoorzaak is niet bekendgemaakt. Pijnenburg was slechts twee jaar drummer van Doe Maar, maar wel tijdens cruciale jaren. In 1982 moest hij drummer René van Collem vervangen, schrijft Omroep Brabant , die uit de ",
+     "titel": "Acteur Gijs Naber is de opvolger van Stefan de Walle in het Sinterklaasjournaal",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639401",
-     "bron": "NOS",
-     "tijd": "22:52",
-     "sorteer": "2026-11-13T22:52:05+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "link": "https://www.volkskrant.nl/binnenland/acteur-gijs-naber-is-de-opvolger-van-stefan-de-walle-in-het-sinterklaasjournaal~be2648315/",
+     "bron": "de Volkskrant",
+     "tijd": "12:34",
+     "sorteer": "2026-11-14T11:34:00+00:00"
     },
     {
      "titel": "Wie zitten er achter de Hamas-vlaggen?",
@@ -436,37 +405,18 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "KLM doet aangifte vanwege in brand gevlogen powerbank, die was mogelijk van voormalig KLM-directeur Eurlings",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/klm-doet-aangifte-vanwege-in-brand-gevlogen-powerbank-die-was-mogelijk-van-voormalig-klm-directeur-eurlings~bf8e533a/",
-     "bron": "de Volkskrant",
-     "tijd": "17:32",
-     "sorteer": "2026-11-13T16:32:57+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Kade waar Sinterklaas aankomt in Grave is vol",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/kade-waar-sinterklaas-aankomt-in-grave-is-vol~bcba83d6/",
-     "bron": "Trouw",
-     "tijd": "09:36",
-     "sorteer": "2026-11-14T08:36:00+00:00"
-    },
-    {
-     "titel": "Hoe China ons bespeelt: van ASML tot Mediamarkt, waarom de Chinese macht Nederlanders direct raakt",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONGprSWpQeUJJR2lTc0ZvMkVPSVVGeXRXZFdIQXh6SnJWaG05VUpjdzZFU0JnNmtEcXNiNFBwcXpIenNRRFlhbllHWWlWaXN0X0JseFpRTjhfWFV1UTBpNFFrU3RxOWFmWUpSYWtXMXd6VER3bzBScVVQaExXUExHN0FlaHRHaWttTFQ5N0NSSHU3eWVuTVg0VEJHTmhpUzFLVkhKWTlqZFI4cHFmTHBKSEdwNjVkMU9HMDhsSHRpNUNFMTkyNTc5TlJ2TzVEdGdOQlRIRGlYMjg4N1R2M1E?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "11:30",
-     "sorteer": "2026-11-14T10:30:00+00:00"
-    },
-    {
      "titel": "Hij liet zijn geweren en kogels achter in de auto, nu is de jager zijn vergunning kwijt",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV0pTTUR6OUJSWC12VlV0Y1k3YUdSX2ZZVVo1YWJFSzV6TUl3NFU5R09QOXZSSkhGSDhIT21zZzlmYlJHUEw5NTJxdWxDb3o0X1JvSDAwenpObzVLNE11aHlsM0VPSEVnVGM5X1E3X0xLdGx4elJYSEFTT2c5VXF5djQ5MXNHYVhPRC11U3A3bkJoZXpua0JfckctWWUzNU5wazN4S1A2aUNEWjZxUnhrRndjYm9oS3IySzA0WEpDOGJxcVhWVDFDRVQ0TjA?oc=5",
      "bron": "de Stentor",
      "tijd": "11:01",
      "sorteer": "2026-11-14T10:01:35+00:00"
+    },
+    {
+     "titel": "Wat het onverwachte videobelletje betekent voor klopjacht op Bolle Jos: ‘Ongelooflijk verhaal vol belangrijke verklaringen’",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTVJhOEFaODFhRXlkRE1mdTNXOTRCMjZyQmoxY1ZBR3gzMTVsa2gydGVTczNaR256RG1TcUt4cjl4SktIazVxTzJ6WUw3MHpUTXFUamI2Y2VreF9EbWxZZkpYdkV5WFJrQ2pWQnVaRDJqMFRmd2JscXBZZXRxcFg4U1Q0dXNaV0hLTVQ5SEwwUVNjZ1lBS1pETmVUTENnbFZ0WlQtTFlvZEFoY0RDb3F4dkFNcUFfWm00UHBUQ1ZEU1YyZU9EUkMzU2xuaWs1TEhJaWRjOG9iZ011MEF4V1M4UWdUZGpRcFFvUEdaVWpDcw?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "10:30",
+     "sorteer": "2026-11-14T09:30:00+00:00"
     },
     {
      "titel": "In dit Rotterdamse hotel slapen toeristen en dakloze mensen straks onder één dak: ‘Iedereen is evenveel waard’",
@@ -481,6 +431,13 @@
      "bron": "Brabants Dagblad",
      "tijd": "09:22",
      "sorteer": "2026-11-14T08:22:40+00:00"
+    },
+    {
+     "titel": "Reservist Maxima, alpaca’s aan tafel in een woonzorgcentrum en andere opmerkelijke foto’s van vrijdag",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZU9OMDRLMWNMcDZuTHVabTd4V1JRZUtkTVVnaFZDaVNRVHR0MDlPUUplR3EwSV9PM0hiZkJUVm9MYmZoUFlIUzJJd2xUSkJ6V244MGxTOWJobV9lM0t6cXlPaUpjSlZZcVYyTnU3amJCT1Q0akluVEl3QXdNYlU0RS03dm5hcFJnMHFTMHNsZENGUnpWclhqRUhMa292RlJic2Jza2hTQ1BYN19UczVSWWRWTQ?oc=5",
+     "bron": "de Volkskrant",
+     "tijd": "12:27",
+     "sorteer": "2026-11-14T11:27:15+00:00"
     },
     {
      "titel": "Jetten vindt chaos rond belastingplan ‘niet uit te leggen’",
@@ -508,6 +465,26 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Vrachtwagen dendert langs mobiele wegafzetting op dodenweg N36",
+     "context": "In Oost op het Asfalt bekijken we opvallende dashcambeelden van de Overijsselse wegen: gevaarlijke stunts, agressie onder automobilisten en grappige of kolderieke taferelen. Met deze week: welk gedeelte van STOP begrijpt deze chauffeur niet?",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3715037/vrachtwagen-dendert-langs-mobiele-wegafzetting-op-dodenweg-n36",
+     "bron": "RTV Oost",
+     "tijd": "12:12",
+     "sorteer": "2026-11-14T11:12:35+00:00"
+    },
+    {
+     "titel": "Jeugdtuintjes Zwolle gered van de ondergang: 'Het resultaat telt'",
+     "context": "De honderd jaar oude jeugdtuintjes in Zwolle hoeven voorlopig niet weg. De gemeenteraad stemde gisteravond in met een plan om de tuintjes op een andere manier te laten voortbestaan. Inwoners krijgen de kans om met een plan te komen voor het behoud van de tuintjes.",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3719507/jeugdtuintjes-zwolle-gered-van-de-ondergang-het-resultaat-telt",
+     "bron": "RTV Oost",
+     "tijd": "11:52",
+     "sorteer": "2026-11-14T10:52:06+00:00"
+    },
+    {
      "titel": "Droom Dit brengt oost en west samen met eigen festival: 'We willen iets terugdoen'",
      "context": "Tienduizend euro winnen en daarmee iets terugdoen voor de Overijsselse muziekscene. Dat beloofde Droom Dit-frontman Sam de Laat eerder dit jaar. Nu maakt de Enschedese band die belofte waar met een eigen festival: Palindroom, in Amsterdam én Enschede.",
      "rubrieken": [],
@@ -517,13 +494,13 @@
      "sorteer": "2026-11-14T09:27:53+00:00"
     },
     {
-     "titel": "'Zingen tot de tranen over je wangen stromen': TCOV Concertkoor bestaat 90 jaar",
-     "context": "Al een kleine eeuw zingen de leden van TCOV Concertkoor uit Hengelo zich nog net niet de longen uit het lijf. Er wordt vooral met het hart gezongen. \"Ons repertoire is emotioneel en intens\", zegt dirigent Erik Kotterink. \"Ik heb weleens met tranen gezongen\", herinnert voorzitter Judith Eijsink zich.",
+     "titel": "Rijssenaar verliest rijbewijs na botsing onder invloed",
+     "context": "Een 29-jarige man uit Rijssen botste vannacht tegen een vangrail op de A1 tussen Deventer en Apeldoorn. Na een drugs- en alcoholtest bleek de man onder invloed van alcohol.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3719126/zingen-tot-de-tranen-over-je-wangen-stromen-tcov-concertkoor-bestaat-90-jaar",
+     "link": "https://www.oost.nl/nieuws/3719500/rijssenaar-verliest-rijbewijs-na-botsing-onder-invloed",
      "bron": "RTV Oost",
-     "tijd": "08:00",
-     "sorteer": "2026-11-14T07:00:48+00:00"
+     "tijd": "09:06",
+     "sorteer": "2026-11-14T08:06:40+00:00"
     },
     {
      "titel": "Eén persoon naar ziekenhuis na woningbrand in Almelo",
@@ -544,49 +521,29 @@
      "sorteer": "2026-11-14T06:03:28+00:00"
     },
     {
-     "titel": "Henri dreigt kunstmatige alvleesklier kwijt te raken: 'Een stap terug'",
-     "context": "In de bakkerij proeft Henri de Groot tussendoor even van de crème die hij maakt. Dankzij zijn kunstmatige alvleesklier kan hij dat zonder zorgen doen. Maar na vijf jaar dreigt hij het apparaat kwijt te raken, omdat de vergoeding stopt.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3717310/henri-dreigt-kunstmatige-alvleesklier-kwijt-te-raken-een-stap-terug",
-     "bron": "RTV Oost",
-     "tijd": "05:58",
-     "sorteer": "2026-11-14T04:58:44+00:00"
-    },
-    {
-     "titel": "Kluis gekraakt, vitrines leeg: tweede inbraak in korte tijd bij kringloop",
-     "context": "\"Bij diefstal doen wij altijd aangifte bij de politie!\" Deze tekst stond op een bordje bij de vitrines met kostbare spullen. Maar hier hadden de inbrekers lak aan. Voor de tweede keer in korte tijd is er ingebroken in een kringloopwinkel in Deventer.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3719072/kluis-gekraakt-vitrines-leeg-tweede-inbraak-in-korte-tijd-bij-kringloop",
-     "bron": "RTV Oost",
-     "tijd": "20:05",
-     "sorteer": "2026-11-13T19:05:25+00:00"
-    },
-    {
-     "titel": "Een mooie start van de dag",
-     "context": "DALFSEN – Het rondje hondje was weer tof. Zulk mooi licht en het was lekker tintelfris. Fijne dag Jennie",
+     "titel": "Gezicht op Dalfsen op mistige morgen",
+     "context": "DALFSEN – RECHTEREN – Foto’s genomen vanaf de Rechterensedijk op een mistige zaterdagmorgen in november.",
      "rubrieken": [
       "Dalfsen",
-      "Ingezonden bericht",
+      "Laatste nieuws",
+      "Rechteren"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/556569/gezicht-op-dalfsen-op-mistige-morgen.html",
+     "bron": "DalfsenNet",
+     "tijd": "12:45",
+     "sorteer": "2026-11-14T11:45:20+00:00"
+    },
+    {
+     "titel": "Al druk bezig voor pakjesavond?",
+     "context": "DALFSEN – Een grote aanhanger vol dozen, de ene nog groter dan de andere. Op het Kerkplein bij het voormalige Chinese restaurant was het een drukte van belang. Twee dames met flink wat pit sjouwden de dozen naar binnen. Zouden de voorbereidingen voor pakjesavond hier soms al in volle gang zijn? Maar nee, de […]",
+     "rubrieken": [
+      "Dalfsen",
       "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/556561/een-mooie-start-van-de-dag.html",
+     "link": "https://www.dalfsennet.nl/nieuws/556567/al-druk-bezig-voor-pakjesavond.html",
      "bron": "DalfsenNet",
-     "tijd": "10:49",
-     "sorteer": "2026-11-14T09:49:55+00:00"
-    },
-    {
-     "titel": "Jaarconcert Salonorkest Spoom: ‘This is (not) America’",
-     "context": "DALFSEN – Na het succes van het operetteconcert vorig jaar in de Trefkoele, komt Salonorkest Spoom op zaterdagavond 14 november a.s. in Theater de Stoomfabriek met een totaal ander programma. In afwisselend instrumentale en zangnummers maken we een reis door bekende en minder bekende melodieën van niet alleen Amerikaanse, maar ook anderen componisten zoals Astor […]",
-     "rubrieken": [
-      "Dalfsen",
-      "Evenementen"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/555487/jaarconcert-salonorkest-spoom-this-is-not-america.html",
-     "bron": "DalfsenNet",
-     "tijd": "09:26",
-     "sorteer": "2026-11-14T08:26:22+00:00"
+     "tijd": "12:39",
+     "sorteer": "2026-11-14T11:39:10+00:00"
     }
    ]
   },
@@ -804,7 +761,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "12:00",
+    "bijgewerkt": "13:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1353,12 +1310,6 @@
    "emoji": "🌙",
    "items": [
     {
-     "titel": "Tussen 0:08 en 7:19 uur staan alle grote manen ten westen van Jupiter.",
-     "bron": "hemel.waarnemen.com",
-     "tijd": "00:08",
-     "link": "https://hemel.waarnemen.com/astrokal/"
-    },
-    {
      "titel": "Venus is stationair in ecliptische lengte.",
      "bron": "hemel.waarnemen.com",
      "tijd": "01:27",
@@ -1372,13 +1323,13 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 2.8,
-    "gevoel": 1.3,
-    "wind": "ZZO 1",
+    "nu": 3.8,
+    "gevoel": 1.2,
+    "wind": "Z 2",
     "station": "Heino",
     "bericht": "Het weer tijdens de landelijke Sinterklaasintocht in Grave ziet er bijzonder goed uit. Vandaag, na de mist, is het zonnig en droog. Morgenochtend alleen in het zuidoosten en oosten lichte (mot)regen.",
-    "vandaag": "Vandaag, na de mist, is het zonnig en droog. Vanochtend begon de dag in het binnenland met lichte vorst en in het midden, zuiden en oosten mist of mistbanken.",
-    "temperatuur": "De maximumtemperatuur komt uit op 8 of 9 graden.",
+    "vandaag": "Vandaag, na de mist, is het zonnig en droog. Vanmiddag schijnt de zon volop en blijft het droog.",
+    "temperatuur": "De middagtemperatuur komt uit op 8 of 9 graden.",
     "dalfsen": {
      "zin": "Voor Dalfsen zelf: 1 tot 8 graden, droog, ruim 8 uur zon, wind uit het zuiden, kracht 2.",
      "max": 8,
