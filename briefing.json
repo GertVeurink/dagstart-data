@@ -7,10 +7,11 @@
   "blokken": 11,
   "berichten": 89,
   "problemen": [],
-  "audio_herkomst": null
+  "audio_herkomst": "model",
+  "audio_aangehaakt": "06:05"
  },
  "opgehaald": "2026-11-14T05:55+01:00",
- "audio": null,
+ "audio": "audio/20261114.mp3",
  "afval": [
   {
    "datum": "2026-11-13",
@@ -55,8 +56,172 @@
    "afwijkend": false
   }
  ],
- "duiding": [],
- "verder": [],
+ "duiding": [
+  {
+   "titel": "VVD dreigt kabinet op te blazen",
+   "tekst": "De VVD dreigt het kabinet op te blazen in de ruzie over het belastingplan, en daarmee staat de coalitie op het spel (25, 29). Dat plan moet een VVD-minister volgens NU.nl met tegenzin uitvoeren (27). Daarop noemt Jetten de chaos rond het belastingplan niet uit te leggen (24). Hij praat de komende dagen in alle rust verder met de coalitiepartijen (23, 29). Stemt de VVD ook in de Eerste Kamer tegen, dan zijn daar volgens de Volkskrant eenmansfracties hard nodig om het plan aangenomen te krijgen (25).",
+   "verwijzingen": [
+    {
+     "titel": "Live | Jetten gaat komende dagen 'in alle rust' verder praten met coalitiepartijen",
+     "link": "https://www.nu.nl/politiek/6416422/jetten-gaat-komende-dagen-in-alle-rust-verder-praten-met-coalitiepartijen.html",
+     "bron": "NU.nl",
+     "tijd": "06:30",
+     "nummers": [
+      23
+     ]
+    },
+    {
+     "titel": "Jetten vindt chaos rond belastingplan ‘niet uit te leggen’",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMnJMMi1helprYjFTQzYwZFY1RTRlc01ZbnR2ekZLaE0waUtLQnNqVVR0MDZ0UkZqM3dSbDM0MHlVNjlsQXUySWlWS2k2X1lxQ3paekF5NE5HdmpRcUFqN0JkWlFvYlprcGtSTU1JN1BrZEdtQkg5aXIyZUd0dlpsNEJB?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "05:38",
+     "nummers": [
+      24
+     ]
+    },
+    {
+     "titel": "Eenmansfracties hard nodig in Eerste Kamer, als VVD daar ook tegen het belastingplan stemt",
+     "link": "https://www.volkskrant.nl/politiek/eenmansfracties-hard-nodig-in-eerste-kamer-als-vvd-daar-ook-tegen-het-belastingplan-stemt~b7c098c2/",
+     "bron": "de Volkskrant",
+     "tijd": "05:00",
+     "nummers": [
+      25
+     ]
+    },
+    {
+     "titel": "Explainer | Hoe de VVD-minister het belastingplan met tegenzin moet uitvoeren",
+     "link": "https://www.nu.nl/332236/video/hoe-de-vvd-minister-het-belastingplan-met-tegenzin-moet-uitvoeren.html",
+     "bron": "NU.nl",
+     "tijd": "06:01",
+     "nummers": [
+      27
+     ]
+    },
+    {
+     "titel": "Blijven lokale VVD-ers de partij trouw? 'Partij moet zich hervinden'",
+     "link": "https://www.oost.nl/nieuws/3719089/blijven-lokale-vvd-ers-de-partij-trouw-partij-moet-zich-hervinden",
+     "bron": "RTV Oost",
+     "tijd": "19:34",
+     "nummers": [
+      29
+     ]
+    }
+   ],
+   "geschreven": "06:05"
+  },
+  {
+   "titel": "Storing legt luchtruim VS plat",
+   "tekst": "Een storing bij de luchtverkeersleiding legde de VS ongeveer vijf uur stil in de langste landelijke vliegstop in 25 jaar, en reizigers zitten nog vast (1, 4). Die storing ontstond volgens regeringsfunctionarissen doordat nieuwe technieken de verouderde apparatuur overbelastten (4, 11). Daardoor vielen communicatie en radar op momenten uit (4). Een herhaling kon minister van Transport Sean Duffy niet uitsluiten, en de regering vraagt het Congres om geld voor vernieuwing (4, 10). Rond 02.00 uur waren duizenden vluchten vertraagd of geannuleerd (4).",
+   "verwijzingen": [
+    {
+     "titel": "Passagiers in onzekerheid na grote vliegstop in VS: 'Ik zit hier vast'",
+     "link": "https://nos.nl/l/2639423",
+     "bron": "NOS",
+     "tijd": "05:28",
+     "nummers": [
+      1
+     ]
+    },
+    {
+     "titel": "Vliegverkeer VS hervat na grote communicatiestoring, apparatuur raakte overbelast",
+     "link": "https://nos.nl/l/2639391",
+     "bron": "NOS",
+     "tijd": "22:09",
+     "nummers": [
+      4
+     ]
+    },
+    {
+     "titel": "Here’s the latest.",
+     "link": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
+     "bron": "New York Times",
+     "tijd": "05:00",
+     "nummers": [
+      10
+     ]
+    },
+    {
+     "titel": "US flight outage: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment – as it happened",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+     "bron": "The Guardian",
+     "tijd": "04:11",
+     "nummers": [
+      11
+     ]
+    }
+   ],
+   "geschreven": "06:05"
+  },
+  {
+   "titel": "Trump treft Poetin en Xi",
+   "tekst": "Trump spreekt donderdag in Shenzhen met Poetin en Xi Jinping, het eerste drielandengesprek van deze leiders (3, 8). Dat gesprek gaat onder meer over het verminderen van kernwapens (3). Het laatste kernwapenverdrag tussen de VS en Rusland liep in februari af (3). Volgens de Amerikaanse pers verwachten analisten geen nieuw akkoord, en een functionaris noemt het tegen CNN een startpunt (3).",
+   "verwijzingen": [
+    {
+     "titel": "Voor het eerst drielandengesprek tussen Trump, Poetin en Xi Jinping in China",
+     "link": "https://nos.nl/l/2639421",
+     "bron": "NOS",
+     "tijd": "02:51",
+     "nummers": [
+      3
+     ]
+    },
+    {
+     "titel": "Witte Huis: Trump heeft donderdag in China ontmoeting met Poetin en Xi",
+     "link": "https://www.trouw.nl/buitenland/live-vs-witte-huis-trump-heeft-donderdag-in-china-ontmoeting-met-poetin-en-xi~bbc0cf3d/",
+     "bron": "Trouw",
+     "tijd": "03:29",
+     "nummers": [
+      8
+     ]
+    }
+   ],
+   "geschreven": "06:05"
+  }
+ ],
+ "verder": [
+  {
+   "kop": "Piet Deelman wordt directeur SMVP",
+   "blok": "nationaal",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiVnhKNlZiYjFlYXFHaWJUVVhBTlV5MkpYZUdNcXJkVldudS1FcTV4Z2drTHRuLVQ5alo0U2dJbUxFYzliZTFveHFCV21WcDFJOVRhbGVSNXpucGxIRFBOQWJsZEphZE5oVFlQMzlYbHgwTEV3RnM2X3ln?oc=5",
+   "bron": "Reformatorisch Dagblad",
+   "titel": "Korpschef Piet Deelman nieuwe directeur SMVP"
+  },
+  {
+   "kop": "Nepagenten in Drunen opgepakt",
+   "blok": "nationaal",
+   "link": "https://nos.nl/l/2639355",
+   "bron": "NOS",
+   "titel": "Vier minderjarigen in Drunen aangehouden die zich voordeden als agenten"
+  },
+  {
+   "kop": "Politie zoekt eigenaar sieraden",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3715816/zijn-deze-sieraden-van-jou-politie-zoekt-eigenaren-na-vondst-bij-zwolle",
+   "bron": "RTV Oost",
+   "titel": "Zijn deze sieraden van jou? Politie zoekt eigenaren na vondst bij Zwolle"
+  },
+  {
+   "kop": "Twitteraar voor rechter om tweet",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3719269/twitteraar-met-maar-30-volgers-schrikt-zich-rot-als-opeens-politie-belt",
+   "bron": "RTV Oost",
+   "titel": "Twitteraar 'met maar 30 volgers' schrikt zich rot als opeens politie belt"
+  },
+  {
+   "kop": "VS verliest mazelenvrije status",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2639422",
+   "bron": "NOS",
+   "titel": "WSJ: Amerika verliest status van mazelenvrij land"
+  },
+  {
+   "kop": "Twee tankers branden door mijnen",
+   "blok": "internationaal",
+   "link": "https://www.volkskrant.nl/buitenland/israel-hamas-iran-gaza-hormuz-trump~b65f9edd/",
+   "bron": "de Volkskrant",
+   "titel": "Iran: twee olietankers in brand door mijnen in Straat van Hormuz"
+  }
+ ],
  "blokken": [
   {
    "id": "internationaal",
