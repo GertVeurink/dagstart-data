@@ -3,14 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "07:00",
+  "opgehaald": "08:00",
   "blokken": 11,
-  "berichten": 87,
+  "berichten": 86,
   "problemen": [],
-  "audio_herkomst": "model",
-  "audio_aangehaakt": "07:20"
+  "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-14T07:00+01:00",
+ "opgehaald": "2026-11-14T08:00+01:00",
  "audio": "audio/20261114.mp3",
  "afval": [
   {
@@ -229,6 +228,24 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Wekdienst 14/11: Crisisgesprekken van kabinet gaan verder • Intocht Sint in Grave",
+     "context": "Goedemorgen! Premier Jetten en zijn vicepremiers praten verder op landgoed De Zwaluwenberg, na roerige dagen in Den Haag. En in het Brabantse Grave wordt hoog bezoek verwacht, daar komt de Sint weer aan wal. Eerst het weer: vandaag is het vrij zonnig en droog. Er waait een zwakke of matige zuidenwind en het wordt 8 tot 10 graden. Morgenochtend gaat het vanuit het zuiden regenen. Later in de avond ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639431",
+     "bron": "NOS",
+     "tijd": "07:37",
+     "sorteer": "2026-11-14T07:37:34+01:00"
+    },
+    {
+     "titel": "Affaire Nvidia-topman legt risico's van banden tussen techwereld en Amerikaanse politiek bloot",
+     "context": "Nu topman Jensen Huang van chipbedrijf Nvidia is opgestapt, vraagt de Amerikaanse politiek zich hardop af of de nauwe banden tussen de regering en de topman voor blinde vlekken hebben gezorgd. Onder president Trump werd de weg vrijgemaakt voor een ongeremde groei van kunstmatige intelligentie, maar eventuele risico's lijken aan de kant geschoven. Vorige week kwam aan het licht dat Huang een affair",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639429",
+     "bron": "NOS",
+     "tijd": "07:10",
+     "sorteer": "2026-11-14T07:10:17+01:00"
+    },
+    {
      "titel": "Italiaanse minister: scholen niet meteen dicht na een bommelding",
      "context": "Scholen in Italië hoeven niet langer automatisch te worden ontruimd na een bommelding per e-mail. Dat staat in een richtlijn van minister van Binnenlandse Zaken Piantedosi, die is verstuurd aan regionale bestuurders en politiechefs. Dat meldt het Italiaanse persbureau ANSA. Aanleiding zijn de bommeldingen die afgelopen week twee dagen op rij naar duizenden Italiaanse scholen werden verstuurd. Ruim",
      "rubrieken": [],
@@ -256,22 +273,13 @@
      "sorteer": "2026-11-14T05:20:41+01:00"
     },
     {
-     "titel": "Witte Huis: volgende week drielandengesprek tussen Trump, Poetin en Xi",
-     "context": "Het Witte Huis meldt dat er volgende week een uniek topoverleg is tussen de leiders van de VS, China en Rusland. Dat werd vannacht door de Amerikaanse regering aan journalisten meegedeeld. De Chinese regering heeft het driepartijenoverleg niet bevestigd. Als dat overleg er komt, is het de eerste keer dat de leiders van die landen elkaar samen spreken. De ontmoeting zou plaatsvinden te midden van d",
+     "titel": "Frankrijk bereidt zich voor op nieuwe dag vol protest: regering zet 70 duizend politiemannen en militairen in",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639421",
-     "bron": "NOS",
-     "tijd": "02:51",
-     "sorteer": "2026-11-14T02:51:50+01:00"
-    },
-    {
-     "titel": "Vliegverkeer VS hervat na grote communicatiestoring, apparatuur raakte overbelast",
-     "context": "De Amerikaanse luchtvaartautoriteit FAA heeft de tijdelijke stillegging van het vliegverkeer in de hele VS opgeheven. De maatregel was genomen vanwege \"buitengewone omstandigheden\" en \"om veiligheidsredenen\". Het vliegverkeer lag zo'n vijf uur stil door een storing in de communicatieapparatuur van de Amerikaanse luchtverkeersleiding. Volgens de Amerikaanse minister van Transport Sean Duffy raakte ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639391",
-     "bron": "NOS",
-     "tijd": "22:09",
-     "sorteer": "2026-11-13T22:09:31+01:00"
+     "link": "https://www.volkskrant.nl/buitenland/protesten-frankrijk-parijs-levensonderhoud-rellen~ba493874/",
+     "bron": "de Volkskrant",
+     "tijd": "07:48",
+     "sorteer": "2026-11-14T06:48:00+00:00"
     },
     {
      "titel": "Iran: twee olietankers in brand door mijnen in Straat van Hormuz",
@@ -283,15 +291,6 @@
      "sorteer": "2026-11-14T04:46:00+00:00"
     },
     {
-     "titel": "Cubaanse president: we bereiden ons voor op mogelijke Amerikaanse aanval",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/cubaanse-president-we-bereiden-ons-voor-op-mogelijke-amerikaanse-aanval~b1c4d181/",
-     "bron": "de Volkskrant",
-     "tijd": "05:25",
-     "sorteer": "2026-11-14T04:25:14+00:00"
-    },
-    {
      "titel": "Witte Huis: Trump heeft donderdag in China ontmoeting met Poetin en Xi",
      "context": "",
      "rubrieken": [],
@@ -301,44 +300,56 @@
      "sorteer": "2026-11-14T02:29:00+00:00"
     },
     {
-     "titel": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-     "context": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those planned this weekend in France.",
-     "rubrieken": [
-      "European Union",
-      "Europe",
-      "Germany",
-      "France",
-      "Italy",
-      "Spain",
-      "Budgets and Budgeting",
-      "Pensions and Retirement Plans",
-      "Youth",
-      "Demonstrations, Protests and Riots",
-      "Wages and Salaries"
-     ],
-     "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-     "bron": "New York Times",
-     "tijd": "06:01",
-     "sorteer": "2026-11-14T05:01:06+00:00",
+     "titel": "Microsoft says services fully restored after for day-long global outage",
+     "context": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "07:42",
+     "sorteer": "2026-11-14T06:42:27+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "University hounded out of Hungary by Orbán reaches out to new government",
-     "context": "Prospect of partial return to Budapest by Central European University suggests confidence in Hungary’s future A university that Viktor Orbán tried to chase out of Hungary is open to expanding its presence in Budapest, in a mark of confidence in the country’s democratic future. Carsten Q Schneider, the interim president and rector of Central European University (CEU), said it was interested in incr",
+     "titel": "Here’s the latest.",
+     "context": "Trump administration officials blamed a telecommunication outage but said they said did not know its cause.",
      "rubrieken": [
-      "Hungary",
-      "World news",
-      "Europe",
-      "Viktor Orbán",
-      "Universities",
-      "Education",
-      "Austria"
+      "Airlines and Airplanes",
+      "Federal Aviation Administration",
+      "Nationwide Ground Stops (Aviation)",
+      "United States"
      ],
-     "link": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu",
+     "link": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
+     "bron": "New York Times",
+     "tijd": "07:23",
+     "sorteer": "2026-11-14T06:23:24+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia",
+     "context": "Experts say disruption exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored Get our breaking news email , free app or daily news podcast The Microsoft outage could be a disaster for the Australian economy that forces some small businesses to close, with costs expected to run into the billions of dollars, experts have warned. The US software company ha",
+     "rubrieken": [
+      "Australia news",
+      "Microsoft",
+      "Business",
+      "Australian economy"
+     ],
+     "link": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
      "bron": "The Guardian",
-     "tijd": "06:00",
-     "sorteer": "2026-11-14T05:00:35+00:00",
+     "tijd": "07:19",
+     "sorteer": "2026-11-14T06:19:04+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+     "context": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "06:52",
+     "sorteer": "2026-11-14T05:52:31+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -362,28 +373,6 @@
      "bron": "Politico Europe",
      "tijd": "05:30",
      "sorteer": "2026-11-14T04:30:00+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
-     "context": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "02:47",
-     "sorteer": "2026-11-14T01:47:36+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-     "context": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "01:03",
-     "sorteer": "2026-11-14T00:03:56+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -432,16 +421,6 @@
      "sorteer": "2026-11-13T20:24:39+01:00"
     },
     {
-     "titel": "Snel grote boom met veel schaduw laten groeien? Proef moet uitwijzen welke grond daarvoor het best is",
-     "context": "\"Dit is zo ongeveer de mooiste dag uit mijn leven\", zegt bomenexpert Hans Kaljee van de gemeente Amsterdam. Naast hem staan veel iepen die met wortels en al uit de grond zijn gehaald. Met de scan van de kluit en met metingen van acht jaar onderzoek gaan boomwetenschappers aan de slag om te achterhalen welke grond het beste is voor bomen om te groeien. Die informatie is belangrijk. \"Vroeger wilden ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639365",
-     "bron": "NOS",
-     "tijd": "19:35",
-     "sorteer": "2026-11-13T19:35:56+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
      "titel": "Wie zitten er achter de Hamas-vlaggen?",
      "context": "",
      "rubrieken": [],
@@ -472,11 +451,25 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Korpschef Piet Deelman nieuwe directeur SMVP",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiVnhKNlZiYjFlYXFHaWJUVVhBTlV5MkpYZUdNcXJkVldudS1FcTV4Z2drTHRuLVQ5alo0U2dJbUxFYzliZTFveHFCV21WcDFJOVRhbGVSNXpucGxIRFBOQWJsZEphZE5oVFlQMzlYbHgwTEV3RnM2X3ln?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "01:27",
-     "sorteer": "2026-11-14T00:27:25+00:00"
+     "titel": "Verdachte (16) van dodelijke schietpartij Schiedam blijft langer vast",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYzIzWENuNEpJTG9CMlYyVE54TmUxOFdHd0lsMFZJS3lrVEtBaTVwcHlNZ2hpRHR1aUdWZ0NEU1JtdjBjdDJLYXVkWGpsdFJOVTNiX1QwMXRYNi14WEJBSzliQ2RyNlJFN0hnd0FRMjBxZ2VxTjJlVDRXYXBQYW1xS1FDNnR4dVQxTXdQSHFQdkNVYUFKZVFmTmdOcEdzdnZOV2piUVhaQjhZYkVYUHpGR3d2MEcxWW5paGc?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "23:52",
+     "sorteer": "2026-11-13T22:52:48+00:00"
+    },
+    {
+     "titel": "Middelbare scholen hebben te maken met steeds mondigere ouders: ‘Daar gaan we weer, denk ik bij een advocatenbrief’",
+     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRVNLRDA5MGEwUlNKM0d5ZURjS1M3enBNS0RhVVNwSTVsOG1sRkRzYXpGdjgtdGI0dWlwRzloNDM4eHQ2bGVKcno0NTdHSjd1X0hya0VyX0pYVFVuSnRMOFhvNEJtSGIzdXFiMGlMTEpzbUZyT0JCWXdIT1hHY3F4b1hNMXRWcnpaTTNuYmV4QTEyckhGc0l5LUlKUDNJS1JiNVM2LVZXUHBZQ2pfNm1pWU4zQ3Q3SHlGdldyV0ZxbmRzeW9yR05hNE80eThNY0lTcmliblEyMkEtRmdkdlhpbW9sck9oSzNtMVlfeFhR?oc=5",
+     "bron": "de Stentor",
+     "tijd": "22:45",
+     "sorteer": "2026-11-13T21:45:00+00:00"
+    },
+    {
+     "titel": "Ongeval met letsel op Apeldoornseweg in Hoenderloo",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0RyclFENTRHc1kwdVZ2RlRyXzZnS1ZxRXhfRGoxRFVVYWtZSXc4X2ZQMDlKZ19oM2ZTZnpZeHFMd2ZDa1BsVjA0TU5lcUVVQVNoWkpfa1V2ZXpYdzJIWkF6eEJLbThqOTFTLVBwTjVRWlFyYUI1Q2pabUpPdEJkazY2S0psLWk5X1dqQkd2eVVZY2RxcG9hckhtdnR2R2h0UGFXV084TXdNUQ?oc=5",
+     "bron": "de Stentor",
+     "tijd": "22:41",
+     "sorteer": "2026-11-13T21:41:53+00:00"
     },
     {
      "titel": "Man (29) krijgt boete voor fietsen in winkelstraat, bij terugkomst uit de winkel vliegt zijn fiets richting agent",
@@ -484,20 +477,6 @@
      "bron": "de Stentor",
      "tijd": "22:10",
      "sorteer": "2026-11-13T21:10:00+00:00"
-    },
-    {
-     "titel": "Zestien betaalbare huizen in Lettele Oost dichterbij, al kan de rechter er nog een streep door zetten",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMUhwSlFnRzVvT0MxMjVGMkpjR3QxSGxGNlpyWmtOMXdfX0VGUXlXQ3BidkxlMlg2ZFFvLUxOalduVThTYy1LRVY3Uzd6a01haUhmSThzYzY0ZklKZnAweG9nN0l2VUIwUThkNU81TXhKWlIyYzByU0NhakJCOVRTRU9nNWpmT280dVpOOXB5Q20yYjgzQ1lIemN2dTlHd2dNZ1liMHI2dmduZlQ5eGJLZk8teDZLbjRDU2p4aEZQdkpITjZXMk84RnNjeDZFOWxtOVVaWGQ1cXROd0tP?oc=5",
-     "bron": "de Stentor",
-     "tijd": "21:00",
-     "sorteer": "2026-11-13T20:00:00+00:00"
-    },
-    {
-     "titel": "Ben (1937-2026) legde het verdwenen Nijmegen jarenlang vast: dankzij zijn meesterhand blijft de oude stad bewaard",
-     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNREpDRVZrN2pkM1A2bUNYaDNrVWZFc0oxaURrSm01T2E3bkxFRVlmcUhNYkRqWUN1QjA3R0J4RXlTVG1LSlZLUVBKR0FaVWM4SXZFemRPZ0haLUhYcmFkSmxaT2dmLXFIYzFfUHZEdjRCWnNweW5VZldINWx0cEFCWGVlam9aOGVWaVlrY244RE0tTU12bWZZUHBNbjVlMlFIdG9PS1pDLW04emZUeTlxZ09UMkdHOFNOOTlhYXRndV9tY3k1cElrVm1ReGNuVGZ4MVJud3FKT0cxbTJzV2JSMUpibUhsRUx2ZlE?oc=5",
-     "bron": "de Stentor",
-     "tijd": "20:53",
-     "sorteer": "2026-11-13T19:53:44+00:00"
     },
     {
      "titel": "Jetten vindt chaos rond belastingplan ‘niet uit te leggen’",
@@ -532,6 +511,24 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Eén persoon naar ziekenhuis na woningbrand in Almelo",
+     "context": "Een woning aan de Adriaen van Ostadestraat in Almelo liep gisternacht flinke schade op na een brand. Eén persoon is naar het ziekenhuis gebracht. Vanwege de rookontwikkeling zijn er uit voorzorg naastliggende woningen ontruimd.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3719487/een-persoon-naar-ziekenhuis-na-woningbrand-in-almelo",
+     "bron": "RTV Oost",
+     "tijd": "07:22",
+     "sorteer": "2026-11-14T06:22:02+00:00"
+    },
+    {
+     "titel": "Wie is de lachende pinner aan de Dorpsstraat in Hellendoorn?",
+     "context": "Vrolijk lachend komt een jonge man aanlopen bij een geldautomaat aan de Dorpsstraat in Hellendoorn. Hij neemt geld op met de bankpas van een oudere inwoner die is opgelicht door nepagenten.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3715815/wie-is-de-lachende-pinner-aan-de-dorpsstraat-in-hellendoorn",
+     "bron": "RTV Oost",
+     "tijd": "07:03",
+     "sorteer": "2026-11-14T06:03:28+00:00"
+    },
     {
      "titel": "Henri dreigt kunstmatige alvleesklier kwijt te raken: 'Een stap terug'",
      "context": "In de bakkerij proeft Henri de Groot tussendoor even van de crème die hij maakt. Dankzij zijn kunstmatige alvleesklier kan hij dat zonder zorgen doen. Maar na vijf jaar dreigt hij het apparaat kwijt te raken, omdat de vergoeding stopt.",
@@ -570,28 +567,6 @@
      "bron": "RTV Oost",
      "tijd": "19:05",
      "sorteer": "2026-11-13T18:05:34+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Zijn deze sieraden van jou? Politie zoekt eigenaren na vondst bij Zwolle",
-     "context": "Een gouden trouwring met een inscriptie uit 1959 en bijzondere broches. Het zijn enkele van de sieraden die de politie aantreft in een auto op de A28 bij Zwolle. Vermoedelijk zijn ze buitgemaakt bij oplichting. De politie wil ze terugbezorgen, maar zoekt nog naar de eigenaren.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3715816/zijn-deze-sieraden-van-jou-politie-zoekt-eigenaren-na-vondst-bij-zwolle",
-     "bron": "RTV Oost",
-     "tijd": "17:00",
-     "sorteer": "2026-11-13T16:00:00+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Twitteraar 'met maar 30 volgers' schrikt zich rot als opeens politie belt",
-     "context": "In de coronatijd liep zijn frustratie over de overheid flink op. Dat hij het stikstofdossier al 15 jaar volgde, hielp niet mee. Maar in juni is de man uit Kuinre er klaar mee. \"Doodschoppen die psychopaat\", schrijft hij op X over minister Jaimi van Essen. Vandaag stond hij daarvoor voor de rechter.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3719269/twitteraar-met-maar-30-volgers-schrikt-zich-rot-als-opeens-politie-belt",
-     "bron": "RTV Oost",
-     "tijd": "16:32",
-     "sorteer": "2026-11-13T15:32:12+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -848,7 +823,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "07:00",
+    "bijgewerkt": "08:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1408,15 +1383,15 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 0.4,
-    "gevoel": 0.4,
-    "wind": "Z 1",
+    "nu": 0.1,
+    "gevoel": 0.1,
+    "wind": "ZZO 1",
     "station": "Heino",
     "bericht": "Het weer tijdens de landelijke Sinterklaasintocht in Grave ziet er bijzonder goed uit. Vandaag, na de mist, is het zonnig en droog. Morgenochtend alleen in het zuidoosten en oosten lichte (mot)regen.",
     "vandaag": "Vandaag, na de mist, is het zonnig en droog. Vandaag begint de dag in het binnenland met lichte vorst en in het midden, zuiden en oosten mist of mistbanken.",
     "temperatuur": "De maximumtemperatuur komt uit op 8 of 9 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: 1 tot 8 graden, droog, ruim 6 uur zon, wind uit het zuiden, kracht 2.",
+     "zin": "Voor Dalfsen zelf: 1 tot 8 graden, droog, ruim 8 uur zon, wind uit het zuiden, kracht 2.",
      "max": 8,
      "min": 1,
      "regenkans": 0,
