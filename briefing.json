@@ -1,15 +1,15 @@
 {
  "datum": "2026-11-14",
- "naam": "Middagbriefing",
+ "naam": "Avondbriefing",
  "status": {
-  "ronde": "Middagbriefing",
-  "opgehaald": "17:00",
+  "ronde": "Avondbriefing",
+  "opgehaald": "18:00",
   "blokken": 11,
   "berichten": 92,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-14T17:00+01:00",
+ "opgehaald": "2026-11-14T18:00+01:00",
  "audio": "audio/20261114.mp3",
  "afval": [
   {
@@ -237,6 +237,15 @@
      "sorteer": "2026-11-14T07:10:17+01:00"
     },
     {
+     "titel": "Nederlands OnlyFans-model zit vast in ICE-gevangenis in New Jersey: ‘We vrezen voor haar leven’",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/nederlands-onlyfans-model-zit-vast-in-ice-gevangenis-in-new-jersey-we-vrezen-voor-haar-leven~b4813af8/",
+     "bron": "de Volkskrant",
+     "tijd": "17:32",
+     "sorteer": "2026-11-14T16:32:00+00:00"
+    },
+    {
      "titel": "Drieduizend vluchten zaterdag geannuleerd ondanks vrijgave van vliegvelden in de VS",
      "context": "",
      "rubrieken": [],
@@ -246,22 +255,75 @@
      "sorteer": "2026-11-14T13:43:00+00:00"
     },
     {
-     "titel": "Israëlische premierskandidaat beschuldigt Netanyahu van ‘aanwakkeren van racisme’ tegen Arabische bevolking",
+     "titel": "De trein naar het vliegveld heeft al jaren vertraging",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/israel-hamas-iran-gaza-hormuz-trump~b65f9edd/",
-     "bron": "de Volkskrant",
-     "tijd": "13:02",
-     "sorteer": "2026-11-14T12:02:00+00:00"
+     "link": "https://www.trouw.nl/buitenland/de-trein-naar-het-vliegveld-heeft-al-jaren-vertraging~ba313dfd/",
+     "bron": "Trouw",
+     "tijd": "17:13",
+     "sorteer": "2026-11-14T16:13:00+00:00"
     },
     {
-     "titel": "Alaska kiest voor het eerst deze eeuw Democraat als gouverneur",
-     "context": "",
+     "titel": "South Sudan’s National Election, Its First, Will Be Delayed",
+     "context": "Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011.",
+     "rubrieken": [
+      "South Sudan",
+      "Kiir Mayardit, Salva",
+      "Machar, Riek",
+      "Elections",
+      "Drought",
+      "Juba (South Sudan)"
+     ],
+     "link": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
+     "bron": "New York Times",
+     "tijd": "17:51",
+     "sorteer": "2026-11-14T16:51:55+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Cold weather health alerts issued for parts of UK on Sunday night",
+     "context": "UKHSA warns of threat to vulnerable people from frosty conditions expected to last until Thursday More cold health alerts have been issued for parts of the UK on Sunday night and next week. The alerts were issued by the UK Health Security Agency (UKHSA) for the north-west, West Midlands and Yorkshire and the Humber, and will be in place from 9pm on Sunday until 9am on Thursday. Continue reading...",
+     "rubrieken": [
+      "UK weather",
+      "UK news"
+     ],
+     "link": "https://www.theguardian.com/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
+     "bron": "The Guardian",
+     "tijd": "17:42",
+     "sorteer": "2026-11-14T16:42:04+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Italy fines Meta €805m over accessing users' photos",
+     "context": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/live-vs-alaska-kiest-voor-het-eerst-deze-eeuw-democraat-als-gouverneur~bbc0cf3d/",
-     "bron": "Trouw",
-     "tijd": "16:58",
-     "sorteer": "2026-11-14T15:58:00+00:00"
+     "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "17:29",
+     "sorteer": "2026-11-14T16:29:48+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "EU reiterates ‘grave concern’ over Gaza humanitarian crisis as winter approaches",
+     "context": "The bloc's foreign policy chief Kaja Kallas has called on Israel to allow more humanitarian aid into Gaza as weather worsens living conditions.",
+     "rubrieken": [
+      "Crisis",
+      "Foreign policy",
+      "Genocide",
+      "Military",
+      "War",
+      "Weapons",
+      "Politics"
+     ],
+     "link": "https://www.politico.eu/article/eu-reiterates-grave-concern-over-gaza-humanitarian-crisis-as-winter-approaches/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "17:28",
+     "sorteer": "2026-11-14T16:28:36+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
      "titel": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
@@ -271,69 +333,6 @@
      "bron": "BBC",
      "tijd": "16:53",
      "sorteer": "2026-11-14T15:53:55+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Why Aid Isn’t Reaching Ebola’s Epicenter",
-     "context": "The Ebola outbreak in the eastern Democratic Republic of the Congo has a new epicenter, one largely isolated from aid by an armed group that has killed and kidnapped aid workers. Declan Walsh, our chief Africa correspondent, reports from a town where health workers are struggling to contain the outbreak.",
-     "rubrieken": [
-      "Ebola Virus",
-      "Humanitarian Aid",
-      "Africa",
-      "Foreign Aid"
-     ],
-     "link": "https://www.nytimes.com/video/world/africa/100000011257751/why-aid-isnt-reaching-ebolas-epicenter.html",
-     "bron": "New York Times",
-     "tijd": "16:43",
-     "sorteer": "2026-11-14T15:43:16+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-     "context": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "16:42",
-     "sorteer": "2026-11-14T15:42:54+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
-     "context": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’ Andy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit. Outlining his desire to form closer ties with Brussels, Burnham accused the Conservative party of having “burned all our bridges” with",
-     "rubrieken": [
-      "European Union",
-      "Trade policy",
-      "UK news",
-      "Andy Burnham",
-      "Brexit",
-      "Labour",
-      "Economic policy",
-      "UK cost of living crisis",
-      "Foreign policy"
-     ],
-     "link": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
-     "bron": "The Guardian",
-     "tijd": "16:34",
-     "sorteer": "2026-11-14T15:34:54+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Italy hits Meta with €805m fine over privacy law violation",
-     "context": "It is the largest fine ever issued by Italy's data protection regulator.",
-     "rubrieken": [
-      "Regulation",
-      "Rights",
-      "Technology"
-     ],
-     "link": "https://www.politico.eu/article/italy-hits-meta-with-e805m-fine-over-privacy-law-violation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "15:03",
-     "sorteer": "2026-11-14T14:03:27+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -390,13 +389,21 @@
      "sorteer": "2026-11-14T11:34:00+00:00"
     },
     {
-     "titel": "De laatste weken duiken Hamas-spandoeken op bij pro-Palestijnse protesten. ‘Verzet is toegestaan volgens het internationaal recht’",
+     "titel": "Wie zitten er achter de Hamas-spandoeken die de laatste weken opduiken bij pro-Palestijnse protesten?",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/de-laatste-weken-duiken-hamas-spandoeken-op-bij-pro-palestijnse-protesten-verzet-is-toegestaan-volgens-het-internationaal-recht~b0aab810/",
+     "link": "https://www.volkskrant.nl/binnenland/wie-zitten-er-achter-de-hamas-spandoeken-die-de-laatste-weken-opduiken-bij-pro-palestijnse-protesten~b0aab810/",
      "bron": "de Volkskrant",
      "tijd": "18:45",
-     "sorteer": "2026-11-13T17:45:00+00:00"
+     "sorteer": "2026-11-13T17:45:00+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "De verlanglijstjes van 2026: geen Playmobil, maar squishies en Lego",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONlZWR0Q3WnVNa2xWM3lNRkdFdHYxcnowVVdiS1BBSWlSSlR0Q2FKLVNjUThKdXhhTks3RFNRSDFwSDJaY0RDU1VBUTRpT2ZRSXlxNHlsaXJhYThvS0RjRE5JU25TT1dLVVEzUGVWdmkwdWhDcjkwSURxRE5HSVlOZGs3RXRTdWN6UzdDblNkTU9VZ2h6b19qODluVjFDUFdIUVdtcFJ2cw?oc=5",
+     "bron": "Brabants Dagblad",
+     "tijd": "17:30",
+     "sorteer": "2026-11-14T16:30:39+00:00"
     },
     {
      "titel": "Duizenden ‘creepshots’ van vrouwen in WhatsApp-groep uit Achterhoek en Twente: ‘Dit is toch niet normaal?’",
@@ -418,13 +425,6 @@
      "bron": "Brabants Dagblad",
      "tijd": "15:30",
      "sorteer": "2026-11-14T14:30:00+00:00"
-    },
-    {
-     "titel": "Surinamer (36) opgepakt na gewapende overval op oudere Nederlandse toeriste: ’Ook echtgenote neergestoken’",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVRmZVhMaWx4UDdOUVI4SkwyMmFqUmNrMzBKeHFTRW1xX3I3TnBWUmotOXhqV0dpR3pUXzhiWndKLU1fYURndk12QW1YaTlGeHlFcmdyQkwwSGc1RVFlckVZZG96ZXNjWG81UnZ4TUJQaUx4MDg5eDQ4TVZ1QWhOcDJxZUdiNGd0T2xXYnh2M3FMTnJxaVJMSW5ZdkVSeE9POGpXRk4taHhZeG1XVkhmdTBEaTBBOXVkZ05UQUNnN3NrV0IwY0NDc1FaSEdfQnFpRkFlTUlBTVZCQUxoUHoyUVZ4b2xKekk?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "14:45",
-     "sorteer": "2026-11-14T13:45:00+00:00"
     },
     {
      "titel": "Woezik pakt periodetitel na ontsnapping",
@@ -486,15 +486,6 @@
      "sorteer": "2026-11-14T12:48:34+00:00"
     },
     {
-     "titel": "Vrachtwagen dendert langs mobiele wegafzetting op dodenweg N36",
-     "context": "In Oost op het Asfalt bekijken we opvallende dashcambeelden van de Overijsselse wegen: gevaarlijke stunts, agressie onder automobilisten en grappige of kolderieke taferelen. Met deze week: welk gedeelte van STOP begrijpt deze chauffeur niet?",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3715037/vrachtwagen-dendert-langs-mobiele-wegafzetting-op-dodenweg-n36",
-     "bron": "RTV Oost",
-     "tijd": "12:12",
-     "sorteer": "2026-11-14T11:12:35+00:00"
-    },
-    {
      "titel": "Jeugdtuintjes Zwolle gered van de ondergang: 'Het resultaat telt'",
      "context": "De honderd jaar oude jeugdtuintjes in Zwolle hoeven voorlopig niet weg. De gemeenteraad stemde gisteravond in met een plan om de tuintjes op een andere manier te laten voortbestaan. Inwoners krijgen de kans om met een plan te komen voor het behoud van de tuintjes.",
      "rubrieken": [
@@ -524,38 +515,49 @@
      "sorteer": "2026-11-14T08:06:40+00:00"
     },
     {
-     "titel": "'Zingen tot de tranen over je wangen stromen': TCOV Concertkoor bestaat 90 jaar",
-     "context": "Al een kleine eeuw zingen de leden van TCOV Concertkoor uit Hengelo zich nog net niet de longen uit het lijf. Er wordt vooral met het hart gezongen. \"Ons repertoire is emotioneel en intens\", zegt dirigent Erik Kotterink. \"Ik heb weleens met tranen gezongen\", herinnert voorzitter Judith Eijsink zich.",
+     "titel": "Wie is de lachende pinner aan de Dorpsstraat in Hellendoorn?",
+     "context": "Vrolijk lachend komt een jonge man aanlopen bij een geldautomaat aan de Dorpsstraat in Hellendoorn. Hij neemt geld op met de bankpas van een oudere inwoner die is opgelicht door nepagenten.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3719126/zingen-tot-de-tranen-over-je-wangen-stromen-tcov-concertkoor-bestaat-90-jaar",
+     "link": "https://www.oost.nl/nieuws/3715815/wie-is-de-lachende-pinner-aan-de-dorpsstraat-in-hellendoorn",
      "bron": "RTV Oost",
-     "tijd": "08:00",
-     "sorteer": "2026-11-14T07:00:48+00:00"
+     "tijd": "07:03",
+     "sorteer": "2026-11-14T06:03:28+00:00"
     },
     {
-     "titel": "Ingezonden intocht Sinterklaas foto’s",
-     "context": "DALFSEN – Ik zal vast niet de enige zijn maar hierbij enkele foto’s van de intocht van Sinterklaas. Groet en foto’s: Henk Burgmeijer. Alleen maar leuk Red.",
+     "titel": "Henri dreigt kunstmatige alvleesklier kwijt te raken: 'Een stap terug'",
+     "context": "In de bakkerij proeft Henri de Groot tussendoor even van de crème die hij maakt. Dankzij zijn kunstmatige alvleesklier kan hij dat zonder zorgen doen. Maar na vijf jaar dreigt hij het apparaat kwijt te raken, omdat de vergoeding stopt.",
      "rubrieken": [
-      "Dalfsen",
-      "Ingezonden bericht"
+      "breaking"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/556598/ingezonden-intocht-sinterklaas-fotos.html",
-     "bron": "DalfsenNet",
-     "tijd": "16:59",
-     "sorteer": "2026-11-14T15:59:29+00:00"
+     "link": "https://www.oost.nl/nieuws/3717310/henri-dreigt-kunstmatige-alvleesklier-kwijt-te-raken-een-stap-terug",
+     "bron": "RTV Oost",
+     "tijd": "05:58",
+     "sorteer": "2026-11-14T04:58:44+00:00"
     },
     {
-     "titel": "Samen aan de slag voor de knotwilgen",
-     "context": "DALFSEN – Het wilgenknotseizoen is weer begonnen. Zaterdag 14 november trok een groep van tien vrijwilligers van de Knotwilgenploeg Dalfsen eropuit om de wilgen onder handen te nemen. Om negen uur begon het werk: ladders tegen de stammen, zagen in de hand en samen aan de slag. De vrijwilligers waren te gast bij grondeigenaren […]",
+     "titel": "Team NWLSN gaat de uitdaging aan",
+     "context": "NIEUWLEUSEN – Samen de Alpe d’Huez op voor het goede doel. Acht jonge teamleden uit Nieuwleusen vormen samen Team NWLSN en doen op 3 juni 2027 voor het eerst mee aan de Alpe d’HuZes. Met vier fietsers en vier wandelaars willen zij zoveel mogelijk geld ophalen voor onderzoek naar kanker. Acht jonge en enthousiaste […]",
      "rubrieken": [
-      "Dalfsen",
       "Ingezonden bericht",
-      "Laatste nieuws"
+      "Laatste nieuws",
+      "Nieuwleusen"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/556596/samen-aan-de-slag-voor-de-knotwilgen.html",
+     "link": "https://www.dalfsennet.nl/nieuws/556571/team-nwlsn-gaat-de-uitdaging-aan-samen-de-alpe-dhuez-op-voor-het-goede-doel.html",
      "bron": "DalfsenNet",
-     "tijd": "16:39",
-     "sorteer": "2026-11-14T15:39:54+00:00"
+     "tijd": "17:49",
+     "sorteer": "2026-11-14T16:49:23+00:00"
+    },
+    {
+     "titel": "Sinds vanmiddag is Sinterklaas weer in Dalfsen",
+     "context": "DALFSEN – Vanmiddag is Sinterklaas met zijn Pieten met de stoomboot ‘De Vechtvaarder’ aan de kade van Dalfsen afgemeerd.Nadat Sinterklaas door enkele Pieten was geholpen om op de kade te komen, werd hij verwelkomd en toegesproken door onder andere locoburgemeester Jan Uitslag en kinderburgemeester Anne van Gelder. Daarna ging de route van Sinterklaas en Pieten […]",
+     "rubrieken": [
+      "Dalfsen",
+      "Evenementen"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/556599/sinds-vanmiddag-is-sinterklaas-weer-in-dalfsen.html",
+     "bron": "DalfsenNet",
+     "tijd": "17:16",
+     "sorteer": "2026-11-14T16:16:14+00:00"
     }
    ]
   },
@@ -779,7 +781,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "17:00",
+    "bijgewerkt": "18:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1381,13 +1383,13 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 3.9,
-    "gevoel": 3.9,
-    "wind": "OZO 1",
+    "nu": 1.1,
+    "gevoel": -0.5,
+    "wind": "O 1",
     "station": "Heino",
-    "bericht": "Het weer tijdens de landelijke Sinterklaasintocht in Grave ziet er bijzonder goed uit. Vandaag, na de mist, is het zonnig en droog. Morgenochtend alleen in het zuidoosten en oosten lichte (mot)regen.",
-    "vandaag": "Vandaag, na de mist, is het zonnig en droog. Vanmiddag schijnt de zon volop en blijft het droog.",
-    "temperatuur": "De middagtemperatuur komt uit op 8 of 9 graden.",
+    "bericht": "Vanavond is het op de meeste plaatsen helder en koelt het snel af. Morgen gaat het weer veranderen en gaat het vooral later op de dag regenen. Ook trekt de zuidenwind aan.Vanavond is het helder en koelt het snel af.",
+    "vandaag": "Vanavond is het op de meeste plaatsen helder en koelt het snel af. Vanavond is het helder en koelt het snel af.",
+    "temperatuur": "Het wordt plaatselijk -3 graden in het oosten tot 3 graden direct langs de kust.",
     "dalfsen": {
      "zin": "Voor Dalfsen zelf: 1 tot 7 graden, droog, ruim 8 uur zon, wind uit het zuiden, kracht 3.",
      "max": 7,
