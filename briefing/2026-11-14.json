@@ -1,15 +1,15 @@
 {
  "datum": "2026-11-14",
- "naam": "Ochtendbriefing",
+ "naam": "Middagbriefing",
  "status": {
-  "ronde": "Ochtendbriefing",
-  "opgehaald": "11:00",
+  "ronde": "Middagbriefing",
+  "opgehaald": "12:00",
   "blokken": 11,
-  "berichten": 80,
+  "berichten": 85,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-14T11:00+01:00",
+ "opgehaald": "2026-11-14T12:00+01:00",
  "audio": "audio/20261114.mp3",
  "afval": [
   {
@@ -273,68 +273,100 @@
      "sorteer": "2026-11-14T05:28:33+01:00"
     },
     {
-     "titel": "Frankrijk bereidt zich voor op nieuwe dag vol protest: regering zet 70 duizend politiemannen en militairen in",
+     "titel": "Zelensky: VS opperden voor eerste keer afstaan van de Donbas in ruil voor Navo-lidmaatschap",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/protesten-frankrijk-parijs-levensonderhoud-rellen~ba493874/",
+     "link": "https://www.volkskrant.nl/buitenland/zelensky-vs-opperden-voor-eerste-keer-afstaan-van-de-donbas-in-ruil-voor-navo-lidmaatschap~bffaf222/",
      "bron": "de Volkskrant",
-     "tijd": "07:48",
-     "sorteer": "2026-11-14T06:48:00+00:00"
+     "tijd": "11:36",
+     "sorteer": "2026-11-14T10:36:00+00:00"
+    },
+    {
+     "titel": "Amerikanen hoeven Iran niet meer aan te vallen, zegt buitenlandminister Rubio: ‘Economische pijn is groot genoeg’",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/israel-hamas-iran-gaza-hormuz-trump~b65f9edd/",
+     "bron": "de Volkskrant",
+     "tijd": "11:05",
+     "sorteer": "2026-11-14T10:05:00+00:00"
     },
     {
      "titel": "Iran: twee olietankers in brand door mijnen in Straat van Hormuz",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/israel-hamas-iran-gaza-hormuz-trump~b65f9edd/",
-     "bron": "de Volkskrant",
-     "tijd": "05:46",
-     "sorteer": "2026-11-14T04:46:00+00:00"
-    },
-    {
-     "titel": "Witte Huis: Trump heeft donderdag in China ontmoeting met Poetin en Xi",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/live-vs-witte-huis-trump-heeft-donderdag-in-china-ontmoeting-met-poetin-en-xi~bbc0cf3d/",
+     "link": "https://www.trouw.nl/buitenland/live-oorlog-midden-oosten-iran-twee-olietankers-in-brand-door-mijnen-in-straat-van-hormuz~b4cda6da/",
      "bron": "Trouw",
-     "tijd": "03:29",
-     "sorteer": "2026-11-14T02:29:00+00:00"
+     "tijd": "05:47",
+     "sorteer": "2026-11-14T04:47:00+00:00"
     },
     {
-     "titel": "Finland rejects reported Russian demand to leave NATO as part of peace talks",
-     "context": "\"This is absolutely outrageous to even suggest such a thing,\" Defense Minister Antti Häkkänen said.",
+     "titel": "US suggested Ukraine could give up Donbas for NATO membership, Zelenskyy says",
+     "context": "\"This was the first time this had been raised,\" the Ukrainian president told reporters.",
      "rubrieken": [
-      "Baltics",
-      "Borders",
-      "Foreign policy",
       "Negotiations",
       "Security",
       "War",
+      "Weapons",
+      "Defense",
       "Politics"
      ],
-     "link": "https://www.politico.eu/article/finland-rejects-reported-russian-demand-to-leave-nato-as-part-of-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "link": "https://www.politico.eu/article/us-suggested-ukraine-could-give-up-donbas-for-nato-membership-zelenskyy-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
      "bron": "Politico Europe",
-     "tijd": "10:57",
-     "sorteer": "2026-11-14T09:57:48+00:00",
+     "tijd": "11:48",
+     "sorteer": "2026-11-14T10:48:19+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Immersive show brings Kyffin Williams’ rugged Welsh landscapes to life",
-     "context": "Paintings by one of country’s most important artists have been animated and set to music at National Library of Wales The paintings of artists such as Vincent van Gogh, Paul Cézanne and David Hockney have been brought to life in all-singing, all-dancing immersive shows in recent years. Now one of Wales’s most important artists, Sir Kyffin Williams , known for capturing the spectacular landscapes o",
+     "titel": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "context": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "11:30",
+     "sorteer": "2026-11-14T10:30:38+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Noel Fielding ‘horrified and deeply disturbed’ by Russell Brand’s crimes",
+     "context": "Comedian regrets ‘inappropriate’ jokes he made with Brand during work pair did together in the 2000s The Great British Bake Off presenter Noel Fielding has said he was “horrified and deeply disturbed to learn of Russell Brand’s crimes” and has had no contact with his fellow comedian “for many years”. In the early 2000s, Fielding often worked with Brand, who was sentenced to more than 10 years in p",
      "rubrieken": [
-      "Exhibitions",
-      "Art",
-      "Art and design",
+      "Russell Brand",
+      "Noel Fielding",
       "Culture",
-      "Wales",
-      "UK news",
-      "Installation",
-      "Museums"
+      "Comedy",
+      "TV comedy",
+      "Television",
+      "Crime",
+      "UK news"
      ],
-     "link": "https://www.theguardian.com/artanddesign/2026/nov/14/sir-kyffin-williams-artist-immersive-exhibition-national-library-wales-aberystwyth",
+     "link": "https://www.theguardian.com/news/2026/nov/14/noel-fielding-horrified-deeply-disturbed-russell-brand-crimes",
      "bron": "The Guardian",
-     "tijd": "10:00",
-     "sorteer": "2026-11-14T09:00:39+00:00",
+     "tijd": "11:14",
+     "sorteer": "2026-11-14T10:14:07+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
+     "context": "Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves.",
+     "rubrieken": [
+      "Oil (Petroleum) and Gasoline",
+      "Politics and Government",
+      "United States International Relations",
+      "Economic Conditions and Trends",
+      "Chavez, Hugo",
+      "Maduro, Nicolas",
+      "Rodriguez, Delcy (1969- )",
+      "Trump, Donald J",
+      "United States",
+      "Venezuela"
+     ],
+     "link": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
+     "bron": "New York Times",
+     "tijd": "11:10",
+     "sorteer": "2026-11-14T10:10:01+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -346,33 +378,6 @@
      "bron": "BBC",
      "tijd": "08:42",
      "sorteer": "2026-11-14T07:42:11+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Here’s the latest.",
-     "context": "Trump administration officials blamed a telecommunication outage but said they said did not know its cause.",
-     "rubrieken": [
-      "Airlines and Airplanes",
-      "Federal Aviation Administration",
-      "Nationwide Ground Stops (Aviation)",
-      "United States"
-     ],
-     "link": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
-     "bron": "New York Times",
-     "tijd": "08:15",
-     "sorteer": "2026-11-14T07:15:20+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Microsoft says services fully restored after day-long global outage",
-     "context": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "07:42",
-     "sorteer": "2026-11-14T06:42:27+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -441,13 +446,34 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Eerste mensen gearriveerd in Grave voor sinterklaasintocht",
+     "titel": "Kade waar Sinterklaas aankomt in Grave is vol",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/eerste-mensen-gearriveerd-in-grave-voor-sinterklaasintocht~bcba83d6/",
+     "link": "https://www.trouw.nl/binnenland/kade-waar-sinterklaas-aankomt-in-grave-is-vol~bcba83d6/",
      "bron": "Trouw",
      "tijd": "09:36",
-     "sorteer": "2026-11-14T08:36:41+00:00"
+     "sorteer": "2026-11-14T08:36:00+00:00"
+    },
+    {
+     "titel": "Hoe China ons bespeelt: van ASML tot Mediamarkt, waarom de Chinese macht Nederlanders direct raakt",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONGprSWpQeUJJR2lTc0ZvMkVPSVVGeXRXZFdIQXh6SnJWaG05VUpjdzZFU0JnNmtEcXNiNFBwcXpIenNRRFlhbllHWWlWaXN0X0JseFpRTjhfWFV1UTBpNFFrU3RxOWFmWUpSYWtXMXd6VER3bzBScVVQaExXUExHN0FlaHRHaWttTFQ5N0NSSHU3eWVuTVg0VEJHTmhpUzFLVkhKWTlqZFI4cHFmTHBKSEdwNjVkMU9HMDhsSHRpNUNFMTkyNTc5TlJ2TzVEdGdOQlRIRGlYMjg4N1R2M1E?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "11:30",
+     "sorteer": "2026-11-14T10:30:00+00:00"
+    },
+    {
+     "titel": "Hij liet zijn geweren en kogels achter in de auto, nu is de jager zijn vergunning kwijt",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV0pTTUR6OUJSWC12VlV0Y1k3YUdSX2ZZVVo1YWJFSzV6TUl3NFU5R09QOXZSSkhGSDhIT21zZzlmYlJHUEw5NTJxdWxDb3o0X1JvSDAwenpObzVLNE11aHlsM0VPSEVnVGM5X1E3X0xLdGx4elJYSEFTT2c5VXF5djQ5MXNHYVhPRC11U3A3bkJoZXpua0JfckctWWUzNU5wazN4S1A2aUNEWjZxUnhrRndjYm9oS3IySzA0WEpDOGJxcVhWVDFDRVQ0TjA?oc=5",
+     "bron": "de Stentor",
+     "tijd": "11:01",
+     "sorteer": "2026-11-14T10:01:35+00:00"
+    },
+    {
+     "titel": "In dit Rotterdamse hotel slapen toeristen en dakloze mensen straks onder één dak: ‘Iedereen is evenveel waard’",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPX2ZkQzJmWmowSUo1cGc3RTFYWFl5cmhPSkxFdEpTdURBdkZyU3NLcXpmN1NyM3d0RnFDZFBUNkVvNVJYM2t3QVNMeVBENEpHcWVmeXVKUkNiRTdCNVVFRmF6THZ5ZkFPU1NYOE1Ga2tmR0pqYjFTVHBRTXhqLUp6Z0tETDdrc1RmTHNfMEVKUnVtYXZSX1JPUXZNU2R0WUNVVUVPbkpaWUJVX1c5NzVkMDlvbU9JbDFmYXJRV1JtZ0tqM2RkSHpEaFc0YngtOVh2U2duWF8tc3M2YjBSbVBoTnZjS0d1LWdaZXV5Qw?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "09:23",
+     "sorteer": "2026-11-14T08:23:57+00:00"
     },
     {
      "titel": "Explosieve verklaring van getuige die videobelde met ‘Bolle Jos’ vlak na Overasselt",
@@ -455,27 +481,6 @@
      "bron": "Brabants Dagblad",
      "tijd": "09:22",
      "sorteer": "2026-11-14T08:22:40+00:00"
-    },
-    {
-     "titel": "Wat het onverwachte videobelletje betekent voor klopjacht op Bolle Jos: ‘Ongelooflijk verhaal vol belangrijke verklaringen’",
-     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMkI2VWlBN0RQRlROdEJIZUVmTWFDeUh4ejZCT0pTalRsbmI1Yi1ZUjhvNU1zdThGZkxEVDhXMFJ4WTZjYTAyZTFyRmRVeTNoeDFsMXdLV241SDNpZXF0b0hTaUdYYWlDQ2lwNTdnNm9hdER4NlhPS1VOZXBGczBlSmFNaFlTYklVcWhKa2RfRUItcmFlWEZEcjFmQ1VoMTU2TmpWTVdwdF91dVlTQm5sdm1GVWt5RFlzdkJERTdGQ2dPUURyRTFqbWJlZEJwNDk0N3hMUUFmSmgxcVNjVVpJWjE3UHdjWE1KdGdVZDZIRkk?oc=5",
-     "bron": "Brabants Dagblad",
-     "tijd": "10:30",
-     "sorteer": "2026-11-14T09:30:00+00:00"
-    },
-    {
-     "titel": "Syrische bekeerling voelt zich onveilig in azc: Ik werd uitgescholden, aangevallen en met de dood bedreigd",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmo2TmFzN09MaDFTeXhnU2gydWNfS3luNWRaclFDSGo0bzZsb0tKWloxVEFrYjNFR3VYWDh0VjMtQmZBWjlVN1d3aGs3OFpPYUthZzM0QUJ5ZlpvbzRIX3BLUWc5X1BWVkJZaUpIaTRmYUg5MTloN0xPYWNqYkJZbFNqWFc4RWQxUGQwaVNyYzc0NGY4S0xCaHVWUnl1OG1pczA1dnhTanpNa3FEcDliamJkb2RmMmRBMHdhNU9FVG5BcFVTTEtlSXZB?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "10:06",
-     "sorteer": "2026-11-14T09:06:46+00:00"
-    },
-    {
-     "titel": "Leger des Heils: Samenleving laat daklozen in de kou staan",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXdKN2tHMVJaeGxxY2tlWWVBQ21fNnBIZndGaHJkWjN3Y1cxWVhnSmp6aFMwbjdESURVR2RwZ2lfWVhKek5iM0FOZWtadUM2cjRadThpQ0xkX1haMTZuaWlubUk5XzJYc2U1dU05eU1RRU1leDBBcG9pQ3BUaVZYd1gyNA?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "05:38",
-     "sorteer": "2026-11-14T04:38:05+00:00"
     },
     {
      "titel": "Jetten vindt chaos rond belastingplan ‘niet uit te leggen’",
@@ -510,15 +515,6 @@
      "bron": "RTV Oost",
      "tijd": "10:27",
      "sorteer": "2026-11-14T09:27:53+00:00"
-    },
-    {
-     "titel": "Rijssenaar verliest rijbewijs na botsing onder invloed",
-     "context": "Een 29-jarige man uit Rijssen botste vannacht tegen een vangrail op de A1 tussen Deventer en Apeldoorn. Na een drugs- en alcoholtest bleek de man onder invloed van alcohol.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3719500/rijssenaar-verliest-rijbewijs-na-botsing-onder-invloed",
-     "bron": "RTV Oost",
-     "tijd": "09:06",
-     "sorteer": "2026-11-14T08:06:40+00:00"
     },
     {
      "titel": "'Zingen tot de tranen over je wangen stromen': TCOV Concertkoor bestaat 90 jaar",
@@ -557,6 +553,15 @@
      "bron": "RTV Oost",
      "tijd": "05:58",
      "sorteer": "2026-11-14T04:58:44+00:00"
+    },
+    {
+     "titel": "Kluis gekraakt, vitrines leeg: tweede inbraak in korte tijd bij kringloop",
+     "context": "\"Bij diefstal doen wij altijd aangifte bij de politie!\" Deze tekst stond op een bordje bij de vitrines met kostbare spullen. Maar hier hadden de inbrekers lak aan. Voor de tweede keer in korte tijd is er ingebroken in een kringloopwinkel in Deventer.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3719072/kluis-gekraakt-vitrines-leeg-tweede-inbraak-in-korte-tijd-bij-kringloop",
+     "bron": "RTV Oost",
+     "tijd": "20:05",
+     "sorteer": "2026-11-13T19:05:25+00:00"
     },
     {
      "titel": "Een mooie start van de dag",
@@ -648,6 +653,13 @@
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D57026",
      "sorteer": "2026-11-13T12:54:03.867+01:00",
      "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "AI verandert de manier waarop we winkelen: 'Gaat enorme impact hebben'",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUDFiUlIxQzZaaU5rMTl6Si1Rd05QS253NzhYOUFnTDdTaTJCZEVXTzlKbmtfU0tBYTdBME82aUN0UGtWNjVQZmI1dkRfSGpJYjJoenVvZUdyb2NNZVlnZXdXSmM2YUFJS0hDOHBjY0xKNjJmdTRGbzQ1UUhIc2E4ZnR4YzdndDRZWlNrRUVmeW9Ca1QyS2dKLTNqZU9PMlk?oc=5",
+     "bron": "NOS",
+     "tijd": "11:29",
+     "sorteer": "2026-11-14T10:29:24+00:00"
     }
    ]
   },
@@ -792,7 +804,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "11:00",
+    "bijgewerkt": "12:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1151,18 +1163,18 @@
      "sorteer": "2026-11-14T09:00:00+00:00"
     },
     {
+     "titel": "Vriendschappen onder druk: olifanten in Sri Lanka zoeken elkaar steeds minder op",
+     "toelichting": "Na jaren van achteruitgang passeerde een olifantenpopulatie in Sri Lanka een sociaal kantelpunt: het netwerk versplinterde in kleinere, geïsoleerde groepjes. Schrijf je in voor de nieuwsbrief! Ook elke dag vers het laats",
+     "bron": "Scientias",
+     "tijd": "11:00",
+     "link": "https://scientias.nl/vriendschappen-onder-druk-olifanten-in-sri-lanka-zoeken-elkaar-steeds-minder-op/"
+    },
+    {
      "titel": "Waarom we verliefd worden op iemand die niet ons type is",
      "toelichting": "Slim, grappig, ambitieus, sportief en een goede bos haar: veel mensen hebben een flink wensenlijstje voor hun toekomstige partner. En vervolgens vallen ze vaak voor iemand die daar totaal niet aan voldoet. Hoe zit dat? W",
      "bron": "Scientias",
      "tijd": "19:00",
      "link": "https://scientias.nl/waarom-we-verliefd-worden-op-iemand-die-niet-ons-type-is/"
-    },
-    {
-     "titel": "Verandert plastic de kleur van de Grote Oceaan?",
-     "toelichting": "Wetenschappers zijn recent tot een opmerkelijke ontdekking gekomen over het effect van plastic op de oceaankleur. Zij kwamen erachter dat microplastics waarschijnlijk invloed hebben op de veranderde kleur rondom de plast",
-     "bron": "Scientias",
-     "tijd": "17:00",
-     "link": "https://scientias.nl/verandert-plastic-de-kleur-van-de-grote-oceaan/"
     },
     {
      "titel": "Spicy ping-pong balls and flaming dung keep elephants at bay in Zimbabwe",
@@ -1222,61 +1234,93 @@
     {
      "titel": "Dalfsen (nacht)",
      "kop": "Vogeltrek",
-     "bron": "13-11",
-     "wanneer": "de nacht van donderdag op vrijdag",
-     "tijd": "17:30–07:15",
-     "link": "https://trektellen.org/count/view/2364/20261113",
+     "bron": "14-11",
+     "wanneer": "vannacht",
+     "tijd": "17:25–07:15",
+     "link": "https://trektellen.org/count/view/2364/20261114",
      "soorten": [
       "Koperwiek 10",
+      "Kolgans 3",
       "Krakeend 2",
-      "Zanglijster 2",
-      "Merel 2"
+      "Toendrarietgans 1"
      ],
      "aantal_soorten": 6,
      "opmerkingen": [],
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 67 soorten, 14.151 vogels geteld",
+     "titel": "Landelijk vandaag: 120 soorten, 67.459 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261114?language=dutch"
     },
     {
-     "titel": "Spreeuw — 11.778",
+     "titel": "Spreeuw — 55.288",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261114?language=dutch"
     },
     {
-     "titel": "Aalscholver — 413",
+     "titel": "Vink — 2.827",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261114?language=dutch"
     },
     {
-     "titel": "Zwarte Zee-eend — 290",
+     "titel": "Aalscholver — 1.363",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261114?language=dutch"
     },
     {
-     "titel": "Jan-van-gent — 284",
+     "titel": "Jan-van-gent — 779",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261114?language=dutch"
     },
     {
-     "titel": "Grauwe Gans — 233",
+     "titel": "Smient — 773",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261114?language=dutch"
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "gans spec. springt eruit — 99, normaal 6",
+     "bron": "16× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261114?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Spreeuw springt eruit — 55.288, normaal 5.137",
+     "bron": "11× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261114?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Jan-van-gent springt eruit — 779, normaal 105",
+     "bron": "7× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261114?language=dutch",
+     "sein": false
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Aalscholver springt eruit — 1.363, normaal 226",
+     "bron": "6× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261114?language=dutch",
+     "sein": false
     },
     {
      "kop": "Pestvogels",
@@ -1288,11 +1332,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Goed pestvogeljaar — op 44 plekken in de afgelopen week, waarvan 5 vandaag",
+     "titel": "Goed pestvogeljaar — op 49 plekken in de afgelopen week, waarvan 10 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 89 vogels; 81 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 95 vogels; 86 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1328,16 +1372,16 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 2.0,
-    "gevoel": 2.0,
+    "nu": 2.8,
+    "gevoel": 1.3,
     "wind": "ZZO 1",
     "station": "Heino",
     "bericht": "Het weer tijdens de landelijke Sinterklaasintocht in Grave ziet er bijzonder goed uit. Vandaag, na de mist, is het zonnig en droog. Morgenochtend alleen in het zuidoosten en oosten lichte (mot)regen.",
     "vandaag": "Vandaag, na de mist, is het zonnig en droog. Vanochtend begon de dag in het binnenland met lichte vorst en in het midden, zuiden en oosten mist of mistbanken.",
     "temperatuur": "De maximumtemperatuur komt uit op 8 of 9 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: 1 tot 7 graden, droog, ruim 8 uur zon, wind uit het zuiden, kracht 2.",
-     "max": 7,
+     "zin": "Voor Dalfsen zelf: 1 tot 8 graden, droog, ruim 8 uur zon, wind uit het zuiden, kracht 2.",
+     "max": 8,
      "min": 1,
      "regenkans": 0,
      "omschrijving": "bewolkt"
