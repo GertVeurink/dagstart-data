@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "21:00",
+  "opgehaald": "22:00",
   "blokken": 11,
   "berichten": 92,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-14T21:00+01:00",
+ "opgehaald": "2026-11-14T22:00+01:00",
  "audio": "audio/20261114.mp3",
  "afval": [
   {
@@ -255,6 +255,15 @@
      "sorteer": "2026-11-14T10:46:51+01:00"
     },
     {
+     "titel": "Dode en meer dan dertig gewonden door Russische aanvallen op Oekraïense steden, Zelensky beklaagt zich over slechte verbinding SpaceX",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/dode-en-meer-dan-dertig-gewonden-door-russische-aanvallen-op-oekraiense-steden-zelensky-beklaagt-zich-over-slechte-verbinding-spacex~bffaf222/",
+     "bron": "de Volkskrant",
+     "tijd": "21:43",
+     "sorteer": "2026-11-14T20:43:00+00:00"
+    },
+    {
      "titel": "Nederlandse influencer zit vast in ICE-gevangenis in New Jersey: ‘We vrezen voor haar leven’",
      "context": "",
      "rubrieken": [],
@@ -262,15 +271,6 @@
      "bron": "de Volkskrant",
      "tijd": "17:32",
      "sorteer": "2026-11-14T16:32:00+00:00"
-    },
-    {
-     "titel": "Drieduizend vluchten zaterdag geannuleerd ondanks vrijgave van vliegvelden in de VS",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/drieduizend-vluchten-zaterdag-geannuleerd-ondanks-vrijgave-van-vliegvelden-in-de-vs~b44eefe1/",
-     "bron": "de Volkskrant",
-     "tijd": "14:43",
-     "sorteer": "2026-11-14T13:43:00+00:00"
     },
     {
      "titel": "De trein naar het vliegveld heeft al jaren vertraging",
@@ -282,13 +282,40 @@
      "sorteer": "2026-11-14T16:13:00+00:00"
     },
     {
-     "titel": "What we know about the ground stop and what to do if you're affected",
-     "context": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+     "titel": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "context": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
      "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+     "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "20:27",
-     "sorteer": "2026-11-14T19:27:03+00:00",
+     "tijd": "21:41",
+     "sorteer": "2026-11-14T20:41:45+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+     "context": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "21:23",
+     "sorteer": "2026-11-14T20:23:06+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
+     "context": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigating Residents were ordered to evacuate parts of an Illinois community on Friday after the mayor there said authorities found a bomb at a local ethanol- and alcohol-production plant. The discovery reported at BioUrja Renewables in Peoria triggered a mandatory evacuation over a one-mile evacuatio",
+     "rubrieken": [
+      "Illinois",
+      "FBI",
+      "US crime",
+      "US news"
+     ],
+     "link": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
+     "bron": "The Guardian",
+     "tijd": "21:14",
+     "sorteer": "2026-11-14T20:14:27+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -307,36 +334,6 @@
      "bron": "New York Times",
      "tijd": "20:23",
      "sorteer": "2026-11-14T19:23:20+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-     "context": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "20:21",
-     "sorteer": "2026-11-14T19:21:10+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Philippines’ Carmelle wins first Eurovision contest in Asia",
-     "context": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra , to victory in Bangkok on Saturday night, at the first regional edition of the contest to be staged outside Europe. Eleven countries competed at the One Bangkok Forum in central Bangkok, and",
-     "rubrieken": [
-      "Eurovision",
-      "Music",
-      "Asia Pacific",
-      "Culture",
-      "World news",
-      "Philippines",
-      "Thailand"
-     ],
-     "link": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
-     "bron": "The Guardian",
-     "tijd": "20:01",
-     "sorteer": "2026-11-14T19:01:32+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -366,6 +363,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Duizenden stiekem gemaakte foto's van borsten en billen in Achterhoekse appgroep",
+     "context": "In een besloten groep op WhatsApp worden duizenden foto's gedeeld van vrouwen van wie de benen, billen of borsten stiekem zijn gefotografeerd. Ruim duizend mannen zitten in de appgroep die 't Haviksoog heet, meldt het tweewekelijkse onderzoeksprogramma Pointer van KRO-NCRV. Het programma ontdekte dat de fotomakers en de nietsvermoedende vrouwen vooral uit de Achterhoek en andere delen van Oost-Ned",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639515",
+     "bron": "NOS",
+     "tijd": "21:37",
+     "sorteer": "2026-11-14T21:37:27+01:00"
+    },
     {
      "titel": "Er is niks meer over van de historische molen bij Stiens: 'Dit is aangestoken'",
      "context": "Waar gisteren nog een molen stond, ligt vandaag een ruïne. Overal geblakerde houten balken, weg is het vertrouwde silhouet aan de horizon in dit stukje Noord-Friesland. De karakteristieke Slagdijkstermolen uit 1864 tussen de dorpen Stiens en Feinsum ging vannacht in vlammen op. Molenaar Johan Nooi hoorde het trieste nieuws vanochtend vroeg van een verslaggeefster en sprong meteen in zijn auto. \"Da",
@@ -403,15 +409,6 @@
      "sorteer": "2026-11-14T12:25:54+01:00"
     },
     {
-     "titel": "Opnieuw vogelgriep in Hierden, 19.000 eenden en kippen gedood",
-     "context": "In het dorp Hierden in Gelderland is voor de derde keer deze week bij een bedrijf vogelgriep vastgesteld. Deze keer bij een eenden- en legpluimveebedrijf. De circa 6000 eenden en 13.000 legkippen worden om verdere verspreiding van het virus tegen te gaan, afgemaakt door de Nederlandse Voedsel- en Warenautoriteit. Het bedrijf was in 2022 ook al eens slachtoffer van de vogelgriep. In een zone van 10",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639437",
-     "bron": "NOS",
-     "tijd": "08:55",
-     "sorteer": "2026-11-14T08:55:42+01:00"
-    },
-    {
      "titel": "In ‘blindenstad’ Grave hoort Sinterklaas in rijm wat kinderen met een visuele beperking allemaal wél kunnen",
      "context": "",
      "rubrieken": [],
@@ -439,6 +436,13 @@
      "sorteer": "2026-11-14T19:49:00+00:00"
     },
     {
+     "titel": "Ondernemers leren anticiperen, maar wat als de politiek onrust brengt?",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcWU5eC16bkI1cjRTZ0szYkxwc2xQdzhwVVIwOXFDbElWZ09zSlNiYmpyQ2t2SU8xTkJkQi05cUNPTnBKS3hmcHBkTE5zajRpOVdfdi1zV0g1U0xkaUhsTkxROGtjQUYweFlTWkwyQnpBZjBzUHdkMkladnFqcjhaSnVzNU9qQjJLVU1yS2FfM1I2dThHNkRnZVgyMVdxckJmbUZvVUVjSlJWM2JmWHlYM1RWUUk?oc=5",
+     "bron": "NRC",
+     "tijd": "21:30",
+     "sorteer": "2026-11-14T20:30:00+00:00"
+    },
+    {
      "titel": "Moeder Natalee Holloway vreest dat Joran van der Sloot opnieuw toeslaat: 'Hij is een tijdbom'",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVBGc3o3cm5CSXlwRG95UElfSFhzUVp3ajd6STQ4ZG9GdzU5a2xvM21BeEVuVzBMS3h4Njh0Q2tHMjg4ZlRoakNvMHZicjFya3FrRmlSMWNsUXBGOHM1X0V4WkJybkNyazRGb3BOTmprLVJPNkZOWFdodE16OVZ1WnU4SnFSNHhQV0VESW9zSVFQOUlJY1I5UUlfTTJpeG5x?oc=5",
      "bron": "RTL.nl",
@@ -446,19 +450,11 @@
      "sorteer": "2026-11-14T19:02:27+00:00"
     },
     {
-     "titel": "Vrouw die Russell Brand beschuldigde maakt naam bekend",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN2sxTl9pN2ZZZ3NnM1plRHJCUnlZamlaVDNMcTNUYU9kX0xnc1ZRRnFhaEdMdW5DUzVvU3FKNE9uT0RaZzhaQWlvME51aW1fbWFabzB0dnAwd3NIYzFOUFpsTTNXOFdpN1NFcUluMDVyXy1rNEE3ZEVLZTZKbWhFWWk3ZTU3NmJ4TmJMQURNaGZuZDFwVHB0OVBKeDh4eHZP?oc=5",
+     "titel": "Voortgang onduidelijk na coalitieberaad: 'Ze hebben in elk geval samen gegeten'",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmtLQnhoTjl5QzctWWF2LXRJU202aUc5NUpISUlzWG4yTjd4em9sdXpBNnR1YzNnQzQ4VDNud3daTllsTVVjRXFKLW9lR09rcllNUWNHZFp3ei02VnRfd01QdC1IU3plRndzV0M4SHJWVzd4bmNUdF9KYkFNX1VQYmlTbHBNRWFscEtiTjBFaUh5ekw4bUFCdmlDcERWdlc0eUlMNEh6cXVTQQ?oc=5",
      "bron": "RTL.nl",
-     "tijd": "19:38",
-     "sorteer": "2026-11-14T18:38:57+00:00"
-    },
-    {
-     "titel": "Kleine belegger betaalt nu niets, maar vanaf 2029 wel: wat betekent het belastingplan?",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkctS3hzVmhMSmE1RUh4bGYwUS1LRDhLYlZUMm4wQ0lDVUJzTDZWbEFLU2pQVm1HWDFieXhfRDk1QS1YV2pYUURPdXZadUd2bTJYVnNLR0VZRFJOSWNKR3pzSlFHMl9GcGE5QXFVQUhNc0ZJV2V6cEp5S2xTTzM2MGlNOHFEeWRRYm9XQ3dIQXFQQzkydXY2Z2pPNk1STGotWmd2VVFjSFY3ZU93dXh3NFA5UW1SQllIckN3dnJqWlNBNGc?oc=5",
-     "bron": "Het Parool",
-     "tijd": "15:34",
-     "sorteer": "2026-11-14T14:34:00+00:00",
-     "kop": "Begroting"
+     "tijd": "21:21",
+     "sorteer": "2026-11-14T20:21:33+00:00"
     },
     {
      "titel": "Eenmansfracties hard nodig in Eerste Kamer, als VVD daar ook tegen het belastingplan stemt",
@@ -495,15 +491,6 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
-    {
-     "titel": "Melding over levenloos persoon in de sneeuw zorgt voor schrik in Zwolle",
-     "context": "Een persoon ligt buiten in de sneeuw en beweegt niet meer. Dat is de alarmerende melding die wijkagenten Willeke en Meindert in Zwolle krijgen. Er wordt gevreesd dat de persoon is overleden. De agenten gaan met spoed op de melding af en houden rekening met het ergste.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3716250/melding-over-levenloos-persoon-in-de-sneeuw-zorgt-voor-schrik-in-zwolle",
-     "bron": "RTV Oost",
-     "tijd": "19:02",
-     "sorteer": "2026-11-14T18:02:00+00:00"
-    },
     {
      "titel": "Steeds meer intochten verwelkomen Glutenvrije Piet: 'Juichen we heel erg toe'",
      "context": "Sinterklaas en zijn Pieten zijn vanaf vandaag weer te vinden in heel Overijssel. Steeds vaker neemt de goedheiligman een speciale hulp mee: de Glutenvrije Piet. Die zorgt ervoor dat ook kinderen met coeliakie volop kunnen genieten van het feest, want dat is niet altijd vanzelfsprekend.",
@@ -552,32 +539,40 @@
      "sorteer": "2026-11-14T12:48:34+00:00"
     },
     {
-     "titel": "Kleine brand (schoorsteen)",
-     "context": "NIEUWLEUSEN – Om 19.42 uur kwam er een melding van een kleine woningbrand waar het zou gaan om een schoorsteen bij een woning aan de Stekelbaars. Verdere bijzonderheden zijn ( nog) niet bekend.",
+     "titel": "Vrachtwagen dendert langs mobiele wegafzetting op dodenweg N36",
+     "context": "In Oost op het Asfalt bekijken we opvallende dashcambeelden van de Overijsselse wegen: gevaarlijke stunts, agressie onder automobilisten en grappige of kolderieke taferelen. Met deze week: welk gedeelte van STOP begrijpt deze chauffeur niet?",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3715037/vrachtwagen-dendert-langs-mobiele-wegafzetting-op-dodenweg-n36",
+     "bron": "RTV Oost",
+     "tijd": "12:12",
+     "sorteer": "2026-11-14T11:12:35+00:00"
+    },
+    {
+     "titel": "Handschoenen lijven liggen in de buurtbus",
+     "context": "DALFSEN – NIEUWLEUSEN – Deze handschoenen van de foto, zijn blijven liggen in de buurtbus Nieuwleusen – Dalfsen. Af te halen bij de buurtbus.",
      "rubrieken": [
-      "112-nieuws",
+      "Dalfsen",
       "Ingezonden bericht",
       "Laatste nieuws",
       "Nieuwleusen"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/556618/kleine-brand-schoorsteen.html",
+     "link": "https://www.dalfsennet.nl/nieuws/556616/blijven-liggen-in-de-buurtbus.html",
      "bron": "DalfsenNet",
-     "tijd": "20:40",
-     "sorteer": "2026-11-14T19:40:32+00:00"
+     "tijd": "21:54",
+     "sorteer": "2026-11-14T20:54:10+00:00"
     },
     {
-     "titel": "Knap mistig",
-     "context": "DALFSEN – Rond 17.15 uur begon het weer knap mistig te worden.",
+     "titel": "Geweldige wandeling langs “knuffelboom” en schaapskooi",
+     "context": "DALFSEN – STRREBOS – Vandaag zaterdagmorgen vroeg op pad, het had licht gevroren en op de planning een 2 G wandeling, vanaf het station Dalfsen en weer terug. Dus eerst op de fiets vanuit Hoonhorst. Wandelen vanaf het station naar de Millingersteeg en direct na de “Wagenkolk”ook wel “Wiel” genoemd, 2 keer naar rechts door […]",
      "rubrieken": [
       "Dalfsen",
-      "Geen categorie",
-      "Ingezonden bericht",
-      "Laatste nieuws"
+      "Laatste nieuws",
+      "Sterrebos"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/556611/knap-mistig.html",
+     "link": "https://www.dalfsennet.nl/nieuws/556620/geweldige-wandeling-langs-knuffelboom-en-schaapskooi.html",
      "bron": "DalfsenNet",
-     "tijd": "18:00",
-     "sorteer": "2026-11-14T17:00:11+00:00"
+     "tijd": "21:50",
+     "sorteer": "2026-11-14T20:50:23+00:00"
     }
    ]
   },
@@ -646,6 +641,13 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Waarom de toekomst van het Fries afhangt van AI. ’Grote techbedrijven zullen het Fries niet redden’",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTXdHMVJrZXB0UnJfWDM0TDNscEZTSDNhdWJMcFRSVUlrMTROZXVhZ3MwSVlzelBKelZLRHQ4OHZsQWxGX2VsV2hrWnNRU01EdkJjUm93ZEZrdXRIcnlpYlp4YXdDTDhxOUdhUXNkblpGNkhRQVpDc3hSdVVSamtlVk5ZOW5tX05Nd21EQm1nV1pMS0tDemNFSEE3dmV6UFlmUm4tbUF5X1ZKbGV6M01HVzVqc29WanJwY3M2LXFHbzJBdTUxV01EamU4Zmwya0x6M0VrbnRYQXctVWpPemRj?oc=5",
+     "bron": "Leeuwarder Courant",
+     "tijd": "21:08",
+     "sorteer": "2026-11-14T20:08:07+00:00"
+    },
+    {
      "titel": "OpenAI geeft mensen een ChatGPT Wallet, maar die is voor hun AI-agent",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa0tPOElkcldsQzZsWWFRVUo0dkd0Q1VILXlCb2ZkaTVVSzA1RExZSVdrRGVFN1dXb01jeU9MaWlDUjFvcG50WkctQllzbllqZUh4TTFvWUVUQm1jQmdOM00yR2VodzBGalk0a2J2Zk1HNVhUMmc0NU53MTV5ZlMyOTdjaklIVGVLb3RQajFQUFpieGx6QU1HN2xEVTBsUnlJSDQxNGJDY3FBc09zYUNr?oc=5",
      "bron": "Bright",
@@ -665,13 +667,6 @@
      "bron": "Bright",
      "tijd": "16:30",
      "sorteer": "2026-11-14T15:30:00+00:00"
-    },
-    {
-     "titel": "AI-start-ups vrezen minder investeringen door vertrek Jensen Huang",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOElEVVNud3VtYVNnZVNZSUxIQnFRcWV3blVUSkxoalRFTWhZbkVXLWdaRWkwMlJPYWxtZjRvMGxFaDlkR0hYQUtuczh4N0hMMzJuWm9mMFZmVndUQ0lPNFptV1VEd21ObmZwU094MFFSWnZRS2h3ZTFDS1NBVWxMUDEza255MjBObFYwS3hCV2JNUnd2Rm54Z3FvQ2w1QzhxQlk3eXFUZWdGY0Fn?oc=5",
-     "bron": "Bright",
-     "tijd": "14:02",
-     "sorteer": "2026-11-14T13:02:00+00:00"
     }
    ]
   },
@@ -808,7 +803,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "21:00",
+    "bijgewerkt": "22:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1376,11 +1371,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Goed pestvogeljaar — op 55 plekken in de afgelopen week, waarvan 16 vandaag",
+     "titel": "Goed pestvogeljaar — op 56 plekken in de afgelopen week, waarvan 17 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 113 vogels; 94 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 116 vogels; 96 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1410,9 +1405,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 0.8,
-    "gevoel": -1.3,
-    "wind": "OZO 2",
+    "nu": -0.7,
+    "gevoel": -2.7,
+    "wind": "O 1",
     "station": "Heino",
     "bericht": "Vanavond is het op de meeste plaatsen helder en koelt het snel af. Morgen gaat het weer veranderen en gaat het vooral later op de dag regenen. Ook trekt de zuidenwind aan.Vanavond is het helder en koelt het snel af, op meerdere plaatsen gaat het al licht vriezen.",
     "vandaag": "Vanavond is het op de meeste plaatsen helder en koelt het snel af. Vanavond is het helder en koelt het snel af, op meerdere plaatsen gaat het al licht vriezen.",
