@@ -3,13 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "09:00",
+  "opgehaald": "10:00",
   "blokken": 11,
   "berichten": 84,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-15T09:00+01:00",
+ "opgehaald": "2026-11-15T10:00+01:00",
  "audio": "audio/20261115.mp3",
  "afval": [
   {
@@ -230,13 +230,13 @@
      "sorteer": "2026-11-15T03:12:34+01:00"
     },
     {
-     "titel": "Twee Houthi-raketten onderschept boven Saoedi-Arabië, inwoners Bahrein gewaarschuwd voor aanvallen",
+     "titel": "Brand op drie olietankers die mijnen raakten in Straat van Hormuz",
      "context": "",
      "rubrieken": [],
      "link": "https://www.volkskrant.nl/buitenland/israel-hamas-iran-gaza-hormuz-trump~b65f9edd/",
      "bron": "de Volkskrant",
-     "tijd": "03:50",
-     "sorteer": "2026-11-15T02:50:00+00:00"
+     "tijd": "09:08",
+     "sorteer": "2026-11-15T08:08:00+00:00"
     },
     {
      "titel": "Veiling schilderij Van Gogh betwist wegens mogelijke dwang bij verkoop in nazitijd",
@@ -248,13 +248,24 @@
      "sorteer": "2026-11-15T01:18:19+00:00"
     },
     {
-     "titel": "Waarom Denemarken deze week wél een omstreden belastingplan wist door te voeren zonder crisis",
+     "titel": "Surinaamse justitieminister neemt ontslag; positie onhoudbaar",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/waarom-denemarken-deze-week-wel-een-omstreden-belastingplan-wist-door-te-voeren-zonder-crisis~b2ca067a/",
+     "link": "https://www.trouw.nl/buitenland/surinaamse-justitieminister-neemt-ontslag-positie-onhoudbaar~bad2b435/",
      "bron": "Trouw",
-     "tijd": "08:34",
-     "sorteer": "2026-11-15T07:34:00+00:00"
+     "tijd": "09:43",
+     "sorteer": "2026-11-15T08:43:51+00:00"
+    },
+    {
+     "titel": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+     "context": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "09:17",
+     "sorteer": "2026-11-15T08:17:41+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
      "titel": "Copper wire upgrade behind US flight suspension, transport secretary says",
@@ -321,17 +332,6 @@
      "bron": "New York Times",
      "tijd": "06:01",
      "sorteer": "2026-11-15T05:01:24+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-     "context": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "04:21",
-     "sorteer": "2026-11-15T03:21:04+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -408,6 +408,15 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Gps boven Schiphol zou opzettelijk zijn verstoord, vliegtuigen hadden geen signaal",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/binnenland/gps-boven-schiphol-zou-opzettelijk-zijn-verstoord-vliegtuigen-hadden-geen-signaal~b63100ed/",
+     "bron": "de Volkskrant",
+     "tijd": "09:02",
+     "sorteer": "2026-11-15T08:02:16+00:00"
+    },
+    {
      "titel": "In ‘blindenstad’ Grave hoort Sinterklaas in rijm wat kinderen met een visuele beperking allemaal wél kunnen",
      "context": "",
      "rubrieken": [],
@@ -415,16 +424,6 @@
      "bron": "de Volkskrant",
      "tijd": "18:09",
      "sorteer": "2026-11-14T17:09:00+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Acteur Gijs Naber is de opvolger van Stefan de Walle in het Sinterklaasjournaal",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/acteur-gijs-naber-is-de-opvolger-van-stefan-de-walle-in-het-sinterklaasjournaal~be2648315/",
-     "bron": "de Volkskrant",
-     "tijd": "12:34",
-     "sorteer": "2026-11-14T11:34:00+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -438,6 +437,13 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Controle leidt politie naar huis van jongen in Apeldoorn, daar ligt meer dan alleen illegaal vuurwerk",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc3FNZVdoblNEZFRBeUdiVU5oTHNFOXY5NlZPcW5EMzNpNFE0TTdQZGZMYkwxUWpPRXNHVnRWZllyU0txLTZwUXhYN1Bxb0ZvNExuRzY5UVN5bEJvc2U4bFQ1QmJKdHBkMWtfd3BscDVKWDFqa0FlX0prLVFQcDFRVFZqVDdqRUpKS2NVbVpYcDlIOXFXRGdXMHR6WXZWV05GUkJVdFJ3cVNRZkxxeW1sQkNGdnhhaEIxOWMxU2ItUGJBNi1FR0tvN1RkVHRna1ktbVZpeU5Zb2Nna3JDd1E?oc=5",
+     "bron": "de Stentor",
+     "tijd": "09:51",
+     "sorteer": "2026-11-15T08:51:34+00:00"
+    },
+    {
      "titel": "Hongarije-expert: ‘Kan premier Magyar zijn eigen macht begrenzen? Dat wordt de grote test’",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15Z3ZEbHNWS1NNLXVhVTBYQ0w4VUVEU3YzamZINjZ6Sm1ycDFIQ25WMFJxcVVBTGx3ZTNuZWN2bGhMMzdkQ1BRX2JkU2F4YlhmZUI5d2lGYTVVaG1LaDVLTzNTOTlDMVJyRkM2THl3bkl1eFZh?oc=5",
      "bron": "Follow the Money",
@@ -445,25 +451,26 @@
      "sorteer": "2026-11-15T05:00:00+00:00"
     },
     {
-     "titel": "Sander van der Werff",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fUjlOX0RnUEJuSldNSWZZcVc1WkJ4VmpnLTVDVGI5YnRVTk1YR3ZPaGxiTlM2OUlaTjVnS1V3WXJsa2x2bWxfNDZMRHNoNXUzU05wc3RZUDdxQQ?oc=5",
+     "titel": "Net binnen",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PWTQ1bVAtSEZmSTUxSHVmRVFWUHdGOVNtdXprZXZQSE8yRmM0a25fVUU0SlRSVXctOHB3aVJOZ0dBTHNWTnJGU0ZJOGM?oc=5",
      "bron": "AD.nl",
-     "tijd": "03:34",
-     "sorteer": "2026-11-15T02:34:22+00:00"
+     "tijd": "09:34",
+     "sorteer": "2026-11-15T08:34:10+00:00"
     },
     {
-     "titel": "Ongeval met letsel op Telefoonstraat in Arnhem",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcW5kOXRKSlBLQV9qdnBiWjlCZkpGay11RDB1QWg4cXJ0UkItZU10Q2JBdVMzR01ROTQwMnR4SHZCWnJHQ0ZCbmJlT1dEdWhoUVBkWVJiZkluY0FCdVFVdEI3OWJKcVY3RER4NzZPMjUyMWpCa3JtUnNlMl8wbnUySHBKVVlTdDNQcjgwUGl5WEkwWjZnV3ZTVHJRZjBSRmJvSVRYcg?oc=5",
+     "titel": "Wisselvallig weer op komst met veel regen, lopers Zevenheuvelenloop houden het droog",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc2hEdHFvSFlsUmNNZDZueGMzbjNYS041RUY4aWZPRVpNa2xnVGlfWmNPMlh6a1JWcjU1aDhTRGtVTWxMVTk0VGNGX2NSalpGZTZsTGM5dlFBM0xWcldMNnRwOGpyZmt5cWtySXdRVHVPN0ZtUm9BMGNzV0w2VkM5SzRrNVZaSVlLUGlWSE54MncwNVpEY3VRUXppdGJYMFRMLXN4TlpNVVh1RWQ3RXZoX3ozODQ0QXotM2N3ZmhpUG5zNE1yWVlNcjUtNWM?oc=5",
      "bron": "De Gelderlander",
-     "tijd": "01:25",
-     "sorteer": "2026-11-15T00:25:13+00:00"
+     "tijd": "09:10",
+     "sorteer": "2026-11-15T08:10:00+00:00"
     },
     {
-     "titel": "Liftmonteur overlijdt nadat winkelmedewerker nietsvermoedend op ’het knopje’ drukt",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbDFQaS1vQ0RybHlpc0JPMXVPWmh4dEZRMnpETVMwY3JOSUEyTUJZV3B3Q1pObUJGYnRaakFjajRGTGc0dldEUjBVdWdmbEVBbDltWDl5Tzl4QTBORTJjS3FEdldDMWhZLW9pUzBBNWg2RkVTLXY4aWYtNXJ1TFlFUFItNFZ3cVhkTC1mRllPWUFOdGpOVVpoeVlFMFFianA2QmtJRWVGcVM0TEM2YkI2bXdwSlRkWjRJaU1ocGM3am53dzNwaEdsWENvaw?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "00:18",
-     "sorteer": "2026-11-14T23:18:38+00:00"
+     "titel": "Waarom Denemarken deze week wél een omstreden belastingplan wist door te voeren zonder crisis",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU1RIbE5EWHVvejR4andYR2pFN3g4TGFWaXN5VXFBQkRTZ0lGcnpWUlctZjFtNTZCMkZLN2JjUV9ubG1xRS1HTFozNTI2a2YwS3E4NkRaYW5TX0pXMy1reVZsaFRPYkVoVjd6eWlsNUh6T25wRUFUOGhfYVo3TE5zYXNvZ0FWb3B0Zm95eTk2NjhuOFNheDBSd2gzVEhfUktmaDY0a1RMVFkwTzZWVGRDSXlSdE03MXNQNXJtamZER0lqWS15VFV1VXZjUFpRczFB?oc=5",
+     "bron": "Trouw",
+     "tijd": "08:34",
+     "sorteer": "2026-11-15T07:34:14+00:00",
+     "kop": "Begroting"
     },
     {
      "titel": "Kabinet akkoord met begroting 2007",
@@ -511,6 +518,15 @@
      "sorteer": "2026-11-15T07:01:49+00:00"
     },
     {
+     "titel": "Honderden stiekeme foto's van vrouwen uit Overijssel gedeeld in WhatsApp-groep",
+     "context": "In een WhatsApp-groep met bijna duizend mannen zijn de afgelopen jaren duizenden beelden van vrouwen gedeeld die stiekem zijn gemaakt. Er zijn ook foto's en video's gemaakt van vrouwen in Overijssel. Bij onder meer een school en een volleybalvereniging zijn vrouwen gefotografeerd of gefilmd.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3719655/honderden-stiekeme-fotos-van-vrouwen-uit-overijssel-gedeeld-in-whatsapp-groep",
+     "bron": "RTV Oost",
+     "tijd": "07:34",
+     "sorteer": "2026-11-15T06:34:02+00:00"
+    },
+    {
      "titel": "Antek Olzanowski voert zijn hele leven strijd tegen discriminatie en onrecht",
      "context": "Met een levensgeschiedenis als de zijne was hij haast voorbestemd voor een maatschappelijk betrokken carrière. Als zoon van een Poolse vader en een Oekraïense moeder, die elkaar in de oorlog onder bizarre omstandigheden hadden ontmoet. Het vormde voor de Hengeloër Antek Olzanowski de opmaat voor een levenlange strijd tegen discriminatie.",
      "rubrieken": [],
@@ -550,14 +566,18 @@
      "sorteer": "2026-11-14T17:30:00+00:00"
     },
     {
-     "titel": "In beeld: Sinterklaasintocht Losser",
-     "context": "Pepernoten, dansende pieten en heel veel glimlachende kinderen. Sinterklaas is weer in het land en dat wordt overal uitgebreid gevierd. Zo ook in Losser, daar was onze fotograaf Dominique om foto's te maken!",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3719550/in-beeld-sinterklaasintocht-losser",
-     "bron": "RTV Oost",
-     "tijd": "18:22",
-     "sorteer": "2026-11-14T17:22:13+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "titel": "Merel: ‘‘Nieuwe kleding nodig? Eerst even om de hoek kijken’’",
+     "context": "DALFSEN – Iets nieuws in je klerenkast, dat voelt lekker hè? In deze Merel lees je hoe je met kleding lenen, tweedehands kopen en zelf repareren verrassend veel nieuws uit je bestaande kledingkast haalt. “Als ik door de tuinen van Dalfsen scharrel’’, vertelt Merel vanaf een struik in een haag, ‘‘zoek ik niet iedere […]",
+     "rubrieken": [
+      "Dalfsen",
+      "Ingezonden bericht",
+      "Laatste nieuws",
+      "Lemelerveld"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/556364/merel-nieuwe-kleding-nodig-eerst-even-om-de-hoek-kijken.html",
+     "bron": "DalfsenNet",
+     "tijd": "09:30",
+     "sorteer": "2026-11-15T08:30:14+00:00"
     },
     {
      "titel": "Handschoenen blijven liggen in de buurtbus",
@@ -572,20 +592,6 @@
      "bron": "DalfsenNet",
      "tijd": "21:54",
      "sorteer": "2026-11-14T20:54:10+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Geweldige wandeling langs “knuffelboom” en schaapskooi",
-     "context": "DALFSEN – STRREBOS – Vandaag zaterdagmorgen vroeg op pad, het had licht gevroren en op de planning een 2 G wandeling, vanaf het station Dalfsen en weer terug. Dus eerst op de fiets vanuit Hoonhorst. Wandelen vanaf het station naar de Millingersteeg en direct na de “Wagenkolk”ook wel “Wiel” genoemd, 2 keer naar rechts door […]",
-     "rubrieken": [
-      "Dalfsen",
-      "Laatste nieuws",
-      "Sterrebos"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/556620/geweldige-wandeling-langs-knuffelboom-en-schaapskooi.html",
-     "bron": "DalfsenNet",
-     "tijd": "21:50",
-     "sorteer": "2026-11-14T20:50:23+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     }
    ]
@@ -797,7 +803,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "09:00",
+    "bijgewerkt": "10:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1094,20 +1100,20 @@
      "sorteer": "2026-11-15T05:45:00+00:00"
     },
     {
-     "titel": "De meervleermuis vraagt om een landschap in samenhang",
-     "toelichting": "De meervleermuis komt in heel ons land voor in waterrijke landschappen. Ruimtelijke activiteiten zoals isoleren van gebouwen, kunnen gevolgen hebben voor zijn leefomgeving. In het nieuwe kennisdocument Meervleermuis van ",
-     "bron": "Nature Today",
-     "tijd": "10:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36054",
-     "sorteer": "2026-11-14T09:00:00+00:00"
-    },
-    {
      "titel": "Laat webshops voor natuurcartoons doneren bij jouw online aankopen",
      "toelichting": "Deze feestdagen geef je niet alleen cadeaus, maar ook natuurverhalen door! Steun Nature Today zonder een cent extra uit te geven. Via Terry.earth wordt een deel van de aankoopprijs door de webshop gedoneerd aan ons doel:",
      "bron": "Nature Today",
      "tijd": "06:00",
      "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36065",
      "sorteer": "2026-11-15T05:00:00+00:00"
+    },
+    {
+     "titel": "Gigabeestjes in de Hortus botanicus Leiden",
+     "toelichting": "In de Leidse Hortus gaat het om planten. Die maken deel uit van een heel web van leven, groot en heel klein. Om jonge kinderen enthousiast te maken voor allerlei kleine kriebelbeestjes plaatste de Hortus grote modellen i",
+     "bron": "Nature Today",
+     "tijd": "07:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36049",
+     "sorteer": "2026-11-15T06:00:00+00:00"
     },
     {
      "titel": "Vriendschappen onder druk: olifanten in Sri Lanka zoeken elkaar steeds minder op",
@@ -1147,6 +1153,14 @@
    "emoji": "🐦",
    "items": [
     {
+     "titel": "Rotszwaluw",
+     "kop": "Zeldzaamheden",
+     "bron": "Zuid-Holland",
+     "tijd": "10:00",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-15T10:00:00+01:00"
+    },
+    {
      "titel": "Dwergaalscholver",
      "kop": "Zeldzaamheden",
      "bron": "Overijssel",
@@ -1161,14 +1175,6 @@
      "tijd": "14:02",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-11-14T14:02:00+01:00"
-    },
-    {
-     "titel": "Rotszwaluw",
-     "kop": "Zeldzaamheden",
-     "bron": "Zuid-Holland",
-     "tijd": "14:01",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-14T14:01:00+01:00"
     },
     {
      "titel": "Kleine Topper",
@@ -1193,14 +1199,6 @@
      "tijd": "10:49",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-11-14T10:49:00+01:00"
-    },
-    {
-     "titel": "Witstuitbarmsijs",
-     "kop": "Zeldzaamheden",
-     "bron": "Drenthe",
-     "tijd": "09:51",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-14T09:51:00+01:00"
     },
     {
      "titel": "Dalfsen (nacht)",
@@ -1313,19 +1311,19 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 0.5,
-    "gevoel": -1.4,
-    "wind": "ZZO 1",
+    "nu": 2.4,
+    "gevoel": 0.0,
+    "wind": "Z 2",
     "station": "Heino",
     "bericht": "Het weerbeeld voor de komende tijd ziet er steeds wisselvalliger uit, waarbij de regenkans steeds groter wordt. De meeste regen valt in de nacht naar dinsdag en dinsdagochtend. Daarbij bestaat in het noordoosten tijdelijk kans op flatsen natte sneeuw.Vanochtend hebben we te maken met veel bewolking en in het zuiden, midden en oosten valt plaatselijk wat regen of motregen.",
     "vandaag": "Vanochtend hebben we te maken met veel bewolking en in het zuiden, midden en oosten valt plaatselijk wat regen of motregen. Vanmiddag is het overwegend bewolkt en valt er aanvankelijk in het noordoosten nog plaatselijk wat lichte regen of motregen.",
     "temperatuur": "In Heino zakte de temperatuur naar -1,9 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: motregen, -0 tot 8 graden, 82% kans op neerslag, weinig zon, wind uit het zuiden, kracht 3.",
+     "zin": "Voor Dalfsen zelf: dichte motregen, -0 tot 8 graden, 82% kans op neerslag, weinig zon, wind uit het zuiden, kracht 3.",
      "max": 8,
      "min": 0,
      "regenkans": 82,
-     "omschrijving": "motregen"
+     "omschrijving": "dichte motregen"
     },
     "vooruit": "Veel bewolking en perioden met regen. Zacht. Maandag en dinsdag aan de kust veel wind. Aan het einde van de week neemt de kans op neerslag af. Zaterdag blijft het waarschijnlijk droog en zijn er perioden met zon.",
     "omslag": null,
