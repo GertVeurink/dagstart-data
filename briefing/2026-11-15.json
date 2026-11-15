@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "21:00",
+  "opgehaald": "22:00",
   "blokken": 11,
-  "berichten": 75,
+  "berichten": 74,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-15T21:00+01:00",
+ "opgehaald": "2026-11-15T22:00+01:00",
  "audio": "audio/20261115.mp3",
  "afval": [
   {
@@ -235,8 +235,31 @@
      "titel": "Commentaar",
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrUlVNOEgzblByeXRNcU9iUHhzb2FJNjRtR2E2eVZNT1RGMGVHQTctZFdfYV9aWTF6Ml9xcEo1MVNEQXBrRkE0MXNZSnZkTzg?oc=5",
      "bron": "NRC",
-     "tijd": "20:54",
-     "sorteer": "2026-11-15T19:54:27+00:00"
+     "tijd": "21:52",
+     "sorteer": "2026-11-15T20:52:44+00:00"
+    },
+    {
+     "titel": "Too Many Chips in One Basket?",
+     "context": "The U.S. economy hitched its wagon to Nvidia and Jensen Huang. Now that he has stepped down, the company faces deep uncertainty.",
+     "rubrieken": [
+      "Computer Chips",
+      "Artificial Intelligence",
+      "Industrial Espionage",
+      "US and Israeli Attack on Iran (2026)",
+      "United States Politics and Government",
+      "Animal Behavior",
+      "NVIDIA Corporation",
+      "Huang, Jen-Hsun",
+      "Bahrain",
+      "Iran",
+      "internal-open-access-from-nl"
+     ],
+     "link": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
+     "bron": "New York Times",
+     "tijd": "21:48",
+     "sorteer": "2026-11-15T20:48:30+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
      "titel": "Security Sunday: Der lange Weg zum Frieden in der Ukraine – mit Claudia Major",
@@ -263,6 +286,26 @@
      "kop": "Buitenlandse media"
     },
     {
+     "titel": "‘Pull back the curtain’ on treatment of sexual assault victims in court, says UK government adviser",
+     "context": "Professor calls on ministers to use awareness triggered by Russell Brand conviction to examine use of rape myths in trials The debate triggered by high profile cases must “pull back the curtain” on the treatment of people making allegations of sexual offences in the criminal justice system in England and Wales, the government’s independent adviser on rape has told the Guardian. Prof Katrin Hohl, w",
+     "rubrieken": [
+      "Law",
+      "Violence against women and girls",
+      "Society",
+      "Russell Brand",
+      "England",
+      "Wales",
+      "UK news",
+      "Women"
+     ],
+     "link": "https://www.theguardian.com/law/2026/nov/15/examine-courts-treatment-sexual-assault-victims-says-government-adviser",
+     "bron": "The Guardian",
+     "tijd": "20:40",
+     "sorteer": "2026-11-15T19:40:23+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
      "titel": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
      "context": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
      "rubrieken": [],
@@ -274,57 +317,13 @@
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Texas puts to death man who beheaded three children, hours after Oklahoma execution",
-     "context": "Oklahoma man, 73, executed for killing ex’s estranged husband, as US nears 40 executions for second straight year A Texas man convicted of fatally stabbing and beheading his three young children in a squalid, windowless apartment in 2003 was recently executed. John Allen Rubio, 46, was pronounced dead at 6.47 pm on Thursday after a lethal injection at the state prison in Huntsville, Texas. His kil",
-     "rubrieken": [
-      "Capital punishment",
-      "US crime",
-      "Texas",
-      "Oklahoma",
-      "US news"
-     ],
-     "link": "https://www.theguardian.com/us-news/2026/nov/15/texas-execution-john-allen-rubio-oklahoma-james-pavatt",
-     "bron": "The Guardian",
-     "tijd": "20:27",
-     "sorteer": "2026-11-15T19:27:24+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
-     "context": "Israeli officials were convinced that Tehran was to blame for the airman’s disappearance. Alternative theories got little attention, until now.",
-     "rubrieken": [
-      "Defense and Military Forces",
-      "War and Armed Conflicts",
-      "Espionage and Intelligence Services",
-      "Kidnapping and Hostages",
-      "Prisoners of War",
-      "International Relations",
-      "Arad, Ron (1958- )",
-      "Mossad",
-      "Hezbollah",
-      "Shin Bet",
-      "Quds Force",
-      "Israel",
-      "Iran",
-      "Lebanon",
-      "Nabi Chit (Lebanon)"
-     ],
-     "link": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
-     "bron": "New York Times",
-     "tijd": "19:47",
-     "sorteer": "2026-11-15T18:47:49+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Czechs rally against plan to switch funding of public media",
-     "context": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+     "titel": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+     "context": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
      "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+     "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "18:23",
-     "sorteer": "2026-11-15T17:23:40+00:00",
+     "tijd": "20:20",
+     "sorteer": "2026-11-15T19:20:53+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -413,18 +412,11 @@
      "sorteer": "2026-11-15T18:45:00+00:00"
     },
     {
-     "titel": "Reanimatie op Nieuwe Plein in Arnhem",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaGtzR09GNnNLZnpxSmFoLTdxZ2hCSVBnTmdRUGdxcUNjMTJFOFJrNTVlck5ZUzFsOWJWbnFwZTNDeEszazVSRmJ1VTU0R2ttc0ZreFlwX0tjUF81QWdSZThub2tiTURvTnl0Tm1yaVVOWEhubTQyNGRXdXJTbUVzZ0c3VkVwTTFibmd0VzNsNDB0UElGSVZR?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "19:03",
-     "sorteer": "2026-11-15T18:03:12+00:00"
-    },
-    {
-     "titel": "Man (32) loopt weg uit ziekenhuis in Eindhoven, mogelijk nog met infuusnaald in arm",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbGdtVjZwTWdLaU5neEx1ekZxd25GZjNlTjViWW42ZDhWS3MxMHRqNXFCazRwbW15N3NyRWxIeklILXpfRHA5dTdQMzcwMTdsUmpxeFF1OFRwdUt1VmM0ZmgtTzF4U0VES0tPbEFEdGhINFh4QnV4eDR4SjlJZEotTm4zMndpdC1Ed2dXWmFoU1JHdUEzSzFTNVpueHNESkFlcTdmN0Qxa1RUSnFVOWVVcnJ2YWoxcFZBTU5MOFRKRjVtNTU1MjhMMUhYTQ?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "19:01",
-     "sorteer": "2026-11-15T18:01:06+00:00"
+     "titel": "Coalitie is er nog niet uit, praat maandag verder op Catshuis",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVnRDbm9jUHRDRGFKTVJyUWNxZy1aczdoVUh1dU5HOGhNU1lQYS1pam5FTDJsWk1QV1ZFdG9LU0pyUS1yejB1eGx0SVRGVEdrWUxwSHk1Y3NUSVBDc3NzbEZvSFpzREhheGlWc1lsM2VvNVRNRzd4ZGFlRHhQbHp3MGpnMU42R0VtZUhkQXBFUHpIYXZxQTRCRjBfdE42UV9HU0tVTUM3bw?oc=5",
+     "bron": "Leeuwarder Courant",
+     "tijd": "21:32",
+     "sorteer": "2026-11-15T20:32:52+00:00"
     },
     {
      "titel": "Ook VVD zocht steun bij Denk rond het Belastingplan",
@@ -452,24 +444,6 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Foto's: Sinterklaasintocht Overdinkel",
-     "context": "Bijna ieder dorp of stad heeft wel een eigen Sinterklaasintocht. Zo ook Overdinkel! Kijk hieronder de foto's terug van fotograaf Dominique.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3719733/fotos-sinterklaasintocht-overdinkel",
-     "bron": "RTV Oost",
-     "tijd": "20:09",
-     "sorteer": "2026-11-15T19:09:57+00:00"
-    },
-    {
-     "titel": "Deventenaar Johan (69) rijdt met auto vol hulpgoederen naar oorlogsgebied Oekraïne",
-     "context": "De auto is volgeladen en de route is bekend. Morgen rijdt Johan Wilms uit Deventer richting Oekraïne. Hij brengt een oude Peugeot 306 naar de hoofdstad Kiev, met daarin onder meer acht powerstations. Het is zijn eerste hulptransport naar het land dat al jaren in oorlog is. \"Die spullen zijn enorm nodig.\"",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3719704/deventenaar-johan-69-rijdt-met-auto-vol-hulpgoederen-naar-oorlogsgebied-oekraine",
-     "bron": "RTV Oost",
-     "tijd": "20:00",
-     "sorteer": "2026-11-15T19:00:06+00:00"
-    },
-    {
      "titel": "Karen helpt honden van vuurwerkangst af: 'Niet wachten tot oud en nieuw'",
      "context": "Het is nog 46 dagen tot oud & nieuw, maar de eerste vuurwerkknallen klinken alweer. Bij hondenschool Happy Tails in Beerzerveld worden honden en hun baasjes daarom nu al voorbereid op de jaarwisseling. Tijdens speciale vuurwerktrainingen leren de dieren harde geluiden te koppelen aan iets positiefs.",
      "rubrieken": [
@@ -481,15 +455,6 @@
      "sorteer": "2026-11-15T17:52:12+00:00"
     },
     {
-     "titel": "Inbreker in Borne laat zelfs het wc-papier niet liggen",
-     "context": "Een e-bike en een kettingslot. Tot zover een verklaarbare combinatie van gestolen spullen. Maar de inbreker die toeslaat in een appartementencomplex vlak bij het station van Borne neemt ook nog wc-papier mee. En dat maakt dit een niet-alledaagse kraak.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3715813/inbreker-in-borne-laat-zelfs-het-wc-papier-niet-liggen",
-     "bron": "RTV Oost",
-     "tijd": "18:02",
-     "sorteer": "2026-11-15T17:02:01+00:00"
-    },
-    {
      "titel": "In beeld: Survivalrun Vollenhove",
      "context": "Met 1300 deelnemers was de Survivalrun Vollenhove gisteren een drukbezocht evenement. De organisatie kijkt terug op een geslaagde 25e editie. Onze huisfotograaf Peter de Haan was erbij.",
      "rubrieken": [],
@@ -499,39 +464,66 @@
      "sorteer": "2026-11-15T15:08:24+00:00"
     },
     {
-     "titel": "Vogelgriep dichtbij Overijssel: 60.000 kippen worden geruimd",
-     "context": "Op een leghennenbedrijf in het Gelderse Oosterwolde is vogelgriep vastgesteld. Dat is zo'n drie kilometer van de grens met Overijssel.",
+     "titel": "Vrouw aangehouden na brand in Denekamp, geen gewapend persoon gevonden",
+     "context": "De politie heeft vannacht een vrouw aangehouden na een brand in haar woning aan de Veldkampsweg in Denekamp. Een speciaal politieteam werd ingeschakeld nadat de bewoonster had gezegd dat er iemand met een vuurwapen in het huis was.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3719683/vogelgriep-dichtbij-overijssel-60000-kippen-worden-geruimd",
+     "link": "https://www.oost.nl/nieuws/3719667/vrouw-aangehouden-na-brand-in-denekamp-geen-gewapend-persoon-gevonden",
      "bron": "RTV Oost",
-     "tijd": "13:35",
-     "sorteer": "2026-11-15T12:35:42+00:00"
+     "tijd": "11:28",
+     "sorteer": "2026-11-15T10:28:22+00:00"
     },
     {
-     "titel": "Marco de 1e nieuwe Prins van de Piepenplassers",
-     "context": "VILSTEREN – Prins Marco de 1e uut Hessum zwaait de scepter over de Piepenplas in 2027. De speculaties in de katholieke enclave kunnen eindelijk stoppen: Prins Marco de 1e uut Hessum is op zaterdagavond 14 november gepresenteerd als de nieuwe Prins van de Piepenplassers uit Vilsteren. Samen met de kersverse Jeugdprinses Féésteline voert de prins, […]",
-     "rubrieken": [
-      "Ingezonden bericht",
-      "Laatste nieuws",
-      "Vilsteren"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/556679/marco-de-1e-nieuwe-prins-van-de-piepenplassers.html",
-     "bron": "DalfsenNet",
-     "tijd": "18:32",
-     "sorteer": "2026-11-15T17:32:04+00:00"
+     "titel": "Boxemtunnel tussen Zwolle en Hasselt komende week dicht voor onderhoud",
+     "context": "De Boxemtunnel in de N331 tussen Zwolle en Hasselt gaat vanaf maandag 16 november een week dicht voor groot onderhoud. Verkeer moet omrijden en ook vier buslijnen volgen een andere route.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3715061/boxemtunnel-tussen-zwolle-en-hasselt-komende-week-dicht-voor-onderhoud",
+     "bron": "RTV Oost",
+     "tijd": "10:29",
+     "sorteer": "2026-11-15T09:29:33+00:00"
     },
     {
-     "titel": "Akousate steunt kersverse Dalfser stichting",
-     "context": "DALFSEN – De leden van gospelkoor Akousate hebben met veel enthousiasme hun jaarlijkse verkoopactie weten om te zetten in een mooie gift voor Stichting Buren Dichtbij. Vrijdag 13 november werd de cheque uitgereikt aan een blij verraste Rita Oegema. Dropverkoper van het eerste uur, Simone van der Ploeg, vertegenwoordigt alle dropverkopers van Akousate. Rita […]",
+     "titel": "Antek Olszanowski voert zijn hele leven strijd tegen discriminatie en onrecht",
+     "context": "Met een levensgeschiedenis als de zijne was hij haast voorbestemd voor een maatschappelijk betrokken carrière. Als zoon van een Poolse vader en een Oekraïense moeder, die elkaar in de oorlog onder bizarre omstandigheden hadden ontmoet. Het vormde voor de Hengeloër Antek Olszanowski de opmaat voor een levenlange strijd tegen discriminatie.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3718153/antek-olszanowski-voert-zijn-hele-leven-strijd-tegen-discriminatie-en-onrecht",
+     "bron": "RTV Oost",
+     "tijd": "05:56",
+     "sorteer": "2026-11-15T04:56:00+00:00"
+    },
+    {
+     "titel": "Max Verstappen wordt het nieuwe gezicht van Zwolse VDK Groep",
+     "context": "De in Zwolle gevestigde VDK Groep gaat een samenwerking aan met viervoudig Formule 1-wereldkampioen Max Verstappen. De Nederlandse coureur wordt het nieuwe boegbeeld van de groep installatiebedrijven. Met Verstappen aan boord wil het bedrijf ook buiten Nederland bekender worden.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3719566/max-verstappen-wordt-het-nieuwe-gezicht-van-zwolse-vdk-groep",
+     "bron": "RTV Oost",
+     "tijd": "22:21",
+     "sorteer": "2026-11-14T21:21:16+00:00"
+    },
+    {
+     "titel": "Voedselbank Dalfsen–Nieuwleusen enorm te spreken",
+     "context": "DALFSEN – Voedselbank Dalfsen–Nieuwleusen enorm te spreken over inzamelingsactie bij Jumbo. De inzamelingsactie voor de Voedselbank bij Jumbo heeft afgelopen vrijdag en zaterdag maar liefst 74 kratten vol boodschappen opgeleverd. Veel dank aan de vrijwilligers die zich deze dagen hebben ingezet. En natuurlijk aan alle bezoekers van Jumbo die producten hebben gedoneerd! Het is prachtig […]",
      "rubrieken": [
       "Dalfsen",
       "Ingezonden bericht",
       "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/556677/akousate-steunt-kersverse-dalfser-stichting.html",
+     "link": "https://www.dalfsennet.nl/nieuws/556692/voedselbank-dalfsen-nieuwleusen-enorm-te-spreken.html",
      "bron": "DalfsenNet",
-     "tijd": "18:16",
-     "sorteer": "2026-11-15T17:16:59+00:00"
+     "tijd": "21:59",
+     "sorteer": "2026-11-15T20:59:00+00:00"
+    },
+    {
+     "titel": "Polyhymnia geselecteerd voor WK",
+     "context": "LEMELERVELD – Van Lemelerveld naar het WK: Pomteam Polyhymnia geselecteerd voor wereldkampioenschap in Italië. Wat begon als een mooie uitdaging, eindigde in ongeloof, blijdschap en groot feest. Het Pomteam van Muziekvereniging Polyhymnia uit Lemelerveld is zondag 15 november tijdens een selectiewedstrijd in Almere geselecteerd voor het WFNBTMA WK in Italië. Een bijzondere mijlpaal, want het […]",
+     "rubrieken": [
+      "Ingezonden bericht",
+      "Laatste nieuws",
+      "Lemelerveld"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/556687/polyhymnia-geselecteerd-voor-wk.html",
+     "bron": "DalfsenNet",
+     "tijd": "21:49",
+     "sorteer": "2026-11-15T20:49:03+00:00"
     }
    ]
   },
@@ -693,7 +685,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "21:00",
+    "bijgewerkt": "22:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1194,16 +1186,16 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 8.5,
-    "gevoel": 7.1,
-    "wind": "ZZO 2",
+    "nu": 9.2,
+    "gevoel": 7.5,
+    "wind": "Z 2",
     "station": "Heino",
     "bericht": "Het is bewolkt en er valt van tijd tot tijd wat regen. Het is vannacht een graad of 8. Er staat een natte herfstweek op het programma met weinig ruimte voor de zon.",
     "vandaag": "Het is vannacht een graad of 8. Vanavond trekt een regengebied over het land naar het noordoosten.",
     "temperatuur": "Het koelt vanavond af naar 8 graden in het noorden en 10 graden in het zuiden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: motregen, -0 tot 9 graden, 82% kans op neerslag, weinig zon, wind uit het zuiden, kracht 3.",
-     "max": 9,
+     "zin": "Voor Dalfsen zelf: motregen, -0 tot 8 graden, 82% kans op neerslag, weinig zon, wind uit het zuiden, kracht 3.",
+     "max": 8,
      "min": 0,
      "regenkans": 82,
      "omschrijving": "motregen"
