@@ -3,14 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "05:55",
+  "opgehaald": "07:00",
   "blokken": 11,
-  "berichten": 88,
+  "berichten": 89,
   "problemen": [],
-  "audio_herkomst": "model",
-  "audio_aangehaakt": "06:50"
+  "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-15T05:55+01:00",
+ "opgehaald": "2026-11-15T07:00+01:00",
  "audio": "audio/20261115.mp3",
  "afval": [
   {
@@ -127,6 +126,14 @@
    "geschreven": "06:06"
   }
  ],
+ "denkwerk": {
+  "tekst": "Stel je mensen voor die in een onderaardse grot wonen, die open is naar het licht. Ze zitten daar al van kinds af aan, geketend aan hals en benen, en kunnen alleen de grot in kijken.",
+  "wie": "Plato (met Socrates)",
+  "werk": "De staat",
+  "jaar": "ca. 375 v.Chr.",
+  "parafrase": false,
+  "link": "https://gertveurink.github.io/denkwerk/#/"
+ },
  "verder": [
   {
    "kop": "Trein doodt man in Eindhoven",
@@ -178,6 +185,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Wekdienst 15/11: Crisisgesprekken kabinet gaan verder • Wereldbeker schaatsen Peking",
+     "context": "Goedemorgen! D66, VVD en CDA houden ook vandaag crisisoverleg over de toekomst van het kabinet. Het onderlinge vertrouwen is de afgelopen dagen flink beschadigd . En er wordt geschaatst in Peking, de eerste wereldbeker van het seizoen. Eerst het weer: De dag begint koud, in het binnenland kan het enkele graden vriezen. In het noordoosten is het mistig. Verder is het vandaag bewolkt met in de midda",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639533",
+     "bron": "NOS",
+     "tijd": "06:23",
+     "sorteer": "2026-11-15T06:23:22+01:00"
+    },
+    {
      "titel": "Veiling Van Gogh-schilderij op losse schroeven, werk mogelijk onder druk nazi's verkocht",
      "context": "Een geplande veiling van een Van Gogh-schilderij in New York staat onder druk. Nazaten van een voormalige Joodse eigenaar van het beroemde schilderij Châtaigniers en fleurs beweren dat het werk destijds onder druk van de nazi's is verkocht. De nazaten eisen dat het doek uit de veiling wordt gehaald. Het veilinghuis zegt in gesprek te zijn met de familie. Het olieverfschilderij, in Nederland bekend",
      "rubrieken": [],
@@ -214,15 +230,6 @@
      "sorteer": "2026-11-15T01:31:08+01:00"
     },
     {
-     "titel": "Ruimteraket wordt weer opgevangen na 14 rondjes om de aarde, en dat is voor het eerst",
-     "context": "Het bovenste deel van een SpaceX-raket is op een spectaculaire wijze teruggekeerd en opgevangen op aarde na een vlucht door de ruimte. Het projectiel werd opgevangen door gigantische mechanische armen aan een lanceerplatform in Texas. Het is voor het eerst dat zoiets gebeurt. Vrijdagmiddag lokale tijd werd vanuit de lanceerbasis Starbase een nieuwe poging gedaan om de zogenoemde Starship-raket te ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639526",
-     "bron": "NOS",
-     "tijd": "00:54",
-     "sorteer": "2026-11-15T00:54:09+01:00"
-    },
-    {
      "titel": "Twee Houthi-raketten onderschept boven Saoedi-Arabië, inwoners Bahrein gewaarschuwd voor aanvallen",
      "context": "",
      "rubrieken": [],
@@ -251,23 +258,30 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "A Mexican Artist Sang Some of His Hits. Authorities Stopped the Show, Then Arrested Him.",
-     "context": "A concert by the singer Gabito Ballesteros was suspended after he sang songs that supposedly glorify cartel culture. The action has renewed a debate over culture and free speech.",
+     "titel": "Is Italy the Model for Europe’s Future?",
+     "context": "Over more than a quarter-century, I’ve watched Europe’s politics become more like Italy’s, with all the resulting instability, as the far right came in from the cold.",
      "rubrieken": [
-      "Gabito Ballesteros",
-      "Freedom of Speech and Expression",
-      "Drug Cartels",
-      "Music",
-      "Organized Crime",
-      "Law and Legislation",
-      "Mexico",
-      "Queretaro (Mexico)",
-      "Violence (Media and Entertainment)"
+      "Politics and Government",
+      "International Relations",
+      "Holocaust and the Nazi Era",
+      "Authoritarianism (Theory and Philosophy)",
+      "Nationalism (Theory and Philosophy)",
+      "Fringe Groups and Movements",
+      "Right-Wing Extremism and Alt-Right",
+      "European Union",
+      "Vox (Spanish Political Party)",
+      "Abascal, Santiago",
+      "Berlusconi, Silvio",
+      "Meloni, Giorgia (1977- )",
+      "Le Pen, Marine",
+      "Mussolini, Benito",
+      "Trump, Donald J",
+      "Sanchez Perez-Castejon, Pedro (1972- )"
      ],
-     "link": "https://www.nytimes.com/2026/11/14/world/americas/mexico-gabito-ballesteros-arrested-narocorridos.html",
+     "link": "https://www.nytimes.com/2026/11/15/world/europe/italy-italianization-europe-horowitz.html",
      "bron": "New York Times",
-     "tijd": "05:18",
-     "sorteer": "2026-11-15T04:18:05+00:00",
+     "tijd": "06:01",
+     "sorteer": "2026-11-15T05:01:24+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -310,6 +324,32 @@
      "kop": "Buitenlandse media"
     },
     {
+     "titel": "Ukraine claims thousands of Russian casualties and a slowing Kremlin advance",
+     "context": "Ukraine is countering Russia's narrative of battlefield success by blunting the Kremlin's attacks.",
+     "rubrieken": [
+      "Borders",
+      "Communications",
+      "Defense",
+      "Drones",
+      "Intelligence",
+      "Military",
+      "Missions",
+      "Negotiations",
+      "Services",
+      "Space",
+      "Technology",
+      "War",
+      "War in Ukraine",
+      "Defense"
+     ],
+     "link": "https://www.politico.eu/article/russian-army-is-slowing-down-as-ukrainian-forces-kill-thousands-of-kremlin-troops/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "04:00",
+     "sorteer": "2026-11-15T03:00:00+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
      "titel": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
      "context": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
      "rubrieken": [],
@@ -319,26 +359,6 @@
      "sorteer": "2026-11-15T02:49:45+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "EU reiterates ‘grave concern’ over Gaza humanitarian crisis as winter approaches",
-     "context": "The bloc's foreign policy chief Kaja Kallas has called on Israel to allow more humanitarian aid into Gaza as weather worsens living conditions.",
-     "rubrieken": [
-      "Crisis",
-      "Foreign policy",
-      "Genocide",
-      "Military",
-      "War",
-      "Weapons",
-      "Politics"
-     ],
-     "link": "https://www.politico.eu/article/eu-reiterates-grave-concern-over-gaza-humanitarian-crisis-as-winter-approaches/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "17:28",
-     "sorteer": "2026-11-14T16:28:36+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media",
-     "vervolg": "stond gisteren ook in de briefing"
     }
    ]
   },
@@ -387,16 +407,6 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Duizenden lopen mee met mars tegen abortus in Den Haag, ook tegendemonstratie",
-     "context": "In Den Haag vond vandaag de jaarlijkse Mars voor het Leven plaats. Duizenden deelnemers liepen mee in een stille mars tegen abortus. Er werd ook een tegendemonstratie gehouden waarbij veel geluid werd gemaakt. De mars begon op het Malieveld waar meerdere mensen op het podium het publiek toespraken. Onder anderen Chris Stoffer van de SGP hield een toespraak. Ook Mirjam Bikker van de ChristenUnie wa",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639493",
-     "bron": "NOS",
-     "tijd": "16:42",
-     "sorteer": "2026-11-14T16:42:48+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
      "titel": "In ‘blindenstad’ Grave hoort Sinterklaas in rijm wat kinderen met een visuele beperking allemaal wél kunnen",
      "context": "",
      "rubrieken": [],
@@ -427,18 +437,18 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Hongarije-expert: ‘Kan premier Magyar zijn eigen macht begrenzen? Dat wordt de grote test’",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15Z3ZEbHNWS1NNLXVhVTBYQ0w4VUVEU3YzamZINjZ6Sm1ycDFIQ25WMFJxcVVBTGx3ZTNuZWN2bGhMMzdkQ1BRX2JkU2F4YlhmZUI5d2lGYTVVaG1LaDVLTzNTOTlDMVJyRkM2THl3bkl1eFZh?oc=5",
+     "bron": "Follow the Money",
+     "tijd": "06:00",
+     "sorteer": "2026-11-15T05:00:00+00:00"
+    },
+    {
      "titel": "Sander van der Werff",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fUjlOX0RnUEJuSldNSWZZcVc1WkJ4VmpnLTVDVGI5YnRVTk1YR3ZPaGxiTlM2OUlaTjVnS1V3WXJsa2x2bWxfNDZMRHNoNXUzU05wc3RZUDdxQQ?oc=5",
      "bron": "AD.nl",
      "tijd": "03:34",
      "sorteer": "2026-11-15T02:34:22+00:00"
-    },
-    {
-     "titel": "Ongeval met letsel op Telefoonstraat in Arnhem",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcW5kOXRKSlBLQV9qdnBiWjlCZkpGay11RDB1QWg4cXJ0UkItZU10Q2JBdVMzR01ROTQwMnR4SHZCWnJHQ0ZCbmJlT1dEdWhoUVBkWVJiZkluY0FCdVFVdEI3OWJKcVY3RER4NzZPMjUyMWpCa3JtUnNlMl8wbnUySHBKVVlTdDNQcjgwUGl5WEkwWjZnV3ZTVHJRZjBSRmJvSVRYcg?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "01:25",
-     "sorteer": "2026-11-15T00:25:13+00:00"
     },
     {
      "titel": "Liftmonteur overlijdt nadat winkelmedewerker nietsvermoedend op ’het knopje’ drukt",
@@ -449,10 +459,18 @@
     },
     {
      "titel": "Net binnen",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PWTQ1bVAtSEZmSTUxSHVmRVFWUHdGOVNtdXprZXZQSE8yRmM0a25fVUU0SlRSVXctOHB3aVJOZ0dBTHNWTnJGU0ZJOGM?oc=5",
-     "bron": "AD.nl",
-     "tijd": "05:35",
-     "sorteer": "2026-11-15T04:35:16+00:00"
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TYVFCcm9raTlGRzkzLVlqNDBmQUU3SmN4UzhBQlhqdUxBVmpxZW55SklYazZYU1UySG11S0RSWHp5NTd5QVVBY1hTRXN2ZkJKUTZWM0cxNmROUQ?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "06:57",
+     "sorteer": "2026-11-15T05:57:24+00:00"
+    },
+    {
+     "titel": "Kabinet akkoord met begroting 2007",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsVVhNVjZZYWJ4UldtODBiTHpzOURhRDBRSmxRX1h3WUNvN2JnQTBlTE5kMzg5alFmVWlJYXZEWWZCYjJ6dEFZRFFIRlhsdU9jYmQwYVhSUV9ObGxnVnFkclR0WWxfYWZKd1pRNA?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "01:22",
+     "sorteer": "2026-11-15T00:22:51+00:00",
+     "kop": "Begroting"
     },
     {
      "titel": "Nieuwsuur: Is er toekomst voor kabinet-Jetten? • Oorlogsverleden Claus ligt toch net anders • Kritiek op thuiswerken",
@@ -635,6 +653,14 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Waarom de toekomst van het Fries afhangt van AI",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV0dWbkt1aEpJS0xKMURiU1pHS0NaSmhJODNaVDMweWw0VDRSTXk4aUdlcU9famJxY1NQNlQxdWN3UUl5UlVtRUZGWF84MGY3QkpUNnY5NGJvaGItY05jeXB0UW56U28xSmd5bW1FSEpoUjhZbWwwR0c5Vy0yMk1WYnR1RURPOEE0NjZETXhNTVJrNEppc2hWb3ZIYjE?oc=5",
+     "bron": "Leeuwarder Courant",
+     "tijd": "03:42",
+     "sorteer": "2026-11-15T02:42:45+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
      "titel": "OpenAI geeft mensen een ChatGPT Wallet, maar die is voor hun AI-agent",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa0tPOElkcldsQzZsWWFRVUo0dkd0Q1VILXlCb2ZkaTVVSzA1RExZSVdrRGVFN1dXb01jeU9MaWlDUjFvcG50WkctQllzbllqZUh4TTFvWUVUQm1jQmdOM00yR2VodzBGalk0a2J2Zk1HNVhUMmc0NU53MTV5ZlMyOTdjaklIVGVLb3RQajFQUFpieGx6QU1HN2xEVTBsUnlJSDQxNGJDY3FBc09zYUNr?oc=5",
      "bron": "Bright",
@@ -777,7 +803,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "05:55",
+    "bijgewerkt": "07:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1059,27 +1085,19 @@
    "items": [
     {
      "titel": "Vandaag in de natuur",
-     "toelichting": "Sinds de jaren tachtig komen er, naast de gewone zeehond, ook grijze zeehonden voor in ons land. Ze zijn toentertijd vanuit Engeland hiernaartoe gezwommen.",
+     "toelichting": "Bosuilen laten weer veelvuldig van zich horen: het is tijd om een partner aan te trekken en om bestaande partnerschappen te versterken voor het komende broedseizoen.",
      "bron": "Nature Today",
      "tijd": "",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36038",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36036",
      "sein": true
     },
     {
-     "titel": "Natuurjournaal 14 november 2026",
-     "toelichting": "Tijd voor pups bij grijze zeehond en let eens op slaaptrek bij vogels, zoals de kokmeeuw.",
+     "titel": "Natuurjournaal 15 november 2026",
+     "toelichting": "De roep van de bosuil schalt weer, gaai heeft verzameldrift.",
      "bron": "Nature Today",
      "tijd": "06:45",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36038",
-     "sorteer": "2026-11-14T05:45:00+00:00"
-    },
-    {
-     "titel": "Bermen als belangrijke verbinding voor natuur",
-     "toelichting": "In Zuid-Limburg liggen de natuurgebieden verspreid over het landschap, vaak compleet van elkaar afgezonderd. Hierdoor zitten planten en dieren gevangen in zo’n gebied. Door bermen die deze natuur aan elkaar verbinden een",
-     "bron": "Nature Today",
-     "tijd": "07:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36030",
-     "sorteer": "2026-11-14T06:00:00+00:00"
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36036",
+     "sorteer": "2026-11-15T05:45:00+00:00"
     },
     {
      "titel": "De meervleermuis vraagt om een landschap in samenhang",
@@ -1088,6 +1106,14 @@
      "tijd": "10:00",
      "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36054",
      "sorteer": "2026-11-14T09:00:00+00:00"
+    },
+    {
+     "titel": "Laat webshops voor natuurcartoons doneren bij jouw online aankopen",
+     "toelichting": "Deze feestdagen geef je niet alleen cadeaus, maar ook natuurverhalen door! Steun Nature Today zonder een cent extra uit te geven. Via Terry.earth wordt een deel van de aankoopprijs door de webshop gedoneerd aan ons doel:",
+     "bron": "Nature Today",
+     "tijd": "06:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36065",
+     "sorteer": "2026-11-15T05:00:00+00:00"
     },
     {
      "titel": "Vriendschappen onder druk: olifanten in Sri Lanka zoeken elkaar steeds minder op",
@@ -1325,19 +1351,19 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 0.3,
-    "gevoel": -2.5,
+    "nu": 0.1,
+    "gevoel": -2.1,
     "wind": "ZO 2",
     "station": "Heino",
     "bericht": "Het weerbeeld voor de komende tijd ziet er steeds wisselvalliger uit, waarbij de regenkans steeds groter wordt. De meeste regen valt in de nacht naar dinsdag en dinsdagochtend. Daarbij bestaat in het noordoosten tijdelijk kans op flatsen natte sneeuw.Vanochtend hebben we te maken met veel bewolking en in het zuiden, midden en oosten valt plaatselijk wat regen of motregen.",
     "vandaag": "Vanochtend hebben we te maken met veel bewolking en in het zuiden, midden en oosten valt plaatselijk wat regen of motregen. Vanmiddag is het overwegend bewolkt en valt er aanvankelijk in het noordoosten nog plaatselijk wat lichte regen of motregen.",
     "temperatuur": "In Heino zakte de temperatuur naar -1,9 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: lichte regen, 0 tot 8 graden, 82% kans op neerslag, ruim 2 uur zon, wind uit het zuiden, kracht 4.",
+     "zin": "Voor Dalfsen zelf: motregen, -0 tot 8 graden, 82% kans op neerslag, weinig zon, wind uit het zuiden, kracht 3.",
      "max": 8,
      "min": 0,
      "regenkans": 82,
-     "omschrijving": "lichte regen"
+     "omschrijving": "motregen"
     },
     "vooruit": "Veel bewolking en perioden met regen. Zacht. Maandag en dinsdag aan de kust veel wind. Aan het einde van de week neemt de kans op neerslag af. Zaterdag blijft het waarschijnlijk droog en zijn er perioden met zon.",
     "omslag": null,
@@ -1354,15 +1380,5 @@
     }
    }
   }
- ],
- "archief": [
-  "2026-11-15",
-  "2026-11-14",
-  "2026-11-13",
-  "2026-11-12",
-  "2026-11-11",
-  "2026-11-10",
-  "2026-11-09",
-  "2026-11-08"
  ]
 }
