@@ -3,13 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "08:00",
+  "opgehaald": "09:00",
   "blokken": 11,
-  "berichten": 88,
+  "berichten": 84,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-15T08:00+01:00",
+ "opgehaald": "2026-11-15T09:00+01:00",
  "audio": "audio/20261115.mp3",
  "afval": [
   {
@@ -248,14 +248,24 @@
      "sorteer": "2026-11-15T01:18:19+00:00"
     },
     {
-     "titel": "Franse regering maakt melding van meer dan 100.000 betogers",
+     "titel": "Waarom Denemarken deze week wél een omstreden belastingplan wist door te voeren zonder crisis",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/franse-regering-maakt-melding-van-meer-dan-100-000-betogers~b9abc2d6/",
+     "link": "https://www.trouw.nl/buitenland/waarom-denemarken-deze-week-wel-een-omstreden-belastingplan-wist-door-te-voeren-zonder-crisis~b2ca067a/",
      "bron": "Trouw",
-     "tijd": "22:44",
-     "sorteer": "2026-11-14T21:44:00+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "tijd": "08:34",
+     "sorteer": "2026-11-15T07:34:00+00:00"
+    },
+    {
+     "titel": "Copper wire upgrade behind US flight suspension, transport secretary says",
+     "context": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "08:10",
+     "sorteer": "2026-11-15T07:10:31+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
      "titel": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
@@ -350,17 +360,6 @@
      "sorteer": "2026-11-15T03:00:00+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-     "context": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "03:49",
-     "sorteer": "2026-11-15T02:49:45+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
     }
    ]
   },
@@ -370,8 +369,8 @@
    "emoji": "🇳🇱",
    "items": [
     {
-     "titel": "Dode en zwaargewonde door aanrijding trein op station Strijp-S in Eindhoven",
-     "context": "Bij een ongeluk op het treinstation van Strijp-S, in een wijk in Eindhoven, is een man om het leven gekomen. Dat meldt de politie op X . De man werd aangereden door een trein. Een andere man raakte zwaargewond. Het ongeluk gebeurde rond 00.30 uur. De politie kan nog niets zeggen over de oorzaak van het ongeluk, maar gaat niet uit van zelfdoding. De politie verwacht dat het gaat om een noodlottig o",
+     "titel": "Dode en zwaargewonde bij aanrijding met trein op station Strijp-S in Eindhoven",
+     "context": "Bij een aanrijding met een trein op het treinstation Strijp-S in Eindhoven is een man om het leven gekomen. Dat meldt de politie. Een andere man die werd aangereden door de trein raakte zwaargewond. Het ongeluk gebeurde rond 00.30 uur. De politie kan nog niets zeggen over de toedracht van het ongeluk, maar gaat niet uit van zelfdoding. Het lijkt te gaan om een noodlottig ongeval. Er wordt onderzoe",
      "rubrieken": [],
      "link": "https://nos.nl/l/2639529",
      "bron": "NOS",
@@ -453,18 +452,18 @@
      "sorteer": "2026-11-15T02:34:22+00:00"
     },
     {
+     "titel": "Ongeval met letsel op Telefoonstraat in Arnhem",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcW5kOXRKSlBLQV9qdnBiWjlCZkpGay11RDB1QWg4cXJ0UkItZU10Q2JBdVMzR01ROTQwMnR4SHZCWnJHQ0ZCbmJlT1dEdWhoUVBkWVJiZkluY0FCdVFVdEI3OWJKcVY3RER4NzZPMjUyMWpCa3JtUnNlMl8wbnUySHBKVVlTdDNQcjgwUGl5WEkwWjZnV3ZTVHJRZjBSRmJvSVRYcg?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "01:25",
+     "sorteer": "2026-11-15T00:25:13+00:00"
+    },
+    {
      "titel": "Liftmonteur overlijdt nadat winkelmedewerker nietsvermoedend op ’het knopje’ drukt",
      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbDFQaS1vQ0RybHlpc0JPMXVPWmh4dEZRMnpETVMwY3JOSUEyTUJZV3B3Q1pObUJGYnRaakFjajRGTGc0dldEUjBVdWdmbEVBbDltWDl5Tzl4QTBORTJjS3FEdldDMWhZLW9pUzBBNWg2RkVTLXY4aWYtNXJ1TFlFUFItNFZ3cVhkTC1mRllPWUFOdGpOVVpoeVlFMFFianA2QmtJRWVGcVM0TEM2YkI2bXdwSlRkWjRJaU1ocGM3am53dzNwaEdsWENvaw?oc=5",
      "bron": "De Telegraaf",
      "tijd": "00:18",
      "sorteer": "2026-11-14T23:18:38+00:00"
-    },
-    {
-     "titel": "Net binnen",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PWTQ1bVAtSEZmSTUxSHVmRVFWUHdGOVNtdXprZXZQSE8yRmM0a25fVUU0SlRSVXctOHB3aVJOZ0dBTHNWTnJGU0ZJOGM?oc=5",
-     "bron": "AD.nl",
-     "tijd": "07:35",
-     "sorteer": "2026-11-15T06:35:41+00:00"
     },
     {
      "titel": "Kabinet akkoord met begroting 2007",
@@ -500,6 +499,17 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Containerterminal Deventer moest regio vooruit helpen, maar ligt er verlaten bij",
+     "context": "Deventer droomde van een bruisende containerterminal, met minder vrachtwagens op de weg en een impuls voor de economie. Drie jaar na de opening is die droom nog ver weg, want het belangrijkste onderdeel mist: containers. Wat houdt de terminal tegen? \"We hebben de wind niet in de rug.\"",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3716767/containerterminal-deventer-moest-regio-vooruit-helpen-maar-ligt-er-verlaten-bij",
+     "bron": "RTV Oost",
+     "tijd": "08:01",
+     "sorteer": "2026-11-15T07:01:49+00:00"
+    },
     {
      "titel": "Antek Olzanowski voert zijn hele leven strijd tegen discriminatie en onrecht",
      "context": "Met een levensgeschiedenis als de zijne was hij haast voorbestemd voor een maatschappelijk betrokken carrière. Als zoon van een Poolse vader en een Oekraïense moeder, die elkaar in de oorlog onder bizarre omstandigheden hadden ontmoet. Het vormde voor de Hengeloër Antek Olzanowski de opmaat voor een levenlange strijd tegen discriminatie.",
@@ -548,15 +558,6 @@
      "tijd": "18:22",
      "sorteer": "2026-11-14T17:22:13+00:00",
      "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "DJ Bakermat schittert wekelijks over de hele wereld, maar komt thuis in Markelo",
-     "context": "Lodewijk had nooit de intentie om een carrière in de muziek te maken en het succes overkwam hem min of meer. \"Vooral in het begin was het overweldigend.\" Inmiddels draait hij wekelijks over de hele wereld: \"Bijna niet te bevatten wat er gebeurt. Allemaal heel positief, maar ook heel overweldigend.\"",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3716136/dj-bakermat-schittert-wekelijks-over-de-hele-wereld-maar-komt-thuis-in-markelo",
-     "bron": "RTV Oost",
-     "tijd": "17:06",
-     "sorteer": "2026-11-14T16:06:25+00:00"
     },
     {
      "titel": "Handschoenen blijven liggen in de buurtbus",
@@ -796,7 +797,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "08:00",
+    "bijgewerkt": "09:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1202,14 +1203,6 @@
      "sorteer": "2026-11-14T09:51:00+01:00"
     },
     {
-     "titel": "Humes Bladkoning",
-     "kop": "Zeldzaamheden",
-     "bron": "Friesland",
-     "tijd": "08:12",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-14T08:12:00+01:00"
-    },
-    {
      "titel": "Dalfsen (nacht)",
      "kop": "Vogeltrek",
      "bron": "14-11",
@@ -1227,42 +1220,42 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 153 soorten, 100.969 vogels geteld",
+     "titel": "Landelijk vandaag: 35 soorten, 1.895 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261115?language=dutch"
     },
     {
-     "titel": "Spreeuw — 76.908",
+     "titel": "Spreeuw — 824",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261115?language=dutch"
     },
     {
-     "titel": "Vink — 3.529",
+     "titel": "Brandgans — 461",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261115?language=dutch"
     },
     {
-     "titel": "Kolgans — 1.831",
+     "titel": "Pijlstaart — 118",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261115?language=dutch"
     },
     {
-     "titel": "Aalscholver — 1.660",
+     "titel": "Koperwiek — 112",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261115?language=dutch"
     },
     {
-     "titel": "Zwarte Zee-eend — 1.639",
+     "titel": "Kolgans — 94",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -1270,32 +1263,8 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Dwergmeeuw springt eruit — 165, normaal 8",
-     "bron": "21× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261115?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Spreeuw springt eruit — 76.908, normaal 5.137",
-     "bron": "15× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261115?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Kleine Rietgans springt eruit — 93, normaal 7",
-     "bron": "13× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261115?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "gans spec. springt eruit — 174, normaal 23",
-     "bron": "8× het gewone niveau",
+     "titel": "Pijlstaart springt eruit — 118, normaal 31",
+     "bron": "4× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261115?language=dutch",
      "sein": false
@@ -1344,19 +1313,19 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 0.0,
-    "gevoel": -2.9,
-    "wind": "ZZO 2",
+    "nu": 0.5,
+    "gevoel": -1.4,
+    "wind": "ZZO 1",
     "station": "Heino",
     "bericht": "Het weerbeeld voor de komende tijd ziet er steeds wisselvalliger uit, waarbij de regenkans steeds groter wordt. De meeste regen valt in de nacht naar dinsdag en dinsdagochtend. Daarbij bestaat in het noordoosten tijdelijk kans op flatsen natte sneeuw.Vanochtend hebben we te maken met veel bewolking en in het zuiden, midden en oosten valt plaatselijk wat regen of motregen.",
     "vandaag": "Vanochtend hebben we te maken met veel bewolking en in het zuiden, midden en oosten valt plaatselijk wat regen of motregen. Vanmiddag is het overwegend bewolkt en valt er aanvankelijk in het noordoosten nog plaatselijk wat lichte regen of motregen.",
     "temperatuur": "In Heino zakte de temperatuur naar -1,9 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: lichte regen, -0 tot 8 graden, 82% kans op neerslag, weinig zon, wind uit het zuiden, kracht 3.",
+     "zin": "Voor Dalfsen zelf: motregen, -0 tot 8 graden, 82% kans op neerslag, weinig zon, wind uit het zuiden, kracht 3.",
      "max": 8,
      "min": 0,
      "regenkans": 82,
-     "omschrijving": "lichte regen"
+     "omschrijving": "motregen"
     },
     "vooruit": "Veel bewolking en perioden met regen. Zacht. Maandag en dinsdag aan de kust veel wind. Aan het einde van de week neemt de kans op neerslag af. Zaterdag blijft het waarschijnlijk droog en zijn er perioden met zon.",
     "omslag": null,
