@@ -7,10 +7,11 @@
   "blokken": 11,
   "berichten": 88,
   "problemen": [],
-  "audio_herkomst": null
+  "audio_herkomst": "model",
+  "audio_aangehaakt": "06:06"
  },
  "opgehaald": "2026-11-15T05:55+01:00",
- "audio": null,
+ "audio": "audio/20261115.mp3",
  "afval": [
   {
    "datum": "2026-11-27",
@@ -49,8 +50,127 @@
    "afwijkend": false
   }
  ],
- "duiding": [],
- "verder": [],
+ "duiding": [
+  {
+   "titel": "Nazaten eisen Van Gogh uit veiling",
+   "tekst": "Nazaten van de Joodse eigenaar Samuel Fischer eisen dat Sotheby's een Van Gogh uit een veiling in New York haalt, omdat het doek in 1936 onder druk van de nazi's verkocht zou zijn (1, 7). Hun advocaat schrijft volgens de NYT dat de uitgeverij van de familie toen verlies leed door het naziregime (1). Het veilinghuis stelt na eigen onderzoek dat er geen sprake was van zulke druk, maar praat wel met de familie (1). Die veiling van het doek, geschat op ruim 163 miljoen euro, staat woensdag gepland (1).",
+   "verwijzingen": [
+    {
+     "titel": "Veiling Van Gogh-schilderij op losse schroeven, werk mogelijk onder druk nazi's verkocht",
+     "link": "https://nos.nl/l/2639532",
+     "bron": "NOS",
+     "tijd": "05:50",
+     "nummers": [
+      1
+     ]
+    },
+    {
+     "titel": "Veiling schilderij Van Gogh betwist wegens mogelijke dwang bij verkoop in nazitijd",
+     "link": "https://www.volkskrant.nl/buitenland/veiling-schilderij-van-gogh-betwist-wegens-mogelijke-dwang-bij-verkoop-in-nazitijd~b70cecfa/",
+     "bron": "de Volkskrant",
+     "tijd": "02:18",
+     "nummers": [
+      7
+     ]
+    }
+   ],
+   "geschreven": "06:06"
+  },
+  {
+   "titel": "Claus deserteerde toch niet",
+   "tekst": "Prins Claus deserteerde niet uit het Duitse leger, zoals hij later zelf beweerde, blijkt uit een nieuwe biografie van Jutta Chorus en Bas Blokker (23). Datzelfde boek laat volgens Nieuwsuur zien dat zijn vader lid was van de nazipartij NSDAP (23). Daarnaast brengen de biografen volgens Trouw zijn onbekende jeugd in kaart, waarin hij zich bijna zijn hele schooltijd tegen het gezag verzette (20).",
+   "verwijzingen": [
+    {
+     "titel": "Biografen prins Claus brengen zijn onbekende jeugd in kaart: ‘Hij verzette zich bijna zijn hele schooltijd lang tegen het gezag’",
+     "link": "https://www.trouw.nl/binnenland/biografen-prins-claus-brengen-zijn-onbekende-jeugd-in-kaart-hij-verzette-zich-bijna-zijn-hele-schooltijd-lang-tegen-het-gezag~b2c6e0d4/",
+     "bron": "Trouw",
+     "tijd": "20:49",
+     "nummers": [
+      20
+     ]
+    },
+    {
+     "titel": "Nieuwsuur: Is er toekomst voor kabinet-Jetten? • Oorlogsverleden Claus ligt toch net anders • Kritiek op thuiswerken",
+     "link": "https://nos.nl/l/2639484",
+     "bron": "NPO2 · 22:00",
+     "tijd": "22:00",
+     "nummers": [
+      23
+     ]
+    }
+   ],
+   "geschreven": "06:06"
+  },
+  {
+   "titel": "Kamerleden willen AI bij politie",
+   "tekst": "Twee moties in de Tweede Kamer gaan over AI bij de politie (33, 34). Coenradie wil laten onderzoeken of AI het papierwerk bij de politie kan verminderen (33). Mathlouti en Struijs willen daarnaast inzicht in de AI-toepassingen die de politie nu al gebruikt (34). Beide moties zijn op 10 november ingediend (33, 34).",
+   "verwijzingen": [
+    {
+     "titel": "Motie van het lid Coenradie over onderzoeken of AI-toepassingen de administratieve lasten bij de politie kunnen verminderen",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D57037",
+     "bron": "Motie",
+     "tijd": "10-11",
+     "nummers": [
+      33
+     ]
+    },
+    {
+     "titel": "Motie van de leden Mathlouti en Struijs over inzicht in de AI-toepassingen die de politie al inzet en de mogelijkheden ọm deze op…",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D57026",
+     "bron": "Motie",
+     "tijd": "10-11",
+     "nummers": [
+      34
+     ]
+    }
+   ],
+   "geschreven": "06:06"
+  }
+ ],
+ "verder": [
+  {
+   "kop": "Trein doodt man in Eindhoven",
+   "blok": "nationaal",
+   "link": "https://nos.nl/l/2639529",
+   "bron": "NOS",
+   "titel": "Dode en zwaargewonde door aanrijding trein op station Strijp-S in Eindhoven"
+  },
+  {
+   "kop": "Kabinet schrijft over aangiften",
+   "blok": "bron",
+   "link": "https://www.tweedekamer.nl/zoeken?qry=2026D53827",
+   "bron": "Brief van de regering",
+   "titel": "Opvolging debat over de bevindingen van de Algemene Rekenkamer dat 10000 aangiften niet door de politie worden onderzocht"
+  },
+  {
+   "kop": "Appgroep deelt stiekeme foto's",
+   "blok": "nationaal",
+   "link": "https://nos.nl/l/2639515",
+   "bron": "NOS",
+   "titel": "Duizenden stiekem gemaakte foto's van borsten en billen in Achterhoekse appgroep"
+  },
+  {
+   "kop": "Verstappen wordt gezicht VDK",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3719566/max-verstappen-wordt-het-nieuwe-gezicht-van-zwolse-vdk-groep",
+   "bron": "RTV Oost",
+   "titel": "Max Verstappen wordt het nieuwe gezicht van Zwolse VDK Groep"
+  },
+  {
+   "kop": "Tankers raken mijnen bij Hormuz",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2639527",
+   "bron": "NOS",
+   "titel": "Iran meldt brand op twee schepen in Straat van Hormuz, 'zevende incident in 24 uur'"
+  },
+  {
+   "kop": "Israël doodt Hamas-commandant",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2639531",
+   "bron": "NOS",
+   "titel": "'Belangrijke Hamas-commandant gedood bij Israëlische luchtaanval'"
+  }
+ ],
  "blokken": [
   {
    "id": "internationaal",
@@ -1234,5 +1354,15 @@
     }
    }
   }
+ ],
+ "archief": [
+  "2026-11-15",
+  "2026-11-14",
+  "2026-11-13",
+  "2026-11-12",
+  "2026-11-11",
+  "2026-11-10",
+  "2026-11-09",
+  "2026-11-08"
  ]
 }
