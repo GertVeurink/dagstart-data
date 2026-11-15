@@ -3,13 +3,13 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "12:00",
+  "opgehaald": "13:00",
   "blokken": 11,
-  "berichten": 80,
+  "berichten": 81,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-15T12:00+01:00",
+ "opgehaald": "2026-11-15T13:00+01:00",
  "audio": "audio/20261115.mp3",
  "afval": [
   {
@@ -51,41 +51,16 @@
  ],
  "duiding": [
   {
-   "titel": "Nazaten eisen Van Gogh uit veiling",
-   "tekst": "Nazaten van de Joodse eigenaar Samuel Fischer eisen dat Sotheby's een Van Gogh uit een veiling in New York haalt, omdat het doek in 1936 onder druk van de nazi's verkocht zou zijn (1, 7). Hun advocaat schrijft volgens de NYT dat de uitgeverij van de familie toen verlies leed door het naziregime (1). Het veilinghuis stelt na eigen onderzoek dat er geen sprake was van zulke druk, maar praat wel met de familie (1). Die veiling van het doek, geschat op ruim 163 miljoen euro, staat woensdag gepland (1).",
+   "titel": "D66, VVD en CDA overleggen opnieuw",
+   "tekst": "D66, VVD en CDA voeren vandaag voor de tweede dag op rij crisisoverleg, en daarmee staat de toekomst van het minderheidskabinet-Jetten op het spel (15, 24). Dat overleg volgt op de chaotisch verlopen onderhandelingen over het belastingplan (24). Daarbij is het onderlinge vertrouwen tussen de drie partijen volgens de NOS de afgelopen dagen flink beschadigd (15). Het gesprek vindt dit keer niet in Den Haag plaats, maar op landgoed De Zwaluwenberg in Hilversum (24).",
    "verwijzingen": [
     {
-     "titel": "Veiling Van Gogh-schilderij op losse schroeven, werk mogelijk onder druk nazi's verkocht",
-     "link": "https://nos.nl/l/2639532",
+     "titel": "Wekdienst 15/11: Crisisgesprekken kabinet gaan verder • Wereldbeker schaatsen Peking",
+     "link": "https://nos.nl/l/2639533",
      "bron": "NOS",
-     "tijd": "05:50",
+     "tijd": "06:23",
      "nummers": [
-      1
-     ]
-    },
-    {
-     "titel": "Veiling schilderij Van Gogh betwist wegens mogelijke dwang bij verkoop in nazitijd",
-     "link": "https://www.volkskrant.nl/buitenland/veiling-schilderij-van-gogh-betwist-wegens-mogelijke-dwang-bij-verkoop-in-nazitijd~b70cecfa/",
-     "bron": "de Volkskrant",
-     "tijd": "02:18",
-     "nummers": [
-      7
-     ]
-    }
-   ],
-   "geschreven": "06:06"
-  },
-  {
-   "titel": "Claus deserteerde toch niet",
-   "tekst": "Prins Claus deserteerde niet uit het Duitse leger, zoals hij later zelf beweerde, blijkt uit een nieuwe biografie van Jutta Chorus en Bas Blokker (23). Datzelfde boek laat volgens Nieuwsuur zien dat zijn vader lid was van de nazipartij NSDAP (23). Daarnaast brengen de biografen volgens Trouw zijn onbekende jeugd in kaart, waarin hij zich bijna zijn hele schooltijd tegen het gezag verzette (20).",
-   "verwijzingen": [
-    {
-     "titel": "Biografen prins Claus brengen zijn onbekende jeugd in kaart: ‘Hij verzette zich bijna zijn hele schooltijd lang tegen het gezag’",
-     "link": "https://www.trouw.nl/binnenland/biografen-prins-claus-brengen-zijn-onbekende-jeugd-in-kaart-hij-verzette-zich-bijna-zijn-hele-schooltijd-lang-tegen-het-gezag~b2c6e0d4/",
-     "bron": "Trouw",
-     "tijd": "20:49",
-     "nummers": [
-      20
+      15
      ]
     },
     {
@@ -94,36 +69,61 @@
      "bron": "NPO2 · 22:00",
      "tijd": "22:00",
      "nummers": [
-      23
+      24
      ]
     }
    ],
-   "geschreven": "06:06"
+   "geschreven": "13:00"
   },
   {
-   "titel": "Kamerleden willen AI bij politie",
-   "tekst": "Twee moties in de Tweede Kamer gaan over AI bij de politie (33, 34). Coenradie wil laten onderzoeken of AI het papierwerk bij de politie kan verminderen (33). Mathlouti en Struijs willen daarnaast inzicht in de AI-toepassingen die de politie nu al gebruikt (34). Beide moties zijn op 10 november ingediend (33, 34).",
+   "titel": "Malware treft ook GeenStijl en DDS",
+   "tekst": "Niet alleen VI, maar zeker veertien Nederlandse sites en één Belgische blijken via advertenties kwaadaardige code onder bezoekers te hebben verspreid (13). Die code konden derden via het advertentiesysteem bij gebruikers installeren, en bij VI verzamelde ze onder meer IP-adressen (13, 17). Dat lek bij reclamebureau NextDay is volgens de sites inmiddels gedicht (13). Het gevaar treft bezoekers op 1 tot en met 3 november of op 11 november met een oudere iPhone (13).",
    "verwijzingen": [
     {
-     "titel": "Motie van het lid Coenradie over onderzoeken of AI-toepassingen de administratieve lasten bij de politie kunnen verminderen",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D57037",
-     "bron": "Motie",
-     "tijd": "10-11",
+     "titel": "Meerdere Nederlandse sites verspreidden malware via advertenties",
+     "link": "https://nos.nl/l/2639562",
+     "bron": "NOS",
+     "tijd": "11:36",
      "nummers": [
-      33
+      13
      ]
     },
     {
-     "titel": "Motie van de leden Mathlouti en Struijs over inzicht in de AI-toepassingen die de politie al inzet en de mogelijkheden ọm deze op…",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D57026",
-     "bron": "Motie",
-     "tijd": "10-11",
+     "titel": "Kwaadaardige code verspreid via reclame op voetbalsite VI, gegevens buitgemaakt",
+     "link": "https://nos.nl/l/2639519",
+     "bron": "NOS",
+     "tijd": "22:23",
      "nummers": [
-      34
+      17
      ]
     }
    ],
-   "geschreven": "06:06"
+   "geschreven": "13:00"
+  },
+  {
+   "titel": "Jordanië geeft drie mannen doodstraf",
+   "tekst": "Een Jordaanse rechtbank voor staatsveiligheid heeft drie mannen ter dood veroordeeld voor de aanslag op een kerk in Karak, de dodelijkste op de christelijke minderheid in tientallen jaren (5). Die aanslag op een begrafenis op 23 oktober kostte negen mensen het leven en maakte 34 gewonden (5, 10). De daders, twee broers en hun zwager, werden drie dagen later na een vuurgevecht aangehouden (5). Volgens de autoriteiten hoorden ze niet bij een georganiseerde terreurgroep (5).",
+   "verwijzingen": [
+    {
+     "titel": "Doodstraf voor plegers fatale aanslag op kerk Jordanië",
+     "link": "https://nos.nl/l/2639558",
+     "bron": "NOS",
+     "tijd": "10:48",
+     "nummers": [
+      5
+     ]
+    },
+    {
+     "titel": "Three men sentenced to death in Jordan over fatal church mass shooting",
+     "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "12:06",
+     "nummers": [
+      10
+     ]
+    }
+   ],
+   "geschreven": "13:00"
   }
  ],
  "denkwerk": {
@@ -136,46 +136,39 @@
  },
  "verder": [
   {
-   "kop": "Trein doodt man in Eindhoven",
-   "blok": "nationaal",
-   "link": "https://nos.nl/l/2639529",
-   "bron": "NOS",
-   "titel": "Dode en zwaargewonde door aanrijding trein op station Strijp-S in Eindhoven"
-  },
-  {
-   "kop": "Kabinet schrijft over aangiften",
-   "blok": "bron",
-   "link": "https://www.tweedekamer.nl/zoeken?qry=2026D53827",
-   "bron": "Brief van de regering",
-   "titel": "Opvolging debat over de bevindingen van de Algemene Rekenkamer dat 10000 aangiften niet door de politie worden onderzocht"
-  },
-  {
    "kop": "Appgroep deelt stiekeme foto's",
-   "blok": "nationaal",
-   "link": "https://nos.nl/l/2639515",
-   "bron": "NOS",
-   "titel": "Duizenden stiekem gemaakte foto's van borsten en billen in Achterhoekse appgroep"
-  },
-  {
-   "kop": "Verstappen wordt gezicht VDK",
    "blok": "lokaal",
-   "link": "https://www.oost.nl/nieuws/3719566/max-verstappen-wordt-het-nieuwe-gezicht-van-zwolse-vdk-groep",
+   "link": "https://www.oost.nl/nieuws/3719655/honderden-stiekeme-fotos-van-vrouwen-uit-overijssel-gedeeld-in-whatsapp-groep",
    "bron": "RTV Oost",
-   "titel": "Max Verstappen wordt het nieuwe gezicht van Zwolse VDK Groep"
+   "titel": "Honderden stiekeme foto's van vrouwen uit Overijssel gedeeld in WhatsApp-groep"
   },
   {
-   "kop": "Tankers raken mijnen bij Hormuz",
-   "blok": "internationaal",
-   "link": "https://nos.nl/l/2639527",
-   "bron": "NOS",
-   "titel": "Iran meldt brand op twee schepen in Straat van Hormuz, 'zevende incident in 24 uur'"
+   "kop": "Gps Schiphol zou verstoord zijn",
+   "blok": "nationaal",
+   "link": "https://www.volkskrant.nl/binnenland/gps-boven-schiphol-zou-opzettelijk-zijn-verstoord-vliegtuigen-hadden-geen-signaal~b63100ed/",
+   "bron": "de Volkskrant",
+   "titel": "Gps boven Schiphol zou opzettelijk zijn verstoord, vliegtuigen hadden geen signaal"
   },
   {
-   "kop": "Israël doodt Hamas-commandant",
-   "blok": "internationaal",
-   "link": "https://nos.nl/l/2639531",
+   "kop": "Vrouw opgepakt na brand Denekamp",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3719667/vrouw-aangehouden-na-brand-in-denekamp-geen-gewapende-persoon-gevonden",
+   "bron": "RTV Oost",
+   "titel": "Vrouw aangehouden na brand in Denekamp, geen gewapende persoon gevonden"
+  },
+  {
+   "kop": "Gemeenten geven geen ontheffing",
+   "blok": "nationaal",
+   "link": "https://nos.nl/l/2639554",
    "bron": "NOS",
-   "titel": "'Belangrijke Hamas-commandant gedood bij Israëlische luchtaanval'"
+   "titel": "Driekwart van de gemeenten geeft geen ontheffing voor afsteken vuurwerk"
+  },
+  {
+   "kop": "Canarias zien record aan migranten",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2639571",
+   "bron": "NOS",
+   "titel": "Recordaantal van 1500 migranten op één dag aangekomen op Canarische Eilanden"
   }
  ],
  "blokken": [
@@ -184,6 +177,24 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Overstromingen in Franse regio Hérault, 73-jarige vermiste vrouw gered",
+     "context": "De Franse regio Hérault langs de Middellandse Zeekust is gisteravond getroffen door hevige regenval en zware overstromingen. In één nacht viel de hoeveelheid regen die normaal in 2,5 maand valt: 190 millimeter. Daarvan viel binnen drie uur 153 millimeter en 89 millimeter in één uur. Wegen kwamen onder water te staan en veel automobilisten raakten in de problemen. Reddingsdiensten hebben 105 mensen",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639572",
+     "bron": "NOS",
+     "tijd": "12:40",
+     "sorteer": "2026-11-15T12:40:59+01:00"
+    },
+    {
+     "titel": "Recordaantal van 1500 migranten op één dag aangekomen op Canarische Eilanden",
+     "context": "Op de Canarische Eilanden zijn gisteren in een dag tijd bijna 1500 migranten aangekomen. Dat is het hoogste aantal in één etmaal in de ruim dertig jaar dat de cijfers over de migratieroute worden bijgehouden. Dat meldt het Spaanse persbureau EFE op basis van maritieme reddingsdiensten en hulpdiensten. Er werden acht schepen ingezet om veertien boten met in totaal 1488 opvarenden te redden. Dat ove",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639571",
+     "bron": "NOS",
+     "tijd": "12:29",
+     "sorteer": "2026-11-15T12:29:58+01:00"
+    },
     {
      "titel": "Miljoen dollar schade door botsing Mississippi, 'wonder dat iedereen is gered'",
      "context": "De haven van New Orleans klaagt de eigenaren en beheerders aan van het vrachtschip dat vrijdag in botsing kwam met een cruiseschip dat daar aan de kade lag. Het vijf verdiepingen tellende raderstoomschip American Heritage met 197 mensen aan boord kapseisde door de botsing en zonk deels. Zeker honderd mensen kwamen daardoor in het water terecht en moesten gered worden. 32 mensen raakten gewond en m",
@@ -210,24 +221,6 @@
      "bron": "NOS",
      "tijd": "10:48",
      "sorteer": "2026-11-15T10:48:09+01:00"
-    },
-    {
-     "titel": "Canadese soldaat bezweken aan brandwonden, maand na inferno op oefenterrein",
-     "context": "Bijna een maand na de verwoestende brand op een militair oefenterrein in Canada is een vijfde militair bezweken aan zijn verwondingen. Soldaat Douglas Dal Bianco overleed in een ziekenhuis in Ontario. Het ging op 17 oktober mis bij een oefening op de basis Wainwright, bij de stad Edmonton. Bij het trainen met scherpe munitie vatte het struikgewas vlam. Doordat een felle wind het vuur razendsnel aa",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639538",
-     "bron": "NOS",
-     "tijd": "07:27",
-     "sorteer": "2026-11-15T07:27:30+01:00"
-    },
-    {
-     "titel": "Wekdienst 15/11: Crisisgesprekken kabinet gaan verder • Wereldbeker schaatsen Peking",
-     "context": "Goedemorgen! D66, VVD en CDA houden ook vandaag crisisoverleg over de toekomst van het kabinet. Het onderlinge vertrouwen is de afgelopen dagen flink beschadigd . En er wordt geschaatst in Peking, de eerste wereldbeker van het seizoen. Eerst het weer: De dag begint koud, in het binnenland kan het enkele graden vriezen. In het noordoosten is het mistig. Verder is het vandaag bewolkt met in de midda",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639533",
-     "bron": "NOS",
-     "tijd": "06:23",
-     "sorteer": "2026-11-15T06:23:22+01:00"
     },
     {
      "titel": "Taiwanezen blijven als een blok achter hun nationale held Jensen Huang staan, ondanks affaires en aftreden",
@@ -257,24 +250,29 @@
      "sorteer": "2026-11-15T08:43:51+00:00"
     },
     {
-     "titel": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
-     "context": "Bahrain lies directly across Persian Gulf from Iran and is home to US Navy Fifth Fleet Here’s a recap of what the various sides have said this morning regarding the latest Iranian strikes targeting a US air base in Bahrain. Iran’s Revolutionary Guards: The US air defence radar system at the Al-Riffa helicopter base in Bahrain was targeted by six drones belonging to the IRGC Aerospace Force. The St",
+     "titel": "Reform UK losing support to Labour after ‘difficult year’, says Danny Kruger",
+     "context": "MP says party is being squeezed by arrival of ‘more plausible’ Labour leader in Andy Burnham Reform UK has been losing support to Labour after “a very difficult year,” Danny Kruger has admitted, just over 12 months after his defection to Nigel Farage’s party. The MP, who has been tasked with preparing Reform for government, denied that he regretted jumping from the Conservatives as recent polls in",
      "rubrieken": [
-      "World news",
-      "US-Israel war on Iran",
-      "Bahrain",
-      "Middle East and north Africa",
-      "Iran",
-      "Donald Trump",
-      "Yemen",
-      "Houthis",
-      "Hamas",
-      "Israel"
+      "Reform UK",
+      "Labour",
+      "Politics",
+      "UK news"
      ],
-     "link": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+     "link": "https://www.theguardian.com/politics/2026/nov/15/reform-uk-losing-support-to-labour-after-difficult-year-says-danny-kruger",
      "bron": "The Guardian",
-     "tijd": "11:42",
-     "sorteer": "2026-11-15T10:42:53+00:00",
+     "tijd": "12:53",
+     "sorteer": "2026-11-15T11:53:01+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Three men sentenced to death in Jordan over fatal church mass shooting",
+     "context": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "12:06",
+     "sorteer": "2026-11-15T11:06:32+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -326,17 +324,6 @@
      "sorteer": "2026-11-15T09:36:59+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-     "context": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "10:26",
-     "sorteer": "2026-11-15T09:26:37+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
     }
    ]
   },
@@ -362,6 +349,15 @@
      "bron": "NOS",
      "tijd": "10:23",
      "sorteer": "2026-11-15T10:23:52+01:00"
+    },
+    {
+     "titel": "Wekdienst 15/11: Crisisgesprekken kabinet gaan verder • Wereldbeker schaatsen Peking",
+     "context": "Goedemorgen! D66, VVD en CDA houden ook vandaag crisisoverleg over de toekomst van het kabinet. Het onderlinge vertrouwen is de afgelopen dagen flink beschadigd . En er wordt geschaatst in Peking, de eerste wereldbeker van het seizoen. Eerst het weer: De dag begint koud, in het binnenland kan het enkele graden vriezen. In het noordoosten is het mistig. Verder is het vandaag bewolkt met in de midda",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639533",
+     "bron": "NOS",
+     "tijd": "06:23",
+     "sorteer": "2026-11-15T06:23:22+01:00"
     },
     {
      "titel": "Dode en zwaargewonde bij aanrijding met trein op station Strijp-S in Eindhoven",
@@ -418,25 +414,11 @@
      "sorteer": "2026-11-15T10:30:27+00:00"
     },
     {
-     "titel": "Noodkreet van Dijksma voor eigen Utrechts ME-peloton was gericht aan dovemansoren. Maar nu heeft de minister geld gevonden",
-     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaDZJSnRVWXg5VzJCYldrVUVFOTRhSDc2bDhCa1RJbmtBZ2cxZXBXM0RWbG92dmkzSmg4WVlDVTJXb3hFbDJkeXNfZzByS1NLTVBJLUdWVVJQS1I4MVZiWUNOVUNncjlqMmo2ZlRsa01ESXhCdXBLMU5MdEVrRWhkZmNTS2JPdnJlQ1VJTVVTQkszV29TdWJPVnIzcmlUUzFhU3djdzZUYnE5RHI0R2NubEctcXhJMXRuX0pfYlFMcnFKTV83c3d4WEJjbFJBRUZoRXY4N0pBQ05qd1VySm8weTVVeFNCTlJMdXdJY2RYNGc1NzV1YXBQV1Y3cw?oc=5",
-     "bron": "NRC",
-     "tijd": "11:00",
-     "sorteer": "2026-11-15T10:00:00+00:00"
-    },
-    {
-     "titel": "Bijnaam Bolle Jos heeft volgens ex-vrouw niets met zijn gewicht te maken",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc24yVFdjdERGM0NRYVJUMGVGM05KWkw5cVo1TGppbkxPZUE1TFhaZnA4NGk3S3FJNURuZUFUR09NWFVsV29sR1lPdjMyNkZsb2tzVldyRXVBWWJFRjAwYjVkYVdiNjhNQXZiZnJJMGlYVk1RaEZEbXlyblhaN3pmaHpDTQ?oc=5",
-     "bron": "RTL.nl",
-     "tijd": "10:58",
-     "sorteer": "2026-11-15T09:58:35+00:00"
-    },
-    {
-     "titel": "Boer eist dat de deurwaarder ‘dat beslag’ weghaalt, rechter rekent bedreiging zwaar aan",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVElxRVpiMlk4ZmsxUUtsTUNoTkMzVWtBQjl3b2xrcnNwYkNPQ1dCN1NCU2Q1cHdLbzdEUTVBZkxIN2x3bDFjTkItLXJwRTBUMDFXakcxSDM1cjQ4MGotVGsyQnd1VjBwTHR5bjBVTl9taTRyVTJkdGU1bUlnd2E4NDhQT19yNG5pWTJPS05wR1dXT2hkZ2NUNmctM3hYVDQ1UW51RWJWQVlfWGVpYjJyQ2hvaXdNRDF0T3o4?oc=5",
+     "titel": "Vrouw zegt eerst dat vriend haar mishandelt, buurman ziet dat ook, maar stel ontkent later: ‘Er is niks gebeurd, we zijn heel gelukkig’",
+     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNd09JR1paa3RYWGotV2hraUJaZ0J4M2NnWVhKei1ySkJnclpnaHc4dEszZFRWTU4zMDRXNGtld0dqSUVUaV82Z1lYYkNRNU1rOWFzdXpYUjRYTHpIQU9FQjhFN2NFck1uQ3ZHREJiSTlBaVI4UnNkbzUwdGV5MEIxN0lWY2d5OEh4M0RIWnozV2ZPWlFsN3JJcjJ3UHhaWjc1bVh6YzU0LXAzVUt1a1p5ajY0bXdlOXRicDc0bmdJM2xWM1dpQ0RfRXJRd29EU2xjVElxZi1aeHZ1T0t0aGowbW1fajFwUWtvVFB6QzdyRUlTWjJXTFZBQTcyQQ?oc=5",
      "bron": "AD.nl",
-     "tijd": "10:00",
-     "sorteer": "2026-11-15T09:00:29+00:00"
+     "tijd": "11:30",
+     "sorteer": "2026-11-15T10:30:00+00:00"
     },
     {
      "titel": "BRIEVEN | Aanpak zorgfraude is de sleutel tot sluitende begroting",
@@ -491,12 +473,12 @@
      "sorteer": "2026-11-15T09:29:33+00:00"
     },
     {
-     "titel": "Containerterminal Deventer moest regio vooruit helpen, maar ligt er verlaten bij",
+     "titel": "Grote ambities, maar geen container te zien: wat gebeurt er in de Deventer haven?",
      "context": "Deventer droomde van een bruisende containerterminal, met minder vrachtwagens op de weg en een impuls voor de economie. Drie jaar na de opening is die droom nog ver weg, want het belangrijkste onderdeel mist: containers. Wat houdt de terminal tegen? \"We hebben de wind niet in de rug.\"",
      "rubrieken": [
       "breaking"
      ],
-     "link": "https://www.oost.nl/nieuws/3716767/containerterminal-deventer-moest-regio-vooruit-helpen-maar-ligt-er-verlaten-bij",
+     "link": "https://www.oost.nl/nieuws/3716767/grote-ambities-maar-geen-container-te-zien-wat-gebeurt-er-in-de-deventer-haven",
      "bron": "RTV Oost",
      "tijd": "08:01",
      "sorteer": "2026-11-15T07:01:49+00:00"
@@ -504,17 +486,19 @@
     {
      "titel": "Honderden stiekeme foto's van vrouwen uit Overijssel gedeeld in WhatsApp-groep",
      "context": "In een WhatsApp-groep met bijna duizend mannen zijn de afgelopen jaren duizenden beelden van vrouwen gedeeld die stiekem zijn gemaakt. Er zijn ook foto's en video's gemaakt van vrouwen in Overijssel. Bij onder meer een school en een volleybalvereniging zijn vrouwen gefotografeerd of gefilmd.",
-     "rubrieken": [],
+     "rubrieken": [
+      "breaking"
+     ],
      "link": "https://www.oost.nl/nieuws/3719655/honderden-stiekeme-fotos-van-vrouwen-uit-overijssel-gedeeld-in-whatsapp-groep",
      "bron": "RTV Oost",
      "tijd": "07:34",
      "sorteer": "2026-11-15T06:34:02+00:00"
     },
     {
-     "titel": "Antek Olzanowski voert zijn hele leven strijd tegen discriminatie en onrecht",
-     "context": "Met een levensgeschiedenis als de zijne was hij haast voorbestemd voor een maatschappelijk betrokken carrière. Als zoon van een Poolse vader en een Oekraïense moeder, die elkaar in de oorlog onder bizarre omstandigheden hadden ontmoet. Het vormde voor de Hengeloër Antek Olzanowski de opmaat voor een levenlange strijd tegen discriminatie.",
+     "titel": "Antek Olszanowski voert zijn hele leven strijd tegen discriminatie en onrecht",
+     "context": "Met een levensgeschiedenis als de zijne was hij haast voorbestemd voor een maatschappelijk betrokken carrière. Als zoon van een Poolse vader en een Oekraïense moeder, die elkaar in de oorlog onder bizarre omstandigheden hadden ontmoet. Het vormde voor de Hengeloër Antek Olszanowski de opmaat voor een levenlange strijd tegen discriminatie.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3718153/antek-olzanowski-voert-zijn-hele-leven-strijd-tegen-discriminatie-en-onrecht",
+     "link": "https://www.oost.nl/nieuws/3718153/antek-olszanowski-voert-zijn-hele-leven-strijd-tegen-discriminatie-en-onrecht",
      "bron": "RTV Oost",
      "tijd": "05:56",
      "sorteer": "2026-11-15T04:56:00+00:00"
@@ -529,6 +513,19 @@
      "sorteer": "2026-11-14T21:21:16+00:00"
     },
     {
+     "titel": "Kleine wonderen in het bos van Avereest",
+     "context": "NIEUWLEUSEN – AVEREEST – Soms hoef je niet ver te reizen om iets bijzonders te ontdekken. Een wandeling door het bos van Avereest en wat aandacht voor de wereld aan je voeten zijn al genoeg. Daar, waar je gemakkelijk aan voorbijloopt, laten paddenstoelen je even stilstaan. Femmie Smink legde ze vast in een reeks van […]",
+     "rubrieken": [
+      "Laatste nieuws",
+      "Nieuwleusen",
+      "Regio"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/556646/kleine-wonderen-in-het-bos-van-avereest.html",
+     "bron": "DalfsenNet",
+     "tijd": "12:22",
+     "sorteer": "2026-11-15T11:22:25+00:00"
+    },
+    {
      "titel": "Prins Wilco 1e klaar voor een knallend carnavalsjaar",
      "context": "HEINO – Wilco Lindeboom is de nieuwe Prins der Sökkestoppers. Samen met adjudant Sander Oosterhuis gaat hij voor een carnavalsseizoen vol gezelligheid en plezier in het Stoppersgat. Onder het mom van een woningtaxatie werd Wilco door de prinswisselingcommissie verrast met de vraag om prins te worden. Na overleg thuis volgde een volmondig ‘ja’. Inmiddels staat […]",
      "rubrieken": [
@@ -540,18 +537,6 @@
      "bron": "DalfsenNet",
      "tijd": "11:59",
      "sorteer": "2026-11-15T10:59:28+00:00"
-    },
-    {
-     "titel": "Extra foto’s van de intocht van Sinterklaas in Dalfsen",
-     "context": "Dalfsen – De beloofde extra foto’s van de intocht van Sinterklaas in Dalfsen.",
-     "rubrieken": [
-      "Dalfsen",
-      "Evenementen"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/556635/extra-fotos-van-de-intocht-van-sinterklaas-in-dalfsen.html",
-     "bron": "DalfsenNet",
-     "tijd": "11:24",
-     "sorteer": "2026-11-15T10:24:46+00:00"
     }
    ]
   },
@@ -641,14 +626,6 @@
      "tijd": "13-11",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D57839",
      "sorteer": "2026-11-13T14:09:26.767+01:00"
-    },
-    {
-     "titel": "Antwoord op vragen van het lid Van Leijen over de AIVD-publicatie \"De moderne auto als mogelijke spion\"",
-     "bron": "Antwoord op Kamervragen",
-     "kop": "Kamervragen",
-     "tijd": "12-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D57744",
-     "sorteer": "2026-11-13T13:22:17.34+01:00"
     },
     {
      "titel": "Opvolging debat over de bevindingen van de Algemene Rekenkamer dat 10000 aangiften niet door de politie worden onderzocht",
@@ -754,7 +731,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "12:00",
+    "bijgewerkt": "13:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1154,42 +1131,42 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 35 soorten, 1.895 vogels geteld",
+     "titel": "Landelijk vandaag: 112 soorten, 35.676 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261115?language=dutch"
     },
     {
-     "titel": "Spreeuw — 824",
+     "titel": "Spreeuw — 25.049",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261115?language=dutch"
     },
     {
-     "titel": "Brandgans — 461",
+     "titel": "Aalscholver — 2.317",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261115?language=dutch"
     },
     {
-     "titel": "Pijlstaart — 118",
+     "titel": "Vink — 1.692",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261115?language=dutch"
     },
     {
-     "titel": "Koperwiek — 112",
+     "titel": "Sijs — 891",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261115?language=dutch"
     },
     {
-     "titel": "Kolgans — 94",
+     "titel": "Zwarte Zee-eend — 564",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -1197,8 +1174,32 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Pijlstaart springt eruit — 118, normaal 31",
-     "bron": "4× het gewone niveau",
+     "titel": "Aalscholver springt eruit — 2.317, normaal 226",
+     "bron": "10× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261115?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Pijlstaart springt eruit — 255, normaal 31",
+     "bron": "8× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261115?language=dutch",
+     "sein": false
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Sijs springt eruit — 891, normaal 146",
+     "bron": "6× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261115?language=dutch",
+     "sein": false
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Spreeuw springt eruit — 25.049, normaal 5.137",
+     "bron": "5× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261115?language=dutch",
      "sein": false
@@ -1213,11 +1214,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Goed pestvogeljaar — op 51 plekken in de afgelopen week, waarvan 4 vandaag",
+     "titel": "Goed pestvogeljaar — op 57 plekken in de afgelopen week, waarvan 10 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 106 vogels; 86 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 139 vogels; 93 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1247,9 +1248,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 5.0,
-    "gevoel": 2.2,
-    "wind": "ZZW 2",
+    "nu": 6.0,
+    "gevoel": 2.8,
+    "wind": "ZZW 3",
     "station": "Heino",
     "bericht": "Komende week ziet het weerbeeld er steeds wisselvalliger uit. De meeste regen valt in de nacht naar dinsdag en dinsdagochtend. Er bestaat dan in het noordoosten tijdelijk kans op een beetje natte sneeuw.Vanmiddag is het overwegend bewolkt.",
     "vandaag": "Vanmiddag is het overwegend bewolkt. Vanavond trekt een regengebied over het land naar het noordoosten.",
