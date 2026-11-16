@@ -7,10 +7,11 @@
   "blokken": 11,
   "berichten": 80,
   "problemen": [],
-  "audio_herkomst": null
+  "audio_herkomst": "model",
+  "audio_aangehaakt": "06:05"
  },
  "opgehaald": "2026-11-16T05:55+01:00",
- "audio": null,
+ "audio": "audio/20261116.mp3",
  "afval": [
   {
    "datum": "2026-11-27",
@@ -49,7 +50,58 @@
    "afwijkend": false
   }
  ],
- "duiding": [],
+ "duiding": [
+  {
+   "titel": "VVD zocht steun bij Denk",
+   "tekst": "Ook de VVD zocht bij Denk steun voor het Belastingplan, schrijft Trouw (23). Dat gebeurt terwijl D66, VVD en CDA crisisoverleg voeren over de toekomst van het kabinet (17). Volgens de NOS is het vertrouwen tussen die drie partijen de afgelopen dagen flink beschadigd (17). Dinsdag om 16.50 uur begint in de Kamer het debat over de begroting van Justitie en Veiligheid (37).",
+   "verwijzingen": [
+    {
+     "titel": "Wekdienst 15/11: Crisisgesprekken kabinet gaan verder • Wereldbeker schaatsen Peking",
+     "link": "https://nos.nl/l/2639533",
+     "bron": "NOS",
+     "tijd": "06:23",
+     "nummers": [
+      17
+     ]
+    },
+    {
+     "titel": "Ook VVD zocht steun bij Denk rond het Belastingplan",
+     "link": "https://www.trouw.nl/politiek/ook-vvd-zocht-steun-bij-denk-rond-het-belastingplan~b1ce16eb/",
+     "bron": "Trouw",
+     "tijd": "15:51",
+     "nummers": [
+      23
+     ]
+    },
+    {
+     "titel": "Begroting Justitie en Veiligheid (37020-VI)1e TK",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05412",
+     "bron": "Plenair debat (wetgeving)",
+     "tijd": "dinsdag 17/11 16:50",
+     "nummers": [
+      37
+     ]
+    }
+   ],
+   "geschreven": "06:05"
+  },
+  {
+   "titel": "Duitsers keren zich tegen Eemshaven",
+   "tekst": "Ook Duitse overheden wijzen de mogelijke komst van twee kerncentrales in de Eemshaven af: de deelstaat Nedersaksen heeft dat al aan Nederland laten weten, en grensgemeenten sluiten zich aan (14). Daarbij voert de burgemeester van Borkum aan dat bij een kernramp het hele eiland ontruimd zou moeten worden (14). Daarom stuurde hij een brief aan de Tweede Kamer (14). In de stad Groningen kwamen zo'n driehonderd mensen af op een protest, onder wie demonstranten uit Borkum (14).",
+   "verwijzingen": [
+    {
+     "titel": "Ook Duitse overheden tegen kerncentrales in Eemshaven",
+     "link": "https://nos.nl/l/2639613",
+     "bron": "NOS",
+     "tijd": "17:23",
+     "nummers": [
+      14
+     ]
+    }
+   ],
+   "geschreven": "06:05"
+  }
+ ],
  "denkwerk": {
   "tekst": "Wat de ervaring en de geschiedenis echter leren, is dit: dat volkeren en regeringen nooit iets uit de geschiedenis hebben geleerd en niet hebben gehandeld naar lessen die eruit te trekken waren.",
   "wie": "Georg Wilhelm Friedrich Hegel",
@@ -58,7 +110,50 @@
   "parafrase": false,
   "link": "https://gertveurink.github.io/denkwerk/#/"
  },
- "verder": [],
+ "verder": [
+  {
+   "kop": "Politie houdt motorclubs in zicht",
+   "blok": "nationaal",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd25YNGszNkhUV3hxZjUzazljUzlLWUs5Z0J2b3FrdnRVYkFlaVhVSHNOUVBIQ1gyeEd3Q1pNbU1Rb1FVeWo3blJCaE1SZWJ3a191TjhrbEJsYTQzQnFZTTlCaDNMRjlRY0piVXJmTnIwTm5TRkxmRU5jNzBnaHlwV3ZHVlMzWl9GcXhqQ0p6b0pNSTlaMDdBRWM2cVFzOFBrM29Cc2NiOTJMZTlSYTVEWWtSNzlDY1B4NzFUOUtzTXduSmc4aTRLUkVqZzZXUjhSQW5fZ3BnQ2s1U3FPcFlz?oc=5",
+   "bron": "De Telegraaf",
+   "titel": "Motorclubs uit straatbeeld maar niet uit zicht van politie: roer gaat om in strijd tegen misdaad"
+  },
+  {
+   "kop": "Rechters wegen proces Taghi",
+   "blok": "nationaal",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQT1ZQMnpYdHJUTDdBeWYxR1FkZ0JJWlpKTkNVQldYMHN5QVY0UzRJN2huLTI5NlA5YkVYZG1nckNMNFBReDlxSTFFZUViMUZWYkJnSXZTVmotenU0NkJyWGdpVE1rX0FodTBoeXFKV0lvNndkR2twSnRKQk1NM1Y5WGhzbmQ5RUVHSFppNVgwQ0hUT3I4QXV0OV9GcmVoZG5oRG95dDR1THlsMmh2aFJDNW9QUWxZMWw5MmtDeWxNRUU4bE9lR3FKS3FjTDVzYWpyNFl3ZFBESU8tNTc3eDhiRmNxd3ptbkpO?oc=5",
+   "bron": "De Telegraaf",
+   "titel": "Marengo-rechters moeten nu echt lastig besluit nemen: gaat proces door met hoofdverdachte Ridouan Taghi?"
+  },
+  {
+   "kop": "Auto brandt in Nieuwleusen",
+   "blok": "lokaal",
+   "link": "https://www.dalfsennet.nl/nieuws/556699/brandweer-uitgerukt-voor-autobrand-aan-den-hulst-in-nieuwleusen.html",
+   "bron": "DalfsenNet",
+   "titel": "Brandweer uitgerukt voor autobrand aan Den Hulst in Nieuwleusen"
+  },
+  {
+   "kop": "Vogelgriep treft Oosterwolde",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3719683/vogelgriep-dichtbij-overijssel-60000-kippen-worden-geruimd",
+   "bron": "RTV Oost",
+   "titel": "Vogelgriep dichtbij Overijssel: 60.000 kippen worden geruimd"
+  },
+  {
+   "kop": "AI jaagt meldingen misbruik op",
+   "blok": "ai",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOEp5cXF1ZV9BY3piaWFOeHpwRER6QWFPSFNnQXhYSi02eEpTTWdLcjJKV1N3cUJaaGxEZUZTTndOcVAxai1DZFFsenVETEU4LXB3QUY1d1RtZmg4SXNYZlZvUlFJUUxHbXo2VEFySkZDU3JLQnV6cFFibU9lbzhwUXZPM1NRYnhNejMtU2cxN3hYRERuSGc0UTFDYUczV2FaNUJ1VmFLRTV4bUY0VEM5WHhjam4ycmc?oc=5",
+   "bron": "RTL.nl",
+   "titel": "Brits onderzoek: enorme stijging meldingen online seksueel kindermisbruik door AI"
+  },
+  {
+   "kop": "Derde vliegdekschip bereikt Golf",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2639661",
+   "bron": "NOS",
+   "titel": "'Derde Amerikaanse vliegdekschip, USS Theodore Roosevelt, aangekomen in Golfregio'"
+  }
+ ],
  "blokken": [
   {
    "id": "internationaal",
