@@ -3,15 +3,16 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "21:00",
+  "opgehaald": "22:00",
   "blokken": 11,
-  "berichten": 96,
+  "berichten": 97,
   "problemen": [
+   "google '\"Tweede Kamer\" politie OR just': HTTP 429",
    "google '\"kunstmatige intelligentie\" OR': HTTP 429"
   ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-16T21:00+01:00",
+ "opgehaald": "2026-11-16T22:00+01:00",
  "audio": "audio/20261116.mp3",
  "afval": [
   {
@@ -162,6 +163,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Lobby voor terugkeer Huang, maar top Nvidia zou er niets voor voelen",
+     "context": "De topman van Nvidia Jensen Huang werkt aan een mogelijke terugkeer bij het chipbedrijf. Dat schrijft de Britse krant Financial Times (FT) op basis van ingewijden. Volgens de FT lobbyen invloedrijke aanhangers achter de schermen bij de raad van bestuur om hem weer aan te stellen. Wie dat zijn meldt de krant niet. Topmanagers in Silicon Valley, een regio in San Francisco waar veel techbedrijven zij",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639784",
+     "bron": "NOS",
+     "tijd": "21:46",
+     "sorteer": "2026-11-16T21:46:45+01:00"
+    },
+    {
      "titel": "Turkse boer in regio Antalya, waar klimaattop is, worstelt met verduurzaming",
      "context": "Turkije verwelkomde vorige week wereldleiders die bijeenkwamen voor de klimaattop in Antalya. Opvallend was de afwezigheid van een aantal leiders, zoals premier Jetten, president Macron en bondskanselier Merz. Het weerhield de Turkse president Erdoğan er niet van om in zijn toespraak de gezamenlijke verantwoordelijkheid te benadrukken. \"We hebben maar een dak boven ons huis: de hemel, en we hebben",
      "rubrieken": [],
@@ -198,13 +208,13 @@
      "sorteer": "2026-11-16T17:21:30+01:00"
     },
     {
-     "titel": "Opnieuw massale staking bij kledingfabrieken in Bangladesh",
-     "context": "In Bangladesh zijn vandaag opnieuw tientallen kledingfabrieken uit protest dicht. Werknemers in de kledingindustrie staken voor hogere lonen. De acties zijn onderdeel van een grotere protestgolf die al langer aanhoudt. Afgelopen weekend sloten al 150 kledingfabrieken in het land hun deuren en werd een snelweg tussen de hoofdstad Dhaka en de noordelijke stad Tangail bij Gazipur geblokkeerd. Ook ein",
+     "titel": "Politie Israël onderzoekt arrestaties op verkiezingsdag waarmee Netanyahu de verkiezingen zou hebben willen manipuleren",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639733",
-     "bron": "NOS",
-     "tijd": "16:28",
-     "sorteer": "2026-11-16T16:28:46+01:00"
+     "link": "https://www.volkskrant.nl/buitenland/politie-israel-onderzoekt-arrestaties-op-verkiezingsdag-waarmee-netanyahu-de-verkiezingen-zou-hebben-willen-manipuleren~bd96d2f5/",
+     "bron": "de Volkskrant",
+     "tijd": "21:16",
+     "sorteer": "2026-11-16T20:16:00+00:00"
     },
     {
      "titel": "VS komen met nieuwe exportbeperkingen voor chips om China de pas af te snijden",
@@ -216,15 +226,6 @@
      "sorteer": "2026-11-16T19:03:00+00:00"
     },
     {
-     "titel": "Snelle toename van migratie uit Senegal naar Canarische Eilanden: waarom nu opeens?",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/snelle-toename-van-migratie-uit-senegal-naar-canarische-eilanden-waarom-nu-opeens~b01a9514/",
-     "bron": "de Volkskrant",
-     "tijd": "19:17",
-     "sorteer": "2026-11-16T18:17:14+00:00"
-    },
-    {
      "titel": "Nederland en vier andere Europese landen kondigen ‘uitzetcentrum’ in Rwanda aan",
      "context": "",
      "rubrieken": [],
@@ -234,43 +235,51 @@
      "sorteer": "2026-11-16T19:08:52+00:00"
     },
     {
-     "titel": "Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly",
-     "context": "Even as it talks peace, Russia has opened a bombing campaign intended to strip Kyiv and other cities of heat, running water and sanitation this winter.",
+     "titel": "The Death of ‘Keep 1.5 Alive’",
+     "context": "Negotiators at COP31 are confronting a new reality as the world blows past a key warming target.",
      "rubrieken": [
+      "Global Warming",
       "Russian Invasion of Ukraine (2022)",
-      "Winter (Season)",
-      "Infrastructure (Public Works)",
-      "Peace Process",
-      "Putin, Vladimir V",
-      "Zelensky, Volodymyr",
-      "Russia",
-      "Ukraine"
+      "United Nations Framework Convention on Climate Change",
+      "Carney, Mark J",
+      "Trump, Donald J",
+      "Pattinson, Robert",
+      "Grammy Awards",
+      "NVIDIA Corporation",
+      "Xi Jinping",
+      "United Nations",
+      "internal-open-access-from-nl"
      ],
-     "link": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
+     "link": "https://www.nytimes.com/2026/11/16/world/climate-cop31-ukraine-nvidia-james-bond.html",
      "bron": "New York Times",
-     "tijd": "20:43",
-     "sorteer": "2026-11-16T19:43:53+00:00",
+     "tijd": "21:46",
+     "sorteer": "2026-11-16T20:46:12+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "People behind Leave.EU and Vote Leave launch new incarnations of pro-Brexit campaigns",
-     "context": "Andy Wigmore says he wants his Enough Official group to join forces with Michael Gove-backed Stay Out movement The Brexit wars were a bitter period in political history, fraught with tension and badmouthing – and that was just between the different Leave campaigns. Now as a new incarnation of Dominic Cummings’ Vote Leave looks set to re-enter the political fray, so too does a rival anti-EU campaig",
+     "titel": "Forensic expert says his analysis of autopsy photos suggest Epstein was killed",
+     "context": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "21:33",
+     "sorteer": "2026-11-16T20:33:57+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Suspect in custody after bomb found at Illinois ethanol plant",
+     "context": "The FBI is leading the investigation into the Biourja Renewables incident after it led to a temporary evacuation Authorities investigating a bomb found recently at an ethanol production plant in Peoria, Illinois, have taken a suspect into custody, according to the mayor there. The Peoria mayor, Rita Ali, told the Guardian on Monday that leadership at the BioUrja Renewables plant “have informed me ",
      "rubrieken": [
-      "Brexit",
-      "UK news",
-      "Michael Gove",
-      "Boris Johnson",
-      "Politics",
-      "Foreign policy",
-      "European Union",
-      "Europe",
-      "Dominic Cummings"
+      "US crime",
+      "Illinois",
+      "US news"
      ],
-     "link": "https://www.theguardian.com/politics/2026/nov/16/people-behind-vote-leave-eu-launch-new-incarnations-brexit",
+     "link": "https://www.theguardian.com/us-news/2026/nov/16/illinois-bomb-ethanol-plant-suspect",
      "bron": "The Guardian",
-     "tijd": "20:38",
-     "sorteer": "2026-11-16T19:38:45+00:00",
+     "tijd": "21:25",
+     "sorteer": "2026-11-16T20:25:06+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -282,17 +291,6 @@
      "bron": "BBC",
      "tijd": "20:30",
      "sorteer": "2026-11-16T19:30:30+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Forensic expert says his analysis raises doubts about how Epstein died",
-     "context": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "20:19",
-     "sorteer": "2026-11-16T19:19:18+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -320,6 +318,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Spotgoedkope boodschappen door 'budgetmerkenoorlog', maar prijzen gaan weer stijgen",
+     "context": "Een pak stroopwafels voor 28 eurocent, een pot rode kool voor 26 cent en een pak zilvervliesrijst voor 45 cent? Sommige boodschappen zijn in de afgelopen maanden spotgoedkoop geworden. Hoe kan dat, terwijl de energieprijzen en inflatie wel stijgen? Sommige producten kelderen dit jaar in prijs: het goedkoopste pak stroopwafels kostte begin dit jaar namelijk nog 78 cent. En ook tal van andere produc",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639778",
+     "bron": "NOS",
+     "tijd": "21:17",
+     "sorteer": "2026-11-16T21:17:44+01:00"
+    },
     {
      "titel": "Verkiezingen geen optie bij gemeentelijke coalitiecrises: 'Drink een borrel met elkaar'",
      "context": "Een lijmpoging, nieuwe formatie of toch nieuwe verkiezingen? Dat zijn de opties die D66, VVD en CDA hebben sinds ze vorige week in een coalitiecrisis belandden. De Tweede Kamer wil in ieder geval niet dat een kabinetsval, mocht het zover komen, direct tot nieuwe verkiezingen leidt. In de provinciale en lokale politiek hebben ze al ervaring met het lijmen van coalitiebreuken. \"Je moet partijen een ",
@@ -357,15 +364,6 @@
      "sorteer": "2026-11-16T17:57:43+01:00"
     },
     {
-     "titel": "Zes maanden cel voor 26-jarige man die met kruisboog op katten schoot",
-     "context": "De 26-jarige Yihui L. is veroordeeld tot 181 dagen celstraf voor het doden en verwonden van katten met een kruisboog in Eindhoven. Een kat overleefde dit niet. Tussen november 2025 en mei dit jaar raakte de 26-jarige L. vijf katten met een pijl in een woonwijk. In mei werd een kat dodelijk verwond. De eigenaar trof het huisdier met de pijl in zijn oog aan voor zijn huis. De verwonde katten werden ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639745",
-     "bron": "NOS",
-     "tijd": "17:50",
-     "sorteer": "2026-11-16T17:50:31+01:00"
-    },
-    {
      "titel": "Tientallen vliegtuigen verloren gelijktijdig boven Nederland hun gps-verbinding. Zat Rusland erachter?",
      "context": "",
      "rubrieken": [],
@@ -390,7 +388,28 @@
      "link": "https://www.trouw.nl/binnenland/tijdens-zijn-bezoek-aan-sint-eustatius-belooft-de-koning-de-nazaten-van-slaafgemaakten-excuses-zijn-het-begin-van-meer~b0283647/",
      "bron": "Trouw",
      "tijd": "20:58",
-     "sorteer": "2026-11-16T19:58:32+00:00"
+     "sorteer": "2026-11-16T19:58:00+00:00"
+    },
+    {
+     "titel": "Beloning 15.000 euro in Rotterdamse zaak dood gevonden Pool Kuba",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQWhsVkVvdW9WQmZrTEo1cnljSWxpb1lTSXpvWHpCYm11YW56ZjFjNGQ0MjFCcTU0QTk0TXR6UFk0N3A3WHZzTU8tM1ItdkVXTlB6eG9QbG5ieDNaWXVZSVdBR1BrSVZQb3VuVG03RUJTNTE4YmRvOEgweENJR0VfN192X21OU0NFeEhLdDJBTHRhd3hXUzZHb2VSSDB2QzJvTEpGZWswemRlY2RsQjRkWEJtX0lKcC1rT0VvaE5PRld6a3JrNlFmejhPc0RaaHVnYUtkcmt2T2VzUnJvNjl6R0hERVV1Ylc2cEZ0eTRJMEtHdFU?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "21:49",
+     "sorteer": "2026-11-16T20:49:37+00:00"
+    },
+    {
+     "titel": "OM looft 15.000 euro uit voor gouden tip over mysterieuze dood Kuba: ‘Hopelijk gaan mensen nu praten’",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQalAxNnNBVlJNR1BKakFjYzd0X2J6dy1MTS0wRnNXLVRqbzlnWTdKdGZvMV96djFZZVdzN3FQOHlwQklwd2JjQUZOZklnTER6QlVmVEZRTTQzal9JTTgtOHdpRFhkbVkydWNTeHU4bFgxd29MUDV3TFZnQmY0V2ltNV84MjZJRVZPdjNHV1pNZ2JkLU9jcWxUbzB5SnJUNlkwZUtDQ3hGMk5OMzEwejlXNnZMSEhGbmVDVV9mU0c5Sm1pTHlzQkY1UllRa2Y5TjRDSnc?oc=5",
+     "bron": "AD.nl",
+     "tijd": "21:37",
+     "sorteer": "2026-11-16T20:37:38+00:00"
+    },
+    {
+     "titel": "Automobilist ‘parkeert’ auto in bushokje in Arnhem en moet mee naar politiebureau",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLXhJemJOWHB4ejQwTnNKV2toaVJIMllFMUtkN3hDTVZmbnMwTXdUR2FNRjRLd3JnREJHM2Nnay1RcEo0a0RhM2lXcm5rOG92RDBDc1Nkc01PWGFOaE9VQ00wWThhTGVmQ2REXzBueTg5V3hoS0NGNzF1WXI4emc0S0RzMS1ZMkZnbWpVU2UxVWtRYW9FTnUyc2MtRXlMTkkzUTF5SzJmMDFvSDZrRUh0ME9Pc1ZkSDRzbDBSQnhwSW8tSFhGaWlCZzRhMmt4SjVO?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "20:55",
+     "sorteer": "2026-11-16T19:55:58+00:00"
     },
     {
      "titel": "Man (23) achtervolgt vriendin met mes en steekt haar in de rug: vijf jaar cel voor ‘poging tot femicide’",
@@ -398,20 +417,6 @@
      "bron": "AD.nl",
      "tijd": "20:27",
      "sorteer": "2026-11-16T19:27:25+00:00"
-    },
-    {
-     "titel": "Dertig jaar na identificatie eisen Franse aanklagers jarenland cel voor ouders van ‘kleine martelaar van de A10’",
-     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPM09vVk5pdkI5UU9EVVVoVWZLckV0QWVrM2tmVl91eEhEamdwbEhLZ05QcDNocFIyeUhWWTNJOHYybFBJeWx2NjNkclJocmFZYkgtR29tMklPampmZUd6T2ljWWpNNmtlZVF5aUhOWkFPZ3BZNnExZkNJbnNuTzlGMUY2bnR4blRNd1UxaHVuVFdiQ1E2al9Bc0trb2VlWldtWldlYjgzRldLaGJ2NXBsYkQzVnhMblFSa3dneUFlTUVmTi01SmJORnB4U0x2LXNQNm5YZUs3YXRRWEI0MldCbXZISVpRbnNndUpuMG1YRHA?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "20:25",
-     "sorteer": "2026-11-16T19:25:35+00:00"
-    },
-    {
-     "titel": "De Wereld in Beeld: de opmerkelijkste foto’s van week 46",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZU9OMDRLMWNMcDZuTHVabTd4V1JRZUtkTVVnaFZDaVNRVHR0MDlPUUplR3EwSV9PM0hiZkJUVm9MYmZoUFlIUzJJd2xUSkJ6V244MGxTOWJobV9lM0t6cXlPaUpjSlZZcVYyTnU3amJCT1Q0akluVEl3QXdNYlU0RS03dm5hcFJnMHFTMHNsZENGUnpWclhqRUhMa292RlJic2Jza2hTQ1BYN19UczVSWWRWTQ?oc=5",
-     "bron": "de Volkskrant",
-     "tijd": "19:57",
-     "sorteer": "2026-11-16T18:57:16+00:00"
     },
     {
      "titel": "De miljonairswoede van de VVD is een geschenk voor links",
@@ -435,12 +440,12 @@
      "sorteer": "2026-11-16T04:45:04+00:00"
     },
     {
-     "titel": "Live | Kabinetscrisis | Coalitie praat al bijna tien uur, verloop avond onduidelijk",
+     "titel": "Live | Kabinetscrisis | Coalitieleiders nog in gesprek, praten vanavond niet met pers",
      "context": "Hallo en welkom in dit liveblog. Hier houden politiek verslaggevers Priscilla Slomp en Edo van der Goot je op de hoogte van de coalitiecrisis.",
      "rubrieken": [
       "politiek"
      ],
-     "link": "https://www.nu.nl/politiek/6416752/kabinetscrisis-coalitie-praat-al-bijna-tien-uur-verloop-avond-onduidelijk.html",
+     "link": "https://www.nu.nl/politiek/6416752/kabinetscrisis-coalitieleiders-nog-in-gesprek-praten-vanavond-niet-met-pers.html",
      "bron": "NU.nl",
      "tijd": "16:50",
      "sorteer": "2026-11-16T16:50:21+01:00",
@@ -457,6 +462,14 @@
      "kop": "Begroting"
     },
     {
+     "titel": "Nieuw box 3-stelsel neemt belangrijke horde, ook al stort belastingplan kabinet in crisis: dit gaat er veranderen",
+     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaXpQaXpmTHk0SUJOdTdmV1BHUk5XYkwxaS1MYk03Nm9odkY5dkNkSGk5Wk1fbmJIOHgtZ0FtalpwdVgtZ3F4YXp2YllZUmtqM1pOWk5LdWh4M05IRkIwN3ZSMG1xY3dOcVVIWFdUbnlNU0RKTTUxeVZCZ1pzeVlSY3E3NjdpdnNfZXZUVEhDOER2cGdiSWpDNlNxc0JtVXViem9zWjBDWnFHV3VmVFVwa1NOTE5LcG54bDJQTkxEOG16bm1oUHpYR19UWHd2ODhxYV9NSTh5amdYeFp3WVpMSE5nVnhNTU5iaklrcTN4dmg0ZFoxUFIwcldvNA?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "20:45",
+     "sorteer": "2026-11-16T19:45:00+00:00",
+     "kop": "Begroting"
+    },
+    {
      "titel": "Ook VVD-minister Heinen zocht contact met DENK voor deal over belastingplan",
      "context": "Niet alleen D66 en CDA, maar ook de VVD heeft geprobeerd DENK voor zich te winnen in de politieke strijd rond het belastingplan. Minister Eelco Heinen (Financiën) nam contact op met de oppositiepartij, blijkt uit appverkeer in handen van RTL Nieuws.",
      "rubrieken": [
@@ -466,22 +479,6 @@
      "bron": "NU.nl",
      "tijd": "19:32",
      "sorteer": "2026-11-16T19:32:33+01:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Nieuw box 3-stelsel neemt belangrijke horde, ook al stort belastingplan kabinet in crisis: dit gaat er veranderen",
-     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaXpQaXpmTHk0SUJOdTdmV1BHUk5XYkwxaS1MYk03Nm9odkY5dkNkSGk5Wk1fbmJIOHgtZ0FtalpwdVgtZ3F4YXp2YllZUmtqM1pOWk5LdWh4M05IRkIwN3ZSMG1xY3dOcVVIWFdUbnlNU0RKTTUxeVZCZ1pzeVlSY3E3NjdpdnNfZXZUVEhDOER2cGdiSWpDNlNxc0JtVXViem9zWjBDWnFHV3VmVFVwa1NOTE5LcG54bDJQTkxEOG16bm1oUHpYR19UWHd2ODhxYV9NSTh5amdYeFp3WVpMSE5nVnhNTU5iaklrcTN4dmg0ZFoxUFIwcldvNA?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "20:00",
-     "sorteer": "2026-11-16T19:00:08+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Dit stond in de appjes tussen DENK en VVD-minister van Financiën rond het belastingplan",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU0VsX25mOG5SbGxiVEhZcDYtRUcwaXFDYlFiaHlMdy1JNzJEQ3FrWGtJY1lWbnMyY3gzR2RUdUd0VEctZWtPZGYxZDJoVzB4ZUpUM1dMNEktc21nZm9xLUNwZlpYcUlqS0RFYUxFSUhYbWFkSUt5b013WVFmdWZ4R3hwNDBTRTFfT19Jakdob0VXTDdWd2ZwWjRYSDhKMFdZM09abmpmMFJlQkR2dnBuRWU4XzBodw?oc=5",
-     "bron": "RTL.nl",
-     "tijd": "18:34",
-     "sorteer": "2026-11-16T17:34:36+00:00",
      "kop": "Begroting"
     },
     {
@@ -527,6 +524,15 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Beroering over zwartgeschminkte pieten in Glanerbrug, maar gemeente kan weinig doen",
+     "context": "Bij de sinterklaasintocht in Glanerbrug liepen afgelopen weekend geen roetveegpieten, maar tientallen zwartgeschminkte pieten mee. Dat zorgt voor beroering, maar de gemeente zegt er weinig aan te kunnen doen. \"Het is geen grond om een vergunning te weigeren als men zich niet schaart achter roetveegpiet\", zegt burgemeester Roelof Bleker.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3720142/beroering-over-zwartgeschminkte-pieten-in-glanerbrug-maar-gemeente-kan-weinig-doen",
+     "bron": "RTV Oost",
+     "tijd": "20:57",
+     "sorteer": "2026-11-16T19:57:44+00:00"
+    },
     {
      "titel": "OM eist 2,5 jaar cel tegen stiefvader in ontuchtzaak Zwolle",
      "context": "Een 64-jarige man wordt verdacht van ontucht met zijn minderjarige stiefdochter in Zwolle. Hij droeg haar gebruikte ondergoed en had naar eigen zeggen een slaaf-meesteresverhouding met haar. Het Openbaar Ministerie eist 2,5 jaar cel.",
@@ -575,17 +581,6 @@
      "sorteer": "2026-11-16T15:57:40+00:00"
     },
     {
-     "titel": "‘Sexy dame’ blijkt lokaas: Zwollenaar mishandeld en naar afgelegen bos gereden",
-     "context": "Een Zwollenaar denkt midden in de nacht op weg te zijn naar een spannende date. Maar in werkelijkheid fietst hij regelrecht een hinderlaag in. Wat volgt zijn rake klappen, een bedreiging met een nijptang en een urenlange rit naar een afgelegen bos. De daders zijn nu gestraft.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3720026/sexy-dame-blijkt-lokaas-zwollenaar-mishandeld-en-naar-afgelegen-bos-gereden",
-     "bron": "RTV Oost",
-     "tijd": "16:10",
-     "sorteer": "2026-11-16T15:10:14+00:00"
-    },
-    {
      "titel": "Bestuur Buurtbus Vilsteren vraagt om rectificatie",
      "context": "VILSTEREN – Als bestuur van Buurtbus Vilsteren willen wij reageren op het verslag van de provinciale PvdA over de bussen van EBS. Wij betreuren het dat in dit verslag ook de buurtbussen worden betrokken bij de kritiek op de lijnbussen. Onze buurtbussen van de lijnen 568 en 569 zijn beide slechts één jaar oud en […]",
      "rubrieken": [
@@ -625,6 +620,16 @@
      "bron": "Politie Overijssel",
      "tijd": "16:51",
      "sorteer": "2026-11-16T15:51:00+00:00",
+     "kop": "Politie"
+    },
+    {
+     "titel": "Zwolle - Diefstal uit juwelierszaak Zwolle",
+     "context": "Aan de Diezerstraat in Zwolle stal deze man een gouden armband. Herkent u hem? Neem dan contact met ons op!",
+     "rubrieken": [],
+     "link": "https://www.politie.nl/gezocht/opsporingsbericht/2026/september/02-diefstal-uit-juwelierszaak-zwolle",
+     "bron": "Politie Zwolle",
+     "tijd": "21:10",
+     "sorteer": "2026-11-16T20:10:00+00:00",
      "kop": "Politie"
     },
     {
@@ -669,12 +674,12 @@
    "emoji": "🤖",
    "items": [
     {
-     "titel": "Antwoord op vragen van het lid Beckerman over ‘het nieuws dat gegevens over het energie- en watergebruik van datacenters…",
+     "titel": "Antwoord op vragen van het lid Flach over het gebrek aan gegevens over het energie- en watergebruik van datacenters",
      "bron": "Antwoord op Kamervragen",
      "kop": "Uit de Tweede Kamer",
      "tijd": "16-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D58287",
-     "sorteer": "2026-11-16T21:00:00.67+01:00"
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D58312",
+     "sorteer": "2026-11-16T21:03:26.173+01:00"
     },
     {
      "titel": "Het gebrek aan gegevens over het energie- en watergebruik van datacenters",
@@ -827,7 +832,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "21:00",
+    "bijgewerkt": "22:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1147,20 +1152,20 @@
      "link": "https://scientias.nl/glasvezelkabels-ook-handig-bij-het-monitoren-van-walvissen/"
     },
     {
-     "titel": "Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon",
-     "toelichting": "PUCALLPA, Peru (AP) — Pope Leo XIV is demanding justice for environmental defenders killed for protecting the Amazon. During a visit deep in the Peruvian rainforest, Leo fully backed efforts by Indigenous peoples to stop",
+     "titel": "The power of the paddy: Japan looks to rice fields to help mitigate flooding",
+     "toelichting": "OSAKI, Japan — Osaki, an agricultural community in northeast Japan, has struggled with flooding in recent years. The area was inundated in 2015, 2019 and 2022, when heavy rains breached river embankments. In response, Os",
      "bron": "Mongabay (Engels)",
-     "tijd": "17:49",
-     "link": "https://news.mongabay.com/short-article/2026/11/pope-in-peruvian-rainforest-demands-justice-for-environmental-defenders-killed-for-protecting-amazon/",
-     "sorteer": "2026-11-16T16:49:57+00:00"
+     "tijd": "21:49",
+     "link": "https://news.mongabay.com/2026/11/the-power-of-the-paddy-japan-looks-to-rice-fields-to-help-mitigate-flooding/",
+     "sorteer": "2026-11-16T20:49:00+00:00"
     },
     {
-     "titel": "Drowned in fishing gear, struck by boats, North Atlantic right whales in serious trouble",
-     "toelichting": "North Atlantic right whales hover near extinction, with perhaps 382 remaining, according to a new census published today. Their numbers dropped from 389 in 2024, a 1.8% decline, though the number of female right whales o",
+     "titel": "Payment scheme for human-wildlife coexistence faces growing criticism from Sámi reindeer herders",
+     "toelichting": "A Swedish compensation scheme designed to encourage coexistence between reindeer herders and carnivores is facing growing criticism from Indigenous Sámi communities. Inadequate payments, deficient monitoring methods and ",
      "bron": "Mongabay (Engels)",
-     "tijd": "15:48",
-     "link": "https://news.mongabay.com/2026/11/drowned-in-fishing-gear-struck-by-boats-north-atlantic-right-whales-in-serious-trouble/",
-     "sorteer": "2026-11-16T14:48:11+00:00"
+     "tijd": "21:19",
+     "link": "https://news.mongabay.com/2026/11/payment-scheme-for-human-wildlife-coexistence-faces-growing-criticism-from-sami-reindeer-herders/",
+     "sorteer": "2026-11-16T20:19:29+00:00"
     }
    ]
   },
@@ -1354,17 +1359,17 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 4.1,
-    "gevoel": 1.6,
+    "nu": 4.3,
+    "gevoel": 2.1,
     "wind": "ZW 2",
     "station": "Heino",
     "bericht": "Het weer ziet er de komende tijd uitermate wisselvallig uit, met regionaal tientallen millimeters regen. Pas aan het eind van de week wordt het droger en komt de zon vaker tevoorschijn.Vanavond zijn er opklaringen en met name in het noorden en noordoosten kan nog een laatste bui vallen. Verder zwakt de wind af.Vannacht zijn er opklaringen, maar vanuit het zuiden neemt al snel de bewolking toe en gaat het regenen.",
     "vandaag": "Vanavond zijn er opklaringen en met name in het noorden en noordoosten kan nog een laatste bui vallen. Vannacht zijn er opklaringen, maar vanuit het zuiden neemt al snel de bewolking toe en gaat het regenen.",
     "temperatuur": "In het zuiden liggen de minima rond 3 à 4 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: motregen, 2 tot 10 graden, 100% kans op neerslag, ruim 4 uur zon, wind uit het zuidwesten, kracht 4.",
+     "zin": "Voor Dalfsen zelf: motregen, 1 tot 10 graden, 100% kans op neerslag, ruim 4 uur zon, wind uit het zuidwesten, kracht 4.",
      "max": 10,
-     "min": 2,
+     "min": 1,
      "regenkans": 100,
      "omschrijving": "motregen"
     },
