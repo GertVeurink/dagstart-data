@@ -3,16 +3,15 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "22:00",
+  "opgehaald": "23:00",
   "blokken": 11,
-  "berichten": 97,
+  "berichten": 104,
   "problemen": [
-   "google '\"Tweede Kamer\" politie OR just': HTTP 429",
-   "google '\"kunstmatige intelligentie\" OR': HTTP 429"
+   "google 'belastingplan OR begroting OR ': HTTP 429"
   ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-16T22:00+01:00",
+ "opgehaald": "2026-11-16T23:00+01:00",
  "audio": "audio/20261116.mp3",
  "afval": [
   {
@@ -226,71 +225,79 @@
      "sorteer": "2026-11-16T19:03:00+00:00"
     },
     {
-     "titel": "Nederland en vier andere Europese landen kondigen ‘uitzetcentrum’ in Rwanda aan",
+     "titel": "Frankrijk haalt opgelucht adem: ruzie in de Franstalige wereld voor even uitgesteld",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/nederland-en-vier-andere-europese-landen-kondigen-uitzetcentrum-in-rwanda-aan~b1aa13a2/",
+     "link": "https://www.trouw.nl/buitenland/frankrijk-haalt-opgelucht-adem-ruzie-in-de-franstalige-wereld-voor-even-uitgesteld~b6b0de74/",
      "bron": "Trouw",
-     "tijd": "20:08",
-     "sorteer": "2026-11-16T19:08:52+00:00"
+     "tijd": "22:00",
+     "sorteer": "2026-11-16T21:00:56+00:00"
     },
     {
-     "titel": "The Death of ‘Keep 1.5 Alive’",
-     "context": "Negotiators at COP31 are confronting a new reality as the world blows past a key warming target.",
+     "titel": "Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
+     "context": "President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”",
      "rubrieken": [
-      "Global Warming",
-      "Russian Invasion of Ukraine (2022)",
-      "United Nations Framework Convention on Climate Change",
-      "Carney, Mark J",
-      "Trump, Donald J",
-      "Pattinson, Robert",
-      "Grammy Awards",
+      "International Relations",
+      "Arms Control and Limitation and Disarmament",
+      "United States International Relations",
+      "Nuclear Weapons",
+      "Artificial Intelligence",
+      "Arms Trade",
+      "Espionage and Intelligence Services",
+      "Assn of Southeast Asian Nations",
       "NVIDIA Corporation",
+      "Huang, Jen-Hsun",
+      "Putin, Vladimir V",
+      "Trump, Donald J",
       "Xi Jinping",
-      "United Nations",
-      "internal-open-access-from-nl"
+      "Asia-Pacific Economic Cooperation"
      ],
-     "link": "https://www.nytimes.com/2026/11/16/world/climate-cop31-ukraine-nvidia-james-bond.html",
+     "link": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
      "bron": "New York Times",
-     "tijd": "21:46",
-     "sorteer": "2026-11-16T20:46:12+00:00",
+     "tijd": "22:42",
+     "sorteer": "2026-11-16T21:42:51+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Forensic expert says his analysis of autopsy photos suggest Epstein was killed",
+     "titel": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+     "context": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just fou",
+     "rubrieken": [
+      "Trump administration",
+      "US news",
+      "World news",
+      "Democrats",
+      "Donald Trump",
+      "US politics",
+      "Air transport",
+      "Republicans"
+     ],
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+     "bron": "The Guardian",
+     "tijd": "22:41",
+     "sorteer": "2026-11-16T21:41:29+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Houthi rebel advance in Yemen may further destabilise global economy",
+     "context": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "22:40",
+     "sorteer": "2026-11-16T21:40:07+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
      "context": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
      "tijd": "21:33",
      "sorteer": "2026-11-16T20:33:57+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Suspect in custody after bomb found at Illinois ethanol plant",
-     "context": "The FBI is leading the investigation into the Biourja Renewables incident after it led to a temporary evacuation Authorities investigating a bomb found recently at an ethanol production plant in Peoria, Illinois, have taken a suspect into custody, according to the mayor there. The Peoria mayor, Rita Ali, told the Guardian on Monday that leadership at the BioUrja Renewables plant “have informed me ",
-     "rubrieken": [
-      "US crime",
-      "Illinois",
-      "US news"
-     ],
-     "link": "https://www.theguardian.com/us-news/2026/nov/16/illinois-bomb-ethanol-plant-suspect",
-     "bron": "The Guardian",
-     "tijd": "21:25",
-     "sorteer": "2026-11-16T20:25:06+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Lindsay Clancy to face retrial next year for deaths of her three children",
-     "context": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "20:30",
-     "sorteer": "2026-11-16T19:30:30+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -382,20 +389,27 @@
      "sorteer": "2026-11-16T16:59:00+00:00"
     },
     {
-     "titel": "Tijdens zijn bezoek aan Sint-Eustatius belooft de koning de nazaten van slaafgemaakten: Excuses zijn het begin van meer",
+     "titel": "Fries en Engels zijn niet alleen taalkundig, maar ook genetisch verwant",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/tijdens-zijn-bezoek-aan-sint-eustatius-belooft-de-koning-de-nazaten-van-slaafgemaakten-excuses-zijn-het-begin-van-meer~b0283647/",
+     "link": "https://www.trouw.nl/binnenland/fries-en-engels-zijn-niet-alleen-taalkundig-maar-ook-genetisch-verwant~bd8b0acc/",
      "bron": "Trouw",
-     "tijd": "20:58",
-     "sorteer": "2026-11-16T19:58:00+00:00"
+     "tijd": "22:00",
+     "sorteer": "2026-11-16T21:00:57+00:00"
+    },
+    {
+     "titel": "Italiaanse rechtbank stelt Revolut onder toezicht wegens het niet melden van witwassende maffiosi",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMEtJVzNrbHpBNURkNktIOS14bWZYZTJmZ3RWc2d1MGhnWEpueHBSR0xvQm5hSmVpZWxFLVFZdVdlckdnY3FIVG9tbkJqUUJiZzA4VUpLMWgyVnRnRWRKeDlQOTRIRlU0aXRLaTJOLUFvYkJNMjlCd2xUdXh4dFJUM2JwcVVjRmRBNVVaeldkLXRQRER2S3B6WGJrSDJTNmx1Q3Zzc1o1UXJPdFhXTUJBQjQ3LWJzT2FNX1lXeExGQnNkak1hVm5zaWw4Z212b2otaGY3Rnc3a3NLZw?oc=5",
+     "bron": "de Volkskrant",
+     "tijd": "22:47",
+     "sorteer": "2026-11-16T21:47:37+00:00"
     },
     {
      "titel": "Beloning 15.000 euro in Rotterdamse zaak dood gevonden Pool Kuba",
      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQWhsVkVvdW9WQmZrTEo1cnljSWxpb1lTSXpvWHpCYm11YW56ZjFjNGQ0MjFCcTU0QTk0TXR6UFk0N3A3WHZzTU8tM1ItdkVXTlB6eG9QbG5ieDNaWXVZSVdBR1BrSVZQb3VuVG03RUJTNTE4YmRvOEgweENJR0VfN192X21OU0NFeEhLdDJBTHRhd3hXUzZHb2VSSDB2QzJvTEpGZWswemRlY2RsQjRkWEJtX0lKcC1rT0VvaE5PRld6a3JrNlFmejhPc0RaaHVnYUtkcmt2T2VzUnJvNjl6R0hERVV1Ylc2cEZ0eTRJMEtHdFU?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "21:49",
-     "sorteer": "2026-11-16T20:49:37+00:00"
+     "tijd": "22:45",
+     "sorteer": "2026-11-16T21:45:00+00:00"
     },
     {
      "titel": "OM looft 15.000 euro uit voor gouden tip over mysterieuze dood Kuba: ‘Hopelijk gaan mensen nu praten’",
@@ -410,13 +424,6 @@
      "bron": "De Gelderlander",
      "tijd": "20:55",
      "sorteer": "2026-11-16T19:55:58+00:00"
-    },
-    {
-     "titel": "Man (23) achtervolgt vriendin met mes en steekt haar in de rug: vijf jaar cel voor ‘poging tot femicide’",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY2Q3bFY5M1pZbVJiTHFOZGpEQ1d5WTJ0amZ4MkQ5bnAtMVAzSVhCOEVkS2w4aFhZWHpDdnIya1pTaV9KUGw0UTVuWGc3STRsREJYS0lHX2JQR1R5T1d3VlVucXgzMGFZRUdWZGhCNWJ1aXUxU2VHTHRNcGh1YmlXNVRVS0tjRFEzWVZ5dnhlUUxKRjJCMW1yRlBoT3d5WUlLb2JHc0JBSWxnWWxaMVNKRUF0Zm4ySTJlME5mOHpmU0tjdEw1NVoxdWRDVW1IN1g5dmhPaw?oc=5",
-     "bron": "AD.nl",
-     "tijd": "20:27",
-     "sorteer": "2026-11-16T19:27:25+00:00"
     },
     {
      "titel": "De miljonairswoede van de VVD is een geschenk voor links",
@@ -440,12 +447,12 @@
      "sorteer": "2026-11-16T04:45:04+00:00"
     },
     {
-     "titel": "Live | Kabinetscrisis | Coalitieleiders nog in gesprek, praten vanavond niet met pers",
+     "titel": "Live | Kabinetsval afgewend: coalitie gaat samen door, details onduidelijk",
      "context": "Hallo en welkom in dit liveblog. Hier houden politiek verslaggevers Priscilla Slomp en Edo van der Goot je op de hoogte van de coalitiecrisis.",
      "rubrieken": [
       "politiek"
      ],
-     "link": "https://www.nu.nl/politiek/6416752/kabinetscrisis-coalitieleiders-nog-in-gesprek-praten-vanavond-niet-met-pers.html",
+     "link": "https://www.nu.nl/politiek/6416752/kabinetsval-afgewend-coalitie-gaat-samen-door-details-onduidelijk.html",
      "bron": "NU.nl",
      "tijd": "16:50",
      "sorteer": "2026-11-16T16:50:21+01:00",
@@ -459,14 +466,6 @@
      "bron": "de Volkskrant",
      "tijd": "20:56",
      "sorteer": "2026-11-16T19:56:18+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Nieuw box 3-stelsel neemt belangrijke horde, ook al stort belastingplan kabinet in crisis: dit gaat er veranderen",
-     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaXpQaXpmTHk0SUJOdTdmV1BHUk5XYkwxaS1MYk03Nm9odkY5dkNkSGk5Wk1fbmJIOHgtZ0FtalpwdVgtZ3F4YXp2YllZUmtqM1pOWk5LdWh4M05IRkIwN3ZSMG1xY3dOcVVIWFdUbnlNU0RKTTUxeVZCZ1pzeVlSY3E3NjdpdnNfZXZUVEhDOER2cGdiSWpDNlNxc0JtVXViem9zWjBDWnFHV3VmVFVwa1NOTE5LcG54bDJQTkxEOG16bm1oUHpYR19UWHd2ODhxYV9NSTh5amdYeFp3WVpMSE5nVnhNTU5iaklrcTN4dmg0ZFoxUFIwcldvNA?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "20:45",
-     "sorteer": "2026-11-16T19:45:00+00:00",
      "kop": "Begroting"
     },
     {
@@ -552,15 +551,6 @@
      "sorteer": "2026-11-16T17:59:42+00:00"
     },
     {
-     "titel": "Ruim 500 kilo vuurwerk gevonden in woning in Vroomshoop: twee aanhoudingen",
-     "context": "Een vuurwerkdeal op een parkeerplaats in Hardenberg heeft de politie naar een woning in Vroomshoop geleid. Daar lag een explosieve voorraad van meer dan 500 kilo vuurwerk. Twee bewoners zijn aangehouden.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3720124/ruim-500-kilo-vuurwerk-gevonden-in-woning-in-vroomshoop-twee-aanhoudingen",
-     "bron": "RTV Oost",
-     "tijd": "18:11",
-     "sorteer": "2026-11-16T17:11:49+00:00"
-    },
-    {
      "titel": "Nog lang niet uitgeblust: zestigplussers rukken op bij de brandweer",
      "context": "Zodra de pieper gaat, staan ze paraat: de vrijwilligers van de brandweer. Henk al veertig jaar en André al 47 jaar. En daarmee zijn ze niet eens de oudsten van hun corps in Weerselo. \"Ik kan nog altijd wel aardig meekomen met de jonkies\", lacht André. \"Ik wil graag de vijftig nog volmaken.\"",
      "rubrieken": [
@@ -579,6 +569,17 @@
      "bron": "RTV Oost",
      "tijd": "16:57",
      "sorteer": "2026-11-16T15:57:40+00:00"
+    },
+    {
+     "titel": "‘Sexy dame’ blijkt lokaas: Zwollenaar mishandeld en naar afgelegen bos gereden",
+     "context": "Een Zwollenaar denkt midden in de nacht op weg te zijn naar een spannende date. Maar in werkelijkheid fietst hij regelrecht een hinderlaag in. Wat volgt zijn rake klappen, een bedreiging met een nijptang en een urenlange rit naar een afgelegen bos. De daders zijn nu gestraft.",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3720026/sexy-dame-blijkt-lokaas-zwollenaar-mishandeld-en-naar-afgelegen-bos-gereden",
+     "bron": "RTV Oost",
+     "tijd": "16:10",
+     "sorteer": "2026-11-16T15:10:14+00:00"
     },
     {
      "titel": "Bestuur Buurtbus Vilsteren vraagt om rectificatie",
@@ -688,6 +689,20 @@
      "tijd": "01-10",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D47754",
      "sorteer": "2026-11-16T17:50:01.433+01:00"
+    },
+    {
+     "titel": "Jan Maarten Slagter: revolutionaire opmars van AI maakt van een machine nog geen mens",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLV9yMk9nVmRZMWxuTTg5MGFJVTlHdWg4MG04SG1xSlhycHhBQ21tRDBFOVFHMEY5bE4xZXdxNnFGdXI5QW1xaVYxakpFXzBnRDBsZ0JzR3VpQTBvNjNJdmZoMVNtSU5YN2pXSnVhS29QQ3Uxb2NmYTJiczk0M093UFZIUU9lRXRNQjZNNVFBRG5aM0ZNMWNhbE5vcEJPTTJwZklmbDI5ZndOOXdCOWJzOUs2ZUYwTk1HdlM4WDE5WUQ4YnE2VXpaWFNPX1lHX3Jx?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "20:00",
+     "sorteer": "2026-11-16T19:00:00+00:00"
+    },
+    {
+     "titel": "Ook Anthropic geeft ontwikkelaars veel korter de tijd om bug te fixen vanwege AI",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeUdkNFNBbW9SU1hibWpUQnJTdHBiaGgyemNiZlEweWdTOE5XUFJ5YVhTV3lEeU5oWWZ6VmNNZmx1a2JvLVc1TGNnVzg5TjhmMXRZMmFMN1BmRHZDcjZfeFcteGlCQWRNeWstVGd4MUF5YzRNYXNkUXhRbEQyQWR3RVlmUzIxaGhvTmhWWW1NbjBBUjNFWXh0SzdpdGpia3dCU2VxcTNOMHktR2x3SFpLZUFZaWxpb2ZGRUpjMg?oc=5",
+     "bron": "Tweakers",
+     "tijd": "19:25",
+     "sorteer": "2026-11-16T18:25:17+00:00"
     }
    ]
   },
@@ -696,6 +711,54 @@
    "titel": "Tweede Kamer",
    "emoji": "🏛️",
    "items": [
+    {
+     "titel": "De heer Boon (PVV) over opsporing",
+     "bron": "Onderdeel Integratie en maatschappelijke samenhang uit de begroting…",
+     "toelichting": "Iedereen weet door wie het komt. Dit is ook elke week te zien bij Opsporing Verzocht. Door die mislukte integratie is Nederland van een hightrustsamenleving afgegleden naar een lowtrustsamenleving. Het is het allerergst in onze grote steden. Allochtonen zijn daar nu al in de meerderheid. Autochtone Nederlanders zijn een minderheid geworden. Het straatbeeld lijkt daar in sommige wijken meer op Marokko of Turkije dan…",
+     "kop": "Transcriptie",
+     "tijd": "16-11",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06402"
+    },
+    {
+     "titel": "De heer Tijs van den Brink (CDA) over rechtsstaat",
+     "bron": "Onderdeel Integratie en maatschappelijke samenhang uit de begroting…",
+     "toelichting": "Integratie gaat niet alleen over taal, maar ook over de samenleving waar mensen deel van uit gaan maken. Wat hebben we in Nederland met elkaar gemeen? Wat mogen we verwachten van iemand die hier komt wonen en wat kan die nieuwkomer van ons verwachten? Nederland heeft een eigen taal en geschiedenis. Onze samenleving is gevormd door het jodendom, het christendom en het humanisme. Onze democratische rechtsstaat met al…",
+     "kop": "Transcriptie",
+     "tijd": "16-11",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06402"
+    },
+    {
+     "titel": "De heer Ceder (ChristenUnie) over rechtsstaat",
+     "bron": "Onderdeel Integratie en maatschappelijke samenhang uit de begroting…",
+     "toelichting": "Voorzitter. Wat de heer Gullit in dit gesprek vertelt, speelt op heel veel plekken in het land, in huiskamers, op tv, op school, in mijn hoofd, bijvoorbeeld naar aanleiding van een selfie van de gekleurde Nederlandse internationals — vaak zijn zij gewoon in Nederland geboren — en de vele racistische reacties daarop. Hoe rijmen we dat met elkaar? Het speelt naar aanleiding van het succes van het Marokkaans elftal…",
+     "kop": "Transcriptie",
+     "tijd": "16-11",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06402"
+    },
+    {
+     "titel": "Mevrouw Keijzer (Lid Keijzer) over rechtsstaat",
+     "bron": "Onderdeel Integratie en maatschappelijke samenhang uit de begroting…",
+     "toelichting": "Maar dank, voorzitter. Nederland heeft een eigen geschiedenis, cultuur en identiteit. Samen hebben we een democratische rechtsstaat gevormd, waarin onderlinge verbondenheid tussen burgers, verantwoordelijkheid, gelijkwaardigheid en vrijheid centraal staan. Deze samenleving is gevormd door een gedeelde geschiedenis, een gedeelde taal en een democratische rechtsstaat die die rechten en die vrijheid beschermt. Die…",
+     "kop": "Transcriptie",
+     "tijd": "16-11",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06402"
+    },
+    {
+     "titel": "Minister Aartsen over rechtsstaat",
+     "bron": "Onderdeel Integratie en maatschappelijke samenhang uit de begroting…",
+     "toelichting": "Ik heb de introductie op integratie al eerder in mijn beantwoording op de heer Ceder gegeven, dus ik zal mijn verhaal in algemene zin overslaan. Daar zijn de volgende vragen over gesteld. Herkent de minister dat de islam een vaste invloed heeft op integratie en de normen en waarden van ons land? Zoals ik al eerder zei, is integratie voor mij meedoen in de samenleving aan de ene kant, maar ook het beschermen van de…",
+     "kop": "Transcriptie",
+     "tijd": "16-11",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06402"
+    },
+    {
+     "titel": "Mevrouw Nanninga (JA21) over politie",
+     "bron": "Onderdeel Integratie en maatschappelijke samenhang uit de begroting…",
+     "toelichting": "Wat de heer Bamenga zegt, klopt helemaal niet. Wij hebben een motie ingediend die volgens mij ging over politie. Er mochten daar geen politie-iftars meer worden gehouden. Daar zijn we ook mordicus tegen. De islam heeft sowieso niet zo'n heel positieve invloed op de Nederlandse samenleving, en de politie heeft geen enkele zaak bij het houden van religieuze vieringen. Een kerstboom, een kerstbol et cetera zijn geen…",
+     "kop": "Transcriptie",
+     "tijd": "16-11",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06402"
+    },
     {
      "titel": "De inbeslagname van een server door de Amsterdamse politie op verzoek van de Amerikaanse regering",
      "bron": "Kamervraag",
@@ -832,7 +895,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "22:00",
+    "bijgewerkt": "23:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1152,20 +1215,20 @@
      "link": "https://scientias.nl/glasvezelkabels-ook-handig-bij-het-monitoren-van-walvissen/"
     },
     {
+     "titel": "Environmental groups challenge Mexico’s rollback of protections for world’s smallest porpoise",
+     "toelichting": "MEXICO CITY — Environmental groups are fighting against relaxed fishing regulations in the Gulf of California, where the last of the vaquita, the world’s smallest porpoise, is close to extinction. In October 2026, change",
+     "bron": "Mongabay (Engels)",
+     "tijd": "22:06",
+     "link": "https://news.mongabay.com/short-article/2026/11/environmental-groups-challenge-mexicos-rollback-of-protections-for-worlds-smallest-porpoise/",
+     "sorteer": "2026-11-16T21:06:44+00:00"
+    },
+    {
      "titel": "The power of the paddy: Japan looks to rice fields to help mitigate flooding",
      "toelichting": "OSAKI, Japan — Osaki, an agricultural community in northeast Japan, has struggled with flooding in recent years. The area was inundated in 2015, 2019 and 2022, when heavy rains breached river embankments. In response, Os",
      "bron": "Mongabay (Engels)",
      "tijd": "21:49",
      "link": "https://news.mongabay.com/2026/11/the-power-of-the-paddy-japan-looks-to-rice-fields-to-help-mitigate-flooding/",
      "sorteer": "2026-11-16T20:49:00+00:00"
-    },
-    {
-     "titel": "Payment scheme for human-wildlife coexistence faces growing criticism from Sámi reindeer herders",
-     "toelichting": "A Swedish compensation scheme designed to encourage coexistence between reindeer herders and carnivores is facing growing criticism from Indigenous Sámi communities. Inadequate payments, deficient monitoring methods and ",
-     "bron": "Mongabay (Engels)",
-     "tijd": "21:19",
-     "link": "https://news.mongabay.com/2026/11/payment-scheme-for-human-wildlife-coexistence-faces-growing-criticism-from-sami-reindeer-herders/",
-     "sorteer": "2026-11-16T20:19:29+00:00"
     }
    ]
   },
@@ -1317,7 +1380,7 @@
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 167 vogels; 111 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 167 vogels; 110 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1359,17 +1422,17 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 4.3,
-    "gevoel": 2.1,
+    "nu": 4.5,
+    "gevoel": 2.0,
     "wind": "ZW 2",
     "station": "Heino",
     "bericht": "Het weer ziet er de komende tijd uitermate wisselvallig uit, met regionaal tientallen millimeters regen. Pas aan het eind van de week wordt het droger en komt de zon vaker tevoorschijn.Vanavond zijn er opklaringen en met name in het noorden en noordoosten kan nog een laatste bui vallen. Verder zwakt de wind af.Vannacht zijn er opklaringen, maar vanuit het zuiden neemt al snel de bewolking toe en gaat het regenen.",
     "vandaag": "Vanavond zijn er opklaringen en met name in het noorden en noordoosten kan nog een laatste bui vallen. Vannacht zijn er opklaringen, maar vanuit het zuiden neemt al snel de bewolking toe en gaat het regenen.",
     "temperatuur": "In het zuiden liggen de minima rond 3 à 4 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: motregen, 1 tot 10 graden, 100% kans op neerslag, ruim 4 uur zon, wind uit het zuidwesten, kracht 4.",
+     "zin": "Voor Dalfsen zelf: motregen, 2 tot 10 graden, 100% kans op neerslag, ruim 4 uur zon, wind uit het zuidwesten, kracht 4.",
      "max": 10,
-     "min": 1,
+     "min": 2,
      "regenkans": 100,
      "omschrijving": "motregen"
     },
