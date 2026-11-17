@@ -3,14 +3,17 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "05:55",
+  "opgehaald": "07:00",
   "blokken": 11,
-  "berichten": 101,
-  "problemen": [],
-  "audio_herkomst": "model",
-  "audio_aangehaakt": "06:50"
+  "berichten": 99,
+  "problemen": [
+   "google 'rechtsstaat OR grondwet OR hoo': HTTP 429",
+   "google '\"Tweede Kamer\" politie OR just': HTTP 429",
+   "google '\"kunstmatige intelligentie\" AN': HTTP 429"
+  ],
+  "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-17T05:55+01:00",
+ "opgehaald": "2026-11-17T07:00+01:00",
  "audio": "audio/20261117.mp3",
  "afval": [
   {
@@ -213,6 +216,24 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Wekdienst 17/11: Jetten geeft uitleg over herstel vertrouwen • Memoires Biden komen uit",
+     "context": "Goedemorgen! Vanochtend leggen coalitiepartijen D66, VVD en CDA uit hoe ze het vertrouwen in elkaar hebben hersteld. En de memoires van voormalig Amerikaanse president Joe Biden komen uit. Eerst het weer: In het noorden is het vandaag regenachtig en waterkoud. In het zuiden trekken stevige buien over met kans op onweer en windstoten. Het wordt 10 tot 14 graden. In het noordoosten is het nog een ti",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639822",
+     "bron": "NOS",
+     "tijd": "06:45",
+     "sorteer": "2026-11-17T06:45:45+01:00"
+    },
+    {
+     "titel": "Biden in memoires fel over einde campagne: ‘Had Trump kunnen verslaan’",
+     "context": "\"Nou, ik heb het verknald.\" Dat was de eerste reactie van Joe Biden in juni 2024 op zijn dramatisch slecht verlopen verkiezingsdebat met Donald Trump. \"Alleen waren mijn woorden nog wat grover.\" Toch was hij toen nog steeds gebrand op revanche, schrijft Biden in zijn memoires, Beloof me, Amerika , die vandaag wereldwijd verschijnen. Presidenten hadden in het verleden vaker een slecht eerste debat ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639821",
+     "bron": "NOS",
+     "tijd": "06:34",
+     "sorteer": "2026-11-17T06:34:29+01:00"
+    },
+    {
      "titel": "Costa Ricaanse journalist op klaarlichte dag doodgeschoten",
      "context": "In Costa Rica is maandag op klaarlichte dag een journalist doodgeschoten. Dat meldt persbureau Reuters op basis van lokale autoriteiten. Het gaat om Camilo Rodríguez, die grote bekendheid verwierf door zijn berichtgeving over drugshandel. Zo deelde hij regelmatig video's op sociale media waarin hij corruptie aan de kaak stelde en vermeende banden tussen rechters, advocaten, politici en criminele o",
      "rubrieken": [],
@@ -240,25 +261,6 @@
      "sorteer": "2026-11-17T01:11:37+01:00"
     },
     {
-     "titel": "Britse premier Burnham: we zijn slechter af na Brexit",
-     "context": "Vraag je aan Britten of Brexit een succes was, dan zegt nu nog maar zo'n 10 procent 'ja'. En inmiddels ziet 59 procent een terugkeer naar de Europese Unie weer als een goed idee. De publieke opinie in het Verenigd Koninkrijk is veranderd tien jaar na het Brexit-referendum. En dat voelt de Britse premier Andy Burnham haarfijn aan. Daarom roept hij nu op tot een 'eerlijk gesprek' over de relatie met",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639800",
-     "bron": "NOS",
-     "tijd": "23:00",
-     "sorteer": "2026-11-16T23:00:27+01:00"
-    },
-    {
-     "titel": "Lobby voor terugkeer Huang, maar top Nvidia zou er niets voor voelen",
-     "context": "De topman van Nvidia Jensen Huang werkt aan een mogelijke terugkeer bij het chipbedrijf. Dat schrijft de Britse krant Financial Times (FT) op basis van ingewijden. Volgens de FT lobbyen invloedrijke aanhangers achter de schermen bij de raad van bestuur om hem weer aan te stellen. Wie dat zijn meldt de krant niet. Topmanagers in Silicon Valley, een regio in San Francisco waar veel techbedrijven zij",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639784",
-     "bron": "NOS",
-     "tijd": "21:46",
-     "sorteer": "2026-11-16T21:46:45+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
      "titel": "Japan noemt schending luchtruim door vermoedelijk Russische straaljagers ‘onacceptabel’",
      "context": "",
      "rubrieken": [],
@@ -277,11 +279,53 @@
      "sorteer": "2026-11-16T23:51:15+00:00"
     },
     {
-     "titel": "Commentaar",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrUlVNOEgzblByeXRNcU9iUHhzb2FJNjRtR2E2eVZNT1RGMGVHQTctZFdfYV9aWTF6Ml9xcEo1MVNEQXBrRkE0MXNZSnZkTzg?oc=5",
-     "bron": "NRC",
-     "tijd": "05:04",
-     "sorteer": "2026-11-17T04:04:53+00:00"
+     "titel": "Two major Kyiv bridges hit in Russian attack, mayor says",
+     "context": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "06:57",
+     "sorteer": "2026-11-17T05:57:38+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Woman whose baby died after free birth didn’t know she was pregnant with twins, NSW inquest hears",
+     "context": "Inquest continues into deaths of four babies born in free births or home births in northern rivers Get our breaking news email , free app or daily news podcast A northern rivers mother whose baby died after a free birth did not know she was having twins until she was in labour after having no pregnancy scans, the New South Wales coroner’s court has heard. The inquest will examine the deaths of fou",
+     "rubrieken": [
+      "Health",
+      "New South Wales",
+      "Australia news"
+     ],
+     "link": "https://www.theguardian.com/australia-news/2026/nov/17/nsw-inquest-free-birth-keeper-baby-death-ntwnfb",
+     "bron": "The Guardian",
+     "tijd": "06:37",
+     "sorteer": "2026-11-17T05:37:33+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "The Death of ‘Keep 1.5 Alive’",
+     "context": "Negotiators at COP31 are confronting a new reality as the world blows past a key warming target.",
+     "rubrieken": [
+      "Global Warming",
+      "Russian Invasion of Ukraine (2022)",
+      "United Nations Framework Convention on Climate Change",
+      "Carney, Mark J",
+      "Trump, Donald J",
+      "Pattinson, Robert",
+      "Grammy Awards",
+      "NVIDIA Corporation",
+      "Xi Jinping",
+      "United Nations",
+      "internal-open-access-from-nl"
+     ],
+     "link": "https://www.nytimes.com/2026/11/16/world/climate-cop31-ukraine-nvidia-james-bond.html",
+     "bron": "New York Times",
+     "tijd": "06:20",
+     "sorteer": "2026-11-17T05:20:43+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
      "titel": "Das Verhandlungsfinale um Strom und Sprit",
@@ -308,67 +352,13 @@
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "RBA board members who voted against rate hike warned of ‘materially sharper downturn’",
-     "context": "Minutes released from latest Reserve Bank meeting as Jim Chalmers says Myefo ‘will cut enough, but not too much’ Get our breaking news email , free app or daily news podcast Reserve Bank board members who voted against this month’s official interest rate hike were worried about a “materially sharper downturn” in the economy, arguing the RBA should wait to see how higher borrowing costs would hit h",
-     "rubrieken": [
-      "Australian economy",
-      "Australian politics",
-      "Jim Chalmers",
-      "Australia news",
-      "Labor party",
-      "Cost-of-living crisis",
-      "Interest rates",
-      "Inflation",
-      "Tax",
-      "Reserve Bank of Australia",
-      "Business"
-     ],
-     "link": "https://www.theguardian.com/australia-news/2026/nov/17/myefo-mid-year-budget-update-australia-treasurer-jim-chalmers",
-     "bron": "The Guardian",
-     "tijd": "05:05",
-     "sorteer": "2026-11-17T04:05:04+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-     "context": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+     "titel": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
+     "context": "The US vice-president tells Fox News that when he makes a decision to run or otherwise, he will \"be all in on whatever that decision is\".",
      "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+     "link": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "03:37",
-     "sorteer": "2026-11-17T02:37:53+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Pope Endures Grueling Travel in South America Weeks After Surgery",
-     "context": "When doctors operated on Pope Leo XIV’s lung in October, some wondered if he’d postpone a long-planned trip to South America. It’s gone well so far.",
-     "rubrieken": [
-      "Leo XIV",
-      "Lung Cancer",
-      "South America",
-      "Argentina",
-      "Peru",
-      "Uruguay",
-      "Cuzco (Peru)",
-      "Roman Catholic Church"
-     ],
-     "link": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
-     "bron": "New York Times",
-     "tijd": "02:09",
-     "sorteer": "2026-11-17T01:09:52+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Five EU countries announce migrant deportation centre in Rwanda",
-     "context": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "00:20",
-     "sorteer": "2026-11-16T23:20:45+00:00",
+     "tijd": "04:07",
+     "sorteer": "2026-11-17T03:07:23+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -379,6 +369,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Roken en vapen onder mbo'ers blijft populair, alcoholgebruik neemt wel af",
+     "context": "Het nicotinegebruik onder mbo'ers blijft onverminderd hoog, blijkt uit onderzoek van het Trimbos-instituut. Een op de vijf studenten gebruikt dagelijks een product waar nicotine in zit. Het rapport is opgesteld met cijfers over 2025. Het gebruik van alcohol, cannabis en lachgas is ten opzichte van 2023 wel afgenomen. Het onderzoek richtte zich specifiek op de groep mbo'ers. \"Aangezien uit eerdere ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639817",
+     "bron": "NOS",
+     "tijd": "06:00",
+     "sorteer": "2026-11-17T06:00:03+01:00"
+    },
     {
      "titel": "Spotgoedkope boodschappen door 'budgetmerkenoorlog', maar prijzen gaan weer stijgen",
      "context": "Een pak stroopwafels voor 28 eurocent, een pot rode kool voor 26 cent en een pak zilvervliesrijst voor 45 cent? Sommige boodschappen zijn in de afgelopen maanden spotgoedkoop geworden. Hoe kan dat, terwijl de energieprijzen en inflatie wel stijgen? Sommige producten kelderen dit jaar in prijs: het goedkoopste pak stroopwafels kostte begin dit jaar namelijk nog 78 cent. En ook tal van andere produc",
@@ -407,26 +406,6 @@
      "bron": "NOS",
      "tijd": "19:07",
      "sorteer": "2026-11-16T19:07:28+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Nepagenten laten diepe sporen achter: 'Niet gelukt om te waken over spullen van overleden vrouw'",
-     "context": "Het aantal incidenten met nepagenten is dit jaar naar een recordhoogte gestegen, bleek maandag . Oplichters die zich voordoen als politie- en bankmedewerkers hebben het specifiek gemunt op ouderen, die ze geld en sieraden afhandig maken. Slachtoffers begrijpen achteraf niet hoe ze erin konden trappen. Als waarschuwing doen drie van hen hun verhaal. Jo Bosma (93): 'Mensen, wees alsjeblieft voorzich",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639760",
-     "bron": "NOS",
-     "tijd": "19:06",
-     "sorteer": "2026-11-16T19:06:47+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Boot met migranten ging bij dorpje Hoofdplaat te water, twee verdachten langer vast",
-     "context": "De rubberboot met 38 mensen aan boord die eind vorige maand in Zeeland door de kustwacht werd onderschept, is bij het dorpje Hoofdplaat in de gemeente Sluis te water gegaan. Dat meldt het Openbaar Ministerie (OM) in een verklaring. Uit onderzoek is gebleken dat de opvarenden vanuit Frankrijk naar het Zeeuwse dorpje Breskens waren gegaan. In de nacht van vrijdag 30 op zaterdag 31 oktober 2026 ginge",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639747",
-     "bron": "NOS",
-     "tijd": "17:57",
-     "sorteer": "2026-11-16T17:57:43+01:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -488,15 +467,15 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Live | Sybrand Buma moet partijen helpen samen te werken na coalitiecrisis",
-     "context": "Hallo en welkom in dit liveblog. Hier houden politiek verslaggevers Priscilla Slomp en Edo van der Goot je op de hoogte van de coalitiecrisis.",
+     "titel": "Live | Politiek | Extra ministerraad: coalitie legt voorstel voor koers kabinet neer",
+     "context": "Hallo en welkom in dit liveblog. Hier houden politiek verslaggevers Priscilla Slomp en Edo van der Goot je op de hoogte van de ontwikkelingen.",
      "rubrieken": [
       "politiek"
      ],
-     "link": "https://www.nu.nl/politiek/6416752/sybrand-buma-moet-partijen-helpen-samen-te-werken-na-coalitiecrisis.html",
+     "link": "https://www.nu.nl/politiek/6416809/politiek-extra-ministerraad-coalitie-legt-voorstel-voor-koers-kabinet-neer.html",
      "bron": "NU.nl",
-     "tijd": "16:50",
-     "sorteer": "2026-11-16T16:50:21+01:00",
+     "tijd": "06:05",
+     "sorteer": "2026-11-17T06:05:28+01:00",
      "kop": "Begroting"
     },
     {
@@ -585,6 +564,33 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Zorgdirecteur eerder in opspraak, nu miljoen rijker",
+     "context": "De directeur van Zorgcentrum Samensterk heeft zichzelf bijna een miljoen euro winst uitgekeerd. Dit blijkt uit onderzoek door RTV Oost. Door de riante bonus is de zorginstelling in de rode cijfers beland. \"Een eerlijke ondernemer doet dit niet.\"",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3712071/zorgdirecteur-eerder-in-opspraak-nu-miljoen-rijker",
+     "bron": "RTV Oost",
+     "tijd": "06:03",
+     "sorteer": "2026-11-17T05:03:49+00:00"
+    },
+    {
+     "titel": "Na Londen krijgt Zwolle een 'klimaattop': de Nationale Noodbriefing",
+     "context": "Een grote bijeenkomst in Zwolle moet leiden tot meer actie om de gevolgen van de klimaatcrisis tegen te gaan. Een vergelijkbaar initiatief in Engeland zette de politiek onder druk. \"We hopen dat er een beweging van onderaf ontstaat\", zegt programmamaker Kees Klomp van Hogeschool Windesheim.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3717408/na-londen-krijgt-zwolle-een-klimaattop-de-nationale-noodbriefing",
+     "bron": "RTV Oost",
+     "tijd": "05:03",
+     "sorteer": "2026-11-17T04:03:42+00:00"
+    },
+    {
+     "titel": "Man aangehouden bij woninginval in Almelo",
+     "context": "Een speciaal bijstandsteam van de politie is vanavond een woning in Almelo binnengevallen. Daarbij is een man aangehouden De actie vond plaats aan de Anjelierstraat.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3720203/man-aangehouden-bij-woninginval-in-almelo",
+     "bron": "RTV Oost",
+     "tijd": "23:30",
+     "sorteer": "2026-11-16T22:30:39+00:00"
+    },
+    {
      "titel": "Beroering over zwartgeschminkte pieten in Glanerbrug, maar gemeente kan weinig doen",
      "context": "Bij de sinterklaasintocht in Glanerbrug liepen afgelopen weekend geen roetveegpieten, maar tientallen zwartgeschminkte pieten mee. Dat zorgt voor beroering, maar de gemeente zegt er weinig aan te kunnen doen. \"Het is geen grond om een vergunning te weigeren als men zich niet schaart achter roetveegpiet\", zegt burgemeester Roelof Bleker.",
      "rubrieken": [],
@@ -595,6 +601,16 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "OM eist 2,5 jaar cel tegen stiefvader in ontuchtzaak Zwolle",
+     "context": "Een 64-jarige man wordt verdacht van ontucht met zijn minderjarige stiefdochter in Zwolle. Hij droeg haar gebruikte ondergoed en had naar eigen zeggen een slaaf-meesteresverhouding met haar. Het Openbaar Ministerie eist 2,5 jaar cel.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3720010/om-eist-2-5-jaar-cel-tegen-stiefvader-in-ontuchtzaak-zwolle",
+     "bron": "RTV Oost",
+     "tijd": "20:01",
+     "sorteer": "2026-11-16T19:01:15+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
      "titel": "Jan kan zijn voortuin niet uit door werkzaamheden aan de kade in Ossenzijl",
      "context": "\"Normaal gesproken varen hier altijd boten voorbij, maar nu staat er een grote kraan voor de deur\", vertelt Jan Kluin, bewoner van Ossenzijl. Hij kan zijn voortuin niet uit, omdat hij dan direct op de bouwplaats staat. De aanpak van de kade langs de Ossenzijlersloot zorgt maandenlang voor overlast.",
      "rubrieken": [],
@@ -602,49 +618,6 @@
      "bron": "RTV Oost",
      "tijd": "18:59",
      "sorteer": "2026-11-16T17:59:42+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Ruim 500 kilo vuurwerk gevonden in woning in Vroomshoop: twee aanhoudingen",
-     "context": "Een vuurwerkdeal op een parkeerplaats in Hardenberg heeft de politie naar een woning in Vroomshoop geleid. Daar lag een explosieve voorraad van meer dan 500 kilo vuurwerk. Twee bewoners zijn aangehouden.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3720124/ruim-500-kilo-vuurwerk-gevonden-in-woning-in-vroomshoop-twee-aanhoudingen",
-     "bron": "RTV Oost",
-     "tijd": "18:11",
-     "sorteer": "2026-11-16T17:11:49+00:00"
-    },
-    {
-     "titel": "Nog lang niet uitgeblust: zestigplussers rukken op bij de brandweer",
-     "context": "Zodra de pieper gaat, staan ze paraat: de vrijwilligers van de brandweer. Henk al veertig jaar en André al 47 jaar. En daarmee zijn ze niet eens de oudsten van hun corps in Weerselo. \"Ik kan nog altijd wel aardig meekomen met de jonkies\", lacht André. \"Ik wil graag de vijftig nog volmaken.\"",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3713354/nog-lang-niet-uitgeblust-zestigplussers-rukken-op-bij-de-brandweer",
-     "bron": "RTV Oost",
-     "tijd": "17:56",
-     "sorteer": "2026-11-16T16:56:25+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Brug in Enschedese wijk vernield door vuurwerkexplosie: gemeente komt met plan",
-     "context": "Dat moet een flinke knal geweest zijn, in het Wesselerbrinkpark in Enschede. De schade aan de brug over de vijver laat in ieder geval weinig aan de verbeelding over. In het midden zit een flink gat en ook iets verderop is een gat te zien. Beide zwartgeblakerd. De schade loopt in de duizenden euro's.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3720031/brug-in-enschedese-wijk-vernield-door-vuurwerkexplosie-gemeente-komt-met-plan",
-     "bron": "RTV Oost",
-     "tijd": "16:57",
-     "sorteer": "2026-11-16T15:57:40+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "‘Sexy dame’ blijkt lokaas: Zwollenaar mishandeld en naar afgelegen bos gereden",
-     "context": "Een Zwollenaar denkt midden in de nacht op weg te zijn naar een spannende date. Maar in werkelijkheid fietst hij regelrecht een hinderlaag in. Wat volgt zijn rake klappen, een bedreiging met een nijptang en een urenlange rit naar een afgelegen bos. De daders zijn nu gestraft.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3720026/sexy-dame-blijkt-lokaas-zwollenaar-mishandeld-en-naar-afgelegen-bos-gereden",
-     "bron": "RTV Oost",
-     "tijd": "16:10",
-     "sorteer": "2026-11-16T15:10:14+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -967,7 +940,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "05:55",
+    "bijgewerkt": "07:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1249,27 +1222,19 @@
    "items": [
     {
      "titel": "Vandaag in de natuur",
-     "toelichting": "Het papegaaizwammetje is een pareltje tussen de zwammen en een van de gemakkelijkst herkenbare wasplaten. Vooral de jonge exemplaren geven zich zo weg doordat ze overwegen groen gekleurd zijn – de lamellen zijn echt felgroen.",
+     "toelichting": "De witte kluifzwam gedijt op grond met een rijke humuslaag en je vindt ze momenteel op plekken met een dikke laag bladafval.",
      "bron": "Nature Today",
      "tijd": "",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36064",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36069",
      "sein": true
     },
     {
-     "titel": "Natuurjournaal 16 november 2026",
-     "toelichting": "Papegaaizwammetje leef je nog en we zeggen nog geen dag tegen de dagkoekoeksbloem.",
+     "titel": "Natuurjournaal 17 november 2026",
+     "toelichting": "Witte paddenstoelen tussen het bruine blad, zoek de witte kluifzwam en grote molenaar.",
      "bron": "Nature Today",
      "tijd": "06:45",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36064",
-     "sorteer": "2026-11-16T05:45:00+00:00"
-    },
-    {
-     "titel": "Tientallen heimelijke zwarte herfstspinners",
-     "toelichting": "De zwarte herfstspinner is groot en opvallend, maar toch wordt deze algemene nachtvlinder niet zo heel veel waargenomen. Dat komt door de verborgen leefwijze van de vlinder. Bijna alle waarnemingen zijn bij licht. De vli",
-     "bron": "Nature Today",
-     "tijd": "07:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36061",
-     "sorteer": "2026-11-16T06:00:00+00:00"
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36069",
+     "sorteer": "2026-11-17T05:45:00+00:00"
     },
     {
      "titel": "Aantal gewone zeehonden in Waddenzee daalt voor vijfde jaar op rij",
@@ -1280,11 +1245,27 @@
      "sorteer": "2026-11-16T07:00:00+00:00"
     },
     {
+     "titel": "Basenrijke trilvenen onder druk – waarom slim waterbeheer het verschil maakt",
+     "toelichting": "In laag-Nederland staat trilveen, veenmosrietland en dotterbloemhooiland onder druk door verzuring, verdroging en vermesting. Deze processen versnellen successie en verdringen soortenrijke vegetaties. Bevloeiing en inund",
+     "bron": "Nature Today",
+     "tijd": "12:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36056",
+     "sorteer": "2026-11-16T11:00:00+00:00"
+    },
+    {
      "titel": "Glasvezelkabels ook handig bij het monitoren van walvissen",
      "toelichting": "Walvissen zijn de nachtegaaltjes van de zee en al jaren gebruiken wetenschappers hun gezang om het gedrag van walvissen in kaart te brengen. Het internet kan daarin een grote rol spelen, blijkt nu. Amerikaanse onderzoeke",
      "bron": "Scientias",
      "tijd": "17:00",
      "link": "https://scientias.nl/glasvezelkabels-ook-handig-bij-het-monitoren-van-walvissen/"
+    },
+    {
+     "titel": "Singapore investors hope for diplomatic help after Indonesia halts $50b electricity export push",
+     "toelichting": "SINGAPORE — With Singapore’s appetite for electricity expected to balloon by as much as half its current peak demand by 2031, the country is turning to its neighbors to pipe in clean power — in part to keep its data cent",
+     "bron": "Mongabay (Engels)",
+     "tijd": "05:56",
+     "link": "https://news.mongabay.com/2026/11/singapore-investors-hope-for-diplomatic-help-after-indonesia-halts-50b-electricity-export-push/",
+     "sorteer": "2026-11-17T04:56:32+00:00"
     },
     {
      "titel": "Thailand-Myanmar river pollution agreement was weakened, then signed. China remains silent",
@@ -1293,14 +1274,6 @@
      "tijd": "04:36",
      "link": "https://news.mongabay.com/2026/11/thailand-myanmar-river-pollution-agreement-was-weakened-then-signed-china-remains-silent/",
      "sorteer": "2026-11-17T03:36:37+00:00"
-    },
-    {
-     "titel": "Fish pay the price for sacred rituals at Mumbai’s Banganga Tank",
-     "toelichting": "In October, hundreds of fish were found dead in Mumbai’s Banganga Tank, an ancient freshwater tank considered sacred with roots in Indian mythology. Fish deaths have become nearly an annual occurrence there following the",
-     "bron": "Mongabay (Engels)",
-     "tijd": "00:18",
-     "link": "https://news.mongabay.com/short-article/2026/11/fish-pay-the-price-for-sacred-rituals-at-mumbais-banganga-tank/",
-     "sorteer": "2026-11-16T23:18:51+00:00"
     }
    ]
   },
@@ -1478,15 +1451,15 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 1.4,
-    "gevoel": -1.6,
-    "wind": "OZO 2",
+    "nu": 1.9,
+    "gevoel": -1.4,
+    "wind": "O 2",
     "station": "Heino",
     "bericht": "Vandaag en morgen is het sterk wisselvallig met vandaag eerst regen, daarna stevige buien met kans op onweer en zware windstoten. In het zuiden wordt het zeer zacht!Vanochtend is het bewolkt en trekt een regengebied van zuidwesten naar noordoost over het land. Het kan daarbij soms flink doorregenen.",
     "vandaag": "In het zuiden wordt het zeer zacht!Vanochtend is het bewolkt en trekt een regengebied van zuidwesten naar noordoost over het land. Vanmiddag trekt de regen naar het noordoosten, in het noorden blijft het dan nog geruime tijd regenen.",
     "temperatuur": "De middagtemperatuur loopt sterkt uiteen van 6 graden in het noordoosten tot misschien wel 16 graden in het zuiden van Limburg.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: regen, 1 tot 11 graden, 100% kans op neerslag, wind uit het zuiden, kracht 5.",
+     "zin": "Voor Dalfsen zelf: regen, 1 tot 11 graden, 100% kans op neerslag, wind uit het zuiden, kracht 4.",
      "max": 11,
      "min": 1,
      "regenkans": 100,
