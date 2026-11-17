@@ -3,15 +3,16 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "09:00",
+  "opgehaald": "10:00",
   "blokken": 11,
-  "berichten": 99,
+  "berichten": 95,
   "problemen": [
-   "google '\"kunstmatige intelligentie\" OR': HTTP 429"
+   "google '\"minister van Justitie\" OR \"Ju': HTTP 429",
+   "google '\"Tweede Kamer\" politie OR just': HTTP 429"
   ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-17T09:00+01:00",
+ "opgehaald": "2026-11-17T10:00+01:00",
  "audio": "audio/20261117.mp3",
  "afval": [
   {
@@ -214,6 +215,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Krimbrug gedeeltelijk ingestort na nieuwe Oekraïense aanvallen, twee doden",
+     "context": "Oekraïne heeft een deel van de Krimbrug verwoest, schrijft The Kyiv Independent . Die brug is de verbinding tussen het Russische vasteland en het door Rusland geannexeerde schiereiland de Krim. Foto's op sociale media laten zien dat een deel van het wegdek is ingestort . Ook liggen er brokstukken in het water, waardoor de scheepvaart is geblokkeerd. Volgens The Guardian werd bij de aanval een Flam",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639837",
+     "bron": "NOS",
+     "tijd": "09:26",
+     "sorteer": "2026-11-17T09:26:07+01:00"
+    },
+    {
      "titel": "Vluchtende automobilist rijdt 13-jarig meisje dood in Duitsland",
      "context": "In Duitsland is een meisje van 13 doodgereden door een vluchtende automobilist. De 32-jarige man probeerde te ontkomen aan een verkeerscontrole, schrijven Duitse media. Agenten wilden de man aanhouden omdat het kenteken van de auto als gestolen stond geregistreerd, maar hij ging ervandoor. In Sailauf, in de deelstaat Beieren, zou hij over de stoep hebben gereden en het 13-jarige meisje hebben gesc",
      "rubrieken": [],
@@ -250,13 +260,13 @@
      "sorteer": "2026-11-17T05:19:53+01:00"
     },
     {
-     "titel": "Elf Grammy-nominaties voor Britse zangeres Raye, ook mijlpaal voor Beyoncé",
-     "context": "De Britse zangeres Raye heeft elf nominaties in de wacht gesleept voor de Grammy Awards. Dat heeft de organisatie van een van de belangrijkste Amerikaanse muziekprijzen gisteren bekendgemaakt. Raye dankt de nominaties aan haar album This music may contain hope , waarop de hit Where is my husband! staat . Daarmee voert de 29-jarige artiest dit jaar de lijst met genomineerden aan. Bij de vrouwelijke",
+     "titel": "Amerikaans ministeries van Handel en Justitie melden plotseling al een jaar smokkel van chips van Nvidia te onderzoeken",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639815",
-     "bron": "NOS",
-     "tijd": "03:30",
-     "sorteer": "2026-11-17T03:30:32+01:00"
+     "link": "https://www.volkskrant.nl/buitenland/amerikaans-ministeries-van-handel-en-justitie-melden-plotseling-al-een-jaar-smokkel-van-chips-van-nvidia-te-onderzoeken~b6a87df2/",
+     "bron": "de Volkskrant",
+     "tijd": "09:43",
+     "sorteer": "2026-11-17T08:43:00+00:00"
     },
     {
      "titel": "Krimbrug opnieuw gesloten voor verkeer na Oekraïense aanval",
@@ -268,15 +278,6 @@
      "sorteer": "2026-11-17T07:30:00+00:00"
     },
     {
-     "titel": "Japan noemt schending luchtruim door vermoedelijk Russische straaljagers ‘onacceptabel’",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/japan-noemt-schending-luchtruim-door-vermoedelijk-russische-straaljagers-onacceptabel~ba73caa7f/",
-     "bron": "de Volkskrant",
-     "tijd": "04:22",
-     "sorteer": "2026-11-17T03:22:16+00:00"
-    },
-    {
      "titel": "Moskou meldt grote aanval met 800 drones",
      "context": "",
      "rubrieken": [],
@@ -286,86 +287,81 @@
      "sorteer": "2026-11-17T07:00:00+00:00"
     },
     {
+     "titel": "Russia hits 2 major Kyiv bridges in overnight strikes",
+     "context": "The attacks came as Ukraine carried out further strikes on a key bridge in Crimea.",
+     "rubrieken": [
+      "Critical infrastructure",
+      "Defense",
+      "Drones",
+      "Missiles",
+      "War in Ukraine",
+      "Politics"
+     ],
+     "link": "https://www.politico.eu/article/russian-missiles-hit-two-major-kyiv-bridges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "09:51",
+     "sorteer": "2026-11-17T08:51:35+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
+     "context": "The debt load of developing countries jumped to $9.4 trillion as high interest rates and other global shocks batter their economies.",
+     "rubrieken": [
+      "Credit and Debt",
+      "Developing Countries",
+      "Interest Rates",
+      "US and Israeli Attack on Iran (2026)",
+      "Economic Conditions and Trends",
+      "World Bank",
+      "International Monetary Fund",
+      "Guzman, Martin (1982- )"
+     ],
+     "link": "https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html",
+     "bron": "New York Times",
+     "tijd": "09:45",
+     "sorteer": "2026-11-17T08:45:15+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
+     "context": "Kyiv and Moscow dispute scale of damage which means travel out of the peninsula is now only via a land corridor vulnerable to Ukrainian drone attack Ukraine critically damages Kerch bridge Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what Ukrainian officials say is a symbolic blow to the Kremlin. Photos suggest that a 227-me",
+     "rubrieken": [
+      "Russia",
+      "Ukraine",
+      "Crimea",
+      "Germany",
+      "Finland",
+      "Europe",
+      "World news"
+     ],
+     "link": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+     "bron": "The Guardian",
+     "tijd": "09:37",
+     "sorteer": "2026-11-17T08:37:52+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
      "titel": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
      "context": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "08:55",
-     "sorteer": "2026-11-17T07:55:32+00:00",
+     "tijd": "09:06",
+     "sorteer": "2026-11-17T08:06:32+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
-     "context": "Photos of bridge, built after 2014 annexation and viewed by Ukraine as illegal, suggest massive steel arch has fallen into water Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what Ukrainian officials say is a symbolic blow to the Kremlin. Footage showed a Ukrainian Flamingo cruise missile seconds before it hit the road and ra",
-     "rubrieken": [
-      "Ukraine",
-      "Russia",
-      "Crimea",
-      "Europe",
-      "World news"
-     ],
-     "link": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
-     "bron": "The Guardian",
-     "tijd": "08:42",
-     "sorteer": "2026-11-17T07:42:26+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Japan’s Suica Penguin Mascot Is Retiring. Fans Are Taking It Hard.",
-     "context": "The Suica penguin has been a familiar presence on prepaid transit cards for more than 20 years. Its imminent retirement has prompted a wave of nostalgia.",
-     "rubrieken": [
-      "Commuting",
-      "Penguins",
-      "Grief (Emotion)",
-      "Fans (Persons)",
-      "Subways",
-      "East Japan Railway Co",
-      "Japan",
-      "Tokyo (Japan)",
-      "Mascots"
-     ],
-     "link": "https://www.nytimes.com/2026/11/17/world/asia/japan-penguin-suica-card.html",
-     "bron": "New York Times",
-     "tijd": "08:18",
-     "sorteer": "2026-11-17T07:18:56+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-     "context": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+     "titel": "Japan sends up jets after alleged Russian incursion of its airspace",
+     "context": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
      "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+     "link": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "06:59",
-     "sorteer": "2026-11-17T05:59:01+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Das Verhandlungsfinale um Strom und Sprit",
-     "context": "Kommt die Einigung zur Stromsteuer.Vor dem Koalitionsausschuss zeigt sich Friedrich Merz optimistisch, doch die SPD pocht auf eine harte Gegenfinanzierung. Während der Kanzler in Rücklagen greifen will, stehen Subventionen wie das Dienstwagenprivileg auf der Kippe.Ein Kampf um Milliarden, der auch die Rente erfassen könnte, wie Maximilian Stascheit und Rasmus Buchsteiner diskutieren. Im 200-Sekund",
-     "rubrieken": [
-      "Budget",
-      "Der Podcast",
-      "Donald Trump",
-      "German politics",
-      "Middle East",
-      "Pensions",
-      "Playbook",
-      "Social affairs",
-      "Strompreise",
-      "Stromsteuer",
-      "Playbook",
-      "Politics"
-     ],
-     "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/das-verhandlungsfinale-um-strom-und-sprit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "05:30",
-     "sorteer": "2026-11-17T04:30:00+00:00",
+     "tijd": "08:44",
+     "sorteer": "2026-11-17T07:44:17+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -376,6 +372,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "ANWB meldt drukste ochtendspits van het jaar, ruim 1000 kilometer file",
+     "context": "De ochtendspits van vandaag is de drukste van het jaar. Iets voor 08.30 uur stond er ruim 1050 kilometer file. \"Het gaat nu langzaam afnemen\", zegt een ANWB-woordvoerder. Volgens de woordvoerder hebben de lange files vooral te maken met het natte weer, maar ook de tijd van het jaar speelt een rol. \"Mensen houden meer afstand door de regen, daardoor worden dagelijkse files langer dan normaal.\" Ook ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639834",
+     "bron": "NOS",
+     "tijd": "09:01",
+     "sorteer": "2026-11-17T09:01:14+01:00"
+    },
     {
      "titel": "Meer studenten vragen hulp bij geldzaken, zien onderwijsinstellingen",
      "context": "Meer studenten vragen hun opleiding om financiële hulp. Dat zeggen ruim twintig onderwijsinstellingen tegen NOS Stories. Mbo's, hbo's en universiteiten zien een toename in aanvragen voor betalingsregelingen. Ook financieren ze vaker bepaalde schoolmiddelen en geven ze meer advies over geldzaken. Dit is in lijn met een onderzoek dat het Armoedefonds dit jaar deed. Daaruit bleek dat bijna 60 procent",
@@ -402,16 +407,6 @@
      "bron": "NOS",
      "tijd": "06:00",
      "sorteer": "2026-11-17T06:00:03+01:00"
-    },
-    {
-     "titel": "Spotgoedkope boodschappen door 'budgetmerkenoorlog', maar prijzen gaan weer stijgen",
-     "context": "Een pak stroopwafels voor 28 eurocent, een pot rode kool voor 26 cent en een pak zilvervliesrijst voor 45 cent? Sommige boodschappen zijn in de afgelopen maanden spotgoedkoop geworden. Hoe kan dat, terwijl de energieprijzen en inflatie wel stijgen? Sommige producten kelderen dit jaar in prijs: het goedkoopste pak stroopwafels kostte begin dit jaar namelijk nog 78 cent. En ook tal van andere produc",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639778",
-     "bron": "NOS",
-     "tijd": "21:17",
-     "sorteer": "2026-11-16T21:17:44+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Beleid voor emancipatie van mensen met een beperking schiet tekort: ‘Het grootste probleem is betaald werk’",
@@ -441,35 +436,6 @@
      "sorteer": "2026-11-17T07:57:57+00:00"
     },
     {
-     "titel": "Rechtbank spreekt 23-jarige man vrij van verkrachten vrouw uit Ellecom",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVDl6Z1QyRkV1RXBJZ0YyVmpHbWJjaGVUcHFnQ3dqUWJ1allGTUZWQ2NDajdsNFIwcURCanFpeV92TFlaUlEzbEZRdkQ2bkVJbzZ5NDhEcUdPaTc0ZDltUGxrb01uZ0hndHc3bTVxQ3o5ZzRJb2lxTnhxUW85d2UtTGNncEU3QkVvMm8zRXVyTkhYUWV1QjRhTGpFOUUwb2lzRmp0T2dVQnZTUDBrOWZqSUlMYnlrZw?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "08:24",
-     "sorteer": "2026-11-17T07:24:11+00:00"
-    },
-    {
-     "titel": "Woningbrand op Victor de Stuerslaan in Arnhem",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN25zQ2JyQkVvNU5wNFBKSkxCeU43MWF2TGlNcy1YRE13SDFaTmpfampHeVh4bU1aN0FWZVhrM0I3TWVRcDBMRi1XeUNWeW1IRDJyc2lyQnBvdks0VmMwcm5LWjllQjNoMEswRWZNOXl6Zm9kWkRDdm1sY1FQV2JYVmZla1lZTmI2QWlTWTFmeF9YMEhHQ0hucEJUd01WMTliN19N?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "07:25",
-     "sorteer": "2026-11-17T06:25:56+00:00"
-    },
-    {
-     "titel": "Beloning 15.000 euro in Rotterdamse zaak dood gevonden Pool Kuba",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQWhsVkVvdW9WQmZrTEo1cnljSWxpb1lTSXpvWHpCYm11YW56ZjFjNGQ0MjFCcTU0QTk0TXR6UFk0N3A3WHZzTU8tM1ItdkVXTlB6eG9QbG5ieDNaWXVZSVdBR1BrSVZQb3VuVG03RUJTNTE4YmRvOEgweENJR0VfN192X21OU0NFeEhLdDJBTHRhd3hXUzZHb2VSSDB2QzJvTEpGZWswemRlY2RsQjRkWEJtX0lKcC1rT0VvaE5PRld6a3JrNlFmejhPc0RaaHVnYUtkcmt2T2VzUnJvNjl6R0hERVV1Ylc2cEZ0eTRJMEtHdFU?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "06:45",
-     "sorteer": "2026-11-17T05:45:00+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "KIJK LIVE: Extra ministerraad over koers van het kabinet",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVVJyZ0RXd1JWM09nVXExQWQ1NTA5UjlVTkpweHlBekVXOHdCQ0Zaek1ZV05SNjM5QVJjU2NmeXJiX29RN1BsS21kOUM5TFg4a0ltalAzS2pOR1V0aUd3Yk13QjlqT0RRSmpuT0VGTzNRLVpaQVZCeHNTT0s3NnZidlREdEg0NUV1bWNwcF81UU5hU2xpbFllN2tET3R1MDNuNlJn?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "07:51",
-     "sorteer": "2026-11-17T06:51:38+00:00"
-    },
-    {
      "titel": "Hoe Elon Musks efficiëntie-afdeling de Amerikaanse overheid inefficiënter maakte",
      "link": "https://decorrespondent.nl/17370",
      "bron": "De Correspondent · Michiel de Hoog",
@@ -485,12 +451,12 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Live | Politiek | Extra ministerraad: coalitie legt voorstel voor koers kabinet neer",
+     "titel": "Live | Politiek | Premier Jetten geeft persconferentie over koers kabinet",
      "context": "Hallo en welkom in dit liveblog. Hier houden politiek verslaggevers Priscilla Slomp en Edo van der Goot je op de hoogte van de ontwikkelingen.",
      "rubrieken": [
       "politiek"
      ],
-     "link": "https://www.nu.nl/politiek/6416809/politiek-extra-ministerraad-coalitie-legt-voorstel-voor-koers-kabinet-neer.html",
+     "link": "https://www.nu.nl/politiek/6416809/politiek-premier-jetten-geeft-persconferentie-over-koers-kabinet.html",
      "bron": "NU.nl",
      "tijd": "06:05",
      "sorteer": "2026-11-17T06:05:28+01:00",
@@ -623,6 +589,19 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Bewonersavond ‘Van het gas af in 2050’ op 19 november",
+     "context": "DALFSEN – Let op: deze bijeenkomst was eerst gepland op donderdag 22 oktober, maar is verplaatst naar donderdag 19 november. Deze zomer werden er weer hoge temperaturen gemeten en werden hitterecords verbroken. Steeds meer huishoudens zoeken daarom naar manieren om hun woning comfortabel te houden en steeds meer mensen kiezen voor het plaatsen van een […]",
+     "rubrieken": [
+      "Dalfsen",
+      "Ingezonden bericht",
+      "Laatste nieuws"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/554921/bewonersavond-van-het-gas-af-in-2050-op-19-november.html",
+     "bron": "DalfsenNet",
+     "tijd": "09:00",
+     "sorteer": "2026-11-17T08:00:17+00:00"
+    },
+    {
      "titel": "Dijkleger ging oefenen en op inspectie",
      "context": "VECHTDAL – Vrijdag 13 november in de avond werden de vrijwilligers in het dijkleger van waterschap Vechtstromen opgeroepen om de dijken langs de Vecht te inspecteren. Naast de vrijwilligers werden de drones van het waterschap ingezet als onderdeel van deze inspectie. Nu het water, aan het begin van het hoogwaterseizoen, nog netjes op peil is […]",
      "rubrieken": [
@@ -634,20 +613,6 @@
      "bron": "DalfsenNet",
      "tijd": "23:14",
      "sorteer": "2026-11-16T22:14:46+00:00"
-    },
-    {
-     "titel": "Bestuur Buurtbus Vilsteren vraagt om rectificatie",
-     "context": "VILSTEREN – Als bestuur van Buurtbus Vilsteren willen wij reageren op het verslag van de provinciale PvdA over de bussen van EBS. Wij betreuren het dat in dit verslag ook de buurtbussen worden betrokken bij de kritiek op de lijnbussen. Onze buurtbussen van de lijnen 568 en 569 zijn beide slechts één jaar oud en […]",
-     "rubrieken": [
-      "Ingezonden bericht",
-      "Laatste nieuws",
-      "Vilsteren"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/556748/bestuur-buurtbus-vilsteren-vraagt-om-rectificatie.html",
-     "bron": "DalfsenNet",
-     "tijd": "20:40",
-     "sorteer": "2026-11-16T19:40:41+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
     }
    ]
   },
@@ -831,20 +796,20 @@
      "sorteer": "2026-11-16T16:50:10.917+01:00"
     },
     {
-     "titel": "Toezeggingen gedaan tijdens de wetgevingsoverleggen van 2 en 10 november 2026 over het begrotingsonderdeel artikel 31 Politie",
+     "titel": "Uitkomst politieke gesprekken",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
-     "tijd": "16-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D58326",
-     "sorteer": "2026-11-16T17:17:16.15+01:00"
+     "tijd": "17-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D58385",
+     "sorteer": "2026-11-17T09:57:00.483+01:00"
     },
     {
-     "titel": "Strafonderbreking en aanpak terugkeer criminele vreemdelingen",
+     "titel": "Begrotingsonderdeel Artikel 31 Politie",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
-     "tijd": "16-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D58182",
-     "sorteer": "2026-11-16T13:55:10.743+01:00"
+     "tijd": "28-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D53911",
+     "sorteer": "2026-11-17T09:22:35.84+01:00"
     },
     {
      "titel": "Begroting Justitie en Veiligheid (37020-VI)1e TK",
@@ -934,7 +899,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "09:00",
+    "bijgewerkt": "10:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1254,20 +1219,20 @@
      "link": "https://scientias.nl/glasvezelkabels-ook-handig-bij-het-monitoren-van-walvissen/"
     },
     {
+     "titel": "Plans for a new marine protected area boost whale shark conservation in Indonesia’s Saleh Bay",
+     "toelichting": "Plans to create a marine protected area for whale sharks in Indonesia’s Saleh Bay would give the world’s largest fish important new protections across several stages of its lifecycle, conservationists say. Besides servin",
+     "bron": "Mongabay (Engels)",
+     "tijd": "09:10",
+     "link": "https://news.mongabay.com/2026/11/plans-for-a-new-marine-protected-area-boost-whale-shark-conservation-in-indonesias-saleh-bay/",
+     "sorteer": "2026-11-17T08:10:41+00:00"
+    },
+    {
      "titel": "Singapore investors hope for diplomatic help after Indonesia halts $50b electricity export push",
      "toelichting": "SINGAPORE — With Singapore’s appetite for electricity expected to balloon by as much as half its current peak demand by 2031, the country is turning to its neighbors to pipe in clean power — in part to keep its data cent",
      "bron": "Mongabay (Engels)",
      "tijd": "05:56",
      "link": "https://news.mongabay.com/2026/11/singapore-investors-hope-for-diplomatic-help-after-indonesia-halts-50b-electricity-export-push/",
      "sorteer": "2026-11-17T04:56:32+00:00"
-    },
-    {
-     "titel": "Thailand-Myanmar river pollution agreement was weakened, then signed. China remains silent",
-     "toelichting": "MAE SAI, Thailand — Thai Foreign Minister Sihasak Phuangketkeow made a one-day visit to Naypyidaw, the capital of Myanmar, on Nov. 12 to speak with the military regime about trade, border security and, notably, the pollu",
-     "bron": "Mongabay (Engels)",
-     "tijd": "04:36",
-     "link": "https://news.mongabay.com/2026/11/thailand-myanmar-river-pollution-agreement-was-weakened-then-signed-china-remains-silent/",
-     "sorteer": "2026-11-17T03:36:37+00:00"
     }
    ]
   },
@@ -1445,9 +1410,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 2.8,
-    "gevoel": -1.3,
-    "wind": "OZO 3",
+    "nu": 3.0,
+    "gevoel": -1.8,
+    "wind": "O 4",
     "station": "Heino",
     "bericht": "Vandaag en morgen is het sterk wisselvallig met vandaag eerst regen, daarna stevige buien met kans op onweer en zware windstoten. In het zuiden wordt het zeer zacht!Vanochtend is het bewolkt en trekt een regengebied van zuidwesten naar noordoost over het land. Het kan daarbij soms flink doorregenen.",
     "vandaag": "In het zuiden wordt het zeer zacht!Vanochtend is het bewolkt en trekt een regengebied van zuidwesten naar noordoost over het land. Vanmiddag trekt de regen naar het noordoosten, in het noorden blijft het dan nog geruime tijd regenen.",
