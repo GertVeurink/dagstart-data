@@ -7,10 +7,11 @@
   "blokken": 11,
   "berichten": 101,
   "problemen": [],
-  "audio_herkomst": null
+  "audio_herkomst": "model",
+  "audio_aangehaakt": "06:06"
  },
  "opgehaald": "2026-11-17T05:55+01:00",
- "audio": null,
+ "audio": "audio/20261117.mp3",
  "afval": [
   {
    "datum": "2026-11-27",
@@ -49,7 +50,110 @@
    "afwijkend": false
   }
  ],
- "duiding": [],
+ "duiding": [
+  {
+   "titel": "Buma moet coalitie weer lijmen",
+   "tekst": "Sybrand Buma moet D66, VVD en CDA weer laten samenwerken na hun crisis over het belastingplan, en daarmee ligt een doorstart van het kabinet op tafel (23, 30). In de strijd om dat plan zochten niet alleen D66 en CDA, maar ook VVD-minister Heinen steun bij oppositiepartij DENK (27). Het plan zelf liep een kras op, al nam het nieuwe box 3-stelsel een belangrijke horde (24). Vandaag is het de vierde dag crisisoverleg, over aangepaste afspraken en over een eventuele extra partij in de coalitie (30).",
+   "verwijzingen": [
+    {
+     "titel": "Live | Sybrand Buma moet partijen helpen samen te werken na coalitiecrisis",
+     "link": "https://www.nu.nl/politiek/6416752/sybrand-buma-moet-partijen-helpen-samen-te-werken-na-coalitiecrisis.html",
+     "bron": "NU.nl",
+     "tijd": "16:50",
+     "nummers": [
+      23
+     ]
+    },
+    {
+     "titel": "Nieuw box 3-stelsel neemt belangrijke horde, ook al levert belastingplan kabinet kras op: dit gaat er veranderen",
+     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZ0EtYW1GZXJfd0pMR2F4UGdCU0hEZjlMV1RUU1V6Qll4WWlqY3lOdk83NnVTUDhyb3MwVXF2TS1LRmZxVWNvRE1XWjdSWXBOaTJBVjgzZjVBYmdpd1BJRlNYWUdSaG9KaS1vaEZyd1RsR3ptNkhidUt4Z3N3dUZWREpYM1lWWW4xUTZIYU95VmptMFNRXzEzZFA5NUpxLVAyLUc2bDRZU3dFYk8zMnA4MGdxZjZuRVJ2a01XaHlfNW9ZRUIyMEY4bUZoZ0dhSHQ4OTVlRzFjSmpWSkxpQi0zZEFMMlR6QVU2R0RFQy1RR3lJbmduSTUzQ2hR?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "04:45",
+     "nummers": [
+      24
+     ]
+    },
+    {
+     "titel": "Ook VVD-minister Heinen zocht contact met DENK voor deal over belastingplan",
+     "link": "https://www.nu.nl/politiek/6416650/ook-vvd-minister-heinen-zocht-contact-met-denk-voor-deal-over-belastingplan.html",
+     "bron": "NU.nl",
+     "tijd": "19:32",
+     "nummers": [
+      27
+     ]
+    },
+    {
+     "titel": "Nieuwsuur: Kabinetscrisis dag 4 • Grip op migratie? • Verzet tegen thuiswerken • Hypedocu over Elizabeth Holmes",
+     "link": "https://nos.nl/l/2639719",
+     "bron": "NPO2 · 22:00",
+     "tijd": "22:00",
+     "nummers": [
+      30
+     ]
+    }
+   ],
+   "geschreven": "06:06"
+  },
+  {
+   "titel": "Nvidia wijst terugkeer Huang af",
+   "tekst": "Nvidia wijst de campagne af om oud-topman Jensen Huang terug te halen, terwijl president Trump die poging volgens de BBC steunt (11). Die lobby komt volgens de FT van topmanagers in Silicon Valley, die een war room optuigden en steun zochten bij het Witte Huis (5). Daartegenover richt het bestuur zich volgens CNBC op een onderzoek naar Huang, die vorige week aftrad na onthullingen over buitenechtelijke affaires (5).",
+   "verwijzingen": [
+    {
+     "titel": "Lobby voor terugkeer Huang, maar top Nvidia zou er niets voor voelen",
+     "link": "https://nos.nl/l/2639784",
+     "bron": "NOS",
+     "tijd": "21:46",
+     "nummers": [
+      5
+     ]
+    },
+    {
+     "titel": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+     "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "03:37",
+     "nummers": [
+      11
+     ]
+    }
+   ],
+   "geschreven": "06:06"
+  },
+  {
+   "titel": "Justitie laat gevangenen eerder gaan",
+   "tekst": "Justitie stuurt gevangenen vier weken te vroeg weg omdat er cellen tekortkomen, zegt de staatssecretaris (28). Daarover stuurde het kabinet maandag ook een brief aan de Kamer, over strafonderbreking en de aanpak van terugkeer van criminele vreemdelingen (49). Vanmiddag om 16:50 debatteert de Tweede Kamer over de begroting van Justitie en Veiligheid (50).",
+   "verwijzingen": [
+    {
+     "titel": "Staatssecretaris: cellentekort noopt justitie gevangenen vier weken te vroeg weg te sturen",
+     "link": "https://www.volkskrant.nl/binnenland/staatssecretaris-cellentekort-noopt-justitie-gevangenen-vier-weken-te-vroeg-weg-te-sturen~bb828c1a/",
+     "bron": "de Volkskrant",
+     "tijd": "14:27",
+     "nummers": [
+      28
+     ]
+    },
+    {
+     "titel": "Strafonderbreking en aanpak terugkeer criminele vreemdelingen",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D58182",
+     "bron": "Brief van de regering",
+     "tijd": "16-11",
+     "nummers": [
+      49
+     ]
+    },
+    {
+     "titel": "Begroting Justitie en Veiligheid (37020-VI)1e TK",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05412",
+     "bron": "Plenair debat (wetgeving)",
+     "tijd": "dinsdag 17/11 16:50",
+     "nummers": [
+      50
+     ]
+    }
+   ],
+   "geschreven": "06:06"
+  }
+ ],
  "denkwerk": {
   "tekst": "De wereld is alles wat het geval is. De wereld is het geheel van de feiten, niet van de dingen.",
   "wie": "Ludwig Wittgenstein",
@@ -58,7 +162,50 @@
   "parafrase": false,
   "link": "https://gertveurink.github.io/denkwerk/#/"
  },
- "verder": [],
+ "verder": [
+  {
+   "kop": "Politie vindt 500 kilo vuurwerk",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3720124/ruim-500-kilo-vuurwerk-gevonden-in-woning-in-vroomshoop-twee-aanhoudingen",
+   "bron": "RTV Oost",
+   "titel": "Ruim 500 kilo vuurwerk gevonden in woning in Vroomshoop: twee aanhoudingen"
+  },
+  {
+   "kop": "Nepagenten bestelen ouderen",
+   "blok": "nationaal",
+   "link": "https://nos.nl/l/2639760",
+   "bron": "NOS",
+   "titel": "Nepagenten laten diepe sporen achter: 'Niet gelukt om te waken over spullen van overleden vrouw'"
+  },
+  {
+   "kop": "Beloning voor tip dode Pool",
+   "blok": "nationaal",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUTJxRU0wN0JzbHdJNjU0N3ljWi1tMEVXZTFZQzUwNDZzSEt1OHVUUlR3YkxxbTViU3Y0SDVKcmY5N25idV9HaDBIc1FsZUhVM1djM0RsNGlrakZFalp3YVFreWxhNHdnd0VPaktKbHpsVEZyUEQwRWRkeC1KOHBhUkcxOW40S01uYVNhUk12UThFaTRFaml0SnFPT1ROUFZObUhiM19lVlhkOFhlLVNCcGV0Zk1VcGpISmFrZzFTU2M?oc=5",
+   "bron": "RTL.nl",
+   "titel": "Beloning van 15.000 euro voor gouden tip in overlijden Poolse man in Rotterdam"
+  },
+  {
+   "kop": "Dijkleger inspecteert Vechtdijken",
+   "blok": "lokaal",
+   "link": "https://www.dalfsennet.nl/nieuws/556750/dijkleger-ging-oefenen-en-op-inspectie.html",
+   "bron": "DalfsenNet",
+   "titel": "Dijkleger ging oefenen en op inspectie"
+  },
+  {
+   "kop": "Californië klaagt OpenAI aan",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2639814",
+   "bron": "NOS",
+   "titel": "Californië klaagt OpenAI aan wegens gebrekkige veiligheidsmaatregelen"
+  },
+  {
+   "kop": "Journalist in Costa Rica vermoord",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2639816",
+   "bron": "NOS",
+   "titel": "Costa Ricaanse journalist op klaarlichte dag doodgeschoten"
+  }
+ ],
  "blokken": [
   {
    "id": "internationaal",
