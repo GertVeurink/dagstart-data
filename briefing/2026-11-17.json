@@ -3,16 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "10:00",
+  "opgehaald": "11:00",
   "blokken": 11,
-  "berichten": 95,
-  "problemen": [
-   "google '\"minister van Justitie\" OR \"Ju': HTTP 429",
-   "google '\"Tweede Kamer\" politie OR just': HTTP 429"
-  ],
+  "berichten": 99,
+  "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-17T10:00+01:00",
+ "opgehaald": "2026-11-17T11:00+01:00",
  "audio": "audio/20261117.mp3",
  "afval": [
   {
@@ -287,81 +284,70 @@
      "sorteer": "2026-11-17T07:00:00+00:00"
     },
     {
-     "titel": "Russia hits 2 major Kyiv bridges in overnight strikes",
-     "context": "The attacks came as Ukraine carried out further strikes on a key bridge in Crimea.",
-     "rubrieken": [
-      "Critical infrastructure",
-      "Defense",
-      "Drones",
-      "Missiles",
-      "War in Ukraine",
-      "Politics"
-     ],
-     "link": "https://www.politico.eu/article/russian-missiles-hit-two-major-kyiv-bridges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "09:51",
-     "sorteer": "2026-11-17T08:51:35+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
-     "context": "The debt load of developing countries jumped to $9.4 trillion as high interest rates and other global shocks batter their economies.",
-     "rubrieken": [
-      "Credit and Debt",
-      "Developing Countries",
-      "Interest Rates",
-      "US and Israeli Attack on Iran (2026)",
-      "Economic Conditions and Trends",
-      "World Bank",
-      "International Monetary Fund",
-      "Guzman, Martin (1982- )"
-     ],
-     "link": "https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html",
+     "titel": "Live Updates: Trump’s Whirlwind Asia Trip Starts in the Philippines",
+     "context": "President Trump’s 48-hour trip will begin with a meeting with Southeast Asian leaders in Manila. He will later meet Xi Jinping of China and Vladimir Putin of Russia in Shenzhen, a Chinese economic hub.",
+     "rubrieken": [],
+     "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
      "bron": "New York Times",
-     "tijd": "09:45",
-     "sorteer": "2026-11-17T08:45:15+00:00",
+     "tijd": "10:58",
+     "sorteer": "2026-11-17T09:58:14+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
-     "context": "Kyiv and Moscow dispute scale of damage which means travel out of the peninsula is now only via a land corridor vulnerable to Ukrainian drone attack Ukraine critically damages Kerch bridge Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what Ukrainian officials say is a symbolic blow to the Kremlin. Photos suggest that a 227-me",
+     "titel": "Expert behind major NHS children’s gender review says she cannot back conversion practices ban",
+     "context": "Hilary Cass says draft bill is having ‘chilling effect’ on healthcare professionals and could pose a risk to parents The expert behind a major review into children’s gender services has said she can no longer support proposed legislation to ban so-called conversion practices related to sexual orientation and transgender identity. Hilary Cass, a paediatrician who now sits in the House of Lords, ini",
      "rubrieken": [
-      "Russia",
-      "Ukraine",
-      "Crimea",
-      "Germany",
-      "Finland",
-      "Europe",
-      "World news"
+      "Health policy",
+      "Health",
+      "Transgender",
+      "Politics",
+      "UK news",
+      "Labour"
      ],
-     "link": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+     "link": "https://www.theguardian.com/politics/2026/nov/17/expert-nhs-gender-review-cannot-back-conversion-practices-ban",
      "bron": "The Guardian",
-     "tijd": "09:37",
-     "sorteer": "2026-11-17T08:37:52+00:00",
+     "tijd": "10:51",
+     "sorteer": "2026-11-17T09:51:03+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
+     "titel": "Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings",
      "context": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "09:06",
-     "sorteer": "2026-11-17T08:06:32+00:00",
+     "tijd": "10:27",
+     "sorteer": "2026-11-17T09:27:41+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Japan sends up jets after alleged Russian incursion of its airspace",
-     "context": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
+     "titel": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+     "context": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
      "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
+     "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "08:44",
-     "sorteer": "2026-11-17T07:44:17+00:00",
+     "tijd": "10:20",
+     "sorteer": "2026-11-17T09:20:29+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Les Européens comptent sur la Chine pour garder les négociations climatiques sur la bonne voie",
+     "context": "Des diplomates européens considèrent que le pays pourrait jouer un rôle clé pour sortir du blocage autour du Giec, bras armé scientifique des négociations.",
+     "rubrieken": [
+      "Actualité",
+      "Climat",
+      "COP31",
+      "Négociations climatiques",
+      "Energie et Climat France"
+     ],
+     "link": "https://www.politico.eu/article/les-europeens-comptent-sur-la-chine-pour-garder-les-negociations-climatiques-sur-la-bonne-voie/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "10:09",
+     "sorteer": "2026-11-17T09:09:50+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -427,13 +413,41 @@
      "sorteer": "2026-11-17T04:00:14+00:00"
     },
     {
-     "titel": "Ouderen worden vaak opgelicht – hoe weer je je tegen de ‘nepagent’?",
+     "titel": "McDonald’s loopt een vergunning mis, dankzij een definitie in de ‘Dikke Van Dale’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/ouderen-worden-vaak-opgelicht-hoe-weer-je-je-tegen-de-nepagent~b04634ce/",
+     "link": "https://www.trouw.nl/binnenland/mcdonald-s-loopt-een-vergunning-mis-dankzij-een-definitie-in-de-dikke-van-dale~b0614d83/",
      "bron": "Trouw",
-     "tijd": "08:57",
-     "sorteer": "2026-11-17T07:57:57+00:00"
+     "tijd": "10:37",
+     "sorteer": "2026-11-17T09:37:47+00:00"
+    },
+    {
+     "titel": "Syriër verdacht van gijzeling, mishandeling en beroving van man in wooncomplex voor statushouders en studenten",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUFRVel9IbFF5Ui1fcFFnWGRPbXozVm9NMWFkb29iMkF5Wi1CeUFfLXJlaXpsRDAyeEJsY0p4THJIWVNZd1htSnFDNy1rZ0dUU1JWRGtHeUR1bTNjSXhPNUpfVTN5OXpPcEFraGZMWTZ0djlKTEhWNms5SWRlbnA1NnM1YTVsQzVGX3pDbFdvRmJPRDlEc0xKa0c3N1VQWXNBU0FIY0Z3dkNsQ1g4em95eVZmWU5jdDBTNkVBcVI2MmRpWmd3bENEdHJkNmdUXzBvVWpZcFFid1VhT290WkxCS29fT3V3WDhkbHZkU1BucE82QQ?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "10:26",
+     "sorteer": "2026-11-17T09:26:22+00:00"
+    },
+    {
+     "titel": "Reanimatie op Valkhofplein in Arnhem",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM0tPbHJ4Smpnc1dfSURMbkEyX0p1Zk9XeGVBbWRZQnk0aFU1eGlfdkJ6OXM3djNFZW9aOG1qRnJ3V1I3Vm9rWnJ2dW56M050WFJQdGR2NnNNZkZMbmVsc0RGMFJwU0ZqVDZqRkJ4S0F4VVZXSHlYLXN2VGRieGJkdkc2MlQ2MHN6cmdQRE5XZ2l6NmlDVDI4?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "10:22",
+     "sorteer": "2026-11-17T09:22:51+00:00"
+    },
+    {
+     "titel": "Halvering van Schiphol-herrie ging van tafel: 'Veel te snel en te groot'",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3pSVTRMY0FQWWROamdqNkJ4aE5iSGpiZTFFZ29vS2VLemVOd1Fqdm5Xdld4M0QtanhpQ3FNQ0p4T2VRNm01V0tRZGk2SEVobnhNRE9ycGttems5Z2hEbTItZHo3clYxUVl3blhSUERhbko0Z2RfcThnSzUzNldUTmVCSnNQenhMdFp2YU1QUF9vYUwweXlLYTlOa05tLUtQUTdVQ2RTNHZMT2JsQVE?oc=5",
+     "bron": "RTL.nl",
+     "tijd": "10:16",
+     "sorteer": "2026-11-17T09:16:41+00:00"
+    },
+    {
+     "titel": "KIJK LIVE: Premier Rob Jetten geeft toelichting na extra ministerraad over kabinetscrisis",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMGtGajRFS1A0NGlQazdZRGNiS3ZRTzhNOEc1c3loRlhkQ1hpejVSdC1jR25DbkotUHhYZEhDODJ0M2xzWFREbkVrNW1DSnl5cUo5NW94U0E5YklDd2E5ZExqa1RUaUpFOHBkQ3RsVDUwcUdUY1FrS2NRM2JnUWtlWDRaZHRURnNyYTFYVzVtVk5OVDNPZDVWQXhWcGhtSEp2ZTJVNG43Rk1tTU9tWWN1LUVrZkU0a0w0a2MzQUVxWDZaM3Z0SmdqLVB3NG91Ykk?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "10:08",
+     "sorteer": "2026-11-17T09:08:15+00:00"
     },
     {
      "titel": "Hoe Elon Musks efficiëntie-afdeling de Amerikaanse overheid inefficiënter maakte",
@@ -451,12 +465,12 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Live | Politiek | Premier Jetten geeft persconferentie over koers kabinet",
+     "titel": "Live | Politiek | Jetten geeft om 10.00 uur persconferentie over koers kabinet",
      "context": "Hallo en welkom in dit liveblog. Hier houden politiek verslaggevers Priscilla Slomp en Edo van der Goot je op de hoogte van de ontwikkelingen.",
      "rubrieken": [
       "politiek"
      ],
-     "link": "https://www.nu.nl/politiek/6416809/politiek-premier-jetten-geeft-persconferentie-over-koers-kabinet.html",
+     "link": "https://www.nu.nl/politiek/6416809/politiek-jetten-geeft-om-1000-uur-persconferentie-over-koers-kabinet.html",
      "bron": "NU.nl",
      "tijd": "06:05",
      "sorteer": "2026-11-17T06:05:28+01:00",
@@ -532,6 +546,15 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Rijssenaar Erik Beltman rekent af met dure boodschappen in vergelijkingswebsite",
+     "context": "Boodschappen worden steeds duurder. Maar waar ben je nou écht het goedkoopst uit? Erik Beltman uit Rijssen bouwde een website die de prijzen en aanbiedingen van elf supermarkten met elkaar vergelijkt. En hij verzekert: de website is en blijft gratis.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3720144/rijssenaar-erik-beltman-rekent-af-met-dure-boodschappen-in-vergelijkingswebsite",
+     "bron": "RTV Oost",
+     "tijd": "10:27",
+     "sorteer": "2026-11-17T09:27:33+00:00"
+    },
+    {
      "titel": "Meerdere poliklinieken MST vandaag gesloten om wateroverlast",
      "context": "Een aantal poliklinieken van Medisch Spectrum Twente in Oldenzaal blijft dinsdag dicht. Na een technische storing is er wateroverlast ontstaan, meldt het ziekenhuis.",
      "rubrieken": [],
@@ -550,12 +573,12 @@
      "sorteer": "2026-11-17T06:02:57+00:00"
     },
     {
-     "titel": "Zorgdirecteur eerder in opspraak, nu miljoen rijker",
+     "titel": "Miljoen voor directeur, verlies voor zorgcentrum: 'Bedrijf in gevaar'",
      "context": "De directeur van Zorgcentrum Samensterk heeft zichzelf bijna een miljoen euro winst uitgekeerd. Dit blijkt uit onderzoek door RTV Oost. Door de riante bonus is de zorginstelling in de rode cijfers beland. \"Een eerlijke ondernemer doet dit niet.\"",
      "rubrieken": [
       "breaking"
      ],
-     "link": "https://www.oost.nl/nieuws/3712071/zorgdirecteur-eerder-in-opspraak-nu-miljoen-rijker",
+     "link": "https://www.oost.nl/nieuws/3712071/miljoen-voor-directeur-verlies-voor-zorgcentrum-bedrijf-in-gevaar",
      "bron": "RTV Oost",
      "tijd": "06:03",
      "sorteer": "2026-11-17T05:03:49+00:00"
@@ -577,16 +600,6 @@
      "bron": "RTV Oost",
      "tijd": "23:30",
      "sorteer": "2026-11-16T22:30:39+00:00"
-    },
-    {
-     "titel": "Beroering over zwartgeschminkte pieten in Glanerbrug, maar gemeente kan weinig doen",
-     "context": "Bij de sinterklaasintocht in Glanerbrug liepen afgelopen weekend geen roetveegpieten, maar tientallen zwartgeschminkte pieten mee. Dat zorgt voor beroering, maar de gemeente zegt er weinig aan te kunnen doen. \"Het is geen grond om een vergunning te weigeren als men zich niet schaart achter roetveegpiet\", zegt burgemeester Roelof Bleker.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3720142/beroering-over-zwartgeschminkte-pieten-in-glanerbrug-maar-gemeente-kan-weinig-doen",
-     "bron": "RTV Oost",
-     "tijd": "20:57",
-     "sorteer": "2026-11-16T19:57:44+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Bewonersavond ‘Van het gas af in 2050’ op 19 november",
@@ -699,6 +712,13 @@
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D47754",
      "sorteer": "2026-11-16T17:50:01.433+01:00",
      "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Israël uploadde miljoenen foto's van Palestijnen naar Amazon-cloud voor gezichtsherkenning",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdWlPa21ibWlxLU5xaTZSMU5qcXNwUzJ2RjRiVF83XzNhRmlvNHFtbmpjd1pPU1FoTXBqY0g3cWo1MnIzcjgyZGNwUUpnR05UY0JZTFl1d0VCd0Iyd2lwU3h3WEVnM2xxd1JBU3FWUlBhQUo0V1NLUGdwT2lHNXpHMDUxNV9LRnZIcllHSEpwMVd4NW1jTGRCVEJQd2VxX2UxdVJRTWc2N1ExTWNMY0IyRnRSYTRwdw?oc=5",
+     "bron": "RTL.nl",
+     "tijd": "10:49",
+     "sorteer": "2026-11-17T09:49:09+00:00"
     }
    ]
   },
@@ -780,6 +800,14 @@
      "sorteer": "2026-11-16T16:18:31.007+01:00"
     },
     {
+     "titel": "Antwoord op vragen van de leden Ceulemans, Boomsma en Coenradie over de inzet van ambulances naar asielopvanglocaties",
+     "bron": "Antwoord op Kamervragen",
+     "kop": "Kamervragen",
+     "tijd": "02-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D48254",
+     "sorteer": "2026-11-17T10:19:26.153+01:00"
+    },
+    {
      "titel": "Antwoord op vragen vragen van de leden Teunissen en Dobbe over de inbeslagname van een server door de Amsterdamse politie op…",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
@@ -788,28 +816,20 @@
      "sorteer": "2026-11-16T20:54:19.88+01:00"
     },
     {
-     "titel": "Antwoord op vragen van de leden Synhaeve en Van Asten over het bericht 'Jeugdgezondheidszorg voor twintigduizend asielkinderen is…",
-     "bron": "Antwoord op Kamervragen",
-     "kop": "Kamervragen",
-     "tijd": "02-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D48222",
-     "sorteer": "2026-11-16T16:50:10.917+01:00"
-    },
-    {
-     "titel": "Uitkomst politieke gesprekken",
+     "titel": "Ontwikkelingen Russische veiligheidsdreiging",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
      "tijd": "17-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D58385",
-     "sorteer": "2026-11-17T09:57:00.483+01:00"
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D58404",
+     "sorteer": "2026-11-17T10:43:16.207+01:00"
     },
     {
-     "titel": "Begrotingsonderdeel Artikel 31 Politie",
+     "titel": "Opvolging debat over de bevindingen van de Algemene Rekenkamer dat 10000 aangiften niet door de politie worden onderzocht",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
      "tijd": "28-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D53911",
-     "sorteer": "2026-11-17T09:22:35.84+01:00"
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D53827",
+     "sorteer": "2026-11-17T10:22:37.49+01:00"
     },
     {
      "titel": "Begroting Justitie en Veiligheid (37020-VI)1e TK",
@@ -899,7 +919,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "10:00",
+    "bijgewerkt": "11:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1219,20 +1239,20 @@
      "link": "https://scientias.nl/glasvezelkabels-ook-handig-bij-het-monitoren-van-walvissen/"
     },
     {
+     "titel": "DRC’s Critical Minerals Moment",
+     "toelichting": "The Democratic Republic of Congo (DRC) sits at the center of the global race for the critical minerals needed for advanced technologies ranging from medical equipment and military hardware to electric cars and industrial",
+     "bron": "Mongabay (Engels)",
+     "tijd": "10:49",
+     "link": "https://news.mongabay.com/specials/2026/11/drcs-critical-minerals-moment/",
+     "sorteer": "2026-11-17T09:49:33+00:00"
+    },
+    {
      "titel": "Plans for a new marine protected area boost whale shark conservation in Indonesia’s Saleh Bay",
      "toelichting": "Plans to create a marine protected area for whale sharks in Indonesia’s Saleh Bay would give the world’s largest fish important new protections across several stages of its lifecycle, conservationists say. Besides servin",
      "bron": "Mongabay (Engels)",
      "tijd": "09:10",
      "link": "https://news.mongabay.com/2026/11/plans-for-a-new-marine-protected-area-boost-whale-shark-conservation-in-indonesias-saleh-bay/",
      "sorteer": "2026-11-17T08:10:41+00:00"
-    },
-    {
-     "titel": "Singapore investors hope for diplomatic help after Indonesia halts $50b electricity export push",
-     "toelichting": "SINGAPORE — With Singapore’s appetite for electricity expected to balloon by as much as half its current peak demand by 2031, the country is turning to its neighbors to pipe in clean power — in part to keep its data cent",
-     "bron": "Mongabay (Engels)",
-     "tijd": "05:56",
-     "link": "https://news.mongabay.com/2026/11/singapore-investors-hope-for-diplomatic-help-after-indonesia-halts-50b-electricity-export-push/",
-     "sorteer": "2026-11-17T04:56:32+00:00"
     }
    ]
   },
@@ -1272,14 +1292,6 @@
      "tijd": "11:28",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-11-16T11:28:00+01:00"
-    },
-    {
-     "titel": "Zwartbuikwaterspreeuw",
-     "kop": "Zeldzaamheden",
-     "bron": "Drenthe",
-     "tijd": "10:57",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-16T10:57:00+01:00"
     },
     {
      "titel": "Dalfsen (nacht)",
@@ -1364,15 +1376,15 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Goed pestvogeljaar — op 58 plekken in de afgelopen week, waarvan 1 vandaag",
+     "titel": "Invasiejaar — op 60 plekken in de afgelopen week, waarvan 3 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 162 vogels; 109 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 165 vogels; 111 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
-     "titel": "9 plekken binnen 75 km van Dalfsen",
+     "titel": "11 plekken binnen 75 km van Dalfsen",
      "bron": "dichtstbij: Zwolle - Aa-Landen, 10 km (2026-11-12)",
      "tijd": "12:10",
      "link": "https://waarneming.nl/species/306/observations/"
@@ -1410,15 +1422,15 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 3.0,
-    "gevoel": -1.8,
+    "nu": 3.1,
+    "gevoel": -1.9,
     "wind": "O 4",
     "station": "Heino",
     "bericht": "Vandaag en morgen is het sterk wisselvallig met vandaag eerst regen, daarna stevige buien met kans op onweer en zware windstoten. In het zuiden wordt het zeer zacht!Vanochtend is het bewolkt en trekt een regengebied van zuidwesten naar noordoost over het land. Het kan daarbij soms flink doorregenen.",
     "vandaag": "In het zuiden wordt het zeer zacht!Vanochtend is het bewolkt en trekt een regengebied van zuidwesten naar noordoost over het land. Vanmiddag trekt de regen naar het noordoosten, in het noorden blijft het dan nog geruime tijd regenen.",
     "temperatuur": "De middagtemperatuur loopt sterkt uiteen van 6 graden in het noordoosten tot misschien wel 16 graden in het zuiden van Limburg.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: regen, 1 tot 11 graden, 100% kans op neerslag, wind uit het zuiden, kracht 4.",
+     "zin": "Voor Dalfsen zelf: regen, 1 tot 11 graden, 100% kans op neerslag, weinig zon, wind uit het zuiden, kracht 4.",
      "max": 11,
      "min": 1,
      "regenkans": 100,
