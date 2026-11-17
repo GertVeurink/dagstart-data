@@ -3,18 +3,15 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "07:00",
+  "opgehaald": "08:00",
   "blokken": 11,
   "berichten": 99,
   "problemen": [
-   "google 'rechtsstaat OR grondwet OR hoo': HTTP 429",
-   "google '\"Tweede Kamer\" politie OR just': HTTP 429",
-   "google '\"kunstmatige intelligentie\" AN': HTTP 429"
+   "google '\"kunstmatige intelligentie\" OR': HTTP 429"
   ],
-  "audio_herkomst": "model",
-  "audio_aangehaakt": "07:20"
+  "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-17T07:00+01:00",
+ "opgehaald": "2026-11-17T08:00+01:00",
  "audio": "audio/20261117.mp3",
  "afval": [
   {
@@ -280,6 +277,68 @@
      "sorteer": "2026-11-16T23:51:15+00:00"
     },
     {
+     "titel": "Opinie: Wie komt op voor de ruimte om nieuwsgierig te zijn en ongemakkelijke vragen te stellen?",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbExybHdvT3ZLT2pIZ3dxcUQ5SVcwbWRwcmUtLVQ2MGttVHhQY0tRTnZKdlR6X0swVVNXVklRaUxwZDBwbEFmUVRGQnBra2tqSEFqemI4eXRlem9LNDNUYWdtUlBFTHVSN18zcDJXNDZGazdzZm40YUtkUkp0NVYxUUUwVGhLN2RaZ2pUSnBTYWRzLWZBQk5xd2tmaExpQU9QUWRNX3dJcjBsU2ZmUEFQaEJNZWVxbHFGUEJLRjBQRVR5QklUaUpldkF4TmNTMXJObjNCLXctSVIxajJk?oc=5",
+     "bron": "de Volkskrant",
+     "tijd": "05:00",
+     "sorteer": "2026-11-17T04:00:16+00:00"
+    },
+    {
+     "titel": "‘Disgusted by it’: body of Melbourne Cup race horse found dumped in Sydney skip bin",
+     "context": "So You Are placed eighth in race just two weeks ago and was put down after a severe bout of colic The body of a horse that placed eighth in the Melbourne Cup two weeks ago and recently fell ill has been found dumped in skip bin in Sydney. The horse So You Are, a five year old Gelding, was put down after it suffered from a severe bout from colic and was taken to hospital on Monday for surgery. Cont",
+     "rubrieken": [
+      "Australia news",
+      "Melbourne Cup",
+      "Horse racing",
+      "Animals"
+     ],
+     "link": "https://www.theguardian.com/australia-news/2026/nov/17/disgusted-by-it-body-of-melbourne-cup-horse-found-dumped-in-sydney-skip-bin-ntwnfb",
+     "bron": "The Guardian",
+     "tijd": "07:39",
+     "sorteer": "2026-11-17T06:39:24+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
+     "context": "“As you know we have a large Russian Oligarchs client population,” an analyst wrote as the bank braced for sanctions against wealthy clients.",
+     "rubrieken": [
+      "Russian Invasion of Ukraine (2022)",
+      "Banking and Financial Institutions",
+      "High Net Worth Individuals",
+      "Embargoes and Sanctions",
+      "Money Laundering",
+      "Ethics and Official Misconduct",
+      "Deutsche Bank AG",
+      "Justice Department",
+      "Deripaska, Oleg V",
+      "Vekselberg, Viktor F",
+      "Ackermann, Josef",
+      "Sewing, Christian",
+      "Putin, Vladimir V",
+      "Mnuchin, Steven T",
+      "Russia",
+      "Germany"
+     ],
+     "link": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
+     "bron": "New York Times",
+     "tijd": "07:00",
+     "sorteer": "2026-11-17T06:00:12+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+     "context": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "06:59",
+     "sorteer": "2026-11-17T05:59:01+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
      "titel": "Two major Kyiv bridges hit in Russian attack, mayor says",
      "context": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
      "rubrieken": [],
@@ -287,44 +346,6 @@
      "bron": "BBC",
      "tijd": "06:57",
      "sorteer": "2026-11-17T05:57:38+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Woman whose baby died after free birth didn’t know she was pregnant with twins, NSW inquest hears",
-     "context": "Inquest continues into deaths of four babies born in free births or home births in northern rivers Get our breaking news email , free app or daily news podcast A northern rivers mother whose baby died after a free birth did not know she was having twins until she was in labour after having no pregnancy scans, the New South Wales coroner’s court has heard. The inquest will examine the deaths of fou",
-     "rubrieken": [
-      "Health",
-      "New South Wales",
-      "Australia news"
-     ],
-     "link": "https://www.theguardian.com/australia-news/2026/nov/17/nsw-inquest-free-birth-keeper-baby-death-ntwnfb",
-     "bron": "The Guardian",
-     "tijd": "06:37",
-     "sorteer": "2026-11-17T05:37:33+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "The Death of ‘Keep 1.5 Alive’",
-     "context": "Negotiators at COP31 are confronting a new reality as the world blows past a key warming target.",
-     "rubrieken": [
-      "Global Warming",
-      "Russian Invasion of Ukraine (2022)",
-      "United Nations Framework Convention on Climate Change",
-      "Carney, Mark J",
-      "Trump, Donald J",
-      "Pattinson, Robert",
-      "Grammy Awards",
-      "NVIDIA Corporation",
-      "Xi Jinping",
-      "United Nations",
-      "internal-open-access-from-nl"
-     ],
-     "link": "https://www.nytimes.com/2026/11/16/world/climate-cop31-ukraine-nvidia-james-bond.html",
-     "bron": "New York Times",
-     "tijd": "06:20",
-     "sorteer": "2026-11-17T05:20:43+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -351,17 +372,6 @@
      "sorteer": "2026-11-17T04:30:00+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
-     "context": "The US vice-president tells Fox News that when he makes a decision to run or otherwise, he will \"be all in on whatever that decision is\".",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "04:07",
-     "sorteer": "2026-11-17T03:07:23+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
     }
    ]
   },
@@ -371,8 +381,26 @@
    "emoji": "🇳🇱",
    "items": [
     {
+     "titel": "Meer studenten willen hulp bij geldzaken, zien onderwijsinstellingen",
+     "context": "Meer studenten vragen hun opleiding om financiële hulp. Dat zeggen ruim twintig onderwijsinstellingen tegen NOS Stories. Zo zien mbo's, hbo's en universiteiten een toename in aanvragen voor betalingsregelingen. Ook financieren ze vaker bepaalde schoolmiddelen en geven ze meer advies over geldzaken. Dit is in lijn met een onderzoek van het Armoedefonds eerder dit jaar. Daaruit bleek dat bijna 60 pr",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639827",
+     "bron": "NOS",
+     "tijd": "07:29",
+     "sorteer": "2026-11-17T07:29:52+01:00"
+    },
+    {
+     "titel": "Lijst met risicovolle pfas-vervuilingen vol fouten: 'Aanpak overheid deugt niet'",
+     "context": "Een eerste prioriteitenlijst van te saneren pfas-locaties die door het ministerie en ruim 40 lokale overheden is opgesteld, klopt niet. Dat blijkt uit een analyse van de NOS en regionale omroepen. Bijna de helft van de locaties staat er onterecht op, omdat nog niet duidelijk is of ze ook echt een risico vormen voor de omgeving. Volgens experts die de NOS sprak, is de lijst een duidelijk voorbeeld ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639826",
+     "bron": "NOS",
+     "tijd": "07:11",
+     "sorteer": "2026-11-17T07:11:44+01:00"
+    },
+    {
      "titel": "Roken en vapen onder mbo'ers blijft populair, alcoholgebruik neemt wel af",
-     "context": "Het nicotinegebruik onder mbo'ers blijft onverminderd hoog, blijkt uit onderzoek van het Trimbos-instituut. Een op de vijf studenten gebruikt dagelijks een product waar nicotine in zit. Het rapport is opgesteld met cijfers over 2025. Het gebruik van alcohol, cannabis en lachgas is ten opzichte van 2023 wel afgenomen. Het onderzoek richtte zich specifiek op de groep mbo'ers. \"Aangezien uit eerdere ",
+     "context": "Het nicotinegebruik onder mbo'ers blijft onverminderd hoog, blijkt uit onderzoek van het Trimbos-instituut. Een op de vijf mbo-studenten gebruikt dagelijks een product waar nicotine in zit. Het gebruik van alcohol, cannabis en lachgas is ten opzichte van 2023 wel afgenomen. Het rapport is opgesteld met cijfers over 2025. Het onderzoek richtte zich specifiek op de groep mbo'ers. \"Aangezien uit eerd",
      "rubrieken": [],
      "link": "https://nos.nl/l/2639817",
      "bron": "NOS",
@@ -390,24 +418,13 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Verkiezingen geen optie bij gemeentelijke coalitiecrises: 'Drink een borrel met elkaar'",
-     "context": "Een lijmpoging, nieuwe formatie of toch nieuwe verkiezingen? Dat zijn de opties die D66, VVD en CDA hebben sinds ze vorige week in een coalitiecrisis belandden. De Tweede Kamer wil in ieder geval niet dat een kabinetsval, mocht het zover komen, direct tot nieuwe verkiezingen leidt. In de provinciale en lokale politiek hebben ze al ervaring met het lijmen van coalitiebreuken. \"Je moet partijen een ",
+     "titel": "Beleid voor emancipatie van mensen met een beperking schiet tekort: ‘Het grootste probleem is betaald werk’",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639769",
-     "bron": "NOS",
-     "tijd": "19:59",
-     "sorteer": "2026-11-16T19:59:37+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Koning herdenkt Amerikaans saluut, Sint-Eustatius eert eigen vrijheidsstrijders",
-     "context": "Op Sint-Eustatius heeft koning Willem-Alexander het historische saluut aan de Verenigde Staten van 250 jaar geleden herdacht. Maar voor veel eilandbewoners is 16 november vooral Statia Day: een feest van hun eigen cultuur en geschiedenis. Op het eiland is steeds meer aandacht voor mensen die zich hebben verzet tegen de slavernij. Vlak bij Fort Oranje, waar in 1776 de Amerikaanse vlag met kanonscho",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639761",
-     "bron": "NOS",
-     "tijd": "19:07",
-     "sorteer": "2026-11-16T19:07:28+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "link": "https://www.volkskrant.nl/binnenland/beleid-voor-emancipatie-van-mensen-met-een-beperking-schiet-tekort-het-grootste-probleem-is-betaald-werk~b6ee7a9c7/",
+     "bron": "de Volkskrant",
+     "tijd": "07:00",
+     "sorteer": "2026-11-17T06:00:49+00:00"
     },
     {
      "titel": "‘Voor Aruba is de inbedding in het koninkrijk belangrijk. Dat hebben we weer gemerkt met de spanning tussen de VS en Venezuela’",
@@ -417,15 +434,6 @@
      "bron": "de Volkskrant",
      "tijd": "05:00",
      "sorteer": "2026-11-17T04:00:14+00:00"
-    },
-    {
-     "titel": "Automobilist in Zuid-Holland bijna 80 euro duurder uit dan in Noord-Holland",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/automobilist-in-zuid-holland-bijna-80-euro-duurder-uit-dan-in-noord-holland~b7c38da4/",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-11-17T04:00:00+00:00"
     },
     {
      "titel": "Fries en Engels zijn niet alleen taalkundig, maar ook genetisch verwant",
@@ -438,6 +446,21 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Woningbrand op Victor de Stuerslaan in Arnhem",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN25zQ2JyQkVvNU5wNFBKSkxCeU43MWF2TGlNcy1YRE13SDFaTmpfampHeVh4bU1aN0FWZVhrM0I3TWVRcDBMRi1XeUNWeW1IRDJyc2lyQnBvdks0VmMwcm5LWjllQjNoMEswRWZNOXl6Zm9kWkRDdm1sY1FQV2JYVmZla1lZTmI2QWlTWTFmeF9YMEhHQ0hucEJUd01WMTliN19N?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "07:25",
+     "sorteer": "2026-11-17T06:25:56+00:00"
+    },
+    {
+     "titel": "Beloning 15.000 euro in Rotterdamse zaak dood gevonden Pool Kuba",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQWhsVkVvdW9WQmZrTEo1cnljSWxpb1lTSXpvWHpCYm11YW56ZjFjNGQ0MjFCcTU0QTk0TXR6UFk0N3A3WHZzTU8tM1ItdkVXTlB6eG9QbG5ieDNaWXVZSVdBR1BrSVZQb3VuVG03RUJTNTE4YmRvOEgweENJR0VfN192X21OU0NFeEhLdDJBTHRhd3hXUzZHb2VSSDB2QzJvTEpGZWswemRlY2RsQjRkWEJtX0lKcC1rT0VvaE5PRld6a3JrNlFmejhPc0RaaHVnYUtkcmt2T2VzUnJvNjl6R0hERVV1Ylc2cEZ0eTRJMEtHdFU?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "06:45",
+     "sorteer": "2026-11-17T05:45:00+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
      "titel": "Beloning van 15.000 euro voor gouden tip in overlijden Poolse man in Rotterdam",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUTJxRU0wN0JzbHdJNjU0N3ljWi1tMEVXZTFZQzUwNDZzSEt1OHVUUlR3YkxxbTViU3Y0SDVKcmY5N25idV9HaDBIc1FsZUhVM1djM0RsNGlrakZFalp3YVFreWxhNHdnd0VPaktKbHpsVEZyUEQwRWRkeC1KOHBhUkcxOW40S01uYVNhUk12UThFaTRFaml0SnFPT1ROUFZObUhiM19lVlhkOFhlLVNCcGV0Zk1VcGpISmFrZzFTU2M?oc=5",
      "bron": "RTL.nl",
@@ -445,12 +468,11 @@
      "sorteer": "2026-11-17T04:21:12+00:00"
     },
     {
-     "titel": "Beloning 15.000 euro in Rotterdamse zaak dood gevonden Pool Kuba",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQWhsVkVvdW9WQmZrTEo1cnljSWxpb1lTSXpvWHpCYm11YW56ZjFjNGQ0MjFCcTU0QTk0TXR6UFk0N3A3WHZzTU8tM1ItdkVXTlB6eG9QbG5ieDNaWXVZSVdBR1BrSVZQb3VuVG03RUJTNTE4YmRvOEgweENJR0VfN192X21OU0NFeEhLdDJBTHRhd3hXUzZHb2VSSDB2QzJvTEpGZWswemRlY2RsQjRkWEJtX0lKcC1rT0VvaE5PRld6a3JrNlFmejhPc0RaaHVnYUtkcmt2T2VzUnJvNjl6R0hERVV1Ylc2cEZ0eTRJMEtHdFU?oc=5",
+     "titel": "KIJK LIVE: Extra ministerraad over koers van het kabinet",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVVJyZ0RXd1JWM09nVXExQWQ1NTA5UjlVTkpweHlBekVXOHdCQ0Zaek1ZV05SNjM5QVJjU2NmeXJiX29RN1BsS21kOUM5TFg4a0ltalAzS2pOR1V0aUd3Yk13QjlqT0RRSmpuT0VGTzNRLVpaQVZCeHNTT0s3NnZidlREdEg0NUV1bWNwcF81UU5hU2xpbFllN2tET3R1MDNuNlJn?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "05:18",
-     "sorteer": "2026-11-17T04:18:05+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "tijd": "07:51",
+     "sorteer": "2026-11-17T06:51:38+00:00"
     },
     {
      "titel": "Hoe Elon Musks efficiëntie-afdeling de Amerikaanse overheid inefficiënter maakte",
@@ -468,31 +490,15 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Live | Politiek | Extra ministerraad: coalitie legt voorstel voor koers kabinet neer",
+     "titel": "Live | Vertrouwen binnen coalitie terug, ook VVD zal 'slecht' PRO-plan verdedigen",
      "context": "Hallo en welkom in dit liveblog. Hier houden politiek verslaggevers Priscilla Slomp en Edo van der Goot je op de hoogte van de ontwikkelingen.",
      "rubrieken": [
       "politiek"
      ],
-     "link": "https://www.nu.nl/politiek/6416809/politiek-extra-ministerraad-coalitie-legt-voorstel-voor-koers-kabinet-neer.html",
+     "link": "https://www.nu.nl/politiek/6416809/vertrouwen-binnen-coalitie-terug-ook-vvd-zal-slecht-pro-plan-verdedigen.html",
      "bron": "NU.nl",
      "tijd": "06:05",
      "sorteer": "2026-11-17T06:05:28+01:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Nieuw box 3-stelsel neemt belangrijke horde, ook al levert belastingplan kabinet kras op: dit gaat er veranderen",
-     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZ0EtYW1GZXJfd0pMR2F4UGdCU0hEZjlMV1RUU1V6Qll4WWlqY3lOdk83NnVTUDhyb3MwVXF2TS1LRmZxVWNvRE1XWjdSWXBOaTJBVjgzZjVBYmdpd1BJRlNYWUdSaG9KaS1vaEZyd1RsR3ptNkhidUt4Z3N3dUZWREpYM1lWWW4xUTZIYU95VmptMFNRXzEzZFA5NUpxLVAyLUc2bDRZU3dFYk8zMnA4MGdxZjZuRVJ2a01XaHlfNW9ZRUIyMEY4bUZoZ0dhSHQ4OTVlRzFjSmpWSkxpQi0zZEFMMlR6QVU2R0RFQy1RR3lJbmduSTUzQ2hR?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "04:45",
-     "sorteer": "2026-11-17T03:45:00+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Hoe kon onenigheid over het belastingplan het kabinet richting de afgrond duwen?",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORE9qZDBvMEdVUmdoQ0taVVlWUUI3Tk1oRDdiVDFkcXJXQU5kTk0tN3BHN2pqM1hkRDJDdnZuSG1seFloUlZ4bVc3YUpBUnFEdGF4SXRXRDJaNGRld2pNQ3V1UV8xZmhpNjV6cWhhM0VGblNOZFFZTGNUc2stdjdZYUtqOG9pSUdyNHVDbTNxdU9IbkdhbVNXVlBFdW5UWmlYSjByXzFGdkFhakhEQWlndjUyOVIyTUJPcFE?oc=5",
-     "bron": "RTL.nl",
-     "tijd": "02:23",
-     "sorteer": "2026-11-17T01:23:01+00:00",
      "kop": "Begroting"
     },
     {
@@ -567,7 +573,9 @@
     {
      "titel": "Zorgdirecteur eerder in opspraak, nu miljoen rijker",
      "context": "De directeur van Zorgcentrum Samensterk heeft zichzelf bijna een miljoen euro winst uitgekeerd. Dit blijkt uit onderzoek door RTV Oost. Door de riante bonus is de zorginstelling in de rode cijfers beland. \"Een eerlijke ondernemer doet dit niet.\"",
-     "rubrieken": [],
+     "rubrieken": [
+      "breaking"
+     ],
      "link": "https://www.oost.nl/nieuws/3712071/zorgdirecteur-eerder-in-opspraak-nu-miljoen-rijker",
      "bron": "RTV Oost",
      "tijd": "06:03",
@@ -732,14 +740,6 @@
      "tijd": "01-10",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D47754",
      "sorteer": "2026-11-16T17:50:01.433+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Jan Maarten Slagter: revolutionaire opmars van AI maakt van een machine nog geen mens",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLV9yMk9nVmRZMWxuTTg5MGFJVTlHdWg4MG04SG1xSlhycHhBQ21tRDBFOVFHMEY5bE4xZXdxNnFGdXI5QW1xaVYxakpFXzBnRDBsZ0JzR3VpQTBvNjNJdmZoMVNtSU5YN2pXSnVhS29QQ3Uxb2NmYTJiczk0M093UFZIUU9lRXRNQjZNNVFBRG5aM0ZNMWNhbE5vcEJPTTJwZklmbDI5ZndOOXdCOWJzOUs2ZUYwTk1HdlM4WDE5WUQ4YnE2VXpaWFNPX1lHX3Jx?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "04:00",
-     "sorteer": "2026-11-17T03:00:00+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     }
    ]
@@ -941,7 +941,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "07:00",
+    "bijgewerkt": "08:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1238,20 +1238,20 @@
      "sorteer": "2026-11-17T05:45:00+00:00"
     },
     {
-     "titel": "Aantal gewone zeehonden in Waddenzee daalt voor vijfde jaar op rij",
-     "toelichting": "In 2026 werden voor het vijfde jaar op rij minder gewone zeehonden geteld in de internationale Waddenzee. Ook het aantal getelde pups daalde opnieuw. In totaal werden 8.819 pups geteld, 12 procent minder dan in 2025. Het",
-     "bron": "Nature Today",
-     "tijd": "08:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36060",
-     "sorteer": "2026-11-16T07:00:00+00:00"
-    },
-    {
      "titel": "Basenrijke trilvenen onder druk – waarom slim waterbeheer het verschil maakt",
      "toelichting": "In laag-Nederland staat trilveen, veenmosrietland en dotterbloemhooiland onder druk door verzuring, verdroging en vermesting. Deze processen versnellen successie en verdringen soortenrijke vegetaties. Bevloeiing en inund",
      "bron": "Nature Today",
      "tijd": "12:00",
      "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36056",
      "sorteer": "2026-11-16T11:00:00+00:00"
+    },
+    {
+     "titel": "De eerste fase van De Groene Corridor: van natuurbeheer naar natuurbegeleiding",
+     "toelichting": "Stichting Broedplaats Gooise Meren/ AltijdWerkplaats werkt aan De Groene Corridor, een ecologische verbindingszone van Bussum tot Naarden. Dat doet zij samen met bewoners, natuurorganisaties en de gemeente Gooise Meren. ",
+     "bron": "Nature Today",
+     "tijd": "07:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36028",
+     "sorteer": "2026-11-17T06:00:00+00:00"
     },
     {
      "titel": "Glasvezelkabels ook handig bij het monitoren van walvissen",
@@ -1284,6 +1284,14 @@
    "emoji": "🐦",
    "items": [
     {
+     "titel": "Rotszwaluw",
+     "kop": "Zeldzaamheden",
+     "bron": "Noord-Holland",
+     "tijd": "07:42",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-17T07:42:00+01:00"
+    },
+    {
      "titel": "Witbandkruisbek",
      "kop": "Zeldzaamheden",
      "bron": "Drenthe",
@@ -1314,14 +1322,6 @@
      "tijd": "10:57",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-11-16T10:57:00+01:00"
-    },
-    {
-     "titel": "Rotszwaluw",
-     "kop": "Zeldzaamheden",
-     "bron": "Noord-Holland",
-     "tijd": "08:09",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-16T08:09:00+01:00"
     },
     {
      "titel": "Dalfsen (nacht)",
@@ -1452,15 +1452,15 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 1.9,
-    "gevoel": -1.4,
-    "wind": "O 2",
+    "nu": 2.6,
+    "gevoel": -1.7,
+    "wind": "OZO 3",
     "station": "Heino",
     "bericht": "Vandaag en morgen is het sterk wisselvallig met vandaag eerst regen, daarna stevige buien met kans op onweer en zware windstoten. In het zuiden wordt het zeer zacht!Vanochtend is het bewolkt en trekt een regengebied van zuidwesten naar noordoost over het land. Het kan daarbij soms flink doorregenen.",
     "vandaag": "In het zuiden wordt het zeer zacht!Vanochtend is het bewolkt en trekt een regengebied van zuidwesten naar noordoost over het land. Vanmiddag trekt de regen naar het noordoosten, in het noorden blijft het dan nog geruime tijd regenen.",
     "temperatuur": "De middagtemperatuur loopt sterkt uiteen van 6 graden in het noordoosten tot misschien wel 16 graden in het zuiden van Limburg.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: regen, 1 tot 11 graden, 100% kans op neerslag, wind uit het zuiden, kracht 4.",
+     "zin": "Voor Dalfsen zelf: regen, 1 tot 11 graden, 100% kans op neerslag, weinig zon, wind uit het zuiden, kracht 4.",
      "max": 11,
      "min": 1,
      "regenkans": 100,
@@ -1481,15 +1481,5 @@
     }
    }
   }
- ],
- "archief": [
-  "2026-11-17",
-  "2026-11-16",
-  "2026-11-15",
-  "2026-11-14",
-  "2026-11-13",
-  "2026-11-12",
-  "2026-11-11",
-  "2026-11-10"
  ]
 }
