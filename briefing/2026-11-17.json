@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "20:00",
+  "opgehaald": "21:00",
   "blokken": 11,
-  "berichten": 104,
+  "berichten": 102,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-17T20:00+01:00",
+ "opgehaald": "2026-11-17T21:00+01:00",
  "audio": "audio/20261117.mp3",
  "afval": [
   {
@@ -241,50 +241,102 @@
      "sorteer": "2026-11-17T16:52:55+01:00"
     },
     {
-     "titel": "‘CEO Deutsche Bank is een Draufgänger, geen saaie risicomijder’",
+     "titel": "Nieuwe toezeggingen militaire hulp aan Oekraïne; kritiek VS op langeafstandsaanvallen op doelen in Rusland",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/christian-sewing-wilde-deutsche-bank-een-beetje-saaier-maken-maar-binnenskamers-joeg-hij-juist-deals-na~b3bc4ed5/",
+     "link": "https://www.volkskrant.nl/buitenland/nieuwe-toezeggingen-militaire-hulp-aan-oekraine-kritiek-vs-op-langeafstandsaanvallen-op-doelen-in-rusland~b1fad35e/",
      "bron": "de Volkskrant",
-     "tijd": "19:30",
-     "sorteer": "2026-11-17T18:30:00+00:00"
+     "tijd": "20:56",
+     "sorteer": "2026-11-17T19:56:34+00:00"
     },
     {
-     "titel": "De ontmoeting tussen Xi, Trump en Poetin levert misschien geen doorbraken op, maar heeft wel symbolische waarde",
+     "titel": "VS verliezen status ‘mazelenvrij’ na grootschalige uitbraak",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/de-ontmoeting-tussen-xi-trump-en-poetin-levert-misschien-geen-doorbraken-op-maar-heeft-wel-symbolische-waarde~baa1b3e2/",
+     "link": "https://www.volkskrant.nl/buitenland/vs-verliezen-status-mazelenvrij-na-grootschalige-uitbraak~b6152727/",
      "bron": "de Volkskrant",
-     "tijd": "19:30",
-     "sorteer": "2026-11-17T18:30:00+00:00"
+     "tijd": "20:30",
+     "sorteer": "2026-11-17T19:30:25+00:00"
     },
     {
-     "titel": "VS hekelen Oekraïense langeafstandsaanvallen op Rusland",
+     "titel": "Trump, Xi en Poetin hebben heel wat bij elkaar te winnen",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/live-oorlog-oekraine-vs-hekelen-oekraiense-langeafstandsaanvallen-op-rusland~ba2815bb/",
+     "link": "https://www.trouw.nl/buitenland/trump-xi-en-poetin-hebben-heel-wat-bij-elkaar-te-winnen~bf153e77/",
      "bron": "Trouw",
-     "tijd": "19:05",
-     "sorteer": "2026-11-17T18:05:00+00:00"
+     "tijd": "22:00",
+     "sorteer": "2026-11-17T21:00:00+00:00"
     },
     {
-     "titel": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
-     "context": "The three-wheeler that the heir to the British throne used was made by one of 15 finalists honored for creative environmental projects.",
+     "titel": "US scolds Ukraine over deep strikes ahead of fresh Russia peace talks",
+     "context": "German Defense Minister Boris Pistorius slammed the U.S. criticism as a \"stupid thing.\"",
      "rubrieken": [
-      "Royal Families",
-      "Pedicabs and Rickshaws",
-      "Air Pollution",
-      "Start-ups",
-      "Earthshot Prize (Nonprofit)",
-      "NVIDIA Corporation",
-      "Awards, Decorations and Honors",
-      "Environment",
-      "Global Warming"
+      "Defense",
+      "Defense budgets",
+      "Drones",
+      "Missiles",
+      "Munitions",
+      "NATO",
+      "Pentagon",
+      "Satellites",
+      "War in Ukraine",
+      "Weapons",
+      "Defense"
      ],
-     "link": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
+     "link": "https://www.politico.eu/article/us-scold-ukraine-strikes-russia-peace-talks-elbridge-colby/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "20:53",
+     "sorteer": "2026-11-17T19:53:42+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
+     "context": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency’s employees to send classified information internally Sign up for US Breaking News email Abdul El-Sayed , the Democratic-Senator elect from Michigan, said today that he would be happy to work with the Trump administration to pass one of his tentpole policy agenda items – Medicare For All. “Eve",
+     "rubrieken": [
+      "US news",
+      "Donald Trump",
+      "Trump administration",
+      "Alaska",
+      "US politics",
+      "World news"
+     ],
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+     "bron": "The Guardian",
+     "tijd": "20:49",
+     "sorteer": "2026-11-17T19:49:16+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
+     "context": "Destroying the structure, the only one connecting Russia to the occupied Crimean Peninsula, has long been a top objective for Kyiv.",
+     "rubrieken": [
+      "Russian Invasion of Ukraine (2022)",
+      "Kerch Strait Bridge",
+      "Russia",
+      "Kyiv (Ukraine)",
+      "Ukraine",
+      "Bridges and Tunnels",
+      "Investigative Committee (Russia)",
+      "Crimea (Ukraine)",
+      "Kerch Strait"
+     ],
+     "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
      "bron": "New York Times",
-     "tijd": "19:59",
-     "sorteer": "2026-11-17T18:59:25+00:00",
+     "tijd": "20:41",
+     "sorteer": "2026-11-17T19:41:03+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Russian military plane crashes killing all 19 on board",
+     "context": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "20:33",
+     "sorteer": "2026-11-17T19:33:55+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -296,50 +348,6 @@
      "bron": "BBC",
      "tijd": "19:58",
      "sorteer": "2026-11-17T18:58:57+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
-     "context": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live Sign up for US Breaking News email Abdul El-Sayed , the Democratic-Senator elect from Michigan, said today that he would be happy to work with the Trump administration to pass one of his tentpole policy agenda items – Medicare For All. “Everybody’s like, ‘ah well, you’d w",
-     "rubrieken": [
-      "US news",
-      "Donald Trump",
-      "Trump administration",
-      "Alaska",
-      "US politics",
-      "World news"
-     ],
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-     "bron": "The Guardian",
-     "tijd": "19:48",
-     "sorteer": "2026-11-17T18:48:05+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "UK sanctions firms over Israeli West Bank settlements",
-     "context": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "19:27",
-     "sorteer": "2026-11-17T18:27:27+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "The 5 Labour groups that matter as Burnham shows his hand on welfare",
-     "context": "The prime minister’s proposals to alter social security will need support across his parliamentary party to succeed.",
-     "rubrieken": [
-      "British politics",
-      "Westminster bubble",
-      "Politics"
-     ],
-     "link": "https://www.politico.eu/article/5-labour-group-matter-andy-burnham-welfare-social-security/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "19:04",
-     "sorteer": "2026-11-17T18:04:31+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -423,32 +431,32 @@
      "sorteer": "2026-11-17T16:55:44+00:00"
     },
     {
+     "titel": "Man uit Tubbergen krijgt celstraf en tbs na aanranding van twee vrouwen: rechter vreest nieuwe slachtoffers",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTTdZZEZETTViaTV0eUdMT2l4NnZobC1SaEw3cGRmNm1EX2dtcmxhTk0ycndwREtQMExteTY2MVFlMnp5QjluT1REUXBvUTdiUUZlSlluM3lSc0haMGd3YklXc0hwUlBwWWJBM18yZndRSVBXNzNyRlZ0WUhwZHd1VHpiUldDT0JlVzl4ZFpqLXpULXVrNHEybnJhaENZMUJKb3lsaDFDRkdtTmJJcWtnTDQ1Vm1faXZfRWF6dldyd2RkMk1KQmZHVzdGaWR0a3VaUjBSZ25fMTNDcTdBbXl3RTJfMWtIbUlr?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "20:00",
+     "sorteer": "2026-11-17T19:00:15+00:00"
+    },
+    {
+     "titel": "Seksueel roofdier uit Tubbergen moet zo snel mogelijk en langdurig behandeld worden na nieuwe zedenzaak",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX0NLSXBjYkljeXlPanRoZVN1OHdoU2dhcVdSVDBjWi1QTzFmQ0ZGNjJUdEExeS1HSVRaR0pWMGFMWUlvZmlLSVI3LUJjeVRKS1FJX3dmTkVrRjZXSjdTS3paTVFxNlNoRVdseUp6WEVKcTNBQ3h3UnZqQ0ktUXgySXdtc2lTekdBVF9iU20xNllSZ3g5dWlZUnlGYzRDN0FFc2w3MmpRZ2Q0WUVaTTJFYWNzOUV4OG05UDBTSmtqeW9TVmFndFRHTHpLTjBuM1k3alhvTWFrRXZnQm9feVpKQmZlOTg?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "20:00",
+     "sorteer": "2026-11-17T19:00:00+00:00"
+    },
+    {
+     "titel": "Ook na 2,5 jaar blijft fatale mishandeling Abdi (23) onopgelost: verdachten wijzen allemaal naar elkaar",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQXVhWG1DOEFiSEI5RTItLTRfQVBpMlIzaWZNX1BKeTNUUEZwLXI0ZFBTMHFGdktiT1JiQzYzUm90VFItYjFnQy1wMHhoUWdLWV9lbUYyUHhveVVoZUUxeVVqcjRkWDdERHRWRnhTaHJMMzJXd2xXQTVQS0RFeXBkOVl1bWRscFhMeHlvM0kzbk9qT2dvbmt6WWN3bF9INXVjX3FEcGxRSHVtZXZNZWlzMXZEMkxsX2p0TWxRc0hZWXUyT0xUV1dJT2JVNWMzWjNYZE1J?oc=5",
+     "bron": "AD.nl",
+     "tijd": "19:57",
+     "sorteer": "2026-11-17T18:57:00+00:00"
+    },
+    {
      "titel": "Verdachte dodelijke steekpartij Amsterdam tijdens strafzaak aangevallen in rechtszaal",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjMxRGs5dmpoSmlqT1ZIT2hhZ2EzNUgybkhaQlU4bUdRWFMzWGtyd3BycmtBWHlfOTkxUVpiTUNIdlp6SVRMWUZyOXZiMkFEVFJhNGJKQ1lVejBUWlQwblNPSndhbGpnRDNMaGlCSW5nVkkxZHhVNjU4YXBsaHJmN1F6ZXNkSmFHM1NLaXZTR2pGVmZxMWZCbDJsZExuLV96YlZjSldNTUZDcDN1SkJhSF9IdzRpMnc?oc=5",
      "bron": "NOS",
      "tijd": "19:45",
      "sorteer": "2026-11-17T18:45:58+00:00"
-    },
-    {
-     "titel": "Ongeval met letsel op Hommelseweg in Arnhem",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZkJBZ2g3ekRoMWJ4ZHNWVDRCZ3dhSzdMOE1qQkxkcGlJcDI3WGtaZnhjS1JCalpGc0VPN05NbGh3THlEdzkwTkVjM3RvNzVmZGV3T1ZSeGd1RzRnLWZmbW43TDdLaUhERnBmNk1CMl9XYW9YYV9yYTNvOEVqU0F2dUlEOTh5TE5OYl9wVGxob0cwWC1yeVQ2Zmp1RGM3Q1BR?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "18:52",
-     "sorteer": "2026-11-17T17:52:59+00:00"
-    },
-    {
-     "titel": "Voorwaardelijke boete voor bekladding monument in Amsterdam",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS1hNeHdQbWhTaVR0cUxUWWV4NzFKdGFKXy04eWpBSGZmNDVnMG5CTExPQ1VONDk5LWVBNVAwZk5VMmI1VlhaUDlVZ0FYREJFLVMzN0VabmpIMTFrcWFkUGQ1LW1BeHFlYXlFeE1KNzR2amZrX3NCZTloNzhYYXZKNkxsVVZGQQ?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "19:28",
-     "sorteer": "2026-11-17T18:28:09+00:00"
-    },
-    {
-     "titel": "Minister gaat strijd aan met fatbikers: jongeren vanaf volgend jaar verplicht een helm op",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTERzSk1lMHhfUjlxVlE5NU9JMnJ5X0Q3Zk5EZmI0aFlhTmszZnpYU2VtbGRWV0FhOGVEazZjTURYTHBGa21ub20wVzdzUVFsdkJrSnBab244d2tqWWRuZFZvWEVBX3RPX0YzMmJBZ1ZmVVhGekFldHB1M3BUOFFHTFJ2M1BtT2lIN0YyQloxZmY4Vm1fcVNsSkVCSlh0VmlTcUd1RE81dlQ3RHg0V2ZzckF2QzdLQkNzVnk5MFZBcGNzTnF1TjFiY0tJcWF4WDhZbFNB?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "19:24",
-     "sorteer": "2026-11-17T18:24:12+00:00"
     },
     {
      "titel": "Wat je ook van migratie vindt, de ‘terugkeerhub’ in Rwanda is belachelijke symboolpolitiek",
@@ -465,6 +473,16 @@
      "sorteer": "2026-11-17T04:45:05+00:00"
     },
     {
+     "titel": "VVD en Heinen zijn in de Eerste Kamer wél voor het belastingplan. Hoe kan dat?",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.trouw.nl/politiek/vvd-en-heinen-zijn-in-de-eerste-kamer-wel-voor-het-belastingplan-hoe-kan-dat~bf9f25e7/",
+     "bron": "Trouw",
+     "tijd": "20:13",
+     "sorteer": "2026-11-17T19:13:12+00:00",
+     "kop": "Begroting"
+    },
+    {
      "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaHVZcjRzaGJ6QXUwVmVjRjFhdXNwdEhIeHQ5aVhLYUJwQkdYRlNKU3FnRHcydm1vaUJLU1kxUVlEWkVVeTE0R1k2R0tnWG5HbVVmYmtxV2FOZElVWjJRS1VNcnNGMk81QVN4ZFhXeldyZm56cjhWdW1SazBkeW9FempGX1R0UTF3V2dOTDBEZHBsNXlLLTMwM25TTGwtUGM1X0p1SkZsazVLRzZWdHVTMk04VG51dDJ6TTdVMDVUYk5jVFk?oc=5",
      "bron": "Eindhovens Dagblad",
@@ -479,25 +497,6 @@
      "tijd": "17:36",
      "sorteer": "2026-11-17T16:36:14+00:00",
      "kop": "Begroting"
-    },
-    {
-     "titel": "VVD-fractie in Eerste Kamer gaat voor belastingplan stemmen",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1R3dXlIZjFpbENtV3NzTXdJdnB1VzZhZG9RbTY3OHB0aG5GeEl0TTdOOTNIcFBVcFhSSXNJb3RnVzNPQTk4dV9kZ3dacFBJVGhrdWt5aGZ6Smd1SFFrSTFQRjlUNzYwYThTbFp1OU1LQ2ExQWV2WUw2WWJGVVNJaUNUU09yeEhyRG5RNXZzbUtDR3YxWW94d2JLWmM?oc=5",
-     "bron": "AD.nl",
-     "tijd": "16:19",
-     "sorteer": "2026-11-17T15:19:45+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "VVD-minister Eelco Heinen probeerde Denk-fractie tijdens belastingdebat te beïnvloeden",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/politiek/vvd-minister-eelco-heinen-probeerde-denk-fractie-tijdens-belastingdebat-te-beinvloeden~bab69ac9/",
-     "bron": "de Volkskrant",
-     "tijd": "20:56",
-     "sorteer": "2026-11-16T19:56:18+00:00",
-     "kop": "Begroting",
-     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Eva",
@@ -533,26 +532,6 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Lachen, gieren, brullen: Buurtbus Glane is belangrijk voor Gerry en Meta",
-     "context": "Voor sommige inwoners van Glane, Glanerbrug en Losser is de buurtbus onmisbaar. Toch was het allesbehalve vanzelfsprekend dat die er kwam. Met veertig vrijwilligers kreeg Martha Horstman het voor elkaar. Nu wacht een nieuwe uitdaging.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3711979/lachen-gieren-brullen-buurtbus-glane-is-belangrijk-voor-gerry-en-meta",
-     "bron": "RTV Oost",
-     "tijd": "18:53",
-     "sorteer": "2026-11-17T17:53:04+00:00"
-    },
-    {
-     "titel": "Nep-taxichauffeur randt twee vrouwen aan in zijn bus: dit is zijn straf",
-     "context": "Na een avondje stappen in Enschede denken twee vrouwen veilig naar huis te gaan. Ze stappen in bij ene P. (41), die zich voordoet als taxichauffeur. Maar eenmaal in het busje krijgt deze rit een heel andere lading. Hij betast beide vrouwen en ontvoert één van hen. Dit oordeelt de rechter.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3720545/nep-taxichauffeur-randt-twee-vrouwen-aan-in-zijn-bus-dit-is-zijn-straf",
-     "bron": "RTV Oost",
-     "tijd": "17:56",
-     "sorteer": "2026-11-17T16:56:08+00:00"
-    },
-    {
      "titel": "De bizarre link tussen twee Hengelose bedrijven en de verwoeste Krimbrug",
      "context": "Het is een haast bizarre samenloop van omstandigheden. Waar het ene bedrijf uit Hengelo meebouwde aan de Krimbrug, werd diezelfde brug vandaag aan flarden geschoten met raketten van een ander Hengeloos bedrijf.",
      "rubrieken": [],
@@ -560,15 +539,6 @@
      "bron": "RTV Oost",
      "tijd": "17:11",
      "sorteer": "2026-11-17T16:11:36+00:00"
-    },
-    {
-     "titel": "Arriva-nachttrein Schiphol-Zwolle stopt per direct na uitspraak",
-     "context": "De Arriva-nachttrein die op vrijdag- en zaterdagnacht van Schiphol naar Zwolle en terug rijdt, stopt per direct. Dit meldt Arriva in reactie op de uitspraak van het College van Beroep voor het bedrijfsleven (CBb).",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3720492/arriva-nachttrein-schiphol-zwolle-stopt-per-direct-na-uitspraak",
-     "bron": "RTV Oost",
-     "tijd": "16:58",
-     "sorteer": "2026-11-17T15:58:08+00:00"
     },
     {
      "titel": "Oudste sinterklaasgedicht ooit gevonden: vol gekras en met steken onder water",
@@ -582,13 +552,33 @@
      "sorteer": "2026-11-17T15:23:54+00:00"
     },
     {
-     "titel": "Man (59) uit Steenwijk overleden bij ongeval in Uffelte",
-     "context": "Een man (59) uit Steenwijk is overleden bij een eenzijdig ongeval in het Drentse Uffelte. De automobilist botste rond 13.30 uur tegen een boom langs de Ruiterweg.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3720522/man-59-uit-steenwijk-overleden-bij-ongeval-in-uffelte",
+     "titel": "Rijssenaar Erik Beltman rekent af met dure boodschappen in vergelijkingswebsite",
+     "context": "Boodschappen worden steeds duurder. Maar waar ben je nou écht het goedkoopst uit? Erik Beltman uit Rijssen bouwde een website die de prijzen en aanbiedingen van elf supermarkten met elkaar vergelijkt. En hij verzekert: de website is en blijft gratis.",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3720144/rijssenaar-erik-beltman-rekent-af-met-dure-boodschappen-in-vergelijkingswebsite",
      "bron": "RTV Oost",
-     "tijd": "16:15",
-     "sorteer": "2026-11-17T15:15:30+00:00"
+     "tijd": "10:27",
+     "sorteer": "2026-11-17T09:27:33+00:00"
+    },
+    {
+     "titel": "Meerdere poliklinieken MST Oldenzaal tot en met vrijdag gesloten door wateroverlast",
+     "context": "Een aantal poliklinieken van Medisch Spectrum Twente in Oldenzaal blijft tot en met vrijdag dicht. Na een technische storing is er wateroverlast ontstaan, meldt het ziekenhuis.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3720282/meerdere-poliklinieken-mst-oldenzaal-tot-en-met-vrijdag-gesloten-door-wateroverlast",
+     "bron": "RTV Oost",
+     "tijd": "08:23",
+     "sorteer": "2026-11-17T07:23:06+00:00"
+    },
+    {
+     "titel": "Zoveelste zaak omtrent Groen Gas Goor: omwonenden worden er gek van",
+     "context": "Wie moet biogasproducent Groen Gas Goor aanpakken, de provincie of de gemeente Hof van Twente? De Raad van State moet die vraag beantwoorden. Intussen zeggen omwonenden gek te worden van de stank en juridische strijd met het bedrijf in Goor.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3720023/zoveelste-zaak-omtrent-groen-gas-goor-omwonenden-worden-er-gek-van",
+     "bron": "RTV Oost",
+     "tijd": "07:02",
+     "sorteer": "2026-11-17T06:02:57+00:00"
     },
     {
      "titel": "Volkshuisvestingsprogramma Overijssel 2026-2035",
@@ -951,7 +941,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "20:00",
+    "bijgewerkt": "21:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1271,20 +1261,20 @@
      "link": "https://scientias.nl/glasvezelkabels-ook-handig-bij-het-monitoren-van-walvissen/"
     },
     {
+     "titel": "In Zimbabwe, trusted local guardians help communities coexist with lions",
+     "toelichting": "Conservation biologist and founder of the nonprofit Wildlife Conservation Action, Moreangels Mbizah joins the Mongabay Newscast this week to detail her work helping reduce human-wildlife conflict between African lions an",
+     "bron": "Mongabay (Engels)",
+     "tijd": "20:36",
+     "link": "https://news.mongabay.com/podcast/2026/11/in-zimbabwe-trusted-local-guardians-help-communities-coexist-with-lions/",
+     "sorteer": "2026-11-17T19:36:50+00:00"
+    },
+    {
      "titel": "Prince William’s presents Earthshot Prize winners with $1.3M each in Mumbai",
      "toelichting": "MUMBAI, India (AP) — Prince William presented five Earthshot Prize winners with 1 million pounds ($1.3 million) each on Tuesday, recognizing their efforts to tackle the world’s climate challenges. The annual ceremony, he",
      "bron": "Mongabay (Engels)",
      "tijd": "19:31",
      "link": "https://news.mongabay.com/short-article/2026/11/prince-williams-presents-earthshot-prize-winners-with-1-3m-each-in-mumbai/",
      "sorteer": "2026-11-17T18:31:16+00:00"
-    },
-    {
-     "titel": "The scimitar-horned oryx is back in Chad",
-     "toelichting": "The scimitar-horned oryx, an antelope with a majestic set of sword-like horns, had disappeared from Chad by the late 1980s and was declared extinct in the wild globally in 2000. But now, thanks to a reintroduction progra",
-     "bron": "Mongabay (Engels)",
-     "tijd": "17:58",
-     "link": "https://news.mongabay.com/short-article/2026/11/the-scimitar-horned-oryx-is-back-in-chad/",
-     "sorteer": "2026-11-17T16:58:40+00:00"
     }
    ]
   },
@@ -1440,9 +1430,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 11.4,
-    "gevoel": 9.1,
-    "wind": "ZW 4",
+    "nu": 11.0,
+    "gevoel": 8.8,
+    "wind": "ZW 3",
     "station": "Heino",
     "bericht": "Vandaag en morgen is het sterk wisselvallig met vanmiddag buien, vanavond mogelijk plensregen met onweer en zware windstoten. In het zuiden is het zeer zacht!Vanavond trekken buiengebieden over het midden en zuiden met lokaal onweer. Het kan soms echt even goed doorplenzen.",
     "vandaag": "In het zuiden is het zeer zacht!Vanavond trekken buiengebieden over het midden en zuiden met lokaal onweer. Vannacht trekken de zwaarste buien naar het oosten weg.",
