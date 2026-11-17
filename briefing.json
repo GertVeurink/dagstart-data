@@ -3,13 +3,15 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "22:00",
+  "opgehaald": "23:00",
   "blokken": 11,
-  "berichten": 102,
-  "problemen": [],
+  "berichten": 103,
+  "problemen": [
+   "google 'belastingplan OR begroting OR ': HTTP 429"
+  ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-17T22:00+01:00",
+ "opgehaald": "2026-11-17T23:00+01:00",
  "audio": "audio/20261117.mp3",
  "afval": [
   {
@@ -196,8 +198,26 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Ier in VS aangeklaagd voor vernielen militair vliegtuig",
+     "context": "Een 48-jarige man uit Ierland is in de VS aangeklaagd voor het vernielen van een Amerikaans militair vliegtuig. De man drong in april het beveiligde terrein van Shannon Airport in Ierland binnen en zou het toestel zo zwaar hebben beschadigd dat het niet meer kan vliegen. Het gaat om een C-130 Hercules, een militair transportvliegtuig met een waarde van ongeveer 60 miljoen dollar volgens Amerikaans",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639944",
+     "bron": "NOS",
+     "tijd": "22:56",
+     "sorteer": "2026-11-17T22:56:00+01:00"
+    },
+    {
+     "titel": "Woede in Australië na vondst renpaard in afvalcontainer",
+     "context": "In Australië is met afschuw gereageerd op de vondst van een dood renpaard in een afvalcontainer bij een stortplaats. Meerdere betrokken partijen hebben een onderzoek aangekondigd naar wat er is misgegaan De paardenrenorganisatie in de deelstaat New South Wales stelt volgens ABC News nieuwe regels op, die ervoor moeten zorgen dat met overleden renpaarden respectvol wordt omgegaan. Renpaard So You A",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639941",
+     "bron": "NOS",
+     "tijd": "22:30",
+     "sorteer": "2026-11-17T22:30:17+01:00"
+    },
+    {
      "titel": "Nederlandse wapenfabrikant laat wereld weten: onze raketten troffen Krimbrug",
-     "context": "De in Hengelo gevestigde wapenfabrikant Destinus zegt dat Oekraïne zijn raketten en drones heeft gebruikt bij de grote aanval op de Krimbrug. \"We zijn er trots op om de Oekraïense strijdkrachten te helpen in hun gevecht om Oekraïne en Europa te verdedigen\", zegt het Nederlandse bedrijf in een post op LinkedIn . Het is opmerkelijk dat Destinus expliciet een aandeel opeist in de aanval op de Russisc",
+     "context": "De in Hengelo en Valkenburg gevestigde wapenfabrikant Destinus zegt dat Oekraïne zijn raketten en drones heeft gebruikt bij de grote aanval op de Krimbrug. \"We zijn er trots op om de Oekraïense strijdkrachten te helpen in hun gevecht om Oekraïne en Europa te verdedigen\", zegt het Nederlandse bedrijf in een post op LinkedIn . Het is opmerkelijk dat Destinus expliciet een aandeel opeist in de aanval",
      "rubrieken": [],
      "link": "https://nos.nl/l/2639936",
      "bron": "NOS",
@@ -223,22 +243,13 @@
      "sorteer": "2026-11-17T21:03:33+01:00"
     },
     {
-     "titel": "VK straft Israëlische bouwbedrijven voor bouwen nederzettingen",
-     "context": "De Britse regering heeft sancties ingesteld tegen acht Israëlische bouwbedrijven en projectontwikkelaars, die betrokken zouden zijn bij de bouw van Israëlische nederzettingen op de bezette Westelijke Jordaanoever. Het Verenigd Koninkrijk hoopt zo de toename van Israëlische kolonisten in Palestijns gebied te vertragen, zodat de vestiging van een Palestijnse staat naast de Israëlische mogelijk blijf",
+     "titel": "Eerste kwartaalcijfers Nvidia sinds spionageschandaal overtreffen verwachtingen: meer dan 100 miljard dollar aan omzet",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639915",
-     "bron": "NOS",
-     "tijd": "18:53",
-     "sorteer": "2026-11-17T18:53:07+01:00"
-    },
-    {
-     "titel": "Dieven stelen racefietsen ter waarde van 100.000 euro zonder in winkel te komen",
-     "context": "Winkeldieven hebben in een fietsenwinkel in het Belgische Wevelgem, niet ver van de Franse grens, twintig racefietsen gestolen zonder in de winkel te zijn geweest. De dieven haalden de fietsen met een touw en haak naar boven vanuit een opening in het dak. Dat meldt de Belgische krant Het Laatste Nieuws (HLN), die sprak met Sandra, een van de eigenaren van de fietswinkel in West-Vlaanderen. In de n",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639913",
-     "bron": "NOS",
-     "tijd": "18:37",
-     "sorteer": "2026-11-17T18:37:32+01:00"
+     "link": "https://www.volkskrant.nl/buitenland/eerste-kwartaalcijfers-nvidia-sinds-spionageschandaal-overtreffen-verwachtingen-meer-dan-100-miljard-dollar-aan-omzet~bb73aa78/",
+     "bron": "de Volkskrant",
+     "tijd": "22:49",
+     "sorteer": "2026-11-17T21:49:07+00:00"
     },
     {
      "titel": "Iran beschuldigt VS van aanval op eiland in Straat van Hormuz",
@@ -250,83 +261,74 @@
      "sorteer": "2026-11-17T20:05:00+00:00"
     },
     {
-     "titel": "Nieuwe toezeggingen militaire hulp aan Oekraïne; kritiek VS op langeafstandsaanvallen op doelen in Rusland",
+     "titel": "In China keert het succes van de blauwe bes zich tegen de Amerikaanse pionier",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/nieuwe-toezeggingen-militaire-hulp-aan-oekraine-kritiek-vs-op-langeafstandsaanvallen-op-doelen-in-rusland~b1fad35e/",
-     "bron": "de Volkskrant",
-     "tijd": "20:56",
-     "sorteer": "2026-11-17T19:56:34+00:00"
-    },
-    {
-     "titel": "Trump, Xi en Poetin hebben heel wat bij elkaar te winnen",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/trump-xi-en-poetin-hebben-heel-wat-bij-elkaar-te-winnen~bf153e77/",
+     "link": "https://www.trouw.nl/buitenland/in-china-keert-het-succes-van-de-blauwe-bes-zich-tegen-de-amerikaanse-pionier~b0285a45c/",
      "bron": "Trouw",
      "tijd": "22:00",
-     "sorteer": "2026-11-17T21:00:00+00:00"
+     "sorteer": "2026-11-17T21:00:34+00:00"
     },
     {
-     "titel": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
-     "context": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency’s employees to send classified information internally Sign up for US Breaking News email Abdul El-Sayed , the Democratic-Senator elect from Michigan, said today that he would be happy to work with the Trump administration to pass one of his tentpole policy agenda items – Medicare For All. “Eve",
+     "titel": "Matan Kahana Elected Speaker of Israel’s Parliament",
+     "context": "Matan Kahana, a lawmaker from Gadi Eisenkot’s party, will take control of the legislative process as the opposition looks to press Prime Minister Benjamin Netanyahu on multiple fronts.",
      "rubrieken": [
-      "US news",
-      "Donald Trump",
-      "Trump administration",
-      "Alaska",
-      "US politics",
-      "World news"
+      "Legislatures and Parliaments",
+      "Elections",
+      "Yashar Party (Israel)",
+      "Eisenkot, Gadi",
+      "Netanyahu, Benjamin",
+      "Bennett, Naftali",
+      "Israel",
+      "Israel-Gaza War (2023- )"
      ],
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-     "bron": "The Guardian",
-     "tijd": "21:53",
-     "sorteer": "2026-11-17T20:53:50+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-     "context": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "21:44",
-     "sorteer": "2026-11-17T20:44:54+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread",
-     "context": "As the Ebola virus spreads in eastern Congo, health teams struggle to curb fatal delays in seeking medical care and the widespread desire to treat sick relatives at home.",
-     "rubrieken": [
-      "Africa",
-      "Ituri Province (Congo, Democratic Republic of)",
-      "Africa Centers for Disease Control and Prevention",
-      "World Health Organization",
-      "Ebola Virus",
-      "Disease Rates",
-      "Deaths (Fatalities)",
-      "Quarantines",
-      "Epidemics",
-      "Health Care Workers",
-      "vis-photo"
-     ],
-     "link": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html",
+     "link": "https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html",
      "bron": "New York Times",
-     "tijd": "21:44",
-     "sorteer": "2026-11-17T20:44:22+00:00",
+     "tijd": "22:54",
+     "sorteer": "2026-11-17T21:54:22+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-     "context": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+     "titel": "Nvidia doubles quarterly revenue in first earnings since Jensen Huang’s resignation",
+     "context": "Report comes just days after company saw ouster of its CEO over allegations of affair with suspected Chinese spy Nvidia announced Tuesday that its quarterly revenue beat expectations, coming in at $115.84bn, doubling from the same time period a year ago. The third-quarter earnings report comes just days after the world’s most valuable chip company saw the ouster of its CEO, Jensen Huang , over all",
+     "rubrieken": [
+      "Technology",
+      "Nvidia",
+      "Jensen Huang",
+      "Quarterly results",
+      "Business",
+      "Computing",
+      "AI (artificial intelligence)",
+      "Stock markets",
+      "US news"
+     ],
+     "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
+     "bron": "The Guardian",
+     "tijd": "22:51",
+     "sorteer": "2026-11-17T21:51:51+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+     "context": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
      "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+     "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "21:30",
-     "sorteer": "2026-11-17T20:30:20+00:00",
+     "tijd": "22:24",
+     "sorteer": "2026-11-17T21:24:35+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Russian military plane crashes killing all 19 on board",
+     "context": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "22:06",
+     "sorteer": "2026-11-17T21:06:11+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -424,20 +426,13 @@
      "sorteer": "2026-11-17T07:33:00+00:00"
     },
     {
-     "titel": "Twee vrouwen uit Stadskanaal óók verdacht van mishandelen zevenjarige zoon",
+     "titel": "Ook de politie moet zich aanpassen aan klimaatverandering. ‘Het gaat niet over de toekomst, het gaat over het nu’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/twee-vrouwen-uit-stadskanaal-ook-verdacht-van-mishandelen-zevenjarige-zoon~b0d980d1/",
+     "link": "https://www.trouw.nl/binnenland/ook-de-politie-moet-zich-aanpassen-aan-klimaatverandering-het-gaat-niet-over-de-toekomst-het-gaat-over-het-nu~b3fc4ab4/",
      "bron": "Trouw",
-     "tijd": "17:55",
-     "sorteer": "2026-11-17T16:55:44+00:00"
-    },
-    {
-     "titel": "Kabinet houdt vast aan hogere verkeersboetes ondanks wens Kamer",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZFZxY1MwMnFhem5oQWVWSWUxajJtRkpadmwzLUxmVDRGLXMyZlpyR3BpWFJZTlFEWU1vdXRaSVBaMmxoU19tVGFTWF9GMDN1Tk5ITWxocmhxZE4tMG4zZ1NzSlVBN1B0eEgweDNCX3owVTY5MGptMUJRRExaSWRuQ3NsR3F6ckNiLVc0eUJfQ2tPS3NiVEJDRmpPYUl4ZF9fODQzcjFJTjZMQjhqZW4yOXd1T0ZrMk1wYnlpa2plaVE?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "21:11",
-     "sorteer": "2026-11-17T20:11:51+00:00"
+     "tijd": "22:00",
+     "sorteer": "2026-11-17T21:00:34+00:00"
     },
     {
      "titel": "Man uit Tubbergen krijgt celstraf en tbs na aanranding van twee vrouwen: rechter vreest nieuwe slachtoffers",
@@ -448,8 +443,8 @@
     },
     {
      "titel": "Seksueel roofdier uit Tubbergen moet zo snel mogelijk en langdurig behandeld worden na nieuwe zedenzaak",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX0NLSXBjYkljeXlPanRoZVN1OHdoU2dhcVdSVDBjWi1QTzFmQ0ZGNjJUdEExeS1HSVRaR0pWMGFMWUlvZmlLSVI3LUJjeVRKS1FJX3dmTkVrRjZXSjdTS3paTVFxNlNoRVdseUp6WEVKcTNBQ3h3UnZqQ0ktUXgySXdtc2lTekdBVF9iU20xNllSZ3g5dWlZUnlGYzRDN0FFc2w3MmpRZ2Q0WUVaTTJFYWNzOUV4OG05UDBTSmtqeW9TVmFndFRHTHpLTjBuM1k3alhvTWFrRXZnQm9feVpKQmZlOTg?oc=5",
-     "bron": "De Gelderlander",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZVI5UjQ0Zklsb21pVGlFekNNTnVrWVF2OGRydGNXQkNzTWdQLTAzZ1BoVm5VS2NybXJrcmNnbHNUNmpQTzhfOERxNU4zS0xLVGZYaTdRVWZtT1VtS3pGV1NpTURiSHBXbzJEenRYWDJmSXJzQmwwOWdYZ1VxZ0VRb3dGR1ZFVXRoZUY4RC14THZSYnZvVGpjc0JISVk3TnZ1aUdFTHFSbkY1aHlSbDFEUUhZMkZtWExvQkVCS0pfQU5ZaWg2NHJXWlhFNHg2dU41V2ZFR1VLOThqUERMM1RpTg?oc=5",
+     "bron": "Tubantia",
      "tijd": "20:00",
      "sorteer": "2026-11-17T19:00:00+00:00"
     },
@@ -459,6 +454,13 @@
      "bron": "AD.nl",
      "tijd": "19:57",
      "sorteer": "2026-11-17T18:57:00+00:00"
+    },
+    {
+     "titel": "Verdachte dodelijke steekpartij Amsterdam tijdens strafzaak aangevallen in rechtszaal",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjMxRGs5dmpoSmlqT1ZIT2hhZ2EzNUgybkhaQlU4bUdRWFMzWGtyd3BycmtBWHlfOTkxUVpiTUNIdlp6SVRMWUZyOXZiMkFEVFJhNGJKQ1lVejBUWlQwblNPSndhbGpnRDNMaGlCSW5nVkkxZHhVNjU4YXBsaHJmN1F6ZXNkSmFHM1NLaXZTR2pGVmZxMWZCbDJsZExuLV96YlZjSldNTUZDcDN1SkJhSF9IdzRpMnc?oc=5",
+     "bron": "NOS",
+     "tijd": "19:45",
+     "sorteer": "2026-11-17T18:45:58+00:00"
     },
     {
      "titel": "Wat je ook van migratie vindt, de ‘terugkeerhub’ in Rwanda is belachelijke symboolpolitiek",
@@ -717,11 +719,18 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Zuid-Korea haalt alles uit de kast om afkijken met behulp van AI te voorkomen tijdens toelatingsexamens",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaEFneEl0S25jUGpOX21WZlNxNmM0REtrWTdQeUtBZGNKUWswTTQ1alRJQVVJMzRTaXdmc210Zk9HNDMzZFNYd2Z4NXZXTzdab0hFLVhDcUxsM1MxZ3oybUQ5eFRURk1Jc3FjWThNWDVqT2pFNTIzSGkzVngtQTI0VU9kLVkzbFBvY0hNczNqZEhWNU56MHljWFZuVVhDcEg2c05CT3E5YTlqbjRmaWpjakVDcW1qTUwxN2YtRU1VWFduTS1YTklQY2x1UXVkUUttdUdQeWVKY00xNm5nRC01RVduNEo?oc=5",
-     "bron": "de Volkskrant",
-     "tijd": "16:52",
-     "sorteer": "2026-11-17T15:52:29+00:00"
+     "titel": "Californië klaagt OpenAI aan: AI-wedloop mag niet boven veiligheid gaan",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2dVUm9aeEJQNGcxdFhYVmlONUtXdWF0Sy1lZXVPRXF1QTBHOGQzbVBFcWJXQzIyTHU1YWNIeGJQSl9sRC1LQnZQdXBBU204dzBJY2YzYWgwbzRQNHlINFNldUU1RWVsV21KTUk4WHNZT2pRUHhBaFIwLTB4bi1BU2p6bUVtc0RSTURWdUVjRHZnanh3SExpanZpb1ZybmFRYjMySGdxMXF0Q3R6MmFPOWozMWZRaFpHX01YeTlQNmE?oc=5",
+     "bron": "Trouw",
+     "tijd": "22:00",
+     "sorteer": "2026-11-17T21:00:33+00:00"
+    },
+    {
+     "titel": "Opinie | Waarom Rutger Bregman tóch waarschuwt voor AI",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDdDNmtrTkpLakllRlozT3d0SERBazZ3cnpKT3EzTVVTTjF2VW03RnFiQ2VWVHcxZHFzbDdDZ2JWTUw2MU1iM2NHemRMVGFyR252SVZ6UTBINjRJM1RWUmZtNmtMaHZtZldfUmdmakVXRXpGRkhHWGt0d2RtY1NSaUxRamh4VEdFUTJDazlYbHAtUXJuZEE?oc=5",
+     "bron": "NRC",
+     "tijd": "22:00",
+     "sorteer": "2026-11-17T21:00:00+00:00"
     }
    ]
   },
@@ -949,7 +958,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "22:00",
+    "bijgewerkt": "23:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1438,9 +1447,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 10.8,
-    "gevoel": 8.8,
-    "wind": "ZW 3",
+    "nu": 10.4,
+    "gevoel": 8.4,
+    "wind": "ZZW 3",
     "station": "Heino",
     "bericht": "Vandaag en morgen is het sterk wisselvallig met vanmiddag buien, vanavond mogelijk plensregen met onweer en zware windstoten. In het zuiden is het zeer zacht!Vanavond trekken buiengebieden over het midden en zuiden met lokaal onweer. Het kan soms echt even goed doorplenzen.",
     "vandaag": "In het zuiden is het zeer zacht!Vanavond trekken buiengebieden over het midden en zuiden met lokaal onweer. Vannacht trekken de zwaarste buien naar het oosten weg.",
