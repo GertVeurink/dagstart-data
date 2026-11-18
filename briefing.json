@@ -1,17 +1,15 @@
 {
  "datum": "2026-11-18",
- "naam": "Middagbriefing",
+ "naam": "Avondbriefing",
  "status": {
-  "ronde": "Middagbriefing",
-  "opgehaald": "17:15",
+  "ronde": "Avondbriefing",
+  "opgehaald": "18:00",
   "blokken": 11,
-  "berichten": 100,
-  "problemen": [
-   "kamerstukken Brief regering: timeout"
-  ],
+  "berichten": 102,
+  "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-18T17:15+01:00",
+ "opgehaald": "2026-11-18T18:00+01:00",
  "audio": "audio/20261118.mp3",
  "afval": [
   {
@@ -216,6 +214,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Democraat Hakeem Jeffries vrijwel zeker eerste zwarte leider van het Huis in VS",
+     "context": "De Democraten hebben Hakeem Jeffries genomineerd als nieuwe voorzitter van het Huis van Afgevaardigden, waar de partij vanaf januari de meerderheid heeft. Er waren geen tegenkandidaten en de weg lijkt vrij voor Jeffries om de nieuwe speaker te worden. Hij zou daarmee de eerste zwarte parlementariër zijn in die invloedrijke functie. Jeffries (56) kan vanaf 3 januari, als het nieuwe Congres zitting ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640053",
+     "bron": "NOS",
+     "tijd": "17:50",
+     "sorteer": "2026-11-18T17:50:02+01:00"
+    },
+    {
      "titel": "China zet deur open voor ontmoeting tussen Donald Trump en Kim Jong-un",
      "context": "De Chinese president Xi Jinping heeft vandaag zijn steun uitgesproken voor een top tussen Donald Trump en Kim Jong-un, meldt het Zuid-Koreaanse persbureau Yonhap. De Zuid-Koreaanse president Lee sprak vandaag met Xi op de APEC-top in China. Als belangrijkste partner van Noord-Korea bepaalt China de facto of een ontmoeting plaatsvindt. Trump is al lange tijd open over zijn wens om de Noord-Koreaans",
      "rubrieken": [],
@@ -252,40 +259,89 @@
      "sorteer": "2026-11-18T12:59:40+01:00"
     },
     {
-     "titel": "Iran valt Amerikaanse doelwitten aan in Golfregio, spanning loopt op",
-     "context": "Iran heeft vanochtend opnieuw aanvallen op buurlanden in de Golfregio uitgevoerd. Een Amerikaanse luchtmachtbasis in Koeweit werd aangevallen en ook doelwitten in Bahrein werden bestookt. Het geweld tussen de VS en Iran is de afgelopen dagen weer opgelaaid, na ongeveer twee maanden van betrekkelijke rust. De nieuwe Iraanse aanvallen op Bahrein en Koeweit, bondgenoten van de VS, zouden een vergeldi",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640003",
-     "bron": "NOS",
-     "tijd": "12:53",
-     "sorteer": "2026-11-18T12:53:58+01:00"
-    },
-    {
-     "titel": "Productie Russische raffinaderijen in drie weken bijna gehalveerd door Oekraïense aanvallen",
+     "titel": "Generaal LaNeve maakte onder Trump snel carrière en wordt nu beloond met topfunctie landmacht",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/productie-russische-raffinaderijen-in-drie-weken-bijna-gehalveerd-door-oekraiense-aanvallen~b11373d3a/",
+     "link": "https://www.volkskrant.nl/buitenland/generaal-laneve-maakte-onder-trump-snel-carriere-en-wordt-nu-beloond-met-topfunctie-landmacht~b79499a2/",
      "bron": "de Volkskrant",
-     "tijd": "16:49",
-     "sorteer": "2026-11-18T15:49:00+00:00"
+     "tijd": "17:50",
+     "sorteer": "2026-11-18T16:50:00+00:00"
     },
     {
-     "titel": "In beeld: wereldleiders verzamelen zich voor galadiner in Shenzhen",
+     "titel": "Democraten nomineren Hakeem Jeffries als nieuwe voorzitter Huis van Afgevaardigden",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/in-beeld-wereldleiders-verzamelen-zich-voor-galadiner-in-shenzhen~b30fd54d6/",
+     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
      "bron": "de Volkskrant",
-     "tijd": "14:44",
-     "sorteer": "2026-11-18T13:44:00+00:00"
+     "tijd": "17:49",
+     "sorteer": "2026-11-18T16:49:00+00:00"
     },
     {
-     "titel": "Na de verkiezingseuforie steekt bij Democraten weer eens aloude verdeeldheid de kop op",
+     "titel": "EU helpt Oekraïne met extra miljardenlening, maar Europees Parlement wil Russische tegoeden inzetten",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/na-de-verkiezingseuforie-steekt-bij-democraten-weer-eens-aloude-verdeeldheid-de-kop-op~b38cc0f0/",
+     "link": "https://www.trouw.nl/buitenland/eu-helpt-oekraine-met-extra-miljardenlening-maar-europees-parlement-wil-russische-tegoeden-inzetten~bc4ff575/",
      "bron": "Trouw",
-     "tijd": "15:58",
-     "sorteer": "2026-11-18T14:58:19+00:00"
+     "tijd": "17:50",
+     "sorteer": "2026-11-18T16:50:04+00:00"
+    },
+    {
+     "titel": "UK government ‘breaking the law’ by not stopping decline of wild birds",
+     "context": "Populations at lowest level on record with 45% of native breeding species in decline, environment watchdog says The environment secretary, Angela Eagle, her ministers and Natural England are breaking the law by failing to intervene to slow the “deeply concerning” decline of Britain’s wild birds, the UK’s environment regulator has said. New data shows that wild bird populations have dropped to thei",
+     "rubrieken": [
+      "Birds",
+      "Environment policy",
+      "Environment",
+      "Animals",
+      "Wildlife",
+      "UK news",
+      "Conservation",
+      "Biodiversity",
+      "Angela Eagle",
+      "Politics"
+     ],
+     "link": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
+     "bron": "The Guardian",
+     "tijd": "17:53",
+     "sorteer": "2026-11-18T16:53:52+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "L’après-Macron vu par les espions",
+     "context": "Comment les services secrets se préparent-ils au “choc électoral” de 2027 ? Dans La nouvelle armée des ombres (Albin Michel), trois journalistes ont enquêté sur la manière dont les espions français anticipent la campagne présidentielle mais aussi les jours et mois suivants l’alternance. Attaques, opérations de déstabilisation, mouvement de protestation, effondrement de la République : […]",
+     "rubrieken": [
+      "Playbook",
+      "Politics"
+     ],
+     "link": "https://www.politico.eu/podcast/playbook-paris-podcast/lapres-macron-vu-par-les-espions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "17:47",
+     "sorteer": "2026-11-18T16:47:58+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "William and Kate reflect on 'enduring' UK-India ties with Modi",
+     "context": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "17:44",
+     "sorteer": "2026-11-18T16:44:23+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
+     "context": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia.",
+     "rubrieken": [],
+     "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
+     "bron": "New York Times",
+     "tijd": "17:41",
+     "sorteer": "2026-11-18T16:41:06+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
      "titel": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
@@ -293,86 +349,8 @@
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "16:56",
-     "sorteer": "2026-11-18T15:56:29+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "House Democrats begin leadership elections, with Hakeem Jeffries poised to clinch speaker nomination – live",
-     "context": "If elected, Jeffries would become the first Black person to hold the gavel in US history Trump in China for Apec summit – follow live Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about the wave of tech outages affecting several industries. CNN reported that officials said the administration underscored that what has happened i",
-     "rubrieken": [
-      "US politics",
-      "Trump administration",
-      "US news",
-      "World news",
-      "US midterm elections 2026",
-      "Donald Trump",
-      "Democrats",
-      "Republicans",
-      "US Senate"
-     ],
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-     "bron": "The Guardian",
-     "tijd": "16:54",
-     "sorteer": "2026-11-18T15:54:32+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Parents jailed for torture and death of four-year-old girl in France in 1987",
-     "context": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "16:39",
-     "sorteer": "2026-11-18T15:39:57+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
-     "context": "Kuwait and Bahrain said they were targeted on Wednesday, a sign of how the Middle East is stuck in limbo between peace and full-blown war.",
-     "rubrieken": [
-      "US and Israeli Attack on Iran (2026)",
-      "Military Bases and Installations",
-      "Drones (Pilotless Planes)",
-      "Peace Process",
-      "International Relations",
-      "Bahrain",
-      "Kuwait",
-      "Iran",
-      "Middle East",
-      "Persian Gulf",
-      "Strait of Hormuz"
-     ],
-     "link": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
-     "bron": "New York Times",
-     "tijd": "16:37",
-     "sorteer": "2026-11-18T15:37:11+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "France’s Philippe steps up attacks on Le Pen and Mélenchon as his poll numbers slide",
-     "context": "The center-right presidential candidate accused his rivals of harboring an \"unhealthy fascination\" with Russia's Vladimir Putin.",
-     "rubrieken": [
-      "Artificial Intelligence",
-      "Climate change",
-      "Crisis",
-      "Elections",
-      "Foreign policy",
-      "Intelligence",
-      "Macron",
-      "Referendum",
-      "Security",
-      "War",
-      "Politics"
-     ],
-     "link": "https://www.politico.eu/article/france-edouard-philippe-steps-up-attacks-on-marine-le-pen-and-jean-luc-melenchon-as-his-poll-numbers-slide/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "14:52",
-     "sorteer": "2026-11-18T13:52:43+00:00",
+     "tijd": "17:37",
+     "sorteer": "2026-11-18T16:37:49+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -384,8 +362,35 @@
    "emoji": "🇳🇱",
    "items": [
     {
-     "titel": "Zembla: FVD'ers actief in neonazistisch netwerk, inclusief kooigevechten",
-     "context": "Mensen in en rond Forum voor Democratie (FVD) hebben banden met een gewelddadig neonazistisch netwerk dat her en der in het land kooigevechten organiseert. Dat blijkt uit een tv-uitzending van onderzoeksprogramma Zembla. Het gaat onder anderen om Ramon van Asch, de FVD-fractievoorzitter in de gemeenteraad van Den Bosch. Hij stond vorig jaar op plaats 13 bij de Tweede Kamerverkiezingen, was tot voo",
+     "titel": "Man moet voet en onderbeen laten amputeren na pedicurebezoek",
+     "context": "Een man uit Den Haag heeft na een pedicurebezoek een deel van zijn linkervoet en rechteronderbeen moeten laten amputeren. Door de behandeling liep hij derdegraadsbrandwonden op. Het slachtoffer stapte naar de rechter en eist een schadevergoeding van de cosmetisch pedicure. De man bezocht de Rotterdamse pedicure in april voor een behandeling van een kalknagel. Tijdens de behandeling werden de voete",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640055",
+     "bron": "NOS",
+     "tijd": "17:56",
+     "sorteer": "2026-11-18T17:56:55+01:00"
+    },
+    {
+     "titel": "Vogelgriep slaat weer hard toe, afgelopen maand 350.000 dieren geruimd",
+     "context": "Vogelgriep waart weer volop rond in Nederland. In nog geen maand tijd is het virus op negen bedrijven vastgesteld en zijn er al meer dan 350.000 kippen en eenden afgemaakt. Het ministerie van Landbouw maakt zich zorgen, hoewel het aantal besmettingen niet uitzonderlijk hoog is vergeleken met andere jaren. Gisteren maakte het ministerie nog bekend dat de ziekte is vastgesteld op een vermeerderings-",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640052",
+     "bron": "NOS",
+     "tijd": "17:35",
+     "sorteer": "2026-11-18T17:35:49+01:00"
+    },
+    {
+     "titel": "Ruim duizend Dordtenaren getroffen door privacyfouten gemeente",
+     "context": "De gemeente Dordrecht heeft persoonsgegevens van meer dan duizend inwoners jarenlang onvoldoende beschermd. Dat blijkt uit onderzoek dat de gemeente zelf heeft laten uitvoeren. Volgens de onderzoekers was de verwerking van persoonsgegevens op meerdere punten in strijd met de privacywet. De gemeente verzamelde de gegevens bij de aanpak van overlast, zoals intimidatie, vechtpartijen en beginnend cri",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640047",
+     "bron": "NOS",
+     "tijd": "17:10",
+     "sorteer": "2026-11-18T17:10:33+01:00"
+    },
+    {
+     "titel": "FVD'ers actief in neonazistisch netwerk, inclusief kooigevechten",
+     "context": "Mensen in en rond Forum voor Democratie (FVD) hebben banden met een gewelddadig neonazistisch netwerk dat her en der in het land kooigevechten organiseert. Dat blijkt uit een uitzending van onderzoeksprogramma Zembla. Het gaat onder anderen om Ramon van Asch, de FVD-fractievoorzitter in de gemeenteraad van Den Bosch. Hij stond vorig jaar op plaats 13 bij de Tweede Kamerverkiezingen, was tot voor k",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640044",
      "bron": "NOS",
@@ -402,40 +407,36 @@
      "sorteer": "2026-11-18T16:58:36+01:00"
     },
     {
-     "titel": "Twee maanden cel geëist tegen Maurice de Hond voor smaad in Deventer moordzaak",
-     "context": "Justitie heeft twee maanden cel geëist tegen opiniepeiler Maurice de Hond voor het verspreiden van smaad en laster in de Deventer moordzaak. In een interview over de moord op de weduwe Wittenberg in 1999 wijst hij opnieuw naar Michaël de Jong als dader. De Jong werd door de beschuldigingen van De Hond bekend als 'de klusjesman'. Hij deed aangifte tegen De Hond. De Hond tast de eer en goede naam va",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640039",
-     "bron": "NOS",
-     "tijd": "16:20",
-     "sorteer": "2026-11-18T16:20:36+01:00"
-    },
-    {
-     "titel": "Podcast De Dag: poging twee voor het minderheidsexperiment",
-     "context": "Het minderheidskabinet gaat door na een lang weekend crisisoverleg. Vicepresident van de Raad van State Sybrand Buma moet de drie coalitiepartijen helpen om de samenwerking met de Kamer te verbeteren. Wat is er nodig om de doorstart van het minderheidskabinet Jetten te laten slagen? Luister hier: Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640027",
-     "bron": "NOS",
-     "tijd": "15:11",
-     "sorteer": "2026-11-18T15:11:28+01:00"
-    },
-    {
-     "titel": "Vier vrouwen vrijgesproken van grafschennis na seance bij kindergraven in Leusden",
-     "context": "Vier vrouwen die werden verdacht van grafschennis op begraafplaats Rusthof in Leusden zijn door de rechtbank Midden-Nederland vrijgesproken. De groep probeerde in 2021 in een spirituele sessie contact te leggen met overledenen, onder wie kinderen. Volgens de rechtbank is niet bewezen dat de vier vrouwen zich schuldig hebben gemaakt aan grafschennis. In september 2021 bezocht een groep van zes vrou",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640025",
-     "bron": "NOS",
-     "tijd": "15:06",
-     "sorteer": "2026-11-18T15:06:24+01:00"
-    },
-    {
-     "titel": "Celstraf geëist tegen baas Limburgs machinebedrijf wegens omkoping in Rusland",
+     "titel": "Partijprominent Forum voor Democratie was aanwezig bij geheim vechttoernooi van neonazi’s",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/celstraf-geeist-tegen-baas-limburgs-machinebedrijf-wegens-omkoping-in-rusland~bdac254c/",
+     "link": "https://www.volkskrant.nl/binnenland/partijprominent-forum-voor-democratie-was-aanwezig-bij-geheim-vechttoernooi-van-neonazi-s~b43d6ec6/",
      "bron": "de Volkskrant",
-     "tijd": "12:12",
-     "sorteer": "2026-11-18T11:12:43+00:00"
+     "tijd": "17:00",
+     "sorteer": "2026-11-18T16:00:56+00:00"
+    },
+    {
+     "titel": "Vrouwen die ‘paranormaal onderzoek’ deden bij kindergraven in Leusden vrijgesproken van grafschennis",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/binnenland/vrouwen-die-paranormaal-onderzoek-deden-bij-kindergraven-in-leusden-vrijgesproken-van-grafschennis~bee22347b/",
+     "bron": "de Volkskrant",
+     "tijd": "15:56",
+     "sorteer": "2026-11-18T14:56:43+00:00"
+    },
+    {
+     "titel": "Twee maanden cel geëist tegen Maurice de Hond voor smaad Deventer moordzaak",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3p5VkVRTFFkdkZCWkRpRDRWTjNwRzl1YjgxNkxXazNJaTJoMW1vMXVjbUtKVENhT1poeDdoQ1hHMWJQaWR2QWNiVW9FeGc4dlA0TDJNTjRkbmwtd2VPZ21vd2hXaTMwbDROM3ZjY080U2ExVXluRGNRdGVPcFlQQk1od2Q4ZlpsbGFvNUVkM3ZBY0F4cklqM0pTZ3VqU2R3NlEtREgtQW5vY2Jzemc?oc=5",
+     "bron": "RTL.nl",
+     "tijd": "17:18",
+     "sorteer": "2026-11-18T16:18:07+00:00"
+    },
+    {
+     "titel": "Wespennest bij Dierenpartij: bestuur teruggefloten bij royement senator",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXprY0REc3l6TUh0Zl9aWGlYR3hQb1VtaHltbEhUSWlDR01SM0RBaWhoSkFOSnJ2TjVkSTdzNWtoMWhaWllGVFUySUFDSjhkaHdQVktPSHN5SG9SdC1sRWt2U2pwM05XUzEzVzU2QVlGbkRrcHVhb2loUVQ5N3Y1d3NQRnVnUjNIbVptWnRlbDEtUllKazRUV3RFcWR6MGpadHlGNFU4aDRzejZUbWc4Zm00Y1AxZTZpemww?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "17:28",
+     "sorteer": "2026-11-18T16:28:29+00:00"
     },
     {
      "titel": "OM kijkt verder dan straf bij jonge verdachten: 'Straffen kan averechts werken'",
@@ -443,27 +444,6 @@
      "bron": "RTL.nl",
      "tijd": "16:30",
      "sorteer": "2026-11-18T15:30:34+00:00"
-    },
-    {
-     "titel": "Schok in Italië: voormalig politiechef Gianni De Gennaro verdacht van geheim ’zwijgpact’ met maffia",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTXVvM0NwWHdUX1hNcDE1Y0FiUjZWWXYteG1NX1E1TFlHY3dKYk5STUhBZ3B1RlBlZ1hwVHdXb0g0WjVnOFE1RENQUG1MWFNuVGFGVXNFSFBCUENWU0dJdmVTX2l2S3RZOHFCTXBSRDNEVU04VEJNMm9zWE9UcVd6ckdtVkpaMmIyR094VTN0UWwwejRha1N1TXJvZDd6UU00dUEweUZlRVNEVnQ0RFZTcUpXSG1hS2NPNXYzMHR0UnlsX3RXdGo3ZTZDemlHTFQ0Nl9UeXVWdzVzYW5ZZ19lVw?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "15:55",
-     "sorteer": "2026-11-18T14:55:00+00:00"
-    },
-    {
-     "titel": "Criminelen jagen op jouw bestellingen voor de feestdagen: ’Op deze manier kun je oplichters er bijna altijd uitfilteren’",
-     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZVJfT2lHSF9TNlRmNURSOW5aZnRXbTNKWUJlRG9ldHlBekx5aHB5YkJsNDFRVXQzckJkY3lGS2JNdGZZVWN6dF9ad1dsUTJyaTFQdllGa0pZa0ttWXExenpvQldKUVhwcURXdjU3NWRiajlvV0EtbFVjRVduUG8wbXpDaXlIQndzTXNYbDBadHUyclNHTjBXWmFpdzlCRnZTS3ZDUWc3cW9GR1kzRGY1TWViZGp2a25WbkNvSkJwQVYyRm9GMmFwbVNENmxkZEJTVjZqMHFObUs2aUtGdmoxWUg2dzlUWVdaMFVCSjdTUHR2V2dfY3lIeDF2bXk2M1JCcDlF?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "16:00",
-     "sorteer": "2026-11-18T15:00:00+00:00"
-    },
-    {
-     "titel": "18/11 in Nieuwsuur: Zorgen over extreemrechts in de Kamer • Criminelen hebben schuld bij staat • GTA komt uit",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSnlEblNEb0ltYzVtUmlSemNOcGVEUDd5d19mdWtKbEppRktLTmZCU2VIVS04anpQajByQ1BaN3JLbG1MVnJvVjcxR25aYV90aEFTb0dJN2QwWG10R1VWckFQeHZSNXNsZUhSamhEb2ZhM3pub0UzbU5XcjJBOU5iNEhGR3E1cnhKLTA2QmVTZE5FNVV1TWhMU1hna0tUc1B2ZHJXRkV6X0h3V0pIdEIxVmFETUU0Nng4M3ROZnk1cTR0a1A2VUZmVmhwaGVPajR5ajBhTXdWdW5FcWpTMkE?oc=5",
-     "bron": "NOS",
-     "tijd": "14:53",
-     "sorteer": "2026-11-18T13:53:02+00:00"
     },
     {
      "titel": "De miljonairswoede van de VVD is een geschenk voor links",
@@ -492,14 +472,6 @@
      "bron": "bnr.nl",
      "tijd": "16:51",
      "sorteer": "2026-11-18T15:51:32+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Jetten erkent fout bij Belastingplan, oppositie kritisch op Buma",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qX3VQX2VLc1Z2eTJYaElPV00yU3pkcjBNMnFfWlhRTXd4QVNWVXZNMGRCck9NaFJmVFd6bFVpNVBVZHZucUh6S3hyWGlKQQ?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "12:24",
-     "sorteer": "2026-11-18T11:24:19+00:00",
      "kop": "Begroting"
     },
     {
@@ -547,6 +519,24 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Shahera - Livin' it",
+     "context": "Shahera zingt het nummer 'Livin' it'.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/cultuur/3720754/shahera-livin-it",
+     "bron": "RTV Oost",
+     "tijd": "16:58",
+     "sorteer": "2026-11-18T15:58:33+00:00"
+    },
+    {
+     "titel": "OM eist twee maanden cel tegen Maurice de Hond voor smaad in Deventer moordzaak",
+     "context": "Het Openbaar Ministerie heeft in Amsterdam twee maanden cel geëist tegen opiniepeiler Maurice de Hond. Volgens het OM heeft hij zich schuldig gemaakt aan smaad en smaadschrift in uitlatingen over de zogenoemde klusjesman in de geruchtmakende Deventer moordzaak.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3720830/om-eist-twee-maanden-cel-tegen-maurice-de-hond-voor-smaad-in-deventer-moordzaak",
+     "bron": "RTV Oost",
+     "tijd": "16:55",
+     "sorteer": "2026-11-18T15:55:24+00:00"
+    },
+    {
      "titel": "De Wilder in Haaksbergen moet dicht, komst nieuw zwembad nog onzeker",
      "context": "Zwembad De Wilder in Haaksbergen moet per 1 januari 2028 sluiten. Het bad is volgens het college technisch versleten en langer openhouden brengt te grote financiële risico's met zich mee. De gemeente wil daarna graag een nieuw zwembad, maar of dat er daadwerkelijk komt, is nog onzeker.",
      "rubrieken": [],
@@ -554,6 +544,17 @@
      "bron": "RTV Oost",
      "tijd": "16:04",
      "sorteer": "2026-11-18T15:04:40+00:00"
+    },
+    {
+     "titel": "Explosieve vondst bij Deurningen: vliegtuigbom ligt al 80 jaar in de grond",
+     "context": "Op een landgoed bij Deurningen is een vliegtuigbom gevonden. Het gaat om een bom die tijdens de Tweede Wereldoorlog is gebruikt.",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3720623/explosieve-vondst-bij-deurningen-vliegtuigbom-ligt-al-80-jaar-in-de-grond",
+     "bron": "RTV Oost",
+     "tijd": "15:43",
+     "sorteer": "2026-11-18T14:43:01+00:00"
     },
     {
      "titel": "Kinderen planten bomen in Overijssel: 'Er komen ongeveer 600 bomen bij vandaag'",
@@ -565,44 +566,26 @@
      "sorteer": "2026-11-18T14:27:19+00:00"
     },
     {
-     "titel": "Hengelose raketbouwer trots op aanval Krimbrug, maar hoe veilig is Hengelo?",
-     "context": "De Hengelose drone- en raketbouwer Destinus verkondigde het trots: door hun RUTA-raketten werd de Krimbrug vernield. Een zware klap voor de Russische president Vladimir Poetin, die hiermee een belangrijke verbinding tussen de Krim en Rusland verliest. Kan Destinus' trots ook een risico zijn?",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3720855/hengelose-raketbouwer-trots-op-aanval-krimbrug-maar-hoe-veilig-is-hengelo",
-     "bron": "RTV Oost",
-     "tijd": "14:12",
-     "sorteer": "2026-11-18T13:12:49+00:00"
-    },
-    {
-     "titel": "'Satans opdracht': geen straf na seksuele teksten aan meisje (11) in Deventer",
-     "context": "Een 41-jarige man uit Diepenveen zegt dat hij 'in opdracht van de duivel' seksueel getinte teksten aan een 11-jarige leerlinge van een basisschool schreef. De rechtbank acht bewezen dat hij dit deed, maar legt hem geen straf op.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3720613/satans-opdracht-geen-straf-na-seksuele-teksten-aan-meisje-11-in-deventer",
-     "bron": "RTV Oost",
-     "tijd": "09:00",
-     "sorteer": "2026-11-18T08:00:35+00:00"
-    },
-    {
-     "titel": "Pfas-onderzoek is niet meer vrijwillig: bedrijven moeten verplicht meewerken",
-     "context": "Bedrijven waar een vermoeden is van pfas-vervuiling moeten verplicht meewerken aan onderzoek op hun terrein. Dat heeft staatssecretaris Bertram van het ministerie van Infrastructuur en Waterstaat besloten. Als er sprake blijkt van ernstige vervuiling, kan dit grote gevolgen hebben.",
+     "titel": "Almelose coffeeshops verliezen rechtszaak over 'uitsterfregeling'",
+     "context": "De coffeeshops Jemig de Pemig Mozes Kriebel en De Tuin in Almelo moeten accepteren dat hun vergunning voortaan maar voor vijf jaar geldt. Ze hadden allebei een vergunning voor onbepaalde tijd. Maar dat wil de burgemeester van Almelo niet meer.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3720573/pfas-onderzoek-is-niet-meer-vrijwillig-bedrijven-moeten-verplicht-meewerken",
+     "link": "https://www.oost.nl/nieuws/3720815/almelose-coffeeshops-verliezen-rechtszaak-over-uitsterfregeling",
      "bron": "RTV Oost",
-     "tijd": "08:03",
-     "sorteer": "2026-11-18T07:03:02+00:00"
+     "tijd": "14:52",
+     "sorteer": "2026-11-18T13:52:57+00:00"
     },
     {
-     "titel": "Automobilist omgekomen bij ernstig ongeval op N331",
-     "context": "Op de Vollenhoverweg (N331) tussen Marknesse en Vollenhove is in de nacht van dinsdag op woensdag een automobilist om het leven gekomen bij een ernstig ongeval.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3720719/automobilist-omgekomen-bij-ernstig-ongeval-op-n331",
-     "bron": "RTV Oost",
-     "tijd": "06:12",
-     "sorteer": "2026-11-18T05:12:21+00:00"
+     "titel": "Dalfsen biedt ruimte om samen feestelijk oud en nieuw te vieren",
+     "context": "DALFSEN – Vanaf de jaarwisseling 2026–2027 geldt een landelijk vuurwerkverbod: het afsteken van vuurwerk uit categorie F2 is dan verboden. De gemeente Dalfsen wil inwoners tegemoetkomen die samen feestelijk oud en nieuw willen vieren. Daarom kunnen organisatoren van evenementen een latere eindtijd aanvragen voor activiteiten rond de jaarwisseling. Daarnaast heeft het college besloten geen […]",
+     "rubrieken": [
+      "Dalfsen",
+      "Ingezonden bericht",
+      "Laatste nieuws"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/556858/dalfsen-biedt-ruimte-om-samen-feestelijk-oud-en-nieuw-te-vieren.html",
+     "bron": "DalfsenNet",
+     "tijd": "17:43",
+     "sorteer": "2026-11-18T16:43:41+00:00"
     },
     {
      "titel": "Smartphonevrij opgroeien: informatieve ouderavond op 25 november",
@@ -616,19 +599,6 @@
      "bron": "DalfsenNet",
      "tijd": "13:27",
      "sorteer": "2026-11-18T12:27:15+00:00"
-    },
-    {
-     "titel": "Kerstbomen verkoop Hoonhorst",
-     "context": "HOONHORST – Herman van de Vegt heeft jarenlang kerstbomen verkocht in Hoonhorst, maar stopt er ivm zijn leeftijd helaas mee. Het stokje wordt gelukkig overgenomen zodat de verkoop van kerstbomen voor het goede doel in Hoonhorst door kan gaan. Een mooie kerstboom voor het goede doel in Hoonhorst! Dit jaar nemen wij het stokje over […]",
-     "rubrieken": [
-      "Hoonhorst",
-      "Ingezonden bericht",
-      "Laatste nieuws"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/556822/kerstbomen-verkoop-hoonhorst.html",
-     "bron": "DalfsenNet",
-     "tijd": "13:26",
-     "sorteer": "2026-11-18T12:26:05+00:00"
     }
    ]
   },
@@ -706,6 +676,30 @@
      "link": "https://www.aireport.nl/p/zeven-promptgewoontes-die-je-voor-1-januari-wilt-afleren",
      "sorteer": "2026-11-17T11:00:00+00:00",
      "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Internationale AI Strategie",
+     "bron": "Brief van de regering",
+     "kop": "Uit de Tweede Kamer",
+     "tijd": "03-07",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D35349",
+     "sorteer": "2026-11-18T16:49:34.913+01:00"
+    },
+    {
+     "titel": "Risico's en regulering van onbemenste systemen en AI",
+     "bron": "Brief van de regering",
+     "kop": "Uit de Tweede Kamer",
+     "tijd": "15-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51606",
+     "sorteer": "2026-11-18T16:31:21.61+01:00"
+    },
+    {
+     "titel": "Kabinetsvisie op Artificial Intelligence – kiezen voor AI voor iedereen",
+     "bron": "Brief van de regering",
+     "kop": "Uit de Tweede Kamer",
+     "tijd": "06-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D56155",
+     "sorteer": "2026-11-18T16:10:46+01:00"
     },
     {
      "titel": "Antwoord op vragen van de leden El Boujdaini en Zwinkels AI-modellen die buiten hun testomgeving inbreken bij organisaties",
@@ -834,12 +828,12 @@
      "sorteer": "2026-11-18T14:14:12.11+01:00"
     },
     {
-     "titel": "Antwoord op vragen van het lid Vermeer over XR Ambtenaren en de politieke neutraliteit van het ambtenarenapparaat",
+     "titel": "Antwoord op vragen van het lid Keijzer over het bericht 'Oostenrijk stuurt asielzoekers met openbaar vervoer terug naar Italië…",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
      "tijd": "05-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D48557",
-     "sorteer": "2026-11-18T14:56:40.45+01:00"
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D48583",
+     "sorteer": "2026-11-18T17:30:46.787+01:00"
     },
     {
      "titel": "Toestemming voor deelname ambtenaren NCTV en DGOPV aan een technische briefing Wetgeving schaduwvloot op 29 oktober 2026",
@@ -945,7 +939,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "17:15",
+    "bijgewerkt": "18:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1258,20 +1252,20 @@
      "sorteer": "2026-11-18T09:00:00+00:00"
     },
     {
+     "titel": "Bhutan wins $1.3m Earthshot Prize for maintaining 70% forest cover",
+     "toelichting": "Bhutan has been crowned one of the 2026 winners of the Earthshot Prize for its work in conserving Himalayan forests, receiving 1 million pounds, or about $1.3 million, to scale up its national landscape restoration effor",
+     "bron": "Mongabay (Engels)",
+     "tijd": "17:38",
+     "link": "https://news.mongabay.com/short-article/2026/11/bhutan-wins-1-3m-earthshot-prize-for-maintaining-70-forest-cover/",
+     "sorteer": "2026-11-18T16:38:06+00:00"
+    },
+    {
      "titel": "Indigenous communities in Panama fear a second dam as damage from first goes unrepaired",
      "toelichting": "Nearly two decades after construction began on the CHAN-75 hydroelectric dam project, Indigenous Ngäbe communities in western Panama continue to face severe environmental, cultural and spiritual impacts, according to a n",
      "bron": "Mongabay (Engels)",
      "tijd": "15:45",
      "link": "https://news.mongabay.com/2026/11/indigenous-communities-in-panama-fear-a-second-dam-as-damage-from-first-goes-unrepaired/",
      "sorteer": "2026-11-18T14:45:53+00:00"
-    },
-    {
-     "titel": "Study maps jaguars across the Americas to help their populations rebound",
-     "toelichting": "When forests are carved into farms, America’s top cats find themselves trapped in isolation.",
-     "bron": "Mongabay (Engels)",
-     "tijd": "14:14",
-     "link": "https://news.mongabay.com/2026/11/study-maps-jaguars-across-the-americas-to-help-their-populations-rebound/",
-     "sorteer": "2026-11-18T13:14:25+00:00"
     }
    ]
   },
@@ -1447,13 +1441,13 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 7.7,
-    "gevoel": 5.4,
-    "wind": "W 3",
+    "nu": 7.0,
+    "gevoel": 5.0,
+    "wind": "WZW 2",
     "station": "Heino",
-    "bericht": "Het weer blijft voorlopig sterk wisselvallig, met geregeld regen of buien. In het Waddengebied staat bovendien veel wind, maar het is vanmiddag wel zacht voor de tijd van het jaar.Vanmiddag is het in het zuiden en deels midden van het land bewolkt met buien. In het noorden blijft het vrijwel droog en laat de zon zich af en toe zien.",
-    "vandaag": "In het Waddengebied staat bovendien veel wind, maar het is vanmiddag wel zacht voor de tijd van het jaar. Vanmiddag is het in het zuiden en deels midden van het land bewolkt met buien.",
-    "temperatuur": "De middagtemperatuur komt uit op 10 graden in het noorden en lokaal 12 graden in het zuiden.",
+    "bericht": "Het is een komen en gaan van regengebieden, dus de paraplu is de komende dagen vaak nodig. Koud is het niet, vannacht is het een graad of 7 en morgen wordt het regionaal 12 graden. In het weekend wordt het droog, maar in de nachten krijgen we mist en vorst.Vanavond trekken vooral over een strook van west naar oost over het midden van het land buien.",
+    "vandaag": "Vanavond trekken vooral over een strook van west naar oost over het midden van het land buien. Vannacht krijgt eerst vooral het noorden met buien te maken.",
+    "temperatuur": "De middagtemperatuur varieert van 7 graden in Groningen tot 11 of 12 graden langs de westkust en in het zuiden.",
     "dalfsen": {
      "zin": "Voor Dalfsen zelf: motregen, 4 tot 10 graden, 99% kans op neerslag, ruim 5 uur zon, wind uit het zuidwesten, kracht 5.",
      "max": 10,
