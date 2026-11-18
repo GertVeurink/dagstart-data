@@ -3,13 +3,15 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "19:01",
+  "opgehaald": "20:02",
   "blokken": 11,
   "berichten": 103,
-  "problemen": [],
+  "problemen": [
+   "google 'belastingplan OR begroting OR ': HTTP 429"
+  ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-18T19:01+01:00",
+ "opgehaald": "2026-11-18T20:02+01:00",
  "audio": "audio/20261118.mp3",
  "afval": [
   {
@@ -248,34 +250,37 @@
      "sorteer": "2026-11-18T16:50:04+00:00"
     },
     {
-     "titel": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
-     "context": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia.",
-     "rubrieken": [],
-     "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
-     "bron": "New York Times",
-     "tijd": "18:52",
-     "sorteer": "2026-11-18T17:52:34+00:00",
+     "titel": "Ex-Tory defectors barred from shaping Reform’s immigration policy, says Zia Yusuf",
+     "context": "Comments by Reform’s home affairs spokesperson raise questions about unity at top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has claimed, excluding in effect the majority of the party’s MPs. “If you are in the category of being concerned about [former Conservatives being involved in Reform], no",
+     "rubrieken": [
+      "Reform UK",
+      "Immigration and asylum",
+      "Suella Braverman",
+      "Robert Jenrick",
+      "Politics",
+      "Nigel Farage",
+      "UK news"
+     ],
+     "link": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
+     "bron": "The Guardian",
+     "tijd": "19:50",
+     "sorteer": "2026-11-18T18:50:40+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Bacterial toxin produced by E coli leading suspect in rise in bowel cancer among under-50s",
-     "context": "Scientists tell Commons exposure to colibactin in early life is potential driver of early-onset colorectal cancer Exposure to a bacterial toxin in early life has emerged as a leading suspect in the rise of bowel cancer among those under 50, MPs have heard. Cases of early-onset bowel cancer have doubled in many countries in the past two decades, and while rising obesity and a fall in physical activ",
+     "titel": "Russia Vows to Rebuild Destroyed Crimea Bridge. It Could Take Years.",
+     "context": "The steel arch that is now gone took about two years to produce, assemble and install. Replacing it will be complicated, if possible at all in wartime.",
      "rubrieken": [
-      "Bowel cancer",
-      "Science",
-      "Cancer",
-      "Cancer research",
-      "Health",
-      "Medical research",
-      "UK news",
-      "E coli",
-      "World news"
+      "Russian Invasion of Ukraine (2022)",
+      "Bridges and Tunnels",
+      "Putin, Vladimir V",
+      "Kerch Strait Bridge"
      ],
-     "link": "https://www.theguardian.com/science/2026/nov/18/bacterial-toxin-e-coli-bowel-cancer-under-50s",
-     "bron": "The Guardian",
-     "tijd": "18:51",
-     "sorteer": "2026-11-18T17:51:57+00:00",
+     "link": "https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html",
+     "bron": "New York Times",
+     "tijd": "19:38",
+     "sorteer": "2026-11-18T18:38:15+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -371,22 +376,22 @@
      "sorteer": "2026-11-18T17:10:33+01:00"
     },
     {
+     "titel": "Bij de verkiezingen in fusiegemeente Hilversum proberen de VVD en D66 kiezers af te leiden van de kabinetscrisis",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/politiek/bij-de-verkiezingen-in-fusiegemeente-hilversum-proberen-de-vvd-en-d66-kiezers-af-te-leiden-van-de-kabinetscrisis~bc3668e4/",
+     "bron": "de Volkskrant",
+     "tijd": "19:58",
+     "sorteer": "2026-11-18T18:58:58+00:00"
+    },
+    {
      "titel": "Partijprominent Forum voor Democratie was aanwezig bij geheim vechttoernooi van neonazi’s",
      "context": "",
      "rubrieken": [],
      "link": "https://www.volkskrant.nl/binnenland/partijprominent-forum-voor-democratie-was-aanwezig-bij-geheim-vechttoernooi-van-neonazi-s~b43d6ec6/",
      "bron": "de Volkskrant",
      "tijd": "17:00",
-     "sorteer": "2026-11-18T16:00:56+00:00"
-    },
-    {
-     "titel": "Vrouwen die ‘paranormaal onderzoek’ deden bij kindergraven in Leusden vrijgesproken van grafschennis",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/vrouwen-die-paranormaal-onderzoek-deden-bij-kindergraven-in-leusden-vrijgesproken-van-grafschennis~bee22347b/",
-     "bron": "de Volkskrant",
-     "tijd": "15:56",
-     "sorteer": "2026-11-18T14:56:43+00:00"
+     "sorteer": "2026-11-18T16:00:00+00:00"
     },
     {
      "titel": "OM eist twee maanden cel tegen Maurice de Hond wegens smaad",
@@ -401,8 +406,22 @@
      "titel": "John van den Heuvel: nieuwe motorbendes vragen meer in plaats van minder politieaandacht",
      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHFUMkowR2U2WlZ6bzdCM1ZGRGdTOEFBX2taSXpMakYwdy1nM1pyb2pwdEZuNGVYbnBwZmg5Yk50Rko4bTltcUV5bUdtMkZfZTI2NXdySWJuR3NvZFcwZjQ2LXhxQ3RiaWhvOU1uRmN3M3R2bFVzdGlaVU5LZS1zajJaYXBIV3pxdzdSYUZ1Y0R3aktGc3k0V2l6U0l4OXMya0RLeFpqUW1odVNaSmhGVzY0MThYQkdkVXU2VTJ2U3pfenhKeFFLTjZPOEo2bGM?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "18:34",
-     "sorteer": "2026-11-18T17:34:35+00:00"
+     "tijd": "19:30",
+     "sorteer": "2026-11-18T18:30:00+00:00"
+    },
+    {
+     "titel": "Vrouw verdacht van vergiftigen partner wordt onderzocht in Pieter Baan Centrum",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX1hEdnBuRURtNGxVcGpuOXNNTmJRUzlNb18ySzJsLVkxZTlnTGZDZTFkU2pSTk5hY1ZFNzVSUmZYTnFXX0xtWEpXTk9CZmdFQUFpTmVCYVVZNXBOX21nMElCaUl5cUp3U01wZFg0RVJFOUU2VzhDUXdueUZ2MzBWeGc3SVFBQ0dKV2hJMlRnaDRwNDNfQ2o4TA?oc=5",
+     "bron": "RTL.nl",
+     "tijd": "19:18",
+     "sorteer": "2026-11-18T18:18:11+00:00"
+    },
+    {
+     "titel": "De Russische ambassade wil je laten schrikken, trap er niet in",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX09xczJMWW9wMFVwRl9pVGhfYTZadkVQU2RMS3h4dE9BSEVtTGFnVHY3UFRGaVlELTFfcE1MLVhmSE5jdFQ2QkpDVkpndlR2TFpYQzNWQWt6Y1lnb0owTmRiMWNPemtxT3hZRF8xM3pWZTgtU2xfNHlyR0dxMmNKX2RiOGxQaUxRd3IteEdTbEJCc25pME10X3o2OS1lUkw5ZlE?oc=5",
+     "bron": "AD.nl",
+     "tijd": "19:00",
+     "sorteer": "2026-11-18T18:00:42+00:00"
     },
     {
      "titel": "Wespennest bij Dierenpartij: bestuur teruggefloten bij royement senator",
@@ -412,18 +431,11 @@
      "sorteer": "2026-11-18T17:17:00+00:00"
     },
     {
-     "titel": "Kabinet vindt steun voor asielbegroting bij Pro, maar komt het beleid wel langs de rechter? ‘Ik houd mijn hart vast’",
-     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaE5zb2J0T2RGNjBvODg5Q1lVclF4cWpRd1JEZ0dvYUo2UTdwd3BPT0s2RzZtb1dvTUNoV1NEd0pwM3dYVTczcTNOYXFOUW9iQXJ3djc2bXBoTlQ2VlM5UlZxNmpVdG1zWGh3bkowdVZvT1RRNXl6aHJsZlNic3hSaGFpUmMyYjdvU0t2b3FmeGpvby01TXNjZzZCS1MzM29neFdzLUkwTDNfRUtnSHJWXzN4cmxvTV93dHZacXhzalBFVllCNkFpYzAtMGRudE00ejd4ekNLaFZZWk5XTl9SU2lKeUZrQXJWS05HQ0dR?oc=5",
-     "bron": "de Volkskrant",
-     "tijd": "18:31",
-     "sorteer": "2026-11-18T17:31:33+00:00"
-    },
-    {
-     "titel": "In de Tweede Kamer verdient Jan Struijs een eervolle vermelding",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVVPdlJfVl9YM2RNa3AwTlFURU5RNWloN0lfclFjZjJyOWRNV3Fkdmk5Y2p5OGY0OWlCeERoTUltNXgwTFEzaTQ1bGhkZFhjZ0RlemVLOW5mRnkzbnJsRUdLNE9scFp6Ri1kWWdONzhyWm1jVmhBbXBudjFac25tWjNaOFFiTE5mMGhMZ1ZETmNfTkRhWDZPNVZWY2pnbDFERE5sdVRjcTVYVFhI?oc=5",
-     "bron": "Tubantia",
-     "tijd": "18:30",
-     "sorteer": "2026-11-18T17:30:10+00:00"
+     "titel": "Europa wil de deur sluiten voor big tech. Dit Europese land zet zijn voet ertussen",
+     "link": "https://decorrespondent.nl/17410",
+     "bron": "De Correspondent · Maaike Goslinga",
+     "tijd": "20:00",
+     "sorteer": "2026-11-18T19:00:09+00:00"
     },
     {
      "titel": "De miljonairswoede van de VVD is een geschenk voor links",
@@ -440,18 +452,13 @@
      "sorteer": "2026-11-18T04:45:08+00:00"
     },
     {
-     "titel": "‘Welkom in Nederland’ vertelt het ware verhaal achter de asielcrisis",
-     "link": "https://decorrespondent.nl/17398",
-     "bron": "De Correspondent · Maite Vermeulen",
-     "tijd": "05:45",
-     "sorteer": "2026-11-18T04:45:07+00:00"
-    },
-    {
-     "titel": "Nieuw Belastingplan: wie profiteert en wie betaalt de rekening?",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcDJyUzNTX05tYzJWMG5GSjhiUHA3ZTNMNl91NjRicmFxSVVCbHhPSFRlbnVaVklScVFNNm1UbkRfcGQ2VG9GM0VfcWlTcmU3NFVNUjlhRXlINTBjWUlzUm5BOXpZTnZJd1JVMGlmQlF4NVJVNEMwUzBzVkZuSWl5RU5tR1RkbkRzNHF0UlZwUWplMDlLOUQ0VkFHci1nN2ZRM3V4Uy1rUjFRQV9Fam12RFQtRng0OFIzdlhXR0luVWZIdVhORU1aUC1QRm0?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "16:51",
-     "sorteer": "2026-11-18T15:51:32+00:00",
+     "titel": "Kabinet vindt steun voor asielbegroting bij Pro, maar komt het beleid wel langs de rechter? ‘Ik houd mijn hart vast’",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/politiek/kabinet-vindt-steun-voor-asielbegroting-bij-pro-maar-komt-het-beleid-wel-langs-de-rechter-ik-houd-mijn-hart-vast~b52cd77f/",
+     "bron": "de Volkskrant",
+     "tijd": "18:31",
+     "sorteer": "2026-11-18T17:31:33+00:00",
      "kop": "Begroting"
     },
     {
@@ -484,8 +491,8 @@
      "kop": "Vanavond op tv"
     },
     {
-     "titel": "Pauw & De Wit",
-     "link": "https://npo.nl/start/serie/pauw-de-wit",
+     "titel": "Pauw & De Wit: Mohammed Mohandis, Twan Huys, Tijs van den Brink & Roelof Bosma",
+     "link": "https://www.bnnvara.nl/pauw-de-wit/artikelen/woensdagavond-met-oa-mohammed-mohandis-twan-huys-tijs-van-den-brink-roelof-bosma",
      "kop": "Vanavond op tv",
      "bron": "NPO1 · 22:30",
      "tijd": "22:30",
@@ -499,6 +506,24 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Een failliete loodgieter met goudkoorts: waar zijn de tonnen gebleven?",
+     "context": "Het is een van de meest opmerkelijke faillissementen in het overzicht van deze week. Een Bornse ondernemer die een loodgieter tonnen leende om in Afrika goud te delven. Maar de gouden bergen bleken luchtkastelen en de tonnen zijn vooralsnog spoorloos. Het opzienbarende verhaal roept vragen op.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3720870/een-failliete-loodgieter-met-goudkoorts-waar-zijn-de-tonnen-gebleven",
+     "bron": "RTV Oost",
+     "tijd": "19:01",
+     "sorteer": "2026-11-18T18:01:00+00:00"
+    },
+    {
+     "titel": "Berendsen: geen details bekend over rol Destinus bij aanval Krim",
+     "context": "Over de rol van het Nederlandse wapenbedrijf Destinus bij de recente aanval op de Krimbrug zijn \"geen verdere details bekend\" bij het ministerie van Buitenlandse Zaken, zegt buitenlandminister Tom Berendsen (CDA). In een commissiedebat ging hij niet rechtstreeks in op vragen over de aanval.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3720944/berendsen-geen-details-bekend-over-rol-destinus-bij-aanval-krim",
+     "bron": "RTV Oost",
+     "tijd": "18:25",
+     "sorteer": "2026-11-18T17:25:54+00:00"
+    },
+    {
      "titel": "'Wel schrif blif': Herman Finkers verzamelt spellingsregels voor de Twentse taal",
      "context": "\"Het was een goed begin, maar nog niet helemaal uitgewerkt.\" Herman Finkers heeft het over de 'Kreenkspelling', de Twentse spellingsregels uit 2008. Hij heeft de grammaticaregels nu compleet gemaakt met het boekje 'Wel schrif blif'. \"Voor wie de taal wil leren of herontdekken.\"",
      "rubrieken": [],
@@ -508,13 +533,13 @@
      "sorteer": "2026-11-18T17:03:10+00:00"
     },
     {
-     "titel": "Shahera - Livin' it",
-     "context": "Shahera zingt het nummer 'Livin' it'.",
+     "titel": "Komende week nieuwe stakingen in het streekvervoer, ook meerdere keren in december",
+     "context": "FNV en CNV hebben nieuwe landelijke stakingen voor het streekvervoer aangekondigd, omdat de cao-onderhandelingen opnieuw zijn vastgelopen. Maandag en dinsdag leggen medewerkers in het streekvervoer in het hele land het werk neer.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3720754/shahera-livin-it",
+     "link": "https://www.oost.nl/nieuws/3721011/komende-week-nieuwe-stakingen-in-het-streekvervoer-ook-meerdere-keren-in-december",
      "bron": "RTV Oost",
-     "tijd": "16:58",
-     "sorteer": "2026-11-18T15:58:33+00:00"
+     "tijd": "17:55",
+     "sorteer": "2026-11-18T16:55:01+00:00"
     },
     {
      "titel": "De Wilder in Haaksbergen moet dicht, komst nieuw zwembad nog onzeker",
@@ -524,26 +549,6 @@
      "bron": "RTV Oost",
      "tijd": "16:04",
      "sorteer": "2026-11-18T15:04:40+00:00"
-    },
-    {
-     "titel": "Explosieve vondst bij Deurningen: vliegtuigbom ligt al 80 jaar in de grond",
-     "context": "Op een landgoed bij Deurningen is een vliegtuigbom gevonden. Het gaat om een bom die tijdens de Tweede Wereldoorlog is gebruikt.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3720623/explosieve-vondst-bij-deurningen-vliegtuigbom-ligt-al-80-jaar-in-de-grond",
-     "bron": "RTV Oost",
-     "tijd": "15:43",
-     "sorteer": "2026-11-18T14:43:01+00:00"
-    },
-    {
-     "titel": "Kinderen planten bomen in Overijssel: 'Er komen ongeveer 600 bomen bij vandaag'",
-     "context": "Het is vandaag niet de mooiste dag om in de tuin te werken. Toch planten honderden kinderen op verschillende plekken in Overijssel bomen. Ze doen dat vanwege Boomfeestdag, die in de hele provincie wordt gevierd.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3720807/kinderen-planten-bomen-in-overijssel-er-komen-ongeveer-600-bomen-bij-vandaag",
-     "bron": "RTV Oost",
-     "tijd": "15:27",
-     "sorteer": "2026-11-18T14:27:19+00:00"
     },
     {
      "titel": "Van wie is deze kat?",
@@ -904,7 +909,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "19:01",
+    "bijgewerkt": "20:02",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1224,20 +1229,20 @@
      "link": "https://scientias.nl/brutale-eekhoorns-hebben-de-halve-wereld/"
     },
     {
+     "titel": "Grand Canyon’s South Rim hotels to reopen as park eases water restrictions",
+     "toelichting": "GRAND CANYON NATIONAL PARK, Ariz. (AP) — Officials at Grand Canyon National Park announced Wednesday that they are easing water restrictions, meaning hotels on the South Rim will once again be able to accommodate overnig",
+     "bron": "Mongabay (Engels)",
+     "tijd": "19:23",
+     "link": "https://news.mongabay.com/short-article/2026/11/grand-canyons-south-rim-hotels-to-reopen-as-park-eases-water-restrictions/",
+     "sorteer": "2026-11-18T18:23:26+00:00"
+    },
+    {
      "titel": "Bhutan wins $1.3m Earthshot Prize for maintaining 70% forest cover",
      "toelichting": "Bhutan has been crowned one of the 2026 winners of the Earthshot Prize for its work in conserving Himalayan forests, receiving 1 million pounds, or about $1.3 million, to scale up its national landscape restoration effor",
      "bron": "Mongabay (Engels)",
      "tijd": "17:38",
      "link": "https://news.mongabay.com/short-article/2026/11/bhutan-wins-1-3m-earthshot-prize-for-maintaining-70-forest-cover/",
      "sorteer": "2026-11-18T16:38:06+00:00"
-    },
-    {
-     "titel": "Indigenous communities in Panama fear a second dam as damage from first goes unrepaired",
-     "toelichting": "Nearly two decades after construction began on the CHAN-75 hydroelectric dam project, Indigenous Ngäbe communities in western Panama continue to face severe environmental, cultural and spiritual impacts, according to a n",
-     "bron": "Mongabay (Engels)",
-     "tijd": "15:45",
-     "link": "https://news.mongabay.com/2026/11/indigenous-communities-in-panama-fear-a-second-dam-as-damage-from-first-goes-unrepaired/",
-     "sorteer": "2026-11-18T14:45:53+00:00"
     }
    ]
   },
@@ -1312,42 +1317,42 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 41 soorten, 9.979 vogels geteld",
+     "titel": "Landelijk vandaag: 60 soorten, 9.743 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261118?language=dutch"
     },
     {
-     "titel": "Zwarte Zee-eend — 8.255",
+     "titel": "Zwarte Zee-eend — 7.837",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261118?language=dutch"
     },
     {
-     "titel": "Jan-van-gent — 627",
+     "titel": "Jan-van-gent — 551",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261118?language=dutch"
     },
     {
-     "titel": "Kolgans — 375",
+     "titel": "Kolgans — 386",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261118?language=dutch"
     },
     {
-     "titel": "Kuifeend — 186",
+     "titel": "Topper — 163",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261118?language=dutch"
     },
     {
-     "titel": "Spreeuw — 114",
+     "titel": "Spreeuw — 131",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -1355,15 +1360,15 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Kuifeend springt eruit — 186, normaal 31",
-     "bron": "6× het gewone niveau",
+     "titel": "Eider springt eruit — 110, normaal 4",
+     "bron": "28× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261118?language=dutch",
-     "sein": false
+     "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Zwarte Zee-eend springt eruit — 8.255, normaal 1.639",
+     "titel": "Zwarte Zee-eend springt eruit — 7.837, normaal 1.639",
      "bron": "5× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261118?language=dutch",
@@ -1383,7 +1388,7 @@
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 168 vogels; 113 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 168 vogels; 115 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1413,17 +1418,17 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 7.9,
-    "gevoel": 5.9,
-    "wind": "WZW 2",
+    "nu": 7.6,
+    "gevoel": 6.3,
+    "wind": "ZW 2",
     "station": "Heino",
     "bericht": "Het is een komen en gaan van regengebieden, dus de paraplu is de komende dagen vaak nodig. Koud is het niet, vannacht is het een graad of 7 en morgen wordt het regionaal 12 graden. In het weekend wordt het droog, maar in de nachten krijgen we mist en vorst.Vanavond trekken vooral over een strook van west naar oost over het midden van het land buien.",
     "vandaag": "Vanavond trekken vooral over een strook van west naar oost over het midden van het land buien. Vannacht krijgt eerst vooral het noorden met buien te maken.",
     "temperatuur": "De middagtemperatuur varieert van 7 graden in Groningen tot 11 of 12 graden langs de westkust en in het zuiden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: motregen, 5 tot 10 graden, 99% kans op neerslag, ruim 5 uur zon, wind uit het zuidwesten, kracht 5.",
+     "zin": "Voor Dalfsen zelf: motregen, 4 tot 10 graden, 99% kans op neerslag, ruim 5 uur zon, wind uit het zuidwesten, kracht 5.",
      "max": 10,
-     "min": 5,
+     "min": 4,
      "regenkans": 99,
      "omschrijving": "motregen"
     },
@@ -1436,7 +1441,7 @@
     "omschrijving": "Zwaar bewolkt en regen",
     "morgen": {
      "omschrijving": "Zwaar bewolkt en regen",
-     "min": "5",
+     "min": "4",
      "max": "11",
      "regenkans": 100
     }
