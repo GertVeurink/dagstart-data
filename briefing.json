@@ -7,10 +7,11 @@
   "blokken": 11,
   "berichten": 97,
   "problemen": [],
-  "audio_herkomst": null
+  "audio_herkomst": "model",
+  "audio_aangehaakt": "06:05"
  },
  "opgehaald": "2026-11-18T05:55+01:00",
- "audio": null,
+ "audio": "audio/20261118.mp3",
  "afval": [
   {
    "datum": "2026-11-27",
@@ -49,7 +50,119 @@
    "afwijkend": false
   }
  ],
- "duiding": [],
+ "duiding": [
+  {
+   "titel": "VVD Eerste Kamer steunt belastingplan",
+   "tekst": "De VVD-fractie in de Eerste Kamer stemt vóór het belastingplan, en dat noemt Nieuwsuur de manier waarop het minderheidskabinet tóch werd gered (23, 27). Trouw schrijft dat de VVD en Heinen in de Eerste Kamer wél voor het plan zijn (25). Daarvoor ontkende Brekelmans nog dat de VVD samen met DENK het belastingplan wilde blokkeren (24). Dinsdag stuurde het kabinet de Kamer een brief over de uitkomst van de politieke gesprekken (52).",
+   "verwijzingen": [
+    {
+     "titel": "VVD-fractie Eerste Kamer gaat voor belastingplan stemmen",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX1ZWVUJnZWh3cFBSUnZsWTFfV1FnTW9BMEc0T1lNZzF4V3I5c2pZa29ydEQxcDNNVE84N2hVaHlrVTFpUUhKUjhrdnJEODRuR0F2TlBQbm5DZWxWZS1fMXc0ME9nckZUZTg2U2t2cTl2YnB4Q1FwV19QeDBZNkVWMFZfbDlvVXAzWGtjbm55ZnNWOHdLc193eTMtc0lSdmZheGc?oc=5",
+     "bron": "Leeuwarder Courant",
+     "tijd": "23:16",
+     "nummers": [
+      23
+     ]
+    },
+    {
+     "titel": "Brekelmans ontkent dat VVD met DENK belastingplan wilde blokkeren",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTl80VnpzYndvdjIteWNNSUlQSlc3cjNlLWc0REtGSExfZXRELU15dGs2V05aRkdld3JxZXRkZDA4VHNIX291amRCelZFcnBMQXZaVlUzUXh2MEg2dnVhZkVZOXBHOVQxU1k0dldncGQ2UWZsMUlXMEF4LVJXTVVCY2g5alpFLTk1dmhiMkIybUFmQk5fTGJMcFNHUk0xSlJ4cXAwV0QtRG9pN1cteWcw?oc=5",
+     "bron": "RTL.nl",
+     "tijd": "22:28",
+     "nummers": [
+      24
+     ]
+    },
+    {
+     "titel": "VVD en Heinen zijn in de Eerste Kamer wél voor het belastingplan. Hoe kan dat?",
+     "link": "https://www.trouw.nl/politiek/vvd-en-heinen-zijn-in-de-eerste-kamer-wel-voor-het-belastingplan-hoe-kan-dat~bf9f25e7/",
+     "bron": "Trouw",
+     "tijd": "20:13",
+     "nummers": [
+      25
+     ]
+    },
+    {
+     "titel": "Nieuwsuur: Hoe het kabinet tóch werd gered",
+     "link": "https://nos.nl/l/2639872",
+     "bron": "NPO2 · 22:00",
+     "tijd": "22:00",
+     "nummers": [
+      27
+     ]
+    },
+    {
+     "titel": "Uitkomst politieke gesprekken",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D58385",
+     "bron": "Brief van de regering",
+     "tijd": "17-11",
+     "nummers": [
+      52
+     ]
+    }
+   ],
+   "geschreven": "06:05"
+  },
+  {
+   "titel": "Nvidia sluit terugkeer Huang uit",
+   "tekst": "Nvidia neemt oud-topman Jensen Huang niet terug, terwijl hij dinsdag zei open te staan voor een terugkeer (2, 12). Huang trad vorige week af na onthullingen over affaires, onder meer met een vermeende Chinese spion (2). Zonder hem verdubbelde het bedrijf de omzet tot 115,8 miljard dollar, onder tijdelijk topvrouw Colette Kress (2). Ook stopt Nvidia volgens NRC met de verkoop van AI-chips aan China, ondanks goedkeuring van de VS (42).",
+   "verwijzingen": [
+    {
+     "titel": "Nvidia verdubbelt omzet in kwartaalcijfers na vertrek topman Huang",
+     "link": "https://nos.nl/l/2639949",
+     "bron": "NOS",
+     "tijd": "00:14",
+     "nummers": [
+      2
+     ]
+    },
+    {
+     "titel": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+     "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "02:18",
+     "nummers": [
+      12
+     ]
+    },
+    {
+     "titel": "Nvidia stopt met verkoop van AI-chips aan China ondanks goedkeuring VS",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcVJ2VWZwUjNLYWUzSVlRYWpzZFg3N3FwdldQS254RnZHWVZUM0doeHB2WmZGczBRU3RWS29SczFWRzZTT2J6VTN5c29Wb1d4YndIV3ZCb2I5NnR2Ml9WQzdEcllxRGFBQlNYMm9CMTRFWEVkVzF5dDFOdHFiQS1vX3BMUXZjUU5vNUVaWVBUWnlyQ1lzcjgyWlhWc1hGSFhrdTVsRTZReGhpZThwNlhEbmRwSFJtZU0?oc=5",
+     "bron": "NRC",
+     "tijd": "03:00",
+     "nummers": [
+      42
+     ]
+    }
+   ],
+   "geschreven": "06:05"
+  },
+  {
+   "titel": "Destinus-raketten troffen Krimbrug",
+   "tekst": "Het Hengelose Destinus eist openlijk een aandeel op in de aanval op de Krimbrug, voor het eerst bij een afzonderlijke aanval (5). Dat deed het bedrijf nadat Zelensky op X al had gezegd dat Ruta-kruisraketten en Da Vinci-drones van Destinus waren gebruikt (5). Volgens de fabrikant troffen zeven Ruta-raketten de brug, waarvan het deel voor auto's is verwoest (5). Een ander Hengelos bedrijf bouwde volgens RTV Oost juist mee aan die brug (34).",
+   "verwijzingen": [
+    {
+     "titel": "Nederlandse wapenfabrikant laat wereld weten: onze raketten troffen Krimbrug",
+     "link": "https://nos.nl/l/2639936",
+     "bron": "NOS",
+     "tijd": "21:39",
+     "nummers": [
+      5
+     ]
+    },
+    {
+     "titel": "De bizarre link tussen twee Hengelose bedrijven en de verwoeste Krimbrug",
+     "link": "https://www.oost.nl/nieuws/3720555/de-bizarre-link-tussen-twee-hengelose-bedrijven-en-de-verwoeste-krimbrug",
+     "bron": "RTV Oost",
+     "tijd": "17:11",
+     "nummers": [
+      34
+     ]
+    }
+   ],
+   "geschreven": "06:05"
+  }
+ ],
  "denkwerk": {
   "tekst": "De natuur heeft de mensheid onder het bewind gesteld van twee soevereine meesters, pijn en genot.",
   "wie": "Jeremy Bentham",
@@ -58,7 +171,43 @@
   "parafrase": false,
   "link": "https://gertveurink.github.io/denkwerk/#/"
  },
- "verder": [],
+ "verder": [
+  {
+   "kop": "Boa's trekken man uit bus",
+   "blok": "nationaal",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRXVSeG94NlRnemU1akdPLUd3Y1V4TkdmRGRXSEJzMlRVTGFNN21PeFExVWcwMnhTU3BEdVhvbGVPamxTUnZQbDVCZmJXT2RUM0U4R0FtN1JXQmlHSXdld0RXUXlMcnNsVTh5enhkSWphVTdfdHQ4Sk9PMnJUejV6Ym8zS3VyY3d3UG5ITlhsR0JyMXRJeVFvNmFCeGVGSWhxMnRfYzhHdUFCRm1qVDU1YlpVVGh6Xy1pWWcyR3JIbGJ4bXBxT0d3cHlB?oc=5",
+   "bron": "AD.nl",
+   "titel": "Aanhouding mislukt als boa’s man (26) uit stoel van bus trekken, handhaver gewond: ‘Zijn te ver gegaan’"
+  },
+  {
+   "kop": "OM berust in lagere zedenstraffen",
+   "blok": "nationaal",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSjljZ3VlLVJFSXlqUUlrSGQtT1N2UU44QWVqMXVodmZmcGVnaUFTVkQtdHdWRGRTdXYtMGZNWU0tQjRTa0NaRkJIeVIxenVha2wxWkpHc21XLW1jUFRPZUxhWmhLSmhzOW0wTlYwUmx4eVUxbFljZnRQRlBxZFUtcTVnZTBZVXVSWFlVZ1lfRDZfR1Y3YXhFOFpfU2dXNVFWcEwwWGdnX2EycXBicDRIY3pXdFlpa3Fwb2hGSm9IYmF4dw?oc=5",
+   "bron": "De Telegraaf",
+   "titel": "OM niet in hoger beroep tegen fors lagere straffen Woudenbergse zedenzaak"
+  },
+  {
+   "kop": "HAL mag VolkerWessels overnemen",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3720557/bouwgigant-volkerwessels-uit-rijssen-mag-worden-overgenomen-door-investeerder",
+   "bron": "RTV Oost",
+   "titel": "Bouwgigant VolkerWessels uit Rijssen mag worden overgenomen door investeerder"
+  },
+  {
+   "kop": "Democraten halen 56 Senaatszetels",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2639952",
+   "bron": "NOS",
+   "titel": "Ook laatste Senaatszetel nu definitief naar Democraten: winst Peltola in Alaska"
+  },
+  {
+   "kop": "Xi en Putin openen Apec-top",
+   "blok": "internationaal",
+   "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+   "bron": "The Guardian",
+   "titel": "Apec summit live: Xi and Putin give opening speeches as world leaders gather in China"
+  }
+ ],
  "blokken": [
   {
    "id": "internationaal",
