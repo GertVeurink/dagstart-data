@@ -3,14 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "05:55",
+  "opgehaald": "07:00",
   "blokken": 11,
-  "berichten": 97,
+  "berichten": 96,
   "problemen": [],
-  "audio_herkomst": "model",
-  "audio_aangehaakt": "06:50"
+  "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-18T05:55+01:00",
+ "opgehaald": "2026-11-18T07:00+01:00",
  "audio": "audio/20261118.mp3",
  "afval": [
   {
@@ -215,6 +214,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Wekdienst 18/11: Hilversum en Wijdemeren naar stembus • Opiniepeiler Maurice de Hond staat terecht",
+     "context": "Goedemorgen! Inwoners van Hilversum en Wijdemeren gaan naar de stembus om de nieuwe gemeenteraad te kiezen en tot middernacht kunnen kandidaten voor het voorzitterschap van wereldvoetbalbond FIFA zich melden. Eerst het weer: Vandaag trekken van west naar oost buien over het land. Vooral in het noorden schijnt ook zo nu en dan de zon. Bij een vrij stevige westenwind wordt het ongeveer 11 graden. Mo",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639957",
+     "bron": "NOS",
+     "tijd": "06:44",
+     "sorteer": "2026-11-18T06:44:52+01:00"
+    },
+    {
      "titel": "Ook laatste Senaatszetel nu definitief naar Democraten: winst Peltola in Alaska",
      "context": "Bij de Amerikaanse tussentijdse verkiezingen is ook de laatste strijd om Senaatszetels, in de staat Alaska, beslecht in het voordeel van de Democraten. Mary Peltola haalde ruim 12.000 stemmen meer dan haar Republikeinse tegenstander, Dan S. Sullivan. In een eerste reactie laat Peltola weten \"zeer vereerd\" te zijn. Daarmee leveren de Democraten 56 van de 100 senatoren, een flinke winst ten opzichte",
      "rubrieken": [],
@@ -253,14 +261,13 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Nederlandse wapenfabrikant laat wereld weten: onze raketten troffen Krimbrug",
-     "context": "De in Hengelo en Valkenburg gevestigde wapenfabrikant Destinus zegt dat Oekraïne zijn raketten en drones heeft gebruikt bij de grote aanval op de Krimbrug. \"We zijn er trots op om de Oekraïense strijdkrachten te helpen in hun gevecht om Oekraïne en Europa te verdedigen\", zegt het Nederlandse bedrijf in een post op LinkedIn . Het is opmerkelijk dat Destinus expliciet een aandeel opeist in de aanval",
+     "titel": "Iran bevestigt luchtaanval op Koeweit",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639936",
-     "bron": "NOS",
-     "tijd": "21:39",
-     "sorteer": "2026-11-17T21:39:11+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "link": "https://www.volkskrant.nl/buitenland/iran-bevestigt-luchtaanval-op-koeweit~bd96d2f5/",
+     "bron": "de Volkskrant",
+     "tijd": "05:50",
+     "sorteer": "2026-11-18T04:50:00+00:00"
     },
     {
      "titel": "Democraat Mary Peltola verslaat zittende Republikein en wint senaatszetel in Alaska",
@@ -272,15 +279,6 @@
      "sorteer": "2026-11-18T04:27:00+00:00"
     },
     {
-     "titel": "Waar zullen Xi en Trump over spreken, zo vlak na de spionagekwestie rond Nvidia-topman Jensen Huang?",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/waar-zullen-xi-en-trump-over-spreken-zo-vlak-na-de-spionagekwestie-rond-nvidia-topman-jensen-huang~b7124272/",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-11-18T04:00:34+00:00"
-    },
-    {
      "titel": "Alaska kiest voor het eerst deze eeuw Democraat als gouverneur",
      "context": "",
      "rubrieken": [],
@@ -290,8 +288,19 @@
      "sorteer": "2026-11-18T03:50:00+00:00"
     },
     {
-     "titel": "Apec summit live: Xi and Putin give opening speeches as world leaders gather in China",
-     "context": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Presidents Xi Jinping and Vladimir Putin have just begun talks , according to state media from both countries. Earlier Putin told the Apec summit he expected tomorrow’s much anti",
+     "titel": "Trump Meets Philippine Leader Before Flying to China",
+     "context": "The next stop on President Trump’s whirlwind Asia trip is the city of Shenzhen, where he is expected to meet with Xi Jinping of China and President Vladimir V. Putin of Russia.",
+     "rubrieken": [],
+     "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
+     "bron": "New York Times",
+     "tijd": "06:42",
+     "sorteer": "2026-11-18T05:42:12+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
+     "context": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address",
      "rubrieken": [
       "Apec summit",
       "Trump administration",
@@ -304,43 +313,27 @@
      ],
      "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
      "bron": "The Guardian",
-     "tijd": "05:36",
-     "sorteer": "2026-11-18T04:36:59+00:00",
+     "tijd": "06:41",
+     "sorteer": "2026-11-18T05:41:54+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Live Updates: Trump Meets Philippine Leader Before Flying to China",
-     "context": "The next stop on President Trump’s whirlwind Asia trip is the city of Shenzhen, where he is expected to meet with Xi Jinping of China and President Vladimir V. Putin of Russia.",
-     "rubrieken": [],
-     "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
-     "bron": "New York Times",
-     "tijd": "05:33",
-     "sorteer": "2026-11-18T04:33:50+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Trump trifft Putin und Xi: Was bedeutet das für den Ukraine-Gipfel in Berlin?",
-     "context": "Während der Kanzler die Koalition der Willigen morgen zur Ukraine-Unterstützung in Berlin versammelt, inszeniert sich Donald Trump heute schon am anderen Ende der Welt. Beim Gipfel im chinesischen Shenzhen trifft er auf Xi Jinping und Wladimir Putin, während seine Sondergesandten Steve Witkoff und Jared Kushner im Kanzleramt weitgehend schweigen müssen. Was dieses geopolitische Schattenspiel für [",
+     "titel": "Deadly drug-resistant infections are surging in European hospitals",
+     "context": "Strains of Klebsiella pneumoniae have evolved to resist even the newest antibiotics.",
      "rubrieken": [
-      "Defense",
-      "Der Podcast",
-      "Diplomacy",
-      "Donald Trump",
-      "Foreign policy",
-      "German politics",
-      "Governance",
-      "Middle East",
-      "Playbook",
-      "War in Ukraine",
-      "Playbook",
-      "Politics"
+      "Antimicrobial resistance (AMR)",
+      "Hospitals",
+      "Infectious diseases",
+      "Patients",
+      "Prevention",
+      "Public health",
+      "Health Care"
      ],
-     "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/trump-trifft-putin-und-xi-was-bedeutet-das-fur-den-ukraine-gipfel-in-berlin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "link": "https://www.politico.eu/article/drug-resistant-infections-superbug-europe-hospitals/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
      "bron": "Politico Europe",
-     "tijd": "05:30",
-     "sorteer": "2026-11-18T04:30:00+00:00",
+     "tijd": "06:07",
+     "sorteer": "2026-11-18T05:07:14+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -374,15 +367,6 @@
    "emoji": "🇳🇱",
    "items": [
     {
-     "titel": "Inwoners van Hilversum en Wijdemeren naar de stembus",
-     "context": "Inwoners van Hilversum en Wijdemeren kiezen vandaag een nieuwe gemeenteraad. De twee gemeenten deden afgelopen maart niet mee met de gemeenteraadsverkiezingen vanwege een gemeentelijke herindeling. Hilversum en de zes dorpen van Wijdemeren gaan vanaf 1 januari samen de gemeente Hilversum vormen. Inwoners van Hilversum en Wijdemeren kunnen op zestig plekken hun stem uitbrengen. Onder andere in het ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639950",
-     "bron": "NOS",
-     "tijd": "01:10",
-     "sorteer": "2026-11-18T01:10:13+01:00"
-    },
-    {
      "titel": "'Lastig om conclusies te trekken over autopsierapport Epstein'",
      "context": "Is het mogelijk om conclusies te trekken over de doodsoorzaak van iemand op basis van alleen foto's? Dat is erg lastig, zegt deskundige forensische pathologie Dingeman Rijken van het Nederlands Forensisch Insituut (NFI) over het autopsierapport van Jeffrey Epstein dat inmiddels wereldnieuws is. \"Wat je normaal natuurlijk doet op het moment dat er een verhanging is, of in ieder geval dat dat het ve",
      "rubrieken": [],
@@ -410,16 +394,6 @@
      "bron": "NOS",
      "tijd": "19:03",
      "sorteer": "2026-11-17T19:03:20+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Wachtlijsten bij ijsverenigingen door tekort aan ijsbanen",
-     "context": "Wachtlijsten, volle trainingsgroepen en minder trainingsuren. Mensen die willen kunstschaatsen, shorttracken of ijshockeyen kennen het probleem van de ijsbanen. Er zijn er te weinig, vindt de schaatsbond KNSB. De sporten worden steeds populairder, maar het aantal ijsbanen is niet meegegroeid. Nederland telt 23 ijsbanen van 30 bij 60 meter waar deze drie sporten op worden beoefend. Die banen zijn k",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639906",
-     "bron": "NOS",
-     "tijd": "17:47",
-     "sorteer": "2026-11-17T17:47:43+01:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -451,6 +425,13 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Sieraden zaten in zijn onderbroek: nepagent bekent oplichting van ouderen in Enschede",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZXlsV1FiUU5SemxfeUJtMnJUZ2IwcnExMWlqWFF5QUtWa2ZmNkFxdTlPVlhVeGI0WmNtUEREUzNwX3M1bkthT2FNcUI1dlMyT1UwanVQd2U3OEhSSk1xaWdsc0daUGNlNXRBVk1oYkREVU5mYnY2NmR3Rk9EM2NNRWhFTU1PS2dHTmNmckFlTFRteE13NXVJWGlsR0ZHMDZQMmV5QUF3VEtjYnBpenFWUk96MFdQZjZZejBrczFPWWVZZ1FQdjhwWHl0Zw?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "06:00",
+     "sorteer": "2026-11-18T05:00:18+00:00"
+    },
+    {
      "titel": "Aanhouding mislukt als boa’s man (26) uit stoel van bus trekken, handhaver gewond: ‘Zijn te ver gegaan’",
      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRXVSeG94NlRnemU1akdPLUd3Y1V4TkdmRGRXSEJzMlRVTGFNN21PeFExVWcwMnhTU3BEdVhvbGVPamxTUnZQbDVCZmJXT2RUM0U4R0FtN1JXQmlHSXdld0RXUXlMcnNsVTh5enhkSWphVTdfdHQ4Sk9PMnJUejV6Ym8zS3VyY3d3UG5ITlhsR0JyMXRJeVFvNmFCeGVGSWhxMnRfYzhHdUFCRm1qVDU1YlpVVGh6Xy1pWWcyR3JIbGJ4bXBxT0d3cHlB?oc=5",
      "bron": "AD.nl",
@@ -472,11 +453,11 @@
      "sorteer": "2026-11-17T23:46:05+00:00"
     },
     {
-     "titel": "Kabinet houdt vast aan hogere verkeersboetes ondanks wens Kamer",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbjJ3d0swNjAwSkxPcUtKb1JoQVkta3RDY2FYWGVfdXE2STVaQURJYkI2eEw2c19lUnVOTGc1dDRKMnJGejhvQi04QjVqWkFiSlJYNHZUa1BGSUVWMWI1T1NuOWdOM2FWbjZzeUJnWjZhN3JDWU1hT0FnTWRRWHkzckxZWDItZGdyWU5OSUVQUFNsNFlpdVdPdmROTlVVX2lhUF9DMnNQbG1jU3VVWWwycU83RXZQc2JjS2JveUI4MVM?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "21:09",
-     "sorteer": "2026-11-17T20:09:09+00:00"
+     "titel": "Twee aanvallen op olietanker bij Oman: schip raakt in brand",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN3YwV0Y5VDEyRTJRS2dfaVVMUUtpZ1lOVG9Cc0hUdUl0ZldndDg0cjE3RHdadV9ZdkxGelZDVzEwMzRRUGxOZFVlM2FMalVIam1KOTJxMXVrcVNHUzhRb2taQ1B6U1J6VVBGdnBHWnFIanpHaXBIS3E4WVBPTkI1ak02cjlGTkJvYUc4dWdnOTlCTk83am1xczZVOXFId0R4N05jMkdCYw?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "06:10",
+     "sorteer": "2026-11-18T05:10:00+00:00"
     },
     {
      "titel": "Kom naar de liveopname van ‘De Jesse Frederik Show’ met Maite Vermeulen",
@@ -560,6 +541,33 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Automobilist omgekomen bij ernstig ongeval op N331",
+     "context": "Op de Vollenhoverweg (N331) tussen Marknesse en Vollenhove is in de nacht van dinsdag op woensdag een automobilist om het leven gekomen bij een ernstig ongeval.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3720719/automobilist-omgekomen-bij-ernstig-ongeval-op-n331",
+     "bron": "RTV Oost",
+     "tijd": "06:12",
+     "sorteer": "2026-11-18T05:12:21+00:00"
+    },
+    {
+     "titel": "Kliniek Twente op de vingers getikt: 'Forse steken laten vallen in communicatie'",
+     "context": "Kliniek Twente heeft forse steken laten vallen bij de klachtafhandeling van een patiënt. Bij het behandelcentrum in Oldenzaal was sprake van \"slordige administratievoering\" en \"gebrekkige dossiervorming\". Dat oordeelt de Geschillencommissie Zorg, een onafhankelijke instantie die conflicten behandelt.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3720469/kliniek-twente-op-de-vingers-getikt-forse-steken-laten-vallen-in-communicatie",
+     "bron": "RTV Oost",
+     "tijd": "06:01",
+     "sorteer": "2026-11-18T05:01:15+00:00"
+    },
+    {
+     "titel": "Robothond Watson helpt waterbedrijf Vitens bij het opsporen van lekkages",
+     "context": "Blaffen en bijten doet hij niet, maar luisteren kan hij goed. Bij waterbedrijf Vitens zijn ze maar wat blij met hun tijdelijke hond Watson. Deze robothond moet helpen om lekkages in installaties eerder op te sporen. \"We denken dat hij een goede toevoeging kan zijn.\"",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3720327/robothond-watson-helpt-waterbedrijf-vitens-bij-het-opsporen-van-lekkages",
+     "bron": "RTV Oost",
+     "tijd": "05:01",
+     "sorteer": "2026-11-18T04:01:18+00:00"
+    },
+    {
      "titel": "Celstraffen geëist voor ontvoering en urenlange mishandeling in Kampen",
      "context": "Hij werd ontvoerd en urenlang mishandeld en vernederd. Het 27-jarige slachtoffer werd zelfs gestoken met een stomp mes. Tegen drie verdachten zijn celstraffen tot zes jaar geëist. Het Openbaar Ministerie noemt vandaag in de rechtszaal het geweld 'verbijsterend'.",
      "rubrieken": [],
@@ -588,35 +596,6 @@
      "tijd": "20:58",
      "sorteer": "2026-11-17T19:58:39+00:00",
      "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Nieuwe techniek maakt digitaal teruggaan naar plaats delict makkelijker",
-     "context": "Waar ligt het lijk ook alweer? En waar zitten de bloedspetters? En het moordwapen, ligt die in de linkerhoek? Het zijn vragen die met een nieuwe techniek een stuk makkelijker beantwoord kunnen worden. Saxion, Universiteit Twente, de politie en de Politieacademie werken samen aan de ontwikkeling.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3720113/nieuwe-techniek-maakt-digitaal-teruggaan-naar-plaats-delict-makkelijker",
-     "bron": "RTV Oost",
-     "tijd": "19:56",
-     "sorteer": "2026-11-17T18:56:42+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Nep-taxichauffeur randt twee vrouwen aan in zijn bus: dit is zijn straf",
-     "context": "Na een avondje stappen in Enschede denken twee vrouwen veilig naar huis te gaan. Ze stappen in bij ene P. (41), die zich voordoet als taxichauffeur. Maar eenmaal in het busje krijgt deze rit een heel andere lading. Hij betast beide vrouwen en ontvoert één van hen. Dit oordeelt de rechter.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3720545/nep-taxichauffeur-randt-twee-vrouwen-aan-in-zijn-bus-dit-is-zijn-straf",
-     "bron": "RTV Oost",
-     "tijd": "17:56",
-     "sorteer": "2026-11-17T16:56:08+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "De bizarre link tussen twee Hengelose bedrijven en de verwoeste Krimbrug",
-     "context": "Het is een haast bizarre samenloop van omstandigheden. Waar het ene bedrijf uit Hengelo meebouwde aan de Krimbrug, werd diezelfde brug vandaag aan flarden geschoten met raketten van een ander Hengeloos bedrijf.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3720555/de-bizarre-link-tussen-twee-hengelose-bedrijven-en-de-verwoeste-krimbrug",
-     "bron": "RTV Oost",
-     "tijd": "17:11",
-     "sorteer": "2026-11-17T16:11:36+00:00"
     },
     {
      "titel": "Noodhulp Oekraïne winter 2026–2027",
@@ -946,7 +925,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "05:55",
+    "bijgewerkt": "07:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1228,27 +1207,19 @@
    "items": [
     {
      "titel": "Vandaag in de natuur",
-     "toelichting": "De witte kluifzwam gedijt op grond met een rijke humuslaag en je vindt ze momenteel op plekken met een dikke laag bladafval.",
+     "toelichting": "Een van de meest algemene overwinterende ganzen in Nederland is de kolgans . Deze gans is goed te herkennen aan de witte bles aan de snavelbasis.",
      "bron": "Nature Today",
      "tijd": "",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36069",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36080",
      "sein": true
     },
     {
-     "titel": "Natuurjournaal 17 november 2026",
-     "toelichting": "Witte paddenstoelen tussen het bruine blad, zoek de witte kluifzwam en grote molenaar.",
+     "titel": "Natuurjournaal 18 november 2026",
+     "toelichting": "Kolgans algemene overwinteraar in Nederland en met roodhalsgans een (on)opvallende vreemde gans in de bijt.",
      "bron": "Nature Today",
      "tijd": "06:45",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36069",
-     "sorteer": "2026-11-17T05:45:00+00:00"
-    },
-    {
-     "titel": "De eerste fase van De Groene Corridor: van natuurbeheer naar natuurbegeleiding",
-     "toelichting": "Stichting Broedplaats Gooise Meren/ AltijdWerkplaats werkt aan De Groene Corridor, een ecologische verbindingszone van Bussum tot Naarden. Dat doet zij samen met bewoners, natuurorganisaties en de gemeente Gooise Meren. ",
-     "bron": "Nature Today",
-     "tijd": "07:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36028",
-     "sorteer": "2026-11-17T06:00:00+00:00"
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36080",
+     "sorteer": "2026-11-18T05:45:00+00:00"
     },
     {
      "titel": "Europa zet deur open voor afzwakking natuurwetgeving",
@@ -1257,6 +1228,14 @@
      "tijd": "10:30",
      "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36068",
      "sorteer": "2026-11-17T09:30:00+00:00"
+    },
+    {
+     "titel": "Uitbreiding Wolvenmeldpunt helpt gedrag van wolven beter te volgen",
+     "toelichting": "Het landelijke Wolvenmeldpunt van BIJ12 is uitgebreid. Iedereen die een wolf of wolvenspoor ziet, kan daar een melding van doen. Die meldingen helpen om in kaart te brengen waar wolven leven en hoe zij zich verplaatsen. ",
+     "bron": "Nature Today",
+     "tijd": "12:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36066",
+     "sorteer": "2026-11-17T11:00:00+00:00"
     },
     {
      "titel": "Glasvezelkabels ook handig bij het monitoren van walvissen",
@@ -1423,19 +1402,19 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 9.5,
-    "gevoel": 6.3,
+    "nu": 9.4,
+    "gevoel": 6.2,
     "wind": "ZW 4",
     "station": "Heino",
     "bericht": "Het weer blijft voorlopig sterk wisselvallig, met geregeld regen of buien. In het oostelijke Waddengebied staat vandaag tijdelijk een stormachtige westenwind, met kans op zware windstoten tot 95 km/u.Vanochtend domineert de bewolking en trekken enkele buien over het land. In het zuiden bestaat daarbij een kleine kans op een klap onweer.",
     "vandaag": "In het oostelijke Waddengebied staat vandaag tijdelijk een stormachtige westenwind, met kans op zware windstoten tot 95 km/u. Vanochtend domineert de bewolking en trekken enkele buien over het land.",
     "temperatuur": "De middagtemperatuur komt uit op 10 graden in het noorden en 12 graden in de zuidelijke helft van het land.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: motregen, 5 tot 10 graden, 79% kans op neerslag, ruim 5 uur zon, wind uit het zuidwesten, kracht 5.",
+     "zin": "Voor Dalfsen zelf: lichte motregen, 5 tot 10 graden, 79% kans op neerslag, ruim 5 uur zon, wind uit het zuidwesten, kracht 5.",
      "max": 10,
      "min": 5,
      "regenkans": 79,
-     "omschrijving": "motregen"
+     "omschrijving": "lichte motregen"
     },
     "vooruit": "Eerst veel bewolking en perioden met regen. Zacht. Vanaf vrijdag sterk afnemende kans op regen, meer zon en lagere temperatuur.",
     "omslag": "Nachtvorst in aantocht: dinsdag tot 0 graden.",
@@ -1452,15 +1431,5 @@
     }
    }
   }
- ],
- "archief": [
-  "2026-11-18",
-  "2026-11-17",
-  "2026-11-16",
-  "2026-11-15",
-  "2026-11-14",
-  "2026-11-13",
-  "2026-11-12",
-  "2026-11-11"
  ]
 }
