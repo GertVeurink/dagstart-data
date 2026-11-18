@@ -3,14 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "07:00",
+  "opgehaald": "08:15",
   "blokken": 11,
-  "berichten": 96,
+  "berichten": 97,
   "problemen": [],
-  "audio_herkomst": "model",
-  "audio_aangehaakt": "07:20"
+  "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-18T07:00+01:00",
+ "opgehaald": "2026-11-18T08:15+01:00",
  "audio": "audio/20261118.mp3",
  "afval": [
   {
@@ -233,8 +232,8 @@
      "sorteer": "2026-11-18T04:35:12+01:00"
     },
     {
-     "titel": "Nvidia verdubbelt omzet in kwartaalcijfers na vertrek topman Huang",
-     "context": "De Amerikaanse chipfabrikant Nvidia heeft het derde kwartaal de omzet meer dan verdubbeld. Het bedrijf blijft profiteren van de enorme vraag naar chips voor AI. En dat is een meevaller voor de chipmaker. De afgelopen weken is het concern verwikkeld geraakt in een schandaal rond de voormalige topman Jensen Huang. De totale omzet steeg met 103 procent naar 115,8 miljard dollar, de nettowinst steeg n",
+     "titel": "Nvidia verwacht omzetstijging ondanks ophef over topman Huang",
+     "context": "De Amerikaanse chipfabrikant Nvidia heeft het derde kwartaal de omzet meer dan verdubbeld. Het bedrijf blijft profiteren van de enorme vraag naar chips voor AI. En dat is een meevaller voor de chipmaker: de afgelopen weken is het concern verwikkeld geraakt in een schandaal rond de voormalige topman Jensen Huang. De totale omzet steeg met 103 procent naar 115,8 miljard dollar, de nettowinst steeg n",
      "rubrieken": [],
      "link": "https://nos.nl/l/2639949",
      "bron": "NOS",
@@ -280,42 +279,41 @@
      "sorteer": "2026-11-18T04:27:00+00:00"
     },
     {
-     "titel": "Alaska kiest voor het eerst deze eeuw Democraat als gouverneur",
+     "titel": "Marktleider haalt alle robotaxi’s van de snelweg. ‘Gevaar voor veiligheid’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/live-vs-geen-bewijs-voor-cyberaanval-na-technische-storingen-in-vs-zegt-buitenlandminster-rubio~bbc0cf3d/",
+     "link": "https://www.trouw.nl/buitenland/marktleider-waymo-haalt-alle-robotaxi-s-in-de-vs-van-de-snelweg-onmiddellijk-gevaar-voor-veiligheid~b3af9412/",
      "bron": "Trouw",
-     "tijd": "04:50",
-     "sorteer": "2026-11-18T03:50:00+00:00"
+     "tijd": "07:20",
+     "sorteer": "2026-11-18T06:20:40+00:00"
     },
     {
-     "titel": "Trump Meets Philippine Leader Before Flying to China",
-     "context": "The next stop on President Trump’s whirlwind Asia trip is the city of Shenzhen, where he is expected to meet with Xi Jinping of China and President Vladimir V. Putin of Russia.",
-     "rubrieken": [],
-     "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
-     "bron": "New York Times",
-     "tijd": "06:42",
-     "sorteer": "2026-11-18T05:42:12+00:00",
+     "titel": "UK inflation rises to 3.6% as energy prices increase",
+     "context": "October annual rate piles pressure on households as Iran war pushes up oil cost and rattles global economy Inflation in the UK rose to 3.6% in October amid an increase in energy prices triggered by the war in the Middle East. Figures from the Office for National Statistics show the headline rate of inflation as measured by the consumer prices index rose from 3.5% in September . City economists had",
+     "rubrieken": [
+      "Inflation",
+      "Economics",
+      "Business",
+      "Office for National Statistics",
+      "UK news",
+      "Energy bills",
+      "Money"
+     ],
+     "link": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
+     "bron": "The Guardian",
+     "tijd": "08:01",
+     "sorteer": "2026-11-18T07:01:09+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
-     "context": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address",
-     "rubrieken": [
-      "Apec summit",
-      "Trump administration",
-      "Vladimir Putin",
-      "Xi Jinping",
-      "Asia Pacific",
-      "World news",
-      "Donald Trump",
-      "China"
-     ],
-     "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-     "bron": "The Guardian",
-     "tijd": "06:41",
-     "sorteer": "2026-11-18T05:41:54+00:00",
+     "titel": "Here’s the latest.",
+     "context": "suggested the rush to patch systems, whose vulnerabilities are exposed by A.I.",
+     "rubrieken": [],
+     "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/heres-the-latest",
+     "bron": "New York Times",
+     "tijd": "07:51",
+     "sorteer": "2026-11-18T06:51:01+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -339,7 +337,7 @@
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+     "titel": "Nvidia says it won't reinstate Huang as it reports soaring sales",
      "context": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
@@ -368,6 +366,24 @@
    "emoji": "🇳🇱",
    "items": [
     {
+     "titel": "Stadhuis Amsterdam heeft nu ligtoilet voor mensen met ernstige handicap",
+     "context": "Het stadhuis van Amsterdam heeft sinds vandaag een ligtoilet, speciaal voor kinderen en volwassenen met een ernstige lichamelijke beperking die liggend verschoond moeten worden. Amsterdam is naar eigen zeggen de eerste gemeente met zo'n ruim en aangepast toilet op het stadhuis. Het ligtoilet heeft een plafondlift, een in hoogte verstelbare ligtafel en wastafel, en een wc met beugels. Er is genoeg ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639963",
+     "bron": "NOS",
+     "tijd": "07:55",
+     "sorteer": "2026-11-18T07:55:47+01:00"
+    },
+    {
+     "titel": "'Trambestuurders Amsterdam kampen met gehoorschade door harde geluiden'",
+     "context": "Amsterdamse trambestuurders hebben geregeld last van plotselinge harde geluiden tijdens het rijden. Bij sommige bestuurders heeft dat geleid tot gehoorschade, meldt Het Parool. Volgens de krant is vervoersbedrijf GVB op de hoogte van de problemen, maar de bestuurders zeggen dat er te weinig wordt gedaan om ze op te lossen. De geluidsoverlast kan verschillende oorzaken hebben, zoals verouderd mater",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639960",
+     "bron": "NOS",
+     "tijd": "07:27",
+     "sorteer": "2026-11-18T07:27:15+01:00"
+    },
+    {
      "titel": "'Lastig om conclusies te trekken over autopsierapport Epstein'",
      "context": "Is het mogelijk om conclusies te trekken over de doodsoorzaak van iemand op basis van alleen foto's? Dat is erg lastig, zegt deskundige forensische pathologie Dingeman Rijken van het Nederlands Forensisch Insituut (NFI) over het autopsierapport van Jeffrey Epstein dat inmiddels wereldnieuws is. \"Wat je normaal natuurlijk doet op het moment dat er een verhanging is, of in ieder geval dat dat het ve",
      "rubrieken": [],
@@ -375,26 +391,6 @@
      "bron": "NOS",
      "tijd": "19:55",
      "sorteer": "2026-11-17T19:55:02+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Man die Monument op de Dam bekladde moet gemeente 2000 euro betalen",
-     "context": "De 27-jarige man die deze zomer het Nationaal Monument op de Dam bekladde, heeft een voorwaardelijke geldboete van 500 euro gekregen. Wel moet hij de gemeente Amsterdam ruim 2000 euro betalen voor de schoonmaakkosten. Daarnaast mag hij de komende twee jaar niet in aanraking komen met politie en justitie. De man uit Hoofddorp spoot op 2 augustus rond 05.15 uur teksten met gele en blauwe graffiti op",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639923",
-     "bron": "NOS",
-     "tijd": "19:44",
-     "sorteer": "2026-11-17T19:44:07+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
-     "context": "De nachttrein van Arriva tussen Zwolle en Schiphol stopt per direct met rijden. Dat bevestigt Arriva naar aanleiding van een rechterlijke uitspraak. Die bepaalde dat de subsidie die Arriva van de gemeenten Almere en Lelystad ontvangt om de verbinding in stand te houden, moet worden stopgezet. De gemeenten baseerden de subsidies op een Europese verordening over openbaar personenvervoer op het spoor",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639916",
-     "bron": "NOS",
-     "tijd": "19:03",
-     "sorteer": "2026-11-17T19:03:20+01:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -426,18 +422,32 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Sieraden zaten in zijn onderbroek: nepagent bekent oplichting van ouderen in Enschede",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZXlsV1FiUU5SemxfeUJtMnJUZ2IwcnExMWlqWFF5QUtWa2ZmNkFxdTlPVlhVeGI0WmNtUEREUzNwX3M1bkthT2FNcUI1dlMyT1UwanVQd2U3OEhSSk1xaWdsc0daUGNlNXRBVk1oYkREVU5mYnY2NmR3Rk9EM2NNRWhFTU1PS2dHTmNmckFlTFRteE13NXVJWGlsR0ZHMDZQMmV5QUF3VEtjYnBpenFWUk96MFdQZjZZejBrczFPWWVZZ1FQdjhwWHl0Zw?oc=5",
+     "titel": "Twaalf jaar cel voor doodslag op Wico van Leeuwen definitief, Hoge Raad ziet geen reden om zaak opnieuw te bekijken",
+     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNb1FXaHlrUlMwUWd1ZUpQbnNZY2VSblNNaVQ3VjZNckw3VE1WRENYLVlkbm8ydFhISUZXaGhPVE5qLXNvWVRQZFVjNlBfN05mVDZWYk1naWR2dVBBM1ZoUmpwVkFlVHVqcVN3UDRVMDMtVmZoNDJvWTNYcGM0azBVeUdvX2xDZVl2NG9TZHlnWmEyeWRQRTZrYWQwUm9pS19UMEJjZW9GamVwNmhvYXZkcGxPbnNmY2R5OUdmNFpLMkJuSjhmNm43UW5sNTNkZkl6Y2JDaF9aUmIyd25vNHRUS3FJVzkxbmxadkhZMG1HdFJKQlA1bnc?oc=5",
      "bron": "De Gelderlander",
-     "tijd": "06:00",
-     "sorteer": "2026-11-18T05:00:18+00:00"
+     "tijd": "08:00",
+     "sorteer": "2026-11-18T07:00:46+00:00"
+    },
+    {
+     "titel": "Verdacht van poging tot moord, maar geen dag extra cel: dit eist justitie tegen scholiere",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMUh5WHpncmU2bXgyUHdPZGhBak1Pbmh4OG91NjJ0N3c0SE91Mll4T2Fpb3ZjZkJfX0x0NTN5M2JpSjlEbVNHNGRmb2NWUUFVcmktRWcwelVsZk1zMF9wM1Baa1loRHVhLVBlbXk2cDNfNS1abjNBYndZVlhFNEZfbE9QSjNzSXVqb2kyLVQzY2JqY3VNSEoza1p2cE9MRWRqQ3dENTVQZVlaUV80c0E3TnNocF9LV01YNVdfQ2RzOEd6djFtRGtuVkRKTEZYQUZI?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "07:00",
+     "sorteer": "2026-11-18T06:00:56+00:00"
+    },
+    {
+     "titel": "Gelekte bank­documenten: Hongaarse partner van ING faciliteerde Russische witwas­praktijken",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVTgzYXdXV1E2UnlEQU4yVkxfVk15QnRlMUVGSWJSV1VZN2JnREZMX0dvMlpaMU5mNkFTcmVrWVNLM1Q5YUVZZmVEQmN1SnFGeUdNdVc2eDBOZ05RandIcGUwZThlc3gzNzkwRjlZRUVaeWpKVVJtQkJRekJ2a2hiVE5tYk1nS2tNaHhiS1RzV0RBVXRLVjVBa0ItdTdxd2lCYWJRLVEwOV9lQQ?oc=5",
+     "bron": "Follow the Money",
+     "tijd": "07:00",
+     "sorteer": "2026-11-18T06:00:00+00:00"
     },
     {
      "titel": "Aanhouding mislukt als boa’s man (26) uit stoel van bus trekken, handhaver gewond: ‘Zijn te ver gegaan’",
      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRXVSeG94NlRnemU1akdPLUd3Y1V4TkdmRGRXSEJzMlRVTGFNN21PeFExVWcwMnhTU3BEdVhvbGVPamxTUnZQbDVCZmJXT2RUM0U4R0FtN1JXQmlHSXdld0RXUXlMcnNsVTh5enhkSWphVTdfdHQ4Sk9PMnJUejV6Ym8zS3VyY3d3UG5ITlhsR0JyMXRJeVFvNmFCeGVGSWhxMnRfYzhHdUFCRm1qVDU1YlpVVGh6Xy1pWWcyR3JIbGJ4bXBxT0d3cHlB?oc=5",
      "bron": "AD.nl",
      "tijd": "05:30",
-     "sorteer": "2026-11-18T04:30:54+00:00"
+     "sorteer": "2026-11-18T04:30:00+00:00"
     },
     {
      "titel": "OM niet in hoger beroep tegen fors lagere straffen Woudenbergse zedenzaak",
@@ -445,20 +455,6 @@
      "bron": "De Telegraaf",
      "tijd": "02:22",
      "sorteer": "2026-11-18T01:22:00+00:00"
-    },
-    {
-     "titel": "Thijmen V. krijgt twaalf jaar cel voor doden vader en verbergen lichaam in vriezer: ’Op gruwelijke wijze om het leven gebracht’",
-     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONTJIQjgtWlFscjVGcnZDTzlBWHFBc19qWVdISDgtbDZZVU5JSzlWOFdjb0F3ZEY1NzQ4V1UtMzlTUm1vM3hmWFVNSEtYbjVGUjhvdjQyRlJCdS1zcEFmSl9sVXN5STBqM3pxWnRzazFDOFVZZ3ZuQWtlTkkwSjhNNzFFMTNsLWJVVGZ2a2pwQktOU3VYOU9YcjBRdU04S0xMR0ZpRU51eUFWVUZjbVFzVjBZU0xaLXdiUmZ2UWJtRkVxZkc5WWtkb1ZycGdjYUhndHR5aXhSN2lfYnNRUVpEUGRiQVNJXzVaWHJQUTRpdUhZdnRBdkNFUGtFQ0FzUEl3OHRVNVhB?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "00:46",
-     "sorteer": "2026-11-17T23:46:05+00:00"
-    },
-    {
-     "titel": "Twee aanvallen op olietanker bij Oman: schip raakt in brand",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN3YwV0Y5VDEyRTJRS2dfaVVMUUtpZ1lOVG9Cc0hUdUl0ZldndDg0cjE3RHdadV9ZdkxGelZDVzEwMzRRUGxOZFVlM2FMalVIam1KOTJxMXVrcVNHUzhRb2taQ1B6U1J6VVBGdnBHWnFIanpHaXBIS3E4WVBPTkI1ak02cjlGTkJvYUc4dWdnOTlCTk83am1xczZVOXFId0R4N05jMkdCYw?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "06:10",
-     "sorteer": "2026-11-18T05:10:00+00:00"
     },
     {
      "titel": "Kom naar de liveopname van ‘De Jesse Frederik Show’ met Maite Vermeulen",
@@ -482,19 +478,27 @@
      "sorteer": "2026-11-18T04:45:07+00:00"
     },
     {
+     "titel": "Jetten erkent fout bij belastingplan, ‘coalitiestem nooit meer verdeeld’",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNW1yWU5uSXVZRnVTczFFejZOQTJyLTlDRHRhNGVOTngtakZpWVh0WmNuYlRBYkpLSzdSNDFXa2piZ3RmTDBzOFREdk9YWkdOVEpaaG9IVzB6SG5ITjliMG1LbGMxeGdjM2RpRHJfLVFraGt3OFdyT3c5Z1JlWURRTWpZaEZRQk1qcTNPQTk2V3BsMkEwVGxWNzUtSy1DMnRpcEJYUE9VNGMxemZPaUx0QW91ajFGZWFacVhr?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "08:02",
+     "sorteer": "2026-11-18T07:02:30+00:00",
+     "kop": "Begroting"
+    },
+    {
+     "titel": "RD Vandaag: Debat begroting Asiel en Migratie | Rechtszaak Maurice de Hond",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUGViNE96TzhEamh6cTN1LThrbEhIQ2pjVXVwaFBPaHdiN2kzU3pFcDJ1SUNCdkNRYzRCUXpGUm01WWduTEM5ZkxxbnVXMFlnZG1BbnZXZG0zQnN2cGo5YjRjT3RlYXg5bXVMWm5tbndZajB4OGVFOTdGR1oxRGtVZTlQV2NZN2pWaEtBS0lXNGRVRDcza09Xc1BhX3N5UQ?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "07:51",
+     "sorteer": "2026-11-18T06:51:18+00:00",
+     "kop": "Begroting"
+    },
+    {
      "titel": "VVD-fractie Eerste Kamer gaat voor belastingplan stemmen",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX1ZWVUJnZWh3cFBSUnZsWTFfV1FnTW9BMEc0T1lNZzF4V3I5c2pZa29ydEQxcDNNVE84N2hVaHlrVTFpUUhKUjhrdnJEODRuR0F2TlBQbm5DZWxWZS1fMXc0ME9nckZUZTg2U2t2cTl2YnB4Q1FwV19QeDBZNkVWMFZfbDlvVXAzWGtjbm55ZnNWOHdLc193eTMtc0lSdmZheGc?oc=5",
      "bron": "Leeuwarder Courant",
      "tijd": "23:16",
      "sorteer": "2026-11-17T22:16:05+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Brekelmans ontkent dat VVD met DENK belastingplan wilde blokkeren",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTl80VnpzYndvdjIteWNNSUlQSlc3cjNlLWc0REtGSExfZXRELU15dGs2V05aRkdld3JxZXRkZDA4VHNIX291amRCelZFcnBMQXZaVlUzUXh2MEg2dnVhZkVZOXBHOVQxU1k0dldncGQ2UWZsMUlXMEF4LVJXTVVCY2g5alpFLTk1dmhiMkIybUFmQk5fTGJMcFNHUk0xSlJ4cXAwV0QtRG9pN1cteWcw?oc=5",
-     "bron": "RTL.nl",
-     "tijd": "22:28",
-     "sorteer": "2026-11-17T21:28:08+00:00",
      "kop": "Begroting"
     },
     {
@@ -542,6 +546,26 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Pfas-onderzoek is niet meer vrijwillig: bedrijven moeten verplicht meewerken",
+     "context": "Bedrijven waar een vermoeden is van pfas-vervuiling moeten verplicht meewerken aan onderzoek op hun terrein. Dat heeft staatssecretaris Bertram van het ministerie van Infrastructuur en Waterstaat besloten. Als er sprake blijkt van ernstige vervuiling, kan dit grote gevolgen hebben.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3720573/pfas-onderzoek-is-niet-meer-vrijwillig-bedrijven-moeten-verplicht-meewerken",
+     "bron": "RTV Oost",
+     "tijd": "08:03",
+     "sorteer": "2026-11-18T07:03:02+00:00"
+    },
+    {
+     "titel": "Van koeien melken tot mensen helpen: dit erf maakt kans op een prijs",
+     "context": "\"Als er een kans op straat ligt, moet je even bukken.\" Dat is Lu Nijk ten voeten uit. De ondernemer uit Kallenkote ziet voor zijn zorgboerderij overal mogelijkheden en is niet bang om nieuwe wegen in te slaan. Het leverde hem een nominatie op voor de prestigeprijs 'Het Sterkste Erf 2026'.",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/cultuur/3720578/van-koeien-melken-tot-mensen-helpen-dit-erf-maakt-kans-op-een-prijs",
+     "bron": "RTV Oost",
+     "tijd": "07:02",
+     "sorteer": "2026-11-18T06:02:22+00:00"
+    },
+    {
      "titel": "Automobilist omgekomen bij ernstig ongeval op N331",
      "context": "Op de Vollenhoverweg (N331) tussen Marknesse en Vollenhove is in de nacht van dinsdag op woensdag een automobilist om het leven gekomen bij een ernstig ongeval.",
      "rubrieken": [],
@@ -576,26 +600,6 @@
      "bron": "RTV Oost",
      "tijd": "21:30",
      "sorteer": "2026-11-17T20:30:36+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Bouwgigant VolkerWessels uit Rijssen mag worden overgenomen door investeerder",
-     "context": "Investeerder HAL mag bouwconcern VolkerWessels uit Rijssen inlijven op voorwaarde dat verschillende bedrijfsonderdelen worden afgestoten. Dat heeft de Autoriteit Markt & Consument (ACM) bepaald, waardoor VolkerWessels onder één dak komt met baggerconcern Boskalis.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3720557/bouwgigant-volkerwessels-uit-rijssen-mag-worden-overgenomen-door-investeerder",
-     "bron": "RTV Oost",
-     "tijd": "21:03",
-     "sorteer": "2026-11-17T20:03:28+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Albert Heijn trekt stekker uit AH to go in tankstations, waaronder Deventer",
-     "context": "De AH to go-winkels bij tankstations in Nederland verdwijnen. Supermarktketen Albert Heijn gaat niet verder met de nieuwe eigenaar van de voormalige BP-tankstations. Dat geldt ook voor de AH to go bij tankstation Koerhuis aan de Zutphenseweg in Deventer.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3720476/albert-heijn-trekt-stekker-uit-ah-to-go-in-tankstations-waaronder-deventer",
-     "bron": "RTV Oost",
-     "tijd": "20:58",
-     "sorteer": "2026-11-17T19:58:39+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -815,12 +819,12 @@
      "sorteer": "2026-11-16T17:46:50.98+01:00"
     },
     {
-     "titel": "Antwoord op vragen van de leden Jagtenberg en Bolhuis over het bericht 'Staatssecretaris Boswijk over aankoop Israëlische…",
+     "titel": "Antwoord op vragen van de leden Vondeling en Wilders over het stelselmatig niet openbaar maken van ernstige incidenten met…",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
-     "tijd": "17-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D58578",
-     "sorteer": "2026-11-17T16:45:07.85+01:00"
+     "tijd": "02-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D48212",
+     "sorteer": "2026-11-18T08:13:07.173+01:00"
     },
     {
      "titel": "Reactie op het Informatieverzoek van het lid Vermeer gedaan tijdens het Debat Pakket Belastingplan 2027 d.d. 12 november 2026 en…",
@@ -926,7 +930,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "07:00",
+    "bijgewerkt": "08:15",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1403,9 +1407,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 9.4,
-    "gevoel": 6.2,
-    "wind": "ZW 4",
+    "nu": 9.6,
+    "gevoel": 6.6,
+    "wind": "WZW 4",
     "station": "Heino",
     "bericht": "Het weer blijft voorlopig sterk wisselvallig, met geregeld regen of buien. In het oostelijke Waddengebied staat vandaag tijdelijk een stormachtige westenwind, met kans op zware windstoten tot 95 km/u.Vanochtend domineert de bewolking en trekken enkele buien over het land. In het zuiden bestaat daarbij een kleine kans op een klap onweer.",
     "vandaag": "In het oostelijke Waddengebied staat vandaag tijdelijk een stormachtige westenwind, met kans op zware windstoten tot 95 km/u. Vanochtend domineert de bewolking en trekken enkele buien over het land.",
