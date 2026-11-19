@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "22:00",
+  "opgehaald": "23:00",
   "blokken": 11,
-  "berichten": 106,
+  "berichten": 105,
   "problemen": [],
   "audio_herkomst": null
  },
- "opgehaald": "2026-11-19T22:00+01:00",
+ "opgehaald": "2026-11-19T23:00+01:00",
  "audio": null,
  "afval": [
   {
@@ -212,8 +212,8 @@
    "emoji": "🌍",
    "items": [
     {
-     "titel": "Oproep aan minister Yesilgöz: houd wapenfabrikant Destinus in de gaten",
-     "context": "De Nederlandse wapenfabrikant Destinus neemt volgens defensie-experts risico's op het slagveld in Oekraïne. Minister Yesilgöz van Defensie moet met het bedrijf in gesprek, stellen ze, en mogelijk ook een onderzoek instellen naar hun precieze rol in de oorlog. Eergisteren maakte Destinus op LinkedIn bekend dat hun raketten en drones zijn gebruikt bij de succesvolle Oekraïense aanval op de Krimbrug ",
+     "titel": "Experts roepen minister Yesilgöz op: houd wapenfabrikant Destinus in de gaten",
+     "context": "De Nederlandse wapenfabrikant Destinus neemt volgens defensie-experts risico's op het slagveld in Oekraïne. Minister Yesilgöz van Defensie moet met het bedrijf in gesprek, stellen ze, en mogelijk ook een onderzoek instellen naar zijn precieze rol in de oorlog. Eergisteren maakte Destinus op LinkedIn bekend dat hun raketten en drones zijn gebruikt bij de succesvolle Oekraïense aanval op de Krimbrug",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640202",
      "bron": "NOS",
@@ -275,32 +275,13 @@
      "sorteer": "2026-11-19T18:51:00+00:00"
     },
     {
-     "titel": "Commentaar",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrUlVNOEgzblByeXRNcU9iUHhzb2FJNjRtR2E2eVZNT1RGMGVHQTctZFdfYV9aWTF6Ml9xcEo1MVNEQXBrRkE0MXNZSnZkTzg?oc=5",
-     "bron": "NRC",
-     "tijd": "21:23",
-     "sorteer": "2026-11-19T20:23:31+00:00"
-    },
-    {
-     "titel": "Love and Carjackings in a Video Game",
-     "context": "Grand Theft Auto once caused a moral panic. Now, it’s a “signature cultural event.”",
-     "rubrieken": [
-      "Grand Theft Auto VI (Video Game)",
-      "Anthropic AI LLC",
-      "Myanmar",
-      "internal-open-access-from-nl",
-      "Computer and Video Games",
-      "International Relations",
-      "Trump, Donald J",
-      "Putin, Vladimir V",
-      "Xi Jinping"
-     ],
-     "link": "https://www.nytimes.com/2026/11/19/world/gta-anthropic-shenzhen-summit.html",
-     "bron": "New York Times",
-     "tijd": "21:57",
-     "sorteer": "2026-11-19T20:57:18+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
+     "titel": "Hoe Iran met een grote gasvoorraad toch in de kou is beland",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.trouw.nl/buitenland/hoe-iran-met-een-grote-gasvoorraad-toch-in-de-kou-is-beland~b4e64673/",
+     "bron": "Trouw",
+     "tijd": "22:00",
+     "sorteer": "2026-11-19T21:00:26+00:00"
     },
     {
      "titel": "John Fetterman vehemently backs Schumer for Senate majority leader and says he’s ‘considering things’ on 2028 re-election – live",
@@ -316,19 +297,51 @@
      ],
      "link": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
      "bron": "The Guardian",
-     "tijd": "21:45",
-     "sorteer": "2026-11-19T20:45:15+00:00",
+     "tijd": "22:53",
+     "sorteer": "2026-11-19T21:53:52+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-     "context": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+     "titel": "Unexpected Fallout From the Iran War",
+     "context": "Global oil shocks are accelerating the shift to electric vehicles and renewable energy, a new report finds.",
+     "rubrieken": [
+      "International Energy Agency",
+      "Electric and Hybrid Vehicles",
+      "Energy and Power",
+      "Trucks and Trucking",
+      "US and Israeli Attack on Iran (2026)",
+      "Global Warming",
+      "Greenhouse Gas Emissions",
+      "Grand Theft Auto VI (Video Game)",
+      "internal-open-access-from-nl"
+     ],
+     "link": "https://www.nytimes.com/2026/11/19/climate/iea-energy-transition-electric-cars.html",
+     "bron": "New York Times",
+     "tijd": "22:40",
+     "sorteer": "2026-11-19T21:40:38+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Anthropic becomes most valuable AI firm as shares soar in stock market debut",
+     "context": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
      "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+     "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "21:07",
-     "sorteer": "2026-11-19T20:07:02+00:00",
+     "tijd": "22:38",
+     "sorteer": "2026-11-19T21:38:42+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+     "context": "\"She fought until she couldn’t anymore,\" the Cincinnati Zoo said in a statement. Fiona became ill a few days after the incident.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "22:26",
+     "sorteer": "2026-11-19T21:26:10+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -384,17 +397,6 @@
      "sorteer": "2026-11-19T19:42:27+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-     "context": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "20:16",
-     "sorteer": "2026-11-19T19:16:21+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
     }
    ]
   },
@@ -440,41 +442,41 @@
      "sorteer": "2026-11-19T17:56:25+00:00"
     },
     {
-     "titel": "‘Het grootste gevaar is de normalisering van extreemrechts’",
+     "titel": "Deze advocaten procederen tegen techreuzen: ‘Als ik denk aan de Metabril word ik best kwaad’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/het-grootste-gevaar-is-de-normalisering-van-extreemrechts~b9f4f6d4/",
+     "link": "https://www.trouw.nl/binnenland/deze-advocaten-procederen-tegen-techreuzen-als-ik-denk-aan-de-metabril-word-ik-best-kwaad~bae47818/",
      "bron": "Trouw",
-     "tijd": "21:05",
-     "sorteer": "2026-11-19T20:05:19+00:00"
+     "tijd": "22:00",
+     "sorteer": "2026-11-19T21:00:27+00:00"
+    },
+    {
+     "titel": "Politie onderzoekt Zembla-beelden van neonazistische vechttoernooiden",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTDhGNlM5TkNkY0UzZklGZXJGZ2RTMV80cl8zR1ljcm5uT3dhdVkxWFVzRWFNYjlWMGxCVFFQaDhyOENLMFlYaHYxUUNBLWdRWjFYMnY0eDVDdUhoMGM3c1pGSGFqZndYbV84VnhKdTNBaFRuc0I3Njk0NVFaVFJwTlNfRF94bGtFWmcwNzJqX1VQMVNHTnlpRFVVcVc3NWVhTXYxNER3TnAzaXFPMl9QZVc5WFdUMW8?oc=5",
+     "bron": "de Stentor",
+     "tijd": "22:21",
+     "sorteer": "2026-11-19T21:21:16+00:00"
+    },
+    {
+     "titel": "Strakkere alcoholcontrole voor hardnekkige drinkebroers in het verkeer",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0pIMUVYNkNocGVoQm8zbW1BT0lHU19VdWdQWjhSbmVrSk04alRzMG4teWRhS1owenpWT2lzZ2VKd09sbVhmYUcxS212X0RuWDlQT19HMmhYZ25YandhRWNVLS1JaFhTOXJjT3o3c2dZS25RQ3BVS29YZFBEQ0lCc0FLZy0yMjc3eE9LTHdZNjR3bTZ1YUN4REkycl9Fb0lNdEpzdTFqTllkY2J6U0VscjNB?oc=5",
+     "bron": "Trouw",
+     "tijd": "22:00",
+     "sorteer": "2026-11-19T21:00:24+00:00"
     },
     {
      "titel": "Man verstopt voor half miljoen euro aan crystal meth in airfryer in Nederlandse auto",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQlFJTlhWeVZDYVY5N2syNmhrVDhxZTV1Wm5EZVl6MllydGxVLWVfdnByZFV1d1p4V3p6ajhTcXpMc042MktwckwwaWhkNGlRODkwOTNrOU4xU2k5Nlhlcnl2MGhTbThhUHFGZE85Tm41aXhkTE92RlB6ZFBRZXQwSTIwYXhjQzgzSGlNcFl3M1A3eWNjZWRYYVlqd0I5UUJONGxFbmNFZWhCVFRnWlh3bGg4c1FlNFc0aUZxTm1ENnZtR2Z3cXdJVQ?oc=5",
-     "bron": "Tubantia",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOEUyZTd1aTUxX2Nnc1BlRTBjZjJCNUFFY3dpZWU0MHNmRDVyVl8wcmN4T3p4YWlRckZTWGFiUllGUllZY0drc3FIeUxId05jejluckRQcjh1OWhDUUlJQ3FOTDlRLWQ2bG5EWkxMQi10Nm9VNkFFLWFQcFlsNmdRcW5tY3NyWlJWc2V3cDlWeTl1ZzVCd0YtWTNHSF8ydWwwODZNZ1I2XzRZUWtPcVVaY25UTEotbmZyTVI4NzhpMXI?oc=5",
+     "bron": "AD.nl",
      "tijd": "21:37",
      "sorteer": "2026-11-19T20:37:17+00:00"
     },
     {
-     "titel": "De grootste vervuiler van Nederland nu echt in de knel: de strafzaak gaat beginnen",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOak5fTTgwQkJlUzZTYkZxQWRoS0pUOEtqakg4ZjgyV2g5ZTBJVEFoMnJpWEJ4Y3FDVVo1ajdwaTJfZ3dFSWxxRWo2MDZrMlBBNGgtT1hhTVpqOU4tdU4zNFBOZ0tUaXVLb3VROUg4cmRJN01pVFlhelVfOTlrM3RnODdLRE5mVWhHcW0yQWxIV0lleVhyMjJvdUc3NGNCT2tmamdlc3BZN0d6ZDlFWmxKY2I3d2tkYm5ZQTA5YXUwV0Z4UlAtaGc?oc=5",
-     "bron": "de Stentor",
-     "tijd": "20:30",
-     "sorteer": "2026-11-19T19:30:00+00:00"
-    },
-    {
-     "titel": "’Iceman’ Wim Hof wordt op zijn 67e opnieuw vader: ’Ik houd van het leven’",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZmZVcWUzLTYzV04tU1N0bjNOMVpSZ2FUWUp5ZVN1SGZjLTJrS2QtdFJac2Vzb2I3U2FxNWJMZmlrWjRnQTA0cGNsenNzcEo1NXZtekIzS2dBUWw5dHNYNWltWkF5U09Bc29heV9tVlhoRU5NNTR6dzJVZEFvYmtnLUNaYlMzVFJsTUQ2UHhjblkwbVBLb283X1pUcVh5bEt5VVVMR1lJYl9NSm92UmtLTHlUQWw?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "20:30",
-     "sorteer": "2026-11-19T19:30:00+00:00"
-    },
-    {
-     "titel": "Minister Van Weel vindt dat FVD wat heeft uit te leggen, partij royeert zes leden",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNW9RMThTcVVxNEFqR1FMSGdTZUVhZ3E4aGFMOGl4U213THpiVkFnWXpKVDg5WkFqRDBtaG5CaF9wT3FzZWhWTDNNVDdwLTBqWnNZbmw4U1lYTUx1NXlYZWFleDJiTXNCanE1NlMtZTNLdXZOLVQ4Z3U0c2pBMk1XaHc2azBaME85UGtkUkJOaDhaaFJ3WEpfSG5IT0FZYURfck5WOVQ3MjFUVklOcVR5Nw?oc=5",
-     "bron": "NOS",
-     "tijd": "20:14",
-     "sorteer": "2026-11-19T19:14:24+00:00"
+     "titel": "Wat Buma kan leren van eerdere ‘onderkoningen’ die kabinetten te hulp schoten",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbC1sTUQzSjBua3NnZVpIOU1weUo4NWZLZzNiTTBSQUU1SkduMXhCLTBpaDBfVzV6TU9ZMWU1NjZia3RwRU5UdFJYay15ZnNhUUM3OUUwRjZGQlNBdUE1RUdWQXUzakhKOW10RENOdmx4UUZhZ3B3ZkVjN1FYN1BKSm1tbFc2eDE0Qk1pbGRsWk1GdEJXMHkzekJfbDJTeDhFY0VyaHlSSXgyUjZ4cU5xSV9sZTVhQQ?oc=5",
+     "bron": "Trouw",
+     "tijd": "22:00",
+     "sorteer": "2026-11-19T21:00:18+00:00"
     },
     {
      "titel": "In de ‘AI-race’ kan Europa meer van China leren dan van de VS, zegt deze tech-analist",
@@ -482,14 +484,6 @@
      "bron": "De Correspondent · Maurits Martijn",
      "tijd": "05:45",
      "sorteer": "2026-11-19T04:45:04+00:00"
-    },
-    {
-     "titel": "Door VVD bekritiseerd belastingplan laat werken meer lonen",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc0pkSGpOb2h6U2ZoUEpOMFM1Q2NHTlpWVF9OUG1qUDlTODJhY2lhUzloWGx3d25wQ25wZ1NleEZEMllrWEU5cGN5M0VGMWh5RF9LY1QxY3hjUlVvTnBvZWpaVjlaUW9kdm1POUVtZjFmdEYxWnREOVh2eGFTdHZTYmlUS2pRZDBObE9jRHhGUUpnNTcwMXJaczAxaHRWWmVRSDVTQQ?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "18:01",
-     "sorteer": "2026-11-19T17:01:00+00:00",
-     "kop": "Begroting"
     },
     {
      "titel": "Eva",
@@ -581,6 +575,19 @@
      "sorteer": "2026-11-19T16:31:10+00:00"
     },
     {
+     "titel": "Bazar De Wiekelaar Oudleusen zaterdag 21e",
+     "context": "OUDLEUSEN – De vanouds gezellige bazar voor de Wiekelaar staat weer op stapel. Zaterdag 21 november aanstaande vindt het traditionele festijn plaats. De kinderbazar zal losgaan vanaf 14.30 uur. Voor alle leeftijden is iets bedacht met bijbehorende prijzen. Vanaf 20 uur is de oudere jeugd welkom! Er zijn serieus grote prijzen te winnen. De […]",
+     "rubrieken": [
+      "Ingezonden bericht",
+      "Laatste nieuws",
+      "Oudleusen"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/556935/bazar-de-wiekelaar-oudleusen-zaterdag-21e.html",
+     "bron": "DalfsenNet",
+     "tijd": "22:32",
+     "sorteer": "2026-11-19T21:32:12+00:00"
+    },
+    {
      "titel": "Sjaal kwijt geraakt",
      "context": "DALFSEN – Ik ben deze sjaal kwijt geraakt op 18 november tijdens een wandeling. Het is een zgn college sjaal met witte en blauwe verticale strepen. Mijn looproute was vanaf Brandkolkstraat, Pleyendal, Oosterstraat via Molendjk naar de Bellingeweer. Ergens op deze route moet deze liggen Ik ben er zeer aan gehecht. Als iemand deze heeft […]",
      "rubrieken": [
@@ -592,21 +599,6 @@
      "bron": "DalfsenNet",
      "tijd": "20:37",
      "sorteer": "2026-11-19T19:37:04+00:00"
-    },
-    {
-     "titel": "Dodelijk ongeval N348",
-     "context": "Bij een botsing tussen een vrachtauto en een personenauto op de N348 (dat is de provinciale weg Raalte – Hoogeveen) bij Ommen (ter hoogte van de Deventerweg) is een vrouw om het leven gekomen. Ze was de bestuurder van de personenauto. De vrachtwagen belandde na de botsing op de zijkant in de berm, enkele meters […]",
-     "rubrieken": [
-      "Dalmsholte",
-      "Geen categorie",
-      "Ingezonden bericht",
-      "Laatste nieuws",
-      "Ommen"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/556921/dodelijk-ongeval-n348.html",
-     "bron": "DalfsenNet",
-     "tijd": "18:32",
-     "sorteer": "2026-11-19T17:32:54+00:00"
     }
    ]
   },
@@ -980,7 +972,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "22:00",
+    "bijgewerkt": "23:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1307,20 +1299,20 @@
      "link": "https://scientias.nl/kikkervisjes-in-de-gelei-nieuwe-vliegende-kikker-kiest-een-andere-kraamkamer-dan-zijn-familie/"
     },
     {
+     "titel": "The long reach of El Niño impacts on Southeast Asia’s primates",
+     "toelichting": "As Indonesia’s El-Niño driven fires spark a race to save endangered orangutans and other wildlife, a recent review paper, published in the journal Oryx, is raising concerns about both the short- and long-term impacts on ",
+     "bron": "Mongabay (Engels)",
+     "tijd": "22:25",
+     "link": "https://news.mongabay.com/2026/11/the-long-reach-of-el-nino-impacts-on-southeast-asias-primates/",
+     "sorteer": "2026-11-19T21:25:02+00:00"
+    },
+    {
      "titel": "Catching more plastic than fish in Sierra Leone’s coastal Mahera",
      "toelichting": "PORT LOKO, Sierra Leone — On a rainy Saturday morning, 57-year-old fisher Sheriff Kamara sat among other community members inside a wooden makeshift shelter in Sierra Leone’s Mahera Beach, waiting for the weather to impr",
      "bron": "Mongabay (Engels)",
      "tijd": "20:22",
      "link": "https://news.mongabay.com/2026/11/catching-more-plastic-than-fish-in-sierra-leones-coastal-mahera/",
      "sorteer": "2026-11-19T19:22:12+00:00"
-    },
-    {
-     "titel": "Peruvian officials reportedly increase tally to more than 12,000 tarantulas in recent seizure",
-     "toelichting": "Peruvian authorities have updated the number of tarantulas seized in a recent wildlife trafficking case from 3,000 to more than 12,000, according to South American media reports. The final count of 12,796 seized spiders ",
-     "bron": "Mongabay (Engels)",
-     "tijd": "20:11",
-     "link": "https://news.mongabay.com/short-article/2026/11/peruvian-officials-reportedly-increase-tally-to-more-than-12000-tarantulas-in-recent-seizure/",
-     "sorteer": "2026-11-19T19:11:03+00:00"
     }
    ]
   },
@@ -1404,7 +1396,7 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 68 soorten, 6.165 vogels geteld",
+     "titel": "Landelijk vandaag: 69 soorten, 6.170 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
@@ -1479,11 +1471,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 67 plekken in de afgelopen week, waarvan 12 vandaag",
+     "titel": "Invasiejaar — op 66 plekken in de afgelopen week, waarvan 12 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 201 vogels; 107 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 200 vogels; 106 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1513,17 +1505,17 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 4.8,
-    "gevoel": 2.8,
-    "wind": "NO 2",
+    "nu": 4.5,
+    "gevoel": 2.5,
+    "wind": "ONO 2",
     "station": "Heino",
     "bericht": "Het is nog even wisselvallig en aan de zachte kant. In het weekend volgt dan een overgang naar licht winters weer. Het is dan droog met veel zon, maar in de ochtenden is er kans op mist die lang kan blijven hangen.",
     "vandaag": "Vanavond trekt de regenzone boven het noorden weer terug naar het zuiden.",
     "temperatuur": "Daar wordt het ook het koudst met minima tot 2 graden onder het vriespunt en lokaal ook gladheid door bevriezing van natte weggedeelten.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: regen, 5 tot 10 graden, 100% kans op neerslag, weinig zon, wind uit het zuidwesten, kracht 4.",
+     "zin": "Voor Dalfsen zelf: regen, 4 tot 10 graden, 100% kans op neerslag, weinig zon, wind uit het zuidwesten, kracht 4.",
      "max": 10,
-     "min": 5,
+     "min": 4,
      "regenkans": 100,
      "omschrijving": "regen",
      "morgen": {
