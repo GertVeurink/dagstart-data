@@ -3,13 +3,13 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "15:00",
+  "opgehaald": "16:00",
   "blokken": 11,
   "berichten": 105,
   "problemen": [],
   "audio_herkomst": null
  },
- "opgehaald": "2026-11-19T15:00+01:00",
+ "opgehaald": "2026-11-19T16:00+01:00",
  "audio": null,
  "afval": [
   {
@@ -185,6 +185,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Russische schaatsploeg krijgt geen visum en mist wereldbeker Heerenveen",
+     "context": "De Russische schaatsers zullen begin december niet deelnemen aan de wereldbeker langebaan in Heerenveen. De delegatie is vrijwel unaniem het visum geweigerd, zo heeft een vertegenwoordiger van de Russische bond in het Japanse Obihiro verklaard tegenover de NOS. Alleen Daniil Naidenisjev zal in Thialf op het ijs verschijnen. De 22-jarige langeafstandsschaatser reist individueel op een Frans Schenge",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640159",
+     "bron": "NOS",
+     "tijd": "15:04",
+     "sorteer": "2026-11-19T15:04:11+01:00"
+    },
+    {
      "titel": "Riyad opnieuw doelwit van raketaanval, 'hoogste wolkenkrabber geraakt'",
      "context": "De hoogste wolkenkrabber van de Saudische hoofdstad Riyad is geraakt door een raketaanval van de Houthi's, melden bronnen aan persbureau Reuters. In de PIF Tower zit het hoofdkantoor van het Saudische staatsinvesteringsfonds PIF (Public Investment Fund). Hoe groot de schade is en of er slachtoffers zijn gevallen, is nog onduidelijk. Volgens ooggetuigen werden door de inslag de ruiten op zeven tot ",
      "rubrieken": [],
@@ -194,8 +203,8 @@
      "sorteer": "2026-11-19T14:44:33+01:00"
     },
     {
-     "titel": "'Nederlandse ambassade in Kyiv beschadigd door drone-inslag'",
-     "context": "De Nederlandse ambassade in de Oekraïense hoofdstad Kyiv is beschadigd geraakt door een drone-inslag vlak achter het pand. Dat melden RTL Nieuws en de Oekraïense krant The Kyiv Independent . Volgens The Kyiv Independent is het onduidelijk of de drone het terrein van de ambassade als doelwit had of dat het projectiel is neergehaald. Door de inslag raakten auto's en een beveiligingspost beschadigd, ",
+     "titel": "Nederlandse ambassade in Kyiv beschadigd door projectiel, geen gewonden",
+     "context": "De Nederlandse ambassade in de Oekraïense hoofdstad Kyiv is beschadigd geraakt door een inslag van een projectiel vlak achter het pand. Dat bevestigt minister Berendsen van Buitenlandse Zaken. \"Onze collega's zijn gelukkig ongedeerd\", schrijft hij op X. \"Er is wel lichte schade aan het gebouw.\" Het ministerie onderzoekt wat er exact is gebeurd, zegt de minister. Volgens de Oekraïense krant The Kyi",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640156",
      "bron": "NOS",
@@ -221,31 +230,22 @@
      "sorteer": "2026-11-19T12:35:39+01:00"
     },
     {
-     "titel": "Taiwan meldt opnieuw Russische militaire vliegtuigen nabij eiland",
-     "context": "Russische militaire vliegtuigen zijn vanochtend vroeg de luchtverdedigingszone van Taiwan binnengevlogen, zo heeft het Taiwanese ministerie van Defensie bekendgemaakt. Volgens Taiwan waren het zware Toepolev's (TU)-95. De TU-95 is een strategische bommenwerper uit de tijd van de Sovjet-Unie. De twee langeafstandsbommenwerpers vlogen door de Air Defense Identification Zone (ADIZ) ten noordoosten va",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640137",
-     "bron": "NOS",
-     "tijd": "12:13",
-     "sorteer": "2026-11-19T12:13:16+01:00"
-    },
-    {
-     "titel": "‘Ik ben Maga niet’: Musk neemt afstand van Trumps beweging na midterm-nederlaag",
+     "titel": "Computerstoring bij spionagedienst NSA trof ook afdeling die Midden-Oosten bespiedt, meldt CNN",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/ik-ben-maga-niet-musk-neemt-afstand-van-trumps-beweging-na-midterm-nederlaag~b3c4476a/",
+     "link": "https://www.volkskrant.nl/buitenland/computerstoring-bij-spionagedienst-nsa-trof-ook-afdeling-die-midden-oosten-bespiedt-meldt-cnn~b9764725/",
+     "bron": "de Volkskrant",
+     "tijd": "15:06",
+     "sorteer": "2026-11-19T14:06:06+00:00"
+    },
+    {
+     "titel": "‘Ik ben niet Maga’: Musk neemt afstand van Trumps beweging na midterm-nederlaag",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/ik-ben-niet-maga-musk-neemt-afstand-van-trumps-beweging-na-midterm-nederlaag~b3c4476a/",
      "bron": "de Volkskrant",
      "tijd": "14:49",
-     "sorteer": "2026-11-19T13:49:50+00:00"
-    },
-    {
-     "titel": "Hoe Trump, Xi en Poetin met hun onderonsje de Apec-top kaapten",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/hoe-trump-xi-en-poetin-met-hun-onderonsje-de-apec-top-kaapten~bdb43cf4/",
-     "bron": "de Volkskrant",
-     "tijd": "14:44",
-     "sorteer": "2026-11-19T13:44:00+00:00"
+     "sorteer": "2026-11-19T13:49:00+00:00"
     },
     {
      "titel": "Ruslands favoriete adresje voor alles wat het wegens sancties niet zelf kan kopen: Georgië",
@@ -258,34 +258,51 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Live Updates: Trump, Xi and Putin Seek to Project Power at Their First Ever Summit",
-     "context": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin reiterated that Russia would not negotiate directly with Ukraine on the war.",
+     "titel": "Jenrick mocked after criticising Thatcher’s policies, despite naming daughter after her – UK politics live",
+     "context": "Reform UK MP says policies left a ‘deep scar’ on communities These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced. Khan (who may or may not stand a 4th time) has thus far faced a dilettante who decided to campaign on a racist platform (Zack Goldsmith) and two ",
+     "rubrieken": [
+      "Politics",
+      "UK news",
+      "Labour",
+      "Conservatives",
+      "Andy Burnham",
+      "Kemi Badenoch",
+      "Benefits",
+      "Welfare",
+      "Disability",
+      "Ukraine",
+      "China",
+      "Donald Trump",
+      "James Cleverly",
+      "London",
+      "Mayoral elections",
+      "Russell Brand",
+      "Technology",
+      "Google",
+      "Robert Jenrick",
+      "Margaret Thatcher",
+      "Reform UK"
+     ],
+     "link": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+     "bron": "The Guardian",
+     "tijd": "15:52",
+     "sorteer": "2026-11-19T14:52:35+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Live Updates: Trump, Xi and Putin Seek to Project Power at Their First Summit",
+     "context": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.",
      "rubrieken": [],
      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
      "bron": "New York Times",
-     "tijd": "14:57",
-     "sorteer": "2026-11-19T13:57:58+00:00",
+     "tijd": "15:50",
+     "sorteer": "2026-11-19T14:50:16+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
-     "context": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or Europe whatsoever. There is only one, rather generic, line that could be seen as close to these issues: “The three heads of state exchanged ",
-     "rubrieken": [
-      "Europe",
-      "World news",
-      "Ukraine",
-      "Russia"
-     ],
-     "link": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-     "bron": "The Guardian",
-     "tijd": "14:43",
-     "sorteer": "2026-11-19T13:43:19+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Venezuela signs military deal with US less than a year after Maduro's ouster",
+     "titel": "Venezuela signs military deal with US less than a year after Maduro's removal",
      "context": "The US Secretary of Defence says Venezuela has 'gone from our most aggressive regional threat to a compliant security partner'.",
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
@@ -372,6 +389,15 @@
      "sorteer": "2026-11-19T06:57:34+01:00"
     },
     {
+     "titel": "Pro en FvD winnaars bij gemeenteraadsverkiezingen in Hilversum",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/binnenland/pro-en-fvd-winnaars-bij-gemeenteraadsverkiezingen-in-hilversum~b810ba93/",
+     "bron": "de Volkskrant",
+     "tijd": "15:13",
+     "sorteer": "2026-11-19T14:13:49+00:00"
+    },
+    {
      "titel": "NRC: Nederlandse fabrikant waarvan wapens werden ingezet bij Krimbrug, zette eerder ook personeel in tegen Rusland",
      "context": "",
      "rubrieken": [],
@@ -379,15 +405,6 @@
      "bron": "de Volkskrant",
      "tijd": "12:33",
      "sorteer": "2026-11-19T11:33:00+00:00"
-    },
-    {
-     "titel": "Grote vraag naar thuisbatterijen nu voordelige salderingsregeling eindigt",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/grote-vraag-naar-thuisbatterijen-nu-voordelige-salderingsregeling-eindigt~bb4b2b51/",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-11-19T04:00:51+00:00"
     },
     {
      "titel": "Twee Nederlanders opgepakt in Duitsland om plannen bomaanslag",
@@ -399,32 +416,32 @@
      "sorteer": "2026-11-19T12:25:46+00:00"
     },
     {
-     "titel": "Dieren in beslag genomen op boerderij Ens, zaten onder de ontlasting",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQnN3M3MweWNYQ1VDeVhsZHB5V0Itc3gxd1NhaDNIYTJhNGtlTS1URlBwTXZsdVNBUDVvdGI2a1pDUGZNRHNZTU1xd2F0bU9tdTRnMjB5eXNWYkZUa0I2eWdPY2tLZlRBQTFKUTRRSzFLUUQ1TURzTVhvWmV4SVo2WFBOc2Z0ZkJHTGs0TlpVZHQwYkJBZ0FScHhvRDY1Zw?oc=5",
+     "titel": "Minister Van Weel: FVD heeft wat uit te leggen na Zembla-documentaire",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQU00OUY3cDdyQ1RWNmVqME5PLTFERWF4UDVGS2NCTTAtYTV4a3hfbmdSRWk4OWdKSE1uOHNrUENEMGpMaG9ZSXFXbXZSVE5ac0FjZHhhZWl1Ym0xZG40RGR5VTdRZ3hrUTFCdXI4bHczMHVEVmR3SkRYa1BGb3pzd1RYaE1yMVhma2NmU2s4ZE85RzhQM2dNZGNyOWdia0x5?oc=5",
      "bron": "NOS",
-     "tijd": "14:55",
-     "sorteer": "2026-11-19T13:55:24+00:00"
+     "tijd": "15:53",
+     "sorteer": "2026-11-19T14:53:40+00:00"
     },
     {
-     "titel": "Tilburgse topkoks bereiden diner voor 200 gasten, opbrengst van 31.000 euro is voor steun aan mensen met kanker",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcUtNdWhCam5fTl9STV83NldadjdMQ2xlSm1FOWpjdGViYXVhTjdmN3dFWmlkNzhXQURBdXROQTF6X3oxVUpkLW8zSnZtSkxjRTZuVW9Ed2trV1NGam5yX3VRY1VMQlpFbEVTTDhTUFF0cXVLQmVUeXktXzFweTRMa25FSnp1bmtrR1ZSVkFUR185SlZyUHpHVlZwaGczT0F6WDJlZnhOOGU1XzlRc2xleTY4eXV1TkZYOXhqbkliY0haVTZUQW5QVy1lM2ZQTm9uUGFnWXRKSC0tMFFJLUwtV04tY3pkRTdRazJ1eA?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "14:45",
-     "sorteer": "2026-11-19T13:45:00+00:00"
+     "titel": "Iedereen wil meer geld voor de politie, maar de Kamer wil nu ook weten hóé die 9,4 miljard precies wordt besteed",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQODIxLWszZWRLQTE4cUlvLUFyUWFER0ExQXEtS09QODNQa2dEUzRHY0pVaGdidUFkdVZGUHQwbFZwWW9OemVoajVscnBTMjRvRjBYM2tRMEdyRHFZREtVUGkxLWNWNU53aFA3RVF1LTBuTTBwSnljNU5DUU9GaWgwaXZUb2M3dDFqWEZxS084SmpRRVNubkNqMGlFaUpJcXI3bHZkWFFCdUNfVmRERXlxanhIVGJ3bmxfRXZHbTF2YmxBajdENXFFVzRaOEQ4czdyVzRzM0lINm1EclZSYXVCaHUzTEpXOUxvZXBlSQ?oc=5",
+     "bron": "NRC",
+     "tijd": "15:42",
+     "sorteer": "2026-11-19T14:42:23+00:00"
     },
     {
-     "titel": "Cruciale passages uit advies van Fabers asielnoodrecht geheimgehouden",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeVRnRFRGUW5RellwVERNN3c2WXBOOGpSVTFYQk41TWxIcnk2c3U2dHZfTVdod3Q3UHNyZE44cWQ3VEp3QjEtVXl2ek1jMmNLUEZhNVhJSjkxMi1pZndsX1NzazNfXzhjaEM0WDN5LU5KbEpyUEpmQkNZOHJEbGlLSlUzTUR5aVdWRDFLUjBLWjk1bGM1alhQZVE3LUNzRVk3d3ZnaF9QZ2dyWElxcWFLTDRSWFNzWGlNV2lUQg?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "14:42",
-     "sorteer": "2026-11-19T13:42:46+00:00"
+     "titel": "Ngo: bijna 700.000 ontheemden in zuiden van Ethiopië",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXRKVWxlWU42MjlfU0xSdnVGTFFCdkd1dHZTeE56a2RIdWJsSzFiTHBHZHNkd0NHMzFNSXF0cFl0LWlPTFY5UENpTmt1U3dUZ25UNEJPRzhmZFY1RWpLWi02T1NKVE8yZk5DS1pDb2lCYmxucUpDNVJhTnlNNXMzcUdOMA?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "15:34",
+     "sorteer": "2026-11-19T14:34:08+00:00"
     },
     {
-     "titel": "Politie waarschuwt demonstranten in Tilburg University: ‘Verlaat de aula’",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTl1a3F2dXg1QXBoNlZVbTFuMlh6aDFHcm03dEltaDJmMjk4Y2w2WERwUEwzcm9xWWR5VjB3WjJxUzhud0pUek9SbEJzblVfa0dnY3BYOXZOX2ZxLWVQQTVEeDFqRkZqRUdYODd1MWhzS29GajNwNXN4V2Z6YWphR25jMUd4dEdiNFY5RjY2bG54aDM2OEJJZVM5cFM1NGhuWkJZMVVXczBoQQ?oc=5",
-     "bron": "Brabants Dagblad",
-     "tijd": "14:39",
-     "sorteer": "2026-11-19T13:39:00+00:00"
+     "titel": "Arriva onderzoekt mogelijk datalek bij deelfietsplatform",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZXJnRW5RRF9tNi0zY2xfLVJ3MHJ2WHZGZUN5X2xOY3ZObHBJZ0d6Y04zS3liOVdQdTBWOGltbzktT1BOUjN0eWF1LW9iUUFMc0QzU256c0pUdnZpYmE2MXVxODE3WEd0RS1GVzZHbFlVSGlVUk1xVXlTVEdaQ1F0N09n?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "15:16",
+     "sorteer": "2026-11-19T14:16:15+00:00"
     },
     {
      "titel": "In de ‘AI-race’ kan Europa meer van China leren dan van de VS, zegt deze tech-analist",
@@ -494,6 +511,17 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Vrouw overleden na aanrijding op N348 bij Ommen",
+     "context": "Bij een botsing tussen een vrachtauto en een personenauto op de N348 bij Ommen is een vrouw om het leven gekomen. Ze was de bestuurder van de auto.",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3721317/vrouw-overleden-na-aanrijding-op-n348-bij-ommen",
+     "bron": "RTV Oost",
+     "tijd": "15:09",
+     "sorteer": "2026-11-19T14:09:32+00:00"
+    },
+    {
      "titel": "Student van Universiteit Twente vrijgesproken van plegen van fraude",
      "context": "Een student van de UT is door het College van Beroep voor Examens van de universiteit vrijgesproken van medeplegen van fraude. De zaak draaide om de vraag of ze fraude pleegde door een toetsuitwerking door te sturen naar medestudenten. De uitwerking werd gebruikt door een medestudent, die is gestraft.",
      "rubrieken": [],
@@ -521,17 +549,6 @@
      "sorteer": "2026-11-19T09:09:38+00:00"
     },
     {
-     "titel": "Ruim 28.000 euro voor inventaris uit oude bioscoop Hengelo, één object wil niemand",
-     "context": "De veiling van de inventaris uit de gesloten bioscoop in Hengelo heeft ruim 28.000 euro opgebracht. Zo werd er voor één set van 260 bioscoopstoelen en 20 loveseats bijna 5000 euro betaald. Opvallend is dat er voor de zeven meter aan toilethokken geen interesse was: daar bood niemand op.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3721127/ruim-28000-euro-voor-inventaris-uit-oude-bioscoop-hengelo-een-object-wil-niemand",
-     "bron": "RTV Oost",
-     "tijd": "09:54",
-     "sorteer": "2026-11-19T08:54:24+00:00"
-    },
-    {
      "titel": "Enschede sloopt skatepark, maar waar moeten de skaters nu naartoe?",
      "context": "De gemeente Enschede is begonnen met de sloop van het skatepark op de Boulevard 1945. De skatevoorziening voor waaghalzen op skateboards, skeelers en stepjes had hier een tijdelijke plek, maar moet nu plaatsmaken voor een bloemenperk. Het is nog niet bekend waar de skaters nu naartoe kunnen.",
      "rubrieken": [],
@@ -551,7 +568,7 @@
     },
     {
      "titel": "De handen vol bij de egelopvang",
-     "context": "LAARBRUG – VILSTEREN – Bij de egelopvang hebben de vrijwilligers hun handen vol. Elke ochtend zijn twee à drie vrijwilligers drie tot vier uur bezig met de verzorging van de egels. Ze maken de hokken schoon, zetten vers voer neer en controleren hoeveel de dieren hebben gegeten. Ook worden de egels gewogen om te zien […]",
+     "context": "LAARBRUG – VILSTEREN – Bij de Stichting Egelopvang Laarbrug hebben de vrijwilligers hun handen vol. Elke ochtend zijn twee à drie vrijwilligers drie tot vier uur bezig met de verzorging van de egels. Ze maken de hokken schoon, zetten vers voer neer en controleren hoeveel de dieren hebben gegeten. Ook worden de egels gewogen om […]",
      "rubrieken": [
       "Ingezonden bericht",
       "Laatste nieuws",
@@ -694,6 +711,13 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Alarm om ’levensgevaarlijke’ AI-brillen: fout reanimatie-advies en datingtips voor pedofielen",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc1huaHVCQ2hJVzdFY2Q2WWhtQ1ZweU5XcW41c2U2aFRKbVl5ak5DMHB1REF1b1lSNDl3dGF1QlJpWWZpOVIwaVY1eF9pcXd0TF92LXpOaGVNbWlpM3NRQ2RzcnJTY0paTlluYUl3V3JqMmY2cEh3ZW43R0ZDdkRKN3QyNVgxQ3FWdkNmYU9BcmFqQ1pIRnJOdV82cklJTGY1MTlJV2FmWm9UaTdIb1RUNDZMSHVudnFvaFNGWHU5dlJkc3NJVXpkanJnR1BCY25ua0xHVVY1S2tBVUh6Q3c?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "15:00",
+     "sorteer": "2026-11-19T14:00:00+00:00"
+    },
+    {
      "titel": "Aletta Smits geeft in Zuidhorn lezing over pubers en AI",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWhudGJsUWxFdFN1SGhMSGdJVVR1Q2xxM2NiOGNvUW9xT0hwRDQ0aUppTmprSmFnbml0WkN1cFlvX1NINm5mSE5Nb1pZcG5Kd2NFM3QxWVp2UEJ4RXZYVEU4NmN3b1E5QjExaFhpbnJWeTlaMmR0Rm1JOWRaU0JKU2htMHF6TGxBTEg1VVNwN1lQRHI1aElId1VLMXlUTFE?oc=5",
      "bron": "AD.nl",
@@ -755,28 +779,20 @@
      "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05412"
     },
     {
-     "titel": "De heer Boomsma (JA21) over rechtsstaat",
-     "bron": "Begroting Asiel en Migratie (37020-XX) 1e TK",
-     "toelichting": "Dank u wel, voorzitter. Zolang mensen die via veilige landen illegaal onze grenzen overschrijden worden beloond met opvang, verblijf en een woning, zal die massale migratie blijven doorgaan. De gevolgen daarvan zijn onacceptabel, maar als we die willen stoppen, dan klinkt voortdurend dat het juridisch niet kan, maar als de rechtsstaat voortdurend de volstrekt legitieme, democratische en redelijke wens tot…",
+     "titel": "De heer Struijs (50PLUS) over rechtsstaat",
+     "bron": "Begroting Justitie en Veiligheid (37020-VI)1e TK",
+     "toelichting": "Ik wil even de balans van de rechtsstaat opmaken met alle initiatieven die D66 neemt voor de onafhankelijkheid. U krijgt van mij alle steun voor de onafhankelijkheid van de rechter en de Raad van State, maar ik wil wel … Laten we de jurisprudentie nemen. Of laten we de Spartatribune nemen, die uitstekende scheidsrechters ziet maar beslissingen soms echt ter discussie stelt; dat doe ik ook. Ik vind het wel belangrijk…",
      "kop": "Transcriptie",
-     "tijd": "18-11",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05414"
+     "tijd": "19-11",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05412"
     },
     {
-     "titel": "Mevrouw Straatman (CDA) over rechtsstaat",
-     "bron": "Begroting Asiel en Migratie (37020-XX) 1e TK",
-     "toelichting": "Daar zou ik niet voor zijn. Ik vind wel dat we in een rechtsstaat te maken hebben met de juridische kaders die we met elkaar hebben afgesproken. Zo hoort dat. Ik vind dat wij gewoon met elkaar het gesprek moeten voeren over de vraag hoe we die juridische kunnen oprekken, zodat we veel meer grip op migratie krijgen. Daarin zijn wij met z'n allen aan zet. Het is ingewikkeld, omdat het op Europees niveau en vaak ook op…",
+     "titel": "Mevrouw Keijzer (Lid Keijzer) over rechtsstaat",
+     "bron": "Begroting Justitie en Veiligheid (37020-VI)1e TK",
+     "toelichting": "Dat lijkt mij de juiste constatering. Ik wil even terug naar het justitiedeel van de inbreng en de opsomming van afgrijselijke criminaliteit. Volgens mij ondermijnt die de veiligheid en onze rechtsstaat. Wat moeten we in de visie van mevrouw Faber en de PVV nou doen om weer terug te gaan naar de high-trust society die we ooit waren, waarin mensen elkaar elementair vertrouwden? Er gaat geen dag voorbij of je ziet dit…",
      "kop": "Transcriptie",
-     "tijd": "18-11",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05414"
-    },
-    {
-     "titel": "De heer Ceder (ChristenUnie) over rechtsstaat",
-     "bron": "Begroting Asiel en Migratie (37020-XX) 1e TK",
-     "toelichting": "Ik ben de eerste die zal zeggen dat elke overlastgever, crimineel of persoon die de Nederlandse normen en waarden niet verdraagt, hier niet hoort. Ik ben de eerste die dat zal zeggen en dat binnen de juridische kaders mogelijk zal proberen te maken. Mevrouw Keijzer en ik heb beiden in de advocatuur gewerkt. Wij weten dus beiden dat dat kan, zolang dat binnen de democratische rechtsstaat kan en past. Ik moest net…",
-     "kop": "Transcriptie",
-     "tijd": "18-11",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05414"
+     "tijd": "19-11",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05412"
     },
     {
      "titel": "De verslechterende veiligheidssituatie voor christenen in Syrië",
@@ -827,20 +843,20 @@
      "sorteer": "2026-11-19T10:15:00.01+01:00"
     },
     {
-     "titel": "Motie van het lid Klos over in 2027 Servië prioriteit geven binnen bestaande fondsen voor democratisering en…",
+     "titel": "Motie van het lid Dobbe over een reactie op de Rode Lijndemonstratie en de eisen van de demonstranten",
      "bron": "Motie",
      "kop": "Brieven en moties",
      "tijd": "18-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D59102",
-     "sorteer": "2026-11-19T14:52:15.94+01:00"
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D59143",
+     "sorteer": "2026-11-19T15:25:26.993+01:00"
     },
     {
-     "titel": "Motie van de leden Van der Werf en Hoogeveen over steun aan de documentatie van getuigenissen van overlevenden en actieve inzet…",
+     "titel": "Motie van het lid Teunissen c.s. over erkennen dat Israël genocidaal geweld toepast in Gaza",
      "bron": "Motie",
      "kop": "Brieven en moties",
      "tijd": "18-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D59098",
-     "sorteer": "2026-11-19T14:47:05.1+01:00"
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D59136",
+     "sorteer": "2026-11-19T15:20:00.17+01:00"
     },
     {
      "titel": "Procedurevergadering tijdelijke commissie Grondrechten en constitutionele toetsing",
@@ -891,6 +907,14 @@
      "sorteer": "2026-11-20T10:00"
     },
     {
+     "titel": "Petitie 'Herzie het asielbeleid voor Jemen op basis van actuele feiten'",
+     "bron": "Petitie",
+     "kop": "Komende week",
+     "tijd": "dinsdag 24/11 13:15",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08435",
+     "sorteer": "2026-11-24T13:15"
+    },
+    {
      "titel": "WOMEN Inc. adviesrapport 'Nationaal Actieplan Stop Geweld tegen Vrouwen' (zal geen doorgang vinden)",
      "bron": "Petitie",
      "kop": "Komende week",
@@ -913,14 +937,6 @@
      "tijd": "donderdag 26/11 10:00",
      "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05594",
      "sorteer": "2026-11-26T10:00"
-    },
-    {
-     "titel": "Drugspreventie en verslavingszorg",
-     "bron": "Commissiedebat",
-     "kop": "Komende week",
-     "tijd": "donderdag 26/11 13:30",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2023A03420",
-     "sorteer": "2026-11-26T13:30"
     }
    ]
   },
@@ -930,7 +946,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "15:00",
+    "bijgewerkt": "16:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1398,15 +1414,15 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 62 plekken in de afgelopen week, waarvan 7 vandaag",
+     "titel": "Invasiejaar — op 66 plekken in de afgelopen week, waarvan 11 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 188 vogels; 98 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 199 vogels; 104 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
-     "titel": "7 plekken binnen 75 km van Dalfsen",
+     "titel": "8 plekken binnen 75 km van Dalfsen",
      "bron": "dichtstbij: Warnsveld, 42 km (2026-11-16)",
      "tijd": "15:45",
      "link": "https://waarneming.nl/species/306/observations/"
@@ -1432,9 +1448,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 8.5,
-    "gevoel": 4.4,
-    "wind": "WZW 5",
+    "nu": 8.1,
+    "gevoel": 4.5,
+    "wind": "W 4",
     "station": "Heino",
     "bericht": "Een lagedrukgebied trekt vandaag over ons land naar het oosten en brengt flink wat wisselvalligheid. De verschillen zijn groot, in het noordoosten waait een koude oostenwind en is het hooguit 6 graden, terwijl verder naar het zuiden vanmiddag de zon kan doorbreken bij 12 graden. Komende dagen overal een stuk kouder.Vanmiddag blijft het in het noorden regenachtig, in de rest van het land komen vanuit het westen een paar (fikse) buien opzetten.",
     "vandaag": "Een lagedrukgebied trekt vandaag over ons land naar het oosten en brengt flink wat wisselvalligheid. De verschillen zijn groot, in het noordoosten waait een koude oostenwind en is het hooguit 6 graden, terwijl verder naar het zuiden vanmiddag de zon kan doorbreken bij 12 graden.",
@@ -1446,7 +1462,7 @@
      "regenkans": 100,
      "omschrijving": "regen",
      "morgen": {
-      "max": 7,
+      "max": 6,
       "min": 1,
       "regenkans": 24,
       "omschrijving": null
