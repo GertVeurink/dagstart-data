@@ -3,14 +3,15 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "07:09",
+  "opgehaald": "08:00",
   "blokken": 11,
-  "berichten": 107,
-  "problemen": [],
-  "audio_herkomst": null,
-  "audio_aangehaakt": "07:20"
+  "berichten": 104,
+  "problemen": [
+   "google '\"minister van Justitie\" OR \"Ju': HTTP 429"
+  ],
+  "audio_herkomst": null
  },
- "opgehaald": "2026-11-19T07:09+01:00",
+ "opgehaald": "2026-11-19T08:00+01:00",
  "audio": null,
  "afval": [
   {
@@ -68,7 +69,7 @@
    "items": [
     {
      "titel": "Wekdienst 19/11: Xi, Poetin en Trump met elkaar om tafel • Uitspraak in genocidezaak Myanmar",
-     "context": "Goedemorgen! Een historisch trilateraal overleg in China vandaag, daar spreken de Chinese president Xi, de Amerikaanse president Trump en de Russische president Poetin voor het eerst samen met elkaar. Verder gaat AI-bedrijf Anthropic, bekend van chatbot Claude, naar de beurs. De verwachting voor de komende dagen en meer weernieuws zie je hier in het NOS Weer van woensdagavond: Ga je vandaag op pad",
+     "context": "Goedemorgen! Een historisch trilateraal overleg in China vandaag, daar spreken de Chinese president Xi, de Amerikaanse president Trump en de Russische president Poetin voor het eerst samen met elkaar. Verder gaat AI-bedrijf Anthropic, bekend van chatbot Claude, naar de beurs. Eerst het weer: De verwachting voor de komende dagen en meer weernieuws zie je hier in het NOS Weer van woensdagavond: Vano",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640096",
      "bron": "NOS",
@@ -113,13 +114,13 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Grondtroepen Israël dringen verder door in Gaza, ondanks bestand",
+     "titel": "Persorganisatie: Israël demoniseerde Palestijnse journalisten en doodde ze erna",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/grondtroepen-israel-dringen-verder-door-in-gaza-ondanks-bestand~bd96d2f5/",
+     "link": "https://www.volkskrant.nl/buitenland/persorganisatie-israel-demoniseerde-palestijnse-journalisten-en-doodde-ze-erna~bd96d2f5/",
      "bron": "de Volkskrant",
-     "tijd": "05:50",
-     "sorteer": "2026-11-19T04:50:00+00:00"
+     "tijd": "06:25",
+     "sorteer": "2026-11-19T05:25:00+00:00"
     },
     {
      "titel": "Chinezen hebben meer met Rusland dan met EU of VS, blijkt bij de Russische bakker in Shenzhen: ‘Chinezen bewonderen Poetin’",
@@ -140,37 +141,44 @@
      "sorteer": "2026-11-19T01:30:00+00:00"
     },
     {
-     "titel": "After A.I. Cheating Scandal, South Korea Adopts New Restrictions for Grueling College Entrance Exam",
-     "context": "South Korea is sending loud emergency alerts to every phone in the country as part of a campaign to keep students taking a grueling test honest.",
+     "titel": "Villa Where Trump, Xi and Putin Will Meet Once Hosted Kim Jong-il",
+     "context": "The secluded Kylin Villa resort in the Chinese city of Shenzhen once hosted the North Korean dictator, Xi Jinping’s father and envoys of the Dalai Lama.",
      "rubrieken": [
-      "Cheating",
-      "Tests and Examinations",
-      "Security and Warning Systems",
-      "Colleges and Universities",
-      "Artificial Intelligence",
-      "South Korea",
-      "Seoul (South Korea)"
+      "Politics and Government",
+      "Book Trade and Publishing",
+      "International Relations",
+      "Communist Party of China",
+      "Dalai Lama",
+      "Kim Jong Il",
+      "Lam Wing-kee",
+      "Putin, Vladimir V",
+      "Trump, Donald J",
+      "China",
+      "Shenzhen (China)"
      ],
-     "link": "https://www.nytimes.com/2026/11/18/world/asia/south-korea-cheating-college-exam-suneung.html",
+     "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin-kylin-villa.html",
      "bron": "New York Times",
-     "tijd": "07:02",
-     "sorteer": "2026-11-19T06:02:52+00:00",
+     "tijd": "07:53",
+     "sorteer": "2026-11-19T06:53:53+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "‘Remarkable luck’: wreck of first Australian-built warship discovered exactly 128 years after sinking",
-     "context": "HMCS Spitfire was commissioned by colonial government to protect against Russian warships during the Crimean war The wreck of Australia’s first locally built warship has been discovered 128 years after sinking off the coast of far north Queensland. Marine archaeologists found the remains of Ex HMCS Spitfire on 21 August, the anniversary of its sinking in 1898. Continue reading...",
+     "titel": "Tammy Shipley was supposed to be monitored in prison. Instead she died after drinking 20L of water",
+     "context": "If the Aboriginal woman had been checked at regular intervals as required, her ‘excess consumption of water’ would have been prevented, inquest finds • Warning: This article contains images of and references to Indigenous Australians who have died Get our breaking news email , free app or daily news podcast The death of an Aboriginal woman who collapsed after drinking at least 20 litres of water i",
      "rubrieken": [
-      "Archaeology",
-      "Marine life",
-      "Science",
-      "Australia news"
+      "Deaths in custody",
+      "Indigenous Australians",
+      "New South Wales",
+      "Prisons",
+      "Australia news",
+      "Mental health",
+      "Indigenous incarceration"
      ],
-     "link": "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/19/tammy-shipley-was-supposed-to-be-monitored-in-prison-instead-she-died-after-drinking-20l-of-water-ntwnfb",
      "bron": "The Guardian",
-     "tijd": "06:22",
-     "sorteer": "2026-11-19T05:22:38+00:00",
+     "tijd": "07:20",
+     "sorteer": "2026-11-19T06:20:46+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -275,28 +283,6 @@
      "bron": "Trouw",
      "tijd": "06:52",
      "sorteer": "2026-11-19T05:52:47+00:00"
-    },
-    {
-     "titel": "Op Snapchat tijdens het rijden? Dat verwijt krijgt jonge bestuurder na fatale aanrijding met bejaarde vrouw",
-     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONkdzRmNYSG8wZjVhMk1SZ1NNRDIzY0tLQ09DZjNDQ2lkcEN2V09YbXBvUUR0UC1xNnF0NW5CZUVqYmN2aGlmQU5OR1k0bW0xNW8zR0EyS19ZZXRLbzR3bFU0MzV0R0JzOGxiTVp3VFFNalR3cWJUTTFyRVhVazJ2Z1k0U3RNRGZzOWk5WUhCOE1yMnlUMjA3TEIzcWdMNkhhRGZoREtIcEdqdUU3T21FTVdhRU5DUFVMenVvandScTFEOVpsRWZrcGtDalI0VUJMV1FWbHo3QVllX2EzVzdYamluOEZ6X2RiWkU2Q2UwdG9kQjV2WVc0?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "05:00",
-     "sorteer": "2026-11-19T04:00:53+00:00"
-    },
-    {
-     "titel": "John van den Heuvel: nieuwe motorbendes vragen meer in plaats van minder politieaandacht",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHFUMkowR2U2WlZ6bzdCM1ZGRGdTOEFBX2taSXpMakYwdy1nM1pyb2pwdEZuNGVYbnBwZmg5Yk50Rko4bTltcUV5bUdtMkZfZTI2NXdySWJuR3NvZFcwZjQ2LXhxQ3RiaWhvOU1uRmN3M3R2bFVzdGlaVU5LZS1zajJaYXBIV3pxdzdSYUZ1Y0R3aktGc3k0V2l6U0l4OXMya0RLeFpqUW1odVNaSmhGVzY0MThYQkdkVXU2VTJ2U3pfenhKeFFLTjZPOEo2bGM?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "03:30",
-     "sorteer": "2026-11-19T02:30:00+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Wespennest bij Dierenpartij: bestuur teruggefloten bij royement senator",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXprY0REc3l6TUh0Zl9aWGlYR3hQb1VtaHltbEhUSWlDR01SM0RBaWhoSkFOSnJ2TjVkSTdzNWtoMWhaWllGVFUySUFDSjhkaHdQVktPSHN5SG9SdC1sRWt2U2pwM05XUzEzVzU2QVlGbkRrcHVhb2loUVQ5N3Y1d3NQRnVnUjNIbVptWnRlbDEtUllKazRUV3RFcWR6MGpadHlGNFU4aDRzejZUbWc4Zm00Y1AxZTZpemww?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "02:17",
-     "sorteer": "2026-11-19T01:17:00+00:00"
     },
     {
      "titel": "Yteke de Jong: even in een achtbaan door stilstand van luchtvaart in de VS",
@@ -854,7 +840,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "07:09",
+    "bijgewerkt": "08:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1174,20 +1160,20 @@
      "link": "https://scientias.nl/brutale-eekhoorns-hebben-de-halve-wereld/"
     },
     {
+     "titel": "World Anteater Day: Rewilding and restoration offer hope for enigmatic species",
+     "toelichting": "World Anteater Day falls on Nov. 19, in recognition of the tube-nosed, ant- and termite-eating animals living across Central and South America. Closely related to sloths, anteaters generally live in trees. The largest sp",
+     "bron": "Mongabay (Engels)",
+     "tijd": "07:52",
+     "link": "https://news.mongabay.com/short-article/2026/11/world-anteater-day-rewilding-and-restoration-offer-hope-for-enigmatic-species/",
+     "sorteer": "2026-11-19T06:52:26+00:00"
+    },
+    {
      "titel": "Borneo Indigenous groups turn land rights victory into warning for future generations",
      "toelichting": "Indigenous communities in Malaysian Borneo gathered on Nov. 4 to place a memorial stone in commemoration of their three-year battle with an oil palm plantation that threatened their native customary land rights and also ",
      "bron": "Mongabay (Engels)",
      "tijd": "00:34",
      "link": "https://news.mongabay.com/2026/11/borneo-indigenous-groups-turn-land-rights-victory-into-warning-for-future-generations/",
      "sorteer": "2026-11-18T23:34:38+00:00"
-    },
-    {
-     "titel": "Greenpeace drops ‘Attenboulder’ to deter UK bottom trawlers in a marine protected area",
-     "toelichting": "Greenpeace activists recently dropped several enormous boulders in the U.K.’s Southern North Sea Marine Protected Area to discourage destructive bottom trawling currently permitted in the area. The nearly 37,000 square k",
-     "bron": "Mongabay (Engels)",
-     "tijd": "21:31",
-     "link": "https://news.mongabay.com/short-article/2026/11/greenpeace-drops-attenboulder-to-deter-uk-bottom-trawlers-in-a-marine-protected-area/",
-     "sorteer": "2026-11-18T20:31:20+00:00"
     }
    ]
   },
@@ -1339,16 +1325,16 @@
    "items": [],
    "weer": {
     "nu": 8.1,
-    "gevoel": 7.4,
-    "wind": "ZZO 1",
+    "gevoel": 7.0,
+    "wind": "ZO 2",
     "station": "Heino",
     "bericht": "Een lagedrukgebied trekt vandaag over ons land naar het oosten en brengt flinke verschillen in het weer tussen het noorden het zuiden. Vrij nat lijkt het evenwel overal te worden en het wordt 7 tot 12 graden. Vanochtend trekt een gebied met regen geleidelijk naar het noorden.",
     "vandaag": "Een lagedrukgebied trekt vandaag over ons land naar het oosten en brengt flinke verschillen in het weer tussen het noorden het zuiden. Vanochtend trekt een gebied met regen geleidelijk naar het noorden.",
     "temperatuur": "Vrij nat lijkt het evenwel overal te worden en het wordt 7 tot 12 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: regen, 4 tot 10 graden, 100% kans op neerslag, wind uit het oosten, kracht 4.",
-     "max": 10,
-     "min": 4,
+     "zin": "Voor Dalfsen zelf: regen, 3 tot 9 graden, 100% kans op neerslag, wind uit het oosten, kracht 3.",
+     "max": 9,
+     "min": 3,
      "regenkans": 100,
      "omschrijving": "regen"
     },
