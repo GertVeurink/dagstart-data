@@ -1,15 +1,15 @@
 {
  "datum": "2026-11-20",
- "naam": "Ochtendbriefing",
+ "naam": "Middagbriefing",
  "status": {
-  "ronde": "Ochtendbriefing",
-  "opgehaald": "11:00",
+  "ronde": "Middagbriefing",
+  "opgehaald": "12:00",
   "blokken": 11,
-  "berichten": 102,
+  "berichten": 104,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-20T11:00+01:00",
+ "opgehaald": "2026-11-20T12:00+01:00",
  "audio": "audio/20261120.mp3",
  "afval": [
   {
@@ -194,6 +194,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Haïtianen vestigen hoop op president El Salvador, al is onduidelijk wat zijn doelen zijn",
+     "context": "\"Bukele! Bukele! Bukele!\". Een mensenmassa beweegt zich door de Haïtiaanse hoofdstad Port-au-Prince. Er klinkt gejuich, muziek, mensen houden pamfletten in de lucht. Duizenden Haïtianen zijn de straat op gegaan. Af en toe duikt er in de menigte een blauw-witte vlag op. Vanuit rijdende auto's worden shirts uitgedeeld, met AI-gegenereerde plaatjes van de man waar ze hun hoop op gevestigd hebben: de ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640265",
+     "bron": "NOS",
+     "tijd": "11:30",
+     "sorteer": "2026-11-20T11:30:50+01:00"
+    },
+    {
      "titel": "Grootschalige Russische raket- en droneaanval op Oekraïne, minstens acht doden",
      "context": "In de Oekraïense hoofdstad Kyiv zijn bruggen en belangrijke infrastructuur op het gebied van warmte- en watervoorzieningen geraakt door Russische aanvallen. In Kyiv zijn zes doden gevallen en vijftien gewonden gevallen. Ook buiten Kyiv vielen er slachtoffers door Russische aanvallen. De Oekraïense premier Koretsky meldt op X dat er in heel Oekraïne acht doden en 28 gewonden zijn gemeld. Afgelopen ",
      "rubrieken": [],
@@ -230,15 +239,6 @@
      "sorteer": "2026-11-20T06:32:38+01:00"
     },
     {
-     "titel": "Hoogste cyberadviseur Trump vertrekt na reeks technische storingen",
-     "context": "De hoogste adviseur van de Amerikaanse president Trump op het gebied van cyberveiligheid vertrekt. Dat gebeurt na een reeks van grote technische storingen in de VS, waar miljoenen mensen last van hadden. Het gaat om Sean Cairncross, die in augustus vorig jaar werd aangesteld. Hij hield toezicht op het cyberveiligheidsbeleid en de strategie van de hele federale overheid. Cairncross wordt opgevolgd ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640219",
-     "bron": "NOS",
-     "tijd": "04:28",
-     "sorteer": "2026-11-20T04:28:52+01:00"
-    },
-    {
      "titel": "Poolse leger onderzoekt onbekende brokstukken en mogelijke schending luchtruim",
      "context": "",
      "rubrieken": [],
@@ -266,41 +266,6 @@
      "sorteer": "2026-11-20T01:35:00+00:00"
     },
     {
-     "titel": "EU says Brexit reset deal with UK will not come into force without agreement on tuition fees – live",
-     "context": "EU aims for leverage over UK by making the deals agreed today contingent on future agreement on tuition fees Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise the leverage London gets in the next six months, EU sources have said. Senior diplomats had already confirmed this week that the EU would d",
-     "rubrieken": [
-      "Europe",
-      "UK news",
-      "Politics",
-      "Brexit",
-      "European Union",
-      "Andy Burnham",
-      "Foreign policy"
-     ],
-     "link": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-     "bron": "The Guardian",
-     "tijd": "10:50",
-     "sorteer": "2026-11-20T09:50:17+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Emmanuel Macron hosts Kamala Harris at Elysée",
-     "context": "The French leader is hosting the former vice president in a \"private capacity,\" the Elysée said.",
-     "rubrieken": [
-      "Elections",
-      "Macron",
-      "War in Ukraine",
-      "Politics"
-     ],
-     "link": "https://www.politico.eu/article/emmanuel-macron-hosts-kamala-harris-for-dinner/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "10:46",
-     "sorteer": "2026-11-20T09:46:45+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
      "titel": "A Summit Gives Putin the Win He Craves: Equal Stature With Superpowers",
      "context": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.",
      "rubrieken": [
@@ -315,8 +280,27 @@
      ],
      "link": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
      "bron": "New York Times",
-     "tijd": "10:34",
-     "sorteer": "2026-11-20T09:34:04+00:00",
+     "tijd": "11:56",
+     "sorteer": "2026-11-20T10:56:22+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "UK says reset deal with EU agreed but talks will continue ‘in some areas’ – live",
+     "context": "UK statement comes after EU said deal would not take effect without future agreement over university tuition fees Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise the leverage London gets in the next six months, EU sources have said. Senior diplomats had already confirmed this week that the EU wo",
+     "rubrieken": [
+      "Europe",
+      "UK news",
+      "Politics",
+      "Brexit",
+      "European Union",
+      "Andy Burnham",
+      "Foreign policy"
+     ],
+     "link": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+     "bron": "The Guardian",
+     "tijd": "11:30",
+     "sorteer": "2026-11-20T10:30:45+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -326,8 +310,32 @@
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "10:31",
-     "sorteer": "2026-11-20T09:31:24+00:00",
+     "tijd": "11:20",
+     "sorteer": "2026-11-20T10:20:08+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "‘Staff deserve answers’ on Commission cyberattack, union says",
+     "context": "EU executive “yet to send a single update to all staff\" about recent cyberattack, union email says.",
+     "rubrieken": [
+      "Brussels bubble",
+      "Communications",
+      "Critical infrastructure",
+      "Cyber Espionage",
+      "Cybersecurity",
+      "Data",
+      "DDOS",
+      "Hackers",
+      "Malware",
+      "Network security",
+      "State-backed hacking",
+      "Cybersecurity and Data Protection"
+     ],
+     "link": "https://www.politico.eu/article/staff-deserve-answers-eu-commission-cyberattack-union-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "11:04",
+     "sorteer": "2026-11-20T10:04:39+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -349,6 +357,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Eerste 'bejaardenhuis' voor tbs'ers moet druk op andere instellingen verlichten",
+     "context": "De Limburgse geestelijke gezondheidszorginstelling Mondriaan opent komende zomer in Heerlen een speciale afdeling die zich vooral richt op tbs'ers die 65 jaar of ouder zijn. Het is voor het eerst dat er voor deze groep een afdeling wordt geopend. Het gaat om een beveiligde plek, de patiënten mogen niet naar buiten. Op deze zogeheten specialistische forensische afdeling worden ook patiënten behande",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640263",
+     "bron": "NOS",
+     "tijd": "11:00",
+     "sorteer": "2026-11-20T11:00:41+01:00"
+    },
     {
      "titel": "In steeds minder gemeenten moeten inwoners zelf hun plasticafval scheiden",
      "context": "Steeds meer gemeenten kiezen voor het nascheiden van plasticafval. Dat meldt het Centraal Bureau voor de Statistiek (CBS). Bij nascheiding hoeven mensen niet zelf thuis hun afval te scheiden. Het restafval gaat naar een installatie die dat voor hen doet. In bijna 60 procent van de gemeenten werd vorig jaar aan nascheiding van pmd (plastic verpakkingen, metalen verpakkingen en drankkartons) gedaan.",
@@ -376,15 +393,6 @@
      "tijd": "21:54",
      "sorteer": "2026-11-19T21:54:15+01:00",
      "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Experts roepen minister Yesilgöz op: houd wapenfabrikant Destinus in de gaten",
-     "context": "De Nederlandse wapenfabrikant Destinus neemt volgens defensie-experts risico's op het slagveld in Oekraïne. Minister Yesilgöz van Defensie moet met het bedrijf in gesprek, stellen ze, en mogelijk ook een onderzoek instellen naar zijn precieze rol in de oorlog. Eergisteren maakte Destinus op LinkedIn bekend dat hun raketten en drones zijn gebruikt bij de succesvolle Oekraïense aanval op de Krimbrug",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640202",
-     "bron": "NOS",
-     "tijd": "21:51",
-     "sorteer": "2026-11-19T21:51:39+01:00"
     },
     {
      "titel": "Onderzoek: XR en Anti-Imperialist Front achter ‘We support Hamas’-spandoek",
@@ -418,29 +426,36 @@
      "titel": "Aftrap ’grootste en meest unieke milieustrafzaak ooit’: ’Zaak van 600 miljoen tegen Tata Steel’",
      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd3lJUmhqVnlYTFQ4YzdvVVpEeDdhci1URHYyLWdCVVZMcDQ4TG15aW56a0Y1a3g2UnJNU3ZBVFBSdDhBZDg1elpZaEQ4RERtZmZ2eDI3NjNjVm9XMnJEYkN0UzNUbTVEU0RCSzktUksxR2htZFlDS3ZlYTBsNm5wU2NZVEhBX01heFcwREJaWTlLa1hRbkNhWnN4ZndFY2xUTndNZ0RFV19GNDM5cFBjWVNQZG9MNXFlTTRkR2g4Njhhbk5iNllpeWlrZDB0SmFhd0hfRjJLUjg?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "10:25",
-     "sorteer": "2026-11-20T09:25:20+00:00"
+     "tijd": "11:55",
+     "sorteer": "2026-11-20T10:55:59+00:00"
     },
     {
-     "titel": "Justitie zoekt nog steeds naar dief van PostNL-bus en krijgt dagvaarding niet bezorgd",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQckUxbDZTSXRXeDBEaE5BMVQ1VFJxUVhaek45Y0M0ZWFYNGNFc3ZxVWhJZmpZeWVRM0dhVWlvXzhVbm5NSmtmUTJubmY2cFNvbFVaaE9ObFlZaldqTkZvVmxhRkVOQ09sOUVibXUwemtGMm1EYW8wMzBmaXdkWUx0blc0REJQamZHQUh2TkhBbnBkWVdGamk2OEdzNEU1TnlWSlJEaUhtREFlRmFBYmNQS0FtZkY2S3EyMlV1Y05nWWQ?oc=5",
-     "bron": "AD.nl",
-     "tijd": "10:00",
-     "sorteer": "2026-11-20T09:00:26+00:00"
-    },
-    {
-     "titel": "Stelling: Tata strafrechtelijk vervolgen voor opzettelijke luchtvervuiling",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSkFXYklHSS1jMlJTOXU1elc3dTY5dVpxSlN3LU5aeEllQ2NmeUcybUUyMmFubDlqTlR2Si0xeEdJcGZCRU5ER25FLWpENU94elVhTTlramdWS1Z5aUVwdnN3X1VhSi1iYjVGTVJlcmVHU1JZNHg5Sy1sWVBPNWs5NmctNnNJUnJPYjMwbHFNdkZBcDVablBCa0xfcnFnLW1vcGE1RU1RTkFhZjREa05uRzd3WTcyc2pFX0wzaWp1R3ZDdw?oc=5",
+     "titel": "Schok in Beieren: 11-jarig kind verdacht van verspreiden kindermisbruikbeelden",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNUJiVUpQR2hXaFNyOC1VaUYzNjlpTlhqUUFiVzdKYXYtdm8yZEFLV3BmSHBqWl9Pc0pMZ3NEZ3lsVG9laE9aYW0zQnpMMDVUTnNVLVVDajh1eUpPUHNGTVFHTjEwTWJJRTNZSVIwWDhfWmpmaGtTM0J2LVhVT19ieW1HQWp6dEdBOXY1UHJHTTN2OV84T18tMFozWC1IVlJjcVRKenB6U2RTcENhTmZaSXRsTHROUlZnSFNsRFVFSk1JdktQMUNV?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "09:52",
-     "sorteer": "2026-11-20T08:52:12+00:00"
+     "tijd": "11:55",
+     "sorteer": "2026-11-20T10:55:45+00:00"
     },
     {
-     "titel": "Ongeval met letsel op John F Kennedylaan in Eindhoven",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNmI3UV9WVFVibms5U3M5c2lnQk5qaGo3Q1Z5NmtNNkYzSnJEbFZLenJySmxkak5oY05oV2F2R3pRZ0JzanMzQlZYRUlQWXhjLVNGM0NxMC1kcEJ1V3R4ZEpZUjhSeWdNSTNoRDhxd0tnRzdrTDU0TDBIdmY2S05zbFIybXFaNTRVV3Fhamg3LXlxRGRKYUxuQ1lTYzdyekVjTl9zV1Y0bmY1NlQ3LUxmTmNR?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "09:33",
-     "sorteer": "2026-11-20T08:33:07+00:00"
+     "titel": "Gronings dorpshuis Finsterwolde dicht na neonazistisch kooigevecht: ’Afschuwelijke beelden’",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQXM4SU5Kc0hvVE45d2RaNkVkbk1rVWs1VENOWDFmQnNOeWpVSzNhcHNpS0cxY1pBR2h4MDlPLUNIZ201Y19zQ0NRemFMSTBFN3dmTXN2eVpJQkh5bnBLV3NtUnBKWWJVUGp6bEozQzlNaHNEWnJaZjBUNVFvejhXelp1dHVUSExlNmJLbGludkRLcUY2Y3QzV0lFRWVWWVJKZWJBeXFDT2NielZVWlh4cFlkYmtwR1NPSDNYUFBkNjBTWUYzOHNxRXotNFM4TGpqWlpWdUd3?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "11:53",
+     "sorteer": "2026-11-20T10:53:22+00:00"
+    },
+    {
+     "titel": "Recherche hackte computers Tata Steel om informatie te acherhalen",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWFFKNGdoQmxHMmN1ci1hT0NsUndIcDc0WE41R3oyRnlad0tvalJjUzlWOG9wTTh1SS1TaFVaQlo2UUtmQkZpZEN3d2xiWmlESENLejZPZndoOEFlbTdtbkN3VnJ2R2JjMGtwb1ctbGpzNXJTSFhBNHhxRzluSVQxQ2xjTndVeE5xUndCSngzWDktYkdkeGQzVnB4WFVvdmpYLUptWW9CMA?oc=5",
+     "bron": "AD.nl",
+     "tijd": "11:51",
+     "sorteer": "2026-11-20T10:51:00+00:00"
+    },
+    {
+     "titel": "De zaak-Pelicot legt bloot hoe gewone mannen nog altijd over heteroseks denken – en dat is doodeng",
+     "link": "https://decorrespondent.nl/17422",
+     "bron": "De Correspondent · Bregje Hofstede",
+     "tijd": "11:27",
+     "sorteer": "2026-11-20T10:27:39+00:00"
     },
     {
      "titel": "Met hun woede maken jonge demonstranten plaats voor een nieuwe wereld",
@@ -457,11 +472,12 @@
      "sorteer": "2026-11-20T04:45:04+00:00"
     },
     {
-     "titel": "Power duiden: een podcastaflevering vol energieoptimisme",
-     "link": "https://decorrespondent.nl/17394",
-     "bron": "De Correspondent · Jesse Frederik",
-     "tijd": "05:45",
-     "sorteer": "2026-11-20T04:45:03+00:00"
+     "titel": "Heinen: 'Ik moet belastingplan verdedigen, niet het VVD-standpunt'",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2xmeFlubzMzcEhMc1lDSWg5RzJRb0NWUy1EeExweUhYVGpycENqdUc2aTNVeU04R2psemZxSkN5YzVCQ1hhLUpLTTF2eUNLbzlRRHVpY2J0MjdsNk1xRXFOU1NSQlJ1c2liNGtUNWdaTXViaUU1Vk14aGZUTFBpYU4zeGZyWDJka3RjX0txNVNCblB5R29mS1RaVzY2R1AzWjFTbW1hQUM?oc=5",
+     "bron": "AD.nl",
+     "tijd": "11:17",
+     "sorteer": "2026-11-20T10:17:06+00:00",
+     "kop": "Begroting"
     },
     {
      "titel": "Nieuwsuur: 'Nederlandse wapenfabrikant schoot zelf drones af in Oekraïne' • Booming: drone-industrie in Nederland • Uitbuiting buitenlandse draagmoeders",
@@ -481,6 +497,15 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Almelo ruilt opvangplekken voor asielzoekers met Hof van Twente",
+     "context": "De ene gemeente heeft ruimte voor meer asielzoekers, de andere kan minderjarige vluchtelingen opvangen. Daarom hebben Almelo en Hof van Twente besloten elkaar te helpen. Ze ruilen onderling tientallen opvangplekken uit.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3721574/almelo-ruilt-opvangplekken-voor-asielzoekers-met-hof-van-twente",
+     "bron": "RTV Oost",
+     "tijd": "11:17",
+     "sorteer": "2026-11-20T10:17:34+00:00"
+    },
     {
      "titel": "Spoorwegwerkzaamheden en wegafsluitingen ontwrichten verkeer regio Steenwijk",
      "context": "Werk aan het spoor, grootschalige wegwerkzaamheden en talloze omleidingen. Het verkeer en openbaar vervoer in de regio Steenwijk is komende week voor langere tijd behoorlijk ontwricht door wegafsluitingen.",
@@ -530,39 +555,30 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Man (58) jarenlang de cel in vanwege meerdere autobranden in Deventer",
-     "context": "Een Deventenaar moet 46 maanden de cel in omdat hij meerdere auto's in brand heeft gestoken. De man deed dit terwijl hij in zijn proeftijd zat, nadat hij al eens eerder was veroordeeld voor brandstichting. Opvallend is wat de man in de uren na een van de branden allemaal op internet opzocht.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3721373/man-58-jarenlang-de-cel-in-vanwege-meerdere-autobranden-in-deventer",
-     "bron": "RTV Oost",
-     "tijd": "20:56",
-     "sorteer": "2026-11-19T19:56:54+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Sjaal terug gevonden",
-     "context": "DALFSEN – Sjaal weer gevonden, vanochtend. Mijn vrouw liep die route en vond deze, maar zeker 2 mensen vroegen : ” heb jij je sjaal gevonden” ? Dat zegt dus hoeveel mensen jullie site lezen. Ik ben daar blij om, omdat lokaal nieuws zo verwaarloosd wordt, terwijl dat in feite het allerbelangrijkste is. (En zo […]",
+     "titel": "Drie mbo-docenten winnen Award Vakmanschap 2026",
+     "context": "OVERIJSSEL – Nils de Waard uit Rottum, Sandra Visser-ter Horst uit Almelo en Albert Wessels uit Vroomshoop hebben donderdag 19 november de Award Vakmanschap 2026 ontvangen. De provincie Overijssel reikte de prijzen uit bij Kamak in Hengelo. Er waren 39 docenten en instructeurs genomineerd. De eerste prijs ging naar Nils de Waard, docent Tourism […]",
      "rubrieken": [
-      "Dalfsen",
       "Ingezonden bericht",
-      "Kwiet en weer terechte",
-      "Laatste nieuws"
+      "Laatste nieuws",
+      "Regio"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/556949/sjaal-terug-gevonden.html",
+     "link": "https://www.dalfsennet.nl/nieuws/556971/drie-mbo-docenten-winnen-award-vakmanschap-2026.html",
      "bron": "DalfsenNet",
-     "tijd": "10:41",
-     "sorteer": "2026-11-20T09:41:42+00:00"
+     "tijd": "11:56",
+     "sorteer": "2026-11-20T10:56:16+00:00"
     },
     {
-     "titel": "Tribute to the Soul",
-     "context": "DALFSEN – Op zaterdag 28 november brengt de tienkoppige band DRENTH een energieke theatershow Tribute to the Soul. Een avond soulmuziek, live in theater De Stoomfabriek! Met de krachtige stem van leadzangeres Annemiek Drenth, gedragen door een hechte band van ervaren muzikanten; een blazerssectie en warme grooves klinkt muziek van Aretha Franklin en Marvin Gaye […]",
+     "titel": "Vijftien nieuwe huurwoningen in Nieuwleusen krijgen feestelijke oplevering",
+     "context": "NIEUWLEUSEN – De oplevering van vijftien nieuwe rijwoningen in Nieuwleusen krijgt een feestelijk karakter. Wethouder André Schuurman verzorgt de officiële openingshandeling. Het gaat om de nieuwe sociale huurwoningen van woonstichting VechtHorst aan de Gele Lis, in de wijk Westerbouwlanden-Noord. Met het project breidt VechtHorst het aanbod van sociale huurwoningen in Nieuwleusen verder uit. De […",
      "rubrieken": [
-      "Ingezonden bericht"
+      "Ingezonden bericht",
+      "Laatste nieuws",
+      "Nieuwleusen"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/556944/tribute-to-the-soul.html",
+     "link": "https://www.dalfsennet.nl/nieuws/556969/vijftien-nieuwe-huurwoningen-in-nieuwleusen-krijgen-feestelijke-oplevering.html",
      "bron": "DalfsenNet",
-     "tijd": "09:01",
-     "sorteer": "2026-11-20T08:01:28+00:00"
+     "tijd": "11:50",
+     "sorteer": "2026-11-20T10:50:45+00:00"
     }
    ]
   },
@@ -612,6 +628,14 @@
      "kop": "Politie"
     },
     {
+     "titel": "Over 70 women identified as victims of trafficking network operating across nine European countries",
+     "toelichting": "A criminal network suspected of trafficking women from Romania for sexual exploitation across nine European countries has been targeted in two coordinated law enforcement actions on 5 and 19 November 2026.",
+     "bron": "Europol (Engels)",
+     "kop": "Europol",
+     "tijd": "",
+     "link": "https://www.europol.europa.eu/media-press/newsroom/news/over-70-women-identified-victims-of-trafficking-network-operating-across-nine-european-countries"
+    },
+    {
      "titel": "Law enforcement dismantle cocaine network from Ecuador to Europe",
      "toelichting": "An international investigation supported by Europol and Eurojust has dismantled a criminal network suspected of importing cocaine into Europe from Ecuador and other Latin American countries. Investigators link the network to…",
      "bron": "Europol (Engels)",
@@ -626,14 +650,6 @@
      "kop": "Europol",
      "tijd": "",
      "link": "https://www.europol.europa.eu/media-press/newsroom/news/354-dark-web-vendors-and-buyers-arrested-in-europol-coordinated-global-crackdown"
-    },
-    {
-     "titel": "6.4 million victim datasets secured in international operation against malware networks",
-     "toelichting": "Europol, alongside global partners, has dismantled the criminal infrastructure behind Gootloader, CastleRAT, and StealC malware. In coordinated actions, law enforcement seized 235 servers and 257 domains, severely crippling these…",
-     "bron": "Europol (Engels)",
-     "kop": "Europol",
-     "tijd": "",
-     "link": "https://www.europol.europa.eu/media-press/newsroom/news/64-million-victim-datasets-secured-in-international-operation-against-malware-networks"
     }
    ]
   },
@@ -692,7 +708,7 @@
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON3MtVXpPOVRneS1SNG5HaVJUX3JWcEcySHJOSVZpSjlQSTRTVlZjUzQwX3RKNjlDMF9TUTY1SFZHVlk3M0Nvd0M5Q2VfRGY1ZnJVUkpNYm92S011SkFjTVVnMkhrQVNmckh6SUdoLWJQZlIyejdJaXpJUW1JWVpITkoxWW1DVkdKM1hUdnY0aXRlYjBHSzdNT0k3UmdoVlR5cGlheldZR09wdnhwdHpDX3N6b3R5QkpCSzNnclYyTkNzNDJ2cG51VnhEV1hJUlhENXBz?oc=5",
      "bron": "bnr.nl",
      "tijd": "07:01",
-     "sorteer": "2026-11-20T06:01:00+00:00"
+     "sorteer": "2026-11-20T06:01:46+00:00"
     },
     {
      "titel": "Meta heroverweegt eigen klimaatdoel door snelle opmars AI",
@@ -722,13 +738,6 @@
      "bron": "Bright",
      "tijd": "09:58",
      "sorteer": "2026-11-20T08:58:00+00:00"
-    },
-    {
-     "titel": "ABN: Hoge loonkosten dwingen ondernemers tot AI-gebruik",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbVpISUNqUk42dk52eFl0RVBZZXdvWHRuNWg2Wm5LeUtCNHc4RlRxOGR4NkpLSnR2Qm9LcG1jRmd2STE5RXltTzJhWU5OUDAwOE9KSjF6NzZwN2JJU1RZc1FjTGo5SXBmS0djYW5PbjdMN05DRXY1MHJNV0pfQy15OFZ5cThFeTVucmc?oc=5",
-     "bron": "Emerce",
-     "tijd": "08:45",
-     "sorteer": "2026-11-20T07:45:00+00:00"
     }
    ]
   },
@@ -865,12 +874,20 @@
      "sorteer": "2026-11-19T18:15:33.263+01:00"
     },
     {
-     "titel": "Motie van het lid Lammers over terrorisme- en extremismescreening van migranten onmiddellijk op orde brengen",
+     "titel": "Motie van de leden Struijs en Straatman over in het WODC-onderzoek naar onrechtmatig in Nederland verblijvende vreemdelingen…",
      "bron": "Motie",
      "kop": "Brieven en moties",
      "tijd": "19-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D59546",
-     "sorteer": "2026-11-20T10:25:55.137+01:00"
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D59541",
+     "sorteer": "2026-11-20T11:57:16.49+01:00"
+    },
+    {
+     "titel": "Motie van het lid Ceder over onderzoeken of en hoe de zorg voor vreemdelingen met psychische problemen landelijk kan worden…",
+     "bron": "Motie",
+     "kop": "Brieven en moties",
+     "tijd": "19-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D59539",
+     "sorteer": "2026-11-20T11:57:11.29+01:00"
     },
     {
      "titel": "Verzoek tot uitstellen van het commissiedebat Terrorisme/extremisme op 26 november 2026",
@@ -905,12 +922,20 @@
      "sorteer": "2026-11-25T14:30"
     },
     {
-     "titel": "Terrorisme/extremisme",
+     "titel": "Terrorisme/extremisme (tot nader order uitgesteld)",
      "bron": "Commissiedebat",
      "kop": "Komende week",
      "tijd": "donderdag 26/11 10:00",
      "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05594",
      "sorteer": "2026-11-26T10:00"
+    },
+    {
+     "titel": "Goedkeuring van het Aanvullend Protocol inzake de toepassing van het Verdrag over waarborgen met betrekking tot de…",
+     "bron": "Hamerstukken",
+     "kop": "Komende week",
+     "tijd": "donderdag 26/11 10:15",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08077",
+     "sorteer": "2026-11-26T10:15"
     },
     {
      "titel": "Drugspreventie en verslavingszorg",
@@ -936,7 +961,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "11:00",
+    "bijgewerkt": "12:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1233,20 +1258,20 @@
      "sorteer": "2026-11-20T05:45:00+00:00"
     },
     {
-     "titel": "Verdwenen uit Nederland: grote ijsvogelvlinder",
-     "toelichting": "Vijftien soorten dagvlinders zijn de afgelopen eeuw verdwenen uit Nederland. We zullen de komende tijd regelmatig een van deze soorten onder de loep nemen. Hoe was het vroeger? Waar kwam de vlinder voor? Hoe verdween dez",
-     "bron": "Nature Today",
-     "tijd": "12:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36081",
-     "sorteer": "2026-11-19T11:00:00+00:00"
-    },
-    {
      "titel": "Hoe monitor je 'onzichtbare' otters?",
      "toelichting": "Heb jij wel eens een otter gezien? Dan behoor je tot de lucky few! Otters zijn namelijk ontzettend schuw en je ziet ze zelden. Om toch een goed beeld te krijgen van de verspreiding van otters in Nederland duiken vrijwill",
      "bron": "Nature Today",
      "tijd": "07:00",
      "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36070",
      "sorteer": "2026-11-20T06:00:00+00:00"
+    },
+    {
+     "titel": "Nieuwe bakenbomen langs de Maas",
+     "toelichting": "De historische bakenbomenstructuur langs de Maas tussen Boxmeer en Geertruidenberg blijft behouden voor toekomstige generaties. Het Rijk, provincies Noord-Brabant, Gelderland, Limburg en veertien gemeenten langs de Maas ",
+     "bron": "Nature Today",
+     "tijd": "10:30",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36087",
+     "sorteer": "2026-11-20T09:30:00+00:00"
     },
     {
      "titel": "Aseksueel voortplanten: kelpen doen het bij gebrek aan een partner",
@@ -1263,20 +1288,20 @@
      "link": "https://scientias.nl/kikkervisjes-in-de-gelei-nieuwe-vliegende-kikker-kiest-een-andere-kraamkamer-dan-zijn-familie/"
     },
     {
-     "titel": "As Nepal celebrates the crow, urban sprawl and waste drive strain",
-     "toelichting": "Every year around the Hindu festival of Diwali, or Deepavali, residents in Nepal observe Kaag Tihar, an annual festival day dedicated to worshipping house crows as divine messengers. However, in the country’s capital, ra",
+     "titel": "Fossil fuels’ role in Africa’s energy transition contested as UN climate conference closes",
+     "toelichting": "As the 2026 edition of the annual U.N. Climate Change Conference reaches its conclusion in Antalya, Türkiye, on Nov. 20, African governments are arguing for increased financial and technical support to respond to climate",
      "bron": "Mongabay (Engels)",
-     "tijd": "06:33",
-     "link": "https://news.mongabay.com/short-article/2026/11/as-nepal-celebrates-the-crow-urban-sprawl-and-waste-drive-strain/",
-     "sorteer": "2026-11-20T05:33:03+00:00"
+     "tijd": "11:59",
+     "link": "https://news.mongabay.com/2026/11/fossil-fuels-role-in-africas-energy-transition-contested-as-un-climate-conference-closes/",
+     "sorteer": "2026-11-20T10:59:38+00:00"
     },
     {
-     "titel": "The long reach of El Niño impacts on Southeast Asia’s primates",
-     "toelichting": "As Indonesia’s El-Niño driven fires spark a race to save endangered orangutans and other wildlife, a recent review paper, published in the journal Oryx, is raising concerns about both the short- and long-term impacts on ",
+     "titel": "Nickel linked to deforestation in Indonesia traded on London Metal Exchange, says report",
+     "toelichting": "Two companies approved for trading nickel on the London Metal Exchange (LME) could be linked to supply chains that have cleared primary rainforest in Indonesia, according to a report published by the NGO Environmental In",
      "bron": "Mongabay (Engels)",
-     "tijd": "22:25",
-     "link": "https://news.mongabay.com/2026/11/the-long-reach-of-el-nino-impacts-on-southeast-asias-primates/",
-     "sorteer": "2026-11-19T21:25:02+00:00"
+     "tijd": "11:51",
+     "link": "https://news.mongabay.com/short-article/2026/11/nickel-linked-to-deforestation-in-indonesia-traded-on-london-metal-exchange-says-report/",
+     "sorteer": "2026-11-20T10:51:23+00:00"
     }
    ]
   },
@@ -1394,11 +1419,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 62 plekken in de afgelopen week, waarvan 5 vandaag",
+     "titel": "Invasiejaar — op 64 plekken in de afgelopen week, waarvan 7 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 173 vogels; 96 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 177 vogels; 98 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1428,16 +1453,16 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 4.8,
-    "gevoel": 3.6,
-    "wind": "ONO 1",
+    "nu": 5.5,
+    "gevoel": 5.5,
+    "wind": "O 1",
     "station": "Heino",
-    "bericht": "In vergelijking met voorgaande dagen ziet het weer er vandaag vooral in het noorden beter uit. Valt in het zuiden nog regen, het noorden ziet de zon geregeld en in de middag komt daar een enkele bui voor.Vanochtend is het vooral in het zuiden nog bewolkt met af en toe regen. In het midden wordt het al vrij snel droog.",
-    "vandaag": "In vergelijking met voorgaande dagen ziet het weer er vandaag vooral in het noorden beter uit. Vanochtend is het vooral in het zuiden nog bewolkt met af en toe regen.",
-    "temperatuur": "De wind is zwak tot matig, in het midden en zuiden noordoostelijk, in het noorden veranderlijk en de temperaturen liggen aan het einde van de ochtend tussen 5 en 9 graden.",
+    "bericht": "In het zuiden wordt het langzaam droog. In het noorden verschijnt een enkele bui. De komende dagen wordt het geleidelijk steeds iets kouder, met de komende dagen nog soms een bui.Vanmiddag beperkt de regenval zich steeds meer tot enkel het zuidoosten.",
+    "vandaag": "Vanmiddag beperkt de regenval zich steeds meer tot enkel het zuidoosten. Vanavond is het als laatste ook in Zuid-Limburg droog geworden.",
+    "temperatuur": "Het wordt 6 graden in het noorden tot 9 graden in het zuiden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: bewolkt, 2 tot 8 graden, 60% kans op neerslag, ruim 7 uur zon, wind uit het noorden, kracht 2.",
-     "max": 8,
+     "zin": "Voor Dalfsen zelf: bewolkt, 2 tot 7 graden, 60% kans op neerslag, ruim 7 uur zon, wind uit het noorden, kracht 2.",
+     "max": 7,
      "min": 2,
      "regenkans": 60,
      "omschrijving": "bewolkt",
@@ -1445,7 +1470,7 @@
       "max": 9,
       "min": 2,
       "regenkans": 59,
-      "omschrijving": "motregen"
+      "omschrijving": "lichte regen"
      }
     },
     "vooruit": "Vrij koud, meest droog en perioden met zon. 's Nachts en in de ochtend lichte vorst en kans op mist. Vanaf woensdag wordt het misschien weer wisselvalliger.",
