@@ -7,10 +7,11 @@
   "blokken": 11,
   "berichten": 105,
   "problemen": [],
-  "audio_herkomst": null
+  "audio_herkomst": "model",
+  "audio_aangehaakt": "06:06"
  },
  "opgehaald": "2026-11-20T05:55+01:00",
- "audio": null,
+ "audio": "audio/20261120.mp3",
  "afval": [
   {
    "datum": "2026-11-27",
@@ -49,7 +50,92 @@
    "afwijkend": false
   }
  ],
- "duiding": [],
+ "duiding": [
+  {
+   "titel": "Plan schrapt personeelskorting winkels",
+   "tekst": "Het belastingplan laat werkenden vanaf januari meer salaris overhouden, maar schaft ook de personeelskorting in de winkelstraat af (23, 24). In het debat over dat plan werd een extra ME-peloton al aan Utrecht toegezegd (42). Daarop kwam een wijziging van de Justitiebegroting die geld voor een extra peloton reserveert, zonder Utrecht te noemen (42). Van der Plas (BBB) vroeg daarom hoe die politieke aankondiging zich verhoudt tot wat er nu in de begroting staat (42).",
+   "verwijzingen": [
+    {
+     "titel": "Belastingplan bevat ook een domper voor de winkelstraat: ‘personeelskorting’ verdwijnt",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTEhRRlhFZC1tdUFFZHNNd3FIOVB5Ul9CZWJ6el94ZHBFbmJpLTlQWXdMckVjeTVIMFBhN0IxUjlmaVM1a3lUbmxrd19sZy13clhQNlh0d2NTQ1Q0cWpja1BlMng1M2FUM3BlLW81WWN5SUxIeGpkZFhwOFVXQm1HMGZiSE5TdVM2SlpFY2xzMG95cU9TNXV2UWpaM3ZOU04wOFZEakdVX0xlRkJ3MWJINUVRWmdFRTVuWnRwRm1yRkI3MmNETWpR?oc=5",
+     "bron": "de Volkskrant",
+     "tijd": "05:00",
+     "nummers": [
+      23
+     ]
+    },
+    {
+     "titel": "Dit verandert er in januari op je loonstrookje door het belastingplan: ’Werkenden houden meer salaris over’",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNT3hYRVg3clRwTXhjcGxDbEpRTGdtVU8yNWRHV1Z1NXhheVppRFRHSGtHTjRubm16WWotQkdfNjNFaFd2WGdGX2xsRWJlSnBGejY5Qnk2aF9oeVpnWUdYWVJDTWxab0dGaEVRODJIV28xRkxVRExOa2liMUdvSkdRYnlKc1lZMHIyd201dm8zeVNxRXpUcWhZRllwa3dTMTZwa3FxT1pUa1ZFcmM5OTBhT244cTVmNEhIamF1ODRMT3lnemtHd1ZTNHdQeVJZdlppNVBmYmo4U2VULXFsQkx5cUZXMmhqaTJVb0pkRXJPeGNqZw?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "01:05",
+     "nummers": [
+      24
+     ]
+    },
+    {
+     "titel": "Mevrouw Van der Plas (BBB) over korpschef + 8 meer",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05412",
+     "bron": "Begroting Justitie en Veiligheid (37020-VI)1e TK",
+     "tijd": "19-11",
+     "nummers": [
+      42
+     ]
+    }
+   ],
+   "geschreven": "06:06"
+  },
+  {
+   "titel": "Destinus-personeel jaagde op drones",
+   "tekst": "Medewerkers van de Nederlandse wapenmaker Destinus hebben volgens NRC zelf in Oekraïne op Russische drones gejaagd, en experts vragen minister Yesilgöz het bedrijf daarop aan te spreken (5, 25). Dat kwam naar buiten nadat Destinus had gemeld dat zijn wapens bij de aanval op de Krimbrug zijn gebruikt (5). Deskundigen vrezen dat zulke inzet rechtstreekse deelname aan de oorlog is (25). Destinus ontkent dat zijn medewerkers aan actieve militaire operaties meededen (25).",
+   "verwijzingen": [
+    {
+     "titel": "Experts roepen minister Yesilgöz op: houd wapenfabrikant Destinus in de gaten",
+     "link": "https://nos.nl/l/2640202",
+     "bron": "NOS",
+     "tijd": "21:51",
+     "nummers": [
+      5
+     ]
+    },
+    {
+     "titel": "Nieuwsuur: 'Nederlandse wapenfabrikant schoot zelf drones af in Oekraïne' • Booming: drone-industrie in Nederland • Uitbuiting buitenlandse draagmoeders",
+     "link": "https://nos.nl/l/2640155",
+     "bron": "NPO2 · 22:00",
+     "tijd": "22:00",
+     "nummers": [
+      25
+     ]
+    }
+   ],
+   "geschreven": "06:06"
+  },
+  {
+   "titel": "Politie onderzoekt appgroep Haviksoog",
+   "tekst": "De politie Oost-Nederland is onder leiding van het OM een strafrechtelijk onderzoek begonnen naar appgroep 't Haviksoog (14, 30). In die groep deelden ruim duizend mannen volgens Pointer zo'n 13.000 stiekem gemaakte, seksueel getinte beelden, vooral van vrouwen uit Oost-Nederland (14). Daarover kreeg de politie meerdere meldingen (14). Als eerste stap verzamelt zij zoveel mogelijk informatie over de groep en wat erin gedeeld is (30).",
+   "verwijzingen": [
+    {
+     "titel": "Politie begint onderzoek naar Achterhoekse appgroep met stiekem gemaakte foto's",
+     "link": "https://nos.nl/l/2640204",
+     "bron": "NOS",
+     "tijd": "21:54",
+     "nummers": [
+      14
+     ]
+    },
+    {
+     "titel": "Politie Oost-Nederland start onderzoek naar Whatsapp-groep ’t Haviksoog",
+     "link": "https://www.oost.nl/nieuws/3721432/politie-oost-nederland-start-onderzoek-naar-whatsapp-groep-t-haviksoog",
+     "bron": "RTV Oost",
+     "tijd": "17:31",
+     "nummers": [
+      30
+     ]
+    }
+   ],
+   "geschreven": "06:06"
+  }
+ ],
  "denkwerk": {
   "tekst": "Bij Kant heeft geen mens het recht te gehoorzamen.",
   "wie": "Hannah Arendt",
@@ -58,7 +144,50 @@
   "parafrase": false,
   "link": "https://gertveurink.github.io/denkwerk/#/"
  },
- "verder": [],
+ "verder": [
+  {
+   "kop": "Berendsen ontbiedt Russisch gezant",
+   "blok": "nationaal",
+   "link": "https://nos.nl/l/2640193",
+   "bron": "NOS",
+   "titel": "Nederland roept Russische ambassadeur op het matje voor projectiel bij ambassade"
+  },
+  {
+   "kop": "Strafzaak tegen Tata Steel begint",
+   "blok": "nationaal",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTHJLRE9SZ21KUDEtYnBqdUs3eUNnNl8waUFseWFHS3dMQVRTWnNTcEVrRmVWNHZ6SGZqblZKbEpUMXUtSXhJaDlWbko0VlVCNjhIbUFSakdGQndBTnlFUjNPbnY5TEJ6V0JTTnpjWXZLMWE0bHpsX0VxVXBQWUxFelZsandqaXRPWndoOFFuVzExWDRsQVhHNEdJWFdDcjNi?oc=5",
+   "bron": "NOS",
+   "titel": "Strafzaak tegen Tata Steel om 'opzettelijke luchtvervuiling' van start"
+  },
+  {
+   "kop": "Kapper Nijverdal krijgt celstraf",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3721360/klanten-redden-vrouw-uit-handen-van-kapper-in-nijverdal-jarenlange-celstraf",
+   "bron": "RTV Oost",
+   "titel": "Klanten redden vrouw uit handen van kapper in Nijverdal: jarenlange celstraf"
+  },
+  {
+   "kop": "Brandstichter krijgt 46 maanden",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3721373/man-58-jarenlang-de-cel-in-vanwege-meerdere-autobranden-in-deventer",
+   "bron": "RTV Oost",
+   "titel": "Man (58) jarenlang de cel in vanwege meerdere autobranden in Deventer"
+  },
+  {
+   "kop": "Cyberadviseur Trump stapt op",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2640219",
+   "bron": "NOS",
+   "titel": "Hoogste cyberadviseur Trump vertrekt na reeks technische storingen"
+  },
+  {
+   "kop": "Politie Haïti doodt 34 bendeleden",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2640215",
+   "bron": "NOS",
+   "titel": "Haïtiaanse politie meldt tientallen doden bij grote operatie tegen bendes"
+  }
+ ],
  "blokken": [
   {
    "id": "internationaal",
