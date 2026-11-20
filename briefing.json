@@ -3,15 +3,13 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "15:00",
+  "opgehaald": "16:00",
   "blokken": 11,
-  "berichten": 99,
-  "problemen": [
-   "kamerstukken Brief regering: HTTP 500"
-  ],
+  "berichten": 102,
+  "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-20T15:00+01:00",
+ "opgehaald": "2026-11-20T16:00+01:00",
  "audio": "audio/20261120.mp3",
  "afval": [
   {
@@ -187,6 +185,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Scholieren en studenten lopen uit de les tegen toenemende militarisering",
+     "context": "Studenten en scholieren door heel Nederland zijn hun klaslokalen uit gelopen vandaag. Daarmee willen ze protesteren tegen de dienstplicht en de verdere militarisering, zoals zij dat noemen. In zestien plaatsen hebben in totaal enkele duizenden jongeren gedemonstreerd. Het protest is een initiatief van de organisatie Stop de Oorlogkoorts en wordt gesteund door onder andere FNV Young & United en de ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640292",
+     "bron": "NOS",
+     "tijd": "15:17",
+     "sorteer": "2026-11-20T15:17:48+01:00"
+    },
+    {
      "titel": "BBC: VK begon grote beveiligingsactie na aanvallen op koelsystemen in Europa",
      "context": "Terwijl in Nederland , Frankrijk en andere Europese landen de afgelopen maanden temperaturen van vries- en koelsystemen werden aangepast bij cyberaanvallen, is in het Verenigd Koninkrijk een grote beveiligingsoperatie op poten gezet om een vergelijkbare aanval te voorkomen. Dat meldt de Britse omroep BBC. Eerder leek het er nog op dat het VK ontsnapt was aan een cyberaanval, omdat daar gebruik wor",
      "rubrieken": [],
@@ -223,13 +230,13 @@
      "sorteer": "2026-11-20T12:15:49+01:00"
     },
     {
-     "titel": "Myanmar noemt genocide-uitspraak Internationaal Gerechtshof 'oneerlijk'",
-     "context": "De Myanmarese autoriteiten noemen de historische uitspraak van het Internationaal Gerechtshof van gisteren \"oneerlijk\". Het hof oordeelde dat Myanmar schuldig is aan genocide op de islamitische Rohingya-minderheid. Negen rechters stemden daar voor, zes tegen. Volgens een woordvoerder van president Min Aung Hlaing was die meerderheid onvoldoende. \"Niet alle vijftien rechters waren het met het beslu",
+     "titel": "Poolse premier noemt luchtruimschendingen ‘opzettelijke provocatie’ van Rusland",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640269",
-     "bron": "NOS",
-     "tijd": "12:02",
-     "sorteer": "2026-11-20T12:02:55+01:00"
+     "link": "https://www.volkskrant.nl/buitenland/poolse-premier-noemt-luchtruimschendingen-opzettelijke-provocatie-van-rusland~b11373d3a/",
+     "bron": "de Volkskrant",
+     "tijd": "15:12",
+     "sorteer": "2026-11-20T14:12:00+00:00"
     },
     {
      "titel": "Britse justitie vervolgt eerste verdachten aanslagpoging luchtmachtbasis Fairford",
@@ -241,40 +248,51 @@
      "sorteer": "2026-11-20T13:15:00+00:00"
     },
     {
-     "titel": "Na 1,5 uur ‘Jalta 2.0’ stuiten Trump en Poetin thuis weer op grenzen van hun macht",
+     "titel": "Het ICJ schept met genocide-uitspraak belangrijke precedenten",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/na-1-5-uur-jalta-2-0-stuiten-trump-en-poetin-thuis-weer-op-grenzen-van-hun-macht~b0b8a3ea/",
-     "bron": "de Volkskrant",
-     "tijd": "13:47",
-     "sorteer": "2026-11-20T12:47:20+00:00"
-    },
-    {
-     "titel": "Voornaamste adviseur Trump over cyberveiligheid vertrekt na reeks incidenten",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/live-vs-voornaamste-adviseur-trump-over-cyberveiligheid-vertrekt-na-reeks-incidenten~bbc0cf3d/",
+     "link": "https://www.trouw.nl/buitenland/het-icj-schept-met-genocide-uitspraak-belangrijke-precedenten~b63d2b2a/",
      "bron": "Trouw",
-     "tijd": "02:35",
-     "sorteer": "2026-11-20T01:35:00+00:00"
+     "tijd": "15:07",
+     "sorteer": "2026-11-20T14:07:34+00:00"
     },
     {
      "titel": "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
-     "context": "Prime Minister Andy Burnham and European leaders announced a deal to remove some barriers introduced by Brexit, a decade after Britain left the European Union.",
+     "context": "Prime Minister Andy Burnham and European leaders announced a deal to remove some barriers introduced by Brexit, a decade after Britain voted to leave the European Union.",
      "rubrieken": [
-      "Great Britain Withdrawal from EU (Brexit)",
+      "Great Britain",
       "Burnham, Andrew M (1970- )",
-      "European Union",
-      "International Relations",
       "Labour Party (Great Britain)",
-      "Brussels (Belgium)",
+      "International Relations",
+      "Politics and Government",
+      "Great Britain Withdrawal from EU (Brexit)",
+      "European Union",
       "Europe",
-      "Great Britain"
+      "International Trade and World Market"
      ],
      "link": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
      "bron": "New York Times",
-     "tijd": "14:55",
-     "sorteer": "2026-11-20T13:55:06+00:00",
+     "tijd": "15:57",
+     "sorteer": "2026-11-20T14:57:33+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+     "context": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise the leverage London gets in the next six months, EU sources have said. Senior diplomats had already confirmed this week that the EU would def",
+     "rubrieken": [
+      "Europe",
+      "UK news",
+      "Politics",
+      "Brexit",
+      "European Union",
+      "Andy Burnham",
+      "Foreign policy"
+     ],
+     "link": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+     "bron": "The Guardian",
+     "tijd": "15:42",
+     "sorteer": "2026-11-20T14:42:14+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -286,29 +304,6 @@
      "bron": "BBC",
      "tijd": "14:52",
      "sorteer": "2026-11-20T13:52:04+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Mahmood ‘smells a rat’ over housing provision for vulnerable people in Birmingham",
-     "context": "Warnings over exploitation risks come amid push for investigation into supported exempt accommodation sector The home secretary has launched an attack on providers of housing for vulnerable residents in her Birmingham constituency, saying she “smells a rat” after warnings over spiralling costs and risks of exploitation. A push for an independent investigation into the supported exempt accommodatio",
-     "rubrieken": [
-      "Housing",
-      "Birmingham",
-      "Shabana Mahmood",
-      "Social exclusion",
-      "Politics",
-      "Society",
-      "UK news",
-      "Social housing",
-      "Housing benefit",
-      "Local government",
-      "England"
-     ],
-     "link": "https://www.theguardian.com/society/2026/nov/20/ahabana-mahmood-housing-provision-vulnerable-people-birmingham-supported-exempt-accommodation",
-     "bron": "The Guardian",
-     "tijd": "14:43",
-     "sorteer": "2026-11-20T13:43:46+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -351,6 +346,15 @@
    "emoji": "🇳🇱",
    "items": [
     {
+     "titel": "Man uit Didam veroordeeld voor opsluiten, mishandelen en bedreigen deurwaarder",
+     "context": "Een 32-jarige man uit Didam is veroordeeld voor het opsluiten, mishandelen en bedreigen van een deurwaarder in zijn woning. De rechtbank in Zutphen heeft de man een gevangenisstraf van 2,5 jaar opgelegd, waarvan een jaar voorwaardelijk. Ook moet hij het slachtoffer ruim 1000 euro schadevergoeding betalen. Afgelopen zomer kwam de deurwaarder vanwege zijn werk bij de woning in het Gelderse dorp. De ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640295",
+     "bron": "NOS",
+     "tijd": "15:30",
+     "sorteer": "2026-11-20T15:30:33+01:00"
+    },
+    {
      "titel": "Podcast de Dag: Als jouw verdriet in het nieuws is",
      "context": "Als je dochter, zoon, vader, moeder, vriend of vriendin slachtoffer wordt van een misdrijf, dan is dat moeilijk genoeg. En als er dan ook nog veel media-aandacht ontstaat, dan kan dat door de familie als een enorme extra druk worden ervaren. Luister hier: Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abonneren. Pieter van Vliet",
      "rubrieken": [],
@@ -378,8 +382,8 @@
      "sorteer": "2026-11-20T11:00:41+01:00"
     },
     {
-     "titel": "In steeds minder gemeenten moeten inwoners zelf hun plasticafval scheiden",
-     "context": "Steeds meer gemeenten kiezen voor het nascheiden van plasticafval. Dat meldt het Centraal Bureau voor de Statistiek (CBS). Bij nascheiding hoeven mensen niet zelf thuis hun afval te scheiden. Het restafval gaat naar een installatie die dat voor hen doet. In bijna 60 procent van de gemeenten werd vorig jaar aan nascheiding van pmd (plastic verpakkingen, metalen verpakkingen en drankkartons) gedaan.",
+     "titel": "In steeds minder gemeenten moeten inwoners zelf hun afval scheiden",
+     "context": "Steeds meer gemeenten kiezen voor het nascheiden van afval. Dat meldt het Centraal Bureau voor de Statistiek (CBS). Bij nascheiding hoeven mensen niet zelf thuis hun afval te scheiden. Het restafval gaat naar een installatie die dat voor hen doet. In bijna 60 procent van de gemeenten werd vorig jaar aan nascheiding gedaan. In 2023 was dat nog een kwart van de gemeenten. Volgens het CBS kiezen geme",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640246",
      "bron": "NOS",
@@ -387,13 +391,13 @@
      "sorteer": "2026-11-20T09:17:50+01:00"
     },
     {
-     "titel": "Wekdienst 20/11: Strafzaak tegen Tata Steel begint • Laatste dag VN-klimaattop",
-     "context": "Goedemorgen! Vandaag begint de strafzaak tegen staalbedrijf Tata Steel, dat volgens het Openbaar Ministerie bewust de omgeving heeft vervuild met te veel schadelijke stoffen die mogelijk schadelijk zijn voor de gezondheid en in het Turkse Antalya is het officieel de laatste dag van de VN-klimaattop, al kan het uitlopen. Eerst het weer: Vandaag in het zuiden eerst nog regen, elders geregeld zon en ",
+     "titel": "Een helm op de e-bike? Ergens logisch, maar wennen wordt het wel",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640227",
-     "bron": "NOS",
-     "tijd": "06:45",
-     "sorteer": "2026-11-20T06:45:23+01:00"
+     "link": "https://www.volkskrant.nl/binnenland/een-helm-op-de-e-bike-ergens-logisch-maar-wennen-wordt-het-wel~b8094590/",
+     "bron": "de Volkskrant",
+     "tijd": "15:34",
+     "sorteer": "2026-11-20T14:34:20+00:00"
     },
     {
      "titel": "Politie onderzoekt appgroep met duizenden stiekem gemaakte foto’s van vrouwen",
@@ -405,15 +409,6 @@
      "sorteer": "2026-11-20T12:45:00+00:00"
     },
     {
-     "titel": "OM: Tata liet zonder vergunning honderden keren giftige stoffen vrijkomen",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/om-tata-liet-zonder-vergunning-honderden-keren-giftige-stoffen-vrijkomen~bcc1c740/",
-     "bron": "de Volkskrant",
-     "tijd": "13:43",
-     "sorteer": "2026-11-20T12:43:00+00:00"
-    },
-    {
      "titel": "1 december: Bezoek de terugblik op de klimaattop en de reis op batterijen naar Turkije",
      "context": "",
      "rubrieken": [],
@@ -423,32 +418,32 @@
      "sorteer": "2026-11-20T12:57:00+00:00"
     },
     {
-     "titel": "Ahmed Marcouch geen Amsterdamse politiechef: wat ging mis?",
-     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUVdXU1NSWFRELTYxeVJ4VkpoWXNrY08wU3dTRzZpNE95VHBPbFo3eDJGVC1scHFaM2gxQW1RRkZFS0dQSGNPbDdWUkFpM3M5aWFSa1U4d2V1eW91ZEtwc0piUmJjRGVGNUJIUzhnVjRLS0NTTnBRMlhBZkg0a29OaGwyNjhDeGpvX0xvcENzYTJwcGxVZXVWZUpTSURwWGpGeHJ2VGdIOHFkM0twWHJkRGNnbTltRWpCY180aEtrd1BRTmVoVUlVT05TcVNQeHVkZHVQSkRCNjhfUFhUR3loU1hyS1kya1pNbGtuc1B3WE8?oc=5",
+     "titel": "Stelling: Tata strafrechtelijk vervolgen voor luchtvervuiling",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwQndFOHY2cGcwUGhCQUxBYW5DMWRERnlacEhxbktJWlc0Q1pGVmxPR3ZtbUE4NXZEQThhQVJXLWQ0Zm1YZ3hoRDNZSXRBc0hYWXNhUFBQU3Y3TUxHVVhJTlAyNlBHNjU0NU1ScTZwcTJZdnNMUUFRRGNsaF9HVTdIS3JJSjhpMFZTZVBmLVZ6c1hhU3g1UUc1R2NmOUVxOFhfNnphOXZfbllyUEFFaA?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "14:58",
-     "sorteer": "2026-11-20T13:58:03+00:00"
+     "tijd": "15:49",
+     "sorteer": "2026-11-20T14:49:37+00:00"
     },
     {
      "titel": "OM hackte systemen Tata Steel in strafonderzoek milieuvervuiling, bedrijf verbijsterd: ’Heel ongebruikelijk’",
      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWjdTR2NQaU1Sdld2WU1Na1ZQd0t2WWkyN2tQZ3pxc01FdEtXR0pYLXlGU2taUVA4bnNDeEotXzlZZW5SQWl6M0Y0ejhQWlhYdkhPRHhsWl8xQVRhOTBTbXJ3cHdZY3B2My03THJ0Z2EyaXlXWWJQQmZCeDRULVJFUE9oOFFJSUJka1lkR05YTWZYRENROXBVRU1hVlNHUW1PUTJFVXZZNTVOT0dNT1hGd0NETWtXbkJKM1Rtd1dJSVExczBvYXFpMFpsTjlOeHdSQ0h2VnBXU1BDdE1tVGZ3Zk9yanF6VUwyV18w?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "14:56",
-     "sorteer": "2026-11-20T13:56:53+00:00"
+     "tijd": "15:07",
+     "sorteer": "2026-11-20T14:07:00+00:00"
+    },
+    {
+     "titel": "Nazisme bij Forum voor Democratie is geen incident meer, zien experts. ‘Symptoom van iets groters’",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQmNDanpIekhXRk0wSDJhc1paZktzRjlId21rcjFQU0I1SnBOWmp6a3FBZk9lLUVYRmRaNmR4YW1CNGJwZ09ZV1d3d0IxVHBsMEdzUkZDeHlQVHdLX0FkT1dhQ09mN21CeUhDR081WnlRdDEwUFRKcm1Uc3hTWUYwQUxUdXJXSEMtYTNqOElGY091eVdYSW5WSkZEVDhNRjRsZjRaRzUxN0kzTVBEQzBLanVXWV9zUzU0R18tX25fVnhxYnRuWWdqVms5bmEwY1k?oc=5",
+     "bron": "Trouw",
+     "tijd": "15:07",
+     "sorteer": "2026-11-20T14:07:00+00:00"
     },
     {
      "titel": "15 jaar cel en tbs voor Coen K.: rechtbank spreekt van ’gruwelijke, brute en beestachtige wijze’",
      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNakRnNmNoNmFNZlJIMXRqdk5JOW9zc1lWV2ZicDRvQmgzUGZfWXp3ODBhaWg2dFUtdWtISHVsOFB4QkZzZmp0SG5xT1lmMUQtcUc2Qm9kczI3ei1ZVy1Nd3hJSUF1RThIdENTVkFTWld5MzdaYU83YmdmSWVGeDJ6dGtwNE13NHI4YVNiY2xaYmxUbWphOUprT202X2xkTFl5eWpzazg0UXlJeXk2MkpQUXFraWtYSGd2dTh4SEd4NGNvZjcxd2R2Q01tdWhZWkdOUWVGd1Z3R0Z2eXM?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "14:56",
-     "sorteer": "2026-11-20T13:56:53+00:00"
-    },
-    {
-     "titel": "Aftrap ’grootste en meest unieke milieustrafzaak ooit’: ’Zaak van 600 miljoen tegen Tata Steel’",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd3lJUmhqVnlYTFQ4YzdvVVpEeDdhci1URHYyLWdCVVZMcDQ4TG15aW56a0Y1a3g2UnJNU3ZBVFBSdDhBZDg1elpZaEQ4RERtZmZ2eDI3NjNjVm9XMnJEYkN0UzNUbTVEU0RCSzktUksxR2htZFlDS3ZlYTBsNm5wU2NZVEhBX01heFcwREJaWTlLa1hRbkNhWnN4ZndFY2xUTndNZ0RFV19GNDM5cFBjWVNQZG9MNXFlTTRkR2g4Njhhbk5iNllpeWlrZDB0SmFhd0hfRjJLUjg?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "14:55",
-     "sorteer": "2026-11-20T13:55:59+00:00"
+     "tijd": "15:06",
+     "sorteer": "2026-11-20T14:06:26+00:00"
     },
     {
      "titel": "De zaak-Pelicot legt bloot hoe gewone mannen nog altijd over heteroseks denken – en dat is doodeng",
@@ -470,6 +465,16 @@
      "bron": "De Correspondent · Maaike Goslinga",
      "tijd": "05:45",
      "sorteer": "2026-11-20T04:45:04+00:00"
+    },
+    {
+     "titel": "Nieuwsuur: • Britten zoeken toenadering EU • Kooigevechten en Hitler-verering door neonazi's • Jongeren kennen geen politieke stabiliteit",
+     "context": "Britse premier wil nauwere band met de EU In Brussel is er vandaag een topontmoeting tussen de Britse premier Andy Burnham en EU-leiders. Hij wil de banden tien jaar na Brexit weer aanhalen nadat de Britten tien jaar geleden uit de EU stapten. Volgens Burnham was de Brexit een vergissing. De totale schade die de Britse economie heeft opgelopen door uit de EU te treden ligt naar schatting tussen de",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640300",
+     "bron": "NPO2 · 22:00",
+     "tijd": "22:00",
+     "sorteer": "2026-11-20T22:00:00",
+     "kop": "Vanavond op tv"
     }
    ]
   },
@@ -665,6 +670,15 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Risico's en regulering van onbemenste systemen en AI",
+     "bron": "Brief van de regering",
+     "kop": "Uit de Tweede Kamer",
+     "tijd": "15-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51606",
+     "sorteer": "2026-11-19T11:09:41.61+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
      "titel": "Antwoord op vragen van de leden El Boujdaini en Zwinkels AI-modellen die buiten hun testomgeving inbreken bij organisaties",
      "bron": "Antwoord op Kamervragen",
      "kop": "Uit de Tweede Kamer",
@@ -672,6 +686,13 @@
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D48528",
      "sorteer": "2026-11-18T14:19:40.337+01:00",
      "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Ubisoft start bedrijf voor 'AI-gameplayinnovatie' en ontslaat 166 ontwikkelaars",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX282VDVtcFlpTF9SdWpNaFlHWVI4NktsemdVT1hIa1hKSDJJUFJROEVENW5raTZlbDYxcURJZXIzblpVTS11eVh6YzlTZ2RlZmlKc0dpRlhuYjdSZ1czbGRGNnFoNm1kOXJtTldzRTJ6MjM5R2JZOFpqVHdNUFFfaGZLalRMS05CSTJHcGZhWmNWeDAxM3l3OTNteGNpTWZBcFI4UGhidWNzV2xpcnNlSTZOWFI4aG81?oc=5",
+     "bron": "Tweakers",
+     "tijd": "15:49",
+     "sorteer": "2026-11-20T14:49:00+00:00"
     },
     {
      "titel": "Canva laat je AI-functies uitzetten en minder AI-sjablonen zien",
@@ -791,12 +812,12 @@
      "sorteer": "2026-11-19T17:21:41.773+01:00"
     },
     {
-     "titel": "Antwoord op vragen van het lid Patijn over racisme bij Uitvoeringsinstituut Werknemersverzekeringen (UWV)",
+     "titel": "Antwoord op vragen van het lid Boomsma over de toets die de IND uitvoert op de politieke en maatschappelijke activiteiten van…",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
-     "tijd": "19-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D59471",
-     "sorteer": "2026-11-19T20:17:19.46+01:00"
+     "tijd": "20-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D59776",
+     "sorteer": "2026-11-20T14:57:45.143+01:00"
     },
     {
      "titel": "Verzamelbrief strafrechtelijke onderwerpen",
@@ -894,7 +915,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "15:00",
+    "bijgewerkt": "16:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1293,42 +1314,42 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 103 soorten, 44.347 vogels geteld",
+     "titel": "Landelijk vandaag: 121 soorten, 47.219 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261120?language=dutch"
     },
     {
-     "titel": "Spreeuw — 29.497",
+     "titel": "Spreeuw — 29.930",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261120?language=dutch"
     },
     {
-     "titel": "Brandgans — 4.555",
+     "titel": "Brandgans — 4.690",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261120?language=dutch"
     },
     {
-     "titel": "Kokmeeuw — 1.814",
+     "titel": "Kokmeeuw — 1.957",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261120?language=dutch"
     },
     {
-     "titel": "Kolgans — 1.057",
+     "titel": "Kolgans — 1.520",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261120?language=dutch"
     },
     {
-     "titel": "Koperwiek — 904",
+     "titel": "Zwarte Zee-eend — 1.151",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -1336,16 +1357,16 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Brandgans springt eruit — 4.555, normaal 25",
-     "bron": "182× het gewone niveau",
+     "titel": "Brandgans springt eruit — 4.690, normaal 25",
+     "bron": "188× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261120?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Koperwiek springt eruit — 904, normaal 9",
-     "bron": "100× het gewone niveau",
+     "titel": "Koperwiek springt eruit — 969, normaal 9",
+     "bron": "108× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261120?language=dutch",
      "sein": true
@@ -1360,8 +1381,8 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Smient springt eruit — 523, normaal 26",
-     "bron": "20× het gewone niveau",
+     "titel": "Smient springt eruit — 632, normaal 26",
+     "bron": "24× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261120?language=dutch",
      "sein": true
@@ -1402,22 +1423,22 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 6.9,
-    "gevoel": 5.8,
+    "nu": 6.4,
+    "gevoel": 5.3,
     "wind": "NNW 2",
     "station": "Heino",
     "bericht": "In het zuiden wordt het langzaam droog. In het noorden verschijnt een enkele bui. De komende dagen wordt het geleidelijk steeds iets kouder, met de komende dagen nog soms een bui.Vanmiddag beperkt de regenval zich steeds meer tot enkel het zuidoosten.",
     "vandaag": "Vanmiddag beperkt de regenval zich steeds meer tot enkel het zuidoosten. Vanavond is het als laatste ook in Zuid-Limburg droog geworden.",
     "temperatuur": "Het wordt 6 graden in het noorden tot 9 graden in het zuiden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: lichte motregen, 2 tot 8 graden, 62% kans op neerslag, ruim 7 uur zon, wind uit het noorden, kracht 2.",
-     "max": 8,
+     "zin": "Voor Dalfsen zelf: bewolkt, 2 tot 7 graden, 62% kans op neerslag, ruim 7 uur zon, wind uit het noorden, kracht 2.",
+     "max": 7,
      "min": 2,
      "regenkans": 62,
-     "omschrijving": "lichte motregen",
+     "omschrijving": "bewolkt",
      "morgen": {
-      "max": 8,
-      "min": 3,
+      "max": 9,
+      "min": 2,
       "regenkans": 67,
       "omschrijving": "motregen"
      }
