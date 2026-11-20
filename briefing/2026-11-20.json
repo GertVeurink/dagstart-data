@@ -3,13 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "08:00",
+  "opgehaald": "09:00",
   "blokken": 11,
-  "berichten": 103,
+  "berichten": 101,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-20T08:00+01:00",
+ "opgehaald": "2026-11-20T09:00+01:00",
  "audio": "audio/20261120.mp3",
  "afval": [
   {
@@ -194,6 +194,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Grootschalige Russische raket- en droneaanval op Oekraïne, minstens drie doden",
+     "context": "In de Oekraïense hoofdstad Kyiv zijn bruggen en belangrijke infrastructuur op het gebied van warmte- en watervoorzieningen geraakt door Russische aanvallen. Er zijn drie doden gevallen, melden lokale autoriteiten. Ook raakten ongeveer vijftien andere burgers gewond. De drie doden zijn medewerkers van het waterbedrijf van Kyiv. Afgelopen nacht ging op meerdere plekken in het land het luchtalarm af.",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640241",
+     "bron": "NOS",
+     "tijd": "08:38",
+     "sorteer": "2026-11-20T08:38:50+01:00"
+    },
+    {
      "titel": "Duitse douane vindt kilo's drugs in airfryer en koelbox",
      "context": "Dat een airfryer niet alleen geschikt is voor snacks en friet, is al langer bekend. Maar de Duitse douane deed eerder deze maand wel een heel bijzondere vondst in een airfryer: kilo's drugs. Op 8 november hielden douanemedewerkers rond 23.00 uur een auto met Nederlands kenteken staande ten oosten van Leipzig. In de auto van de Bulgaarse bestuurder vond de douane 6,6 kilo methamfetamine en 5,5 kilo",
      "rubrieken": [],
@@ -230,13 +239,13 @@
      "sorteer": "2026-11-20T04:28:52+01:00"
     },
     {
-     "titel": "Uitgever stopt verkoop biografie oudste Deen ooit na onthullingen over naziverleden",
-     "context": "De oudste vrouw van Denemarken is in opspraak geraakt vanwege onthullingen over haar verleden bij de Deense nazipartij. Een biografie over haar leven wordt om die reden niet langer verkocht. De 112-jarige Kirsten Schwalbe is de oudste Deen ooit en groeide uit tot een mediapersoonlijkheid. Vorige maand kwam aan het licht dat ze tijdens de Duitse bezetting lid was van de Deense nazipartij. Deze week",
+     "titel": "Amerikaanse Senaat stemt tegen beëindiging oorlog in Iran",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640218",
-     "bron": "NOS",
-     "tijd": "02:08",
-     "sorteer": "2026-11-20T02:08:42+01:00"
+     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
+     "bron": "de Volkskrant",
+     "tijd": "08:34",
+     "sorteer": "2026-11-20T07:34:00+00:00"
     },
     {
      "titel": "Drie doden bij Russische raketaanvallen op Kyiv, drie bruggen geraakt",
@@ -248,15 +257,6 @@
      "sorteer": "2026-11-20T05:34:00+00:00"
     },
     {
-     "titel": "Er zijn ook genoeg vriendelijke Berlijners, maar...",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/er-zijn-ook-genoeg-vriendelijke-berlijners-maar~b5b8c66c/",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-11-20T04:00:29+00:00"
-    },
-    {
      "titel": "Voornaamste adviseur Trump over cyberveiligheid vertrekt na reeks incidenten",
      "context": "",
      "rubrieken": [],
@@ -266,22 +266,39 @@
      "sorteer": "2026-11-20T01:35:00+00:00"
     },
     {
-     "titel": "Academy trust pays out after Prevent threat over children’s Palestine badges",
-     "context": "Lion Academy Trust apologises after threatening four pupils in east London with referral to counter-extremism scheme An academy trust will pay out tens of thousands in compensation to four children who were told they could be referred to Prevent for wearing Palestine flag badges to school. The school, part of Lion Academy Trust, has issued a formal apology after it sent letters to the children’s p",
+     "titel": "UK government borrowing rises less than forecast in surprise boost for chancellor John Healey",
+     "context": "UK economy defies City predictions and Iran war fallout, with gap between spending and income about £1bn lower than expected in October, at £17bn The UK government borrowed less than expected in October despite a rise in debt interest costs, in a boost for chancellor John Healey amid the pressure on Britain’s economy from the Middle East war. The Office for National Statistics (ONS) said public se",
      "rubrieken": [
-      "Prevent strategy",
-      "Academies",
-      "Primary schools",
-      "Schools",
-      "Education",
-      "London",
-      "England",
-      "UK news"
+      "Government borrowing",
+      "Bonds",
+      "Business",
+      "Economics",
+      "John Healey",
+      "Office for National Statistics",
+      "Budget",
+      "Budget deficit",
+      "Tax and spending",
+      "Politics",
+      "UK news",
+      "Public finance",
+      "Society",
+      "Economic policy"
      ],
-     "link": "https://www.theguardian.com/uk-news/2026/nov/20/lion-academy-trust-children-palestine-badges-prevent-london",
+     "link": "https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey",
      "bron": "The Guardian",
-     "tijd": "07:00",
-     "sorteer": "2026-11-20T06:00:23+00:00",
+     "tijd": "08:25",
+     "sorteer": "2026-11-20T07:25:31+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "UK and EU to agree youth mobility scheme, BBC understands",
+     "context": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "08:14",
+     "sorteer": "2026-11-20T07:14:46+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -314,17 +331,6 @@
      "bron": "BBC",
      "tijd": "06:03",
      "sorteer": "2026-11-20T05:03:43+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "UK and EU to agree youth mobility scheme, BBC understands",
-     "context": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "05:35",
-     "sorteer": "2026-11-20T04:35:51+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -414,35 +420,35 @@
      "sorteer": "2026-11-20T04:00:32+00:00"
     },
     {
-     "titel": "Deze advocaten procederen tegen techreuzen: ‘Als ik denk aan de Metabril word ik best kwaad’",
+     "titel": "Strakkere alcoholcontrole voor hardnekkige drinkebroers in het verkeer",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/deze-advocaten-procederen-tegen-techreuzen-als-ik-denk-aan-de-metabril-word-ik-best-kwaad~bae47818/",
+     "link": "https://www.trouw.nl/binnenland/strakkere-alcoholcontrole-voor-hardnekkige-drinkebroers-in-het-verkeer~b1741fcb/",
      "bron": "Trouw",
      "tijd": "22:00",
-     "sorteer": "2026-11-19T21:00:27+00:00",
+     "sorteer": "2026-11-19T21:00:24+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Aftrap ’grootste en meest unieke milieustrafzaak ooit’: ’Zaak van 600 miljoen tegen Tata Steel’",
      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd3lJUmhqVnlYTFQ4YzdvVVpEeDdhci1URHYyLWdCVVZMcDQ4TG15aW56a0Y1a3g2UnJNU3ZBVFBSdDhBZDg1elpZaEQ4RERtZmZ2eDI3NjNjVm9XMnJEYkN0UzNUbTVEU0RCSzktUksxR2htZFlDS3ZlYTBsNm5wU2NZVEhBX01heFcwREJaWTlLa1hRbkNhWnN4ZndFY2xUTndNZ0RFV19GNDM5cFBjWVNQZG9MNXFlTTRkR2g4Njhhbk5iNllpeWlrZDB0SmFhd0hfRjJLUjg?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "07:24",
-     "sorteer": "2026-11-20T06:24:52+00:00"
+     "tijd": "08:20",
+     "sorteer": "2026-11-20T07:20:00+00:00"
     },
     {
      "titel": "Strafzaak tegen Tata Steel om 'opzettelijke luchtvervuiling' van start",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUWExMnZadW1aaWF5a2RCeGRtUHRzRnloQmtCZ2tFeUdXWWlFZVhFOHBYa3RxS1NUbGFRMFZLc0V6RlpydGsya2RoQW9sWG0wV3FkQTNHX2FQZnZORXdEcnRsd1hSNXdQaTNxdHNlUDNfZTg1V0ZFZloxcjdKN0lpZ3Yta0VjUWFJZ25kN1BXQmtaRHRnZzJkTlZiWlFfUms?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTHJLRE9SZ21KUDEtYnBqdUs3eUNnNl8waUFseWFHS3dMQVRTWnNTcEVrRmVWNHZ6SGZqblZKbEpUMXUtSXhJaDlWbko0VlVCNjhIbUFSakdGQndBTnlFUjNPbnY5TEJ6V0JTTnpjWXZLMWE0bHpsX0VxVXBQWUxFelZsandqaXRPWndoOFFuVzExWDRsQVhHNEdJWFdDcjNi?oc=5",
      "bron": "NOS",
      "tijd": "05:36",
      "sorteer": "2026-11-20T04:36:50+00:00"
     },
     {
-     "titel": "Met twee lichtbundels de lucht in begint de bouw van Sierlijke Dames",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWWJ4WkJrWGVhbGFJVHNPQzJnZGVjbk5VUU1FR3pmYXhTQWtHcS0yTGpvMEhwRHNZV2pPdi1IdnVIR2VLZXJRNk05Vmtrc0FxUGQ5Q1A0WmRwQW9HZHE5SFpqMWhNUHlfWlB1NjUtVHNydVp3R1lyblJtejR2ZEY2S0FlTDQzbmVGRzh1eUcwZEhhYnItQlpLTjVZRERqVkNiNlhnMTF0WnlwUQ?oc=5",
-     "bron": "Brabants Dagblad",
-     "tijd": "07:30",
-     "sorteer": "2026-11-20T06:30:00+00:00"
+     "titel": "’Iceman’ Wim Hof wordt op zijn 67e opnieuw vader: ’Ik houd van het leven’",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZmZVcWUzLTYzV04tU1N0bjNOMVpSZ2FUWUp5ZVN1SGZjLTJrS2QtdFJac2Vzb2I3U2FxNWJMZmlrWjRnQTA0cGNsenNzcEo1NXZtekIzS2dBUWw5dHNYNWltWkF5U09Bc29heV9tVlhoRU5NNTR6dzJVZEFvYmtnLUNaYlMzVFJsTUQ2UHhjblkwbVBLb283X1pUcVh5bEt5VVVMR1lJYl9NSm92UmtLTHlUQWw?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "04:30",
+     "sorteer": "2026-11-20T03:30:00+00:00"
     },
     {
      "titel": "Met hun woede maken jonge demonstranten plaats voor een nieuwe wereld",
@@ -466,14 +472,6 @@
      "sorteer": "2026-11-20T04:45:03+00:00"
     },
     {
-     "titel": "Belastingplan bevat ook een domper voor de winkelstraat: ‘personeelskorting’ verdwijnt",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTEhRRlhFZC1tdUFFZHNNd3FIOVB5Ul9CZWJ6el94ZHBFbmJpLTlQWXdMckVjeTVIMFBhN0IxUjlmaVM1a3lUbmxrd19sZy13clhQNlh0d2NTQ1Q0cWpja1BlMng1M2FUM3BlLW81WWN5SUxIeGpkZFhwOFVXQm1HMGZiSE5TdVM2SlpFY2xzMG95cU9TNXV2UWpaM3ZOU04wOFZEakdVX0xlRkJ3MWJINUVRWmdFRTVuWnRwRm1yRkI3MmNETWpR?oc=5",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-11-20T04:00:30+00:00",
-     "kop": "Begroting"
-    },
-    {
      "titel": "Nieuwsuur: 'Nederlandse wapenfabrikant schoot zelf drones af in Oekraïne' • Booming: drone-industrie in Nederland • Uitbuiting buitenlandse draagmoeders",
      "context": "'Nederlandse wapenfabrikant schoot zelf drones af in Oekraïne' Werknemers van de Nederlandse wapenfabrikant Destinus, die deze week een rol opeiste bij de Oekraïense aanval op de Krimbrug, hebben zelf in Oekraïne op Russische drones gejaagd. Ook hielpen ze het Oekraïense leger bij het afschieten van aanvalsdrones op Rusland, zelfs drie jaar geleden al. Dat meldt NRC na maandenlang onderzoek en ges",
      "rubrieken": [],
@@ -491,6 +489,15 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Celstraffen geëist voor grootschalig drugslab in Kallenkote",
+     "context": "Een verwarde man brengt de politie in februari dit jaar op het spoor van een drugslab in Kallenkote, niet ver van Steenwijk. In het lab worden twee personen aangetroffen, onder wie de eigenaar van het terrein. Tegen drie verdachten zijn celstraffen tot vijf jaar geëist.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3721426/celstraffen-geeist-voor-grootschalig-drugslab-in-kallenkote",
+     "bron": "RTV Oost",
+     "tijd": "08:01",
+     "sorteer": "2026-11-20T07:01:44+00:00"
+    },
     {
      "titel": "Hengeloërs over rol Destinus: 'Waarom moet je daar zo mee te koop lopen?'",
      "context": "Trots op de Nederlandse bijdrage aan Oekraïne, maar ook zorgen over de gevolgen voor Hengelo. De betrokkenheid van wapenfabrikant Destinus bij de oorlog roept gemengde reacties op. Vooral werknemers van omliggende bedrijven vragen zich af waarom Destinus daar zo openlijk over communiceert.",
@@ -539,18 +546,6 @@
      "bron": "RTV Oost",
      "tijd": "20:04",
      "sorteer": "2026-11-19T19:04:44+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Personen in overalls gooien stenen naar het huis van Syrisch gezin in Geesteren",
-     "context": "De politie toont voor het eerst camerabeelden waarop de verdachten te zien zijn van de vernielingen en bedreigingen bij de woning van een Syrisch statushoudersgezin in Geesteren. In maart en april werden bij het gezin drie keer ruiten ingegooid. In juli brandde ook hun auto uit.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3717720/personen-in-overalls-gooien-stenen-naar-het-huis-van-syrisch-gezin-in-geesteren",
-     "bron": "RTV Oost",
-     "tijd": "19:01",
-     "sorteer": "2026-11-19T18:01:00+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -705,6 +700,13 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Marktplaats voor inloggegevens op dark web verkoopt data Nederlanders met behulp van AI",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON3MtVXpPOVRneS1SNG5HaVJUX3JWcEcySHJOSVZpSjlQSTRTVlZjUzQwX3RKNjlDMF9TUTY1SFZHVlk3M0Nvd0M5Q2VfRGY1ZnJVUkpNYm92S011SkFjTVVnMkhrQVNmckh6SUdoLWJQZlIyejdJaXpJUW1JWVpITkoxWW1DVkdKM1hUdnY0aXRlYjBHSzdNT0k3UmdoVlR5cGlheldZR09wdnhwdHpDX3N6b3R5QkpCSzNnclYyTkNzNDJ2cG51VnhEV1hJUlhENXBz?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "07:01",
+     "sorteer": "2026-11-20T06:01:46+00:00"
+    },
+    {
      "titel": "Trump: China en VS streven naar gematigde AI-regels",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR1M0bzZsTWlKbVVHdkNTY2FoUmdyYndJT0REWDUzaGFwYm5MQWo3QXZkMWtmY0d5cGVBNTB6SHZWYnNORlplQmZYbkZtZ1ZVZVNiT1A4NUhMX3NNbHFpdFh5eTZNb19mZ1VDTlFUd19pblpmXzBLTUNpbjE1VnBRWkwzanlnQzFqMEJjYjRHWHdBajczbVJaMkJkV3FZcEsyb2c?oc=5",
      "bron": "bnr.nl",
@@ -712,11 +714,11 @@
      "sorteer": "2026-11-20T04:15:04+00:00"
     },
     {
-     "titel": "Marktplaats voor inloggegevens op dark web verkoopt data Nederlanders met behulp van AI",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON3MtVXpPOVRneS1SNG5HaVJUX3JWcEcySHJOSVZpSjlQSTRTVlZjUzQwX3RKNjlDMF9TUTY1SFZHVlk3M0Nvd0M5Q2VfRGY1ZnJVUkpNYm92S011SkFjTVVnMkhrQVNmckh6SUdoLWJQZlIyejdJaXpJUW1JWVpITkoxWW1DVkdKM1hUdnY0aXRlYjBHSzdNT0k3UmdoVlR5cGlheldZR09wdnhwdHpDX3N6b3R5QkpCSzNnclYyTkNzNDJ2cG51VnhEV1hJUlhENXBz?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "07:01",
-     "sorteer": "2026-11-20T06:01:00+00:00"
+     "titel": "ABN: Hoge loonkosten dwingen ondernemers tot AI-gebruik",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbVpISUNqUk42dk52eFl0RVBZZXdvWHRuNWg2Wm5LeUtCNHc4RlRxOGR4NkpLSnR2Qm9LcG1jRmd2STE5RXltTzJhWU5OUDAwOE9KSjF6NzZwN2JJU1RZc1FjTGo5SXBmS0djYW5PbjdMN05DRXY1MHJNV0pfQy15OFZ5cThFeTVucmc?oc=5",
+     "bron": "Emerce",
+     "tijd": "08:45",
+     "sorteer": "2026-11-20T07:45:00+00:00"
     }
    ]
   },
@@ -805,28 +807,28 @@
      "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05412"
     },
     {
+     "titel": "De wapendeal van het Nederlandse defensiebedrijf AIA met Israel Weapon Industries (IWI)",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "11-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D57407",
+     "sorteer": "2026-11-20T08:27:00.147+01:00"
+    },
+    {
+     "titel": "De kosten van het ‘vliegende team’ voor asielopvang",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "11-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D57406",
+     "sorteer": "2026-11-20T08:16:14.227+01:00"
+    },
+    {
      "titel": "Racisme bij Uitvoeringsinstituut Werknemersverzekeringen (UWV)",
      "bron": "Kamervraag",
      "kop": "Kamervragen",
      "tijd": "15-10",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51568",
      "sorteer": "2026-11-19T17:21:41.773+01:00"
-    },
-    {
-     "titel": "De berichtgeving over discriminatie bij de afdeling Handhaving van UWV",
-     "bron": "Kamervraag",
-     "kop": "Kamervragen",
-     "tijd": "08-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49721",
-     "sorteer": "2026-11-19T17:19:21.227+01:00"
-    },
-    {
-     "titel": "Het bericht ‘Discriminatie en racisme binnen afdeling handhaving bij UWV'",
-     "bron": "Kamervraag",
-     "kop": "Kamervragen",
-     "tijd": "07-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49299",
-     "sorteer": "2026-11-19T17:18:40.997+01:00"
     },
     {
      "titel": "Antwoord op vragen van het lid Patijn over racisme bij Uitvoeringsinstituut Werknemersverzekeringen (UWV)",
@@ -932,7 +934,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "08:00",
+    "bijgewerkt": "09:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1314,76 +1316,59 @@
      "sorteer": "2026-11-19T09:22:00+01:00"
     },
     {
-     "titel": "Rotszwaluw",
-     "kop": "Zeldzaamheden",
-     "bron": "Noord-Holland",
-     "tijd": "08:41",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-19T08:41:00+01:00"
-    },
-    {
-     "titel": "Witbandkruisbek",
-     "kop": "Zeldzaamheden",
-     "bron": "Drenthe",
-     "tijd": "08:21",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-19T08:21:00+01:00"
-    },
-    {
      "titel": "Dalfsen (nacht)",
      "kop": "Vogeltrek",
-     "bron": "19-11",
-     "wanneer": "de nacht van woensdag op donderdag",
-     "tijd": "20:00–07:25",
-     "link": "https://trektellen.org/count/view/2364/20261119",
+     "bron": "20-11",
+     "wanneer": "vannacht",
+     "tijd": "17:15–02:00",
+     "link": "https://trektellen.org/count/view/2364/20261120",
      "soorten": [
-      "Koperwiek 10",
-      "Goudplevier 1",
-      "Zanglijster 1"
+      "Koperwiek 66",
+      "Zanglijster 3",
+      "Waterhoen 2",
+      "Brandgans 1"
      ],
-     "aantal_soorten": 3,
-     "opmerkingen": [
-      "Goudplevier Golden Plover"
-     ],
+     "aantal_soorten": 11,
+     "opmerkingen": [],
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 74 soorten, 6.189 vogels geteld",
+     "titel": "Landelijk vandaag: 28 soorten, 2.940 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261120?language=dutch"
     },
     {
-     "titel": "Kolgans — 2.225",
+     "titel": "Spreeuw — 1.816",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261120?language=dutch"
     },
     {
-     "titel": "Spreeuw — 1.871",
+     "titel": "Kolgans — 338",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261120?language=dutch"
     },
     {
-     "titel": "Jan-van-gent — 376",
+     "titel": "Pijlstaart — 301",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261120?language=dutch"
     },
     {
-     "titel": "Stormmeeuw — 200",
+     "titel": "Brandgans — 150",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261120?language=dutch"
     },
     {
-     "titel": "Drieteenmeeuw — 117",
+     "titel": "Smient — 81",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -1391,23 +1376,23 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Koperwiek springt eruit — 96, normaal 9",
-     "bron": "11× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261120?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Drieteenstrandloper springt eruit — 81, normaal 9",
-     "bron": "9× het gewone niveau",
+     "titel": "Koperwiek springt eruit — 70, normaal 9",
+     "bron": "8× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261120?language=dutch",
      "sein": false
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Houtduif springt eruit — 83, normaal 22",
+     "titel": "Brandgans springt eruit — 150, normaal 25",
+     "bron": "6× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261120?language=dutch",
+     "sein": false
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Pijlstaart springt eruit — 301, normaal 70",
      "bron": "4× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261120?language=dutch",
@@ -1415,19 +1400,19 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Drieteenmeeuw springt eruit — 117, normaal 32",
-     "bron": "4× het gewone niveau",
+     "titel": "Smient springt eruit — 81, normaal 26",
+     "bron": "3× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261120?language=dutch",
      "sein": false
     },
     {
      "kop": "Pestvogels",
-     "titel": "Goed pestvogeljaar — op 57 plekken in de afgelopen week",
+     "titel": "Goed pestvogeljaar — op 58 plekken in de afgelopen week, waarvan 1 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 165 vogels; 89 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 166 vogels; 90 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1457,24 +1442,24 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 3.6,
-    "gevoel": 3.6,
+    "nu": 3.7,
+    "gevoel": 2.6,
     "wind": "NO 1",
     "station": "Heino",
     "bericht": "In vergelijking met voorgaande dagen ziet het weer er vandaag vooral in het noorden beter uit. Valt in het zuiden nog regen, het noorden ziet de zon geregeld en in de middag komt daar een enkele bui voor.Vanochtend is het vooral in het zuiden nog bewolkt met af en toe regen. In het midden wordt het al vrij snel droog.",
     "vandaag": "In vergelijking met voorgaande dagen ziet het weer er vandaag vooral in het noorden beter uit. Vanochtend is het vooral in het zuiden nog bewolkt met af en toe regen.",
     "temperatuur": "De wind is zwak tot matig, in het midden en zuiden noordoostelijk, in het noorden veranderlijk en de temperaturen liggen aan het einde van de ochtend tussen 5 en 9 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: bewolkt, 3 tot 8 graden, 60% kans op neerslag, ruim 7 uur zon, wind uit het noorden, kracht 2.",
-     "max": 8,
-     "min": 3,
+     "zin": "Voor Dalfsen zelf: lichte motregen, 2 tot 7 graden, 60% kans op neerslag, ruim 7 uur zon, wind uit het noorden, kracht 2.",
+     "max": 7,
+     "min": 2,
      "regenkans": 60,
-     "omschrijving": "bewolkt",
+     "omschrijving": "lichte motregen",
      "morgen": {
-      "max": 9,
-      "min": 2,
+      "max": 8,
+      "min": 1,
       "regenkans": 59,
-      "omschrijving": "lichte motregen"
+      "omschrijving": "lichte regen"
      }
     },
     "vooruit": "Vrij koud, meest droog en perioden met zon. 's Nachts en in de ochtend lichte vorst en kans op mist. Vanaf woensdag wordt het misschien weer wisselvalliger.",
