@@ -3,13 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "10:00",
+  "opgehaald": "11:00",
   "blokken": 11,
-  "berichten": 99,
+  "berichten": 102,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-20T10:00+01:00",
+ "opgehaald": "2026-11-20T11:00+01:00",
  "audio": "audio/20261120.mp3",
  "afval": [
   {
@@ -194,8 +194,8 @@
    "emoji": "🌍",
    "items": [
     {
-     "titel": "Grootschalige Russische raket- en droneaanval op Oekraïne, minstens drie doden",
-     "context": "In de Oekraïense hoofdstad Kyiv zijn bruggen en belangrijke infrastructuur op het gebied van warmte- en watervoorzieningen geraakt door Russische aanvallen. Er zijn drie doden gevallen, melden lokale autoriteiten. Ook raakten ongeveer vijftien andere burgers gewond. De drie doden zijn medewerkers van het waterbedrijf van Kyiv. Afgelopen nacht ging op meerdere plekken in het land het luchtalarm af.",
+     "titel": "Grootschalige Russische raket- en droneaanval op Oekraïne, minstens acht doden",
+     "context": "In de Oekraïense hoofdstad Kyiv zijn bruggen en belangrijke infrastructuur op het gebied van warmte- en watervoorzieningen geraakt door Russische aanvallen. In Kyiv zijn zes doden gevallen en vijftien gewonden gevallen. Ook buiten Kyiv vielen er slachtoffers door Russische aanvallen. De Oekraïense premier Koretsky meldt op X dat er in heel Oekraïne acht doden en 28 gewonden zijn gemeld. Afgelopen ",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640241",
      "bron": "NOS",
@@ -239,6 +239,15 @@
      "sorteer": "2026-11-20T04:28:52+01:00"
     },
     {
+     "titel": "Poolse leger onderzoekt onbekende brokstukken en mogelijke schending luchtruim",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/poolse-leger-onderzoekt-onbekende-brokstukken-en-mogelijke-schending-luchtruim~b11373d3a/",
+     "bron": "de Volkskrant",
+     "tijd": "10:36",
+     "sorteer": "2026-11-20T09:36:00+00:00"
+    },
+    {
      "titel": "Rusland treft drie grote bruggen in Kyiv na succesvolle Oekraïense aanval op Krimbrug",
      "context": "",
      "rubrieken": [],
@@ -246,15 +255,6 @@
      "bron": "de Volkskrant",
      "tijd": "09:28",
      "sorteer": "2026-11-20T08:28:00+00:00"
-    },
-    {
-     "titel": "Amerikaanse Senaat stemt tegen beëindiging oorlog in Iran",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
-     "bron": "de Volkskrant",
-     "tijd": "08:34",
-     "sorteer": "2026-11-20T07:34:00+00:00"
     },
     {
      "titel": "Voornaamste adviseur Trump over cyberveiligheid vertrekt na reeks incidenten",
@@ -266,26 +266,8 @@
      "sorteer": "2026-11-20T01:35:00+00:00"
     },
     {
-     "titel": "Grand Theft Auto: An American Icon, Born in Scotland",
-     "context": "The game franchise is a cultural juggernaut, played around the world as a violent, immersive ride through American cities. But the series originated in Scotland from a pop culture collage.",
-     "rubrieken": [
-      "Computer and Video Games",
-      "Great Britain",
-      "Scotland",
-      "Grand Theft Auto VI (Video Game)",
-      "Rockstar Games",
-      "United States"
-     ],
-     "link": "https://www.nytimes.com/2026/11/18/world/europe/grand-theft-auto-america-scotland-global-reaction.html",
-     "bron": "New York Times",
-     "tijd": "09:53",
-     "sorteer": "2026-11-20T08:53:25+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Andy Burnham in Brussels as UK and EU close in on Brexit reset deal – live",
-     "context": "UK and EU have provisionally agreed to allow 100,000 EU citizens to come to the UK every year under a new mobility scheme. We are getting some lines from that meeting with business leaders in Brussels. “ It just makes sense to get closer, ” PM Burnham told the meeting, hailing today’s summit as “a big day and, hopefully, a positive day.” Continue reading...",
+     "titel": "EU says Brexit reset deal with UK will not come into force without agreement on tuition fees – live",
+     "context": "EU aims for leverage over UK by making the deals agreed today contingent on future agreement on tuition fees Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise the leverage London gets in the next six months, EU sources have said. Senior diplomats had already confirmed this week that the EU would d",
      "rubrieken": [
       "Europe",
       "UK news",
@@ -297,8 +279,44 @@
      ],
      "link": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
      "bron": "The Guardian",
-     "tijd": "09:50",
-     "sorteer": "2026-11-20T08:50:18+00:00",
+     "tijd": "10:50",
+     "sorteer": "2026-11-20T09:50:17+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Emmanuel Macron hosts Kamala Harris at Elysée",
+     "context": "The French leader is hosting the former vice president in a \"private capacity,\" the Elysée said.",
+     "rubrieken": [
+      "Elections",
+      "Macron",
+      "War in Ukraine",
+      "Politics"
+     ],
+     "link": "https://www.politico.eu/article/emmanuel-macron-hosts-kamala-harris-for-dinner/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "10:46",
+     "sorteer": "2026-11-20T09:46:45+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "A Summit Gives Putin the Win He Craves: Equal Stature With Superpowers",
+     "context": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.",
+     "rubrieken": [
+      "International Relations",
+      "Russian Invasion of Ukraine (2022)",
+      "United States Politics and Government",
+      "United States International Relations",
+      "Putin, Vladimir V",
+      "Trump, Donald J",
+      "Xi Jinping",
+      "Shenzhen (China)"
+     ],
+     "link": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
+     "bron": "New York Times",
+     "tijd": "10:34",
+     "sorteer": "2026-11-20T09:34:04+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -308,26 +326,8 @@
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "09:40",
-     "sorteer": "2026-11-20T08:40:45+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Russia hits 3 Kyiv bridges in major attack, while Poland reports airspace violation",
-     "context": "The overnight strikes, which killed at least five people across Ukraine, came hours after Vladimir Putin vowed a painful response to Ukraine’s attacks on the Crimean bridge.",
-     "rubrieken": [
-      "Airspace",
-      "Bridges",
-      "European Defense",
-      "Missiles",
-      "War in Ukraine",
-      "Politics"
-     ],
-     "link": "https://www.politico.eu/article/russia-hits-3-kyiv-bridges-in-major-attack-while-poland-reports-airspace-violation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "09:39",
-     "sorteer": "2026-11-20T08:39:06+00:00",
+     "tijd": "10:31",
+     "sorteer": "2026-11-20T09:31:24+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -350,8 +350,8 @@
    "emoji": "🇳🇱",
    "items": [
     {
-     "titel": "In steeds minder gemeenten moeten inwoners zelf hun afval scheiden",
-     "context": "In de afgelopen jaren zijn steeds meer gemeenten overgestapt op het nascheiden van afval. Dat meldt het Centraal Bureau voor de Statistiek (CBS). Bij nascheiding hoeven mensen niet zelf thuis hun afval te scheiden. Het restafval gaat naar een installatie die dat voor hen doet. In bijna 60 procent van de gemeenten werd vorig jaar aan nascheiding gedaan. In 2023 was dat nog een kwart van de gemeente",
+     "titel": "In steeds minder gemeenten moeten inwoners zelf hun plasticafval scheiden",
+     "context": "Steeds meer gemeenten kiezen voor het nascheiden van plasticafval. Dat meldt het Centraal Bureau voor de Statistiek (CBS). Bij nascheiding hoeven mensen niet zelf thuis hun afval te scheiden. Het restafval gaat naar een installatie die dat voor hen doet. In bijna 60 procent van de gemeenten werd vorig jaar aan nascheiding van pmd (plastic verpakkingen, metalen verpakkingen en drankkartons) gedaan.",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640246",
      "bron": "NOS",
@@ -405,21 +405,28 @@
      "sorteer": "2026-11-20T04:00:29+00:00"
     },
     {
-     "titel": "Strakkere alcoholcontrole voor hardnekkige drinkebroers in het verkeer",
+     "titel": "Deze advocaten procederen tegen techreuzen: ‘Als ik denk aan de Metabril word ik best kwaad’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/strakkere-alcoholcontrole-voor-hardnekkige-drinkebroers-in-het-verkeer~b1741fcb/",
+     "link": "https://www.trouw.nl/binnenland/deze-advocaten-procederen-tegen-techreuzen-als-ik-denk-aan-de-metabril-word-ik-best-kwaad~bae47818/",
      "bron": "Trouw",
      "tijd": "22:00",
-     "sorteer": "2026-11-19T21:00:24+00:00",
+     "sorteer": "2026-11-19T21:00:00+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Aftrap ’grootste en meest unieke milieustrafzaak ooit’: ’Zaak van 600 miljoen tegen Tata Steel’",
      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd3lJUmhqVnlYTFQ4YzdvVVpEeDdhci1URHYyLWdCVVZMcDQ4TG15aW56a0Y1a3g2UnJNU3ZBVFBSdDhBZDg1elpZaEQ4RERtZmZ2eDI3NjNjVm9XMnJEYkN0UzNUbTVEU0RCSzktUksxR2htZFlDS3ZlYTBsNm5wU2NZVEhBX01heFcwREJaWTlLa1hRbkNhWnN4ZndFY2xUTndNZ0RFV19GNDM5cFBjWVNQZG9MNXFlTTRkR2g4Njhhbk5iNllpeWlrZDB0SmFhd0hfRjJLUjg?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "09:58",
-     "sorteer": "2026-11-20T08:58:14+00:00"
+     "tijd": "10:25",
+     "sorteer": "2026-11-20T09:25:20+00:00"
+    },
+    {
+     "titel": "Justitie zoekt nog steeds naar dief van PostNL-bus en krijgt dagvaarding niet bezorgd",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQckUxbDZTSXRXeDBEaE5BMVQ1VFJxUVhaek45Y0M0ZWFYNGNFc3ZxVWhJZmpZeWVRM0dhVWlvXzhVbm5NSmtmUTJubmY2cFNvbFVaaE9ObFlZaldqTkZvVmxhRkVOQ09sOUVibXUwemtGMm1EYW8wMzBmaXdkWUx0blc0REJQamZHQUh2TkhBbnBkWVdGamk2OEdzNEU1TnlWSlJEaUhtREFlRmFBYmNQS0FtZkY2S3EyMlV1Y05nWWQ?oc=5",
+     "bron": "AD.nl",
+     "tijd": "10:00",
+     "sorteer": "2026-11-20T09:00:26+00:00"
     },
     {
      "titel": "Stelling: Tata strafrechtelijk vervolgen voor opzettelijke luchtvervuiling",
@@ -429,18 +436,11 @@
      "sorteer": "2026-11-20T08:52:12+00:00"
     },
     {
-     "titel": "Als NS-schoonmakers nietsvermoedend een biertje drinken, krijgen ze vloeibare mdma binnen, met onoverzienbaar leed tot gevolg",
-     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRDZGZ19CVU5ZMTBlWERLSzhNX3NPSWY0eTFSRGd4WEVqV0syZ2MyNGxoeVhtX0dTRXpoMElxX2V5Y3lIV011NE85Y21XeElJZzJtclJxNTdQcTA0TVFSazYzZjFXZFBtSzcyQXF2blVyNExPb2FfQ0EtckdrOEt1QnYzN1JQaXp4eDlKNDQ3cVJfVVI1Wm1QNVlBcWVMdFJlMTZiWWI0RElwMU9KZVZQYTV1R2FvSEwzcXBvd0hwNWhYUi1penI4NUROSllOcWsxQklvYkJMQkgtb3MwSnVTOEthb3ZCei1hUzZvbC1OTDZncTdDQXlKR1pjTFM2UQ?oc=5",
+     "titel": "Ongeval met letsel op John F Kennedylaan in Eindhoven",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNmI3UV9WVFVibms5U3M5c2lnQk5qaGo3Q1Z5NmtNNkYzSnJEbFZLenJySmxkak5oY05oV2F2R3pRZ0JzanMzQlZYRUlQWXhjLVNGM0NxMC1kcEJ1V3R4ZEpZUjhSeWdNSTNoRDhxd0tnRzdrTDU0TDBIdmY2S05zbFIybXFaNTRVV3Fhamg3LXlxRGRKYUxuQ1lTYzdyekVjTl9zV1Y0bmY1NlQ3LUxmTmNR?oc=5",
      "bron": "De Gelderlander",
-     "tijd": "09:38",
-     "sorteer": "2026-11-20T08:38:38+00:00"
-    },
-    {
-     "titel": "Man (27) spreekt voordringer aan bij dönerzaak in Zwolle, dan volgt een klap die hem een tand kost",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWVItV0o2akNvd2tlT3I3ZG04cjBSdWphWTBSdUdaYUFTOWFxSDJBTEtCVzRNVjdDT3lmY243REFqOGxyaDR6cUN6YmFrVXhpRkljWExodFV4RFY5ZHYtLXJ4bFNQc1JGdUt4ejIzY251UFk5enJwdVhCbUVCQXp0Qi1BYXFTMTNvVWMwcTZkNm9ZNGl6b0ZMcFlLU3JoOVB1UnZpejVKVjA1YkdJN2YwVTE0NW5xNG11OTVnRzlsYmpCbVdNWklQNV9jUnpBYzFjU1E?oc=5",
-     "bron": "Tubantia",
-     "tijd": "08:59",
-     "sorteer": "2026-11-20T07:59:00+00:00"
+     "tijd": "09:33",
+     "sorteer": "2026-11-20T08:33:07+00:00"
     },
     {
      "titel": "Met hun woede maken jonge demonstranten plaats voor een nieuwe wereld",
@@ -482,10 +482,10 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Werk aan het spoor legt regio Steenwijk lam: veel wegafsluitingen, geen treinen",
+     "titel": "Spoorwegwerkzaamheden en wegafsluitingen ontwrichten verkeer regio Steenwijk",
      "context": "Werk aan het spoor, grootschalige wegwerkzaamheden en talloze omleidingen. Het verkeer en openbaar vervoer in de regio Steenwijk is komende week voor langere tijd behoorlijk ontwricht door wegafsluitingen.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3721264/werk-aan-het-spoor-legt-regio-steenwijk-lam-veel-wegafsluitingen-geen-treinen",
+     "link": "https://www.oost.nl/nieuws/3721264/spoorwegwerkzaamheden-en-wegafsluitingen-ontwrichten-verkeer-regio-steenwijk",
      "bron": "RTV Oost",
      "tijd": "09:00",
      "sorteer": "2026-11-20T08:00:00+00:00"
@@ -540,6 +540,20 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Sjaal terug gevonden",
+     "context": "DALFSEN – Sjaal weer gevonden, vanochtend. Mijn vrouw liep die route en vond deze, maar zeker 2 mensen vroegen : ” heb jij je sjaal gevonden” ? Dat zegt dus hoeveel mensen jullie site lezen. Ik ben daar blij om, omdat lokaal nieuws zo verwaarloosd wordt, terwijl dat in feite het allerbelangrijkste is. (En zo […]",
+     "rubrieken": [
+      "Dalfsen",
+      "Ingezonden bericht",
+      "Kwiet en weer terechte",
+      "Laatste nieuws"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/556949/sjaal-terug-gevonden.html",
+     "bron": "DalfsenNet",
+     "tijd": "10:41",
+     "sorteer": "2026-11-20T09:41:42+00:00"
+    },
+    {
      "titel": "Tribute to the Soul",
      "context": "DALFSEN – Op zaterdag 28 november brengt de tienkoppige band DRENTH een energieke theatershow Tribute to the Soul. Een avond soulmuziek, live in theater De Stoomfabriek! Met de krachtige stem van leadzangeres Annemiek Drenth, gedragen door een hechte band van ervaren muzikanten; een blazerssectie en warme grooves klinkt muziek van Aretha Franklin en Marvin Gaye […]",
      "rubrieken": [
@@ -549,20 +563,6 @@
      "bron": "DalfsenNet",
      "tijd": "09:01",
      "sorteer": "2026-11-20T08:01:28+00:00"
-    },
-    {
-     "titel": "Bazar De Wiekelaar Oudleusen zaterdag 21e",
-     "context": "OUDLEUSEN – De vanouds gezellige bazar voor de Wiekelaar staat weer op stapel. Zaterdag 21 november aanstaande vindt het traditionele festijn plaats. De kinderbazar zal losgaan vanaf 14.30 uur. Voor alle leeftijden is iets bedacht met bijbehorende prijzen. Vanaf 20 uur is de oudere jeugd welkom! Er zijn serieus grote prijzen te winnen. De […]",
-     "rubrieken": [
-      "Ingezonden bericht",
-      "Laatste nieuws",
-      "Oudleusen"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/556935/bazar-de-wiekelaar-oudleusen-zaterdag-21e.html",
-     "bron": "DalfsenNet",
-     "tijd": "22:32",
-     "sorteer": "2026-11-19T21:32:12+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
     }
    ]
   },
@@ -688,18 +688,40 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Trump: China en VS streven naar gematigde AI-regels",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR1M0bzZsTWlKbVVHdkNTY2FoUmdyYndJT0REWDUzaGFwYm5MQWo3QXZkMWtmY0d5cGVBNTB6SHZWYnNORlplQmZYbkZtZ1ZVZVNiT1A4NUhMX3NNbHFpdFh5eTZNb19mZ1VDTlFUd19pblpmXzBLTUNpbjE1VnBRWkwzanlnQzFqMEJjYjRHWHdBajczbVJaMkJkV3FZcEsyb2c?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "08:09",
-     "sorteer": "2026-11-20T07:09:00+00:00"
-    },
-    {
      "titel": "Marktplaats voor inloggegevens op dark web verkoopt data Nederlanders met behulp van AI",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON3MtVXpPOVRneS1SNG5HaVJUX3JWcEcySHJOSVZpSjlQSTRTVlZjUzQwX3RKNjlDMF9TUTY1SFZHVlk3M0Nvd0M5Q2VfRGY1ZnJVUkpNYm92S011SkFjTVVnMkhrQVNmckh6SUdoLWJQZlIyejdJaXpJUW1JWVpITkoxWW1DVkdKM1hUdnY0aXRlYjBHSzdNT0k3UmdoVlR5cGlheldZR09wdnhwdHpDX3N6b3R5QkpCSzNnclYyTkNzNDJ2cG51VnhEV1hJUlhENXBz?oc=5",
      "bron": "bnr.nl",
      "tijd": "07:01",
-     "sorteer": "2026-11-20T06:01:46+00:00"
+     "sorteer": "2026-11-20T06:01:00+00:00"
+    },
+    {
+     "titel": "Meta heroverweegt eigen klimaatdoel door snelle opmars AI",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNHI4dDhhOGJnTVJRZHNPdUdlSThzT2RDcmRXUjR6Uk5NOWVhYlM2VnVoUjhicTVKRGZHMEFndU9MSTgxajZRWGpYSWh2alFLajREbjRHX3M2aWxDVm9hUGZmX2V4NG9obUEtbkJVXzNoVk9wYnVyRkJCNkkwaFpQWTdxRQ?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "10:24",
+     "sorteer": "2026-11-20T09:24:25+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "De AI-revolutie blijft voorlopig achter het beeldscherm",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNREZ3WF9DLU9CZnhPN3pyTXpmQVJ4bER5eHE4MFBGT05OMDh4UGVwT2hxRXFRMUh5R2RMdEFKdlRFS1FuaUFlSlptaVgycG56MlRURGtmM21OTUhZMWFWZ29iakphSGZtRjR5T3BhcktfeEo0YkJWUGxzcWdyd3pfaQ?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "10:24",
+     "sorteer": "2026-11-20T09:24:20+00:00"
+    },
+    {
+     "titel": "Wat moeten kinderen leren over AI en algoritmes? Nieuwe leerlijn wil christelijke leerkracht richting bieden",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVFZ1MWRJS010djVwZ2lPd19mYkxxQ3JNLUxCd2h2OXFRTTBXNi1pUnQwRHBsd2I0V1V1MXlVVU9ma2QwTFgzanJLam16b1ZLWExuNkNIYjJ0R0FJWGxsOFVab2t1YzVhMjk1X0l0dURJSTZucmk3WVQ3Tk1hejQ5RVpiQk1xdVBtY0EwZjZ5WXVjZDVmSEQxVUZCWVYwc1BUUTJQcVNvTEtZazJiclFhX1dQcm1iTTdwd01QUEl1ejU1TERHQmdZZWl3?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "10:11",
+     "sorteer": "2026-11-20T09:11:24+00:00"
+    },
+    {
+     "titel": "Google plaatst je AI-gesprekken nu op de Google-homepagina",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWTJMV3RacVRkWngxeWZHNG1iVDdJV3ZOZmxfSHI3aGJwMVF6WW9MNW9jVXBxbllNc0xPVmJJZmFPOXpvbWxGeDBHYUM4d2ZfaHFNY3ZKbXdIbmFmV2ZrdVkxekFkaTl5cEFRZUhKdldTUW1xNXMxN3d5QVNxbmJZQ3NoOEZCOGhPWTBwLWZ3ZzRZS21SREhCNURXVFNjSHB5N0E?oc=5",
+     "bron": "Bright",
+     "tijd": "09:58",
+     "sorteer": "2026-11-20T08:58:00+00:00"
     },
     {
      "titel": "ABN: Hoge loonkosten dwingen ondernemers tot AI-gebruik",
@@ -848,7 +870,7 @@
      "kop": "Brieven en moties",
      "tijd": "19-11",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D59546",
-     "sorteer": "2026-11-20T09:19:07.53+01:00"
+     "sorteer": "2026-11-20T10:25:55.137+01:00"
     },
     {
      "titel": "Verzoek tot uitstellen van het commissiedebat Terrorisme/extremisme op 26 november 2026",
@@ -914,7 +936,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "10:00",
+    "bijgewerkt": "11:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1372,15 +1394,15 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 60 plekken in de afgelopen week, waarvan 3 vandaag",
+     "titel": "Invasiejaar — op 62 plekken in de afgelopen week, waarvan 5 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 168 vogels; 92 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 173 vogels; 96 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
-     "titel": "9 plekken binnen 75 km van Dalfsen",
+     "titel": "10 plekken binnen 75 km van Dalfsen",
      "bron": "dichtstbij: Warnsveld, 42 km (2026-11-16)",
      "tijd": "15:45",
      "link": "https://waarneming.nl/species/306/observations/"
@@ -1406,28 +1428,28 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 4.1,
-    "gevoel": 2.4,
-    "wind": "O 2",
+    "nu": 4.8,
+    "gevoel": 3.6,
+    "wind": "ONO 1",
     "station": "Heino",
     "bericht": "In vergelijking met voorgaande dagen ziet het weer er vandaag vooral in het noorden beter uit. Valt in het zuiden nog regen, het noorden ziet de zon geregeld en in de middag komt daar een enkele bui voor.Vanochtend is het vooral in het zuiden nog bewolkt met af en toe regen. In het midden wordt het al vrij snel droog.",
     "vandaag": "In vergelijking met voorgaande dagen ziet het weer er vandaag vooral in het noorden beter uit. Vanochtend is het vooral in het zuiden nog bewolkt met af en toe regen.",
     "temperatuur": "De wind is zwak tot matig, in het midden en zuiden noordoostelijk, in het noorden veranderlijk en de temperaturen liggen aan het einde van de ochtend tussen 5 en 9 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: bewolkt, 2 tot 8 graden, 60% kans op neerslag, ruim 6 uur zon, wind uit het noorden, kracht 2.",
+     "zin": "Voor Dalfsen zelf: bewolkt, 2 tot 8 graden, 60% kans op neerslag, ruim 7 uur zon, wind uit het noorden, kracht 2.",
      "max": 8,
      "min": 2,
      "regenkans": 60,
      "omschrijving": "bewolkt",
      "morgen": {
-      "max": 8,
+      "max": 9,
       "min": 2,
       "regenkans": 59,
       "omschrijving": "motregen"
      }
     },
     "vooruit": "Vrij koud, meest droog en perioden met zon. 's Nachts en in de ochtend lichte vorst en kans op mist. Vanaf woensdag wordt het misschien weer wisselvalliger.",
-    "omslag": "Vanaf zondag droog: de regenkans zakt van 70% naar 0%.",
+    "omslag": "Nachtvorst in aantocht: morgen tot 0 graden.",
     "min": "2",
     "max": "8",
     "regenkans": 80,
@@ -1435,7 +1457,7 @@
     "omschrijving": "Afwisselend bewolkt met (mogelijk) wat lichte regen",
     "morgen": {
      "omschrijving": "Afwisselend bewolkt met (mogelijk) wat lichte regen",
-     "min": "2",
+     "min": "0",
      "max": "9",
      "regenkans": 70
     }
