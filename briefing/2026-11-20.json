@@ -3,13 +3,15 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "14:00",
+  "opgehaald": "15:00",
   "blokken": 11,
-  "berichten": 105,
-  "problemen": [],
+  "berichten": 99,
+  "problemen": [
+   "kamerstukken Brief regering: HTTP 500"
+  ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-20T14:00+01:00",
+ "opgehaald": "2026-11-20T15:00+01:00",
  "audio": "audio/20261120.mp3",
  "afval": [
   {
@@ -230,6 +232,15 @@
      "sorteer": "2026-11-20T12:02:55+01:00"
     },
     {
+     "titel": "Britse justitie vervolgt eerste verdachten aanslagpoging luchtmachtbasis Fairford",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/liveblog-hybride-oorlog-rusland-eu-navo~b08413ca/",
+     "bron": "de Volkskrant",
+     "tijd": "14:15",
+     "sorteer": "2026-11-20T13:15:00+00:00"
+    },
+    {
      "titel": "Na 1,5 uur ‘Jalta 2.0’ stuiten Trump en Poetin thuis weer op grenzen van hun macht",
      "context": "",
      "rubrieken": [],
@@ -237,15 +248,6 @@
      "bron": "de Volkskrant",
      "tijd": "13:47",
      "sorteer": "2026-11-20T12:47:20+00:00"
-    },
-    {
-     "titel": "More Dutch Intended Parents Are Having Children through ‘Travelling Surrogates’, Who Have Little Say Over Their Own Bodies",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/more-dutch-intended-parents-are-having-children-through-travelling-surrogates-who-have-little-say-over-their-own-bodies~be58d09a/",
-     "bron": "de Volkskrant",
-     "tijd": "13:41",
-     "sorteer": "2026-11-20T12:41:00+00:00"
     },
     {
      "titel": "Voornaamste adviseur Trump over cyberveiligheid vertrekt na reeks incidenten",
@@ -257,32 +259,67 @@
      "sorteer": "2026-11-20T01:35:00+00:00"
     },
     {
+     "titel": "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
+     "context": "Prime Minister Andy Burnham and European leaders announced a deal to remove some barriers introduced by Brexit, a decade after Britain left the European Union.",
+     "rubrieken": [
+      "Great Britain Withdrawal from EU (Brexit)",
+      "Burnham, Andrew M (1970- )",
+      "European Union",
+      "International Relations",
+      "Labour Party (Great Britain)",
+      "Brussels (Belgium)",
+      "Europe",
+      "Great Britain"
+     ],
+     "link": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
+     "bron": "New York Times",
+     "tijd": "14:55",
+     "sorteer": "2026-11-20T13:55:06+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
      "titel": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
      "context": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "13:56",
-     "sorteer": "2026-11-20T12:56:48+00:00",
+     "tijd": "14:52",
+     "sorteer": "2026-11-20T13:52:04+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "UK says EU reset deal agreed but talks will continue ‘in some areas’ – live",
-     "context": "UK statement comes after EU said deal would not take effect without future agreement over university tuition fees Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise the leverage London gets in the next six months, EU sources have said. Senior diplomats had already confirmed this week that the EU wo",
+     "titel": "Mahmood ‘smells a rat’ over housing provision for vulnerable people in Birmingham",
+     "context": "Warnings over exploitation risks come amid push for investigation into supported exempt accommodation sector The home secretary has launched an attack on providers of housing for vulnerable residents in her Birmingham constituency, saying she “smells a rat” after warnings over spiralling costs and risks of exploitation. A push for an independent investigation into the supported exempt accommodatio",
      "rubrieken": [
-      "Europe",
-      "UK news",
+      "Housing",
+      "Birmingham",
+      "Shabana Mahmood",
+      "Social exclusion",
       "Politics",
-      "Brexit",
-      "European Union",
-      "Andy Burnham",
-      "Foreign policy"
+      "Society",
+      "UK news",
+      "Social housing",
+      "Housing benefit",
+      "Local government",
+      "England"
      ],
-     "link": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+     "link": "https://www.theguardian.com/society/2026/nov/20/ahabana-mahmood-housing-provision-vulnerable-people-birmingham-supported-exempt-accommodation",
      "bron": "The Guardian",
-     "tijd": "13:47",
-     "sorteer": "2026-11-20T12:47:09+00:00",
+     "tijd": "14:43",
+     "sorteer": "2026-11-20T13:43:46+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "White House removes cyber-security chief after series of tech outages",
+     "context": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "14:28",
+     "sorteer": "2026-11-20T13:28:32+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -303,34 +340,6 @@
      "bron": "Politico Europe",
      "tijd": "13:43",
      "sorteer": "2026-11-20T12:43:31+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-     "context": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "13:34",
-     "sorteer": "2026-11-20T12:34:54+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Turkey’s Van Cats Contend With Rising Temperatures",
-     "context": "A feline research center uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
-     "rubrieken": [
-      "Cats",
-      "Turkey",
-      "Van (Turkey)",
-      "Global Warming",
-      "Heat and Heat Waves"
-     ],
-     "link": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
-     "bron": "New York Times",
-     "tijd": "13:14",
-     "sorteer": "2026-11-20T12:14:35+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -393,7 +402,7 @@
      "link": "https://www.volkskrant.nl/binnenland/politie-onderzoekt-appgroep-met-duizenden-stiekem-gemaakte-foto-s-van-vrouwen~b4118bed/",
      "bron": "de Volkskrant",
      "tijd": "13:45",
-     "sorteer": "2026-11-20T12:45:47+00:00"
+     "sorteer": "2026-11-20T12:45:00+00:00"
     },
     {
      "titel": "OM: Tata liet zonder vergunning honderden keren giftige stoffen vrijkomen",
@@ -402,44 +411,44 @@
      "link": "https://www.volkskrant.nl/binnenland/om-tata-liet-zonder-vergunning-honderden-keren-giftige-stoffen-vrijkomen~bcc1c740/",
      "bron": "de Volkskrant",
      "tijd": "13:43",
-     "sorteer": "2026-11-20T12:43:44+00:00"
+     "sorteer": "2026-11-20T12:43:00+00:00"
     },
     {
-     "titel": "Bezoek de terugblik op de klimaattop en de reis op batterijen naar Turkije",
+     "titel": "1 december: Bezoek de terugblik op de klimaattop en de reis op batterijen naar Turkije",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/bezoek-de-terugblik-op-de-klimaattop-en-de-reis-op-batterijen-naar-turkije~b51efda9/",
+     "link": "https://www.trouw.nl/duurzaamheid-economie/1-december-bezoek-de-terugblik-op-de-klimaattop-en-de-reis-op-batterijen-naar-turkije~b51efda9/",
      "bron": "Trouw",
      "tijd": "13:57",
-     "sorteer": "2026-11-20T12:57:37+00:00"
+     "sorteer": "2026-11-20T12:57:00+00:00"
     },
     {
-     "titel": "Telefoons getapt en netwerk gehackt in onderzoek naar Tata Steel",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTFtenMwNWJIT1hQeHNxSVE4eFhQZzlLaDZpWlNhak1aR1RNRHZLZlhYeDQ1ak9oVWJialBJaXlISm9OVVhTZnVnbFFPRV9qT2loX0xjNERFYXdnQjRuOGtjOElFSW5JNDVOVDA0YkpxTkNRV2pTc24zV1pKUV9tWEFxVVU1cVJaT0tMa1UwZnNqNGxo?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "13:54",
-     "sorteer": "2026-11-20T12:54:53+00:00"
+     "titel": "Ahmed Marcouch geen Amsterdamse politiechef: wat ging mis?",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUVdXU1NSWFRELTYxeVJ4VkpoWXNrY08wU3dTRzZpNE95VHBPbFo3eDJGVC1scHFaM2gxQW1RRkZFS0dQSGNPbDdWUkFpM3M5aWFSa1U4d2V1eW91ZEtwc0piUmJjRGVGNUJIUzhnVjRLS0NTTnBRMlhBZkg0a29OaGwyNjhDeGpvX0xvcENzYTJwcGxVZXVWZUpTSURwWGpGeHJ2VGdIOHFkM0twWHJkRGNnbTltRWpCY180aEtrd1BRTmVoVUlVT05TcVNQeHVkZHVQSkRCNjhfUFhUR3loU1hyS1kya1pNbGtuc1B3WE8?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "14:58",
+     "sorteer": "2026-11-20T13:58:03+00:00"
+    },
+    {
+     "titel": "OM hackte systemen Tata Steel in strafonderzoek milieuvervuiling, bedrijf verbijsterd: ’Heel ongebruikelijk’",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWjdTR2NQaU1Sdld2WU1Na1ZQd0t2WWkyN2tQZ3pxc01FdEtXR0pYLXlGU2taUVA4bnNDeEotXzlZZW5SQWl6M0Y0ejhQWlhYdkhPRHhsWl8xQVRhOTBTbXJ3cHdZY3B2My03THJ0Z2EyaXlXWWJQQmZCeDRULVJFUE9oOFFJSUJka1lkR05YTWZYRENROXBVRU1hVlNHUW1PUTJFVXZZNTVOT0dNT1hGd0NETWtXbkJKM1Rtd1dJSVExczBvYXFpMFpsTjlOeHdSQ0h2VnBXU1BDdE1tVGZ3Zk9yanF6VUwyV18w?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "14:56",
+     "sorteer": "2026-11-20T13:56:53+00:00"
+    },
+    {
+     "titel": "15 jaar cel en tbs voor Coen K.: rechtbank spreekt van ’gruwelijke, brute en beestachtige wijze’",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNakRnNmNoNmFNZlJIMXRqdk5JOW9zc1lWV2ZicDRvQmgzUGZfWXp3ODBhaWg2dFUtdWtISHVsOFB4QkZzZmp0SG5xT1lmMUQtcUc2Qm9kczI3ei1ZVy1Nd3hJSUF1RThIdENTVkFTWld5MzdaYU83YmdmSWVGeDJ6dGtwNE13NHI4YVNiY2xaYmxUbWphOUprT202X2xkTFl5eWpzazg0UXlJeXk2MkpQUXFraWtYSGd2dTh4SEd4NGNvZjcxd2R2Q01tdWhZWkdOUWVGd1Z3R0Z2eXM?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "14:56",
+     "sorteer": "2026-11-20T13:56:53+00:00"
     },
     {
      "titel": "Aftrap ’grootste en meest unieke milieustrafzaak ooit’: ’Zaak van 600 miljoen tegen Tata Steel’",
      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd3lJUmhqVnlYTFQ4YzdvVVpEeDdhci1URHYyLWdCVVZMcDQ4TG15aW56a0Y1a3g2UnJNU3ZBVFBSdDhBZDg1elpZaEQ4RERtZmZ2eDI3NjNjVm9XMnJEYkN0UzNUbTVEU0RCSzktUksxR2htZFlDS3ZlYTBsNm5wU2NZVEhBX01heFcwREJaWTlLa1hRbkNhWnN4ZndFY2xUTndNZ0RFV19GNDM5cFBjWVNQZG9MNXFlTTRkR2g4Njhhbk5iNllpeWlrZDB0SmFhd0hfRjJLUjg?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "13:25",
-     "sorteer": "2026-11-20T12:25:59+00:00"
-    },
-    {
-     "titel": "Stelling: Tata strafrechtelijk vervolgen voor opzettelijke luchtvervuiling",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSkFXYklHSS1jMlJTOXU1elc3dTY5dVpxSlN3LU5aeEllQ2NmeUcybUUyMmFubDlqTlR2Si0xeEdJcGZCRU5ER25FLWpENU94elVhTTlramdWS1Z5aUVwdnN3X1VhSi1iYjVGTVJlcmVHU1JZNHg5Sy1sWVBPNWs5NmctNnNJUnJPYjMwbHFNdkZBcDVablBCa0xfcnFnLW1vcGE1RU1RTkFhZjREa05uRzd3WTcyc2pFX0wzaWp1R3ZDdw?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "13:04",
-     "sorteer": "2026-11-20T12:04:34+00:00"
-    },
-    {
-     "titel": "Prins Nick en Prinses Maartje zwaaien de scepter in Oiversland",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMkk3VU1nOWdUR2puRGFxZVRLR3piTk1zZkIwMlp3ek9pVk4tYlpNNkFFSHlLbkNVMzBlclhfeHRjTjk0aGtNX1FLQXV6eWNSa2h0M2Q0VGVTbTgxMl9TaU9tQVlvekxwOTFycWUwSnVkd1QtSXF5el9BVEQzVkVlNEhGekhnZlA1YnF1RWl6WHNHRWxudDJmY3ZzaG41R0Rrd3pDQw?oc=5",
-     "bron": "Brabants Dagblad",
-     "tijd": "13:07",
-     "sorteer": "2026-11-20T12:07:43+00:00"
+     "tijd": "14:55",
+     "sorteer": "2026-11-20T13:55:59+00:00"
     },
     {
      "titel": "De zaak-Pelicot legt bloot hoe gewone mannen nog altijd over heteroseks denken – en dat is doodeng",
@@ -461,17 +470,6 @@
      "bron": "De Correspondent · Maaike Goslinga",
      "tijd": "05:45",
      "sorteer": "2026-11-20T04:45:04+00:00"
-    },
-    {
-     "titel": "Nieuwsuur: 'Nederlandse wapenfabrikant schoot zelf drones af in Oekraïne' • Booming: drone-industrie in Nederland • Uitbuiting buitenlandse draagmoeders",
-     "context": "'Nederlandse wapenfabrikant schoot zelf drones af in Oekraïne' Werknemers van de Nederlandse wapenfabrikant Destinus, die deze week een rol opeiste bij de Oekraïense aanval op de Krimbrug, hebben zelf in Oekraïne op Russische drones gejaagd. Ook hielpen ze het Oekraïense leger bij het afschieten van aanvalsdrones op Rusland, zelfs drie jaar geleden al. Dat meldt NRC na maandenlang onderzoek en ges",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640155",
-     "bron": "NPO2 · 22:00",
-     "tijd": "22:00",
-     "sorteer": "2026-11-20T22:00:00",
-     "kop": "Vanavond op tv",
-     "vervolg": "stond gisteren ook in de briefing"
     }
    ]
   },
@@ -537,31 +535,29 @@
      "sorteer": "2026-11-20T04:03:27+00:00"
     },
     {
-     "titel": "Webshops misleiden met ontwormingsclaims",
-     "context": "REGIO – Webshops misleiden consument met ontwormingsclaims voor honden en katten. De Nederlandse Voedsel- en Warenautoriteit (NVWA) heeft bij 53 webshops verboden medische claims aangetroffen bij diervoedersupplementen voor honden en katten. De producten werden aangeprezen alsof ze werken tegen wormbesmettingen, maar hier is geen wetenschappelijk bewijs voor. De supplementen zijn bovendien vaak du",
+     "titel": "Parkinson Café Zwolle",
+     "context": "ZWOLLE – BERKUM – Parkinson Café Zwolle is een laagdrempelige ontmoetingsplek voor mensen met de ziekte van Parkinson(isme),hun partners, familieleden en mantelzorgers. In een ontspannen sfeer worden er diverse onderwerpen besproken. Naast het uitwisselen van informatie en ervaringen kunt u in het Parkinson café ook contact leggen met lotgenoten Donderdag 3 december 2026 Thema: Geavanceerde […]",
      "rubrieken": [
       "Ingezonden bericht",
       "Laatste nieuws",
-      "Landelijk"
+      "Zwolle"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/556983/webshops-misleiden-met-ontwormingsclaims.html",
+     "link": "https://www.dalfsennet.nl/nieuws/556987/parkinson-cafe-zwolle-2.html",
      "bron": "DalfsenNet",
-     "tijd": "13:46",
-     "sorteer": "2026-11-20T12:46:30+00:00"
+     "tijd": "14:58",
+     "sorteer": "2026-11-20T13:58:34+00:00"
     },
     {
-     "titel": "Ongeval gemeld in Nieuwleusen, bedrijfsbus in sloot bij Laag Zuthem",
-     "context": "NIEUWLEUSEN – LAAG ZUTHEM – Vrijdag 20 november zijn bij de hulpdiensten twee afzonderlijke verkeersongevallen gemeld: aan de Burgemeester Backxlaan in Nieuwleusen en bij Laag Zuthem. Aan de Burgemeester Backxlaan werd om 11.48 uur een aanrijding met mogelijk letsel gemeld. Over de betrokken voertuigen, de toedracht en eventuele verwondingen zijn nog geen nadere bijzonderheden bevestigd. […]",
+     "titel": "Regen in Nieuwleusen",
+     "context": "Regen tikt tegen het raam. Een blad komt los en dwarrelt langzaam naar de grond. Niets lijkt vandaag te dringen. Een druppel trekt een spoor, een andere blijft hangen. In het bleke herfstlicht glanst het natte glas. De bomen laten los wat ze een seizoen lang droegen. De lucht ruikt naar regen, naar aarde en […]",
      "rubrieken": [
-      "112-nieuws",
-      "Laag Zuthem",
-      "Laatste nieuws",
+      "Ingezonden bericht",
       "Nieuwleusen"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/556980/ongeval-gemeld-in-nieuwleusen-bedrijfsbus-in-sloot-bij-laag-zuthem.html",
+     "link": "https://www.dalfsennet.nl/nieuws/556985/regen-in-nieuwleusen.html",
      "bron": "DalfsenNet",
-     "tijd": "13:28",
-     "sorteer": "2026-11-20T12:28:14+00:00"
+     "tijd": "14:00",
+     "sorteer": "2026-11-20T13:00:26+00:00"
     }
    ]
   },
@@ -669,15 +665,6 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Risico's en regulering van onbemenste systemen en AI",
-     "bron": "Brief van de regering",
-     "kop": "Uit de Tweede Kamer",
-     "tijd": "15-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51606",
-     "sorteer": "2026-11-19T11:09:41.61+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
      "titel": "Antwoord op vragen van de leden El Boujdaini en Zwinkels AI-modellen die buiten hun testomgeving inbreken bij organisaties",
      "bron": "Antwoord op Kamervragen",
      "kop": "Uit de Tweede Kamer",
@@ -699,28 +686,6 @@
      "bron": "NRC",
      "tijd": "12:00",
      "sorteer": "2026-11-20T11:00:00+00:00"
-    },
-    {
-     "titel": "Meta heroverweegt eigen klimaatdoel door snelle opmars AI",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNHI4dDhhOGJnTVJRZHNPdUdlSThzT2RDcmRXUjR6Uk5NOWVhYlM2VnVoUjhicTVKRGZHMEFndU9MSTgxajZRWGpYSWh2alFLajREbjRHX3M2aWxDVm9hUGZmX2V4NG9obUEtbkJVXzNoVk9wYnVyRkJCNkkwaFpQWTdxRQ?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "10:24",
-     "sorteer": "2026-11-20T09:24:25+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "De AI-revolutie blijft voorlopig achter het beeldscherm",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNREZ3WF9DLU9CZnhPN3pyTXpmQVJ4bER5eHE4MFBGT05OMDh4UGVwT2hxRXFRMUh5R2RMdEFKdlRFS1FuaUFlSlptaVgycG56MlRURGtmM21OTUhZMWFWZ29iakphSGZtRjR5T3BhcktfeEo0YkJWUGxzcWdyd3pfaQ?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "10:24",
-     "sorteer": "2026-11-20T09:24:20+00:00"
-    },
-    {
-     "titel": "Wat moeten kinderen leren over AI en algoritmes? Nieuwe leerlijn wil christelijke leerkracht richting bieden",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVFZ1MWRJS010djVwZ2lPd19mYkxxQ3JNLUxCd2h2OXFRTTBXNi1pUnQwRHBsd2I0V1V1MXlVVU9ma2QwTFgzanJLam16b1ZLWExuNkNIYjJ0R0FJWGxsOFVab2t1YzVhMjk1X0l0dURJSTZucmk3WVQ3Tk1hejQ5RVpiQk1xdVBtY0EwZjZ5WXVjZDVmSEQxVUZCWVYwc1BUUTJQcVNvTEtZazJiclFhX1dQcm1iTTdwd01QUEl1ejU1TERHQmdZZWl3?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "10:11",
-     "sorteer": "2026-11-20T09:11:24+00:00"
     }
    ]
   },
@@ -834,20 +799,20 @@
      "sorteer": "2026-11-19T20:17:19.46+01:00"
     },
     {
-     "titel": "Kabinetsreactie op rapporten  'Het recht om te demonstreren in de democratische rechtsstaat' (WODC) en ‘Sta voor Protest!’…",
+     "titel": "Verzamelbrief strafrechtelijke onderwerpen",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
-     "tijd": "04-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D41090",
-     "sorteer": "2026-11-20T07:20:34.847+01:00"
+     "tijd": "20-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D59735",
+     "sorteer": "2026-11-20T14:49:34.92+01:00"
     },
     {
-     "titel": "Rapport Identiteits- en documentfraude in de context van kennisveiligheid",
+     "titel": "Een goed georganiseerd hulplandschap voor slachtoffers van seksueel misbruik en geweld",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
-     "tijd": "19-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D59509",
-     "sorteer": "2026-11-19T18:15:33.263+01:00"
+     "tijd": "20-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D59711",
+     "sorteer": "2026-11-20T14:30:55.407+01:00"
     },
     {
      "titel": "Motie van het lid Lammers over terrorisme- en extremismescreening van migranten onmiddellijk op orde brengen",
@@ -929,7 +894,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "14:00",
+    "bijgewerkt": "15:00",
     "voetbal": {
      "uitslagen": [],
      "stand": [
@@ -1279,6 +1244,14 @@
    "emoji": "🐦",
    "items": [
     {
+     "titel": "Rotszwaluw",
+     "kop": "Zeldzaamheden",
+     "bron": "Zuid-Holland",
+     "tijd": "14:56",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-20T14:56:00+01:00"
+    },
+    {
      "titel": "Siberische Boompieper",
      "kop": "Zeldzaamheden",
      "bron": "Noord-Holland",
@@ -1301,22 +1274,6 @@
      "tijd": "11:55",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-11-20T11:55:00+01:00"
-    },
-    {
-     "titel": "Rotszwaluw",
-     "kop": "Zeldzaamheden",
-     "bron": "Noord-Holland",
-     "tijd": "08:21",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-20T08:21:00+01:00"
-    },
-    {
-     "titel": "Zwarte Zeekoet",
-     "kop": "Zeldzaamheden",
-     "bron": "Friesland",
-     "tijd": "14:24",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-19T14:24:00+01:00"
     },
     {
      "titel": "Dalfsen (nacht)",
@@ -1411,15 +1368,15 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 68 plekken in de afgelopen week, waarvan 11 vandaag",
+     "titel": "Invasiejaar — op 70 plekken in de afgelopen week, waarvan 13 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 183 vogels; 102 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 185 vogels; 105 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
-     "titel": "10 plekken binnen 75 km van Dalfsen",
+     "titel": "12 plekken binnen 75 km van Dalfsen",
      "bron": "dichtstbij: Warnsveld, 42 km (2026-11-16)",
      "tijd": "15:45",
      "link": "https://waarneming.nl/species/306/observations/"
@@ -1445,22 +1402,22 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 7.2,
-    "gevoel": 5.7,
+    "nu": 6.9,
+    "gevoel": 5.8,
     "wind": "NNW 2",
     "station": "Heino",
     "bericht": "In het zuiden wordt het langzaam droog. In het noorden verschijnt een enkele bui. De komende dagen wordt het geleidelijk steeds iets kouder, met de komende dagen nog soms een bui.Vanmiddag beperkt de regenval zich steeds meer tot enkel het zuidoosten.",
     "vandaag": "Vanmiddag beperkt de regenval zich steeds meer tot enkel het zuidoosten. Vanavond is het als laatste ook in Zuid-Limburg droog geworden.",
     "temperatuur": "Het wordt 6 graden in het noorden tot 9 graden in het zuiden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: bewolkt, 2 tot 8 graden, 62% kans op neerslag, ruim 7 uur zon, wind uit het noorden, kracht 2.",
+     "zin": "Voor Dalfsen zelf: lichte motregen, 2 tot 8 graden, 62% kans op neerslag, ruim 7 uur zon, wind uit het noorden, kracht 2.",
      "max": 8,
      "min": 2,
      "regenkans": 62,
-     "omschrijving": "bewolkt",
+     "omschrijving": "lichte motregen",
      "morgen": {
-      "max": 9,
-      "min": 2,
+      "max": 8,
+      "min": 3,
       "regenkans": 67,
       "omschrijving": "motregen"
      }
