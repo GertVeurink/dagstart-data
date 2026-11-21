@@ -3,13 +3,13 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "13:00",
+  "opgehaald": "14:00",
   "blokken": 11,
-  "berichten": 92,
+  "berichten": 90,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-21T13:00+01:00",
+ "opgehaald": "2026-11-21T14:00+01:00",
  "audio": "audio/20261121.mp3",
  "afval": [
   {
@@ -230,6 +230,15 @@
      "sorteer": "2026-11-21T01:08:02+01:00"
     },
     {
+     "titel": "Reuters: Denemarken wil na verijdelde aanslag ‘EU-brede actie’ tegen Rusland",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/liveblog-hybride-oorlog-rusland-eu-navo~b08413ca/",
+     "bron": "de Volkskrant",
+     "tijd": "13:59",
+     "sorteer": "2026-11-21T12:59:00+00:00"
+    },
+    {
      "titel": "Russisch vrachtschip onder vuur genomen in Finse Golf, reddingsoperatie bezig",
      "context": "",
      "rubrieken": [],
@@ -239,97 +248,74 @@
      "sorteer": "2026-11-21T11:52:00+00:00"
     },
     {
-     "titel": "Gelekt overheids­rapport VS: training ICE-immigratie­agenten ‘catastrofale mislukking’",
+     "titel": "Denemarken stelt dat Rusland in Kopenhagen een Oekraïense rapper wilde liquideren",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
-     "bron": "de Volkskrant",
-     "tijd": "08:37",
-     "sorteer": "2026-11-21T07:37:00+00:00"
-    },
-    {
-     "titel": "Na 167 jaar velt AI het oordeel: de wiskundige Riemann had gelijk",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/na-167-jaar-velt-ai-het-oordeel-de-wiskundige-riemann-had-gelijk~b56ae5aa/",
+     "link": "https://www.trouw.nl/laatste-nieuws/denemarken-stelt-dat-rusland-in-kopenhagen-een-oekraiense-rapper-wilde-liquideren~bc5e30ca/",
      "bron": "Trouw",
-     "tijd": "05:23",
-     "sorteer": "2026-11-21T04:23:00+00:00"
+     "tijd": "13:41",
+     "sorteer": "2026-11-21T12:41:45+00:00"
     },
     {
-     "titel": "Russian threats ‘less and less hybrid,’ Von der Leyen says after assassination plot in Denmark",
-     "context": "Danish authorities said they thwarted a Russian plan to kill a Ukrainian rapper in September.",
+     "titel": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
+     "context": "Pedro Sánchez, Europe’s most prominent left-wing leader, seems set to lose power in an election next week. Our reporter trailed his last-ditch effort to turn his campaign around.",
      "rubrieken": [
-      "Defense",
-      "Drones",
-      "Hybrid threats",
-      "Intelligence",
-      "Intelligence services",
-      "Sanctions",
-      "Security",
-      "Services",
+      "Spain",
+      "Europe",
+      "Da Silva, Luiz Inacio Lula",
+      "Abascal, Santiago",
+      "Sanchez Perez-Castejon, Pedro (1972- )",
+      "Trump, Donald J",
+      "Spanish Socialist Workers' Party",
+      "Vox (Spanish Political Party)",
+      "Popular Party (Spain)"
+     ],
+     "link": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
+     "bron": "New York Times",
+     "tijd": "13:54",
+     "sorteer": "2026-11-21T12:54:43+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+     "context": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "13:52",
+     "sorteer": "2026-11-21T12:52:00+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
+     "context": "Russian intelligence thought to be behind plan to kill US-Ukrainian musician Kyivstoner before concert in Denmark Denmark’s foreign minister has said Russia’s defence attache in Copenhagen would be expelled after Moscow was suspected of being behind an attempted killing of a US-Ukrainian rapper. “We have just summoned the Russian ambassador to the ministry of foreign affairs and notified him of th",
+     "rubrieken": [
+      "Denmark",
+      "Europe",
+      "World news",
+      "Ukraine",
+      "Russia"
+     ],
+     "link": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+     "bron": "The Guardian",
+     "tijd": "13:49",
+     "sorteer": "2026-11-21T12:49:05+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Russian ship damaged by drone attack in Gulf of Finland, Helsinki and Moscow say",
+     "context": "\"War is spilling into our neighboring regions,\" Finnish Prime Minister Petteri Orpo said.",
+     "rubrieken": [
       "War in Ukraine",
       "Politics"
      ],
-     "link": "https://www.politico.eu/article/russian-threats-less-hybrid-von-der-leyen-says-assassination-plot-ukrainian-rapper-kyivstoner-denmark/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "link": "https://www.politico.eu/article/russian-ship-damaged-drone-attack-gulf-finland-helsinki-moscow-say/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
      "bron": "Politico Europe",
-     "tijd": "12:43",
-     "sorteer": "2026-11-21T11:43:12+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
-     "context": "All options open in future talks, says Ed Miliband, while prime minister hails ‘a good day for Britain and Europe’ The UK rejoining the EU could be on the table in informal discussions between Andy Burnham and European leaders in Brussels, Ed Miliband has said. The foreign secretary said “all options” would be examined in the process, after the prime minister agreed deals on trade and young people",
-     "rubrieken": [
-      "Brexit",
-      "European Union",
-      "Europe",
-      "Foreign policy",
-      "Politics",
-      "UK news",
-      "World news",
-      "Andy Burnham",
-      "Belgium",
-      "Economics",
-      "Ed Miliband",
-      "Young people",
-      "Studying abroad",
-      "Trade policy"
-     ],
-     "link": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
-     "bron": "The Guardian",
-     "tijd": "12:33",
-     "sorteer": "2026-11-21T11:33:01+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
-     "context": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
-     "rubrieken": [
-      "Drug Cartels",
-      "Drug Abuse and Traffic",
-      "Politics and Government",
-      "United States Politics and Government",
-      "Fugitives",
-      "International Relations",
-      "Defense and Military Forces",
-      "Organized Crime",
-      "Fentanyl",
-      "United States International Relations",
-      "Federal Bureau of Investigation",
-      "Sinaloa Cartel",
-      "Sheinbaum, Claudia",
-      "Trump, Donald J",
-      "Mexico",
-      "Sinaloa (Mexico)",
-      "United States"
-     ],
-     "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
-     "bron": "New York Times",
-     "tijd": "12:20",
-     "sorteer": "2026-11-21T11:20:34+00:00",
+     "tijd": "13:36",
+     "sorteer": "2026-11-21T12:36:56+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -343,17 +329,6 @@
      "sorteer": "2026-11-21T10:26:36+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-     "context": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "10:52",
-     "sorteer": "2026-11-21T09:52:11+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
     }
    ]
   },
@@ -362,6 +337,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Oezbeeks gezin uit Kampen kan kerk na twee jaar verlaten door nieuwe procedure",
+     "context": "Het Oezbeekse gezin dat precies twee jaar kerkasiel kreeg in een kerkgebouw in Kampen, gaat een nieuwe procedure beginnen. De kerkdienst voor de familie Babayants is vandaag beëindigd, omdat die bescherming tegen uitzetting van het gezin niet meer nodig is. Dat heeft de kerk vandaag bekendgemaakt op een persconferentie. De familie heeft zelf besloten het kerkasiel te beëindigen, gesteund door een ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640412",
+     "bron": "NOS",
+     "tijd": "13:00",
+     "sorteer": "2026-11-21T13:00:08+01:00"
+    },
     {
      "titel": "Universiteit Leiden stopt samenwerking met Chinese universiteit na zorgen over lekken data",
      "context": "De Universiteit Leiden heeft besloten een geplande samenwerking met de Chinese universiteit Xi'an Jiaotong niet door te laten gaan , na kritiek van het eigen personeel en zorgen over het lekken van gevoelige informatie naar de Chinese overheid. NRC meldde afgelopen week dat het plan van de Leidse universiteit om jaarlijks 200 Chinese studenten in Leiden te laten deelnemen aan de studierichtingen w",
@@ -390,28 +374,19 @@
      "sorteer": "2026-11-21T07:00:01+01:00"
     },
     {
-     "titel": "Eerste tweetalige verkeersbord in Friesland: uit en út",
-     "context": "Voor het eerst heeft Friesland een tweetalig verkeersbord langs de provinciale weg. Gisteren is het eerste bord vervangen, behalve 'uit' staat er nu ook 'út'. Het nieuwe bord staat langs de N356 bij De Westereen in de gemeente Dantumadiel. Het is de bedoeling dat alle verkeersborden in Friesland tweetalig worden. Als eerste worden 33 uit-borden vervangen langs provinciale wegen. Provinciebestuurde",
+     "titel": "Chanoekaconcert in Concertgebouw gaat door zonder sponsorbijdrage Israëlische ambassade",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640361",
-     "bron": "NOS",
-     "tijd": "05:13",
-     "sorteer": "2026-11-21T05:13:01+01:00"
+     "link": "https://www.volkskrant.nl/binnenland/chanoekaconcert-in-concertgebouw-gaat-door-zonder-sponsorbijdrage-israelische-ambassade~b0aff2e1/",
+     "bron": "de Volkskrant",
+     "tijd": "13:48",
+     "sorteer": "2026-11-21T12:48:06+00:00"
     },
     {
      "titel": "FvD royeert leden na uitzending ‘Zembla’, maar intussen strooien andere met likes en hartjes onder nazicontent",
      "context": "",
      "rubrieken": [],
      "link": "https://www.volkskrant.nl/binnenland/fvd-royeert-leden-na-uitzending-zembla-maar-intussen-strooien-andere-met-likes-en-hartjes-onder-nazicontent~b46dfefe/",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-11-21T04:00:00+00:00"
-    },
-    {
-     "titel": "Overlijden Jason Bhugwandass raakt velen in het hart: ‘Laten we naar elkaar omkijken zoals Jason dat als geen ander kon’",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/overlijden-jason-bhugwandass-raakt-velen-in-het-hart-laten-we-naar-elkaar-omkijken-zoals-jason-dat-als-geen-ander-kon~b153652d/",
      "bron": "de Volkskrant",
      "tijd": "05:00",
      "sorteer": "2026-11-21T04:00:00+00:00"
@@ -427,32 +402,18 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Acht verdachten langer vast na vondst 586 kilo cocaïne: ‘Genoeg om alle inwoners dagelijks lijntje te geven’",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNTYzM3N3eU5tN2VJUk9xNUxBOFc0eDZpMmF2SzFnUzg4anotN1d5RFFEUmloQkp6UXR2VmNwNGFMZ0Y2SGJOak44dzRuaU1wU3FEVUd1dXBEUkRFQy1tOVBLcFF6V0V0cVd0a1NqZlljaDZ5U1poa2M0ZjJ0T0E3SktYNmNsTkc1UFg2eEU5ZWxKTzhmQ1NhdlhFN3NvSC03aGM2MDd2ZjRDT2J4NmVNM29jMEpFMkNubjlKdEVqdUJjYW4zUFZ2NXFob1hCNEVvYU1BSGVET3hHUQ?oc=5",
-     "bron": "AD.nl",
-     "tijd": "08:05",
-     "sorteer": "2026-11-21T07:05:06+00:00"
+     "titel": "Ongeval met letsel op Reggesingel in Rijssen",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRk1jSllzVnFYWlFIaU02dlpTb0xoaGdSNWVVMHNOcjRtWmxMR3QwNnhwODlJVXZjYnB3UDh3bkFNLVQtV0NqZWt2SlV1azU3ZjVlZWJuaWh3RHZiUlVmc0RGcXg1TlRkZGhIa09JWGJNN1VrSmlRYTkzV0FrVU13bjdrckJoZzlnRmtPSDBoR21wT01FbVpfSFdfRXV0R2pOVEVhaTZLeG8?oc=5",
+     "bron": "de Stentor",
+     "tijd": "13:32",
+     "sorteer": "2026-11-21T12:32:33+00:00"
     },
     {
-     "titel": "Persoon zwaargewond na botsing tegen boom in Hollandscheveld",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSjZGcUNWOGdTWUtkOC04MldZdUFkb2tEZ2RoTXA5c3VzMTlMVkdNV3Z6d3pGblVjSEFFWmY0S1J3VWpGU2lkcG1IOFhEMk1GWmR0ZWp1RzBMdkZrNldJa3QzREV6MF85X0t4WWo0c3YxQThCRm1ybVhKdkN6bjVVMG5DcnBIVUd6MDZWYjR3QU5wRFhrM25nVUNiN2hNWGQxbFNGdjV4eG5GUQ?oc=5",
+     "titel": "Gegil uit het bos, politie start grote zoekactie met helikopter. Dan doen agenten bijzondere vondst",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT0ktMVpmc1BiZ3hha1hYQ0lPZTdXMk01S3VISkpYOU5fR2lwZEdvbERab0hiNW0zMVNiVzNGWmNNOEFnWHRoM0kwdkJBeTdQRUFtZENBNGEtRXBqTlZiTUxPeFQ0V1htc0JMWnBILWlpSGNqam5mSFlwanlvZW5Ka1dIci1iTTRVeHNmMXFWMEtpc0ZxeUppUDQ0ZUpiNHZ4LVFCay1QbzFQTXFMbFN4allnUHBzVlluTVFVMkRNQlpYQnVFUjF4bGx5SXdFTWptbWRLLQ?oc=5",
      "bron": "de Stentor",
-     "tijd": "11:26",
-     "sorteer": "2026-11-21T10:26:16+00:00"
-    },
-    {
-     "titel": "Overleden student (22) landbouwschool Dronten werd ‘in korte tijd veel mensen dierbaar’",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3lJNlFwcnJXa0p6WGxNdjhlajR1andEUER0UEtXVnBzYUdDXzRWb0N6eUdwTzcxZWtMbklqOGsyeXUtVGExb0NfN0N2Wm0yTUhnQTFNMElLS013RVdYdk1nakFuaFZmekZIMUJJdVhtNU5HZ0dVb00zTkVfQUdJeEhWTkNuckZNeUJzV1ZwZWlmSWNUZGEwZm05elJDZHB6V0lJd3FHTTlKa016TkF6TzRXVW9URzRkeUNBQ19DczIxT0pm?oc=5",
-     "bron": "de Stentor",
-     "tijd": "11:14",
-     "sorteer": "2026-11-21T10:14:00+00:00"
-    },
-    {
-     "titel": "Sportgala Amersfoort gaat verder als 033 Eretribune",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeUpSS1NQalVWTmVIVkVTdjBBZVFIb2xOdHpQOUVPZ3p0R0tQMzhsRGxZQV9QMlhFU3k4blJXQTZqSTRJTnZfMlpXQUNkTHJkS1RabDQ1Nm5MZFdobGIwRlRjbGFNVzBzOUVKZVlqN2lySWlBMkFLWmVGVTZXb0xmVDN5VkxYTG1icHpEWlJDVDdGbTVtLWlvWkR1bWJqZw?oc=5",
-     "bron": "de Stentor",
-     "tijd": "11:01",
-     "sorteer": "2026-11-21T10:01:00+00:00"
+     "tijd": "12:46",
+     "sorteer": "2026-11-21T11:46:32+00:00"
     },
     {
      "titel": "Ik was te gast bij de VPRO-podcast Achter de Frontlinie. Luister hier het gesprek terug",
@@ -499,13 +460,15 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Egel Mazzel overleeft aanrijding en krijgt onderdak bij leerlingen in Enschede",
-     "context": "Egel Mazzel heeft zijn naam niet voor niets gekregen. Na een aanrijding krijgt hij onderdak bij leerlingen van Het Stedelijk in Enschede. Zij verzorgen het dier de komende maanden in de dierenweide van hun school en helpen daarmee egelopvang Prikkelpootjes, die veel gewonde en verzwakte egels opvangt.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3721845/egel-mazzel-overleeft-aanrijding-en-krijgt-onderdak-bij-leerlingen-in-enschede",
+     "titel": "Na twee jaar stopt kerkasiel Kampen: gezin Babayants verlaat kerk",
+     "context": "Na twee jaar stopt het kerkasiel voor het Oezbeekse gezin Babayants in de Open Hof in Kampen. De familie mag een nieuwe verblijfsprocedure in Nederland afwachten. Daarmee komt een einde aan de kerkdienst die dag en nacht doorging om het gezin tegen uitzetting te beschermen.",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3721840/na-twee-jaar-stopt-kerkasiel-kampen-gezin-babayants-verlaat-kerk",
      "bron": "RTV Oost",
-     "tijd": "12:00",
-     "sorteer": "2026-11-21T11:00:00+00:00"
+     "tijd": "13:00",
+     "sorteer": "2026-11-21T12:00:00+00:00"
     },
     {
      "titel": "Volleybalvereniging voert nieuwe sportbroekjes versneld in na creepshots",
@@ -526,25 +489,51 @@
      "sorteer": "2026-11-21T10:01:30+00:00"
     },
     {
-     "titel": "Auto ramt meerdere geparkeerde voertuigen en botst tegen woning in Enschede",
-     "context": "Bij een verkeersongeval op de Oldenzaalsestraat in Enschede is zaterdagochtend een flinke ravage ontstaan. Een auto ramde meerdere geparkeerde voertuigen en kwam uiteindelijk tegen een woning tot stilstand. Eén persoon is naar het ziekenhuis gebracht.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3721938/auto-ramt-meerdere-geparkeerde-voertuigen-en-botst-tegen-woning-in-enschede",
+     "titel": "Van vliegtuigen naar kruisraketten: wat is Destinus voor een bedrijf?",
+     "context": "Defensiebedrijf Destinus is deze week volop in het nieuws. Het bedrijf zegt dat zijn raketten zijn gebruikt bij een aanval op de Krimbrug in Oekraïne. Volgens NRC hielpen medewerkers zelfs mee in de oorlog. Maar wat maakt Destinus eigenlijk? Wie zit erachter? En hoe kwam het bedrijf in Hengelo terecht?",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3721637/van-vliegtuigen-naar-kruisraketten-wat-is-destinus-voor-een-bedrijf",
      "bron": "RTV Oost",
-     "tijd": "10:45",
-     "sorteer": "2026-11-21T09:45:12+00:00"
+     "tijd": "06:59",
+     "sorteer": "2026-11-21T05:59:34+00:00"
     },
     {
-     "titel": "Een jaar na zijn dood klinkt René Karst opnieuw: familie brengt nummer uit",
-     "context": "Precies een jaar geleden ging er een schok door de Nederlandse muziekwereld, toen liedjesschrijver en zanger René Karst onverwacht in zijn slaap overleed. Nu brengt zijn familie een nummer uit dat is gemaakt door René. \"Na zijn dood vonden we op zijn iPad stukken ingezongen tekst\", vertelt zoon Thomas.",
+     "titel": "Zwolse studenten demonstreren tegen dienstplicht: 'Ik wil een normale toekomst hebben'",
+     "context": "Zo’n veertig demonstranten zijn vrijdagmiddag door de binnenstad van Zwolle gelopen om te protesteren tegen de dienstplicht en de investeringen in Defensie. Met de actie sluiten de studenten zich aan bij een landelijke protestdag. \"Ik heb geen zin om aan het front te staan\", vertelt één van de demonstranten.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3721616/een-jaar-na-zijn-dood-klinkt-rene-karst-opnieuw-familie-brengt-nummer-uit",
+     "link": "https://www.oost.nl/nieuws/3721707/zwolse-studenten-demonstreren-tegen-dienstplicht-ik-wil-een-normale-toekomst-hebben",
      "bron": "RTV Oost",
-     "tijd": "10:25",
-     "sorteer": "2026-11-21T09:25:15+00:00"
+     "tijd": "18:30",
+     "sorteer": "2026-11-20T17:30:00+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Update ivmongeval Kerkstraat Lemelerveld van gisteravond",
+     "titel": "Oud-defensiechef Dick Berlijn over Destinus: 'Dit is precies wat Rusland wil'",
+     "context": "We moeten ons niet laten meeslepen door alle ruis in de media over het Hengelose bedrijf Destinus. Dat bepleit voormalig Commandant der Strijdkrachten Dick Berlijn. Volgens hem is dat precies waar het Russische regime op uit is.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3721617/oud-defensiechef-dick-berlijn-over-destinus-dit-is-precies-wat-rusland-wil",
+     "bron": "RTV Oost",
+     "tijd": "17:14",
+     "sorteer": "2026-11-20T16:14:06+00:00"
+    },
+    {
+     "titel": "Nieuwe klucht Plankenkoorts in première",
+     "context": "NIEUWLEUSEN – DALFSEN – Op 24 augustus werd gestart met de repetities voor het nieuwe stuk “Dan maar een zorgboerderij” van schrijver Willie van Oenen. Na 18 keer repeteren was vrijdagavond in een volle zaal van de Ontmoetingskerk in Nieuwleusen de première van de nieuwe klucht van Plankenkoorts Nieuwleusen. “De verwachtingen zijn altijd hooggespannen […]",
+     "rubrieken": [
+      "Dalfsen",
+      "Ingezonden bericht",
+      "Laatste nieuws",
+      "Nieuwleusen"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/557002/nieuwe-klucht-plankenkoorts-nieuwleusen-in-premiere.html",
+     "bron": "DalfsenNet",
+     "tijd": "13:12",
+     "sorteer": "2026-11-21T12:12:26+00:00"
+    },
+    {
+     "titel": "Update i.v.m. ongeval Kerkstraat Lemelerveld van gisteravond",
      "context": "LEMELERVELD – De politie heeft het rijbewijs ingevorderd. Bij het ongeval op de kruising van de Kerkstraat en de Dorpsstraat in Lemelerveld vrijdagavond waren een 61-jarige vrouw en een 18-jarige jongeman betrokken. Beide betrokkenen komen uit de gemeente Ommen. De 18-jarige bestuurder blies na het ongeval op straat positief bij een blaastest. Een daaropvolgende […]",
      "rubrieken": [
       "Ingezonden bericht",
@@ -555,19 +544,6 @@
      "bron": "DalfsenNet",
      "tijd": "12:58",
      "sorteer": "2026-11-21T11:58:03+00:00"
-    },
-    {
-     "titel": "Melding autobrand Wererdhuisweg",
-     "context": "LEMELERVELD – De hulpdiensten zijn vanochtend uitgereden naar Lemelerveld (gemeente Dalfsen). De p2000 melding is om 09:26 uur verzonden door de veiligheidsregio IJsselland. Bijzonderheden zijn nog niet bekend.",
-     "rubrieken": [
-      "112-nieuws",
-      "Ingezonden bericht",
-      "Lemelerveld"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/557011/melding-autobrand-wererdhuisweg.html",
-     "bron": "DalfsenNet",
-     "tijd": "12:35",
-     "sorteer": "2026-11-21T11:35:46+00:00"
     }
    ]
   },
@@ -666,13 +642,11 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Antwoord op vragen van de leden El Boujdaini en Zwinkels AI-modellen die buiten hun testomgeving inbreken bij organisaties",
-     "bron": "Antwoord op Kamervragen",
-     "kop": "Uit de Tweede Kamer",
-     "tijd": "05-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D48528",
-     "sorteer": "2026-11-18T14:19:40.337+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "titel": "VN-onderzoek: AI-chatbots veranderen eenvoudig in klimaatontkenners, en dat is gevaarlijk",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMXRsR2hQaDRTblNZLTRVdWEyOUxMaGpFRU5pZTZ4U2FLbFhycG02SnhYUEpVTm80Q2ZldFV5NGgyTW9zX0RoX3BCcXlwUUNMUkVhOWZNVlczbkdDYXg3SHRoOFBRSE52eVRoLXdkRlROSURxd1ZjWFpKWUJsdUtCT1RvdUpzQ05Ib0lTWFRVUkFqMTZ5d2JmbUg1eDFBa1ktanZicnQ4QS1maW5idlZTZWd5X1ZGRGZzYnhDdEdJdm5ZOGRUUFJwOTRHZEFVSjVkMkU4?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "12:12",
+     "sorteer": "2026-11-21T11:12:42+00:00"
     },
     {
      "titel": "Wiskundige claimt ruim 170 jaar oud priemgetallenraadsel op te lossen met AI: ’Begin van iets veel groters’",
@@ -687,13 +661,6 @@
      "bron": "Bright",
      "tijd": "12:41",
      "sorteer": "2026-11-21T11:41:00+00:00"
-    },
-    {
-     "titel": "VN-onderzoek: AI-chatbots veranderen eenvoudig in klimaatontkenners, en dat is gevaarlijk",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMXRsR2hQaDRTblNZLTRVdWEyOUxMaGpFRU5pZTZ4U2FLbFhycG02SnhYUEpVTm80Q2ZldFV5NGgyTW9zX0RoX3BCcXlwUUNMUkVhOWZNVlczbkdDYXg3SHRoOFBRSE52eVRoLXdkRlROSURxd1ZjWFpKWUJsdUtCT1RvdUpzQ05Ib0lTWFRVUkFqMTZ5d2JmbUg1eDFBa1ktanZicnQ4QS1maW5idlZTZWd5X1ZGRGZzYnhDdEdJdm5ZOGRUUFJwOTRHZEFVSjVkMkU4?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "12:12",
-     "sorteer": "2026-11-21T11:12:00+00:00"
     },
     {
      "titel": "Opinie: Juist nu AI oprukt, moeten we leren kijken door de ogen van een ander",
@@ -747,6 +714,14 @@
      "tijd": "20-11",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D59776",
      "sorteer": "2026-11-20T17:18:53.507+01:00"
+    },
+    {
+     "titel": "Antwoord op vragen van de leden Lammers en Claassen over het gebruik van politie-uniformen en de verheerlijking van geweld in een…",
+     "bron": "Antwoord op Kamervragen",
+     "kop": "Kamervragen",
+     "tijd": "06-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D48833",
+     "sorteer": "2026-11-20T08:04:52.463+01:00"
     },
     {
      "titel": "Reactie op het verzoek van het lid Vermeer, gedaan tijdens o.a. het debat over het Pakket Belastingplan, over politieke contacten…",
@@ -836,7 +811,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "13:00",
+    "bijgewerkt": "14:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1265,14 +1240,6 @@
      "sorteer": "2026-11-21T08:07:00+01:00"
     },
     {
-     "titel": "Zwarte Zeekoet",
-     "kop": "Zeldzaamheden",
-     "bron": "Friesland",
-     "tijd": "13:14",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-20T13:14:00+01:00"
-    },
-    {
      "titel": "Dalfsen (nacht)",
      "kop": "Vogeltrek",
      "bron": "21-11",
@@ -1365,11 +1332,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 60 plekken in de afgelopen week, waarvan 3 vandaag",
+     "titel": "Invasiejaar — op 61 plekken in de afgelopen week, waarvan 4 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 168 vogels; 94 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 170 vogels; 95 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1405,22 +1372,22 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 8.8,
-    "gevoel": 6.4,
+    "nu": 8.6,
+    "gevoel": 5.9,
     "wind": "WZW 3",
     "station": "Heino",
     "bericht": "Vandaag verspreid nog enkele buien met verder zon. Vanaf morgen wordt het meest droog met veel ruimte voor de zon. In de nacht en ochtend plaatselijk mist.",
     "vandaag": "Vandaag verspreid nog enkele buien met verder zon. Vanmiddag zijn er zonnige perioden met stapelwolken en kan er plaatselijk nog een lichte regenbui vallen.",
     "temperatuur": "De maximumtemperatuur komt uit op ongeveer 9 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: motregen, 1 tot 9 graden, 78% kans op neerslag, ruim 7 uur zon, wind uit het zuidwesten, kracht 3.",
+     "zin": "Voor Dalfsen zelf: motregen, 1 tot 9 graden, 78% kans op neerslag, ruim 6 uur zon, wind uit het zuidwesten, kracht 3.",
      "max": 9,
      "min": 1,
      "regenkans": 78,
      "omschrijving": "motregen",
      "morgen": {
       "max": 7,
-      "min": 0,
+      "min": -1,
       "regenkans": 0,
       "omschrijving": null
      }
@@ -1434,21 +1401,11 @@
     "omschrijving": "Zwaar bewolkt en regen",
     "morgen": {
      "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
-     "min": "0",
-     "max": "6",
+     "min": "-1",
+     "max": "7",
      "regenkans": 10
     }
    }
   }
- ],
- "archief": [
-  "2026-11-21",
-  "2026-11-20",
-  "2026-11-19",
-  "2026-11-18",
-  "2026-11-17",
-  "2026-11-16",
-  "2026-11-15",
-  "2026-11-14"
  ]
 }
