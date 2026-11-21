@@ -1,15 +1,17 @@
 {
  "datum": "2026-11-21",
- "naam": "Ochtendbriefing",
+ "naam": "Middagbriefing",
  "status": {
-  "ronde": "Ochtendbriefing",
-  "opgehaald": "11:00",
-  "blokken": 11,
+  "ronde": "Middagbriefing",
+  "opgehaald": "12:00",
+  "blokken": 10,
   "berichten": 86,
-  "problemen": [],
+  "problemen": [
+   "hemel: timeout"
+  ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-21T11:00+01:00",
+ "opgehaald": "2026-11-21T12:00+01:00",
  "audio": "audio/20261121.mp3",
  "afval": [
   {
@@ -178,6 +180,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Gaat een unieke gebeurtenis hoog boven de polen ons winterweer bezorgen?",
+     "context": "De wetenschappelijke wereld kijkt met grote interesse naar de poolwervel die eind vorige week is ingestort . Deze ijskoude, onzichtbare draaikolk van lucht van een paar duizend kilometer doorsnee ontstaat elke winter boven het Noordpoolgebied en valt af en toe uit elkaar. Maar zo vroeg als het nu gebeurt, is nog nooit waargenomen. Uniek en opmerkelijk, vinden wetenschappers wereldwijd. Het kan bov",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640403",
+     "bron": "NOS",
+     "tijd": "11:30",
+     "sorteer": "2026-11-21T11:30:04+01:00"
+    },
+    {
      "titel": "Wekdienst 21/11: Klimaattop Turkije loopt uit • Groot Dictee op NPO Radio 1",
      "context": "Goedemorgen! Vandaag zijn landen nog steeds niet uitgepraat op de klimaattop in Turkije, hoewel die eigenlijk gisteren al afgerond had moeten zijn. En het Groot Dictee der Nederlandse Taal is weer te horen op NPO Radio 1. Eerst het weer: Vandaag wisselen zon, wolken en enkele buien elkaar af. Het wordt 8 tot 10 graden bij een matige westenwind. De komende dagen is het een stuk kouder, met begin vo",
      "rubrieken": [],
@@ -214,16 +225,7 @@
      "sorteer": "2026-11-21T01:08:02+01:00"
     },
     {
-     "titel": "Franse senaat keurt wet goed die schietende politieagenten beschermt",
-     "context": "De Franse senaat heeft een wet goedgekeurd die politieagenten automatisch beschermt nadat zij hun vuurwapen hebben gebruikt. Het uitgangspunt in de nieuwe wet is dat agenten binnen de wettelijke kaders hebben gehandeld wanneer zij hun wapen trekken. Minister Nuñez van Binnenlandse Zaken zegt dat de wet nodig is om te voorkomen dat \"het veeleisende werk van de veiligheidsdiensten in twijfel wordt g",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640354",
-     "bron": "NOS",
-     "tijd": "23:05",
-     "sorteer": "2026-11-20T23:05:32+01:00"
-    },
-    {
-     "titel": "Gelekt overheidsrapport VS: training ICE-immigratieagenten ‘catastrofale mislukking’",
+     "titel": "Gelekt overheids­rapport VS: training ICE-immigratie­agenten ‘catastrofale mislukking’",
      "context": "",
      "rubrieken": [],
      "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
@@ -248,6 +250,80 @@
      "bron": "Trouw",
      "tijd": "05:23",
      "sorteer": "2026-11-21T04:23:00+00:00"
+    },
+    {
+     "titel": "Costa cuts proposed EU budget by €44B",
+     "context": "Brussels proposes tax on Big Tech to raise billions for the next budget cycle.",
+     "rubrieken": [
+      "Big Tech",
+      "Budget",
+      "Carbon",
+      "Companies",
+      "Competitiveness",
+      "Crisis",
+      "Data",
+      "Defense",
+      "Development",
+      "digital",
+      "Elections",
+      "Emissions",
+      "Emissions Trading System",
+      "EU Budget",
+      "Finance",
+      "Negotiations",
+      "Online advertising",
+      "Plastics",
+      "Policy",
+      "Regions/Cohesion",
+      "Services",
+      "Spectrum",
+      "Tax",
+      "Waste",
+      "Agriculture and Food",
+      "Competition and Industrial Policy",
+      "Defense",
+      "Financial Services",
+      "Health Care",
+      "Mobility",
+      "Politics",
+      "Technology"
+     ],
+     "link": "https://www.politico.eu/article/costa-cuts-proposed-eu-budget-by-44billion-euros/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "11:44",
+     "sorteer": "2026-11-21T10:44:05+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Maldon Salt’s Authenticity Is Questioned, Leaving Foodies Shaken",
+     "context": "The salt is a flaky favorite of food influencers and famous chefs. A revelation this week raised questions about what makes artisanal “artisanal.”",
+     "rubrieken": [
+      "Salt",
+      "Oceans and Seas",
+      "Rock and Stone",
+      "Essex (England)",
+      "K+S AG",
+      "Cooking and Cookbooks",
+      "Maldon Salt"
+     ],
+     "link": "https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html",
+     "bron": "New York Times",
+     "tijd": "11:37",
+     "sorteer": "2026-11-21T10:37:45+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+     "context": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "11:26",
+     "sorteer": "2026-11-21T10:26:36+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
      "titel": "Black Friday deals for liquid Brazilian butt lifts criticised over safety fears",
@@ -281,58 +357,6 @@
      "bron": "BBC",
      "tijd": "10:52",
      "sorteer": "2026-11-21T09:52:11+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-     "context": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "10:40",
-     "sorteer": "2026-11-21T09:40:55+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
-     "context": "For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces.",
-     "rubrieken": [
-      "US and Israeli Attack on Iran (2026)",
-      "Iraqi Army",
-      "Kataib Hezbollah",
-      "al-Zaidi, Ali (1986- )",
-      "Iraq",
-      "Iran",
-      "Middle East"
-     ],
-     "link": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
-     "bron": "New York Times",
-     "tijd": "08:11",
-     "sorteer": "2026-11-21T07:11:24+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "UK will take its time setting out Brexit options, says minister",
-     "context": "Hamish Falconer tells POLITICO that discussions around the topic had proved “divisive” and were important to get right.",
-     "rubrieken": [
-      "Customs Union",
-      "Parliament",
-      "Single Market",
-      "Westminster Insider",
-      "Energy and Climate UK",
-      "EU-UK",
-      "Financial Services UK",
-      "Technology UK",
-      "Trade",
-      "Trade UK"
-     ],
-     "link": "https://www.politico.eu/article/uk-brexit-eu-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "18:50",
-     "sorteer": "2026-11-20T17:50:49+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -372,7 +396,7 @@
     },
     {
      "titel": "Eerste tweetalige verkeersbord in Friesland: uit en út",
-     "context": "Voor het eerst heeft Friesland een tweetalig verkeersbord langs de provinciale weg. Gisteren is de eerste vervangen, behalve 'uit' staat er nu ook 'út'. Het nieuwe bord staat langs de N356 bij De Westereen in de gemeente Dantumadiel. Het is de bedoeling dat alle verkeersborden in Friesland tweetalig worden. Als eerste worden 33 uit-borden vervangen langs provinciale wegen. Provinciebestuurder Eke ",
+     "context": "Voor het eerst heeft Friesland een tweetalig verkeersbord langs de provinciale weg. Gisteren is het eerste bord vervangen, behalve 'uit' staat er nu ook 'út'. Het nieuwe bord staat langs de N356 bij De Westereen in de gemeente Dantumadiel. Het is de bedoeling dat alle verkeersborden in Friesland tweetalig worden. Als eerste worden 33 uit-borden vervangen langs provinciale wegen. Provinciebestuurde",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640361",
      "bron": "NOS",
@@ -445,12 +469,14 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "De zaak-Pelicot legt bloot hoe gewone mannen nog altijd over heteroseks denken – en dat is doodeng",
-     "link": "https://decorrespondent.nl/17422",
-     "bron": "De Correspondent · Bregje Hofstede",
-     "tijd": "11:27",
-     "sorteer": "2026-11-20T10:27:39+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "titel": "EU-president Costa snijdt 181 miljard euro uit voorstel voor nieuwe begroting, in aanloop naar top daarover",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/politiek/eu-president-costa-snijdt-181-miljard-euro-uit-voorstel-voor-nieuwe-begroting-in-aanloop-naar-top-daarover~b49cdbe2/",
+     "bron": "de Volkskrant",
+     "tijd": "11:45",
+     "sorteer": "2026-11-21T10:45:41+00:00",
+     "kop": "Begroting"
     },
     {
      "titel": "‘In heel Europa krijgen regeringen hun begroting niet rond, dat is geen toeval’",
@@ -479,45 +505,6 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Auto ramt meerdere geparkeerde voertuigen en botst tegen woning in Enschede",
-     "context": "Bij een verkeersongeval op de Oldenzaalsestraat in Enschede is zaterdagochtend een flinke ravage ontstaan. Een auto ramde meerdere geparkeerde voertuigen en kwam uiteindelijk tegen een woning tot stilstand. Eén persoon is naar het ziekenhuis gebracht.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3721938/auto-ramt-meerdere-geparkeerde-voertuigen-en-botst-tegen-woning-in-enschede",
-     "bron": "RTV Oost",
-     "tijd": "10:45",
-     "sorteer": "2026-11-21T09:45:12+00:00"
-    },
-    {
-     "titel": "Slachtoffer met traumahelikopter naar ziekenhuis na ernstig ongeval op N347",
-     "context": "Bij een eenzijdig ernstig ongeval op de N347 (Goorseweg) tussen Hengevelde en Sint Isidorushoeve is vanochtend een persoon ernstig gewond geraakt en met een traumahelikopter naar het ziekenhuis gebracht. De bestuurder verloor door nog onbekende oorzaak de macht over het stuur.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3721929/slachtoffer-met-traumahelikopter-naar-ziekenhuis-na-ernstig-ongeval-op-n347",
-     "bron": "RTV Oost",
-     "tijd": "09:35",
-     "sorteer": "2026-11-21T08:35:12+00:00"
-    },
-    {
-     "titel": "Wie zit er achter defensiebedrijf Destinus in Hengelo?",
-     "context": "Defensiebedrijf Destinus is deze week volop in het nieuws. Het bedrijf zegt dat zijn raketten zijn gebruikt bij een aanval op de Krimbrug in Oekraïne. Volgens NRC hielpen medewerkers zelfs mee in de oorlog. Maar wat maakt Destinus eigenlijk? Wie zit erachter? En hoe kwam het bedrijf in Hengelo terecht?",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3721637/wie-zit-er-achter-defensiebedrijf-destinus-in-hengelo",
-     "bron": "RTV Oost",
-     "tijd": "06:59",
-     "sorteer": "2026-11-21T05:59:34+00:00"
-    },
-    {
-     "titel": "Man uit Hasselt verliest tand na harde klap bij Zwolse dönerzaak",
-     "context": "Bij een dönerzaak aan de Steenstraat in Zwolle krijgt een man van 27 uit Hasselt een vuistslag in zijn gezicht, nadat hij iets zegt tegen twee mannen die voordringen. Hij verliest daarbij een tand. De politie is op zoek naar de man die de klap uitdeelt. Hij heeft een opvallend uiterlijk.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3720317/man-uit-hasselt-verliest-tand-na-harde-klap-bij-zwolse-donerzaak",
-     "bron": "RTV Oost",
-     "tijd": "19:02",
-     "sorteer": "2026-11-20T18:02:01+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
      "titel": "Zwolse studenten demonstreren tegen dienstplicht: 'Ik wil een normale toekomst hebben'",
      "context": "Zo’n veertig demonstranten zijn vrijdagmiddag door de binnenstad van Zwolle gelopen om te protesteren tegen de dienstplicht en de investeringen in Defensie. Met de actie sluiten de studenten zich aan bij een landelijke protestdag. \"Ik heb geen zin om aan het front te staan\", vertelt één van de demonstranten.",
      "rubrieken": [],
@@ -528,13 +515,16 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Oud-defensiechef Dick Berlijn over Destinus: 'Dit is precies wat Rusland wil'",
-     "context": "We moeten ons niet laten meeslepen door alle ruis in de media over het Hengelose bedrijf Destinus. Dat bepleit voormalig Commandant der Strijdkrachten Dick Berlijn. Volgens hem is dat precies waar het Russische regime op uit is.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3721617/oud-defensiechef-dick-berlijn-over-destinus-dit-is-precies-wat-rusland-wil",
+     "titel": "Creepshots blijven veel losmaken: ‘Groep mannen ziet probleem niet’",
+     "context": "De creepshot-appgroep 't Haviksoog uit Twente en de Achterhoek maakt veel los. Experts zien vooral hoe makkelijk het gedrag van de mannen die ongewenste beelden van vrouwen maakten, wordt weggewuifd. Terwijl dat gedrag serieuze juridische consequenties kan hebben.",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3721309/creepshots-blijven-veel-losmaken-groep-mannen-ziet-probleem-niet",
      "bron": "RTV Oost",
-     "tijd": "17:14",
-     "sorteer": "2026-11-20T16:14:06+00:00"
+     "tijd": "16:21",
+     "sorteer": "2026-11-20T15:21:48+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Met het Vossenspan de kerstsfeer tegemoet",
@@ -641,15 +631,6 @@
    "emoji": "🤖",
    "items": [
     {
-     "titel": "Nieuwe ChatGPT Astra scoort goed op papier, slecht in de praktijk",
-     "toelichting": "& Anthropic gaat vandaag naar de beurs + zo begin je nooit meer met een leeg spreadsheet",
-     "bron": "AI Report",
-     "tijd": "12:00",
-     "link": "https://www.aireport.nl/p/nieuwe-chatgpt-astra-scoort-goed-op-papier-slecht-in-de-praktijk",
-     "sorteer": "2026-11-19T11:00:00+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
      "titel": "Motie van de leden Rajkowski en Peter de Groot over onderzoeken hoe een Taskforce RAID kan worden ingericht om AI versneld bij…",
      "bron": "Motie",
      "kop": "Uit de Tweede Kamer",
@@ -680,8 +661,15 @@
      "titel": "Wiskundige claimt ruim 170 jaar oud priemgetallenraadsel op te lossen met AI: ’Begin van iets veel groters’",
      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV0tJenNZWlBCTXVlQlB6eGJTQm9kRzE4NU9DVWJEcVZfZTAyR0k1OVlpTzFyeVpGR1c1X0RITlFsUzAwVnhwU2R5bDRua1BQNTFJdVFSVmRacHhLVlFITFhzYWFZcjVsNXdlWE9BZTh2TkRBR2NGRVR3MEVOZ1VTVjZkWkRSb2o4YVE2el96bHNQYnNZWjhBU2dobU9UQjc3d1Z5eUVQQXFQUldZV3VZRURLY24xaGVVeVpfMWxKa0xIckZkNnNqTi1GaHYzU3QxWjBEaXpXbHBxX3IwNWw3TDlpcU8ycFBuSXRV?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "09:49",
-     "sorteer": "2026-11-21T08:49:58+00:00"
+     "tijd": "11:38",
+     "sorteer": "2026-11-21T10:38:40+00:00"
+    },
+    {
+     "titel": "Laat de AI-zeepbel maar groeien, ook als die straks knapt",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX3Q0SVRXU29aOGFEUTBnb0c2UklrTjFhdkh4OUFUbHVicS05d0E0VHRPaTVzbU5WNTNZdGtXaHhKX3puNFJETnM3akFTSTdQekRSMlBmZFp1eGJSSkY2UkQ4Y1F5STExNmFYOWRyUXFnS0FiY3dkM2FmR3dnRXBDM2NueHJ4Q1pBM1E?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "11:38",
+     "sorteer": "2026-11-21T10:38:38+00:00"
     },
     {
      "titel": "Riemann-hypothese bewezen? Onderzoeker zegt met AI eeuwenoud wiskundig probleem te hebben opgelost",
@@ -689,14 +677,6 @@
      "bron": "de Stentor",
      "tijd": "01:56",
      "sorteer": "2026-11-21T00:56:00+00:00"
-    },
-    {
-     "titel": "Met een zwerm AI-agents slaan hackers razendsnel hun slag",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3Bta3cxX09iRVhrMXNTNG10ZGozLTZicFFtLXdhXy1jRzR5c1FDYmR3bUtOY2RZVjI3TjE0R3FIVHJUZUdqNUJKZzYzMlM3bUdWdzY3Sk5mekluRlZfSnNhdEJkYmNid3ltd1paYnNsZmlrT0FkeFVpM2s1czVsYXBEbzZRQ19mVTNmVk83emVJcHQwWF9adlFvX1Awem9sSTE3b3psRmRnSFQ0Y2RZ?oc=5",
-     "bron": "Trouw",
-     "tijd": "22:00",
-     "sorteer": "2026-11-20T21:00:00+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
     }
    ]
   },
@@ -825,7 +805,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "11:00",
+    "bijgewerkt": "12:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1176,6 +1156,14 @@
      "sorteer": "2026-11-21T06:00:00+00:00"
     },
     {
+     "titel": "Weten dat natuur verdwijnt is iets anders dan voelen wat we verloren zijn",
+     "toelichting": "Ik kan blij worden van een paar vlinders in mijn tuin. Van een bloemrijke berm ook. Toen las ik hoe Jac. P. Thijsse ruim een eeuw geleden een Nederlands weiland beschreef: dotterbloemen zover je keek, orchideeën tussen h",
+     "bron": "Nature Today",
+     "tijd": "12:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36086",
+     "sorteer": "2026-11-21T11:00:00+00:00"
+    },
+    {
      "titel": "Kan zuurstofarme lucht bijenvolken beschermen tegen de dodelijke varroamijt?",
      "toelichting": "De varroamijt is voor honingbijen wereldwijd de grootste plaag, maar op de Tibetaanse hoogvlakte loopt de parasiet tegen zijn grens aan. Bijenvolken die naar ruim 3600 meter hoogte werden verhuisd, waren binnen een jaar ",
      "bron": "Scientias",
@@ -1209,9 +1197,17 @@
      "titel": "Rotszwaluw",
      "kop": "Zeldzaamheden",
      "bron": "Noord-Holland",
-     "tijd": "08:57",
+     "tijd": "11:25",
      "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-21T08:57:00+01:00"
+     "sorteer": "2026-11-21T11:25:00+01:00"
+    },
+    {
+     "titel": "Grijze Wouw",
+     "kop": "Zeldzaamheden",
+     "bron": "Drenthe",
+     "tijd": "10:24",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-21T10:24:00+01:00"
     },
     {
      "titel": "Roodkopklauwier",
@@ -1256,71 +1252,101 @@
     {
      "titel": "Dalfsen (nacht)",
      "kop": "Vogeltrek",
-     "bron": "20-11",
-     "wanneer": "de nacht van donderdag op vrijdag",
-     "tijd": "17:15–07:25",
-     "link": "https://trektellen.org/count/view/2364/20261120",
+     "bron": "21-11",
+     "wanneer": "vannacht",
+     "tijd": "17:15–01:00",
+     "link": "https://trektellen.org/count/view/2364/20261121",
      "soorten": [
-      "Koperwiek 120",
-      "Zanglijster 12",
-      "Merel 5",
-      "Waterhoen 3"
+      "Koperwiek 26",
+      "Merel 3",
+      "Krakeend 2",
+      "Kramsvogel 2"
      ],
-     "aantal_soorten": 12,
-     "opmerkingen": [
-      "Lijster onbekend Thrush spec"
-     ],
+     "aantal_soorten": 11,
+     "opmerkingen": [],
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 24 soorten, 944 vogels geteld",
+     "titel": "Landelijk vandaag: 112 soorten, 128.708 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch"
     },
     {
-     "titel": "Stormmeeuw — 188",
+     "titel": "Spreeuw — 112.316",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch"
     },
     {
-     "titel": "Aalscholver — 170",
+     "titel": "Sneeuwgors — 3.329",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch"
     },
     {
-     "titel": "Spreeuw — 150",
+     "titel": "Aalscholver — 2.063",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch"
     },
     {
-     "titel": "Zwarte Zee-eend — 88",
+     "titel": "Zwarte Zee-eend — 1.323",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch"
     },
     {
-     "titel": "Jan-van-gent — 61",
+     "titel": "Vink — 1.311",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch"
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Spreeuw springt eruit — 112.316, normaal 1.871",
+     "bron": "60× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Smient springt eruit — 768, normaal 26",
+     "bron": "30× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Vink springt eruit — 1.311, normaal 50",
+     "bron": "26× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "duiker spec. springt eruit — 62, normaal 4",
+     "bron": "16× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch",
+     "sein": true
     },
     {
      "kop": "Pestvogels",
-     "titel": "Goed pestvogeljaar — op 58 plekken in de afgelopen week, waarvan 1 vandaag",
+     "titel": "Goed pestvogeljaar — op 59 plekken in de afgelopen week, waarvan 2 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 166 vogels; 92 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 167 vogels; 93 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1332,41 +1358,28 @@
    ]
   },
   {
-   "id": "hemel",
-   "titel": "Aan de hemel",
-   "emoji": "🌙",
-   "items": [
-    {
-     "titel": "Mercurius is op zijn verst van de zon en te vinden aan de ochtendhemel.",
-     "bron": "hemel.waarnemen.com",
-     "tijd": "00:31",
-     "link": "https://hemel.waarnemen.com/astrokal/"
-    }
-   ]
-  },
-  {
    "id": "weer",
    "titel": "Weer Dalfsen",
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 5.6,
-    "gevoel": 3.8,
+    "nu": 7.9,
+    "gevoel": 5.9,
     "wind": "ZW 2",
     "station": "Heino",
     "bericht": "Vandaag is het wisselend bewolkt en vallen verspreid nog enkele lichte buien. Vanaf morgen wordt het droog en krijgen we zonnige perioden, met in de nacht en ochtend plaatselijk mist. Het wordt de komende dagen steeds kouder, met in de nachten op uitgebreide schaal lichte en lokaal mogelijk ook matige vorst.Vanochtend is het wisselend bewolkt en komen verspreid over het land enkele buien voor.",
     "vandaag": "Vandaag is het wisselend bewolkt en vallen verspreid nog enkele lichte buien. Vanochtend is het wisselend bewolkt en komen verspreid over het land enkele buien voor.",
     "temperatuur": "Op het KNMI-station in Deelen daalde de temperatuur naar -3,1 graden en aan de grond werd het in Eindhoven zelfs -4,5 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: lichte motregen, 1 tot 8 graden, 86% kans op neerslag, ruim 6 uur zon, wind uit het zuidwesten, kracht 3.",
+     "zin": "Voor Dalfsen zelf: lichte motregen, 1 tot 8 graden, 78% kans op neerslag, ruim 4 uur zon, wind uit het zuidwesten, kracht 3.",
      "max": 8,
      "min": 1,
-     "regenkans": 86,
+     "regenkans": 78,
      "omschrijving": "lichte motregen",
      "morgen": {
       "max": 7,
       "min": 0,
-      "regenkans": 3,
+      "regenkans": 0,
       "omschrijving": null
      }
     },
