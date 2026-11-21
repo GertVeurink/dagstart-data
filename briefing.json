@@ -3,15 +3,13 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "12:00",
-  "blokken": 10,
-  "berichten": 86,
-  "problemen": [
-   "hemel: timeout"
-  ],
+  "opgehaald": "13:00",
+  "blokken": 11,
+  "berichten": 92,
+  "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-21T12:00+01:00",
+ "opgehaald": "2026-11-21T13:00+01:00",
  "audio": "audio/20261121.mp3",
  "afval": [
   {
@@ -53,32 +51,41 @@
  ],
  "duiding": [
   {
-   "titel": "FVD mist begrotingsdebatten",
-   "tekst": "Forum voor Democratie laat volgens De Telegraaf veel begrotingsdebatten in de Kamer schieten en daarmee het parlementaire werk liggen (23). De krant noemt de partij daarom spottend 'Forum voor Absentie': een partij die vooral afwezig is (23).",
+   "titel": "Denemarken zet Russische attaché uit",
+   "tekst": "Denemarken beschuldigt Rusland van een plan om een Amerikaans-Oekraïense rapper te vermoorden en heeft daarom de Russische defensieattaché uitgezet (12). De Deense autoriteiten zeggen dat ze dat plan in september hebben verijdeld (9). De Russische ambassade in Denemarken ontkent de beschuldiging (12). Na de onthulling zei Von der Leyen dat de Russische dreiging \"steeds minder hybride\" wordt (9).",
    "verwijzingen": [
     {
-     "titel": "’Forum voor Absentie’: FVD mist veel begrotingsdebatten en laat parlementaire werk links liggen",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdERVcnVQTXhLVS1RN1RNV3FEQXZRTG9KUlFJcDFmd0VSbUtfR2xmQ01ORlZYTER0U0lrdWNUWFRHdlY3a010TGN2LUlIbGc0YktjRERmNDFfMk1wNGNiTV9lb1NxNTlxcy1ROWI0S016UldfX3FqMzJKbFBKVVVSOGdNV0dJcjNGQUdhak1keUl4LVpOVGFkdDRtQmd5TmozUkItN2p6RlpEWEF5OEdnVHJQa1dPM1ZzV05kZHNNaVo1ajRyZlNCY2xIamxudWNMcDU5TDh6M3U?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "03:30",
+     "titel": "Russian threats ‘less and less hybrid,’ Von der Leyen says after assassination plot in Denmark",
+     "link": "https://www.politico.eu/article/russian-threats-less-hybrid-von-der-leyen-says-assassination-plot-ukrainian-rapper-kyivstoner-denmark/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "12:43",
      "nummers": [
-      23
+      9
+     ]
+    },
+    {
+     "titel": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+     "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "11:26",
+     "nummers": [
+      12
      ]
     }
    ],
-   "geschreven": "06:05"
+   "geschreven": "13:00"
   },
   {
-   "titel": "Politie onderzoekt beelden Zembla-docu",
-   "tekst": "De politie onderzoekt de beelden van neonazistische kooigevechten uit de Zembla-documentaire, en het OM beslist na de uitzending over een strafonderzoek (24). Die onthullingen raken ook Forum voor Democratie, dat leden royeerde terwijl andere leden volgens de Volkskrant nazi-content liken (19). De ophef treft ook een onschuldige: tandarts Bas Wemekamp uit Den Ham krijgt dreigmails, omdat hij wordt aangezien voor een naamgenoot (29).",
+   "titel": "Burnham sluit deals met Brussel",
+   "tekst": "Premier Andy Burnham heeft vrijdag met de EU afspraken gemaakt over handel en jongeren, en volgens zijn minister Miliband ligt daarna zelfs terugkeer in de EU op tafel (10). Die toenadering volgt op Burnhams oordeel dat Brexit een vergissing was (25). Daarom wil hij praten over de interne markt, de douane-unie en vrij verkeer van personen (25). Miliband zegt dat in dat proces \"alle opties\" worden bekeken (10).",
    "verwijzingen": [
     {
-     "titel": "Forum royeert leden na onthullingen Zembla, maar intussen strooien andere met likes en hartjes onder nazi-content: ‘Deze partij is door en door extreemrechts’",
-     "link": "https://www.volkskrant.nl/binnenland/forum-royeert-leden-na-onthullingen-zembla-maar-intussen-strooien-andere-met-likes-en-hartjes-onder-nazi-content-deze-partij-is-door-en-door-extreemrechts~b46dfefe/",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
+     "titel": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
+     "link": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
+     "bron": "The Guardian",
+     "tijd": "12:33",
      "nummers": [
-      19
+      10
      ]
     },
     {
@@ -87,45 +94,36 @@
      "bron": "NPO2 · 22:00",
      "tijd": "22:00",
      "nummers": [
-      24
-     ]
-    },
-    {
-     "titel": "'Ik steek je tent in de fik': tandarts uit Den Ham bedreigd na neonazi-docu Zembla",
-     "link": "https://www.oost.nl/nieuws/3721790/ik-steek-je-tent-in-de-fik-tandarts-uit-den-ham-bedreigd-na-neonazi-docu-zembla",
-     "bron": "RTV Oost",
-     "tijd": "18:17",
-     "nummers": [
-      29
+      25
      ]
     }
    ],
-   "geschreven": "06:05"
+   "geschreven": "13:00"
   },
   {
-   "titel": "Man schuldig aan Palisades-brand",
-   "tekst": "Een jury in Los Angeles heeft een 30-jarige man schuldig bevonden aan de brand in Pacific Palisades, die twaalf doden eiste (1, 9). Zijn advocaat stelde dat het om twee branden ging: een door vuurwerk en een die door een ander was aangestoken (1). Daartegenover zette de aanklager camerabeelden zonder vuurwerk en locatiegegevens die de man als enige bij de plek van de brand plaatsten (1).",
+   "titel": "AI kraakt raadsel van Riemann",
+   "tekst": "Met hulp van AI zegt een wiskundige een priemgetallenraadsel op te lossen dat al ruim 170 jaar openstaat (36). Trouw schrijft dat AI daarmee na 167 jaar het oordeel velt dat de wiskundige Riemann gelijk had (8). De Telegraaf brengt hetzelfde als een claim van de wiskundige zelf (36).",
    "verwijzingen": [
     {
-     "titel": "Man schuldig bevonden aan verwoestende bosbranden Los Angeles",
-     "link": "https://nos.nl/l/2640359",
-     "bron": "NOS",
-     "tijd": "02:12",
+     "titel": "Na 167 jaar velt AI het oordeel: de wiskundige Riemann had gelijk",
+     "link": "https://www.trouw.nl/buitenland/na-167-jaar-velt-ai-het-oordeel-de-wiskundige-riemann-had-gelijk~b56ae5aa/",
+     "bron": "Trouw",
+     "tijd": "05:23",
      "nummers": [
-      1
+      8
      ]
     },
     {
-     "titel": "Man convicted of starting Palisades fire in Los Angeles",
-     "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "05:34",
+     "titel": "Wiskundige claimt ruim 170 jaar oud priemgetallenraadsel op te lossen met AI: ’Begin van iets veel groters’",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV0tJenNZWlBCTXVlQlB6eGJTQm9kRzE4NU9DVWJEcVZfZTAyR0k1OVlpTzFyeVpGR1c1X0RITlFsUzAwVnhwU2R5bDRua1BQNTFJdVFSVmRacHhLVlFITFhzYWFZcjVsNXdlWE9BZTh2TkRBR2NGRVR3MEVOZ1VTVjZkWkRSb2o4YVE2el96bHNQYnNZWjhBU2dobU9UQjc3d1Z5eUVQQXFQUldZV3VZRURLY24xaGVVeVpfMWxKa0xIckZkNnNqTi1GaHYzU3QxWjBEaXpXbHBxX3IwNWw3TDlpcU8ycFBuSXRV?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "11:38",
      "nummers": [
-      9
+      36
      ]
     }
    ],
-   "geschreven": "06:05"
+   "geschreven": "13:00"
   }
  ],
  "denkwerk": {
@@ -138,39 +136,46 @@
  },
  "verder": [
   {
-   "kop": "Parijs beschermt schietende agent",
-   "blok": "internationaal",
-   "link": "https://nos.nl/l/2640354",
-   "bron": "NOS",
-   "titel": "Franse senaat keurt wet goed die schietende politieagenten beschermt"
-  },
-  {
-   "kop": "Coen K. krijgt 15 jaar en tbs",
-   "blok": "nationaal",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNakRnNmNoNmFNZlJIMXRqdk5JOW9zc1lWV2ZicDRvQmgzUGZfWXp3ODBhaWg2dFUtdWtISHVsOFB4QkZzZmp0SG5xT1lmMUQtcUc2Qm9kczI3ei1ZVy1Nd3hJSUF1RThIdENTVkFTWld5MzdaYU83YmdmSWVGeDJ6dGtwNE13NHI4YVNiY2xaYmxUbWphOUprT202X2xkTFl5eWpzazg0UXlJeXk2MkpQUXFraWtYSGd2dTh4SEd4NGNvZjcxd2R2Q01tdWhZWkdOUWVGd1Z3R0Z2eXM?oc=5",
-   "bron": "De Telegraaf",
-   "titel": "15 jaar cel en tbs voor Coen K.: rechtbank spreekt van ’gruwelijke, brute en beestachtige wijze’"
-  },
-  {
-   "kop": "Vuurwerk legt school Deurne plat",
-   "blok": "nationaal",
-   "link": "https://nos.nl/l/2640357",
-   "bron": "NOS",
-   "titel": "Brand in basisschool Deurne door vuurwerk"
-  },
-  {
-   "kop": "Berlijn relativeert ophef Destinus",
+   "kop": "Politie neemt rijbewijs in",
    "blok": "lokaal",
-   "link": "https://www.oost.nl/nieuws/3721617/oud-defensiechef-dick-berlijn-over-destinus-dit-is-precies-wat-rusland-wil",
-   "bron": "RTV Oost",
-   "titel": "Oud-defensiechef Dick Berlijn over Destinus: 'Dit is precies wat Rusland wil'"
+   "link": "https://www.dalfsennet.nl/nieuws/557016/update-ivmongeval-kerkstraat-lemelerveld-van-gisteravond.html",
+   "bron": "DalfsenNet",
+   "titel": "Update ivmongeval Kerkstraat Lemelerveld van gisteravond"
   },
   {
-   "kop": "Denen zetten Russische gezant uit",
-   "blok": "internationaal",
-   "link": "https://nos.nl/l/2640346",
+   "kop": "Politie valt motorclub binnen",
+   "blok": "nationaal",
+   "link": "https://nos.nl/l/2640394",
    "bron": "NOS",
-   "titel": "Denemarken zet Russische gezant uit na verijdelde aanslag op Oekraïense rapper"
+   "titel": "Grote politieactie bij motorclub in Rijswijk, leden verdacht van wapenhandel"
+  },
+  {
+   "kop": "Kerk Kloosterhaar brandt deels uit",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3721942/brand-in-fredrikskerk-in-kloosterhaar-onder-controle-kerkbanken-beschadigd",
+   "bron": "RTV Oost",
+   "titel": "Brand in Fredrikskerk in Kloosterhaar onder controle: kerkbanken beschadigd"
+  },
+  {
+   "kop": "Leiden stopt Chinese samenwerking",
+   "blok": "nationaal",
+   "link": "https://nos.nl/l/2640396",
+   "bron": "NOS",
+   "titel": "Universiteit Leiden stopt samenwerking met Chinese universiteit na zorgen over lekken data"
+  },
+  {
+   "kop": "VS zet Strafhof onder druk",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2640368",
+   "bron": "NOS",
+   "titel": "'Internationaal Strafhof dreigt lege huls te worden door concessies aan VS'"
+  },
+  {
+   "kop": "Mexico pakt drugsbaas Isidro op",
+   "blok": "internationaal",
+   "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+   "bron": "New York Times",
+   "titel": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts"
   }
  ],
  "blokken": [
@@ -225,6 +230,15 @@
      "sorteer": "2026-11-21T01:08:02+01:00"
     },
     {
+     "titel": "Russisch vrachtschip onder vuur genomen in Finse Golf, reddingsoperatie bezig",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/russisch-vrachtschip-onder-vuur-genomen-in-finse-golf-reddingsoperatie-bezig~b11373d3a/",
+     "bron": "de Volkskrant",
+     "tijd": "12:52",
+     "sorteer": "2026-11-21T11:52:00+00:00"
+    },
+    {
      "titel": "Gelekt overheids­rapport VS: training ICE-immigratie­agenten ‘catastrofale mislukking’",
      "context": "",
      "rubrieken": [],
@@ -232,15 +246,6 @@
      "bron": "de Volkskrant",
      "tijd": "08:37",
      "sorteer": "2026-11-21T07:37:00+00:00"
-    },
-    {
-     "titel": "Tussen Iran en de VS geldt ‘geen vrede, geen oorlog’, maar dat kan snel omslaan",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/tussen-iran-en-de-vs-geldt-geen-vrede-geen-oorlog-maar-dat-kan-snel-omslaan~b4306310/",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-11-21T04:00:49+00:00"
     },
     {
      "titel": "Na 167 jaar velt AI het oordeel: de wiskundige Riemann had gelijk",
@@ -252,65 +257,79 @@
      "sorteer": "2026-11-21T04:23:00+00:00"
     },
     {
-     "titel": "Costa cuts proposed EU budget by €44B",
-     "context": "Brussels proposes tax on Big Tech to raise billions for the next budget cycle.",
+     "titel": "Russian threats ‘less and less hybrid,’ Von der Leyen says after assassination plot in Denmark",
+     "context": "Danish authorities said they thwarted a Russian plan to kill a Ukrainian rapper in September.",
      "rubrieken": [
-      "Big Tech",
-      "Budget",
-      "Carbon",
-      "Companies",
-      "Competitiveness",
-      "Crisis",
-      "Data",
       "Defense",
-      "Development",
-      "digital",
-      "Elections",
-      "Emissions",
-      "Emissions Trading System",
-      "EU Budget",
-      "Finance",
-      "Negotiations",
-      "Online advertising",
-      "Plastics",
-      "Policy",
-      "Regions/Cohesion",
+      "Drones",
+      "Hybrid threats",
+      "Intelligence",
+      "Intelligence services",
+      "Sanctions",
+      "Security",
       "Services",
-      "Spectrum",
-      "Tax",
-      "Waste",
-      "Agriculture and Food",
-      "Competition and Industrial Policy",
-      "Defense",
-      "Financial Services",
-      "Health Care",
-      "Mobility",
-      "Politics",
-      "Technology"
+      "War in Ukraine",
+      "Politics"
      ],
-     "link": "https://www.politico.eu/article/costa-cuts-proposed-eu-budget-by-44billion-euros/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "link": "https://www.politico.eu/article/russian-threats-less-hybrid-von-der-leyen-says-assassination-plot-ukrainian-rapper-kyivstoner-denmark/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
      "bron": "Politico Europe",
-     "tijd": "11:44",
-     "sorteer": "2026-11-21T10:44:05+00:00",
+     "tijd": "12:43",
+     "sorteer": "2026-11-21T11:43:12+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Maldon Salt’s Authenticity Is Questioned, Leaving Foodies Shaken",
-     "context": "The salt is a flaky favorite of food influencers and famous chefs. A revelation this week raised questions about what makes artisanal “artisanal.”",
+     "titel": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
+     "context": "All options open in future talks, says Ed Miliband, while prime minister hails ‘a good day for Britain and Europe’ The UK rejoining the EU could be on the table in informal discussions between Andy Burnham and European leaders in Brussels, Ed Miliband has said. The foreign secretary said “all options” would be examined in the process, after the prime minister agreed deals on trade and young people",
      "rubrieken": [
-      "Salt",
-      "Oceans and Seas",
-      "Rock and Stone",
-      "Essex (England)",
-      "K+S AG",
-      "Cooking and Cookbooks",
-      "Maldon Salt"
+      "Brexit",
+      "European Union",
+      "Europe",
+      "Foreign policy",
+      "Politics",
+      "UK news",
+      "World news",
+      "Andy Burnham",
+      "Belgium",
+      "Economics",
+      "Ed Miliband",
+      "Young people",
+      "Studying abroad",
+      "Trade policy"
      ],
-     "link": "https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html",
+     "link": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
+     "bron": "The Guardian",
+     "tijd": "12:33",
+     "sorteer": "2026-11-21T11:33:01+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+     "context": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
+     "rubrieken": [
+      "Drug Cartels",
+      "Drug Abuse and Traffic",
+      "Politics and Government",
+      "United States Politics and Government",
+      "Fugitives",
+      "International Relations",
+      "Defense and Military Forces",
+      "Organized Crime",
+      "Fentanyl",
+      "United States International Relations",
+      "Federal Bureau of Investigation",
+      "Sinaloa Cartel",
+      "Sheinbaum, Claudia",
+      "Trump, Donald J",
+      "Mexico",
+      "Sinaloa (Mexico)",
+      "United States"
+     ],
+     "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
      "bron": "New York Times",
-     "tijd": "11:37",
-     "sorteer": "2026-11-21T10:37:45+00:00",
+     "tijd": "12:20",
+     "sorteer": "2026-11-21T11:20:34+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -322,30 +341,6 @@
      "bron": "BBC",
      "tijd": "11:26",
      "sorteer": "2026-11-21T10:26:36+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Black Friday deals for liquid Brazilian butt lifts criticised over safety fears",
-     "context": "Experts say BBLs and other cosmetic procedures can be risky and seasonal offers at clinics in England could make people rush decisions Clinics in England are promoting seasonal deals – including for Black Friday – on liquid Brazilian butt lifts (BBLs), despite concerns about the risks of the procedure. The government is consulting on limiting liquid BBLs , vampire facials and deep chemical peels i",
-     "rubrieken": [
-      "Cosmetic surgery",
-      "England",
-      "UK news",
-      "Beauty",
-      "Life and style",
-      "Health",
-      "Health policy",
-      "Advertising",
-      "Advertising Standards Authority",
-      "Plastic surgery",
-      "Black Friday",
-      "Body image"
-     ],
-     "link": "https://www.theguardian.com/lifeandstyle/2026/nov/21/black-friday-deals-liquid-brazilian-butt-lifts-criticised-safety-fears",
-     "bron": "The Guardian",
-     "tijd": "10:52",
-     "sorteer": "2026-11-21T09:52:52+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -439,26 +434,25 @@
      "sorteer": "2026-11-21T07:05:06+00:00"
     },
     {
-     "titel": "15 jaar cel en tbs voor Coen K.: rechtbank spreekt van ’gruwelijke, brute en beestachtige wijze’",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNakRnNmNoNmFNZlJIMXRqdk5JOW9zc1lWV2ZicDRvQmgzUGZfWXp3ODBhaWg2dFUtdWtISHVsOFB4QkZzZmp0SG5xT1lmMUQtcUc2Qm9kczI3ei1ZVy1Nd3hJSUF1RThIdENTVkFTWld5MzdaYU83YmdmSWVGeDJ6dGtwNE13NHI4YVNiY2xaYmxUbWphOUprT202X2xkTFl5eWpzazg0UXlJeXk2MkpQUXFraWtYSGd2dTh4SEd4NGNvZjcxd2R2Q01tdWhZWkdOUWVGd1Z3R0Z2eXM?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "23:35",
-     "sorteer": "2026-11-20T22:35:07+00:00"
+     "titel": "Persoon zwaargewond na botsing tegen boom in Hollandscheveld",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSjZGcUNWOGdTWUtkOC04MldZdUFkb2tEZ2RoTXA5c3VzMTlMVkdNV3Z6d3pGblVjSEFFWmY0S1J3VWpGU2lkcG1IOFhEMk1GWmR0ZWp1RzBMdkZrNldJa3QzREV6MF85X0t4WWo0c3YxQThCRm1ybVhKdkN6bjVVMG5DcnBIVUd6MDZWYjR3QU5wRFhrM25nVUNiN2hNWGQxbFNGdjV4eG5GUQ?oc=5",
+     "bron": "de Stentor",
+     "tijd": "11:26",
+     "sorteer": "2026-11-21T10:26:16+00:00"
     },
     {
-     "titel": "OM hackte systemen Tata Steel in strafonderzoek milieuvervuiling, bedrijf verbijsterd: ’Heel ongebruikelijk’",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWjdTR2NQaU1Sdld2WU1Na1ZQd0t2WWkyN2tQZ3pxc01FdEtXR0pYLXlGU2taUVA4bnNDeEotXzlZZW5SQWl6M0Y0ejhQWlhYdkhPRHhsWl8xQVRhOTBTbXJ3cHdZY3B2My03THJ0Z2EyaXlXWWJQQmZCeDRULVJFUE9oOFFJSUJka1lkR05YTWZYRENROXBVRU1hVlNHUW1PUTJFVXZZNTVOT0dNT1hGd0NETWtXbkJKM1Rtd1dJSVExczBvYXFpMFpsTjlOeHdSQ0h2VnBXU1BDdE1tVGZ3Zk9yanF6VUwyV18w?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "23:07",
-     "sorteer": "2026-11-20T22:07:00+00:00"
+     "titel": "Overleden student (22) landbouwschool Dronten werd ‘in korte tijd veel mensen dierbaar’",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3lJNlFwcnJXa0p6WGxNdjhlajR1andEUER0UEtXVnBzYUdDXzRWb0N6eUdwTzcxZWtMbklqOGsyeXUtVGExb0NfN0N2Wm0yTUhnQTFNMElLS013RVdYdk1nakFuaFZmekZIMUJJdVhtNU5HZ0dVb00zTkVfQUdJeEhWTkNuckZNeUJzV1ZwZWlmSWNUZGEwZm05elJDZHB6V0lJd3FHTTlKa016TkF6TzRXVW9URzRkeUNBQ19DczIxT0pm?oc=5",
+     "bron": "de Stentor",
+     "tijd": "11:14",
+     "sorteer": "2026-11-21T10:14:00+00:00"
     },
     {
-     "titel": "Zijn kooigevechten en Hitler-verering door neonazi's strafbaar?",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTV95RXZaSWwyR2FLZ2diRDIzY3dTNl9HNHdsaWlfOTJrOFFYRXhsbVAyM1lPVlJFVlBwdTFmODlDX0xLQUJ4bFFaNlZ2RldNV3QyQTVJNHh1YVNfblkyOEw1aW84anlVWGxQV3Fwak1CcTN3YkVvTWRDUXlIejhuVDU4TzVZZDhxQXI4Q0tMY20tUmRsZzdaYUVOSnpVMjZtX2Vr?oc=5",
-     "bron": "NOS",
-     "tijd": "23:02",
-     "sorteer": "2026-11-20T22:02:15+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "titel": "Sportgala Amersfoort gaat verder als 033 Eretribune",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeUpSS1NQalVWTmVIVkVTdjBBZVFIb2xOdHpQOUVPZ3p0R0tQMzhsRGxZQV9QMlhFU3k4blJXQTZqSTRJTnZfMlpXQUNkTHJkS1RabDQ1Nm5MZFdobGIwRlRjbGFNVzBzOUVKZVlqN2lySWlBMkFLWmVGVTZXb0xmVDN5VkxYTG1icHpEWlJDVDdGbTVtLWlvWkR1bWJqZw?oc=5",
+     "bron": "de Stentor",
+     "tijd": "11:01",
+     "sorteer": "2026-11-21T10:01:00+00:00"
     },
     {
      "titel": "Ik was te gast bij de VPRO-podcast Achter de Frontlinie. Luister hier het gesprek terug",
@@ -469,13 +463,13 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "EU-president Costa snijdt 181 miljard euro uit voorstel voor nieuwe begroting, in aanloop naar top daarover",
+     "titel": "Nieuw voorstel EU-begroting 181 miljard euro lichter na ingreep president Costa",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/politiek/eu-president-costa-snijdt-181-miljard-euro-uit-voorstel-voor-nieuwe-begroting-in-aanloop-naar-top-daarover~b49cdbe2/",
+     "link": "https://www.volkskrant.nl/politiek/nieuw-voorstel-eu-begroting-181-miljard-euro-lichter-na-ingreep-president-costa~b49cdbe2/",
      "bron": "de Volkskrant",
      "tijd": "11:45",
-     "sorteer": "2026-11-21T10:45:41+00:00",
+     "sorteer": "2026-11-21T10:45:00+00:00",
      "kop": "Begroting"
     },
     {
@@ -505,52 +499,75 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Zwolse studenten demonstreren tegen dienstplicht: 'Ik wil een normale toekomst hebben'",
-     "context": "Zo’n veertig demonstranten zijn vrijdagmiddag door de binnenstad van Zwolle gelopen om te protesteren tegen de dienstplicht en de investeringen in Defensie. Met de actie sluiten de studenten zich aan bij een landelijke protestdag. \"Ik heb geen zin om aan het front te staan\", vertelt één van de demonstranten.",
+     "titel": "Egel Mazzel overleeft aanrijding en krijgt onderdak bij leerlingen in Enschede",
+     "context": "Egel Mazzel heeft zijn naam niet voor niets gekregen. Na een aanrijding krijgt hij onderdak bij leerlingen van Het Stedelijk in Enschede. Zij verzorgen het dier de komende maanden in de dierenweide van hun school en helpen daarmee egelopvang Prikkelpootjes, die veel gewonde en verzwakte egels opvangt.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3721707/zwolse-studenten-demonstreren-tegen-dienstplicht-ik-wil-een-normale-toekomst-hebben",
+     "link": "https://www.oost.nl/nieuws/3721845/egel-mazzel-overleeft-aanrijding-en-krijgt-onderdak-bij-leerlingen-in-enschede",
      "bron": "RTV Oost",
-     "tijd": "18:30",
-     "sorteer": "2026-11-20T17:30:00+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "tijd": "12:00",
+     "sorteer": "2026-11-21T11:00:00+00:00"
     },
     {
-     "titel": "Creepshots blijven veel losmaken: ‘Groep mannen ziet probleem niet’",
-     "context": "De creepshot-appgroep 't Haviksoog uit Twente en de Achterhoek maakt veel los. Experts zien vooral hoe makkelijk het gedrag van de mannen die ongewenste beelden van vrouwen maakten, wordt weggewuifd. Terwijl dat gedrag serieuze juridische consequenties kan hebben.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3721309/creepshots-blijven-veel-losmaken-groep-mannen-ziet-probleem-niet",
+     "titel": "Volleybalvereniging voert nieuwe sportbroekjes versneld in na creepshots",
+     "context": "Volleybalvereniging Albergen voert versneld nieuwe sportbroekjes in nadat een foto van een minderjarige speelster van tegenstander Devoko uit Denekamp in creepshotgroep 't Haviksoog belandde. De nieuwe broekjes zouden normaal gesproken pas worden ingevoerd als de huidige aan vervanging toe waren.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3721718/volleybalvereniging-voert-nieuwe-sportbroekjes-versneld-in-na-creepshots",
      "bron": "RTV Oost",
-     "tijd": "16:21",
-     "sorteer": "2026-11-20T15:21:48+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "tijd": "11:31",
+     "sorteer": "2026-11-21T10:31:43+00:00"
     },
     {
-     "titel": "Met het Vossenspan de kerstsfeer tegemoet",
-     "context": "REGIO – De dagen worden korter, de lichtjes gaan aan en de gezelligste tijd van het jaar komt dichterbij. Ook Het Vossenspan maakt zich op voor de kerstperiode. Met de arrenslede op de kerstmarkten en sfeervolle kerstritten met de huifkar krijgt de winterse gezelligheid een bijzonder tintje. Een arrenslede past bij het vertrouwde kerstgevoel: […]",
+     "titel": "Brand in Fredrikskerk in Kloosterhaar onder controle: kerkbanken beschadigd",
+     "context": "In de Fredrikskerk aan de Dorpsstraat in Kloosterhaar is vanochtend brand uitgebroken. De brandweer heeft de brand, die eerder als middelbrand werd opgeschaald, inmiddels onder controle. Bij de brand zijn onder meer enkele kerkbanken uitgebrand. Eerder kwam rook onder de dakpannen vandaan.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3721942/brand-in-fredrikskerk-in-kloosterhaar-onder-controle-kerkbanken-beschadigd",
+     "bron": "RTV Oost",
+     "tijd": "11:01",
+     "sorteer": "2026-11-21T10:01:30+00:00"
+    },
+    {
+     "titel": "Auto ramt meerdere geparkeerde voertuigen en botst tegen woning in Enschede",
+     "context": "Bij een verkeersongeval op de Oldenzaalsestraat in Enschede is zaterdagochtend een flinke ravage ontstaan. Een auto ramde meerdere geparkeerde voertuigen en kwam uiteindelijk tegen een woning tot stilstand. Eén persoon is naar het ziekenhuis gebracht.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3721938/auto-ramt-meerdere-geparkeerde-voertuigen-en-botst-tegen-woning-in-enschede",
+     "bron": "RTV Oost",
+     "tijd": "10:45",
+     "sorteer": "2026-11-21T09:45:12+00:00"
+    },
+    {
+     "titel": "Een jaar na zijn dood klinkt René Karst opnieuw: familie brengt nummer uit",
+     "context": "Precies een jaar geleden ging er een schok door de Nederlandse muziekwereld, toen liedjesschrijver en zanger René Karst onverwacht in zijn slaap overleed. Nu brengt zijn familie een nummer uit dat is gemaakt door René. \"Na zijn dood vonden we op zijn iPad stukken ingezongen tekst\", vertelt zoon Thomas.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/cultuur/3721616/een-jaar-na-zijn-dood-klinkt-rene-karst-opnieuw-familie-brengt-nummer-uit",
+     "bron": "RTV Oost",
+     "tijd": "10:25",
+     "sorteer": "2026-11-21T09:25:15+00:00"
+    },
+    {
+     "titel": "Update ivmongeval Kerkstraat Lemelerveld van gisteravond",
+     "context": "LEMELERVELD – De politie heeft het rijbewijs ingevorderd. Bij het ongeval op de kruising van de Kerkstraat en de Dorpsstraat in Lemelerveld vrijdagavond waren een 61-jarige vrouw en een 18-jarige jongeman betrokken. Beide betrokkenen komen uit de gemeente Ommen. De 18-jarige bestuurder blies na het ongeval op straat positief bij een blaastest. Een daaropvolgende […]",
      "rubrieken": [
       "Ingezonden bericht",
       "Laatste nieuws",
-      "Regio"
+      "Lemelerveld"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/556694/met-het-vossenspan-de-kerstsfeer-tegemoet.html",
+     "link": "https://www.dalfsennet.nl/nieuws/557016/update-ivmongeval-kerkstraat-lemelerveld-van-gisteravond.html",
      "bron": "DalfsenNet",
-     "tijd": "09:38",
-     "sorteer": "2026-11-21T08:38:11+00:00"
+     "tijd": "12:58",
+     "sorteer": "2026-11-21T11:58:03+00:00"
     },
     {
-     "titel": "Al bijna 70 kilo zalm…..",
-     "context": "DALFSEN – Al bijna 70 kilo zalm is er in de eerste twee weken van de actie besteld. Met nog iets meer dan drie weken op de teller kan daar nog makkelijk 70 kilo bij. Heeft u al besteld?",
+     "titel": "Melding autobrand Wererdhuisweg",
+     "context": "LEMELERVELD – De hulpdiensten zijn vanochtend uitgereden naar Lemelerveld (gemeente Dalfsen). De p2000 melding is om 09:26 uur verzonden door de veiligheidsregio IJsselland. Bijzonderheden zijn nog niet bekend.",
      "rubrieken": [
-      "Dalfsen",
+      "112-nieuws",
       "Ingezonden bericht",
-      "Laatste nieuws"
+      "Lemelerveld"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/556989/al-bijna-70-kilo-zalm.html",
+     "link": "https://www.dalfsennet.nl/nieuws/557011/melding-autobrand-wererdhuisweg.html",
      "bron": "DalfsenNet",
-     "tijd": "21:57",
-     "sorteer": "2026-11-20T20:57:05+00:00"
+     "tijd": "12:35",
+     "sorteer": "2026-11-21T11:35:46+00:00"
     }
    ]
   },
@@ -665,18 +682,32 @@
      "sorteer": "2026-11-21T10:38:40+00:00"
     },
     {
+     "titel": "Diverse verkopers verdwijnen van Etsy om AI-beleid, maar Etsy buigt",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTGxISTgwbzByMHRCU21uUmJSUW1LMmRLNWpxUUdEcU5iYmFUOG1YRllZUXNoaE9hT2dyNVIwbEo1UXRwemlyU2d5WC0yQm9rVnQ3MzQ0Y19sdEhJVEtmd0NIWEV1UW1BRHZabWp3UkF0UUdvSGYzVWpjbFZvYnJlR3NIWElyQ3V1RzFxOU9OdDZBQURnNFE5aFFHb2tSZ2ZERHJnZTFZREFiZ1R3?oc=5",
+     "bron": "Bright",
+     "tijd": "12:41",
+     "sorteer": "2026-11-21T11:41:00+00:00"
+    },
+    {
+     "titel": "VN-onderzoek: AI-chatbots veranderen eenvoudig in klimaatontkenners, en dat is gevaarlijk",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMXRsR2hQaDRTblNZLTRVdWEyOUxMaGpFRU5pZTZ4U2FLbFhycG02SnhYUEpVTm80Q2ZldFV5NGgyTW9zX0RoX3BCcXlwUUNMUkVhOWZNVlczbkdDYXg3SHRoOFBRSE52eVRoLXdkRlROSURxd1ZjWFpKWUJsdUtCT1RvdUpzQ05Ib0lTWFRVUkFqMTZ5d2JmbUg1eDFBa1ktanZicnQ4QS1maW5idlZTZWd5X1ZGRGZzYnhDdEdJdm5ZOGRUUFJwOTRHZEFVSjVkMkU4?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "12:12",
+     "sorteer": "2026-11-21T11:12:00+00:00"
+    },
+    {
+     "titel": "Opinie: Juist nu AI oprukt, moeten we leren kijken door de ogen van een ander",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ2JhX2hpbUtqblNLSzVoUDYySDZOVEFWazlQXzJhQnBkaHhGRVlPNHFvSEdESTQ4YzVtNEJoNG5nZDA2WnZUR2lUMnV4NzhlZm1aOVI1dWZCajhvX3piRHo4VVlnaG14RUotd2dsN0t1NHhXR3g4ZVBfTTd5TUJHbTlvRjNIVVpPc2NpZnRPMGNybnItdW5uTVg3TUNnNzdycllrNXFROFhncmt5eFl4TDNUbFdUdWxDTmhSZDJlMFN5QzJ6?oc=5",
+     "bron": "de Volkskrant",
+     "tijd": "12:00",
+     "sorteer": "2026-11-21T11:00:56+00:00"
+    },
+    {
      "titel": "Laat de AI-zeepbel maar groeien, ook als die straks knapt",
      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX3Q0SVRXU29aOGFEUTBnb0c2UklrTjFhdkh4OUFUbHVicS05d0E0VHRPaTVzbU5WNTNZdGtXaHhKX3puNFJETnM3akFTSTdQekRSMlBmZFp1eGJSSkY2UkQ4Y1F5STExNmFYOWRyUXFnS0FiY3dkM2FmR3dnRXBDM2NueHJ4Q1pBM1E?oc=5",
      "bron": "Reformatorisch Dagblad",
-     "tijd": "11:38",
-     "sorteer": "2026-11-21T10:38:38+00:00"
-    },
-    {
-     "titel": "Riemann-hypothese bewezen? Onderzoeker zegt met AI eeuwenoud wiskundig probleem te hebben opgelost",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPT2YwZ25pc3YzZTZfQnFkSE9lc2Y4WU11QU1FYXNlMTdzQ1gwbXFNa0lTLXhUOEtwRTZ3TGEtYXNzb1R2VGVlMWhnQXpOeUJZNjRkR3N5ejctLUNOd2g0V1l6bGp4OXA5eVBOVFFTejdEcEF6WjVhakJ6NGZsR1pDdEVSdUppNWNiMHlReWRnLVZMSk1ya3duSjJqMDdXUE1mSmMwLVJRN2I1N3kwWWF2Q0h3M3VpU05OcWNkeEdjU2xRbU92ejBwMXhtTjhiSFVLUnpYb05jSF9ITnoz?oc=5",
-     "bron": "de Stentor",
-     "tijd": "01:56",
-     "sorteer": "2026-11-21T00:56:00+00:00"
+     "tijd": "11:56",
+     "sorteer": "2026-11-21T10:56:42+00:00"
     }
    ]
   },
@@ -805,7 +836,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "12:00",
+    "bijgewerkt": "13:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1194,6 +1225,14 @@
    "emoji": "🐦",
    "items": [
     {
+     "titel": "Humes Bladkoning",
+     "kop": "Zeldzaamheden",
+     "bron": "Friesland",
+     "tijd": "12:23",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-21T12:23:00+01:00"
+    },
+    {
      "titel": "Rotszwaluw",
      "kop": "Zeldzaamheden",
      "bron": "Noord-Holland",
@@ -1218,14 +1257,6 @@
      "sorteer": "2026-11-21T08:40:00+01:00"
     },
     {
-     "titel": "Humes Bladkoning",
-     "kop": "Zeldzaamheden",
-     "bron": "Gelderland",
-     "tijd": "08:21",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-21T08:21:00+01:00"
-    },
-    {
      "titel": "Witbandkruisbek",
      "kop": "Zeldzaamheden",
      "bron": "Drenthe",
@@ -1240,14 +1271,6 @@
      "tijd": "13:14",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-11-20T13:14:00+01:00"
-    },
-    {
-     "titel": "Siberische Boompieper",
-     "kop": "Zeldzaamheden",
-     "bron": "Noord-Holland",
-     "tijd": "12:36",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-20T12:36:00+01:00"
     },
     {
      "titel": "Dalfsen (nacht)",
@@ -1342,11 +1365,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Goed pestvogeljaar — op 59 plekken in de afgelopen week, waarvan 2 vandaag",
+     "titel": "Invasiejaar — op 60 plekken in de afgelopen week, waarvan 3 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 167 vogels; 93 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 168 vogels; 94 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1358,24 +1381,43 @@
    ]
   },
   {
+   "id": "hemel",
+   "titel": "Aan de hemel",
+   "emoji": "🌙",
+   "items": [
+    {
+     "titel": "Ganymedes, een van de grote manen van Jupiter, gaat achter de planeet langs en komt daarna in zijn schaduw — vannacht helemaal te volgen.",
+     "bron": "zondag 22 november",
+     "tijd": "00:12",
+     "link": "https://hemel.waarnemen.com/astrokal/"
+    },
+    {
+     "titel": "De meteorenzwerm α-Monocerotiden bereikt zijn maximum.",
+     "bron": "zondag 22 november",
+     "tijd": "01:00",
+     "link": "https://hemel.waarnemen.com/astrokal/"
+    }
+   ]
+  },
+  {
    "id": "weer",
    "titel": "Weer Dalfsen",
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 7.9,
-    "gevoel": 5.9,
-    "wind": "ZW 2",
+    "nu": 8.8,
+    "gevoel": 6.4,
+    "wind": "WZW 3",
     "station": "Heino",
-    "bericht": "Vandaag is het wisselend bewolkt en vallen verspreid nog enkele lichte buien. Vanaf morgen wordt het droog en krijgen we zonnige perioden, met in de nacht en ochtend plaatselijk mist. Het wordt de komende dagen steeds kouder, met in de nachten op uitgebreide schaal lichte en lokaal mogelijk ook matige vorst.Vanochtend is het wisselend bewolkt en komen verspreid over het land enkele buien voor.",
-    "vandaag": "Vandaag is het wisselend bewolkt en vallen verspreid nog enkele lichte buien. Vanochtend is het wisselend bewolkt en komen verspreid over het land enkele buien voor.",
-    "temperatuur": "Op het KNMI-station in Deelen daalde de temperatuur naar -3,1 graden en aan de grond werd het in Eindhoven zelfs -4,5 graden.",
+    "bericht": "Vandaag verspreid nog enkele buien met verder zon. Vanaf morgen wordt het meest droog met veel ruimte voor de zon. In de nacht en ochtend plaatselijk mist.",
+    "vandaag": "Vandaag verspreid nog enkele buien met verder zon. Vanmiddag zijn er zonnige perioden met stapelwolken en kan er plaatselijk nog een lichte regenbui vallen.",
+    "temperatuur": "De maximumtemperatuur komt uit op ongeveer 9 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: lichte motregen, 1 tot 8 graden, 78% kans op neerslag, ruim 4 uur zon, wind uit het zuidwesten, kracht 3.",
-     "max": 8,
+     "zin": "Voor Dalfsen zelf: motregen, 1 tot 9 graden, 78% kans op neerslag, ruim 7 uur zon, wind uit het zuidwesten, kracht 3.",
+     "max": 9,
      "min": 1,
      "regenkans": 78,
-     "omschrijving": "lichte motregen",
+     "omschrijving": "motregen",
      "morgen": {
       "max": 7,
       "min": 0,
@@ -1384,7 +1426,7 @@
      }
     },
     "vooruit": "Vrij koud, meest droog en perioden met zon. In de nacht en ochtend lichte vorst. Vooral zondag kans op mist in de nacht en ochtend.",
-    "omslag": "Vanaf morgen droog: de regenkans zakt van 70% naar 0%.",
+    "omslag": "Vanaf morgen droog: de regenkans zakt van 70% naar 10%.",
     "min": "0",
     "max": "8",
     "regenkans": 70,
@@ -1392,9 +1434,9 @@
     "omschrijving": "Zwaar bewolkt en regen",
     "morgen": {
      "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
-     "min": "-1",
+     "min": "0",
      "max": "6",
-     "regenkans": 0
+     "regenkans": 10
     }
    }
   }
