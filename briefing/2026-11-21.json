@@ -7,10 +7,11 @@
   "blokken": 11,
   "berichten": 91,
   "problemen": [],
-  "audio_herkomst": null
+  "audio_herkomst": "model",
+  "audio_aangehaakt": "06:05"
  },
  "opgehaald": "2026-11-21T05:55+01:00",
- "audio": null,
+ "audio": "audio/20261121.mp3",
  "afval": [
   {
    "datum": "2026-11-27",
@@ -49,7 +50,83 @@
    "afwijkend": false
   }
  ],
- "duiding": [],
+ "duiding": [
+  {
+   "titel": "FVD mist begrotingsdebatten",
+   "tekst": "Forum voor Democratie laat volgens De Telegraaf veel begrotingsdebatten in de Kamer schieten en daarmee het parlementaire werk liggen (23). De krant noemt de partij daarom spottend 'Forum voor Absentie': een partij die vooral afwezig is (23).",
+   "verwijzingen": [
+    {
+     "titel": "’Forum voor Absentie’: FVD mist veel begrotingsdebatten en laat parlementaire werk links liggen",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdERVcnVQTXhLVS1RN1RNV3FEQXZRTG9KUlFJcDFmd0VSbUtfR2xmQ01ORlZYTER0U0lrdWNUWFRHdlY3a010TGN2LUlIbGc0YktjRERmNDFfMk1wNGNiTV9lb1NxNTlxcy1ROWI0S016UldfX3FqMzJKbFBKVVVSOGdNV0dJcjNGQUdhak1keUl4LVpOVGFkdDRtQmd5TmozUkItN2p6RlpEWEF5OEdnVHJQa1dPM1ZzV05kZHNNaVo1ajRyZlNCY2xIamxudWNMcDU5TDh6M3U?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "03:30",
+     "nummers": [
+      23
+     ]
+    }
+   ],
+   "geschreven": "06:05"
+  },
+  {
+   "titel": "Politie onderzoekt beelden Zembla-docu",
+   "tekst": "De politie onderzoekt de beelden van neonazistische kooigevechten uit de Zembla-documentaire, en het OM beslist na de uitzending over een strafonderzoek (24). Die onthullingen raken ook Forum voor Democratie, dat leden royeerde terwijl andere leden volgens de Volkskrant nazi-content liken (19). De ophef treft ook een onschuldige: tandarts Bas Wemekamp uit Den Ham krijgt dreigmails, omdat hij wordt aangezien voor een naamgenoot (29).",
+   "verwijzingen": [
+    {
+     "titel": "Forum royeert leden na onthullingen Zembla, maar intussen strooien andere met likes en hartjes onder nazi-content: ‘Deze partij is door en door extreemrechts’",
+     "link": "https://www.volkskrant.nl/binnenland/forum-royeert-leden-na-onthullingen-zembla-maar-intussen-strooien-andere-met-likes-en-hartjes-onder-nazi-content-deze-partij-is-door-en-door-extreemrechts~b46dfefe/",
+     "bron": "de Volkskrant",
+     "tijd": "05:00",
+     "nummers": [
+      19
+     ]
+    },
+    {
+     "titel": "Nieuwsuur: • Britten zoeken toenadering EU • Kooigevechten en Hitler-verering door neonazi's • Jongeren kennen geen politieke stabiliteit",
+     "link": "https://nos.nl/l/2640300",
+     "bron": "NPO2 · 22:00",
+     "tijd": "22:00",
+     "nummers": [
+      24
+     ]
+    },
+    {
+     "titel": "'Ik steek je tent in de fik': tandarts uit Den Ham bedreigd na neonazi-docu Zembla",
+     "link": "https://www.oost.nl/nieuws/3721790/ik-steek-je-tent-in-de-fik-tandarts-uit-den-ham-bedreigd-na-neonazi-docu-zembla",
+     "bron": "RTV Oost",
+     "tijd": "18:17",
+     "nummers": [
+      29
+     ]
+    }
+   ],
+   "geschreven": "06:05"
+  },
+  {
+   "titel": "Man schuldig aan Palisades-brand",
+   "tekst": "Een jury in Los Angeles heeft een 30-jarige man schuldig bevonden aan de brand in Pacific Palisades, die twaalf doden eiste (1, 9). Zijn advocaat stelde dat het om twee branden ging: een door vuurwerk en een die door een ander was aangestoken (1). Daartegenover zette de aanklager camerabeelden zonder vuurwerk en locatiegegevens die de man als enige bij de plek van de brand plaatsten (1).",
+   "verwijzingen": [
+    {
+     "titel": "Man schuldig bevonden aan verwoestende bosbranden Los Angeles",
+     "link": "https://nos.nl/l/2640359",
+     "bron": "NOS",
+     "tijd": "02:12",
+     "nummers": [
+      1
+     ]
+    },
+    {
+     "titel": "Man convicted of starting Palisades fire in Los Angeles",
+     "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "05:34",
+     "nummers": [
+      9
+     ]
+    }
+   ],
+   "geschreven": "06:05"
+  }
+ ],
  "denkwerk": {
   "tekst": "Wanneer we nagaan hoe dit wonder tot stand komt, vinden we dat, omdat de macht altijd aan de kant van de geregeerden is, de regeerders niets hebben om op te steunen dan opinie. Het is dus alleen op opinie dat de regering is gegrondvest; en dit beginsel geldt voor de meest despotische en militaire regeringen even goed als voor de meest vrije en volkse.",
   "wie": "David Hume",
@@ -58,7 +135,43 @@
   "parafrase": false,
   "link": "https://gertveurink.github.io/denkwerk/#/"
  },
- "verder": [],
+ "verder": [
+  {
+   "kop": "Parijs beschermt schietende agent",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2640354",
+   "bron": "NOS",
+   "titel": "Franse senaat keurt wet goed die schietende politieagenten beschermt"
+  },
+  {
+   "kop": "Coen K. krijgt 15 jaar en tbs",
+   "blok": "nationaal",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNakRnNmNoNmFNZlJIMXRqdk5JOW9zc1lWV2ZicDRvQmgzUGZfWXp3ODBhaWg2dFUtdWtISHVsOFB4QkZzZmp0SG5xT1lmMUQtcUc2Qm9kczI3ei1ZVy1Nd3hJSUF1RThIdENTVkFTWld5MzdaYU83YmdmSWVGeDJ6dGtwNE13NHI4YVNiY2xaYmxUbWphOUprT202X2xkTFl5eWpzazg0UXlJeXk2MkpQUXFraWtYSGd2dTh4SEd4NGNvZjcxd2R2Q01tdWhZWkdOUWVGd1Z3R0Z2eXM?oc=5",
+   "bron": "De Telegraaf",
+   "titel": "15 jaar cel en tbs voor Coen K.: rechtbank spreekt van ’gruwelijke, brute en beestachtige wijze’"
+  },
+  {
+   "kop": "Vuurwerk legt school Deurne plat",
+   "blok": "nationaal",
+   "link": "https://nos.nl/l/2640357",
+   "bron": "NOS",
+   "titel": "Brand in basisschool Deurne door vuurwerk"
+  },
+  {
+   "kop": "Berlijn relativeert ophef Destinus",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3721617/oud-defensiechef-dick-berlijn-over-destinus-dit-is-precies-wat-rusland-wil",
+   "bron": "RTV Oost",
+   "titel": "Oud-defensiechef Dick Berlijn over Destinus: 'Dit is precies wat Rusland wil'"
+  },
+  {
+   "kop": "Denen zetten Russische gezant uit",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2640346",
+   "bron": "NOS",
+   "titel": "Denemarken zet Russische gezant uit na verijdelde aanslag op Oekraïense rapper"
+  }
+ ],
  "blokken": [
   {
    "id": "internationaal",
@@ -1357,5 +1470,15 @@
     }
    }
   }
+ ],
+ "archief": [
+  "2026-11-21",
+  "2026-11-20",
+  "2026-11-19",
+  "2026-11-18",
+  "2026-11-17",
+  "2026-11-16",
+  "2026-11-15",
+  "2026-11-14"
  ]
 }
