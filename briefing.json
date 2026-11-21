@@ -3,13 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "09:00",
+  "opgehaald": "10:00",
   "blokken": 11,
   "berichten": 86,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-21T09:00+01:00",
+ "opgehaald": "2026-11-21T10:00+01:00",
  "audio": "audio/20261121.mp3",
  "afval": [
   {
@@ -250,24 +250,43 @@
      "sorteer": "2026-11-21T04:23:00+00:00"
     },
     {
-     "titel": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-     "context": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "08:31",
-     "sorteer": "2026-11-21T07:31:05+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
      "titel": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
      "context": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "08:24",
-     "sorteer": "2026-11-21T07:24:45+00:00",
+     "tijd": "09:10",
+     "sorteer": "2026-11-21T08:10:25+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Trafalgar Square Christmas tree felled in Norway",
+     "context": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "09:10",
+     "sorteer": "2026-11-21T08:10:03+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Telegraph departures signal concerns over direction under Axel Springer’s ownership",
+     "context": "Insiders say they only see cuts, with no discernible long-term strategy, since title’s purchase by German media firm A spate of prominent departures and years of public battling over its ownership have ensured the Telegraph’s newsroom has been no stranger to internal intrigue and speculation in recent times. Even by its own high standards, however, its offices have been fraught with rumours about ",
+     "rubrieken": [
+      "Telegraph Media Group",
+      "National newspapers",
+      "Axel Springer",
+      "Newspapers & magazines",
+      "UK news",
+      "Media",
+      "Newspapers"
+     ],
+     "link": "https://www.theguardian.com/media/2026/nov/21/telegraph-departures-direction-axel-springer-ownership",
+     "bron": "The Guardian",
+     "tijd": "09:00",
+     "sorteer": "2026-11-21T08:00:53+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -287,27 +306,6 @@
      "bron": "New York Times",
      "tijd": "08:11",
      "sorteer": "2026-11-21T07:11:24+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Campaigners back call for scrutiny of consent laws by Joanne Young",
-     "context": "Experts say no law states third-party consent is a valid defence and call for public debate and further education Campaigners have welcomed a call for scrutiny of consent laws by a survivor of drug-facilitated rape but said action must also focus on wider issues around sexual assault. Joanne Young , who was drugged and raped by her husband and sexually abused by men he invited into their home, war",
-     "rubrieken": [
-      "Sexual consent",
-      "Rape and sexual assault",
-      "Law",
-      "Crime",
-      "UK news",
-      "Women",
-      "Society",
-      "Violence against women and girls",
-      "UK criminal justice"
-     ],
-     "link": "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young",
-     "bron": "The Guardian",
-     "tijd": "07:00",
-     "sorteer": "2026-11-21T06:00:53+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -477,6 +475,15 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Ernstig ongeval tussen Hengevelde en Isidorushoeve: N347 dicht",
+     "context": "De N347 (Goorseweg) tussen Hengevelde en Sint Isidorushoeve is afgesloten na een ernstig verkeersongeval. Een auto kwam op de kop terecht. Het slachtoffer is met een traumahelikopter naar het ziekenhuis gebracht.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3721929/ernstig-ongeval-tussen-hengevelde-en-isidorushoeve-n347-dicht",
+     "bron": "RTV Oost",
+     "tijd": "09:35",
+     "sorteer": "2026-11-21T08:35:12+00:00"
+    },
+    {
      "titel": "Vogelgriep op bedrijf in Collendoorn: 8.600 kippen geruimd",
      "context": "Op een leghennenbedrijf in Collendoorn, in de gemeente Hardenberg, is vogelgriep vastgesteld. Ongeveer 8.600 kippen worden geruimd om verspreiding van het virus te voorkomen. Rond het bedrijf geldt een vervoersverbod. Binnen een straal van tien kilometer liggen nog eens veertig pluimveebedrijven.",
      "rubrieken": [],
@@ -507,7 +514,7 @@
     },
     {
      "titel": "Drugslabs Hardenberg spelen belangrijke rol bij leegstaande horecapanden Deventer",
-     "context": "Liefst acht horecapanden op de Brink in Deventer staan al anderhalf jaar leeg. Ondernemer Cees Meekers ligt onder het vergrootglas van justitie. De gemeente weigert daarom de vergunningaanvragen. De achtergrond daarvan wordt duidelijk tijdens een rechtszaak die de bierbrouwer tegen Meekers heeft aangespannen.",
+     "context": "Liefst acht horecapanden op de Brink in Deventer staan al anderhalf jaar leeg. De gemeente weigert de vergunningaanvragen. De achtergrond daarvan wordt duidelijk tijdens een rechtszaak die de bierbrouwer tegen de ondernemer in kwestie heeft aangespannen.",
      "rubrieken": [],
      "link": "https://www.oost.nl/nieuws/3720473/drugslabs-hardenberg-spelen-belangrijke-rol-bij-leegstaande-horecapanden-deventer",
      "bron": "RTV Oost",
@@ -526,14 +533,17 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Zwolse studenten demonstreren tegen dienstplicht: 'Ik wil een normale toekomst hebben'",
-     "context": "Zo’n veertig demonstranten zijn vrijdagmiddag door de binnenstad van Zwolle gelopen om te protesteren tegen de dienstplicht en de investeringen in Defensie. Met de actie sluiten de studenten zich aan bij een landelijke protestdag. \"Ik heb geen zin om aan het front te staan\", vertelt één van de demonstranten.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3721707/zwolse-studenten-demonstreren-tegen-dienstplicht-ik-wil-een-normale-toekomst-hebben",
-     "bron": "RTV Oost",
-     "tijd": "18:30",
-     "sorteer": "2026-11-20T17:30:00+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "titel": "Met het Vossenspan de kerstsfeer tegemoet",
+     "context": "REGIO – De dagen worden korter, de lichtjes gaan aan en de gezelligste tijd van het jaar komt dichterbij. Ook Het Vossenspan maakt zich op voor de kerstperiode. Met de arrenslede op de kerstmarkten en sfeervolle kerstritten met de huifkar krijgt de winterse gezelligheid een bijzonder tintje. Een arrenslede past bij het vertrouwde kerstgevoel: […]",
+     "rubrieken": [
+      "Ingezonden bericht",
+      "Laatste nieuws",
+      "Regio"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/556694/met-het-vossenspan-de-kerstsfeer-tegemoet.html",
+     "bron": "DalfsenNet",
+     "tijd": "09:38",
+     "sorteer": "2026-11-21T08:38:11+00:00"
     },
     {
      "titel": "Al bijna 70 kilo zalm…..",
@@ -547,18 +557,6 @@
      "bron": "DalfsenNet",
      "tijd": "21:57",
      "sorteer": "2026-11-20T20:57:05+00:00"
-    },
-    {
-     "titel": "Oude gasleidingen worden vervangen",
-     "context": "DALFSEN – Bij verschillende percelen in Dalfsen worden momenteel oudere gasleidingen vervangen. Het gaat vooral om de aansluitingen vanaf de straat tot aan de gasmeter. Sommige leidingen liggen er al meer dan vijftig jaar. De netbeheerder heeft een gespecialiseerd bedrijf ingeschakeld om de werkzaamheden uit te voeren. Dalfsennet keek vandaag van dichtbij mee. Aan de straatkant […]",
-     "rubrieken": [
-      "Dalfsen",
-      "Laatste nieuws"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/556995/oude-gasleidingen-worden-vervangen.html",
-     "bron": "DalfsenNet",
-     "tijd": "21:51",
-     "sorteer": "2026-11-20T20:51:28+00:00"
     }
    ]
   },
@@ -678,8 +676,15 @@
      "titel": "Wiskundige claimt ruim 170 jaar oud priemgetallenraadsel op te lossen met AI: ’Begin van iets veel groters’",
      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV0tJenNZWlBCTXVlQlB6eGJTQm9kRzE4NU9DVWJEcVZfZTAyR0k1OVlpTzFyeVpGR1c1X0RITlFsUzAwVnhwU2R5bDRua1BQNTFJdVFSVmRacHhLVlFITFhzYWFZcjVsNXdlWE9BZTh2TkRBR2NGRVR3MEVOZ1VTVjZkWkRSb2o4YVE2el96bHNQYnNZWjhBU2dobU9UQjc3d1Z5eUVQQXFQUldZV3VZRURLY24xaGVVeVpfMWxKa0xIckZkNnNqTi1GaHYzU3QxWjBEaXpXbHBxX3IwNWw3TDlpcU8ycFBuSXRV?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "08:31",
-     "sorteer": "2026-11-21T07:31:21+00:00"
+     "tijd": "09:49",
+     "sorteer": "2026-11-21T08:49:58+00:00"
+    },
+    {
+     "titel": "Riemann-hypothese bewezen? Onderzoeker zegt met AI eeuwenoud wiskundig probleem te hebben opgelost",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPT2YwZ25pc3YzZTZfQnFkSE9lc2Y4WU11QU1FYXNlMTdzQ1gwbXFNa0lTLXhUOEtwRTZ3TGEtYXNzb1R2VGVlMWhnQXpOeUJZNjRkR3N5ejctLUNOd2g0V1l6bGp4OXA5eVBOVFFTejdEcEF6WjVhakJ6NGZsR1pDdEVSdUppNWNiMHlReWRnLVZMSk1ya3duSjJqMDdXUE1mSmMwLVJRN2I1N3kwWWF2Q0h3M3VpU05OcWNkeEdjU2xRbU92ejBwMXhtTjhiSFVLUnpYb05jSF9ITnoz?oc=5",
+     "bron": "de Stentor",
+     "tijd": "01:56",
+     "sorteer": "2026-11-21T00:56:00+00:00"
     },
     {
      "titel": "Met een zwerm AI-agents slaan hackers razendsnel hun slag",
@@ -816,7 +821,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "09:00",
+    "bijgewerkt": "10:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1182,13 +1187,6 @@
      "link": "https://scientias.nl/kan-zuurstofarme-lucht-bijenvolken-beschermen-tegen-de-dodelijke-varroamijt/"
     },
     {
-     "titel": "Aseksueel voortplanten: kelpen doen het bij gebrek aan een partner",
-     "toelichting": "Kelpen, een zeewiersoort, planten zich op een aseksuele manier voort als ze geen geschikte paringspartner kunnen vinden. Dat blijkt uit een recente studie. Dat zeewier zich aseksueel kan voortplanten, wisten we al, maar ",
-     "bron": "Scientias",
-     "tijd": "19:00",
-     "link": "https://scientias.nl/aseksueel-voortplanten-kelpen-doen-het-bij-gebrek-aan-een-partner/"
-    },
-    {
      "titel": "Extreme rainfalls flood Sri Lanka’s coastal city as wetlands, drains vanish",
      "toelichting": "COLOMBO — On Nov. 6, a 129-millimeter (5-inch) downpour flooded parts of Sri Lanka’s commercial capital within minutes, stranding commuters and submerging a large number of vehicles. Siva Sivasagunthan, a three-wheeler d",
      "bron": "Mongabay (Engels)",
@@ -1348,22 +1346,22 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": -0.6,
-    "gevoel": -4.1,
+    "nu": 2.6,
+    "gevoel": 0.1,
     "wind": "ZW 2",
     "station": "Heino",
     "bericht": "Vandaag is het wisselend bewolkt en vallen verspreid nog enkele lichte buien. Vanaf morgen wordt het droog en krijgen we zonnige perioden, met in de nacht en ochtend plaatselijk mist. Het wordt de komende dagen steeds kouder, met in de nachten op uitgebreide schaal lichte en lokaal mogelijk ook matige vorst.Vanochtend is het wisselend bewolkt en komen verspreid over het land enkele buien voor.",
     "vandaag": "Vandaag is het wisselend bewolkt en vallen verspreid nog enkele lichte buien. Vanochtend is het wisselend bewolkt en komen verspreid over het land enkele buien voor.",
     "temperatuur": "Op het KNMI-station in Deelen daalde de temperatuur naar -3,1 graden en aan de grond werd het in Eindhoven zelfs -4,5 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: lichte motregen, 1 tot 8 graden, 86% kans op neerslag, ruim 3 uur zon, wind uit het zuidwesten, kracht 2.",
+     "zin": "Voor Dalfsen zelf: motregen, 1 tot 8 graden, 86% kans op neerslag, ruim 5 uur zon, wind uit het zuidwesten, kracht 3.",
      "max": 8,
      "min": 1,
      "regenkans": 86,
-     "omschrijving": "lichte motregen",
+     "omschrijving": "motregen",
      "morgen": {
       "max": 7,
-      "min": -1,
+      "min": 0,
       "regenkans": 3,
       "omschrijving": null
      }
