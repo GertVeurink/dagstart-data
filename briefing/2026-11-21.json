@@ -3,13 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "08:00",
+  "opgehaald": "09:00",
   "blokken": 11,
-  "berichten": 89,
+  "berichten": 86,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-21T08:00+01:00",
+ "opgehaald": "2026-11-21T09:00+01:00",
  "audio": "audio/20261121.mp3",
  "afval": [
   {
@@ -223,6 +223,15 @@
      "sorteer": "2026-11-20T23:05:32+01:00"
     },
     {
+     "titel": "Gelekt overheidsrapport VS: training ICE-immigratieagenten ‘catastrofale mislukking’",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
+     "bron": "de Volkskrant",
+     "tijd": "08:37",
+     "sorteer": "2026-11-21T07:37:00+00:00"
+    },
+    {
      "titel": "Tussen Iran en de VS geldt ‘geen vrede, geen oorlog’, maar dat kan snel omslaan",
      "context": "",
      "rubrieken": [],
@@ -232,16 +241,6 @@
      "sorteer": "2026-11-21T04:00:49+00:00"
     },
     {
-     "titel": "Wat betekent de uitspraak over de genocide op de Rohingya in Myanmar voor de zaak tegen Israël?",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/wat-betekent-de-uitspraak-over-de-genocide-op-de-rohingya-in-myanmar-voor-de-zaak-tegen-israel~b4d328da6/",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-11-21T04:00:48+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
      "titel": "Na 167 jaar velt AI het oordeel: de wiskundige Riemann had gelijk",
      "context": "",
      "rubrieken": [],
@@ -249,6 +248,47 @@
      "bron": "Trouw",
      "tijd": "05:23",
      "sorteer": "2026-11-21T04:23:00+00:00"
+    },
+    {
+     "titel": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+     "context": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "08:31",
+     "sorteer": "2026-11-21T07:31:05+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+     "context": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "08:24",
+     "sorteer": "2026-11-21T07:24:45+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
+     "context": "For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces.",
+     "rubrieken": [
+      "US and Israeli Attack on Iran (2026)",
+      "Iraqi Army",
+      "Kataib Hezbollah",
+      "al-Zaidi, Ali (1986- )",
+      "Iraq",
+      "Iran",
+      "Middle East"
+     ],
+     "link": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
+     "bron": "New York Times",
+     "tijd": "08:11",
+     "sorteer": "2026-11-21T07:11:24+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
      "titel": "Campaigners back call for scrutiny of consent laws by Joanne Young",
@@ -272,105 +312,26 @@
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-     "context": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "07:00",
-     "sorteer": "2026-11-21T06:00:09+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-     "context": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "06:15",
-     "sorteer": "2026-11-21T05:15:41+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
-     "context": "Pedro Sánchez, Europe’s most prominent left-wing leader, seems set to lose power in an election next week. Our reporter trailed his last-ditch effort to turn his campaign around.",
+     "titel": "UK will take its time setting out Brexit options, says minister",
+     "context": "Hamish Falconer tells POLITICO that discussions around the topic had proved “divisive” and were important to get right.",
      "rubrieken": [
-      "Spain",
-      "Europe",
-      "Da Silva, Luiz Inacio Lula",
-      "Abascal, Santiago",
-      "Sanchez Perez-Castejon, Pedro (1972- )",
-      "Trump, Donald J",
-      "Spanish Socialist Workers' Party",
-      "Vox (Spanish Political Party)",
-      "Popular Party (Spain)"
-     ],
-     "link": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
-     "bron": "New York Times",
-     "tijd": "06:01",
-     "sorteer": "2026-11-21T05:01:09+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "The biggest winners and losers of the EU-UK summit deals",
-     "context": "We take stock of who’s up and who’s down after London and Brussels sign three new deals.",
-     "rubrieken": [
-      "Agriculture",
-      "Borders",
-      "Brexit",
-      "Carbon Border Tax",
-      "Cars",
-      "Companies",
-      "connectivity",
-      "Crisis",
-      "Defense",
-      "digital",
-      "Digital ID",
-      "Emissions",
-      "Energy",
-      "Exports",
-      "Food safety",
-      "Higher education",
-      "Imports",
-      "Industry",
-      "Investment",
-      "Labeling",
-      "Markets",
-      "Negotiations",
-      "Online safety",
-      "Packaging",
-      "Pesticides",
-      "Procurement",
-      "Quantum",
-      "Research",
-      "Safety",
-      "Security",
-      "Steel",
-      "Supply chains",
-      "Tariffs",
-      "Tax",
-      "Trade",
-      "UK",
-      "Visas",
-      "War",
-      "Youth",
-      "Energy and Climate",
+      "Customs Union",
+      "Parliament",
+      "Single Market",
+      "Westminster Insider",
       "Energy and Climate UK",
+      "EU-UK",
       "Financial Services UK",
       "Technology UK",
       "Trade",
       "Trade UK"
      ],
-     "link": "https://www.politico.eu/article/the-winners-and-losers-of-the-eu-uk-summit-deals/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "link": "https://www.politico.eu/article/uk-brexit-eu-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
      "bron": "Politico Europe",
-     "tijd": "18:24",
-     "sorteer": "2026-11-20T17:24:57+00:00",
+     "tijd": "18:50",
+     "sorteer": "2026-11-20T17:50:49+00:00",
      "taal": "en",
-     "kop": "Buitenlandse media",
-     "vervolg": "stond gisteren ook in de briefing"
+     "kop": "Buitenlandse media"
     }
    ]
   },
@@ -417,19 +378,19 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Overlijden Jason Bhugwandass raakt velen in het hart: ‘Laten we naar elkaar omkijken zoals Jason dat als geen ander kon’",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/overlijden-jason-bhugwandass-raakt-velen-in-het-hart-laten-we-naar-elkaar-omkijken-zoals-jason-dat-als-geen-ander-kon~b153652d/",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-11-21T04:00:48+00:00"
-    },
-    {
      "titel": "FvD royeert leden na uitzending ‘Zembla’, maar intussen strooien andere met likes en hartjes onder nazicontent",
      "context": "",
      "rubrieken": [],
      "link": "https://www.volkskrant.nl/binnenland/fvd-royeert-leden-na-uitzending-zembla-maar-intussen-strooien-andere-met-likes-en-hartjes-onder-nazicontent~b46dfefe/",
+     "bron": "de Volkskrant",
+     "tijd": "05:00",
+     "sorteer": "2026-11-21T04:00:00+00:00"
+    },
+    {
+     "titel": "Overlijden Jason Bhugwandass raakt velen in het hart: ‘Laten we naar elkaar omkijken zoals Jason dat als geen ander kon’",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/binnenland/overlijden-jason-bhugwandass-raakt-velen-in-het-hart-laten-we-naar-elkaar-omkijken-zoals-jason-dat-als-geen-ander-kon~b153652d/",
      "bron": "de Volkskrant",
      "tijd": "05:00",
      "sorteer": "2026-11-21T04:00:00+00:00"
@@ -443,6 +404,13 @@
      "tijd": "22:00",
      "sorteer": "2026-11-20T21:00:18+00:00",
      "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Acht verdachten langer vast na vondst 586 kilo cocaïne: ‘Genoeg om alle inwoners dagelijks lijntje te geven’",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNTYzM3N3eU5tN2VJUk9xNUxBOFc0eDZpMmF2SzFnUzg4anotN1d5RFFEUmloQkp6UXR2VmNwNGFMZ0Y2SGJOak44dzRuaU1wU3FEVUd1dXBEUkRFQy1tOVBLcFF6V0V0cVd0a1NqZlljaDZ5U1poa2M0ZjJ0T0E3SktYNmNsTkc1UFg2eEU5ZWxKTzhmQ1NhdlhFN3NvSC03aGM2MDd2ZjRDT2J4NmVNM29jMEpFMkNubjlKdEVqdUJjYW4zUFZ2NXFob1hCNEVvYU1BSGVET3hHUQ?oc=5",
+     "bron": "AD.nl",
+     "tijd": "08:05",
+     "sorteer": "2026-11-21T07:05:06+00:00"
     },
     {
      "titel": "Moord op Ed Heijnen (70) in erotiekgroothandel Zaandam: dochter Sterre reageert",
@@ -464,13 +432,6 @@
      "bron": "De Telegraaf",
      "tijd": "23:28",
      "sorteer": "2026-11-20T22:28:00+00:00"
-    },
-    {
-     "titel": "OM hackte systemen Tata Steel in strafonderzoek milieuvervuiling, bedrijf verbijsterd: ’Heel ongebruikelijk’",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWjdTR2NQaU1Sdld2WU1Na1ZQd0t2WWkyN2tQZ3pxc01FdEtXR0pYLXlGU2taUVA4bnNDeEotXzlZZW5SQWl6M0Y0ejhQWlhYdkhPRHhsWl8xQVRhOTBTbXJ3cHdZY3B2My03THJ0Z2EyaXlXWWJQQmZCeDRULVJFUE9oOFFJSUJka1lkR05YTWZYRENROXBVRU1hVlNHUW1PUTJFVXZZNTVOT0dNT1hGd0NETWtXbkJKM1Rtd1dJSVExczBvYXFpMFpsTjlOeHdSQ0h2VnBXU1BDdE1tVGZ3Zk9yanF6VUwyV18w?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "23:07",
-     "sorteer": "2026-11-20T22:07:00+00:00"
     },
     {
      "titel": "Ik was te gast bij de VPRO-podcast Achter de Frontlinie. Luister hier het gesprek terug",
@@ -516,6 +477,24 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Vogelgriep op bedrijf in Collendoorn: 8.600 kippen geruimd",
+     "context": "Op een leghennenbedrijf in Collendoorn, in de gemeente Hardenberg, is vogelgriep vastgesteld. Ongeveer 8.600 kippen worden geruimd om verspreiding van het virus te voorkomen. Rond het bedrijf geldt een vervoersverbod. Binnen een straal van tien kilometer liggen nog eens veertig pluimveebedrijven.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3721921/vogelgriep-op-bedrijf-in-collendoorn-8600-kippen-geruimd",
+     "bron": "RTV Oost",
+     "tijd": "08:29",
+     "sorteer": "2026-11-21T07:29:05+00:00"
+    },
+    {
+     "titel": "Al twee jaar houden vrijwilligers kerkasiel in Kampen dag en nacht gaande",
+     "context": "Al twee jaar houden duizenden vrijwilligers, voorgangers en musici in Kampen dag en nacht een kerkdienst gaande. Daarmee beschermen ze de familie Babayants tegen uitzetting. Elke twee uur lossen de vrijwilligers uit het hele land elkaar af.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3720500/al-twee-jaar-houden-vrijwilligers-kerkasiel-in-kampen-dag-en-nacht-gaande",
+     "bron": "RTV Oost",
+     "tijd": "07:58",
+     "sorteer": "2026-11-21T06:58:19+00:00"
+    },
+    {
      "titel": "Wie zit er achter defensiebedrijf Destinus in Hengelo?",
      "context": "Defensiebedrijf Destinus is deze week volop in het nieuws. Het bedrijf zegt dat zijn raketten zijn gebruikt bij een aanval op de Krimbrug in Oekraïne. Volgens NRC hielpen medewerkers zelfs mee in de oorlog. Maar wat maakt Destinus eigenlijk? Wie zit erachter? En hoe kwam het bedrijf in Hengelo terecht?",
      "rubrieken": [
@@ -547,16 +526,6 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Man uit Hasselt verliest tand na harde klap bij Zwolse dönerzaak",
-     "context": "Bij een dönerzaak aan de Steenstraat in Zwolle krijgt een man van 27 uit Hasselt een vuistslag in zijn gezicht, nadat hij iets zegt tegen twee mannen die voordringen. Hij verliest daarbij een tand. De politie is op zoek naar de man die de klap uitdeelt. Hij heeft een opvallend uiterlijk.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3720317/man-uit-hasselt-verliest-tand-na-harde-klap-bij-zwolse-donerzaak",
-     "bron": "RTV Oost",
-     "tijd": "19:02",
-     "sorteer": "2026-11-20T18:02:01+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
      "titel": "Zwolse studenten demonstreren tegen dienstplicht: 'Ik wil een normale toekomst hebben'",
      "context": "Zo’n veertig demonstranten zijn vrijdagmiddag door de binnenstad van Zwolle gelopen om te protesteren tegen de dienstplicht en de investeringen in Defensie. Met de actie sluiten de studenten zich aan bij een landelijke protestdag. \"Ik heb geen zin om aan het front te staan\", vertelt één van de demonstranten.",
      "rubrieken": [],
@@ -564,18 +533,6 @@
      "bron": "RTV Oost",
      "tijd": "18:30",
      "sorteer": "2026-11-20T17:30:00+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "'Ik steek je tent in de fik': tandarts uit Den Ham bedreigd na neonazi-docu Zembla",
-     "context": "\"Je staat er lekker op man.\" Tandarts Bas Wemekamp uit Den Ham schrikt een hoedje van allerlei dreigmails aan zijn adres na een documentaire van Zembla. Mensen denken dat hij betrokken is bij geheime kooigevechten van neonazi’s. Bas heeft er echter niets mee te maken; hij wordt aangezien voor een naamgenoot.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3721790/ik-steek-je-tent-in-de-fik-tandarts-uit-den-ham-bedreigd-na-neonazi-docu-zembla",
-     "bron": "RTV Oost",
-     "tijd": "18:17",
-     "sorteer": "2026-11-20T17:17:41+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -718,6 +675,13 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Wiskundige claimt ruim 170 jaar oud priemgetallenraadsel op te lossen met AI: ’Begin van iets veel groters’",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV0tJenNZWlBCTXVlQlB6eGJTQm9kRzE4NU9DVWJEcVZfZTAyR0k1OVlpTzFyeVpGR1c1X0RITlFsUzAwVnhwU2R5bDRua1BQNTFJdVFSVmRacHhLVlFITFhzYWFZcjVsNXdlWE9BZTh2TkRBR2NGRVR3MEVOZ1VTVjZkWkRSb2o4YVE2el96bHNQYnNZWjhBU2dobU9UQjc3d1Z5eUVQQXFQUldZV3VZRURLY24xaGVVeVpfMWxKa0xIckZkNnNqTi1GaHYzU3QxWjBEaXpXbHBxX3IwNWw3TDlpcU8ycFBuSXRV?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "08:31",
+     "sorteer": "2026-11-21T07:31:21+00:00"
+    },
+    {
      "titel": "Met een zwerm AI-agents slaan hackers razendsnel hun slag",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3Bta3cxX09iRVhrMXNTNG10ZGozLTZicFFtLXdhXy1jRzR5c1FDYmR3bUtOY2RZVjI3TjE0R3FIVHJUZUdqNUJKZzYzMlM3bUdWdzY3Sk5mekluRlZfSnNhdEJkYmNid3ltd1paYnNsZmlrT0FkeFVpM2s1czVsYXBEbzZRQ19mVTNmVk83emVJcHQwWF9adlFvX1Awem9sSTE3b3psRmRnSFQ0Y2RZ?oc=5",
      "bron": "Trouw",
@@ -852,7 +816,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "08:00",
+    "bijgewerkt": "09:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1250,10 +1214,18 @@
     {
      "titel": "Rotszwaluw",
      "kop": "Zeldzaamheden",
-     "bron": "Zuid-Holland",
-     "tijd": "14:56",
+     "bron": "Noord-Holland",
+     "tijd": "08:57",
      "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-20T14:56:00+01:00"
+     "sorteer": "2026-11-21T08:57:00+01:00"
+    },
+    {
+     "titel": "Witbandkruisbek",
+     "kop": "Zeldzaamheden",
+     "bron": "Drenthe",
+     "tijd": "08:07",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-21T08:07:00+01:00"
     },
     {
      "titel": "Zwarte Zeekoet",
@@ -1270,14 +1242,6 @@
      "tijd": "12:36",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-11-20T12:36:00+01:00"
-    },
-    {
-     "titel": "Witbandkruisbek",
-     "kop": "Zeldzaamheden",
-     "bron": "Drenthe",
-     "tijd": "12:10",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-20T12:10:00+01:00"
     },
     {
      "titel": "Roodkopklauwier",
@@ -1307,86 +1271,54 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 140 soorten, 52.887 vogels geteld",
+     "titel": "Landelijk vandaag: 24 soorten, 944 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch"
     },
     {
-     "titel": "Spreeuw — 31.154",
+     "titel": "Stormmeeuw — 188",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch"
     },
     {
-     "titel": "Brandgans — 4.896",
+     "titel": "Aalscholver — 170",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch"
     },
     {
-     "titel": "Kolgans — 2.375",
+     "titel": "Spreeuw — 150",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch"
     },
     {
-     "titel": "Zwarte Zee-eend — 2.276",
+     "titel": "Zwarte Zee-eend — 88",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch"
     },
     {
-     "titel": "Kokmeeuw — 2.140",
+     "titel": "Jan-van-gent — 61",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch"
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Brandgans springt eruit — 4.896, normaal 25",
-     "bron": "196× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Koperwiek springt eruit — 1.082, normaal 31",
-     "bron": "35× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Smient springt eruit — 694, normaal 26",
-     "bron": "27× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Eider springt eruit — 103, normaal 4",
-     "bron": "26× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch",
-     "sein": true
     },
     {
      "kop": "Pestvogels",
-     "titel": "Goed pestvogeljaar — op 57 plekken in de afgelopen week",
+     "titel": "Goed pestvogeljaar — op 58 plekken in de afgelopen week, waarvan 1 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 165 vogels; 91 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 166 vogels; 92 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1416,22 +1348,22 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": -0.1,
-    "gevoel": -0.1,
-    "wind": "ZW 1",
+    "nu": -0.6,
+    "gevoel": -4.1,
+    "wind": "ZW 2",
     "station": "Heino",
     "bericht": "Vandaag is het wisselend bewolkt en vallen verspreid nog enkele lichte buien. Vanaf morgen wordt het droog en krijgen we zonnige perioden, met in de nacht en ochtend plaatselijk mist. Het wordt de komende dagen steeds kouder, met in de nachten op uitgebreide schaal lichte en lokaal mogelijk ook matige vorst.Vanochtend is het wisselend bewolkt en komen verspreid over het land enkele buien voor.",
     "vandaag": "Vandaag is het wisselend bewolkt en vallen verspreid nog enkele lichte buien. Vanochtend is het wisselend bewolkt en komen verspreid over het land enkele buien voor.",
-    "temperatuur": "Op het KNMI-station in Deelen daalde de temperatuur naar -2,8 graden en aan de grond werd het zelfs -4,2 graden.",
+    "temperatuur": "Op het KNMI-station in Deelen daalde de temperatuur naar -3,1 graden en aan de grond werd het in Eindhoven zelfs -4,5 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: dichte motregen, 1 tot 8 graden, 86% kans op neerslag, ruim 5 uur zon, wind uit het zuidwesten, kracht 3.",
+     "zin": "Voor Dalfsen zelf: lichte motregen, 1 tot 8 graden, 86% kans op neerslag, ruim 3 uur zon, wind uit het zuidwesten, kracht 2.",
      "max": 8,
      "min": 1,
      "regenkans": 86,
-     "omschrijving": "dichte motregen",
+     "omschrijving": "lichte motregen",
      "morgen": {
-      "max": 8,
-      "min": 0,
+      "max": 7,
+      "min": -1,
       "regenkans": 3,
       "omschrijving": null
      }
@@ -1445,7 +1377,7 @@
     "omschrijving": "Zwaar bewolkt en regen",
     "morgen": {
      "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
-     "min": "-1",
+     "min": "0",
      "max": "6",
      "regenkans": 0
     }
