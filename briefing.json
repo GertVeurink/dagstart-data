@@ -3,13 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "08:00",
+  "opgehaald": "09:00",
   "blokken": 11,
-  "berichten": 88,
+  "berichten": 84,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-22T08:00+01:00",
+ "opgehaald": "2026-11-22T09:00+01:00",
  "audio": "audio/20261122.mp3",
  "afval": [
   {
@@ -169,6 +169,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Droneaanval op woongebouw Kyiv: twee gewonden, mogelijk mensen onder puin",
+     "context": "In de regio Kyiv is bij een droneaanval een appartementencomplex zwaar beschadigd geraakt. Er vielen minstens twee gewonden. Negen mensen zijn uit het gebouw geëvacueerd. Mogelijk zitten er nog mensen vast onder het puin. Er is nog een reddings- en zoekactie gaande, zegt Tymoer Tkatsjenko. het hoofd van het regionale bestuur van Kyiv. Het getroffen gebouw van vijf verdiepingen staat in het Vysjhor",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640537",
+     "bron": "NOS",
+     "tijd": "08:39",
+     "sorteer": "2026-11-22T08:39:50+01:00"
+    },
+    {
      "titel": "Wekdienst 22/11: Partijcongres PvdD • Wachten op slotverklaring klimaattop",
      "context": "Goedemorgen! Partij voor de Dieren houdt een congres in Nieuwegein en het is wachten op de slotverklaring op de klimaattop in Antalya. Eerst het weer: Het is een koude ochtend met plaatselijk mist. Later wordt het zonnig met dunne sluierbewolking. Bijna overal blijft het droog. Alleen in het noorden soms een bui. Het is 5 tot 8 graden met een noordoostenwind. Komende dagen koud en droog herfstweer",
      "rubrieken": [],
@@ -205,15 +214,6 @@
      "sorteer": "2026-11-22T06:19:58+01:00"
     },
     {
-     "titel": "24 doden nadat boot met grote groep begrafenisgangers omslaat in Nigeria",
-     "context": "Een boot met een grote groep mensen die onderweg was naar een begrafenis in het zuiden van Nigeria is omgeslagen. Zeker 24 mensen zijn daarbij omgekomen, melden de hulpdiensten. De Nigeriaanse rampenbestrijdingsdienst spreekt van een tragisch bootongeluk op een kruising van rivieren. De boot vervoerde passagiers van het ene dorp naar het andere voor een begrafenisceremonie. De autoriteiten hebben ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640511",
-     "bron": "NOS",
-     "tijd": "02:45",
-     "sorteer": "2026-11-22T02:45:56+01:00"
-    },
-    {
      "titel": "Trump bagatelliseert tweede FBI-hack in korte tijd en ziet zelfs mogelijke positieve gevolgen",
      "context": "",
      "rubrieken": [],
@@ -229,7 +229,7 @@
      "link": "https://www.volkskrant.nl/buitenland/met-arrestatie-drugsbaas-el-chapo-isidro-haalt-mexico-wit-voetje-bij-vs~be46da40/",
      "bron": "de Volkskrant",
      "tijd": "01:52",
-     "sorteer": "2026-11-22T00:52:18+00:00"
+     "sorteer": "2026-11-22T00:52:00+00:00"
     },
     {
      "titel": "Voornaamste adviseur Trump over cyberveiligheid vertrekt na reeks incidenten",
@@ -241,7 +241,65 @@
      "sorteer": "2026-11-22T02:47:00+00:00"
     },
     {
-     "titel": "New draft deal aims to avert collapse of talks at climate summit",
+     "titel": "Europeans dare to believe Trump could deliver security for Ukraine",
+     "context": "After months of anxiety, some of Kyiv's allies now think the U.S will help deliver an acceptable peace.",
+     "rubrieken": [
+      "Baltics",
+      "Borders",
+      "Conflict",
+      "Defense",
+      "Diplomacy",
+      "Drones",
+      "Energy",
+      "Military",
+      "Missiles",
+      "Negotiations",
+      "Rights",
+      "Security",
+      "War",
+      "Defense"
+     ],
+     "link": "https://www.politico.eu/article/europeans-dare-to-believe-trump-could-deliver-security-for-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "08:44",
+     "sorteer": "2026-11-22T07:44:01+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Fire at confectionary factory in Indonesia leaves at least three dead and dozens missing",
+     "context": "Relatives of the missing victims flocked to the factory’s entrance, seeking updates about their loved ones A fire at a confectionery factory west of Jakarta has killed three people with 36 remaining missing, an Indonesian rescue official says. Drone footage showed large parts of the factory destroyed, with the roof collapsed in places and smoke still rising from the complex. Photos and videos shar",
+     "rubrieken": [
+      "Indonesia",
+      "Asia Pacific",
+      "World news"
+     ],
+     "link": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+     "bron": "The Guardian",
+     "tijd": "08:11",
+     "sorteer": "2026-11-22T07:11:17+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "How Stringent Anti-A.I. Cheating Rules Brought Down an Education Minister",
+     "context": "Two days before South Korea’s college entrance exam, new measures were announced, including loud phone alerts and eyeglass inspections. Public backlash came fast.",
+     "rubrieken": [
+      "Tests and Examinations",
+      "Cheating",
+      "Artificial Intelligence",
+      "South Korea",
+      "Colleges and Universities"
+     ],
+     "link": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
+     "bron": "New York Times",
+     "tijd": "08:04",
+     "sorteer": "2026-11-22T07:04:28+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "New draft deal aims to avert collapse of talks at COP31 climate summit",
      "context": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
@@ -252,83 +310,13 @@
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
-     "context": "“Xi Jinping is my comedy muse,” said Huang Yi-hao, who survived a car crash meant to silence him and says he has no hatred for his attacker.",
-     "rubrieken": [
-      "Politics and Government",
-      "Comedy and Humor",
-      "Assaults",
-      "Communist Party of China",
-      "Xi Jinping",
-      "Chen Shui-Bian",
-      "China",
-      "Taipei (Taiwan)",
-      "Taiwan",
-      "Huang Yi-hao"
-     ],
-     "link": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
-     "bron": "New York Times",
-     "tijd": "07:51",
-     "sorteer": "2026-11-22T06:51:28+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Security Sunday: Der Kampf um die Arktis – mit Robert Habeck",
-     "context": "Zum ersten Mal in der Menschheitsgeschichte entsteht ein neuer Ozean und mit dem schmelzenden Eis der Arktis entbrennt ein Wettlauf der Großmächte. Es öffnet sich eine neue geopolitische Front. Im Gespräch mit POLITICO-Host Rixa Fürsen analysiert der ehemalige Vizekanzler Robert Habeck die brisante Lage am Nordpol. Der heutige Professor an der Copenhagen Business School und […]",
-     "rubrieken": [
-      "Arctic Ocean",
-      "Climate change",
-      "Der Podcast",
-      "Donald Trump",
-      "EU affairs",
-      "Foreign policy",
-      "German politics",
-      "Playbook",
-      "Security",
-      "Playbook",
-      "Politics"
-     ],
-     "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-der-kampf-um-die-arktis-mit-robert-habeck/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "07:30",
-     "sorteer": "2026-11-22T06:30:00+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Dozens missing after fire at Indonesian factory",
-     "context": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
+     "titel": "Three killed and dozens missing after fire at Indonesian factory",
+     "context": "At least three people were killed and 36 are still missing after a fire at a confectionary factory.",
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
      "tijd": "07:05",
      "sorteer": "2026-11-22T06:05:00+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
-     "context": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm event With their cavernous post-industrial venues, teeth-grinding four-by-four beats and bouncers that look like Blade Runner extras, Berlin’s nightclubs trade on a reputation for bleakness. A recent event at one of the city’s most legendary clubland institutions, however, has proven too dys",
-     "rubrieken": [
-      "Arms trade",
-      "Germany",
-      "Club culture",
-      "Corporate sponsorship",
-      "Clubbing",
-      "Weapons technology",
-      "Electronic music",
-      "Europe",
-      "Culture",
-      "Music",
-      "Technology",
-      "World news",
-      "AI (artificial intelligence)"
-     ],
-     "link": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
-     "bron": "The Guardian",
-     "tijd": "07:00",
-     "sorteer": "2026-11-22T06:00:21+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -383,7 +371,7 @@
      "link": "https://www.volkskrant.nl/binnenland/verwey-jonker-instituut-gaf-jarenlang-stem-aan-marginale-groepen-nu-is-het-failliet-hoe-kan-dat~b594ba2f/",
      "bron": "de Volkskrant",
      "tijd": "20:37",
-     "sorteer": "2026-11-21T19:37:29+00:00",
+     "sorteer": "2026-11-21T19:37:00+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -413,25 +401,18 @@
      "sorteer": "2026-11-22T05:35:08+00:00"
     },
     {
-     "titel": "Wáár komt die pakjesboot dan aan? Een mogelijke landelijke Sintocht in Helmond heeft één groot probleem",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdl9xWlU1bEtuRFNEUWNzWWw5NmVfZk1MNG84c2IwMmh1ek8tSVo3NXZSMmZjX0x2R1dLMWhiZ3VodktueGhUMHJfNTNFTlE1VUxvd0drYzRBbkFGdDlWN2xwNjlERHNZQ3JDZkwyUGFXUmlrVVUzLW9mRUxtQUxTT1lWS21yd3ZMWGdLVUROSENKSFcxLVF3cm5mQTN5cDR2N1hoVTVUTTZRZnM1ekRtejJhV2VQbUR5TlZvcURLZ1cwME55eGJXWGZKUXZTVUpqRTlSRA?oc=5",
+     "titel": "Van basketbalprof tot hardloopfenomeen: Inez van Hulsen wint opnieuw halve marathon van Monster",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZE1VaHU1TzlHdENvY0ZtLUg1SGxxZzNveUJhWDBTWl9KMElWdzlYLU1QS1BVTTNzeHhiNmx4by1vdjlqa1BFOVBrZlRrLS1wQ1lFa0JoOHdLLVJFaU5mQ3lMRXFxT3dsaWMxZ1NiaHJPZk9peUIxU2UwVmNEb2dyTGM2UGxJQUs3M1JwcXR4eV9EbjF0STRlQ3NxYW9ORTV4ZHp5OEx2d2dyclRZMldrdjNMT0cwek9BM01hbmFPckFiZnF3V3hJaTVLZw?oc=5",
      "bron": "AD.nl",
-     "tijd": "07:13",
-     "sorteer": "2026-11-22T06:13:19+00:00"
+     "tijd": "08:49",
+     "sorteer": "2026-11-22T07:49:28+00:00"
     },
     {
-     "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTkpLMnFZcXE3Zzg1OG9OWWJqZzgzZmdYZjd3bEhmbFZqaHF3UmpVamhmWTVJNmROU3lkSzJ0WTRtMFVhRXViVnZVWXRMRlEwMzNMNklEaG5QYXU0RmpoampQVmVTd29NeTdoMkU1VnBDUkZSUVhxR0sySGc0bGxEQUFsaDZJWDRkM1pJZmdORVBHdDZmM0hBU2JMd1o?oc=5",
+     "titel": "KNMI waarschuwt voor gladde wegen en mist",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV1N3ZEtneGdmdUpXRmlZck1CMzFSbGI5VGRhMlBRWXRvZk56VVhjX3Z0V0RfaHl4a0ZTN1FTOE5wRENPWWhaeG4ySnpLRHVNWDljT2k0WUJib3UyemJQaFlqYVBMUmwyZnNXYjk2T29zclhyQUVrakF2VldtdnRudEFUNWQxQjg?oc=5",
      "bron": "AD.nl",
-     "tijd": "22:00",
-     "sorteer": "2026-11-21T21:00:00+00:00"
-    },
-    {
-     "titel": "Prins Dennis d’n Urste regeert tijdens carnaval over Teutengat Bergeijk",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOFRHWWlueHl2VHp4TW9XTzVJOHltODFHV25xbDZZU21FSG1velE1SmYwRGYzOHdaZE45RE41RTFJcEZOMjEtWWpyYUs4eDRqRkNDdkdWdFFUV3JxX0xWYXBWMUNrdDBVdzhVM004aVBGOUtsa29uS1k0cVhHNktOYkRGeVJLbEJhcEh2Wll6Sm1ZZ1Y2VUxhZl9jVG84SzgtTU52NHZVOHdjVk0?oc=5",
-     "bron": "AD.nl",
-     "tijd": "21:37",
-     "sorteer": "2026-11-21T20:37:44+00:00"
+     "tijd": "04:47",
+     "sorteer": "2026-11-22T03:47:14+00:00"
     },
     {
      "titel": "Nieuwsuur: Congres FVD na Zembla-documentaire • Hoe verder met Democraten? • Documentaire over Iraanse revolutie op IDFA",
@@ -459,6 +440,24 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Arjan Lensen weet al 10 jaar als professioneel gitaarbouwer de juiste snaar te raken",
+     "context": "Het is een markt die fors onder druk staat en die van oudsher is gebaseerd op twee toonaangevende merken. Des te opmerkelijker is dat Arjan Lensen dit jaar al tien jaar aan de weg timmert als professioneel gitaarbouwer. En dat dan ook nog eens doet met hele eigenzinnige modellen.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/cultuur/3721271/arjan-lensen-weet-al-10-jaar-als-professioneel-gitaarbouwer-de-juiste-snaar-te-raken",
+     "bron": "RTV Oost",
+     "tijd": "08:02",
+     "sorteer": "2026-11-22T07:02:39+00:00"
+    },
+    {
+     "titel": "Code geel: kans op plaatselijke gladheid en dichte mist in Overijssel",
+     "context": "Het KNMI waarschuwt zondagochtend voor plaatselijk gladheid door bevriezing van natte wegen en dichte mist. In de loop van de ochtend vervalt de waarschuwing en lost de mist op.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3722112/code-geel-kans-op-plaatselijke-gladheid-en-dichte-mist-in-overijssel",
+     "bron": "RTV Oost",
+     "tijd": "07:23",
+     "sorteer": "2026-11-22T06:23:15+00:00"
+    },
     {
      "titel": "N35 wekenlang deels dicht voor nieuwe ledverlichting",
      "context": "Rijkswaterstaat gaat de verlichting langs de N35 tussen Zwolle en Nijverdal in beide richtingen vervangen. Die werkzaamheden veroorzaken overlast voor mensen die gebruikmaken van die weg.",
@@ -497,28 +496,6 @@
      "bron": "RTV Oost",
      "tijd": "21:02",
      "sorteer": "2026-11-21T20:02:25+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Drie generaties, één verjaardag: bij familie De Vos in Enschede is het elk jaar dubbel en dwars feest",
-     "context": "Zoiets laat zich niet plannen: Bianca de Vos uit Enschede is op 19 november jarig. Haar dochter Demi ook, en sinds vorig jaar ook haar kleindochter Jasmine. Drie generaties, drie keer dezelfde dag.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3589485/drie-generaties-een-verjaardag-bij-familie-de-vos-in-enschede-is-het-elk-jaar-dubbel-en-dwars-feest",
-     "bron": "RTV Oost",
-     "tijd": "20:02",
-     "sorteer": "2026-11-21T19:02:54+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Super Lettele is 'super' belangrijk voor Lettele: 'Het is meer dan een winkel'",
-     "context": "In het Sallandse Lettele is de supermarkt een opvallende verschijning. Waar bij andere supermarkten het logo van een grote keten op de gevel staat, prijkt hier: 'Super Lettele'. En waar normaal betaalde medewerkers werken, wordt de super hier gerund door vrijwilligers. \"Het is meer dan een winkel.\"",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3711980/super-lettele-is-super-belangrijk-voor-lettele-het-is-meer-dan-een-winkel",
-     "bron": "RTV Oost",
-     "tijd": "19:02",
-     "sorteer": "2026-11-21T18:02:40+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -771,7 +748,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "08:00",
+    "bijgewerkt": "09:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1173,13 +1150,6 @@
      "link": "https://scientias.nl/deze-prehistorische-walvis-had-wel-een-heel-bijzonder-hoofd/"
     },
     {
-     "titel": "Kan zuurstofarme lucht bijenvolken beschermen tegen de dodelijke varroamijt?",
-     "toelichting": "De varroamijt is voor honingbijen wereldwijd de grootste plaag, maar op de Tibetaanse hoogvlakte loopt de parasiet tegen zijn grens aan. Bijenvolken die naar ruim 3600 meter hoogte werden verhuisd, waren binnen een jaar ",
-     "bron": "Scientias",
-     "tijd": "19:00",
-     "link": "https://scientias.nl/kan-zuurstofarme-lucht-bijenvolken-beschermen-tegen-de-dodelijke-varroamijt/"
-    },
-    {
      "titel": "The British island that made a deal with nature",
      "toelichting": "LUNDY ISLAND — United Kingdom. Out in the Bristol Channel, nestled between Wales and England, the rugged island of Lundy is one of the UK’s most pioneering conservation stories. From the return of thousands of seabirds t",
      "bron": "Mongabay (Engels)",
@@ -1202,6 +1172,30 @@
    "titel": "Vogels",
    "emoji": "🐦",
    "items": [
+    {
+     "titel": "Waterspreeuw",
+     "kop": "Zeldzaamheden",
+     "bron": "Drenthe",
+     "tijd": "08:51",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-22T08:51:00+01:00"
+    },
+    {
+     "titel": "Witbandkruisbek",
+     "kop": "Zeldzaamheden",
+     "bron": "Drenthe",
+     "tijd": "08:37",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-22T08:37:00+01:00"
+    },
+    {
+     "titel": "Rotszwaluw",
+     "kop": "Zeldzaamheden",
+     "bron": "Noord-Holland",
+     "tijd": "08:36",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-22T08:36:00+01:00"
+    },
     {
      "titel": "Aziatische Goudplevier",
      "kop": "Zeldzaamheden",
@@ -1235,36 +1229,12 @@
      "sorteer": "2026-11-21T11:59:00+01:00"
     },
     {
-     "titel": "Rotszwaluw",
-     "kop": "Zeldzaamheden",
-     "bron": "Noord-Holland",
-     "tijd": "11:25",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-21T11:25:00+01:00"
-    },
-    {
      "titel": "Grijze Wouw",
      "kop": "Zeldzaamheden",
      "bron": "Drenthe",
      "tijd": "10:24",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-11-21T10:24:00+01:00"
-    },
-    {
-     "titel": "Roodkopklauwier",
-     "kop": "Zeldzaamheden",
-     "bron": "Friesland",
-     "tijd": "08:40",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-21T08:40:00+01:00"
-    },
-    {
-     "titel": "Witbandkruisbek",
-     "kop": "Zeldzaamheden",
-     "bron": "Drenthe",
-     "tijd": "08:07",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-21T08:07:00+01:00"
     },
     {
      "titel": "Dalfsen (nacht)",
@@ -1284,42 +1254,42 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 144 soorten, 150.155 vogels geteld",
+     "titel": "Landelijk vandaag: 41 soorten, 15.178 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch"
     },
     {
-     "titel": "Spreeuw — 128.372",
+     "titel": "Spreeuw — 14.620",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch"
     },
     {
-     "titel": "Kolgans — 2.548",
+     "titel": "Toendrarietgans — 125",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch"
     },
     {
-     "titel": "Aalscholver — 2.344",
+     "titel": "Koperwiek — 71",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch"
     },
     {
-     "titel": "Zwarte Zee-eend — 2.252",
+     "titel": "Goudplevier — 70",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch"
     },
     {
-     "titel": "Vink — 1.833",
+     "titel": "Kolgans — 64",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -1327,43 +1297,27 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Spreeuw springt eruit — 128.372, normaal 1.871",
-     "bron": "69× het gewone niveau",
+     "titel": "Spreeuw springt eruit — 14.620, normaal 1.871",
+     "bron": "8× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch",
-     "sein": true
+     "sein": false
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Smient springt eruit — 1.521, normaal 26",
-     "bron": "58× het gewone niveau",
+     "titel": "Toendrarietgans springt eruit — 125, normaal 21",
+     "bron": "6× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Keep springt eruit — 290, normaal 5",
-     "bron": "58× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Vink springt eruit — 1.833, normaal 50",
-     "bron": "37× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch",
-     "sein": true
+     "sein": false
     },
     {
      "kop": "Pestvogels",
-     "titel": "Goed pestvogeljaar — op 53 plekken in de afgelopen week",
+     "titel": "Goed pestvogeljaar — op 55 plekken in de afgelopen week, waarvan 2 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 112 vogels; 87 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 118 vogels; 89 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1399,22 +1353,22 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 0.3,
-    "gevoel": 0.3,
-    "wind": "O 1",
+    "nu": 0.6,
+    "gevoel": 0.6,
+    "wind": "OZO 1",
     "station": "Heino",
     "bericht": "De dag begint plaatselijk met dichte mist, die in het oosten lang kan blijven hangen. Verder schijnt de zon. De komende week verloopt (licht) winters met in de nacht en ochtend vorst!Vanochtend heeft het KNMI code geel uitgegeven voor dichte mist, die in het oosten de hele ochtend kan blijven hangen.",
     "vandaag": "Vanavond en vannacht zijn er brede opklaringen en blijft het droog.",
     "temperatuur": "De middagtemperatuur komt uit op 7 of 8 graden langs de kust en vijf graden in het oosten van het land.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -1 tot 6 graden, droog, ruim 4 uur zon, wind uit het noordoosten, kracht 2.",
-     "max": 6,
+     "zin": "Voor Dalfsen zelf: -1 tot 5 graden, droog, ruim 4 uur zon, wind uit het noorden, kracht 2.",
+     "max": 5,
      "min": -1,
      "regenkans": 4,
      "omschrijving": "bewolkt",
      "morgen": {
-      "max": 5,
-      "min": -3,
+      "max": 6,
+      "min": -2,
       "regenkans": 2,
       "omschrijving": null
      }
