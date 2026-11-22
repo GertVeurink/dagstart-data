@@ -3,13 +3,13 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "12:00",
+  "opgehaald": "13:00",
   "blokken": 11,
-  "berichten": 83,
+  "berichten": 82,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-22T12:00+01:00",
+ "opgehaald": "2026-11-22T13:00+01:00",
  "audio": "audio/20261122.mp3",
  "afval": [
   {
@@ -51,63 +51,79 @@
  ],
  "duiding": [
   {
-   "titel": "Trump bagatelliseert tweede FBI-hack",
-   "tekst": "Trump bagatelliseert een tweede hack bij de FBI in korte tijd en ziet er volgens de Volkskrant zelfs mogelijke positieve gevolgen in (6). Die hack treft volgens de BBC het misdaadregister van de FBI, de databank waarmee federale en lokale politie informatie delen (12). Na die reeks incidenten vertrekt volgens Trouw ook Trumps voornaamste adviseur voor cyberveiligheid (8). De FBI onderzoekt de hack van het register (12).",
+   "titel": "EU verwerpt slottekst klimaattop",
+   "tekst": "De EU noemde vlak voor de stemming de slottekst van de klimaattop in Antalya onacceptabel, en daarmee staat het akkoord op het spel (2). Dat bezwaar gaat over fossiele brandstoffen: de tekst verwijst er niet stevig naar, terwijl de Ierse minister O'Brien een overgang daarvan weg eist (2). Die lijn trokken België en Duitsland al vóór de vergadering (2). Hun onderhandelaar, Eurocommissaris Hoekstra, laat nog wat ruimte, maar ziet het somber in (2).",
    "verwijzingen": [
     {
-     "titel": "Trump bagatelliseert tweede FBI-hack in korte tijd en ziet zelfs mogelijke positieve gevolgen",
-     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
-     "bron": "de Volkskrant",
-     "tijd": "03:38",
+     "titel": "EU legt bom onder klimaattop Turkije en wijst inhoud van slotakkoord af",
+     "link": "https://nos.nl/l/2640550",
+     "bron": "NOS",
+     "tijd": "10:37",
      "nummers": [
-      6
+      2
      ]
     },
     {
-     "titel": "Voornaamste adviseur Trump over cyberveiligheid vertrekt na reeks incidenten",
-     "link": "https://www.trouw.nl/buitenland/live-vs-trump-ziet-mogelijke-positieve-gevolgen-van-tweede-fbi-hack-in-korte-tijd~bbc0cf3d/",
-     "bron": "Trouw",
-     "tijd": "03:47",
+     "titel": "Wekdienst 22/11: Partijcongres PvdD • Wachten op slotverklaring klimaattop",
+     "link": "https://nos.nl/l/2640523",
+     "bron": "NOS",
+     "tijd": "07:34",
      "nummers": [
-      8
-     ]
-    },
-    {
-     "titel": "FBI reportedly investigating apparent hack of its criminal database",
-     "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "01:10",
-     "nummers": [
-      12
+      4
      ]
     }
    ],
-   "geschreven": "06:05"
+   "geschreven": "13:00"
   },
   {
-   "titel": "Mexico pakt drugsbaas Meza Flores",
-   "tekst": "Mexico heeft drugsbaas Fausto Isidro Meza Flores, bijgenaamd 'El Chapo Isidro', opgepakt, en haalt daarmee volgens de Volkskrant een wit voetje bij de VS (7, 11). Die man stond op de lijst van tien meest gezochte personen van de FBI en wordt beschuldigd van drugshandel en marteling (11). De arrestatie volgde op een vuurgevecht met de autoriteiten (11).",
+   "titel": "Russische drone verwoest flat Kyiv",
+   "tekst": "Een Russische droneaanval heeft een flat van vijf verdiepingen ten noorden van Kyiv verwoest, en volgens president Zelensky worden nog veertien mensen vermist (3, 7). Daarbij raakten een tiener en een vrouw gewond, en negen bewoners werden geëvacueerd (3). Na de aanval brak brand uit, en volgens bestuurder Tkatsjenko zijn alle appartementen verwoest (3). De zoek- en reddingsactie loopt nog, na maanden waarin Rusland de aanvallen op Kyiv opvoerde (3).",
    "verwijzingen": [
     {
-     "titel": "Met arrestatie drugsbaas ‘El Chapo Isidro’ haalt Mexico wit voetje bij VS",
-     "link": "https://www.volkskrant.nl/buitenland/met-arrestatie-drugsbaas-el-chapo-isidro-haalt-mexico-wit-voetje-bij-vs~be46da40/",
+     "titel": "Droneaanval op woongebouw Kyiv: twee gewonden, mogelijk mensen onder puin",
+     "link": "https://nos.nl/l/2640537",
+     "bron": "NOS",
+     "tijd": "08:39",
+     "nummers": [
+      3
+     ]
+    },
+    {
+     "titel": "14 vermisten na hevige Russische droneaanval op appartementencomplex",
+     "link": "https://www.volkskrant.nl/buitenland/14-vermisten-na-hevige-russische-droneaanval-op-appartementencomplex~b11373d3a/",
      "bron": "de Volkskrant",
-     "tijd": "01:52",
+     "tijd": "11:30",
      "nummers": [
       7
      ]
+    }
+   ],
+   "geschreven": "13:00"
+  },
+  {
+   "titel": "Dijkmans na elf dagen ICE terug",
+   "tekst": "Influencer Vera Dijkmans is na elf dagen in een Amerikaanse cel vanmorgen op Schiphol geland (15, 18). De immigratiedienst ICE pakte haar op omdat ze zich niet aan de voorwaarden van haar visum had gehouden (15). Volgens haar familie miste ze een oproep van de rechter doordat ze veel op reis is (15). Haar moeder zegt dat ze ernstig verzwakt is na haar verblijf in een uitzetcentrum in New Jersey (15).",
+   "verwijzingen": [
+    {
+     "titel": "Influencer Vera Dijkmans terug in Nederland na detentie in VS",
+     "link": "https://nos.nl/l/2640542",
+     "bron": "NOS",
+     "tijd": "09:19",
+     "nummers": [
+      15
+     ]
     },
     {
-     "titel": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-     "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "02:25",
+     "titel": "Influencer terug in Nederland na opsluiting in ICE-detentiecentrum",
+     "link": "https://www.volkskrant.nl/binnenland/influencer-terug-in-nederland-na-opsluiting-in-ice-detentiecentrum~bc19d9cb/",
+     "bron": "de Volkskrant",
+     "tijd": "11:23",
      "nummers": [
-      11
+      18
      ]
     }
    ],
-   "geschreven": "06:05"
+   "geschreven": "13:00"
   }
  ],
  "denkwerk": {
@@ -120,46 +136,46 @@
  },
  "verder": [
   {
-   "kop": "KNMI waarschuwt voor gladheid",
+   "kop": "Doorrijder sleurt fietser mee",
    "blok": "nationaal",
-   "link": "https://nos.nl/l/2640513",
+   "link": "https://nos.nl/l/2640527",
    "bron": "NOS",
-   "titel": "Waarschuwingen voor gladheid en dichte mist in delen van Nederland"
+   "titel": "Fietser aangereden en meegesleurd in Lichtenvoorde, bestuurder rijdt door"
   },
   {
-   "kop": "Brand beschadigt kerk Kloosterhaar",
+   "kop": "N35 wekenlang deels dicht",
    "blok": "lokaal",
-   "link": "https://www.oost.nl/nieuws/3721994/brand-in-kerk-kloosterhaar-dienst-op-eeuwigheidszondag-verhuist",
+   "link": "https://www.oost.nl/nieuws/3721281/n35-wekenlang-deels-dicht-voor-nieuwe-ledverlichting",
    "bron": "RTV Oost",
-   "titel": "Brand in kerk Kloosterhaar: dienst op Eeuwigheidszondag verhuist"
+   "titel": "N35 wekenlang deels dicht voor nieuwe ledverlichting"
   },
   {
-   "kop": "Vuurwerkbrand sluit school Deurne",
+   "kop": "KNMI waarschuwt voor gladheid",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3722112/code-geel-in-overijssel-kans-op-gladheid-en-dichte-mist",
+   "bron": "RTV Oost",
+   "titel": "Code geel in Overijssel: kans op gladheid en dichte mist"
+  },
+  {
+   "kop": "Hulp bij chemseks schiet tekort",
    "blok": "nationaal",
-   "link": "https://nos.nl/l/2640434",
+   "link": "https://nos.nl/l/2640539",
    "bron": "NOS",
-   "titel": "Door brand getroffen school Deurne waarschijnlijk nog maanden dicht"
+   "titel": "Verslavingsproblemen rond chemseks nemen toe, passende hulp moeilijk te vinden"
   },
   {
-   "kop": "Kamer stelt terreurdebat uit",
-   "blok": "bron",
-   "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05594",
-   "bron": "Commissiedebat",
-   "titel": "Terrorisme/extremisme (tot nader order uitgesteld)"
-  },
-  {
-   "kop": "Agent doodt aanvaller op Flinders",
+   "kop": "Leiden stopt met Chinese partner",
    "blok": "internationaal",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
-   "bron": "The Guardian",
-   "titel": "Man found dead on Flinders Island believed to have been shot by officer, police say"
+   "link": "https://www.volkskrant.nl/buitenland/universiteit-leiden-ziet-af-van-nieuwe-samenwerking-met-chinese-universiteit-docenten-trokken-eerder-al-aan-bel~b45568f8c/",
+   "bron": "de Volkskrant",
+   "titel": "Universiteit Leiden ziet af van nieuwe samenwerking met Chinese universiteit, docenten trokken eerder al aan bel"
   },
   {
-   "kop": "Staking schrapt Belgische vluchten",
+   "kop": "De Wever weer naar koning Filip",
    "blok": "internationaal",
-   "link": "https://nos.nl/l/2640473",
+   "link": "https://nos.nl/l/2640564",
    "bron": "NOS",
-   "titel": "Maandag alle Belgische vluchten geannuleerd wegens staking"
+   "titel": "'Nederlandse taferelen' in België, begrotingscrisis nadert climax"
   }
  ],
  "blokken": [
@@ -178,8 +194,8 @@
      "sorteer": "2026-11-22T11:33:19+01:00"
     },
     {
-     "titel": "Klimaattop bereikt kookpunt: EU-landen willen niet instemmen, terwijl de tijd wegtikt",
-     "context": "De klimaattop in Turkije dreigt zonder akkoord ten einde te komen. Verschillende EU-landen, waaronder België en Duitsland, noemen het slotakkoord zoals het er nu ligt onacceptabel. België spreekt in de wandelgangen zelfs al van een mislukte top. Eurocommissaris Hoekstra, die namens de EU onderhandelt, laat nog wat ruimte om eruit te komen, maar zegt tegen de NOS dat hij het somber inziet. \"We hebb",
+     "titel": "EU legt bom onder klimaattop Turkije en wijst inhoud van slotakkoord af",
+     "context": "De Europese Unie heeft een diplomatieke bom gelegd onder de klimaattop in Antalya. Het blok spreekt voorafgaand aan de stemming over het akkoord hardop zijn onvrede uit en noemt de slottekst onacceptabel. De EU laakt dat er geen stevige verwijzing wordt gedaan naar fossiele brandstoffen. Het lijkt erop dat zelfs tijdens de slotvergadering nog volop onderhandeld wordt over de slottekst. \"Deze beslu",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640550",
      "bron": "NOS",
@@ -214,6 +230,15 @@
      "sorteer": "2026-11-22T07:05:58+01:00"
     },
     {
+     "titel": "Universiteit Leiden ziet af van nieuwe samenwerking met Chinese universiteit, docenten trokken eerder al aan bel",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/universiteit-leiden-ziet-af-van-nieuwe-samenwerking-met-chinese-universiteit-docenten-trokken-eerder-al-aan-bel~b45568f8c/",
+     "bron": "de Volkskrant",
+     "tijd": "12:53",
+     "sorteer": "2026-11-22T11:53:07+00:00"
+    },
+    {
      "titel": "14 vermisten na hevige Russische droneaanval op appartementencomplex",
      "context": "",
      "rubrieken": [],
@@ -221,15 +246,6 @@
      "bron": "de Volkskrant",
      "tijd": "11:30",
      "sorteer": "2026-11-22T10:30:00+00:00"
-    },
-    {
-     "titel": "Zuid-Koreaanse onderwijsminister stapt op: ‘We waren onvoldoende voorbereid op AI-fraude bij toelatingsexamens universiteiten’",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/zuid-koreaanse-onderwijsminister-stapt-op-we-waren-onvoldoende-voorbereid-op-ai-fraude-bij-toelatingsexamens-universiteiten~b1415e05/",
-     "bron": "de Volkskrant",
-     "tijd": "10:49",
-     "sorteer": "2026-11-22T09:49:00+00:00"
     },
     {
      "titel": "Voornaamste adviseur Trump over cyberveiligheid vertrekt na reeks incidenten",
@@ -242,7 +258,7 @@
     },
     {
      "titel": "Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – UK politics live",
-     "context": "Issue dominates Sunday broadcast round following Friday’s deals on trade and youth mobility Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU The Tories and Reform have made the argument this morning that the new food deal is “bad” for British farmers, because they will be subject to EU rules and standards. They say more than 90% of British farmers currently don’t export to the EU- so",
+     "context": "Issue dominates Sunday broadcast round following Friday’s deals on trade and youth mobility Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU European Relations Minister Hamish Falconer on Sky this morning criticised the post from earlier this week, where the US president shared a picture of him embracing Putin under the caption “My Friend”. Falconer said Putin was a “butcher” and “no",
      "rubrieken": [
       "Politics",
       "Brexit",
@@ -257,47 +273,73 @@
      ],
      "link": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
      "bron": "The Guardian",
-     "tijd": "11:42",
-     "sorteer": "2026-11-22T10:42:34+00:00",
+     "tijd": "12:46",
+     "sorteer": "2026-11-22T11:46:21+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Brussels, Charleroi airports to cancel most flights Monday amid Belgian strike",
-     "context": "Air traffic controllers will join a nationwide protest against government spending cuts, prompting anger from airport operators over the last-minute disruption.",
+     "titel": "‘Brexit is done’: Theresa May tells Burnham to move on",
+     "context": "The former British prime minister spent three years trying to negotiate a Brexit deal with the EU.",
      "rubrieken": [
-      "Airlines",
-      "Airports",
-      "Austerity",
-      "Public transport",
-      "Mobility"
+      "Brexit",
+      "Emissions",
+      "Negotiations",
+      "Parliament",
+      "Referendum",
+      "Rights",
+      "Trade",
+      "Youth"
      ],
-     "link": "https://www.politico.eu/article/brussels-charleroi-airports-cancel-most-flights-monday-belgian-strike/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "link": "https://www.politico.eu/article/brexit-is-done-theresa-may-tells-burnham-move-on/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
      "bron": "Politico Europe",
-     "tijd": "11:30",
-     "sorteer": "2026-11-22T10:30:54+00:00",
+     "tijd": "12:32",
+     "sorteer": "2026-11-22T11:32:11+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
-     "context": "Supporters of the deposed prime minister, Sheikh Hasina, who was sentenced to death in absentia, have waged a small-scale insurgency to destabilize the current government.",
+     "titel": "Russia-bound ship still on fire after attack in Gulf of Finland",
+     "context": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "12:25",
+     "sorteer": "2026-11-22T11:25:14+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+     "context": "China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.",
      "rubrieken": [
-      "Demonstrations, Protests and Riots",
-      "Politics and Government",
-      "Bangladesh",
-      "Wazed, Hasina",
-      "Rahman, Tarique",
-      "Fugitives",
-      "Deaths (Fatalities)",
+      "Espionage and Intelligence Services",
+      "Artificial Intelligence",
+      "Industrial Espionage",
+      "Computer Chips",
       "International Relations",
-      "Bangladesh Awami League",
-      "Bangladesh Nationalist Party"
+      "Politics and Government",
+      "Data Centers",
+      "Central Intelligence Agency",
+      "Commerce Department",
+      "Communist Party of China",
+      "Defense Department",
+      "Megaspeed International Pte Ltd",
+      "Politburo Standing Committee of the Communist Party of China",
+      "Ministry of State Security of the People's Republic of China",
+      "Chen Yixin (1959- )",
+      "Huang, Alice (Technology Executive)",
+      "Huang, Jen-Hsun",
+      "Mao Zedong",
+      "Xi Jinping",
+      "China",
+      "Singapore",
+      "United States"
      ],
-     "link": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
+     "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
      "bron": "New York Times",
-     "tijd": "11:22",
-     "sorteer": "2026-11-22T10:22:20+00:00",
+     "tijd": "12:03",
+     "sorteer": "2026-11-22T11:03:04+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -311,17 +353,6 @@
      "sorteer": "2026-11-22T09:20:45+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-     "context": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "08:12",
-     "sorteer": "2026-11-22T07:12:41+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
     }
    ]
   },
@@ -330,6 +361,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "NOS-Europacorrespondent Tijn Sadée (62) overleden",
+     "context": "Europacorrespondent Tijn Sadée is op 62-jarige leeftijd overleden. Sadée sprak als journalist de afgelopen roerige jaren in Brussel iedereen die ertoe deed. Met vaak ontregelende vragen wist hij hen uit de strakke plooi te krijgen. Sadée versloeg jarenlang voor onder meer de NOS en NRC het nieuws rond de Europese Unie. Ook volgde hij voor die media de ontwikkelingen in Hongarije en elders in Midde",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640574",
+     "bron": "NOS",
+     "tijd": "12:50",
+     "sorteer": "2026-11-22T12:50:35+01:00"
+    },
     {
      "titel": "Nieuwe invasieve exoot in Nederland: waterschildpad plant zich voort in natuur",
      "context": "De waterschildpad is een nieuwe invasieve exoot in Nederland. Dat heeft het radioprogramma Vroege Vogels van BNNVARA vandaag bekendgemaakt . De schildpad, die uit de Verenigde Staten is overgebracht naar Nederland, is al langer te vinden in de natuur doordat hij wordt achtergelaten door eigenaren. Tot nu toe was het klimaat hier te koud voor het dier om zich voort te planten. Dat blijkt nu anders ",
@@ -396,20 +436,6 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Kerkasiel in Kampen stopt na 730 dagen: ‘Het wordt wennen om weer naar buiten te gaan’",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTmNqTVBYbC1lSGtxekhOMU00VXdJQnNzQTQwTEt5ZVNoZGVKSWc2R2ZWbzREUm5xX0NleEc2dFdaUDdSQ1VNSmVlSExQNDB0a3JxMTcwUkY5SW5lN2o1YVZHSnJXZHIwblR6RXBuNUtZTWlyVWZVeklFWmJSczJJRlhvN3JaY29XR1lDWnZHUzVJaDFLb2x0c0pfSWhhWklSWVR2bm5xRVhYd2VIQUF3bW1IOE5kZk5VSXlldUdranZnMnM?oc=5",
-     "bron": "de Stentor",
-     "tijd": "09:48",
-     "sorteer": "2026-11-22T08:48:58+00:00"
-    },
-    {
-     "titel": "Van basketbalprof tot hardloopfenomeen: Inez van Hulsen wint opnieuw halve marathon van Monster",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZE1VaHU1TzlHdENvY0ZtLUg1SGxxZzNveUJhWDBTWl9KMElWdzlYLU1QS1BVTTNzeHhiNmx4by1vdjlqa1BFOVBrZlRrLS1wQ1lFa0JoOHdLLVJFaU5mQ3lMRXFxT3dsaWMxZ1NiaHJPZk9peUIxU2UwVmNEb2dyTGM2UGxJQUs3M1JwcXR4eV9EbjF0STRlQ3NxYW9ORTV4ZHp5OEx2d2dyclRZMldrdjNMT0cwek9BM01hbmFPckFiZnF3V3hJaTVLZw?oc=5",
-     "bron": "AD.nl",
-     "tijd": "08:49",
-     "sorteer": "2026-11-22T07:49:28+00:00"
-    },
-    {
      "titel": "Nieuwsuur: Congres FVD na Zembla-documentaire • Hoe verder met Democraten? • Documentaire over Iraanse revolutie op IDFA",
      "context": "FVD-congres na Zembla-documentaire Zes leden van Forum voor Democratie zijn geroyeerd, nadat Zembla aan het licht bracht dat zij aanwezig zijn geweest bij neonazibijeenkomsten. Vandaag hield FVD een congres in Den Bosch. Daar spraken wij de bezoekers: hoe kijken zij naar de beelden? Hoe moeten Democraten nu verder? Het zijn hoogtijdagen voor de Democraten in de Verenigde Staten. Afgelopen week wer",
      "rubrieken": [],
@@ -436,6 +462,15 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Audi-rijder krijgt voordeel van de twijfel, tót-ie door rood rijdt",
+     "context": "In Oost op het Asfalt bekijken we opvallende dashcambeelden van de Overijsselse wegen: gevaarlijke stunts, agressie onder automobilisten en grappige of kolderieke taferelen. Deze week een Audi-rijder die ervoor zorgt dat de zeikerd gelijk krijgt.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3715047/audi-rijder-krijgt-voordeel-van-de-twijfel-tot-ie-door-rood-rijdt",
+     "bron": "RTV Oost",
+     "tijd": "11:52",
+     "sorteer": "2026-11-22T10:52:01+00:00"
+    },
+    {
      "titel": "Jessica bouwt aan voedselbos in Glane: 'Dit is geen werk voor luie boeren'",
      "context": "Een stuk grond van 25 hectare omtoveren tot een bos waar je van kunt eten. Jessica van Bossum uit Glane begon er vier jaar geleden aan. Inmiddels groeien er honderden jonge bomen en struiken. Maar een voedselbos onderhouden blijkt allesbehalve eenvoudig.",
      "rubrieken": [],
@@ -443,15 +478,6 @@
      "bron": "RTV Oost",
      "tijd": "10:28",
      "sorteer": "2026-11-22T09:28:35+00:00"
-    },
-    {
-     "titel": "'Het was hier beestachtig streng': tien jaar na vertrek monniken bloeit Nieuw Sion",
-     "context": "Tien jaar na het vertrek van de monniken groeit en bloeit Klooster Nieuw Sion in de bossen bij Diepenveen. Dat wordt onder meer gevierd met een boek over de laatste 75 jaar van het klooster. In het boek worden de enorme veranderingen duidelijk. \"Het was hier beestachtig streng.\"",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3721618/het-was-hier-beestachtig-streng-tien-jaar-na-vertrek-monniken-bloeit-nieuw-sion",
-     "bron": "RTV Oost",
-     "tijd": "09:00",
-     "sorteer": "2026-11-22T08:00:55+00:00"
     },
     {
      "titel": "Arjan Lensen weet al 10 jaar als professioneel gitaarbouwer de juiste snaar te raken",
@@ -492,30 +518,30 @@
      "sorteer": "2026-11-22T05:02:38+00:00"
     },
     {
-     "titel": "Glinsterende regendruppels",
-     "context": "NIEUWLEUSEN – Waterdruppels – Na een herfstbui valt er in de tuin van alles te zien. Aan de fijne takjes van de hemelse bamboe (Nandina domestica) hangen koraalrode besjes met glinsterende regendruppels. Tussen het zilvergroene blad van de olijfboom valt een glanzende olijf op. Ook de vuurrode sierappeltjes brengen kleur in de herfsttuin. Hogerop, tussen […]",
+     "titel": "Onderscheidingen voor 25- en 50-jaar koorzang",
+     "context": "DALFSEN – Tijdens de woord- en gebedsviering van zondagmorgen 22 november jl. reikte Inge Haarman, coördinator Pastoraat van de RK.-locatie Dalfsen, aan: Wim Beltman, Johan Diepman, Wim Dierkx, Herman Huijsmans, Herman van Hulzen, en Wim Mulder(#), leden van het RK-Herenkoor H. Cyriacus Dalfsen, de Gregorius eretekens uit voor hun 25- of 50(#) – jarig koorlidmaatschap. […]",
      "rubrieken": [
+      "Dalfsen",
       "Ingezonden bericht",
-      "Laatste nieuws",
-      "Nieuwleusen"
+      "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/557064/glinsterende-regendruppels.html",
+     "link": "https://www.dalfsennet.nl/nieuws/557079/onderscheidingen-voor-25-en-50-jaar-koorzang.html",
      "bron": "DalfsenNet",
-     "tijd": "11:52",
-     "sorteer": "2026-11-22T10:52:15+00:00"
+     "tijd": "12:28",
+     "sorteer": "2026-11-22T11:28:44+00:00"
     },
     {
-     "titel": "Ut lup mangs toch kats aans",
-     "context": "LEMELERVELD – Un stellegie hef un zeune die in un woonvorm woont. Zie woln hum daor ophaaln, zonder dette det wus. Zie dachn umme hum echt te verrasn deurdet de vrouwe zich achter de deure zol verstopn as de zeune zol binkomn in zien kamertie. De va wol zich in de kleerkaste verstopn. As […]",
+     "titel": "Sinterklaasintocht in Hoonhorst",
+     "context": "HOONHORST – De Sinterklaasintocht vanmiddag in Hoonhorst is een gezellige dorpstraditie waarbij de goedheiligman samen met zijn Pieten wordt verwelkomd. Kinderen, ouders en andere belangstellenden komen samen om de komst van Sinterklaas feestelijk te vieren. Sinterklaasfeest in het dorpscentrumHet sinterklaasfeest vindt plaats in het centrum van Hoonhorst, in de omgeving van Grand Café Kappers aan",
      "rubrieken": [
-      "Columns",
+      "Hoonhorst",
       "Ingezonden bericht",
-      "Lemelerveld"
+      "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/557060/ut-lup-mangs-toch-kats-aans.html",
+     "link": "https://www.dalfsennet.nl/nieuws/557074/sinterklaasintocht-in-hoonhorst.html",
      "bron": "DalfsenNet",
-     "tijd": "11:34",
-     "sorteer": "2026-11-22T10:34:26+00:00"
+     "tijd": "12:18",
+     "sorteer": "2026-11-22T11:18:19+00:00"
     }
    ]
   },
@@ -602,15 +628,6 @@
      "tijd": "18-11",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D59179",
      "sorteer": "2026-11-19T16:27:09.29+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Het Duitse voorstel voor bescherming van auteursrechten in het tijdperk van kunstmatige intelligentie",
-     "bron": "Kamervraag",
-     "kop": "Uit de Tweede Kamer",
-     "tijd": "19-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D59330",
-     "sorteer": "2026-11-19T13:23:08.323+01:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -739,15 +756,15 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "12:00",
+    "bijgewerkt": "13:00",
     "voetbal": {
      "uitslagen": [
       {
        "thuis": "FC Twente",
        "uit": "Willem II",
-       "score": "",
+       "score": "0 - 0",
        "tijd": "12:15",
-       "bezig": "Scheduled",
+       "bezig": "42'",
        "wanneer": "vandaag 12:15",
        "eigen": false
       },
@@ -1164,6 +1181,22 @@
    "emoji": "🐦",
    "items": [
     {
+     "titel": "Siberische Braamsluiper",
+     "kop": "Zeldzaamheden",
+     "bron": "Zuid-Holland",
+     "tijd": "12:29",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-22T12:29:00+01:00"
+    },
+    {
+     "titel": "Humes Bladkoning",
+     "kop": "Zeldzaamheden",
+     "bron": "Gelderland",
+     "tijd": "12:10",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-22T12:10:00+01:00"
+    },
+    {
      "titel": "Witkopstaartmees",
      "kop": "Zeldzaamheden",
      "bron": "Flevoland",
@@ -1212,22 +1245,6 @@
      "sorteer": "2026-11-21T15:55:00+01:00"
     },
     {
-     "titel": "Humes Bladkoning",
-     "kop": "Zeldzaamheden",
-     "bron": "Friesland",
-     "tijd": "12:23",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-21T12:23:00+01:00"
-    },
-    {
-     "titel": "Witstuitbarmsijs",
-     "kop": "Zeldzaamheden",
-     "bron": "Drenthe",
-     "tijd": "12:05",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-21T12:05:00+01:00"
-    },
-    {
      "titel": "Dalfsen (nacht)",
      "kop": "Vogeltrek",
      "bron": "21-11",
@@ -1245,42 +1262,42 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 41 soorten, 15.178 vogels geteld",
+     "titel": "Landelijk vandaag: 102 soorten, 35.980 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch"
     },
     {
-     "titel": "Spreeuw — 14.620",
+     "titel": "Spreeuw — 24.754",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch"
     },
     {
-     "titel": "Toendrarietgans — 125",
+     "titel": "Kolgans — 2.218",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch"
     },
     {
-     "titel": "Koperwiek — 71",
+     "titel": "Kokmeeuw — 1.379",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch"
     },
     {
-     "titel": "Goudplevier — 70",
+     "titel": "Zwarte Zee-eend — 1.179",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch"
     },
     {
-     "titel": "Kolgans — 64",
+     "titel": "Aalscholver — 946",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -1288,27 +1305,43 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Spreeuw springt eruit — 14.620, normaal 1.871",
-     "bron": "8× het gewone niveau",
+     "titel": "Brandgans springt eruit — 892, normaal 25",
+     "bron": "36× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch",
-     "sein": false
+     "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Toendrarietgans springt eruit — 125, normaal 21",
-     "bron": "6× het gewone niveau",
+     "titel": "Toendrarietgans springt eruit — 414, normaal 21",
+     "bron": "20× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch",
-     "sein": false
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Smient springt eruit — 470, normaal 26",
+     "bron": "18× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Eider springt eruit — 60, normaal 4",
+     "bron": "15× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch",
+     "sein": true
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 61 plekken in de afgelopen week, waarvan 8 vandaag",
+     "titel": "Invasiejaar — op 63 plekken in de afgelopen week, waarvan 10 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 137 vogels; 111 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 144 vogels; 117 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1325,12 +1358,6 @@
    "emoji": "🌙",
    "items": [
     {
-     "titel": "Ganymedes, een van de grote manen van Jupiter, gaat achter de planeet langs en komt daarna in zijn schaduw — vannacht helemaal te volgen.",
-     "bron": "hemel.waarnemen.com",
-     "tijd": "00:12",
-     "link": "https://hemel.waarnemen.com/astrokal/"
-    },
-    {
      "titel": "De meteorenzwerm α-Monocerotiden bereikt zijn maximum.",
      "bron": "hemel.waarnemen.com",
      "tijd": "01:00",
@@ -1344,23 +1371,23 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 4.5,
-    "gevoel": 4.5,
-    "wind": "NO 1",
+    "nu": 6.8,
+    "gevoel": 4.6,
+    "wind": "NO 2",
     "station": "Heino",
-    "bericht": "De dag begint met vooral in het midden en oosten plaatselijk dichte mist(banken), die gedurende de ochtend oplossen. In het oosten zou dit langer kunnen duren. Verder schijnt de zon vandaag.",
-    "vandaag": "Verder schijnt de zon vandaag. Vanavond en vannacht zijn er brede opklaringen en blijft het droog.",
-    "temperatuur": "De middagtemperatuur komt uit op 7 of 8 graden langs de kust en vijf graden in het oosten van het land.",
+    "bericht": "Er is veel ruimte voor de zon. In het oosten is lokaal nog mist aanwezig die geleidelijk verder oplost. In het noorden meer wolken en een enkele lichte bui.",
+    "vandaag": "Vanavond en vannacht zijn er brede opklaringen en blijft het droog.",
+    "temperatuur": "De middagtemperatuur komt uit op 8 of 9 graden langs de kust en 5 graden in het oosten van het land.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -2 tot 6 graden, droog, ruim 7 uur zon, wind uit het noordoosten, kracht 2.",
-     "max": 6,
-     "min": -2,
+     "zin": "Voor Dalfsen zelf: -1 tot 7 graden, droog, ruim 6 uur zon, wind uit het noordoosten, kracht 3.",
+     "max": 7,
+     "min": -1,
      "regenkans": 4,
      "omschrijving": "bewolkt",
      "morgen": {
       "max": 6,
-      "min": -3,
-      "regenkans": 2,
+      "min": -2,
+      "regenkans": 0,
       "omschrijving": null
      }
     },
@@ -1374,8 +1401,8 @@
     "morgen": {
      "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
      "min": "-2",
-     "max": "6",
-     "regenkans": 10
+     "max": "5",
+     "regenkans": 0
     }
    }
   }
