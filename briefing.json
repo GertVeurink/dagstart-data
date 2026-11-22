@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "20:00",
+  "opgehaald": "21:00",
   "blokken": 11,
-  "berichten": 85,
+  "berichten": 86,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-22T20:00+01:00",
+ "opgehaald": "2026-11-22T21:00+01:00",
  "audio": "audio/20261122.mp3",
  "afval": [
   {
@@ -230,6 +230,15 @@
      "sorteer": "2026-11-22T14:20:18+01:00"
     },
     {
+     "titel": "Hevige droneaanvallen op Soedanese hoofdstad Khartoem, ook VN-gebouw getroffen",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/hevige-droneaanvallen-op-soedanese-hoofdstad-khartoem-ook-vn-gebouw-getroffen~b1795344/",
+     "bron": "de Volkskrant",
+     "tijd": "20:23",
+     "sorteer": "2026-11-22T19:23:35+00:00"
+    },
+    {
      "titel": "Iran: twee olietankers in brand gevlogen in Straat van Hormuz",
      "context": "",
      "rubrieken": [],
@@ -237,15 +246,6 @@
      "bron": "de Volkskrant",
      "tijd": "18:30",
      "sorteer": "2026-11-22T17:30:00+00:00"
-    },
-    {
-     "titel": "Dode en vermisten na hevige Russische drone­aanval op apparte­men­ten­com­plex",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/dode-en-vermisten-na-hevige-russische-drone-aanval-op-apparte-men-ten-com-plex~b11373d3a/",
-     "bron": "de Volkskrant",
-     "tijd": "13:10",
-     "sorteer": "2026-11-22T12:10:00+00:00"
     },
     {
      "titel": "Denkers in Parijs zijn het eens: de revolutie begint bij eerlijke belastingen",
@@ -257,33 +257,50 @@
      "sorteer": "2026-11-22T15:08:00+00:00"
     },
     {
-     "titel": "Russian ship hit in Benghazi by suspected Ukrainian drone attack, say Libyan officials",
-     "context": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A suspected Ukrainian drone attack caused an explosion on a Russian warship docked at the naval base in the Libyan port city of Benghazi, Libyan officials have said. The strike severely damaged the Merkury, a Russian navy warship, and ignited a fire at the naval base, they said. Several Ukrai",
-     "rubrieken": [
-      "Russia",
-      "Libya",
-      "Middle East and north Africa",
-      "World news",
-      "Africa",
-      "Water transport",
-      "Drones (military)",
-      "Ukraine"
-     ],
-     "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-     "bron": "The Guardian",
-     "tijd": "19:50",
-     "sorteer": "2026-11-22T18:50:56+00:00",
+     "titel": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+     "context": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "20:52",
+     "sorteer": "2026-11-22T19:52:50+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
-     "context": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
+     "titel": "Australian politics live: small business carveout in digital duty of care; countdown to pass key legislation begins",
+     "context": "Get our breaking news email , free app or daily news podcast Good morning and welcome to Guardian Australia’s coverage of Australian politics. Krishani Dhanji will be with us shortly. Let’s begin. Continue reading...",
+     "rubrieken": [
+      "Australian politics",
+      "Australia news",
+      "Australian economy",
+      "Business",
+      "Health",
+      "Australian education",
+      "Australian immigration and asylum",
+      "Australian foreign policy",
+      "Labor party",
+      "Coalition",
+      "One Nation",
+      "Anthony Albanese",
+      "Angus Taylor",
+      "Pauline Hanson"
+     ],
+     "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+     "bron": "The Guardian",
+     "tijd": "20:47",
+     "sorteer": "2026-11-22T19:47:18+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "What's next after no deal at COP31 climate talks?",
+     "context": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
      "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+     "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "19:29",
-     "sorteer": "2026-11-22T18:29:46+00:00",
+     "tijd": "19:57",
+     "sorteer": "2026-11-22T18:57:24+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -296,6 +313,7 @@
       "Global Warming",
       "Greenhouse Gas Emissions",
       "Oil (Petroleum) and Gasoline",
+      "Coal",
       "Europe",
       "Saudi Arabia",
       "United Nations"
@@ -303,18 +321,7 @@
      "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
      "bron": "New York Times",
      "tijd": "19:20",
-     "sorteer": "2026-11-22T18:20:38+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "COP31 fails to reach major climate deal as talks expose deep divisions",
-     "context": "COP31 climate talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "19:17",
-     "sorteer": "2026-11-22T18:17:59+00:00",
+     "sorteer": "2026-11-22T18:20:39+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -358,7 +365,8 @@
       "War",
       "Waste",
       "Energy and Climate",
-      "Energy and Climate UK"
+      "Energy and Climate UK",
+      "Sustainability"
      ],
      "link": "https://www.politico.eu/article/global-climate-talks-have-collapsed-here-is-what-just-happened/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
      "bron": "Politico Europe",
@@ -376,7 +384,7 @@
    "items": [
     {
      "titel": "Bewoners redden de bruggen in Pekela: 'We hebben iets unieks bereikt'",
-     "context": "Bijna de helft van de 34 bruggen in Pekela dreigde te verdwijnen, maar dankzij bewoners worden ze nu een voor een opgeknapt. Zo blijft de infrastructuur intact en het onderhoud pakt nog goedkoper uit dan de gemeente had begroot. Hoe kan dat? Het Pekelerhoofddiep snijdt de Groningse veendorpen Oude Pekela, Nieuwe Pekela en Boven Pekela dwars doormidden. Voor het oversteken zijn de bewoners afhankel",
+     "context": "Ruim de helft van de 34 bruggen in Pekela dreigde te verdwijnen, maar dankzij bewoners worden ze nu een voor een opgeknapt. Zo blijft de infrastructuur intact en het onderhoud pakt nog goedkoper uit dan de gemeente had begroot. Hoe kan dat? Het Pekelerhoofddiep snijdt de Groningse veendorpen Oude Pekela, Nieuwe Pekela en Boven Pekela dwars doormidden. Voor het oversteken zijn de bewoners afhankeli",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640638",
      "bron": "NOS",
@@ -385,7 +393,7 @@
     },
     {
      "titel": "Jaitsen Singh (81) overleden, was langst gedetineerde Nederlander in buitenland",
-     "context": "Jaitsen Singh is vanochtend overleden in zijn cel in de gevangenis in Scheveningen. Dat meldt zijn advocaat namens de familie in een overlijdensbericht. Singh leed aan acute leukemie. De 81-jarige Singh werd 42 jaar geleden in de Verenigde Staten veroordeeld voor het laten vermoorden van zijn vrouw en stiefdochter. Hij kreeg 56 jaar gevangenisstraf tot levenslang. Tot dit jaar zat hij gevangen in ",
+     "context": "Jaitsen Singh is vanochtend overleden in zijn cel in de gevangenis in Scheveningen. Dat meldt zijn advocaat namens de familie in een overlijdensbericht. Singh leed aan acute leukemie. De 81-jarige Singh werd in 1986 veroordeeld voor het laten vermoorden van zijn vrouw en stiefdochter. Hij kreeg 56 jaar gevangenisstraf tot levenslang. Tot dit jaar zat hij gevangen in de VS en was daarmee de langst ",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640625",
      "bron": "NOS",
@@ -438,11 +446,18 @@
      "sorteer": "2026-11-22T16:10:00+00:00"
     },
     {
-     "titel": "Nieuwe voorzitter NPB sluit niet uit dat agenten wegblijven bij wedstrijden en demo’s",
+     "titel": "Blauwe Moskee Istanbul: actrice mogelijk vervolgd om zweetvoeten",
+     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcUpYc0VrMUxibTdKcmdNZmNPVjNobENmX1J0WTZYaFhWZTlKUENQc2FWemVpVS1RRXRUemFwM2pQN1lYb05QTmZJaGdRRWNrUVZOZjhvbENqbTczNFo0YWExUTFYNF82dlowZjZHbnpDRERNMGpTRUVla0liODcyWHNNS0xNOUhyTzNIbDJZMHdqWFRNLTBBejYzNG5RS1A5QnNwXzNYQU5DY3FtT1V4TDI0Wk1mUmZYcXZvd2tHa3pIQTZjRTBoWVM0b0NwNVpET2FlelBCYzl6bi1jT0dKYzdkdE9yNjItR3ROeGFXOGt3YVh1b3p2X0hVenprbmM?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "20:35",
+     "sorteer": "2026-11-22T19:35:33+00:00"
+    },
+    {
+     "titel": "Agenten blijven mogelijk weg bij voetbalwedstrijden en demonstraties: ’Er komt een militaire dreiging op ons af, daar krijgen we ook als politie mee te maken’",
      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPa1NyQmt3TEFMblNrRlhHaWlJbE95ZWo0cjM5Zm96bHcyS0xzUXMzRnR1cWp5blQySXVYZVpWZ1k4UWtZaU9JdHlMTGNWa0RfQzBBNkdHc0dmWkZVWnBTVDhEamxkUGp3czZYcTMwRmVzaU5pa0M1N19EdE5iR3VROVRJOTZYZTNZZXgxTWhERVRzWlJabXpBdE5GRjU5X2xKZXphbW1MdUhmWk1WeV9YQmVMRkp5ZVlYbUZqVnlyT2V1amxDdVF0V3lZRTg5bDNNWGtUZk9ETl9qT0pvbkwzTWFxLU9HbVkzWjlTbGd4SzBybFhyLWRCRVBFbVN3Yk84SGpMY1hEM0hUZVBGNXB4R1hqLWNKQ1hQMnZxQmpIR283X2djMzk1ZEdYRXl3QQ?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "19:09",
-     "sorteer": "2026-11-22T18:09:16+00:00"
+     "tijd": "19:30",
+     "sorteer": "2026-11-22T18:30:00+00:00"
     },
     {
      "titel": "Reanimatie op Dr. Willem Dreessingel in Arnhem",
@@ -459,11 +474,11 @@
      "sorteer": "2026-11-22T17:58:00+00:00"
     },
     {
-     "titel": "Halsema vraagt tijdens bezoek aan India op sociale media aandacht voor ontvoerde Insiya",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPXzVaLVJIbnBDdnNrdktpQjhlalhSS21TalNYRnUxdEM5RDdEMEYtdFZEa3VLT011cUJnNWdPQXQyVjFzcmwtM3pzbEthU2R5Nmp0UjZEVGJ6Z2tfX2ZFZXFISHVETlZhQ1hHSW92Yjlsbng5dnNVMmU3MFhjNjRucExwZGtGSVgzeUR3V0g1WEd1S3hKeXUwcVpvRzRweTVWWURycDBhNElDUkozQkFtZ2g5OVZtcXNZb3JMRVJEcVFROWkw?oc=5",
+     "titel": "Mislukte klimaattop kan de boel openbreken",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWno1SUJjVjN4bUdhVmpOTEcyWm9ON1R6bWwwQ3hWemIwV0g3ZFRMbWU0UklBSUdTVWVSY1JkSlB0MXNtd3R0NGRDWkZjUlljamt2SVd6YTNxN0t1eTAyVnlwYUMwSU9EOExZR3hmcDFYQ01HaWVKTmpYVC0zOUN6R3hsSk9RdGVH?oc=5",
      "bron": "AD.nl",
-     "tijd": "18:38",
-     "sorteer": "2026-11-22T17:38:50+00:00"
+     "tijd": "18:22",
+     "sorteer": "2026-11-22T17:22:34+00:00"
     },
     {
      "titel": "Partij voor de Dieren is trots op ‘groener’ belastingplan",
@@ -501,6 +516,26 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Zeventig jaar getrouwd en nog altijd verliefd: 'Nooit met ruzie naar bed'",
+     "context": "Zeventig jaar getrouwd en nog altijd onafscheidelijk. Wat is het geheim van Margje (92) en Kasper (97) de Graaf uit Almelo? Hoe houden ze de romantiek en het huwelijk goed? Daar hoeven ze niet lang over na te denken: \"Nooit met ruzie naar bed gaan, eerst uitpraten.\"",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/cultuur/3720146/zeventig-jaar-getrouwd-en-nog-altijd-verliefd-nooit-met-ruzie-naar-bed",
+     "bron": "RTV Oost",
+     "tijd": "19:02",
+     "sorteer": "2026-11-22T18:02:05+00:00"
+    },
+    {
+     "titel": "Vreugdehuppeltje komt nét te vroeg na supermarktdiefstal in Hengelo",
+     "context": "Een winkelkar vol vlees en energiedrankjes, een handlanger die het winkelpoortje opent en een vreugdehuppeltje op de parkeerplaats. Het zijn de ingrediënten van een - bijna geslaagde - diefstal bij een supermarkt in Hengelo. Vervelend voor de mannen: het personeel komt net te vroeg achter ze aan.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3717722/vreugdehuppeltje-komt-net-te-vroeg-na-supermarktdiefstal-in-hengelo",
+     "bron": "RTV Oost",
+     "tijd": "17:21",
+     "sorteer": "2026-11-22T16:21:58+00:00"
+    },
+    {
      "titel": "Zieke Ravi bezorgt zijn zusje Nova een onvergetelijke dag",
      "context": "De 15-jarige Ravi uit Delden heeft een zeldzame spierziekte, waarvoor geen medicijn bestaat. Zijn zusje Nova staat altijd voor hem klaar en zette in het geheim een inzamelingsactie voor hem op. Ravi is haar zo dankbaar dat hij haar eens flink wilde verrassen.",
      "rubrieken": [
@@ -512,24 +547,13 @@
      "sorteer": "2026-11-22T14:26:31+00:00"
     },
     {
-     "titel": "Is er leven na twee jaar kerkasiel? Gezin Babayants kijkt voorzichtig vooruit",
-     "context": "Is er leven na twee jaar kerkasiel? En hoe ziet dat eruit? Het zijn vragen die de leden van de familie Babayants deze dagen bezighouden. Het gezin verlaat ergens de komende dagen de Open Hof in Kampen en kijkt, ondanks de voortdurende onzekerheid over hun verblijfsstatus, voorzichtig vooruit.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3722120/is-er-leven-na-twee-jaar-kerkasiel-gezin-babayants-kijkt-voorzichtig-vooruit",
-     "bron": "RTV Oost",
-     "tijd": "12:49",
-     "sorteer": "2026-11-22T11:49:36+00:00"
-    },
-    {
-     "titel": "'Het was hier beestachtig streng': tien jaar na vertrek monniken bloeit Nieuw Sion",
-     "context": "Tien jaar na het vertrek van de monniken groeit en bloeit Klooster Nieuw Sion in de bossen bij Diepenveen. Dat wordt onder meer gevierd met een boek over de laatste 75 jaar van het klooster. In het boek worden de enorme veranderingen duidelijk. \"Het was hier beestachtig streng.\"",
+     "titel": "Jessica bouwt aan voedselbos in Glane: 'Dit is geen werk voor luie boeren'",
+     "context": "Een stuk grond van 25 hectare omtoveren tot een bos waar je van kunt eten. Jessica van Bossum uit Glane begon er vier jaar geleden aan. Inmiddels groeien er honderden jonge bomen en struiken. Maar een voedselbos onderhouden blijkt allesbehalve eenvoudig.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3721618/het-was-hier-beestachtig-streng-tien-jaar-na-vertrek-monniken-bloeit-nieuw-sion",
+     "link": "https://www.oost.nl/nieuws/3719071/jessica-bouwt-aan-voedselbos-in-glane-dit-is-geen-werk-voor-luie-boeren",
      "bron": "RTV Oost",
-     "tijd": "09:00",
-     "sorteer": "2026-11-22T08:00:55+00:00"
+     "tijd": "10:28",
+     "sorteer": "2026-11-22T09:28:35+00:00"
     },
     {
      "titel": "Arjan Lensen weet al 10 jaar als professioneel gitaarbouwer de juiste snaar te raken",
@@ -550,44 +574,30 @@
      "sorteer": "2026-11-22T06:23:15+00:00"
     },
     {
-     "titel": "N35 wekenlang deels dicht voor nieuwe ledverlichting",
-     "context": "Rijkswaterstaat gaat de verlichting langs de N35 tussen Zwolle en Nijverdal in beide richtingen vervangen. Die werkzaamheden worden 's avonds en 's nachts uitgevoerd en veroorzaken overlast voor mensen die gebruikmaken van die weg.",
+     "titel": "Giga resultaat bazar De Wiekelaar",
+     "context": "OUDLEUSEN – De jaarlijkse bazar voor en in De Wiekelaar werd zaterdagavond afgesloten met een spetterende eindronde en een giga resultaat! Na een knallende opening door kinderburgemeester Anne van Gelder, wisten veel gebruikers en bezoekers uit Oudleusen en omstreken de weg naar Oudleusen te vinden. Al weken lang waren vrijwilligers in de weer om […]",
      "rubrieken": [
-      "breaking"
+      "Ingezonden bericht",
+      "Laatste nieuws",
+      "Oudleusen"
      ],
-     "link": "https://www.oost.nl/nieuws/3721281/n35-wekenlang-deels-dicht-voor-nieuwe-ledverlichting",
-     "bron": "RTV Oost",
-     "tijd": "06:57",
-     "sorteer": "2026-11-22T05:57:51+00:00"
+     "link": "https://www.dalfsennet.nl/nieuws/557112/giga-resultaat-bazar-de-wiekelaar.html",
+     "bron": "DalfsenNet",
+     "tijd": "20:08",
+     "sorteer": "2026-11-22T19:08:02+00:00"
     },
     {
-     "titel": "Staking raakt bussen rond Dalfsen, Zwolle en Ommen; treinen Vechtdallijn rijden wel",
-     "context": "DALFSEN/ZWOLLE/OMMEN – Reizigers moeten op maandag 23 en dinsdag 24 november rekening houden met uitvallende busritten door de landelijke staking in het streekvervoer. Ook de RRReis-bussen in deze regio worden geraakt. Welke ritten doorgaan, wordt pas kort van tevoren duidelijk. rrreis.nl De treinen tussen Zwolle, Dalfsen en Ommen richting Emmen rijden volgens Arriva wel […]",
+     "titel": "Een vriendelijk verzoek namens mijn honden",
+     "context": "DALFSEN – Ingezonden bericht: Mijn honden zijn erg bang voor het vuurwerk dat nu al wordt afgestoken. Ze liggen trillend achter de bank. Het is verdrietig om te zien hoeveel stress dit bij hen veroorzaakt. Daarom wil ik iedereen die vuurwerk afsteekt vragen om rekening te houden met dieren die daar bang voor zijn en […]",
      "rubrieken": [
       "Dalfsen",
       "Ingezonden bericht",
-      "Laatste nieuws",
-      "Ommen",
-      "Zwolle"
+      "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/557110/staking-raakt-bussen-rond-dalfsen-zwolle-en-ommen-treinen-vechtdallijn-rijden-wel.html",
+     "link": "https://www.dalfsennet.nl/nieuws/557114/een-vriendelijk-verzoek-namens-mijn-honden.html",
      "bron": "DalfsenNet",
-     "tijd": "18:15",
-     "sorteer": "2026-11-22T17:15:02+00:00"
-    },
-    {
-     "titel": "N35 tussen Zwolle en Nijverdal krijgt duurzame ledverlichting",
-     "context": "DALFSEN – Rijkswaterstaat vervangt van 23 november tot en met 19 december 2026 de openbare verlichting langs de N35 tussen Zwolle en Nijverdal. Voor de werkzaamheden worden verschillende delen van de weg in beide richtingen ’s avonds en ’s nachts afgesloten, tussen 20.00 en 05.00 uur. Weggebruikers moeten rekening houden met omleidingen en extra reistijd. […]",
-     "rubrieken": [
-      "Dalfsen",
-      "Ingezonden bericht",
-      "Laatste nieuws",
-      "Regio"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/557108/n35-tussen-zwolle-en-nijverdal-krijgt-duurzame-ledverlichting.html",
-     "bron": "DalfsenNet",
-     "tijd": "18:09",
-     "sorteer": "2026-11-22T17:09:07+00:00"
+     "tijd": "20:04",
+     "sorteer": "2026-11-22T19:04:10+00:00"
     }
    ]
   },
@@ -668,11 +678,11 @@
    "emoji": "🤖",
    "items": [
     {
-     "titel": "Zuid-Koreaanse onderwijsminister krijgt een onvoldoende voor AI-aanpak bij toelatingsexamen en vertrekt",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc3VTcVpJTTBrZjNnYmxrenpNLTdxRTB5RDNiVFUtdkZzVlhYTV9kdEsyRlJKRTZwMHhLbW1IU01WNDNERmdsa0FOTG9xRHZQS3pOem5XN3VTcHF5Zk1CZnRCcWhWN0Y2TWF5ZmdMQ2FoZXBvNTlqTWh4SVZtOURHQ194RXV6b2F3TE1SRlBHRWZoWWFIeE5iU3NvU2dwSTJ1eWtkYUc2eXlaUGJGekZLcDVReC1FNWpfZFpyUG5rc3YxV3Q0ZXhRcFJLUEU3bEd3cmFQUzNieUhpc2l6TzlkbHQ3cnoxS3l0?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "17:58",
-     "sorteer": "2026-11-22T16:58:42+00:00"
+     "titel": "De winnaars van de AI-revolutie komen misschien eerder uit China",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdWMzUHUxTFotUmpQcWp4TnBQVDQyYWZsQUttVWRGRERaUDYyeWtqQzdyanRraTVBQXYxM1lfRVZ1N2pqdDJSbmx3Ul9IR19xSWc2ckFCeFdsXzUyU1NfMW9EdkdwZkZfU2tXQ0dBaWZNT2EwMGE0bmowVndiTHF3d1JQX0xTdVNVNlF4WEVBZTU5NnRrMTFicTZUU280bzNHRFRyTXI3Znl1T0hCSnp5RFl2alZTdw?oc=5",
+     "bron": "de Volkskrant",
+     "tijd": "20:00",
+     "sorteer": "2026-11-22T19:00:17+00:00"
     },
     {
      "titel": "De arts gebruikte AI om dossiers van patiënten te beoordelen en deelde hun gegevens in OpenAI. ‘Als ik een naam in ChatGPT heb laten staan, betreur ik dat zeer’",
@@ -680,6 +690,13 @@
      "bron": "NRC",
      "tijd": "19:35",
      "sorteer": "2026-11-22T18:35:00+00:00"
+    },
+    {
+     "titel": "Zuid-Koreaanse onderwijsminister krijgt een onvoldoende voor AI-aanpak bij toelatingsexamen en vertrekt",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc3VTcVpJTTBrZjNnYmxrenpNLTdxRTB5RDNiVFUtdkZzVlhYTV9kdEsyRlJKRTZwMHhLbW1IU01WNDNERmdsa0FOTG9xRHZQS3pOem5XN3VTcHF5Zk1CZnRCcWhWN0Y2TWF5ZmdMQ2FoZXBvNTlqTWh4SVZtOURHQ194RXV6b2F3TE1SRlBHRWZoWWFIeE5iU3NvU2dwSTJ1eWtkYUc2eXlaUGJGekZLcDVReC1FNWpfZFpyUG5rc3YxV3Q0ZXhRcFJLUEU3bEd3cmFQUzNieUhpc2l6TzlkbHQ3cnoxS3l0?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "17:58",
+     "sorteer": "2026-11-22T16:58:40+00:00"
     },
     {
      "titel": "Mike Winer wil mensheid beschermen tegen AI met wiskunde",
@@ -694,13 +711,6 @@
      "bron": "NRC",
      "tijd": "16:17",
      "sorteer": "2026-11-22T15:17:21+00:00"
-    },
-    {
-     "titel": "Gaan acteurs vanaf nu hun gezicht verhuren aan AI?",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSnNXWXJLXzZHUEstUXFLLTRZV3dKcnI1TXI0ajh0X1dmSmtaRGVEdGg0WHk1ZE1JOTVyWjdZYWNLR3YwQkVCYWpocEh0YXd1emlaOVZGaE5EbVFNT2wwb2NwQTBvNnR4dG1xVU9BdW8xS1hYcHhqMUtDcjgzTndEOWtMM2l5cTliNTRBM0dxWkppSjA5RkE?oc=5",
-     "bron": "Bright",
-     "tijd": "15:02",
-     "sorteer": "2026-11-22T14:02:00+00:00"
     }
    ]
   },
@@ -773,7 +783,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "20:00",
+    "bijgewerkt": "21:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1373,7 +1383,7 @@
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 163 vogels; 180 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 163 vogels; 186 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1403,9 +1413,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 1.6,
-    "gevoel": 0.4,
-    "wind": "NO 1",
+    "nu": -0.4,
+    "gevoel": -0.4,
+    "wind": "NNO 1",
     "station": "Heino",
     "bericht": "Het koelt flink af met kans op de eerste matige vorst van het seizoen. Komende week blijft het licht winters met in de nacht en ochtend vorst en ook dalende middagtemperaturen.Vanavond en vannacht zijn er brede opklaringen en blijft het droog. Met name in het zuiden en zuidoostenvormt zich (aanvriezende) mist.",
     "vandaag": "Vanavond en vannacht zijn er brede opklaringen en blijft het droog.",
@@ -1417,7 +1427,7 @@
      "regenkans": 4,
      "omschrijving": "bewolkt",
      "morgen": {
-      "max": 6,
+      "max": 5,
       "min": -2,
       "regenkans": 2,
       "omschrijving": null
