@@ -1,15 +1,15 @@
 {
  "datum": "2026-11-22",
- "naam": "Ochtendbriefing",
+ "naam": "Middagbriefing",
  "status": {
-  "ronde": "Ochtendbriefing",
-  "opgehaald": "11:00",
+  "ronde": "Middagbriefing",
+  "opgehaald": "12:00",
   "blokken": 11,
-  "berichten": 84,
+  "berichten": 83,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-22T11:00+01:00",
+ "opgehaald": "2026-11-22T12:00+01:00",
  "audio": "audio/20261122.mp3",
  "afval": [
   {
@@ -169,8 +169,17 @@
    "emoji": "🌍",
    "items": [
     {
-     "titel": "Klimaattop bereikt kookpunt: EU-landen willen niet instemmen terwijl de tijd wegtikt",
-     "context": "De klimaattop in Turkije dreigt zonder akkoord ten einde te komen. Verschillende EU-landen, waaronder België en Duitsland, noemen het slotakkoord zoals het er nu ligt onacceptabel. België spreekt in de wandelgangen zelfs al van een mislukte top. Eurocommissaris Hoekstra, die namens de EU onderhandelt, laat nog wat ruimte om eruit te komen, maar zegt tegen de NOS dat hij het somber inziet. Daarmee ",
+     "titel": "'Nederlandse taferelen' in België, begrotingscrisis nadert climax",
+     "context": "\"Lijdensweg rond de begroting\", \"Periode van drama en vertrouwensbreuk\" en \"Spanningen binnen regering verder aangewakkerd\". Het zijn koppen die doen denken aan de crisis in het kabinet-Jetten, die begin deze week werd bezworen . Maar deze headlines komen uit de Belgische media, waar de regering van Bart De Wever ook in zware problemen zit. Al maanden is de premier op zoek naar 10 miljard euro aan",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640564",
+     "bron": "NOS",
+     "tijd": "11:33",
+     "sorteer": "2026-11-22T11:33:19+01:00"
+    },
+    {
+     "titel": "Klimaattop bereikt kookpunt: EU-landen willen niet instemmen, terwijl de tijd wegtikt",
+     "context": "De klimaattop in Turkije dreigt zonder akkoord ten einde te komen. Verschillende EU-landen, waaronder België en Duitsland, noemen het slotakkoord zoals het er nu ligt onacceptabel. België spreekt in de wandelgangen zelfs al van een mislukte top. Eurocommissaris Hoekstra, die namens de EU onderhandelt, laat nog wat ruimte om eruit te komen, maar zegt tegen de NOS dat hij het somber inziet. \"We hebb",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640550",
      "bron": "NOS",
@@ -205,31 +214,22 @@
      "sorteer": "2026-11-22T07:05:58+01:00"
     },
     {
-     "titel": "AfD won ruim in Saksen-Anhalt, maar route naar macht nog steeds niet duidelijk",
-     "context": "De verwachtingen bij de AfD waren hooggespannen, na de historische zege van de partij in de Duitse deelstaat Saksen-Anhalt. In honderd dagen zou een reeks omstreden plannen worden doorgevoerd. 2,5 maand na de verkiezingen is echter nog niet eens een begin van een formatie zichtbaar. Dat moet volgens de AfD de komende weken veranderen. De AfD, die in Saksen-Anhalt als extreemrechts te boek staat, w",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640519",
-     "bron": "NOS",
-     "tijd": "07:00",
-     "sorteer": "2026-11-22T07:00:01+01:00"
-    },
-    {
-     "titel": "Zuid-Koreaanse onderwijsminister stapt op na eerder AI-spiekschandaal bij toelatingsexamens universiteiten",
+     "titel": "14 vermisten na hevige Russische droneaanval op appartementencomplex",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/zuid-koreaanse-onderwijsminister-stapt-op-na-eerder-ai-spiekschandaal-bij-toelatingsexamens-universiteiten~b1415e05/",
+     "link": "https://www.volkskrant.nl/buitenland/14-vermisten-na-hevige-russische-droneaanval-op-appartementencomplex~b11373d3a/",
+     "bron": "de Volkskrant",
+     "tijd": "11:30",
+     "sorteer": "2026-11-22T10:30:00+00:00"
+    },
+    {
+     "titel": "Zuid-Koreaanse onderwijsminister stapt op: ‘We waren onvoldoende voorbereid op AI-fraude bij toelatingsexamens universiteiten’",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/zuid-koreaanse-onderwijsminister-stapt-op-we-waren-onvoldoende-voorbereid-op-ai-fraude-bij-toelatingsexamens-universiteiten~b1415e05/",
      "bron": "de Volkskrant",
      "tijd": "10:49",
-     "sorteer": "2026-11-22T09:49:45+00:00"
-    },
-    {
-     "titel": "Trump bagatelliseert tweede FBI-hack in korte tijd en ziet zelfs mogelijke positieve gevolgen",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
-     "bron": "de Volkskrant",
-     "tijd": "03:38",
-     "sorteer": "2026-11-22T02:38:00+00:00"
+     "sorteer": "2026-11-22T09:49:00+00:00"
     },
     {
      "titel": "Voornaamste adviseur Trump over cyberveiligheid vertrekt na reeks incidenten",
@@ -241,19 +241,63 @@
      "sorteer": "2026-11-22T02:47:00+00:00"
     },
     {
-     "titel": "‘Intimidating’ vigilantes posing as far-right security on the rise, UK experts say",
-     "context": "Volunteers in black uniforms and body armour increasingly seen with figures such as Tommy Robinson There is a worrying rise in “reckless and intimidating” vigilantes posing as security guards around far-right figures, security experts have said. In recent months, uniformed figures wearing all black and body armour have been seen in the entourages of far-right figures including the convicted crimin",
+     "titel": "Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – UK politics live",
+     "context": "Issue dominates Sunday broadcast round following Friday’s deals on trade and youth mobility Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU The Tories and Reform have made the argument this morning that the new food deal is “bad” for British farmers, because they will be subject to EU rules and standards. They say more than 90% of British farmers currently don’t export to the EU- so",
      "rubrieken": [
-      "Far right",
-      "UK security and counter-terrorism",
+      "Politics",
+      "Brexit",
+      "European Union",
+      "Theresa May",
+      "Michael Gove",
+      "Richard Tice",
       "UK news",
-      "Police",
-      "Tommy Robinson"
+      "Foreign policy",
+      "Andy Burnham",
+      "Europe"
      ],
-     "link": "https://www.theguardian.com/politics/2026/nov/22/intimidating-vigilantes-posing-as-far-right-security-on-the-rise-uk-experts-say",
+     "link": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
      "bron": "The Guardian",
-     "tijd": "10:49",
-     "sorteer": "2026-11-22T09:49:16+00:00",
+     "tijd": "11:42",
+     "sorteer": "2026-11-22T10:42:34+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Brussels, Charleroi airports to cancel most flights Monday amid Belgian strike",
+     "context": "Air traffic controllers will join a nationwide protest against government spending cuts, prompting anger from airport operators over the last-minute disruption.",
+     "rubrieken": [
+      "Airlines",
+      "Airports",
+      "Austerity",
+      "Public transport",
+      "Mobility"
+     ],
+     "link": "https://www.politico.eu/article/brussels-charleroi-airports-cancel-most-flights-monday-belgian-strike/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "11:30",
+     "sorteer": "2026-11-22T10:30:54+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
+     "context": "Supporters of the deposed prime minister, Sheikh Hasina, who was sentenced to death in absentia, have waged a small-scale insurgency to destabilize the current government.",
+     "rubrieken": [
+      "Demonstrations, Protests and Riots",
+      "Politics and Government",
+      "Bangladesh",
+      "Wazed, Hasina",
+      "Rahman, Tarique",
+      "Fugitives",
+      "Deaths (Fatalities)",
+      "International Relations",
+      "Bangladesh Awami League",
+      "Bangladesh Nationalist Party"
+     ],
+     "link": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
+     "bron": "New York Times",
+     "tijd": "11:22",
+     "sorteer": "2026-11-22T10:22:20+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -265,49 +309,6 @@
      "bron": "BBC",
      "tijd": "10:20",
      "sorteer": "2026-11-22T09:20:45+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
-     "context": "Two days before South Korea’s college entrance exam, new measures were announced, including loud phone alerts and eyeglass inspections. Public backlash came fast.",
-     "rubrieken": [
-      "Tests and Examinations",
-      "Cheating",
-      "Artificial Intelligence",
-      "South Korea",
-      "Colleges and Universities"
-     ],
-     "link": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
-     "bron": "New York Times",
-     "tijd": "09:35",
-     "sorteer": "2026-11-22T08:35:05+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Europeans dare to believe Trump could deliver security for Ukraine",
-     "context": "After months of anxiety, some of Kyiv's allies now think the U.S will help them negotiate an acceptable peace.",
-     "rubrieken": [
-      "Baltics",
-      "Borders",
-      "Conflict",
-      "Defense",
-      "Diplomacy",
-      "Drones",
-      "Energy",
-      "Military",
-      "Missiles",
-      "Negotiations",
-      "Rights",
-      "Security",
-      "War",
-      "Defense"
-     ],
-     "link": "https://www.politico.eu/article/europeans-dare-to-believe-trump-could-deliver-security-for-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "08:44",
-     "sorteer": "2026-11-22T07:44:01+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -331,7 +332,7 @@
    "items": [
     {
      "titel": "Nieuwe invasieve exoot in Nederland: waterschildpad plant zich voort in natuur",
-     "context": "De waterschildpad is een nieuwe invasieve exoot in Nederland. Dat heeft het NPO-radioprogramma Vroege Vogels vandaag bekendgemaakt . De schildpad, die uit de Verenigde Staten is overgebracht naar Nederland, is al langer te vinden in de natuur doordat hij wordt achtergelaten door eigenaren. Tot nu toe was het klimaat hier te koud voor het dier om zich voort te planten. Dat blijkt nu anders te zijn.",
+     "context": "De waterschildpad is een nieuwe invasieve exoot in Nederland. Dat heeft het radioprogramma Vroege Vogels van BNNVARA vandaag bekendgemaakt . De schildpad, die uit de Verenigde Staten is overgebracht naar Nederland, is al langer te vinden in de natuur doordat hij wordt achtergelaten door eigenaren. Tot nu toe was het klimaat hier te koud voor het dier om zich voort te planten. Dat blijkt nu anders ",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640556",
      "bron": "NOS",
@@ -366,6 +367,15 @@
      "sorteer": "2026-11-22T07:43:59+01:00"
     },
     {
+     "titel": "Influencer terug in Nederland na opsluiting in ICE-detentiecentrum",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/binnenland/influencer-terug-in-nederland-na-opsluiting-in-ice-detentiecentrum~bc19d9cb/",
+     "bron": "de Volkskrant",
+     "tijd": "11:23",
+     "sorteer": "2026-11-22T10:23:28+00:00"
+    },
+    {
      "titel": "Verwey-Jonker Instituut gaf jarenlang stem aan marginale groepen, nu is het failliet. Hoe kan dat?",
      "context": "",
      "rubrieken": [],
@@ -374,15 +384,6 @@
      "tijd": "20:37",
      "sorteer": "2026-11-21T19:37:00+00:00",
      "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Kleuter (5) overlijdt na eten giftige paddenstoel",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/kleuter-5-overlijdt-na-eten-giftige-paddenstoel~bdb879ec/",
-     "bron": "de Volkskrant",
-     "tijd": "19:07",
-     "sorteer": "2026-11-21T18:07:00+00:00"
     },
     {
      "titel": "De familie Babayants neemt afscheid van gemeente Kampen. ‘Ik ga alle vrijwilligers heel erg missen’",
@@ -400,6 +401,13 @@
      "bron": "de Stentor",
      "tijd": "09:48",
      "sorteer": "2026-11-22T08:48:58+00:00"
+    },
+    {
+     "titel": "Van basketbalprof tot hardloopfenomeen: Inez van Hulsen wint opnieuw halve marathon van Monster",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZE1VaHU1TzlHdENvY0ZtLUg1SGxxZzNveUJhWDBTWl9KMElWdzlYLU1QS1BVTTNzeHhiNmx4by1vdjlqa1BFOVBrZlRrLS1wQ1lFa0JoOHdLLVJFaU5mQ3lMRXFxT3dsaWMxZ1NiaHJPZk9peUIxU2UwVmNEb2dyTGM2UGxJQUs3M1JwcXR4eV9EbjF0STRlQ3NxYW9ORTV4ZHp5OEx2d2dyclRZMldrdjNMT0cwek9BM01hbmFPckFiZnF3V3hJaTVLZw?oc=5",
+     "bron": "AD.nl",
+     "tijd": "08:49",
+     "sorteer": "2026-11-22T07:49:28+00:00"
     },
     {
      "titel": "Nieuwsuur: Congres FVD na Zembla-documentaire • Hoe verder met Democraten? • Documentaire over Iraanse revolutie op IDFA",
@@ -484,30 +492,30 @@
      "sorteer": "2026-11-22T05:02:38+00:00"
     },
     {
-     "titel": "Merel: ‘‘Onder herfstbladeren zit een verborgen wereld’’",
-     "context": "DALFSEN – “Laatst zat ik lekker te scharrelen in een berm bij Oudleusen, toen ik me rot schrok’’, vertelt Merel. ‘‘Er was veel geluid en wind en daarna waren alle bladeren weg. Wat zou het geweest zijn?” Je raadt het misschien al: Merel kwam een bladblazer tegen. De bomen worden kaler en de stoepen, tuinen, […]",
+     "titel": "Glinsterende regendruppels",
+     "context": "NIEUWLEUSEN – Waterdruppels – Na een herfstbui valt er in de tuin van alles te zien. Aan de fijne takjes van de hemelse bamboe (Nandina domestica) hangen koraalrode besjes met glinsterende regendruppels. Tussen het zilvergroene blad van de olijfboom valt een glanzende olijf op. Ook de vuurrode sierappeltjes brengen kleur in de herfsttuin. Hogerop, tussen […]",
      "rubrieken": [
-      "Dalfsen",
       "Ingezonden bericht",
-      "Laatste nieuws"
+      "Laatste nieuws",
+      "Nieuwleusen"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/556936/merel-onder-herfstbladeren-zit-een-verborgen-wereld.html",
+     "link": "https://www.dalfsennet.nl/nieuws/557064/glinsterende-regendruppels.html",
      "bron": "DalfsenNet",
-     "tijd": "09:30",
-     "sorteer": "2026-11-22T08:30:47+00:00"
+     "tijd": "11:52",
+     "sorteer": "2026-11-22T10:52:15+00:00"
     },
     {
-     "titel": "Is dat nou nodig? Schijnbaar wel",
-     "context": "HESSUM – Wat jammer dat lokale bewoners van Bosweg en Tolhuisweg niet niet meer kunnen wandelen naar landgoed via de Bosweg. Er is een ijzerdraad gespannen en grote struiken en boompjes omgezaagd en over het pad gelegd. Wel jammer dat er zo met de buurtbewoners wordt omgegaan. Het is hen niet helemaal duidelijk waarom dat […]",
+     "titel": "Ut lup mangs toch kats aans",
+     "context": "LEMELERVELD – Un stellegie hef un zeune die in un woonvorm woont. Zie woln hum daor ophaaln, zonder dette det wus. Zie dachn umme hum echt te verrasn deurdet de vrouwe zich achter de deure zol verstopn as de zeune zol binkomn in zien kamertie. De va wol zich in de kleerkaste verstopn. As […]",
      "rubrieken": [
-      "Hessum / Vilsteren",
+      "Columns",
       "Ingezonden bericht",
-      "Laatste nieuws"
+      "Lemelerveld"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/557054/is-dat-nou-nodig.html",
+     "link": "https://www.dalfsennet.nl/nieuws/557060/ut-lup-mangs-toch-kats-aans.html",
      "bron": "DalfsenNet",
-     "tijd": "23:21",
-     "sorteer": "2026-11-21T22:21:17+00:00"
+     "tijd": "11:34",
+     "sorteer": "2026-11-22T10:34:26+00:00"
     }
    ]
   },
@@ -668,14 +676,6 @@
      "sorteer": "2026-11-20T14:49:34.92+01:00"
     },
     {
-     "titel": "Motie van het lid Lammers over terrorisme- en extremismescreening van migranten onmiddellijk op orde brengen",
-     "bron": "Motie",
-     "kop": "Brieven en moties",
-     "tijd": "19-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D59546",
-     "sorteer": "2026-11-20T12:09:09.25+01:00"
-    },
-    {
      "titel": "Petitie 'Herzie het asielbeleid voor Jemen op basis van actuele feiten'",
      "bron": "Petitie",
      "kop": "Komende week",
@@ -739,7 +739,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "11:00",
+    "bijgewerkt": "12:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1118,20 +1118,20 @@
      "sorteer": "2026-11-22T05:45:00+00:00"
     },
     {
-     "titel": "Weten dat natuur verdwijnt is iets anders dan voelen wat we verloren zijn",
-     "toelichting": "Ik kan blij worden van een paar vlinders in mijn tuin. Van een bloemrijke berm ook. Toen las ik hoe Jac. P. Thijsse ruim een eeuw geleden een Nederlands weiland beschreef: dotterbloemen zover je keek, orchideeën tussen h",
-     "bron": "Nature Today",
-     "tijd": "12:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36086",
-     "sorteer": "2026-11-21T11:00:00+00:00"
-    },
-    {
      "titel": "Levende thermometers op stadsbomen: hoe bewoners helpen stedelijke hitte in kaart te brengen",
      "toelichting": "Wie op een hete zomerdag vanuit het groene buitengebied de stad in fietst, voelt het direct: tussen de stenen blijft de warmte hangen. Dit stedelijk hitte-eilandeffect vormt door klimaatverandering een groeiend risico vo",
      "bron": "Nature Today",
      "tijd": "07:00",
      "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36089",
      "sorteer": "2026-11-22T06:00:00+00:00"
+    },
+    {
+     "titel": "Gekeerd getij voor spons als gewei",
+     "toelichting": "Jarenlang ging de Geweispons in de Oosterschelde en het Grevelingenmeer achteruit. Maar een uitgebreide analyse van duikwaarnemingen leverde goed nieuws op. Op diverse plaatsen in onze wateren worden deze geweivormige sp",
+     "bron": "Nature Today",
+     "tijd": "10:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36092",
+     "sorteer": "2026-11-22T09:00:00+00:00"
     },
     {
      "titel": "Deze prehistorische walvis had wel een heel bijzonder hoofd",
@@ -1228,14 +1228,6 @@
      "sorteer": "2026-11-21T12:05:00+01:00"
     },
     {
-     "titel": "Kleine Topper",
-     "kop": "Zeldzaamheden",
-     "bron": "Noord-Holland",
-     "tijd": "11:59",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-21T11:59:00+01:00"
-    },
-    {
      "titel": "Dalfsen (nacht)",
      "kop": "Vogeltrek",
      "bron": "21-11",
@@ -1316,7 +1308,7 @@
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 137 vogels; 101 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 137 vogels; 111 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1352,16 +1344,16 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 2.1,
-    "gevoel": 2.1,
+    "nu": 4.5,
+    "gevoel": 4.5,
     "wind": "NO 1",
     "station": "Heino",
     "bericht": "De dag begint met vooral in het midden en oosten plaatselijk dichte mist(banken), die gedurende de ochtend oplossen. In het oosten zou dit langer kunnen duren. Verder schijnt de zon vandaag.",
     "vandaag": "Verder schijnt de zon vandaag. Vanavond en vannacht zijn er brede opklaringen en blijft het droog.",
     "temperatuur": "De middagtemperatuur komt uit op 7 of 8 graden langs de kust en vijf graden in het oosten van het land.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -2 tot 7 graden, droog, ruim 7 uur zon, wind uit het noordoosten, kracht 3.",
-     "max": 7,
+     "zin": "Voor Dalfsen zelf: -2 tot 6 graden, droog, ruim 7 uur zon, wind uit het noordoosten, kracht 2.",
+     "max": 6,
      "min": -2,
      "regenkans": 4,
      "omschrijving": "bewolkt",
