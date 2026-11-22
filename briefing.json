@@ -1,16 +1,16 @@
 {
- "datum": "2026-11-21",
- "naam": "Avondbriefing",
+ "datum": "2026-11-22",
+ "naam": "Ochtendbriefing",
  "status": {
-  "ronde": "Avondbriefing",
-  "opgehaald": "23:00",
+  "ronde": "Ochtendbriefing",
+  "opgehaald": "05:55",
   "blokken": 11,
-  "berichten": 91,
+  "berichten": 90,
   "problemen": [],
-  "audio_herkomst": "model"
+  "audio_herkomst": null
  },
- "opgehaald": "2026-11-21T23:00+01:00",
- "audio": "audio/20261121.mp3",
+ "opgehaald": "2026-11-22T05:55+01:00",
+ "audio": null,
  "afval": [
   {
    "datum": "2026-11-27",
@@ -49,130 +49,16 @@
    "afwijkend": false
   }
  ],
- "duiding": [
-  {
-   "titel": "Costa snoeit in EU-begroting",
-   "tekst": "President Costa heeft het voorstel voor de EU-meerjarenbegroting met 181 miljard euro verlaagd, en ook dat lichtere voorstel stelt Heinen nog niet tevreden (24, 23). Dat nieuwe voorstel ligt er na een ingreep van Costa zelf (24). Daarop laat Heinen weten dat hij nog niet tevreden is (23). Daarmee is er over de meerjarenbegroting nog geen overeenstemming (23, 24).",
-   "verwijzingen": [
-    {
-     "titel": "Heinen nog niet tevreden met nieuw voorstel EU-meerjarenbegroting",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTDZuT1hQS2FJVzZPMGxHcC1jSktMS0NiYk1fUDBkUDIyZDBwUS1NZ1Q0UVdYNnZYbG1Ja3lhdkJJaDNQV2thcjYyVkQ2UHZKeWVnZEM2ZGh6eS1tYkEyRjIwWXZfTlBhanJiNHZVQXE4VTRQOTV0Q3dBTkhJVkM5bGpqaklZQmltdFhLN0Q5S3RCZjVucW1SVnUxUktvMEFycUVKWEs3SlcwdkxfNGhoRkxIRnE0djA?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "14:52",
-     "nummers": [
-      23
-     ]
-    },
-    {
-     "titel": "Nieuw voorstel EU-begroting 181 miljard euro lichter na ingreep president Costa",
-     "link": "https://www.volkskrant.nl/politiek/nieuw-voorstel-eu-begroting-181-miljard-euro-lichter-na-ingreep-president-costa~b49cdbe2/",
-     "bron": "de Volkskrant",
-     "tijd": "11:45",
-     "nummers": [
-      24
-     ]
-    }
-   ],
-   "geschreven": "19:00"
-  },
-  {
-   "titel": "Gezin Babayants verlaat kerk Kampen",
-   "tekst": "Het Oezbeekse gezin Babayants beëindigt na precies twee jaar het kerkasiel in Kampen, omdat een nieuwe verblijfsprocedure het nu tegen uitzetting beschermt (15, 31). Dat asiel bestond uit een kerkdienst die 730 dagen dag en nacht doorging (15). Het gezin besloot zelf te stoppen, gesteund door een uitspraak van de Raad van State deze zomer (15). Zolang de nieuwe procedure loopt, mag het rechtmatig in Nederland blijven (15).",
-   "verwijzingen": [
-    {
-     "titel": "Oezbeeks gezin uit Kampen kan kerk na twee jaar verlaten door nieuwe procedure",
-     "link": "https://nos.nl/l/2640412",
-     "bron": "NOS",
-     "tijd": "13:00",
-     "nummers": [
-      15
-     ]
-    },
-    {
-     "titel": "Na twee jaar stopt kerkasiel Kampen: gezin Babayants verlaat kerk",
-     "link": "https://www.oost.nl/nieuws/3721840/na-twee-jaar-stopt-kerkasiel-kampen-gezin-babayants-verlaat-kerk",
-     "bron": "RTV Oost",
-     "tijd": "13:00",
-     "nummers": [
-      31
-     ]
-    }
-   ],
-   "geschreven": "19:00"
-  },
-  {
-   "titel": "Mexico pakt El Chapo Isidro op",
-   "tekst": "Het Mexicaanse leger heeft Fausto Isidro Meza Flores opgepakt, bekend als El Chapo Isidro en een van de tien meest gezochte voortvluchtigen van de FBI (9, 10). Die arrestatie volgde op een inval van speciale eenheden in de staat Sinaloa op vrijdagavond (10). Daarbij brak in de stad Guasave een vuurgevecht uit en werden ook twee andere vermeende bendeleiders aangehouden (10). Meza Flores ontliep meer dan tien jaar zijn arrestatie (10).",
-   "verwijzingen": [
-    {
-     "titel": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
-     "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
-     "bron": "New York Times",
-     "tijd": "18:50",
-     "nummers": [
-      9
-     ]
-    },
-    {
-     "titel": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
-     "link": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
-     "bron": "The Guardian",
-     "tijd": "18:46",
-     "nummers": [
-      10
-     ]
-    },
-    {
-     "titel": "Mexico en VS slaan toe: gezamenlijke operatie leidt tot arrestatie beruchte drugsbaron én chaos op straat",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOV3d6d3FWdlhtQUJqRUxNSG0wczh6d3FfNmE3b1p3eWUwWWEtWE1KRjBkTExzaHZDVlltZXRISkhmSGZnOFJ1eGFSeE1sZzhneXAtX01lN0FuVWEzZlBaMFAwd1BHQS1DdGdnQ0g1QUppQjhQMkZlR1cyenBLNW5yZTBfYWRONGVlRnBQR3lrbHdRSEZWYkRnY0hKVHdKbVBXczRLNkg3bGNuZGtzMXM3cWFiQnV4Y25HN1NWY1hCZjJkdG5qcVF2djVGd2FYUW9pbFZrWFRsMU1pb19FaEh5UUxrWmhrR1E?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "17:08",
-     "nummers": [
-      22
-     ]
-    }
-   ],
-   "geschreven": "19:00"
-  }
- ],
+ "duiding": [],
  "denkwerk": {
-  "tekst": "Wanneer we nagaan hoe dit wonder tot stand komt, vinden we dat, omdat de macht altijd aan de kant van de geregeerden is, de regeerders niets hebben om op te steunen dan opinie. Het is dus alleen op opinie dat de regering is gegrondvest; en dit beginsel geldt voor de meest despotische en militaire regeringen even goed als voor de meest vrije en volkse.",
-  "wie": "David Hume",
-  "werk": "Essays over moraal en politiek",
-  "jaar": 1741,
+  "tekst": "De beginselen van rechtvaardigheid worden gekozen achter een sluier van onwetendheid.",
+  "wie": "John Rawls",
+  "werk": "Een theorie van rechtvaardigheid",
+  "jaar": 1971,
   "parafrase": false,
   "link": "https://gertveurink.github.io/denkwerk/#/"
  },
- "verder": [
-  {
-   "kop": "Politie valt motorclub binnen",
-   "blok": "nationaal",
-   "link": "https://nos.nl/l/2640394",
-   "bron": "NOS",
-   "titel": "Grote politieactie bij motorclub in Rijswijk, leden verdacht van wapenhandel"
-  },
-  {
-   "kop": "FBI onderzoekt hack van database",
-   "blok": "internationaal",
-   "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-   "bron": "BBC",
-   "titel": "FBI reportedly investigating apparent hack of its criminal database"
-  },
-  {
-   "kop": "De Gennaro dood aangetroffen",
-   "blok": "internationaal",
-   "link": "https://nos.nl/l/2640436",
-   "bron": "NOS",
-   "titel": "Beschuldigde Italiaanse oud-politiechef dood gevonden"
-  },
-  {
-   "kop": "Brand legt school Deurne stil",
-   "blok": "nationaal",
-   "link": "https://nos.nl/l/2640434",
-   "bron": "NOS",
-   "titel": "Afgebrande school Deurne waarschijnlijk nog maanden dicht"
-  }
- ],
+ "verder": [],
  "blokken": [
   {
    "id": "internationaal",
@@ -180,13 +66,23 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "24 doden nadat boot met grote groep begrafenisgangers omslaat in Nigeria",
+     "context": "Een boot met een grote groep mensen die onderweg was naar een begrafenis in het zuiden van Nigeria is omgeslagen. Zeker 24 mensen zijn daarbij omgekomen, melden de hulpdiensten. De Nigeriaanse rampenbestrijdingsdienst spreekt van een tragisch bootongeluk op een kruising van rivieren. De boot vervoerde passagiers van het ene dorp naar het andere voor een begrafenisceremonie. De autoriteiten hebben ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640511",
+     "bron": "NOS",
+     "tijd": "02:45",
+     "sorteer": "2026-11-22T02:45:56+01:00"
+    },
+    {
      "titel": "Italiaanse luxe-juwelier Bulgari (89) overleden",
      "context": "De Italiaanse juwelier en zakenman Paolo Bulgari is op 89-jarige leeftijd overleden. Hij gaf decennialang leiding aan het gelijknamige luxemerk. Onder Bulgari en zijn broers groeide het bedrijf uit tot een wereldberoemd juwelenmerk. Ook bouwden zij het merk uit van alleen sieraden naar horloges, geurtjes, lederwaren en zelfs hotels. Naar verluidt hield Paolo er ook als directielid nog van om soms ",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640484",
      "bron": "NOS",
      "tijd": "21:48",
-     "sorteer": "2026-11-21T21:48:53+01:00"
+     "sorteer": "2026-11-21T21:48:53+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Palestijnen vrezen meer noodweer aankomende winter in Gaza",
@@ -195,7 +91,8 @@
      "link": "https://nos.nl/l/2640477",
      "bron": "NOS",
      "tijd": "20:39",
-     "sorteer": "2026-11-21T20:39:17+01:00"
+     "sorteer": "2026-11-21T20:39:17+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Maandag alle Belgische vluchten geannuleerd wegens staking",
@@ -204,79 +101,92 @@
      "link": "https://nos.nl/l/2640473",
      "bron": "NOS",
      "tijd": "19:58",
-     "sorteer": "2026-11-21T19:58:06+01:00"
+     "sorteer": "2026-11-21T19:58:06+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Klimaattop al een dag uitgelopen en onderhandelingen lijken muurvast te zitten",
-     "context": "Kleine oogjes op de klimaattop in Antalya vanavond, met deelnemers die verveeld een uiltje knappen terwijl ze wachten op uitsluitsel. Volgers van klimaattoppen zijn wel wat gewend, maar de onderhandelingen zitten dit jaar muurvast. De onderhandelaars hadden gisteren al klaar moeten zijn, maar zijn nog altijd in achterkamertjes aan het praten. De Turkse voorzitter van de top heeft sinds gisteravond",
+     "context": "Kleine oogjes op de klimaattop in Antalya, met deelnemers die verveeld een uiltje knappen terwijl ze wachten op uitsluitsel. Volgers van klimaattoppen zijn wel wat gewend, maar de onderhandelingen zitten dit jaar muurvast. De onderhandelaars hadden vrijdag al klaar moeten zijn, maar zijn nog altijd in achterkamertjes aan het praten. De Turkse voorzitter van de top heeft gisteravond rond 23.00 uur ",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640472",
      "bron": "NOS",
      "tijd": "19:48",
-     "sorteer": "2026-11-21T19:48:23+01:00"
+     "sorteer": "2026-11-21T19:48:23+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Sonde onderzoekt ijs en mysterieuze holtes Mercurius na reis van 8 jaar",
-     "context": "In 2017 stond BepiColombo nog in een testruimte in Noordwijk, vandaag is de planeetverkenner aangekomen bij Mercurius, zo'n 150 miljoen kilometer van de aarde. Acht jaar heeft het onbemande ruimteschip erover gedaan. Hoewel Mercurius niet zo heel ver van de aarde staat, is het toch lastig om er te komen. Je moet constant afremmen tegen de zwaartekracht van de zon. Er was een ingewikkelde route nod",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640451",
-     "bron": "NOS",
-     "tijd": "18:02",
-     "sorteer": "2026-11-21T18:02:30+01:00"
-    },
-    {
-     "titel": "Russische media: Topvrouw grootste Russische webshop Wildberries treedt af na plaatsing op sanctielijst EU",
+     "titel": "Trump bagatelliseert tweede FBI-hack in korte tijd en ziet zelfs mogelijke positieve gevolgen",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/russische-media-topvrouw-grootste-russische-webshop-wildberries-treedt-af-na-plaatsing-op-sanctielijst-eu~b11373d3a/",
+     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
      "bron": "de Volkskrant",
-     "tijd": "21:45",
-     "sorteer": "2026-11-21T20:45:00+00:00"
+     "tijd": "03:38",
+     "sorteer": "2026-11-22T02:38:00+00:00"
     },
     {
-     "titel": "Kleuter (5) overlijdt na eten giftige paddenstoel",
+     "titel": "Met arrestatie drugsbaas ‘El Chapo Isidro’ haalt Mexico wit voetje bij VS",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/kleuter-5-overlijdt-na-eten-giftige-paddenstoel~bdb879ec/",
+     "link": "https://www.volkskrant.nl/buitenland/met-arrestatie-drugsbaas-el-chapo-isidro-haalt-mexico-wit-voetje-bij-vs~be46da40/",
      "bron": "de Volkskrant",
-     "tijd": "19:07",
-     "sorteer": "2026-11-21T18:07:00+00:00"
+     "tijd": "01:52",
+     "sorteer": "2026-11-22T00:52:18+00:00"
     },
     {
-     "titel": "Russisch reddingsschip naar getroffen vrachtschip in Finse Golf",
+     "titel": "Voornaamste adviseur Trump over cyberveiligheid vertrekt na reeks incidenten",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/live-oorlog-oekraine-russisch-reddingsschip-naar-getroffen-vrachtschip-in-finse-golf~ba2815bb/",
+     "link": "https://www.trouw.nl/buitenland/live-vs-trump-ziet-mogelijke-positieve-gevolgen-van-tweede-fbi-hack-in-korte-tijd~bbc0cf3d/",
      "bron": "Trouw",
-     "tijd": "22:35",
-     "sorteer": "2026-11-21T21:35:00+00:00"
+     "tijd": "03:47",
+     "sorteer": "2026-11-22T02:47:00+00:00"
     },
     {
-     "titel": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
-     "context": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
+     "titel": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+     "context": "China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.",
      "rubrieken": [
-      "Drug Cartels",
-      "Drug Abuse and Traffic",
-      "Politics and Government",
-      "United States Politics and Government",
-      "Fugitives",
+      "Espionage and Intelligence Services",
+      "Artificial Intelligence",
+      "Industrial Espionage",
+      "Computer Chips",
       "International Relations",
-      "Defense and Military Forces",
-      "Organized Crime",
-      "Fentanyl",
-      "United States International Relations",
-      "Federal Bureau of Investigation",
-      "Sinaloa Cartel",
-      "Sheinbaum, Claudia",
-      "Trump, Donald J",
-      "Mexico",
-      "Sinaloa (Mexico)",
+      "Politics and Government",
+      "Data Centers",
+      "Central Intelligence Agency",
+      "Commerce Department",
+      "Communist Party of China",
+      "Defense Department",
+      "Megaspeed International Pte Ltd",
+      "Politburo Standing Committee of the Communist Party of China",
+      "Ministry of State Security of the People's Republic of China",
+      "Chen Yixin (1959- )",
+      "Huang, Alice (Technology Executive)",
+      "Huang, Jen-Hsun",
+      "Mao Zedong",
+      "Xi Jinping",
+      "China",
+      "Singapore",
       "United States"
      ],
-     "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+     "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
      "bron": "New York Times",
-     "tijd": "22:12",
-     "sorteer": "2026-11-21T21:12:23+00:00",
+     "tijd": "05:28",
+     "sorteer": "2026-11-22T04:28:43+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Man found dead on Flinders Island believed to have been shot by officer, police say",
+     "context": "The sergeant, who was shot, fired his weapon a number of times after alleged ‘targeted’ attack outside island’s police station Get our breaking news email , free app or daily news podcast A police officer who was shot outside a remote Tasmanian police station is alleged to have shot and killed his attacker in response to what authorities believe was a “targeted” incident. Tasmania police deputy co",
+     "rubrieken": [
+      "Tasmania",
+      "Australia news",
+      "Australian police and policing"
+     ],
+     "link": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
+     "bron": "The Guardian",
+     "tijd": "03:44",
+     "sorteer": "2026-11-22T02:44:01+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -286,36 +196,20 @@
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "22:05",
-     "sorteer": "2026-11-21T21:05:29+00:00",
+     "tijd": "02:25",
+     "sorteer": "2026-11-22T01:25:03+00:00",
      "taal": "en",
-     "kop": "Buitenlandse media"
+     "kop": "Buitenlandse media",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-     "context": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics – and experts say the claim checks out. Levent Alpöge, a Turkish American mathematician, on ",
-     "rubrieken": [
-      "Anthropic",
-      "Mathematics",
-      "AI (artificial intelligence)",
-      "Technology",
-      "US news"
-     ],
-     "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-     "bron": "The Guardian",
-     "tijd": "21:15",
-     "sorteer": "2026-11-21T20:15:57+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-     "context": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+     "titel": "FBI reportedly investigating apparent hack of its criminal database",
+     "context": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
      "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+     "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "20:33",
-     "sorteer": "2026-11-21T19:33:49+00:00",
+     "tijd": "01:10",
+     "sorteer": "2026-11-22T00:10:44+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -338,7 +232,8 @@
      "tijd": "17:43",
      "sorteer": "2026-11-21T16:43:51+00:00",
      "taal": "en",
-     "kop": "Buitenlandse media"
+     "kop": "Buitenlandse media",
+     "vervolg": "stond gisteren ook in de briefing"
     }
    ]
   },
@@ -348,13 +243,32 @@
    "emoji": "🇳🇱",
    "items": [
     {
+     "titel": "Waarschuwingen voor gladheid en dichte mist in delen van Nederland",
+     "context": "Het KNMI heeft code geel afgegeven voor zowel mist als gladheid. Plaatselijk kan het glad zijn door bevriezing van natte weggedeelten, waarschuwt het weerinstituut. Kans op mist is er in een groot deel van het land, behalve in het uiterste noorden, langs de kust, in het zuidwesten en langs de grens met België. Gladheid kan zich voordoen in het noordoosten, met name in Drenthe, en in een strook van",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640513",
+     "bron": "NOS",
+     "tijd": "05:13",
+     "sorteer": "2026-11-22T05:13:50+01:00"
+    },
+    {
+     "titel": "Premier Jetten en Britse premier Burnham dineren in Rijksmuseum, praten over Oekraïne",
+     "context": "Premier Jetten heeft de Britse premier Burnham ontvangen. Ze hebben samen met hun partners gedineerd in het Rijksmuseum in Amsterdam, tussen de Hollandse meesters. Dat meldt Jetten in een bericht op X. Ze spraken onder meer over de economische en militaire samenwerking tussen het Verenigd Koninkrijk en Nederland. Daarnaast beloofden ze Oekraïne de militaire steun te geven die het land nodig heeft ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640510",
+     "bron": "NOS",
+     "tijd": "00:24",
+     "sorteer": "2026-11-22T00:24:39+01:00"
+    },
+    {
      "titel": "Dansen tot diep in de nacht? Jongeren kiezen steeds vaker iets anders",
      "context": "Uitgaan en dansen tot in de vroege uurtjes. Het gebeurt nog wel, maar minder jongeren kiezen daarvoor. Dat bleek al uit een groot uitgaansonderzoek van het Trimbos-instituut dat in 2023 werd gedaan onder ruim 7000 respondenten tussen de 16 en 35 jaar. Volgens het instituut zet die dalende trend door. Volgens Trimbos-onderzoeker Michelle van der Horst zijn er verschillende redenen waarom jongeren m",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640463",
      "bron": "NOS",
      "tijd": "19:15",
-     "sorteer": "2026-11-21T19:15:52+01:00"
+     "sorteer": "2026-11-21T19:15:52+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Door brand getroffen school Deurne waarschijnlijk nog maanden dicht",
@@ -363,7 +277,8 @@
      "link": "https://nos.nl/l/2640434",
      "bron": "NOS",
      "tijd": "16:12",
-     "sorteer": "2026-11-21T16:12:27+01:00"
+     "sorteer": "2026-11-21T16:12:27+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Reacties op overlijden Jason Bhugwandass: 'Er zat zo veel kracht in hem'",
@@ -372,25 +287,8 @@
      "link": "https://nos.nl/l/2640423",
      "bron": "NOS",
      "tijd": "15:03",
-     "sorteer": "2026-11-21T15:03:07+01:00"
-    },
-    {
-     "titel": "Oezbeeks gezin uit Kampen kan kerk na twee jaar verlaten door nieuwe procedure",
-     "context": "Het Oezbeekse gezin dat precies twee jaar kerkasiel kreeg in een kerkgebouw in Kampen, gaat een nieuwe procedure beginnen. De kerkdienst voor de familie Babayants is vandaag beëindigd, omdat die bescherming tegen uitzetting van het gezin niet meer nodig is. Dat heeft de kerk vandaag bekendgemaakt op een persconferentie. De familie heeft zelf besloten het kerkasiel te beëindigen, gesteund door een ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640412",
-     "bron": "NOS",
-     "tijd": "13:00",
-     "sorteer": "2026-11-21T13:00:08+01:00"
-    },
-    {
-     "titel": "Universiteit Leiden stopt samenwerking met Chinese universiteit na zorgen over lekken data",
-     "context": "De Universiteit Leiden heeft besloten een geplande samenwerking met de Chinese universiteit Xi'an Jiaotong niet door te laten gaan , na kritiek van het eigen personeel en zorgen over het lekken van gevoelige informatie naar de Chinese overheid. NRC meldde afgelopen week dat het plan van de Leidse universiteit om jaarlijks 200 Chinese studenten in Leiden te laten deelnemen aan de studierichtingen w",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640396",
-     "bron": "NOS",
-     "tijd": "10:20",
-     "sorteer": "2026-11-21T10:20:23+01:00"
+     "sorteer": "2026-11-21T15:03:07+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Verwey-Jonker Instituut gaf jarenlang stem aan marginale groepen, nu is het failliet. Hoe kan dat?",
@@ -399,7 +297,17 @@
      "link": "https://www.volkskrant.nl/binnenland/verwey-jonker-instituut-gaf-jarenlang-stem-aan-marginale-groepen-nu-is-het-failliet-hoe-kan-dat~b594ba2f/",
      "bron": "de Volkskrant",
      "tijd": "20:37",
-     "sorteer": "2026-11-21T19:37:29+00:00"
+     "sorteer": "2026-11-21T19:37:29+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Kleuter (5) overlijdt na eten giftige paddenstoel",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/binnenland/kleuter-5-overlijdt-na-eten-giftige-paddenstoel~bdb879ec/",
+     "bron": "de Volkskrant",
+     "tijd": "19:07",
+     "sorteer": "2026-11-21T18:07:00+00:00"
     },
     {
      "titel": "De familie Babayants neemt afscheid van gemeente Kampen. ‘Ik ga alle vrijwilligers heel erg missen’",
@@ -408,35 +316,37 @@
      "link": "https://www.trouw.nl/binnenland/de-familie-babayants-neemt-afscheid-van-gemeente-kampen-ik-ga-alle-vrijwilligers-heel-erg-missen~b6f9adec8/",
      "bron": "Trouw",
      "tijd": "18:26",
-     "sorteer": "2026-11-21T17:26:00+00:00"
+     "sorteer": "2026-11-21T17:26:00+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Italiaanse maffiabestrijder dood gevonden in buitenhuis Toscane na verdenking tegenwerken maffia-onderzoek",
-     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeTFlX0ZObm5PdmtXci14SHM5RGxZeENhVFVVaTZvZGt0WlBLZlptNkc0OHlwemF3Nll4am0xNm9LUEdDdGN6VlJBYXoxdFZyWjdrRHoySlpsVjlOOWt6SGFSSFBzTDl5T1RUcGRjTjNnOFZtendwRENTZjBtNjVpeS1MMHBLemJ2ZURzVFJPd3JRY0JObEtfeXZ5OWV4VlNBcE0yTTRYQUZHalRMaHQ1eVl6cUJtUkFOdnMzOWZhVDBPMlBMSXRBN0ZVVUVlMGhndWlQcnJrbDZIQVNfWENNdUt5VEQxc0c1U1E?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "22:40",
-     "sorteer": "2026-11-21T21:40:33+00:00"
+     "titel": "Ongeval met letsel op Europaweg in Arnhem",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLW8zdVB6Q2dXeXJJclNSVjl1Z3c2ZFZ5ODUwQmtQekw5V1o3cXRJMHdGLU9aem9xY2owSS15QlJwZkRWU1U2c1JKMEwwU2k5ZC0yUjdRdmUweEVjMkZYWDZzZVp6WEVPZkdISjhxbk5tYkl4ZERzNHE3S0dmUHZjOHlQOVJpZTR4Q0VvV3RCLVZNaDVXdElieUotTUpiQQ?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "00:12",
+     "sorteer": "2026-11-21T23:12:00+00:00"
     },
     {
-     "titel": "Mexico en VS slaan toe: gezamenlijke operatie leidt tot arrestatie beruchte drugsbaron én chaos op straat",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOV3d6d3FWdlhtQUJqRUxNSG0wczh6d3FfNmE3b1p3eWUwWWEtWE1KRjBkTExzaHZDVlltZXRISkhmSGZnOFJ1eGFSeE1sZzhneXAtX01lN0FuVWEzZlBaMFAwd1BHQS1DdGdnQ0g1QUppQjhQMkZlR1cyenBLNW5yZTBfYWRONGVlRnBQR3lrbHdRSEZWYkRnY0hKVHdKbVBXczRLNkg3bGNuZGtzMXM3cWFiQnV4Y25HN1NWY1hCZjJkdG5qcVF2djVGd2FYUW9pbFZrWFRsMU1pb19FaEh5UUxrWmhrR1E?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "21:23",
-     "sorteer": "2026-11-21T20:23:09+00:00"
+     "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTkpLMnFZcXE3Zzg1OG9OWWJqZzgzZmdYZjd3bEhmbFZqaHF3UmpVamhmWTVJNmROU3lkSzJ0WTRtMFVhRXViVnZVWXRMRlEwMzNMNklEaG5QYXU0RmpoampQVmVTd29NeTdoMkU1VnBDUkZSUVhxR0sySGc0bGxEQUFsaDZJWDRkM1pJZmdORVBHdDZmM0hBU2JMd1o?oc=5",
+     "bron": "AD.nl",
+     "tijd": "22:00",
+     "sorteer": "2026-11-21T21:00:00+00:00"
     },
     {
-     "titel": "Nederlanders voelen hogere inflatie dan cijfers tonen, ‘consument ervaart inflatie in hele specifieke producten’",
-     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYXV0MV9vNFB5LXZVcWlxMHJrLUE1OXBLTVFVVDUzR29jTjMtcnVqeTE3RWh6VUZLRjlULUdTdWRiOEpKTG5KT0c4ekdPeHY5UFZ5RDhiTmN2b2NHRVJVa294eVplU2xtTE1TUXFHcUVPQTBtNFNMMjFUem96cndDX1FvUFBXWDlmNHNGQW96MmUwV3ZFWnUyU3h3LUJyN25LdzZyNVk0VmRkZ3dndnFCaUFDMGxNMTFhWWhxWVVDV3hHTDQ4ZVU2OGl3RGxOSXdvYzlFdTZhQ1ctU1cyMjZCM1N4eG9IQlFfZzdBMlRHN3o?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "20:54",
-     "sorteer": "2026-11-21T19:54:54+00:00"
+     "titel": "Prins Dennis d’n Urste regeert tijdens carnaval over Teutengat Bergeijk",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOFRHWWlueHl2VHp4TW9XTzVJOHltODFHV25xbDZZU21FSG1velE1SmYwRGYzOHdaZE45RE41RTFJcEZOMjEtWWpyYUs4eDRqRkNDdkdWdFFUV3JxX0xWYXBWMUNrdDBVdzhVM004aVBGOUtsa29uS1k0cVhHNktOYkRGeVJLbEJhcEh2Wll6Sm1ZZ1Y2VUxhZl9jVG84SzgtTU52NHZVOHdjVk0?oc=5",
+     "bron": "AD.nl",
+     "tijd": "21:37",
+     "sorteer": "2026-11-21T20:37:44+00:00"
     },
     {
      "titel": "Terug van weggeweest: waarom het gehate Torentjesoverleg het kabinet moet redden",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ2R3M3Z2QURFXzZZOXVUMWlVcVY3LVB3U1VrRm1lQlczd2U2dzc1azcwWDZwcnFFN1V5QkxieER0amtsZGl6akloTnV2aXNvU2dZYUN3dnlyVjh3TXVBVzZ5S2I1VnQ2V2l1dXNQVVppNDBEOXB0WmtEdEEzVktTNHdydGF0WndOOWtrQXR4dTlDaDJCTC1DZEdFdVJ1em5IT2wzOW1iYzZKZkZqNEtqYUpHV3lQWlU?oc=5",
      "bron": "Brabants Dagblad",
      "tijd": "21:00",
-     "sorteer": "2026-11-21T20:00:32+00:00"
+     "sorteer": "2026-11-21T20:00:32+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Nieuwsuur: Congres FVD na Zembla-documentaire • Hoe verder met Democraten? • Documentaire over Iraanse revolutie op IDFA",
@@ -445,8 +355,17 @@
      "link": "https://nos.nl/l/2640444",
      "bron": "NPO2 · 22:00",
      "tijd": "22:00",
-     "sorteer": "2026-11-21T22:00:00",
-     "kop": "Vanavond op tv"
+     "sorteer": "2026-11-22T22:00:00",
+     "kop": "Vanavond op tv",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Pauw & De Wit",
+     "link": "https://npo.nl/start/serie/pauw-de-wit",
+     "kop": "Vanavond op tv",
+     "bron": "NPO1 · 22:20",
+     "tijd": "22:20",
+     "sorteer": "2026-11-22T22:20:00"
     }
    ]
   },
@@ -462,7 +381,8 @@
      "link": "https://www.oost.nl/nieuws/3722033/a32-bij-baars-kort-dicht-na-ongeluk-met-meerdere-voertuigen",
      "bron": "RTV Oost",
      "tijd": "21:09",
-     "sorteer": "2026-11-21T20:09:59+00:00"
+     "sorteer": "2026-11-21T20:09:59+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Overijssel plant record met 215.000 bomen en struiken die de grond in gaan",
@@ -471,16 +391,8 @@
      "link": "https://www.oost.nl/nieuws/3722011/overijssel-plant-record-met-215000-bomen-en-struiken-die-de-grond-in-gaan",
      "bron": "RTV Oost",
      "tijd": "21:02",
-     "sorteer": "2026-11-21T20:02:25+00:00"
-    },
-    {
-     "titel": "Drie generaties, één verjaardag: bij familie De Vos in Enschede is het elk jaar dubbel en dwars feest",
-     "context": "Zoiets laat zich niet plannen: Bianca de Vos uit Enschede is op 19 november jarig. Haar dochter Demi ook, en sinds vorig jaar ook haar kleindochter Jasmine. Drie generaties, drie keer dezelfde dag.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3589485/drie-generaties-een-verjaardag-bij-familie-de-vos-in-enschede-is-het-elk-jaar-dubbel-en-dwars-feest",
-     "bron": "RTV Oost",
-     "tijd": "20:02",
-     "sorteer": "2026-11-21T19:02:54+00:00"
+     "sorteer": "2026-11-21T20:02:25+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Super Lettele is 'super' belangrijk voor Lettele: 'Het is meer dan een winkel'",
@@ -491,16 +403,8 @@
      "link": "https://www.oost.nl/nieuws/3711980/super-lettele-is-super-belangrijk-voor-lettele-het-is-meer-dan-een-winkel",
      "bron": "RTV Oost",
      "tijd": "19:02",
-     "sorteer": "2026-11-21T18:02:40+00:00"
-    },
-    {
-     "titel": "Oplichter denkt slim te zijn en dekt camera af, maar staat buiten vol in beeld",
-     "context": "In Deventer probeert een oplichter buiten beeld te blijven door de camera in de geldautomaat meteen af te schermen. Maar andere camera's in en rond het filiaal leggen hem duidelijk vast. De oplichter haalt duizend euro van de rekening van een 75-jarige man uit Deventer.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3717723/oplichter-denkt-slim-te-zijn-en-dekt-camera-af-maar-staat-buiten-vol-in-beeld",
-     "bron": "RTV Oost",
-     "tijd": "18:03",
-     "sorteer": "2026-11-21T17:03:27+00:00"
+     "sorteer": "2026-11-21T18:02:40+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Zanger Time Bandits over opvallende zangstem: 'Wilde niet dat ze me hoorden oefenen'",
@@ -509,7 +413,39 @@
      "link": "https://www.oost.nl/cultuur/3721319/zanger-time-bandits-over-opvallende-zangstem-wilde-niet-dat-ze-me-hoorden-oefenen",
      "bron": "RTV Oost",
      "tijd": "17:05",
-     "sorteer": "2026-11-21T16:05:24+00:00"
+     "sorteer": "2026-11-21T16:05:24+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Hoe goed heb jij het nieuws gevolgd afgelopen week? Doe de nieuwsquiz",
+     "context": "Van welke game kwam er afgelopen week een nieuwe versie uit? En waarom kleurden verschillende molens blauw? Test je kennis over het nieuws van de afgelopen week.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3721768/hoe-goed-heb-jij-het-nieuws-gevolgd-afgelopen-week-doe-de-nieuwsquiz",
+     "bron": "RTV Oost",
+     "tijd": "17:00",
+     "sorteer": "2026-11-21T16:00:00+00:00"
+    },
+    {
+     "titel": "Brand in kerk Kloosterhaar: dienst op Eeuwigheidszondag verhuist",
+     "context": "Kerkbanken in brand, een zwartgeblakerde vloer en roetschade aan het plafond. Een brand heeft flinke schade aangericht in de Fredrikskerk in Kloosterhaar. De kerkgangers moeten voor de herdenkingsdienst op Eeuwigheidszondag uitwijken naar Sibculo.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3721994/brand-in-kerk-kloosterhaar-dienst-op-eeuwigheidszondag-verhuist",
+     "bron": "RTV Oost",
+     "tijd": "15:04",
+     "sorteer": "2026-11-21T14:04:21+00:00"
+    },
+    {
+     "titel": "Is dat nou nodig? Schijnbaar wel",
+     "context": "HESSUM – Wat jammer dat lokale bewoners van Bosweg en Tolhuisweg niet niet meer kunnen wandelen naar landgoed via de Bosweg. Er is een ijzerdraad gespannen en grote struiken en boompjes omgezaagd en over het pad gelegd. Wel jammer dat er zo met de buurtbewoners wordt omgegaan. Het is hen niet helemaal duidelijk waarom dat […]",
+     "rubrieken": [
+      "Hessum / Vilsteren",
+      "Ingezonden bericht",
+      "Laatste nieuws"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/557054/is-dat-nou-nodig.html",
+     "bron": "DalfsenNet",
+     "tijd": "23:21",
+     "sorteer": "2026-11-21T22:21:17+00:00"
     },
     {
      "titel": "Jacht en slacht op de Vilsterense boerenmarkt",
@@ -522,20 +458,8 @@
      "link": "https://www.dalfsennet.nl/nieuws/557038/jacht-en-slacht-op-de-vilsterense-boerenmarkt.html",
      "bron": "DalfsenNet",
      "tijd": "22:08",
-     "sorteer": "2026-11-21T21:08:47+00:00"
-    },
-    {
-     "titel": "Geheugenstick verloren",
-     "context": "NIEUWLEUSEN – Afgelopen vrijdag 19/11 ben ik in of in de nabijheid van Het Kruidvat, Grote Markt Nieuwleusen mijn zwarte geheugenstick met etiket “foto’s” kwijtgeraakt. De vinder kan hem, als hij/zij in de buurt komt van die winkel hem afgeven aan het personeel, dat op de hoogte is. Bij voorbaat dank voor de […]",
-     "rubrieken": [
-      "Ingezonden bericht",
-      "Laatste nieuws",
-      "Nieuwleusen"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/557036/geheugenstick-verloren.html",
-     "bron": "DalfsenNet",
-     "tijd": "22:07",
-     "sorteer": "2026-11-21T21:07:23+00:00"
+     "sorteer": "2026-11-21T21:08:47+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
     }
    ]
   },
@@ -632,27 +556,6 @@
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D59330",
      "sorteer": "2026-11-19T13:23:08.323+01:00",
      "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "VN-onderzoek: AI-chatbots veranderen eenvoudig in klimaatontkenners, en dat is gevaarlijk",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOamsyZWpxVnJNaWZHQm5KckFmNDlPSUZ1R2p2Wl9oTU50bWJOMktBXzQ0QkNjRHZoUWRKdmFGcVdycEJiMWl0VlhZWHA3VWl6RmdrRUxKNWMtZkN6OFBhRVVUNXNKaVVzWWJYUk5mN0RwdFNNTW9VZk5DTXQ2SUdvRzFYcEVHZUh5cHdXaHo0MlA2ZVBRMUc0T2ZCLU12Y3ZQSDZzRU1feFk5em9EQi1kbVMyd1JvMkF3V1Z2QU9ueGVnYzFfZTlSbzVYclFMekdOZG51QndEMlg5RDEtd3U0?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "12:12",
-     "sorteer": "2026-11-21T11:12:00+00:00"
-    },
-    {
-     "titel": "Wiskundige claimt ruim 170 jaar oud priemgetallenraadsel op te lossen met AI: ’Begin van iets veel groters’",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV0tJenNZWlBCTXVlQlB6eGJTQm9kRzE4NU9DVWJEcVZfZTAyR0k1OVlpTzFyeVpGR1c1X0RITlFsUzAwVnhwU2R5bDRua1BQNTFJdVFSVmRacHhLVlFITFhzYWFZcjVsNXdlWE9BZTh2TkRBR2NGRVR3MEVOZ1VTVjZkWkRSb2o4YVE2el96bHNQYnNZWjhBU2dobU9UQjc3d1Z5eUVQQXFQUldZV3VZRURLY24xaGVVeVpfMWxKa0xIckZkNnNqTi1GaHYzU3QxWjBEaXpXbHBxX3IwNWw3TDlpcU8ycFBuSXRV?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "17:18",
-     "sorteer": "2026-11-21T16:18:01+00:00"
-    },
-    {
-     "titel": "Laat de AI-zeepbel maar groeien, ook als die straks knapt",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTzN1V1d0bnZETzBFNS03X0hidjUwRUg3MEZCWWpVa1pMa0lweUhhN1VQYW05NXhWRWs4VzhXMUs0OHdxM2lNN2p4d21DLU4zRzlxeEtIZkxpY21EVS1VZHktR0c0OU5JdDllY005dGUzbDBqbFNSZHdnYkpkdDBFY29B?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "17:13",
-     "sorteer": "2026-11-21T16:13:53+00:00"
     }
    ]
   },
@@ -789,16 +692,52 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "23:00",
+    "bijgewerkt": "05:55",
     "voetbal": {
      "uitslagen": [
+      {
+       "thuis": "FC Twente",
+       "uit": "Willem II",
+       "score": "",
+       "tijd": "12:15",
+       "bezig": "Scheduled",
+       "wanneer": "vandaag 12:15",
+       "eigen": false
+      },
+      {
+       "thuis": "Ajax",
+       "uit": "ADO Den Haag",
+       "score": "",
+       "tijd": "14:30",
+       "bezig": "Scheduled",
+       "wanneer": "vandaag 14:30",
+       "eigen": false
+      },
+      {
+       "thuis": "Sparta",
+       "uit": "AZ Alkmaar",
+       "score": "",
+       "tijd": "14:30",
+       "bezig": "Scheduled",
+       "wanneer": "vandaag 14:30",
+       "eigen": false
+      },
+      {
+       "thuis": "Go Ahead Eagles",
+       "uit": "Fortuna",
+       "score": "",
+       "tijd": "16:45",
+       "bezig": "Scheduled",
+       "wanneer": "vandaag 16:45",
+       "eigen": false
+      },
       {
        "thuis": "NEC",
        "uit": "PSV",
        "score": "1 - 4",
        "tijd": "16:30",
        "bezig": "",
-       "wanneer": "vandaag 16:30",
+       "wanneer": "gisteren 16:30",
        "eigen": false
       },
       {
@@ -807,7 +746,7 @@
        "score": "2 - 3",
        "tijd": "18:45",
        "bezig": "",
-       "wanneer": "vandaag 18:45",
+       "wanneer": "gisteren 18:45",
        "eigen": false
       },
       {
@@ -816,7 +755,7 @@
        "score": "2 - 3",
        "tijd": "18:45",
        "bezig": "",
-       "wanneer": "vandaag 18:45",
+       "wanneer": "gisteren 18:45",
        "eigen": false
       },
       {
@@ -825,7 +764,7 @@
        "score": "1 - 3",
        "tijd": "21:00",
        "bezig": "",
-       "wanneer": "vandaag 21:00",
+       "wanneer": "gisteren 21:00",
        "eigen": false
       },
       {
@@ -834,7 +773,7 @@
        "score": "1 - 3",
        "tijd": "21:00",
        "bezig": "",
-       "wanneer": "vandaag 21:00",
+       "wanneer": "gisteren 21:00",
        "eigen": true
       }
      ],
@@ -1108,7 +1047,7 @@
      ]
     }
    },
-   "aantal": 15
+   "aantal": 19
   },
   {
    "id": "natuur",
@@ -1252,7 +1191,7 @@
      "titel": "Dalfsen (nacht)",
      "kop": "Vogeltrek",
      "bron": "21-11",
-     "wanneer": "vannacht",
+     "wanneer": "de nacht van vrijdag op zaterdag",
      "tijd": "17:15–07:30",
      "link": "https://trektellen.org/count/view/2364/20261121",
      "soorten": [
@@ -1266,53 +1205,53 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 144 soorten, 150.138 vogels geteld",
+     "titel": "Landelijk vandaag: 144 soorten, 150.155 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch"
     },
     {
      "titel": "Spreeuw — 128.372",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch"
     },
     {
      "titel": "Kolgans — 2.548",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch"
     },
     {
      "titel": "Aalscholver — 2.344",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch"
     },
     {
      "titel": "Zwarte Zee-eend — 2.252",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch"
     },
     {
      "titel": "Vink — 1.833",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch"
+     "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch"
     },
     {
      "kop": "Vogeltrek",
      "titel": "Spreeuw springt eruit — 128.372, normaal 1.871",
      "bron": "69× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch",
      "sein": true
     },
     {
@@ -1320,7 +1259,7 @@
      "titel": "Smient springt eruit — 1.521, normaal 26",
      "bron": "58× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch",
      "sein": true
     },
     {
@@ -1328,7 +1267,7 @@
      "titel": "Keep springt eruit — 290, normaal 5",
      "bron": "58× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch",
      "sein": true
     },
     {
@@ -1336,16 +1275,16 @@
      "titel": "Vink springt eruit — 1.833, normaal 50",
      "bron": "37× het gewone niveau",
      "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261121?language=dutch",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261122?language=dutch",
      "sein": true
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 70 plekken in de afgelopen week, waarvan 13 vandaag",
+     "titel": "Goed pestvogeljaar — op 53 plekken in de afgelopen week",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 187 vogels; 117 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 112 vogels; 87 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1363,13 +1302,13 @@
    "items": [
     {
      "titel": "Ganymedes, een van de grote manen van Jupiter, gaat achter de planeet langs en komt daarna in zijn schaduw — vannacht helemaal te volgen.",
-     "bron": "zondag 22 november",
+     "bron": "hemel.waarnemen.com",
      "tijd": "00:12",
      "link": "https://hemel.waarnemen.com/astrokal/"
     },
     {
      "titel": "De meteorenzwerm α-Monocerotiden bereikt zijn maximum.",
-     "bron": "zondag 22 november",
+     "bron": "hemel.waarnemen.com",
      "tijd": "01:00",
      "link": "https://hemel.waarnemen.com/astrokal/"
     }
@@ -1381,50 +1320,50 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 4.0,
-    "gevoel": 1.7,
-    "wind": "ZW 2",
+    "nu": -1.0,
+    "gevoel": -1.0,
+    "wind": "ZZW 1",
     "station": "Heino",
     "bericht": "De komende dagen is het droog met veel ruimte voor de zon. In de nacht en ochtend kan plaatselijk mist ontstaan. Het wordt wel steeds kouder, met in de nachten op uitgebreide schaal lichte en lokaal mogelijk ook matige vorst.",
-    "vandaag": "Vanavond en vannacht zijn er brede opklaringen.",
+    "vandaag": "Vannacht zijn er brede opklaringen.",
     "temperatuur": "Later in de nieuwe week ligt de middagtemperatuur maar een paar graden boven het vriespunt en zorgt een stevige oostenwind ervoor dat het schraal aanvoelt.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: motregen, 1 tot 9 graden, 80% kans op neerslag, ruim 6 uur zon, wind uit het zuidwesten, kracht 3.",
-     "max": 9,
-     "min": 1,
-     "regenkans": 80,
-     "omschrijving": "motregen",
+     "zin": "Voor Dalfsen zelf: -1 tot 6 graden, droog, ruim 6 uur zon, wind uit het noordoosten, kracht 3.",
+     "max": 6,
+     "min": -1,
+     "regenkans": 4,
+     "omschrijving": "mistig",
      "morgen": {
-      "max": 8,
-      "min": -1,
+      "max": 6,
+      "min": -2,
       "regenkans": 2,
       "omschrijving": null
      }
     },
     "vooruit": "Vrij koud, meest droog en perioden met zon. In de nacht en ochtend lichte vorst. Vooral zondag kans op mist in de nacht en ochtend.",
-    "omslag": "Vanaf morgen droog: de regenkans zakt van 70% naar 0%.",
-    "min": "0",
+    "omslag": "Nachtvorst in aantocht: morgen tot -2 graden.",
+    "min": "-1",
     "max": "8",
-    "regenkans": 70,
-    "zonkans": 20,
-    "omschrijving": "Zwaar bewolkt en regen",
+    "regenkans": 0,
+    "zonkans": 60,
+    "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
     "morgen": {
      "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
-     "min": "-1",
-     "max": "7",
+     "min": "-2",
+     "max": "6",
      "regenkans": 0
     }
    }
   }
  ],
  "archief": [
+  "2026-11-22",
   "2026-11-21",
   "2026-11-20",
   "2026-11-19",
   "2026-11-18",
   "2026-11-17",
   "2026-11-16",
-  "2026-11-15",
-  "2026-11-14"
+  "2026-11-15"
  ]
 }
