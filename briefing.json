@@ -7,10 +7,11 @@
   "blokken": 11,
   "berichten": 90,
   "problemen": [],
-  "audio_herkomst": null
+  "audio_herkomst": "model",
+  "audio_aangehaakt": "06:05"
  },
  "opgehaald": "2026-11-22T05:55+01:00",
- "audio": null,
+ "audio": "audio/20261122.mp3",
  "afval": [
   {
    "datum": "2026-11-27",
@@ -49,7 +50,67 @@
    "afwijkend": false
   }
  ],
- "duiding": [],
+ "duiding": [
+  {
+   "titel": "Trump bagatelliseert tweede FBI-hack",
+   "tekst": "Trump bagatelliseert een tweede hack bij de FBI in korte tijd en ziet er volgens de Volkskrant zelfs mogelijke positieve gevolgen in (6). Die hack treft volgens de BBC het misdaadregister van de FBI, de databank waarmee federale en lokale politie informatie delen (12). Na die reeks incidenten vertrekt volgens Trouw ook Trumps voornaamste adviseur voor cyberveiligheid (8). De FBI onderzoekt de hack van het register (12).",
+   "verwijzingen": [
+    {
+     "titel": "Trump bagatelliseert tweede FBI-hack in korte tijd en ziet zelfs mogelijke positieve gevolgen",
+     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
+     "bron": "de Volkskrant",
+     "tijd": "03:38",
+     "nummers": [
+      6
+     ]
+    },
+    {
+     "titel": "Voornaamste adviseur Trump over cyberveiligheid vertrekt na reeks incidenten",
+     "link": "https://www.trouw.nl/buitenland/live-vs-trump-ziet-mogelijke-positieve-gevolgen-van-tweede-fbi-hack-in-korte-tijd~bbc0cf3d/",
+     "bron": "Trouw",
+     "tijd": "03:47",
+     "nummers": [
+      8
+     ]
+    },
+    {
+     "titel": "FBI reportedly investigating apparent hack of its criminal database",
+     "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "01:10",
+     "nummers": [
+      12
+     ]
+    }
+   ],
+   "geschreven": "06:05"
+  },
+  {
+   "titel": "Mexico pakt drugsbaas Meza Flores",
+   "tekst": "Mexico heeft drugsbaas Fausto Isidro Meza Flores, bijgenaamd 'El Chapo Isidro', opgepakt, en haalt daarmee volgens de Volkskrant een wit voetje bij de VS (7, 11). Die man stond op de lijst van tien meest gezochte personen van de FBI en wordt beschuldigd van drugshandel en marteling (11). De arrestatie volgde op een vuurgevecht met de autoriteiten (11).",
+   "verwijzingen": [
+    {
+     "titel": "Met arrestatie drugsbaas ‘El Chapo Isidro’ haalt Mexico wit voetje bij VS",
+     "link": "https://www.volkskrant.nl/buitenland/met-arrestatie-drugsbaas-el-chapo-isidro-haalt-mexico-wit-voetje-bij-vs~be46da40/",
+     "bron": "de Volkskrant",
+     "tijd": "01:52",
+     "nummers": [
+      7
+     ]
+    },
+    {
+     "titel": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+     "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "02:25",
+     "nummers": [
+      11
+     ]
+    }
+   ],
+   "geschreven": "06:05"
+  }
+ ],
  "denkwerk": {
   "tekst": "De beginselen van rechtvaardigheid worden gekozen achter een sluier van onwetendheid.",
   "wie": "John Rawls",
@@ -58,7 +119,50 @@
   "parafrase": false,
   "link": "https://gertveurink.github.io/denkwerk/#/"
  },
- "verder": [],
+ "verder": [
+  {
+   "kop": "KNMI waarschuwt voor gladheid",
+   "blok": "nationaal",
+   "link": "https://nos.nl/l/2640513",
+   "bron": "NOS",
+   "titel": "Waarschuwingen voor gladheid en dichte mist in delen van Nederland"
+  },
+  {
+   "kop": "Brand beschadigt kerk Kloosterhaar",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3721994/brand-in-kerk-kloosterhaar-dienst-op-eeuwigheidszondag-verhuist",
+   "bron": "RTV Oost",
+   "titel": "Brand in kerk Kloosterhaar: dienst op Eeuwigheidszondag verhuist"
+  },
+  {
+   "kop": "Vuurwerkbrand sluit school Deurne",
+   "blok": "nationaal",
+   "link": "https://nos.nl/l/2640434",
+   "bron": "NOS",
+   "titel": "Door brand getroffen school Deurne waarschijnlijk nog maanden dicht"
+  },
+  {
+   "kop": "Kamer stelt terreurdebat uit",
+   "blok": "bron",
+   "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05594",
+   "bron": "Commissiedebat",
+   "titel": "Terrorisme/extremisme (tot nader order uitgesteld)"
+  },
+  {
+   "kop": "Agent doodt aanvaller op Flinders",
+   "blok": "internationaal",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
+   "bron": "The Guardian",
+   "titel": "Man found dead on Flinders Island believed to have been shot by officer, police say"
+  },
+  {
+   "kop": "Staking schrapt Belgische vluchten",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2640473",
+   "bron": "NOS",
+   "titel": "Maandag alle Belgische vluchten geannuleerd wegens staking"
+  }
+ ],
  "blokken": [
   {
    "id": "internationaal",
