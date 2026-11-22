@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "21:00",
+  "opgehaald": "21:20",
   "blokken": 11,
-  "berichten": 86,
+  "berichten": 85,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-22T21:00+01:00",
+ "opgehaald": "2026-11-22T21:20+01:00",
  "audio": "audio/20261122.mp3",
  "afval": [
   {
@@ -134,6 +134,17 @@
   "parafrase": false,
   "link": "https://gertveurink.github.io/denkwerk/#/"
  },
+ "waarneming": {
+  "datum": "2025-11-22",
+  "naam": "Bosveldkers",
+  "wetenschappelijk": "Cardamine flexuosa",
+  "groep": "Planten",
+  "aantal": 1,
+  "plek": "Dalfsen - Welsum",
+  "foto": "https://waarneming.nl/media/photo/141815800.jpg",
+  "link": "https://waarneming.nl/observation/381044358/",
+  "zeldzaam": 1
+ },
  "verder": [
   {
    "kop": "Doorrijder sleurt fietser mee",
@@ -257,19 +268,8 @@
      "sorteer": "2026-11-22T15:08:00+00:00"
     },
     {
-     "titel": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-     "context": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "20:52",
-     "sorteer": "2026-11-22T19:52:50+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
      "titel": "Australian politics live: small business carveout in digital duty of care; countdown to pass key legislation begins",
-     "context": "Get our breaking news email , free app or daily news podcast Good morning and welcome to Guardian Australia’s coverage of Australian politics. Krishani Dhanji will be with us shortly. Let’s begin. Continue reading...",
+     "context": "Get our breaking news email , free app or daily news podcast Good morning, Krishani Dhanji here with you for the final sitting week of the year! (Don’t sound too excited.) It’s crunch time for Labor who have several key pieces of legislation they want to pass this week including digital duty of care, gas reservation scheme, changes to capital gains tax for trusts, and reducing private health insur",
      "rubrieken": [
       "Australian politics",
       "Australia news",
@@ -288,8 +288,19 @@
      ],
      "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
      "bron": "The Guardian",
-     "tijd": "20:47",
-     "sorteer": "2026-11-22T19:47:18+00:00",
+     "tijd": "21:06",
+     "sorteer": "2026-11-22T20:06:26+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+     "context": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "20:52",
+     "sorteer": "2026-11-22T19:52:50+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -428,6 +439,15 @@
      "sorteer": "2026-11-22T16:05:53+01:00"
     },
     {
+     "titel": "‘Mijn moeder knuffelde ons niet, ze dacht dat het problemen zou geven’",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/binnenland/mijn-moeder-knuffelde-ons-niet-ze-dacht-dat-het-problemen-zou-geven~b12d6492/",
+     "bron": "de Volkskrant",
+     "tijd": "21:03",
+     "sorteer": "2026-11-22T20:03:46+00:00"
+    },
+    {
      "titel": "Homoseksuele katholieken gaan tegen de stroom in met prijs voor homo-acceptatie: ‘Om LHBT-enzovoort-mensen in het licht te stellen’",
      "context": "",
      "rubrieken": [],
@@ -437,20 +457,11 @@
      "sorteer": "2026-11-22T16:43:00+00:00"
     },
     {
-     "titel": "Jaitsen Singh (81) overleden, gezicht van in de steek gelaten Nederlandse gevangenen in het buitenland",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/mensen/jaitsen-singh-81-overleden-gezicht-van-in-de-steek-gelaten-nederlandse-gevangenen-in-het-buitenland~b3e2da80/",
-     "bron": "de Volkskrant",
-     "tijd": "17:10",
-     "sorteer": "2026-11-22T16:10:00+00:00"
-    },
-    {
      "titel": "Blauwe Moskee Istanbul: actrice mogelijk vervolgd om zweetvoeten",
      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcUpYc0VrMUxibTdKcmdNZmNPVjNobENmX1J0WTZYaFhWZTlKUENQc2FWemVpVS1RRXRUemFwM2pQN1lYb05QTmZJaGdRRWNrUVZOZjhvbENqbTczNFo0YWExUTFYNF82dlowZjZHbnpDRERNMGpTRUVla0liODcyWHNNS0xNOUhyTzNIbDJZMHdqWFRNLTBBejYzNG5RS1A5QnNwXzNYQU5DY3FtT1V4TDI0Wk1mUmZYcXZvd2tHa3pIQTZjRTBoWVM0b0NwNVpET2FlelBCYzl6bi1jT0dKYzdkdE9yNjItR3ROeGFXOGt3YVh1b3p2X0hVenprbmM?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "20:35",
-     "sorteer": "2026-11-22T19:35:33+00:00"
+     "tijd": "21:04",
+     "sorteer": "2026-11-22T20:04:27+00:00"
     },
     {
      "titel": "Agenten blijven mogelijk weg bij voetbalwedstrijden en demonstraties: ’Er komt een militaire dreiging op ons af, daar krijgen we ook als politie mee te maken’",
@@ -465,13 +476,6 @@
      "bron": "De Gelderlander",
      "tijd": "18:22",
      "sorteer": "2026-11-22T17:22:20+00:00"
-    },
-    {
-     "titel": "Uka (41) is zwaar verslaafd aan crack en verloor álles: ’Sinds gisteren ben ik weer gestopt’",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVUZFUHM5V0Ita1Jfdm95ZGUyR0pxbUdiRktUTWplY3E0UTl5ZC1wZUxYWUlzcEpaNHBydU1GUnVHYjlKeEdjTkc4SnZuRDY1WHo2SlFoYWVYb1UxZnNvaGIzb3JMTlVmNVkzY2Rla0REOVIwdElXaUNoNGhkUjE1T1RGNkFSZ3BtZzRuVGFFNmMzSlMzSndfdFNKOFdhOEV2dzVrQkEtVzZPYXhxbmtCendzQ09qcnFvM1Nua0tKOFotN3gzSE14cDdxOFM4ckhYUzZlMA?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "18:58",
-     "sorteer": "2026-11-22T17:58:00+00:00"
     },
     {
      "titel": "Mislukte klimaattop kan de boel openbreken",
@@ -547,6 +551,26 @@
      "sorteer": "2026-11-22T14:26:31+00:00"
     },
     {
+     "titel": "Is er leven na twee jaar kerkasiel? Gezin Babayants kijkt voorzichtig vooruit",
+     "context": "Is er leven na twee jaar kerkasiel? En hoe ziet dat eruit? Het zijn vragen die de leden van de familie Babayants deze dagen bezighouden. Het gezin verlaat ergens de komende dagen de Open Hof in Kampen en kijkt, ondanks de voortdurende onzekerheid over hun verblijfsstatus, voorzichtig vooruit.",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3722120/is-er-leven-na-twee-jaar-kerkasiel-gezin-babayants-kijkt-voorzichtig-vooruit",
+     "bron": "RTV Oost",
+     "tijd": "12:49",
+     "sorteer": "2026-11-22T11:49:36+00:00"
+    },
+    {
+     "titel": "Audi-rijder krijgt voordeel van de twijfel, tót-ie door rood rijdt",
+     "context": "In Oost op het Asfalt bekijken we opvallende dashcambeelden van de Overijsselse wegen: gevaarlijke stunts, agressie onder automobilisten en grappige of kolderieke taferelen. Deze week een Audi-rijder die ervoor zorgt dat de zeikerd gelijk krijgt.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3715047/audi-rijder-krijgt-voordeel-van-de-twijfel-tot-ie-door-rood-rijdt",
+     "bron": "RTV Oost",
+     "tijd": "11:52",
+     "sorteer": "2026-11-22T10:52:01+00:00"
+    },
+    {
      "titel": "Jessica bouwt aan voedselbos in Glane: 'Dit is geen werk voor luie boeren'",
      "context": "Een stuk grond van 25 hectare omtoveren tot een bos waar je van kunt eten. Jessica van Bossum uit Glane begon er vier jaar geleden aan. Inmiddels groeien er honderden jonge bomen en struiken. Maar een voedselbos onderhouden blijkt allesbehalve eenvoudig.",
      "rubrieken": [],
@@ -554,24 +578,6 @@
      "bron": "RTV Oost",
      "tijd": "10:28",
      "sorteer": "2026-11-22T09:28:35+00:00"
-    },
-    {
-     "titel": "Arjan Lensen weet al 10 jaar als professioneel gitaarbouwer de juiste snaar te raken",
-     "context": "Het is een markt die fors onder druk staat en die van oudsher is gebaseerd op twee toonaangevende merken. Des te opmerkelijker is dat Arjan Lensen dit jaar al tien jaar aan de weg timmert als professioneel gitaarbouwer. En dat dan ook nog eens doet met hele eigenzinnige modellen.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3721271/arjan-lensen-weet-al-10-jaar-als-professioneel-gitaarbouwer-de-juiste-snaar-te-raken",
-     "bron": "RTV Oost",
-     "tijd": "08:02",
-     "sorteer": "2026-11-22T07:02:39+00:00"
-    },
-    {
-     "titel": "Code geel in Overijssel: kans op gladheid en dichte mist",
-     "context": "Het KNMI waarschuwt zondagochtend voor plaatselijk gladheid door bevriezing van natte wegen en dichte mist. In de loop van de ochtend vervalt de waarschuwing en lost de mist op.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3722112/code-geel-in-overijssel-kans-op-gladheid-en-dichte-mist",
-     "bron": "RTV Oost",
-     "tijd": "07:23",
-     "sorteer": "2026-11-22T06:23:15+00:00"
     },
     {
      "titel": "Giga resultaat bazar De Wiekelaar",
@@ -783,7 +789,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "21:00",
+    "bijgewerkt": "21:20",
     "voetbal": {
      "uitslagen": [
       {
@@ -1383,7 +1389,7 @@
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 163 vogels; 186 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 163 vogels; 188 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1413,9 +1419,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": -0.4,
-    "gevoel": -0.4,
-    "wind": "NNO 1",
+    "nu": -1.2,
+    "gevoel": -1.2,
+    "wind": "N 1",
     "station": "Heino",
     "bericht": "Het koelt flink af met kans op de eerste matige vorst van het seizoen. Komende week blijft het licht winters met in de nacht en ochtend vorst en ook dalende middagtemperaturen.Vanavond en vannacht zijn er brede opklaringen en blijft het droog. Met name in het zuiden en zuidoostenvormt zich (aanvriezende) mist.",
     "vandaag": "Vanavond en vannacht zijn er brede opklaringen en blijft het droog.",
