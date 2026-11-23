@@ -3,13 +3,13 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "18:00",
+  "opgehaald": "19:00",
   "blokken": 11,
   "berichten": 92,
   "problemen": [],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-11-23T18:00+01:00",
+ "opgehaald": "2026-11-23T19:00+01:00",
  "audio": "audio/20261123.mp3",
  "afval": [
   {
@@ -51,70 +51,79 @@
  ],
  "duiding": [
   {
-   "titel": "Buma moet begrotingsproces herstellen",
-   "tekst": "Volgens BNR moet Buma het begrotingsproces op orde krijgen, en BNR noemt het kabinet daarbij wankel (23).",
+   "titel": "Kabinet vindt EU-begroting te duur",
+   "tekst": "Het kabinet vindt ook het nieuwe voorstel voor de EU-begroting nog te duur (23). Wat dat voor Nederland betekent, rekent De Telegraaf voor bij een alternatief EU-begrotingsplan: de Nederlandse contributie stijgt daarmee naar 13,5 miljard euro per jaar (25). De krant noemt dat plan een drama voor Nederland (25).",
    "verwijzingen": [
     {
-     "titel": "Buma moet begrotingsproces op orde krijgen, kabinet blijft wankel",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2UmEydkxWU3dVdzRiMTFUQkd6T2NHWEx5NEtFRTVOT1E5NVJXSnB3VElaWWpJMDJNcm9fYkJZYm4yOTBxc1NxNkFvRGU3UQ?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "12:39",
+     "titel": "Kabinet: nieuw voorstel EU-begroting nog te duur",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcWtTbFVpbVdkQUdBdDdtSXIzVEFpck8yWVgwNV8wSUZOckJaQ1o4UzhBXzIyelV4TS03UFhuYk1zS3lyVS1QekZ5Zm9FVHdwS3ZuMk81SVVDV1FPbFpjeEMwUGdJeERoMnhtcWxYOGhwdXFOV1dTUnJyQnhQT1VyeHYwYl8?oc=5",
+     "bron": "Het Financieele Dagblad",
+     "tijd": "17:18",
      "nummers": [
       23
      ]
+    },
+    {
+     "titel": "Alternatief EU-begrotingsplan drama voor Nederland: contributie stijgt naar 13,5 miljard euro per jaar",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc3ZqUW5MeFY3YS1BRXZKR05GRUZXeEtmVUdlRV9sUlp5cVZWQmhiZ05Md213N1B6S0RCeXNHUW9XMkNQMTQ2b1I3dDhmUEk2N2t5bmUxaTRKU3V5cEM0bEUwVGxmLVA1UXVuMUZreUpaNXFxVXkxVndhdEltNDBUME4xU1luMVlja244ZlhCcUl0b1BGUEkzV1doM2NaRWFUU0RDZThEUVZmLUhnbHBUSml4VFc3ZWNDbHdGX1d0LTdMcnhPWWFQN2dXSGU4S3FaeTk2bEY1RlJXMTB6b1Rudkl6d0c1Zw?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "15:45",
+     "nummers": [
+      25
+     ]
     }
    ],
-   "geschreven": "13:01"
+   "geschreven": "19:00"
   },
   {
-   "titel": "Filip geeft De Wever uitstel",
-   "tekst": "Koning Filip gaf de Belgische premier De Wever opnieuw uitstel, nu een week, voor een begrotingsakkoord, en het paleis wil daarmee een aanslepende crisis vermijden (1). Die coalitie moet zeker 10 miljard euro bezuinigen om aan Europese regels te voldoen, maar is het sinds de zomer niet eens waarop (1). Tegen die bezuinigingen wordt al maanden gestaakt, en vandaag lag het vliegverkeer stil (12).",
+   "titel": "COA vangt toch jongeren op Heino",
+   "tekst": "Het COA gebruikt Summercamp Heino deze winter toch voor asielopvang, terwijl het eerder liet weten de locatie niet nodig te hebben (32, 35). Die opvang is voor alleenstaande minderjarige vreemdelingen van 15 tot 18 jaar (32). Het eerdere besluit rustte op de toenmalige landelijke prognose, waarin die opvang niet nodig was (35). Raalte en Olst-Wijhe hadden vastgelegd dat het COA de locatie mag gebruiken wanneer de situatie daarom vraagt (35).",
    "verwijzingen": [
     {
-     "titel": "Koning geeft premier De Wever weer week uitstel voor begrotingsakkoord België",
+     "titel": "Toch jonge asielzoekers naar Summercamp Heino deze winter",
+     "link": "https://www.oost.nl/nieuws/3722415/toch-jonge-asielzoekers-naar-summercamp-heino-deze-winter",
+     "bron": "RTV Oost",
+     "tijd": "17:01",
+     "nummers": [
+      32
+     ]
+    },
+    {
+     "titel": "Toch asielzoekers op Summercamp",
+     "link": "https://www.dalfsennet.nl/nieuws/557177/toch-asiel-zoekers-op-summercamp.html",
+     "bron": "DalfsenNet",
+     "tijd": "18:11",
+     "nummers": [
+      35
+     ]
+    }
+   ],
+   "geschreven": "19:00"
+  },
+  {
+   "titel": "De Wever stelt kerstdeadline",
+   "tekst": "De Belgische premier De Wever trekt de stekker uit zijn regering als er vóór 2027 geen begroting ligt, en daarmee staat het voortbestaan van zijn coalitie op het spel (4). Die deadline stelde hij nadat koning Filip hem opnieuw minstens een week uitstel gaf (4). Zonder akkoord kan de regering volgens De Wever de facto niet meer besturen (4). NRC vat het samen als een kerstakkoord of verkiezingen (24).",
+   "verwijzingen": [
+    {
+     "titel": "Premier België stelt deadline: vóór 2027 geen begroting is einde regering",
      "link": "https://nos.nl/l/2640698",
      "bron": "NOS",
      "tijd": "12:57",
      "nummers": [
-      1
+      4
      ]
     },
     {
-     "titel": "Flights grounded in Belgium due to strike against austerity measures",
-     "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "12:26",
+     "titel": "Wéér een ultimatum in de Belgische begrotingscrisis: een kerstakkoord of verkiezingen",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbVF4bzRJZkotajJDcUExeVNuc1FsUXNLNzl2N3pvdzMtVkNIOU5WSjZLVER0MFBfV29JM0FBUE9GSk1MQ2RUQUZMZ0hBc2lkU0FBQjd0WnoteHVDYWdJaTlpNWJsZjFCSXQwSzNGa1dIUEFwVjhCVUdGbVBoZjlQblJ5Yk1vd09wNWV1dzhZSXpVR25MUGpiSHVUSjkzb0FjREpqSDVkOTY5UE1DNGVWRldaYjB0NVlVUGNldkRyLVFyWlNTajQ4VXZ3?oc=5",
+     "bron": "NRC",
+     "tijd": "16:50",
      "nummers": [
-      12
+      24
      ]
     }
    ],
-   "geschreven": "13:01"
-  },
-  {
-   "titel": "Berendsen stuurt delegatie naar India",
-   "tekst": "Minister Berendsen stuurt deze week een delegatie naar India om de tien jaar geleden ontvoerde Insiya terug te krijgen, omdat India haar vader niet uitlevert (5). Die vader, Shehzad Hemani, kreeg in Nederland 8,5 jaar cel voor de ontvoering (5). Toch erkent India geen ontvoering als het kind bij een ouder woont, en het land is geen lid van het Haags Kinderontvoeringsverdrag (5). Haar moeder heeft Insiya sinds september 2016 niet meer gezien (5).",
-   "verwijzingen": [
-    {
-     "titel": "Nederland stuurt delegatie naar India om ontvoerde Insiya terug te krijgen",
-     "link": "https://nos.nl/l/2640677",
-     "bron": "NOS",
-     "tijd": "09:15",
-     "nummers": [
-      5
-     ]
-    },
-    {
-     "titel": "Insiya werd 10 jaar geleden als peuter naar India ontvoerd. Waarom grijpt de overheid daar niet in?",
-     "link": "https://www.volkskrant.nl/buitenland/insiya-werd-10-jaar-geleden-als-peuter-naar-india-ontvoerd-waarom-grijpt-de-overheid-daar-niet-in~bbd7fc96/",
-     "bron": "de Volkskrant",
-     "tijd": "12:30",
-     "nummers": [
-      7
-     ]
-    }
-   ],
-   "geschreven": "13:01"
+   "geschreven": "19:00"
   }
  ],
  "denkwerk": {
@@ -148,18 +157,32 @@
  },
  "verder": [
   {
-   "kop": "Enschedeërs vermoeden vaak drugs",
+   "kop": "Schot verwondt iemand in Deventer",
    "blok": "lokaal",
-   "link": "https://www.oost.nl/nieuws/3722146/ruim-de-helft-van-de-enschedeers-ziet-of-vermoedt-iets-verdachts-in-de-buurt",
+   "link": "https://www.oost.nl/nieuws/3722613/schietincident-in-deventer-gewonde-afgevoerd-naar-ziekenhuis",
    "bron": "RTV Oost",
-   "titel": "Ruim de helft van de Enschedeërs ziet of vermoedt iets verdachts in de buurt"
+   "titel": "Schietincident in Deventer: gewonde afgevoerd naar ziekenhuis"
   },
   {
-   "kop": "OM eist weer dertig jaar",
+   "kop": "Rechtbank spreekt drie mannen vrij",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3722506/mannen-uit-rijssen-en-nijverdal-vrijgesproken-van-ontvoering-jongen-16-op-camping",
+   "bron": "RTV Oost",
+   "titel": "Mannen uit Rijssen en Nijverdal vrijgesproken van ontvoering jongen (16) op camping"
+  },
+  {
+   "kop": "Inspectie grijpt in bij Erasmus-ic",
    "blok": "nationaal",
-   "link": "https://nos.nl/l/2640690",
+   "link": "https://nos.nl/l/2640739",
    "bron": "NOS",
-   "titel": "OM eist in hoger beroep weer 30 jaar cel en tbs tegen Erasmusschutter"
+   "titel": "Inspectie grijpt in bij ic Erasmus MC vanwege mogelijke risico's voor patiënten, Gommers stopt als afdelingshoofd"
+  },
+  {
+   "kop": "OM eist 22 jaar voor gifmoord",
+   "blok": "nationaal",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRkw1Z1hfTk5Oa2NxanE0Zzd1cE5BMVFsWjFWcTB5bHZ3c19PVGN3SGhsY0k1MlVYQ0duRGlScTVNclIwYzl5eWZ3VHQyZ2FweWNCakdDZXBleXhQcmlzaGJRTVFLR3BiU1hybzBtREJDMFk0eXJCREFqWDRRMEFHX0JmMzlpTjRTQjhLX3YwY1c2SHZY?oc=5",
+   "bron": "RTL.nl",
+   "titel": "Het moest op suïcide lijken, maar OM eist 22 jaar cel voor moord op partner"
   },
   {
    "kop": "Mail bedreigt 900 Duitse scholen",
@@ -167,27 +190,6 @@
    "link": "https://nos.nl/l/2640696",
    "bron": "NOS",
    "titel": "Bommelding bij honderden Duitse scholen, ook meldingen in Denemarken"
-  },
-  {
-   "kop": "Vrouw sterft bij brand Zuidlaren",
-   "blok": "nationaal",
-   "link": "https://nos.nl/l/2640692",
-   "bron": "NOS",
-   "titel": "Vrouw (90) overleden bij woningbrand in Zuidlaren"
-  },
-  {
-   "kop": "Rapport adviseert Duitse tol",
-   "blok": "lokaal",
-   "link": "https://www.oost.nl/nieuws/3722369/gaan-we-tol-betalen-op-de-autobahn-idee-ligt-in-duitsland-weer-op-tafel",
-   "bron": "RTV Oost",
-   "titel": "Gaan we tol betalen op de Autobahn? Idee ligt in Duitsland weer op tafel"
-  },
-  {
-   "kop": "Drones raken Russisch schip",
-   "blok": "internationaal",
-   "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "bron": "BBC",
-   "titel": "Russian warship hit by Ukrainian drones in Libya, Zelensky says"
   }
  ],
  "blokken": [
@@ -242,22 +244,22 @@
      "sorteer": "2026-11-23T12:24:16+01:00"
     },
     {
-     "titel": "Onveiligheid Straat van Hormuz neemt weer toe: in november al 25 schepen aangevallen",
+     "titel": "Andy Burnham verwerpt kritiek oud-premiers op ‘zijn’ Brexit-deal met Brussel",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/onveiligheid-straat-van-hormuz-neemt-weer-toe-in-november-al-25-schepen-aangevallen~bd79a37f/",
+     "link": "https://www.volkskrant.nl/buitenland/andy-burnham-verwerpt-kritiek-oud-premiers-op-zijn-brexit-deal-met-brussel~b26543fb/",
      "bron": "de Volkskrant",
-     "tijd": "17:04",
-     "sorteer": "2026-11-23T16:04:11+00:00"
+     "tijd": "18:47",
+     "sorteer": "2026-11-23T17:47:23+00:00"
     },
     {
-     "titel": "‘Het luchtalarm klonk als een gewond dier dat in een verlaten bos om hulp riep’",
+     "titel": "Israëlische explosieven hebben Gazastrook veranderd in ‘giftige woestenij’, concluderen onderzoekers",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/het-luchtalarm-klonk-als-een-gewond-dier-dat-in-een-verlaten-bos-om-hulp-riep~b8788814/",
+     "link": "https://www.volkskrant.nl/buitenland/israelische-explosieven-hebben-gazastrook-veranderd-in-giftige-woestenij-concluderen-onderzoekers~bcd9a16af/",
      "bron": "de Volkskrant",
-     "tijd": "16:56",
-     "sorteer": "2026-11-23T15:56:00+00:00"
+     "tijd": "17:58",
+     "sorteer": "2026-11-23T16:58:48+00:00"
     },
     {
      "titel": "Oekraïne heeft Russische schepen bij Libië aangevallen. Breidt de oorlog zich uit?",
@@ -269,113 +271,84 @@
      "sorteer": "2026-11-23T15:17:00+00:00"
     },
     {
-     "titel": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
-     "context": "The US president personally intervened to speak to members of Nvidia's board of directors.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "17:49",
-     "sorteer": "2026-11-23T16:49:51+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – UK politics live",
-     "context": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another vote In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and reindustrialisation commissioner. She said: Giving business the confidence to invest here, and create good jobs in our industrial heartlands. Crea",
+     "titel": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
+     "context": "US president praises Nvidia’s reinstatement of Jensen Huang as CEO, calling it ‘the correct and proper decision’ Nvidia shares surge 33% on Huang‘s return – business live Sign up to the Breaking News US email Nvidia ’s shares have surged by 31% at the start of trading following the news. The S+P 500 jumped 4.5% and is recovering nearly half of its brutal losses from last week, which was one of its",
      "rubrieken": [
-      "Politics",
-      "UK news",
-      "Andy Burnham",
-      "Europe",
-      "European Union",
-      "Brexit",
-      "Kemi Badenoch",
-      "Labour",
-      "Conservatives",
-      "Confederation of British Industry (CBI)",
-      "Quangos",
-      "Natural England",
-      "Louise Haigh",
-      "Privatisation",
-      "Nationalisation",
-      "Utilities",
-      "Business",
-      "Rishi Sunak",
-      "Nigel Farage",
-      "Northern Ireland",
-      "Northern Irish politics",
-      "European court of human rights",
-      "Environment",
-      "Ed Davey",
-      "Liberal Democrats",
-      "Human rights",
-      "Economic policy",
-      "Food",
-      "UK cost of living crisis"
+      "Trump administration",
+      "US politics",
+      "Donald Trump",
+      "US news",
+      "Democrats",
+      "Republicans",
+      "US Senate",
+      "US Congress",
+      "US midterm elections 2026"
      ],
-     "link": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
      "bron": "The Guardian",
-     "tijd": "17:44",
-     "sorteer": "2026-11-23T16:44:36+00:00",
+     "tijd": "18:54",
+     "sorteer": "2026-11-23T17:54:05+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Lib Dem leader claims he could negotiate EU single market access ‘within a year’",
-     "context": "Leader Ed Davey says deals struck on agrifood, energy and youth mobility at landmark summit are quite \"timid.\"",
+     "titel": "Don Toliver Concert in Manchester Is Evacuated Over ‘Unknown Substance’",
+     "context": "The American rapper was performing in Manchester on Sunday when people in the crowd began experiencing effects from the substance, prompting an emergency response.",
      "rubrieken": [
-      "Cooperation",
-      "Customs Union",
+      "Manchester (England)",
+      "Evacuations and Evacuees",
+      "Toliver, Don",
+      "Rap and Hip-Hop"
+     ],
+     "link": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
+     "bron": "New York Times",
+     "tijd": "18:50",
+     "sorteer": "2026-11-23T17:50:10+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Rejoining EU without referendum is ‘unthinkable,’ says Andy Burnham",
+     "context": "The prime minister also accused his critics of being “stuck in the past” by refusing to reopen the Brexit debate.",
+     "rubrieken": [
+      "Brexit",
       "Negotiations",
-      "Single Market",
-      "Trade",
-      "Youth",
+      "Parliament",
+      "Referendum",
+      "Energy and Climate UK",
       "EU-UK",
+      "Financial Services UK",
+      "Politics",
+      "Technology UK",
+      "Trade",
       "Trade UK"
      ],
-     "link": "https://www.politico.eu/article/lib-dem-leader-ed-davey-claims-he-could-negotiate-eu-single-market-access-within-a-year/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "link": "https://www.politico.eu/article/rejoining-eu-without-referendum-unthinkable-andy-burnham/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
      "bron": "Politico Europe",
-     "tijd": "17:35",
-     "sorteer": "2026-11-23T16:35:36+00:00",
+     "tijd": "18:26",
+     "sorteer": "2026-11-23T17:26:34+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "COP31 Climate Talks Broke Down. Now What?",
-     "context": "With big diplomatic efforts faltering, smaller pacts, local leaders and booming clean energy take center stage.",
-     "rubrieken": [
-      "United Nations Framework Convention on Climate Change",
-      "Global Warming",
-      "Greenhouse Gas Emissions",
-      "Antalya (Turkey)",
-      "United Nations",
-      "COP31",
-      "Alternative and Renewable Energy",
-      "Developing Countries",
-      "Oil (Petroleum) and Gasoline",
-      "Regulation and Deregulation of Industry",
-      "United States Politics and Government",
-      "Trump, Donald J",
-      "Hoekstra, Wopke",
-      "Saudi Arabia",
-      "Russia",
-      "European Union"
-     ],
-     "link": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
-     "bron": "New York Times",
-     "tijd": "17:18",
-     "sorteer": "2026-11-23T16:18:49+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "The rise and fall and rise again of Jensen Huang",
-     "context": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
+     "titel": "What failure of COP31 reveals about a divided world",
+     "context": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
      "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+     "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "16:49",
-     "sorteer": "2026-11-23T15:49:52+00:00",
+     "tijd": "18:24",
+     "sorteer": "2026-11-23T17:24:25+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+     "context": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "18:14",
+     "sorteer": "2026-11-23T17:14:50+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -450,13 +423,20 @@
      "sorteer": "2026-11-23T16:40:06+00:00"
     },
     {
-     "titel": "De kinderen uit frontstad Otsjakiv kunnen op de Utrechtse Heuvelrug weer even kind zijn",
+     "titel": "We moeten nu gaan oefenen, is de boodschap op de eerste nationale weerbaarheids-top",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/de-kinderen-uit-frontstad-otsjakiv-kunnen-op-de-utrechtse-heuvelrug-weer-even-kind-zijn~ba68f820/",
+     "link": "https://www.trouw.nl/binnenland/we-moeten-nu-gaan-oefenen-is-de-boodschap-op-de-eerste-nationale-weerbaarheids-top~bb09a3df/",
      "bron": "Trouw",
-     "tijd": "15:01",
-     "sorteer": "2026-11-23T14:01:00+00:00"
+     "tijd": "18:23",
+     "sorteer": "2026-11-23T17:23:00+00:00"
+    },
+    {
+     "titel": "Vrouw verdacht van vergiftigen echtgenoot, probeerde het te laten lijken op zelfdoding. In de rechtszaal zwijgt ze",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcE1MT3c5SF90WW9pSkFIOTg4VFl5SWJGMVNLZjZWbFhXeWxncmZCX1pfVXY1Ql9JUzVWM0FjLVpXc3FRT1dtNm5HR0o5eThNLWZOdjNpZE5rV2JPdk1ud1pxcWFjLW5CTC1SN29DcWx1cEFSQ3kzSXZETUpkTW5wNkdXd0ltRFBVeVZOZ2t2TVh5UHJOLXNXSExaMzQ4WGJNX0NoZXhwcFZlT3JPRENKeXVyZWRMQlBFMEtOall5dTNXME1aOHhqa2dzR2xnOUtsSXp3cHhiWTNwVDBmLUJmQy1CWWZIaDY1dmxJaWRXSQ?oc=5",
+     "bron": "NRC",
+     "tijd": "18:56",
+     "sorteer": "2026-11-23T17:56:43+00:00"
     },
     {
      "titel": "Het moest op suïcide lijken, maar OM eist 22 jaar cel voor moord op partner",
@@ -478,13 +458,6 @@
      "bron": "De Gelderlander",
      "tijd": "17:25",
      "sorteer": "2026-11-23T16:25:06+00:00"
-    },
-    {
-     "titel": "Kabinet wil wolfvrije zones en mogelijk meer ruimte voor afschot, experts kritisch over juridisch draagvlak",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdzRWMV91a2lkT2s2NWhDcjZqTkJvZmZCS1ZYQ3hxcmlBY2x0WWQyYVBzRndrdExSR21FZGtCQmUtVFdPVTJ0d2hQM1dTdXM0YkFNdDkwREhpU1VQczhSN0pGbEVTenVtUzdKakZGNzdYV2dhYUZ3dFo2ZWFLYjlTX0c3d0pTRkpYTnFyMEVrWkplanpYekJkQ3FjR2pqQ1NRampoZ1BsTUw3N21ZQW9VNnE3NWlUM0RacUpva19BU2puYzVxVUpWQ2MydDhTalptdUpuNm1WS0d2U1ZNZl9Sb2xfZDZmalk?oc=5",
-     "bron": "NRC",
-     "tijd": "17:39",
-     "sorteer": "2026-11-23T16:39:10+00:00"
     },
     {
      "titel": "Wat hebben de twee grote taboes van onze tijd, seks en spiritualiteit, gemeen? Dat onderzoekt deze razendslimme roman",
@@ -525,17 +498,6 @@
      "kop": "Begroting"
     },
     {
-     "titel": "Partij voor de Dieren is trots op ‘groener’ belastingplan",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/politiek/partij-voor-de-dieren-is-trots-op-groener-belastingplan~bf2bc0a6/",
-     "bron": "Trouw",
-     "tijd": "18:40",
-     "sorteer": "2026-11-22T17:40:00+00:00",
-     "kop": "Begroting",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
      "titel": "Eva",
      "link": "https://npo.nl/start/serie/eva",
      "kop": "Vanavond op tv",
@@ -554,8 +516,8 @@
      "kop": "Vanavond op tv"
     },
     {
-     "titel": "Pauw & De Wit",
-     "link": "https://npo.nl/start/serie/pauw-de-wit",
+     "titel": "Pauw & De Wit: René en Wendy Kops, Twan Huys, Henk Vermeer & Garrie van Pinxteren",
+     "link": "https://www.bnnvara.nl/pauw-de-wit/artikelen/maandagavond-met-oa-rene-en-wendy-kops-twan-huys-henk-vermeer-garrie-van-pinxteren",
      "kop": "Vanavond op tv",
      "bron": "NPO1 · 22:40",
      "tijd": "22:40",
@@ -569,13 +531,40 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Rijssenaren en Nijverdaller vrijgesproken van ontvoering tiener op Markelose camping",
+     "titel": "De Universiteit Twente begon als experiment: samen wonen en studeren",
+     "context": "Studeren, wonen, sporten en ontspannen op één plek. Toen de Universiteit Twente in de jaren zestig haar eerste studenten verwelkomde, was het idee dat studenten en docenten samen een gemeenschap zouden vormen. Dat bijzondere experiment verliep niet zoals bedacht.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3714662/de-universiteit-twente-begon-als-experiment-samen-wonen-en-studeren",
+     "bron": "RTV Oost",
+     "tijd": "18:03",
+     "sorteer": "2026-11-23T17:03:00+00:00"
+    },
+    {
+     "titel": "Mannen uit Rijssen en Nijverdal vrijgesproken van ontvoering jongen (16) op camping",
      "context": "Een 16-jarige jongen zegt dat hij in Nijverdal wordt ontvoerd, mishandeld en vervolgens urenlang wordt vastgehouden op een camping in Markelo. Maar de zaak krijgt vandaag een wending: de rechtbank spreekt drie Twentse mannen die voor deze ontvoering terechtstaan volledig vrij.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3722506/rijssenaren-en-nijverdaller-vrijgesproken-van-ontvoering-tiener-op-markelose-camping",
+     "link": "https://www.oost.nl/nieuws/3722506/mannen-uit-rijssen-en-nijverdal-vrijgesproken-van-ontvoering-jongen-16-op-camping",
      "bron": "RTV Oost",
      "tijd": "17:32",
      "sorteer": "2026-11-23T16:32:08+00:00"
+    },
+    {
+     "titel": "Schietincident in Deventer: gewonde afgevoerd naar ziekenhuis",
+     "context": "In Deventer is vanmiddag iemand gewond geraakt na een schietincident. De gewonde is vervolgens met de ambulance naar het ziekenhuis vervoerd. De melding kwam binnen op de Ceintuurbaan, maar er wordt onderzocht waar het incident exact heeft plaatsgevonden.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3722613/schietincident-in-deventer-gewonde-afgevoerd-naar-ziekenhuis",
+     "bron": "RTV Oost",
+     "tijd": "17:26",
+     "sorteer": "2026-11-23T16:26:00+00:00"
+    },
+    {
+     "titel": "Toch jonge asielzoekers naar Summercamp Heino deze winter",
+     "context": "De asielopvang bij Summercamp Heino wordt aankomende winter toch gebruikt. Dat heeft het Centraal Orgaan opvang asielzoekers (COA) bevestigd aan de gemeenten Raalte en Olst-Wijhe. Het gaat om de opvang van alleenstaande minderjarige vreemdelingen tussen de 15 en 18 jaar.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3722415/toch-jonge-asielzoekers-naar-summercamp-heino-deze-winter",
+     "bron": "RTV Oost",
+     "tijd": "17:01",
+     "sorteer": "2026-11-23T16:01:12+00:00"
     },
     {
      "titel": "Bioloog waarschuwt voor dodelijke paddenstoel die groeit in Zwolle",
@@ -598,31 +587,17 @@
      "sorteer": "2026-11-23T14:07:55+00:00"
     },
     {
-     "titel": "Ouders spelen voor chauffeur tijdens ov-staking: 'Hele familie ingeschakeld'",
-     "context": "Bij het busstation tegenover het Deltion College stoppen normaal gesproken om de paar minuten bussen vol studenten. Door de stakingen in het streekvervoer zetten ouders hun kind daar nu zelf af.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3721828/ouders-spelen-voor-chauffeur-tijdens-ov-staking-hele-familie-ingeschakeld",
-     "bron": "RTV Oost",
-     "tijd": "14:46",
-     "sorteer": "2026-11-23T13:46:04+00:00"
-    },
-    {
-     "titel": "Meer maatregelen tegen probleemwolf mogelijk; wolvenpopulatie is 'genetisch gezond'",
-     "context": "De wolvenpopulatie in Nederland is gezond, waardoor wolven die gevaarlijk zijn voor vee, huisdieren en mensen zonder nadelige gevolgen verjaagd of afgeschoten kunnen worden. Dit heeft staatssecretaris Silvio Erkens bepaald. Hij wil het aantal incidenten rond 'probleemwolven' terugdringen.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3722442/meer-maatregelen-tegen-probleemwolf-mogelijk-wolvenpopulatie-is-genetisch-gezond",
-     "bron": "RTV Oost",
-     "tijd": "14:29",
-     "sorteer": "2026-11-23T13:29:42+00:00"
-    },
-    {
-     "titel": "Deventenaar dreigt woning te verliezen na drugsvondst van 2,5 miljoen euro",
-     "context": "In een woning en berging van een man uit Deventer is in juni volgens woningstichting Ieder1 voor honderd kilo aan harddrugs aangetroffen. Meer dan voldoende om te eisen dat de man de woning verlaat, zo betoogt de corporatie maandag in een kort geding.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3722405/deventenaar-dreigt-woning-te-verliezen-na-drugsvondst-van-2-5-miljoen-euro",
-     "bron": "RTV Oost",
-     "tijd": "12:57",
-     "sorteer": "2026-11-23T11:57:28+00:00"
+     "titel": "Toch asielzoekers op Summercamp",
+     "context": "HEINO – Raalte en Olst-Wijhe hebben vastgelegd dat het COA Summercamp Heino kan gebruiken wanneer de situatie daarom vraagt. Eerder liet het COA weten aankomende winter geen gebruik te zullen maken van de locatie. Op basis van de toenmalige landelijke prognose was opvang voor deze doelgroep niet noodzakelijk. Lees er hier meer over",
+     "rubrieken": [
+      "Heino",
+      "Ingezonden bericht",
+      "Laatste nieuws"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/557177/toch-asiel-zoekers-op-summercamp.html",
+     "bron": "DalfsenNet",
+     "tijd": "18:11",
+     "sorteer": "2026-11-23T17:11:47+00:00"
     },
     {
      "titel": "Provincie kiest voor structureel geld voor landschapsfondsen",
@@ -637,19 +612,6 @@
      "bron": "DalfsenNet",
      "tijd": "17:57",
      "sorteer": "2026-11-23T16:57:59+00:00"
-    },
-    {
-     "titel": "Een nieuw overlijdensbericht",
-     "context": "NIEUWLEUSEN – Er is vanmiddag een nieuw overlijdensbericht geplaatst op DalfsenNet.nl Mogelijk gaat dit om een goede bekende van u. Klik hier om het bericht te lezen",
-     "rubrieken": [
-      "Ingezonden bericht",
-      "Laatste nieuws",
-      "Nieuwleusen"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/557172/een-nieuw-overlijdensbericht-23.html",
-     "bron": "DalfsenNet",
-     "tijd": "17:25",
-     "sorteer": "2026-11-23T16:25:14+00:00"
     }
    ]
   },
@@ -747,6 +709,13 @@
      "bron": "Gathering of Tweakers",
      "tijd": "16:09",
      "sorteer": "2026-11-23T15:09:00+00:00"
+    },
+    {
+     "titel": "AEX schiet omhoog door optimisme over AI na Nvidia-nieuws",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSWtvaWxTbXZxbHRCanZNN1hTWTRlQ2pwOU40dmhJNGZUcU5QWi1wM0tRUUY2YVpUNFk3cUJnYTl6aHRxdENEMzMyOFpwRlJ0UWFSZmdxcFNIcjh4Z2VKZ1hidEVjREZaWE01ZFVBb1d1WFQtSS1qWVZERy1tbHp0UzJTelVXZHByVjdB?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "15:35",
+     "sorteer": "2026-11-23T14:35:13+00:00"
     }
    ]
   },
@@ -867,7 +836,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "18:00",
+    "bijgewerkt": "19:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1276,20 +1245,20 @@
      "link": "https://scientias.nl/bij-het-diepste-punt-van-de-oceaan-vond-een-robot-ook-de-diepste-vulkaanexplosie-ooit/"
     },
     {
-     "titel": "Colombia president’s move on mining, oil weakens country’s Amazon protections, experts warn",
-     "toelichting": "After repealing a measure that banned large-scale mining and hydrocarbon extraction in the Amazon, the Colombian government is sending mixed signals, organizations and experts warn.",
+     "titel": "In South Africa’s Limpopo, residents wonder what the next flood will bring",
+     "toelichting": "“Everyone needs to understand their responsibilities before an emergency occurs.” This is the view of Hope Magidimisha, a national planning commissioner in the Office of the Presidency, South Africa. She said the January",
      "bron": "Mongabay (Engels)",
-     "tijd": "15:19",
-     "link": "https://news.mongabay.com/2026/11/colombia-presidents-move-on-mining-oil-weakens-countrys-amazon-protections-experts-warn/",
-     "sorteer": "2026-11-23T14:19:44+00:00"
+     "tijd": "18:51",
+     "link": "https://news.mongabay.com/2026/11/in-south-africas-limpopo-residents-wonder-what-the-next-flood-will-bring/",
+     "sorteer": "2026-11-23T17:51:59+00:00"
     },
     {
-     "titel": "‘We had to reinvent the system completely,’ Brazilian philanthropy leader says",
-     "toelichting": "In November 2025, Indigenous and Afro-descendent peoples, frontline defenders and civil society movements mobilized in unprecedented numbers in Belém, Brazil, to advocate for their demands at the 30th U.N. Climate Change",
+     "titel": "Analysis: The collapse of UN climate talks, over fossil fuels, was years in the making",
+     "toelichting": "NEW YORK (AP) — Going into this year’s U.N. climate talks in Turkey, expectations were notably low. Still, the outcome was even worse than expected—a failure to reach an overall agreement at a time of frequent extreme we",
      "bron": "Mongabay (Engels)",
-     "tijd": "13:50",
-     "link": "https://news.mongabay.com/2026/11/we-had-to-reinvent-the-system-completely-brazilian-philanthropy-leader-says/",
-     "sorteer": "2026-11-23T12:50:10+00:00"
+     "tijd": "18:34",
+     "link": "https://news.mongabay.com/short-article/2026/11/analysis-the-collapse-of-un-climate-talks-over-fossil-fuels-was-years-in-the-making/",
+     "sorteer": "2026-11-23T17:34:45+00:00"
     }
    ]
   },
@@ -1437,7 +1406,7 @@
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 208 vogels; 264 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 208 vogels; 267 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1467,28 +1436,28 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 1.6,
-    "gevoel": -0.1,
-    "wind": "ZW 1",
+    "nu": 1.8,
+    "gevoel": -1.0,
+    "wind": "ZW 2",
     "station": "Heino",
     "bericht": "Het blijft deze hele week zonnig en koud winterweer. In de nachten gaat het licht tot matig vriezen, overdag is het zonnig en droog. De middagtemperaturen liggen een paar graden boven het vriespunt en dat is koud voor de laatste fase van november.",
     "vandaag": "Vanavond is het helder, maar in het noorden zijn er wat wolkenvelden en kan er een enkele (winterse) bui voorkomen. Vannacht kan vooral in het noorden nog een enkele (winterse) bui vallen.",
     "temperatuur": "De middagtemperaturen liggen een paar graden boven het vriespunt en dat is koud voor de laatste fase van november.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -3 tot 6 graden, 10% kans op neerslag, ruim 7 uur zon, wind uit het zuidwesten, kracht 2.",
+     "zin": "Voor Dalfsen zelf: -3 tot 6 graden, 10% kans op neerslag, ruim 7 uur zon, wind uit het westen, kracht 3.",
      "max": 6,
      "min": -3,
      "regenkans": 10,
-     "omschrijving": "bewolkt",
+     "omschrijving": "lichte motregen",
      "morgen": {
       "max": 2,
-      "min": -2,
+      "min": -4,
       "regenkans": 1,
       "omschrijving": null
      }
     },
     "vooruit": "Perioden met zon en vrijwel overal droog. Vrij koud met in de nacht en ochtend overwegend lichte vorst en ook overdag steeds lagere temperaturen. In de loop van het weekeinde mogelijk wat neerslag en misschien wat zachter.",
-    "omslag": "Nachtvorst in aantocht: morgen tot -4 graden.",
+    "omslag": "Nachtvorst in aantocht: morgen tot -3 graden.",
     "min": "-3",
     "max": "5",
     "regenkans": 0,
@@ -1496,7 +1465,7 @@
     "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
     "morgen": {
      "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
-     "min": "-4",
+     "min": "-3",
      "max": "3",
      "regenkans": 0
     }
