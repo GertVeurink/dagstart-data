@@ -7,10 +7,11 @@
   "blokken": 10,
   "berichten": 83,
   "problemen": [],
-  "audio_herkomst": null
+  "audio_herkomst": "vangnet",
+  "audio_aangehaakt": "06:05"
  },
  "opgehaald": "2026-11-23T05:55+01:00",
- "audio": null,
+ "audio": "audio/20261123.mp3",
  "afval": [
   {
    "datum": "2026-11-27",
@@ -1296,5 +1297,15 @@
     }
    }
   }
+ ],
+ "archief": [
+  "2026-11-23",
+  "2026-11-22",
+  "2026-11-21",
+  "2026-11-20",
+  "2026-11-19",
+  "2026-11-18",
+  "2026-11-17",
+  "2026-11-16"
  ]
 }
