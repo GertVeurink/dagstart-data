@@ -3,13 +3,15 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "21:00",
+  "opgehaald": "22:00",
   "blokken": 11,
-  "berichten": 87,
-  "problemen": [],
+  "berichten": 86,
+  "problemen": [
+   "google '\"minister van Justitie\" OR \"Ju': HTTP 429"
+  ],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-11-23T21:00+01:00",
+ "opgehaald": "2026-11-23T22:00+01:00",
  "audio": "audio/20261123.mp3",
  "afval": [
   {
@@ -199,6 +201,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Russische ambassade in Den Haag vraagt om opheldering betrokkenheid Destinus-personeel",
+     "context": "De Russische ambassade in Den Haag heeft officieel verhaal gehaald bij het ministerie van Buitenlandse Zaken over het in Nederland gevestigde defensiebedrijf Destinus. De ambassade heeft om opheldering gevraagd over \"de mogelijke betrokkenheid van personeel van het in Hengelo gevestigde bedrijf Destinus bij de aanslagen op de Russische Federatie\", laat de ambassade weten op X. Vorige week kwam de ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640770",
+     "bron": "NOS",
+     "tijd": "21:43",
+     "sorteer": "2026-11-23T21:43:53+01:00"
+    },
+    {
      "titel": "Milieuramp in Straat van Hormuz: 'Effecten olievervuiling over veertig jaar nog zichtbaar'",
      "context": "De oorlog tussen de Verenigde Staten en Iran eist niet alleen een zware menselijke en economische tol, maar veroorzaakt ook een groeiende milieuramp. Satellietbeelden laten honderden olievervuilingen zien in de Straat van Hormuz en de Perzische Golf. Terwijl betrokken landen dit stilhouden, waarschuwen internationale wetenschappers dat de schade aan kwetsbare ecosystemen nog tientallen jaren zicht",
      "rubrieken": [],
@@ -235,22 +246,13 @@
      "sorteer": "2026-11-23T16:06:53+01:00"
     },
     {
-     "titel": "Camera's met gezichtsherkenning in Hongkong: 'Ernstige bedreiging voor de vrijheid'",
-     "context": "Een bewakingscamera op iedere hoek van een straat: in de rest van China was dat al langer normaal, maar ook de speciale regio Hongkong hangt steeds meer vol met bewakingscamera's. En sinds vorige week zijn ze ook daar uitgerust met een AI-systeem dat gezichten kan herkennen. Toen het Verenigd Koninkrijk Hongkong in 1997 overdroeg aan China, beloofde China dat de stadsregio zijn eigen democratische",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640721",
-     "bron": "NOS",
-     "tijd": "16:01",
-     "sorteer": "2026-11-23T16:01:40+01:00"
-    },
-    {
-     "titel": "Waarheidscommissie: veel meer doden in Filipijnse oorlog tegen drugs dan bekend",
+     "titel": "Gisèle Pelicot diep geschokt over naaktfoto’s die uitgever meestuurt bij een boek over haar verkrachting",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/waarheidscommissie-veel-meer-doden-in-filipijnse-oorlog-tegen-drugs-dan-bekend~bca205e2/",
+     "link": "https://www.volkskrant.nl/buitenland/gisele-pelicot-diep-geschokt-over-naaktfoto-s-die-uitgever-meestuurt-bij-een-boek-over-haar-verkrachting~bb2ebd38/",
      "bron": "de Volkskrant",
-     "tijd": "19:07",
-     "sorteer": "2026-11-23T18:07:00+00:00"
+     "tijd": "21:31",
+     "sorteer": "2026-11-23T20:31:24+00:00"
     },
     {
      "titel": "EU-landen maken zich op voor keihard gevecht over gigabegroting",
@@ -269,22 +271,56 @@
      "sorteer": "2026-11-23T19:01:11+00:00"
     },
     {
-     "titel": "Australian politics live: Penny Wong to defend US alliance; Coalition condemns Vanuatu deal",
-     "context": "Get our breaking news email , free app or daily news podcast The Coalition has come out against a security agreement with Vanuatu because of objections to “binding conditions relating to the achievement of renewable energy and climate targets”. In June, prime minister, Anthony Albanese , and his Vanuatu counterpart, Jotham Napat , signed the Nakamal agreement in Canberra that rules out the use of ",
+     "titel": "What strike on Russian ship in Libya says about spread of Ukraine war",
+     "context": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "21:48",
+     "sorteer": "2026-11-23T20:48:35+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Australian politics live: Penny Wong to defend US alliance; rental affordability plummets to 14-year low",
+     "context": "Get our breaking news email , free app or daily news podcast Nvidia stock market reaction shows global market ‘volatile’, says Chalmers The treasurer, Jim Chalmers , also doesn’t want to make any personal judgements on Jensen Huang or the decision to reinstate him, but he says the reaction does show just how volatile the market is. You can see in the quite extraordinary reaction on the stock marke",
      "rubrieken": [
-      "Australia news",
       "Australian politics",
+      "Australia news",
       "Australian economy",
       "Business",
       "Health",
       "Australian education",
       "Australian immigration and asylum",
-      "Australian foreign policy"
+      "Australian foreign policy",
+      "Labor party"
      ],
      "link": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
      "bron": "The Guardian",
-     "tijd": "20:51",
-     "sorteer": "2026-11-23T19:51:55+00:00",
+     "tijd": "21:43",
+     "sorteer": "2026-11-23T20:43:32+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "The Return of Jensen Huang",
+     "context": "The Nvidia C.E.O. is back, President Trump is celebrating and markets are rallying.",
+     "rubrieken": [
+      "internal-open-access-from-nl",
+      "Huang, Jen-Hsun",
+      "NVIDIA Corporation",
+      "Computer Chips",
+      "China",
+      "Espionage and Intelligence Services",
+      "Trump, Donald J",
+      "Stocks and Bonds",
+      "Artificial Intelligence",
+      "Ukraine"
+     ],
+     "link": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
+     "bron": "New York Times",
+     "tijd": "21:39",
+     "sorteer": "2026-11-23T20:39:04+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -332,24 +368,6 @@
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Deadly Fire Rips Through Candy Factory in Indonesia",
-     "context": "Hundreds of people were at the compound when a blaze broke out on Saturday and then raged for hours.",
-     "rubrieken": [
-      "Fires and Firefighters",
-      "Factories and Manufacturing",
-      "Workplace Hazards and Violations",
-      "Deaths (Fatalities)",
-      "Candy",
-      "Indonesia"
-     ],
-     "link": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
-     "bron": "New York Times",
-     "tijd": "20:38",
-     "sorteer": "2026-11-23T19:38:00+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
      "titel": "Iranian authorities flog singer who performed without hijab, lawyers say",
      "context": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
      "rubrieken": [],
@@ -357,17 +375,6 @@
      "bron": "BBC",
      "tijd": "19:04",
      "sorteer": "2026-11-23T18:04:20+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "What failure of COP31 reveals about a divided world",
-     "context": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "18:24",
-     "sorteer": "2026-11-23T17:24:25+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -378,6 +385,24 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Mislukte klimaattop maakt milieustudenten juist strijdbaar: 'Motivatie om door te gaan'",
+     "context": "Docent milieurecht Esther de Jong heeft haar les gisteravond helemaal omgegooid, vertelt ze de dag na de mislukte klimaattop . Voor de meeste mensen werkt zoiets demotiverend, maar dat geldt niet voor haar studenten, vertellen ze. \"Het vlammende betoog dat de Panamese milieuminister eerder tijdens de top hield, greep me enorm aan\", zegt de hbo-docent. De minister sprak over de negatieve gevolgen v",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640769",
+     "bron": "NOS",
+     "tijd": "21:37",
+     "sorteer": "2026-11-23T21:37:21+01:00"
+    },
+    {
+     "titel": "Kabinet wil wolven afschieten, maar experts kritisch: 'Onderbouwing ontbreekt'",
+     "context": "Het afschieten van de wolf in Nederland wordt mogelijk, zegt staatssecretaris Silvio Erkens (VVD) van Landbouw, Visserij, Voedselzekerheid en Natuur vandaag in een brief aan de Tweede Kamer. Tot dat principebesluit komt hij op basis van Italiaans onderzoek naar de Nederlandse wolvenpopulatie. Deskundigen verbazen zich over de plannen van Erkens en zijn kritisch op de studie, die de Italiaanse onde",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640767",
+     "bron": "NOS",
+     "tijd": "21:09",
+     "sorteer": "2026-11-23T21:09:36+01:00"
+    },
     {
      "titel": "OM eist 22 jaar cel tegen vrouw (27) die wordt verdacht van vermoorden partner",
      "context": "Het Openbaar Ministerie heeft 22 jaar celstraf geëist tegen de 27-jarige Esmée D. uit Assen. Zij wordt verdacht van de moord op haar vriend Ruben, begin vorig jaar. Ze zou hem volgens de officier van justitie hebben vergiftigd met een overdosis MDMA en slaappillen. Ook schreef ze daarna zelf een afscheidsbrief op zijn telefoon om het te laten lijken op zelfdoding, stelt justitie. Het slachtoffer w",
@@ -397,70 +422,31 @@
      "sorteer": "2026-11-23T19:45:24+01:00"
     },
     {
-     "titel": "Schrik en ongeloof na op hol geslagen roltrap: 'Het leek wel een horrorfilm'",
-     "context": "Een op hol geslagen roltrap op station Bijlmer Arena in Amsterdam-Zuidoost leidde gisteren tot gewonden en flinke schrik bij medewerkers en reizigers. Acht mensen raakten daarbij gewond, van wie twee zwaargewond. De stilstaande roltrap ging opeens op hoge snelheid naar beneden, waardoor mensen achterover en over elkaar heen vielen. \"Ik durfde niet te kijken, ik was bang dat er misschien kleine kin",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640754",
-     "bron": "NOS",
-     "tijd": "19:43",
-     "sorteer": "2026-11-23T19:43:35+01:00"
-    },
-    {
-     "titel": "Na Gerard Joling ook René Froger weg als Topper, Tino Martin en Mart Hoogkamer volgen hen op",
-     "context": "René Froger neemt na ruim twintig jaar afscheid als Topper. De 66-jarige zanger zwaait na de concertreeks van volgend jaar af als lid van de zangformatie. Gerard Joling maakte vorige maand al bekend na ruim twintig jaar te stoppen als Topper. Als reden noemde hij dat hij zich meer wil richten op zijn eigen concerten en televisiewerk. De volkszangers Mart Hoogkamer (28) en Tino Martin (42) worden d",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640747",
-     "bron": "NOS",
-     "tijd": "19:08",
-     "sorteer": "2026-11-23T19:08:34+01:00"
-    },
-    {
-     "titel": "Inspectie grijpt in bij ic Erasmus MC vanwege mogelijke risico's voor patiënten, Gommers stopt als afdelingshoofd",
-     "context": "Op de intensive care van het Erasmus Medisch Centrum in Rotterdam is sprake van een situatie \"die een ernstige bedreiging voor de veiligheid van patiënten of de zorg kan betekenen\". Dat concludeert de Inspectie Gezondheidszorg en Jeugd (IGJ) in een onderzoek naar de werkcultuur op de grootste ic van Nederland, die onder leiding staat van Diederik Gommers. Het rapport is in handen van NOS/Nieuwsuur",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640739",
-     "bron": "NOS",
-     "tijd": "17:51",
-     "sorteer": "2026-11-23T17:51:32+01:00"
-    },
-    {
-     "titel": "Diederik Gommers stapt op als afdelingshoofd in Erasmus MC vanwege rapport over werkcultuur",
+     "titel": "Diederik Gommers stapt per direct op als afdelingshoofd na kritisch rapport over werkcultuur op ic Erasmus MC",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/diederik-gommers-stapt-op-als-afdelingshoofd-in-erasmus-mc-vanwege-rapport-over-werkcultuur~b0f6d1be/",
+     "link": "https://www.volkskrant.nl/binnenland/diederik-gommers-stapt-per-direct-op-als-afdelingshoofd-na-kritisch-rapport-over-werkcultuur-op-ic-erasmus-mc~b0f6d1be/",
      "bron": "de Volkskrant",
      "tijd": "19:13",
-     "sorteer": "2026-11-23T18:13:48+00:00"
+     "sorteer": "2026-11-23T18:13:00+00:00"
     },
     {
-     "titel": "Voor de stakers in het streekvervoer is het menens: ‘Genoeg is genoeg’",
+     "titel": "Voor de stakers in het streekvervoer is het menens: ‘Na drie dagen werken lig je gewoon dood in de hoek’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/voor-de-stakers-in-het-streekvervoer-is-het-menens-genoeg-is-genoeg~b26c8ff9/",
+     "link": "https://www.volkskrant.nl/binnenland/voor-de-stakers-in-het-streekvervoer-is-het-menens-na-drie-dagen-werken-lig-je-gewoon-dood-in-de-hoek~b26c8ff9/",
      "bron": "de Volkskrant",
      "tijd": "19:09",
      "sorteer": "2026-11-23T18:09:00+00:00"
     },
     {
-     "titel": "Bekladder die rechtbank bekladde met pedoteksten: ‘Ik ben geen graffiti-artiest, maar zoek eerherstel’",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM1l3NWRlUU5FYkpTYmd1bFh3ZG8xTWR3cTlSbE9LT3NxNTN2RU54UFVaQ2VIVzR2NDNma0RTRGRNUGFLTHVYelVleURNVEFabGV4aVlab01seVJURDRIdEpjWlV4SlNNaGJLT2ZpZEFxWmxQeklTVlRpZ0dlUlJUVWNGckVpaEs2ZGJGNXlXbE01ZHM2U25nMlcyeXB1XzkxMW9TcFpVeGczMFR2XzFHeG84Q1J2azBUaG11dEE1MlBGZnJCYkZTQWp5aGJpT3FMQ3c?oc=5",
-     "bron": "AD.nl",
-     "tijd": "20:01",
-     "sorteer": "2026-11-23T19:01:12+00:00"
-    },
-    {
-     "titel": "Lancering Russisch ruimtekernwapen zou ongekende stap zijn met grote gevolgen",
-     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWmxQZy1nR0c3TE94R0FKb3hnbmxLaDdiY0lGZUdCX2NwRmRnQlJDRFo2a0F6Y0Nzd1czSmg0THF3QU1vV25FZ1NDSlNqNFo2alZ2cFNQeXpGWUg4WENRMHRiYUJGQVNGcmRhWXB5dk55Qlg0YWI3TzJtYWlzZUNwVW1PdVByU3VBX1dBTUpNMHZTdnh6aDJZMGpnQ1NNYWlyZGh2ZXpXQ0R5ZTZBVjFBeGYzZnBjcXFBMGdadkFaMW12dHhaNGFqNWxBYjZYRFdqSFBFWFd2ZXVZNGFzNFdqMmRLOVNWY0R1Sy1QR1pRZ2RMUVpEbWgtUEY4N3h2dnZTRkoycVBn?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "19:53",
-     "sorteer": "2026-11-23T18:53:24+00:00"
-    },
-    {
-     "titel": "‘Dát is absoluut een historische doorbraak in het asielbeleid’",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNanR1U05KUzQtbm02RTFpdzc5ZUlISTNMeUFmNTMxQTVINlZ3Ul9PTWMyMXQtN295ZmNuamZoanNuUEhaYzhlRVhZMGhGRFhQX21WWTlid0JfZ1hka05fT2w1WEFIb2VGaHhxMXRUYzVKS3JvV0pFZmRiQkRBRnBIN0kxQVVhMzNLdmhiZG1fVzNZblVLVk1rZlVoN25Hd1lhTFJkMjNvdzYwQQ?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "19:37",
-     "sorteer": "2026-11-23T18:37:17+00:00"
+     "titel": "Inspectie grijpt in bij Erasmus MC vanwege ‘kwetsbare’ werkcultuur, Diederik Gommers vertrekt",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.trouw.nl/binnenland/inspectie-grijpt-in-bij-erasmus-mc-vanwege-kwetsbare-werkcultuur-diederik-gommers-vertrekt~b90f83b2/",
+     "bron": "Trouw",
+     "tijd": "20:07",
+     "sorteer": "2026-11-23T19:07:00+00:00"
     },
     {
      "titel": "Wat hebben de twee grote taboes van onze tijd, seks en spiritualiteit, gemeen? Dat onderzoekt deze razendslimme roman",
@@ -477,19 +463,19 @@
      "sorteer": "2026-11-23T04:45:04+00:00"
     },
     {
+     "titel": "Nederland blijft kritisch op nieuw begrotingsvoorstel EU",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTU9hRnE3VEo4NGtuaXJxNEJLd1B0MjVTSElVLXY5a2N2ZE9DUWRHLW0tSVhXU1k5UnhQRnZ4am8zVlVKLWlWbFhmeFFzbGxPZTZfbFgwNjdsRC1XTmpFNUk0QWNBRlVZSkRlMzRHQzZXcTA4S2t3M0tZazJHa1lQY21RZnpBejQwRVBjT01UTVBxWXE1a0stbHZBRVB4RUJwUDBDbE9XXzFHMHc?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "18:17",
+     "sorteer": "2026-11-23T17:17:27+00:00",
+     "kop": "Begroting"
+    },
+    {
      "titel": "Kabinet: nieuw voorstel EU-begroting nog te duur",
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcWtTbFVpbVdkQUdBdDdtSXIzVEFpck8yWVgwNV8wSUZOckJaQ1o4UzhBXzIyelV4TS03UFhuYk1zS3lyVS1QekZ5Zm9FVHdwS3ZuMk81SVVDV1FPbFpjeEMwUGdJeERoMnhtcWxYOGhwdXFOV1dTUnJyQnhQT1VyeHYwYl8?oc=5",
      "bron": "Het Financieele Dagblad",
      "tijd": "17:18",
      "sorteer": "2026-11-23T16:18:26+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Wéér een ultimatum in de Belgische begrotingscrisis: een kerstakkoord of verkiezingen",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbVF4bzRJZkotajJDcUExeVNuc1FsUXNLNzl2N3pvdzMtVkNIOU5WSjZLVER0MFBfV29JM0FBUE9GSk1MQ2RUQUZMZ0hBc2lkU0FBQjd0WnoteHVDYWdJaTlpNWJsZjFCSXQwSzNGa1dIUEFwVjhCVUdGbVBoZjlQblJ5Yk1vd09wNWV1dzhZSXpVR25MUGpiSHVUSjkzb0FjREpqSDVkOTY5UE1DNGVWRldaYjB0NVlVUGNldkRyLVFyWlNTajQ4VXZ3?oc=5",
-     "bron": "NRC",
-     "tijd": "16:50",
-     "sorteer": "2026-11-23T15:50:59+00:00",
      "kop": "Begroting"
     },
     {
@@ -525,6 +511,15 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Per ongeluk op het WK Prison Island: Enschedese studenten worden elfde",
+     "context": "\"Wij wisten vier maanden geleden ook niet wat dit was.\" Roald Hoogvliet kijkt terug op het evenement WK Prison Island afgelopen zaterdag in de hal van Next Level in Enschede. De student eindigde met zijn team Linkerbaan Enschede in een veld van 34 teams als elfde. \"Ze spelen het in heel Europa.\"",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/cultuur/3722378/per-ongeluk-op-het-wk-prison-island-enschedese-studenten-worden-elfde",
+     "bron": "RTV Oost",
+     "tijd": "21:02",
+     "sorteer": "2026-11-23T20:02:06+00:00"
+    },
     {
      "titel": "Overijsselaars bezoeken kerstmarkt in Münster: 'Lekker eten en drinken'",
      "context": "Sinterklaas is nog lang niet het land uit, maar bij onze oosterburen zijn ze al helemaal in kerststemming. De kerstmarkt in Münster is vandaag begonnen en dus trokken de nodige Overijsselaars richting Duitsland. Zo ook Jan Riesewijk. \"Het is traditie.\"",
@@ -571,38 +566,30 @@
      "sorteer": "2026-11-23T16:26:00+00:00"
     },
     {
-     "titel": "Toch jonge asielzoekers naar Summercamp Heino deze winter",
-     "context": "De asielopvang bij Summercamp Heino wordt aankomende winter toch gebruikt. Dat heeft het Centraal Orgaan opvang asielzoekers (COA) bevestigd aan de gemeenten Raalte en Olst-Wijhe. Het gaat om de opvang van alleenstaande minderjarige vreemdelingen tussen de 15 en 18 jaar.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3722415/toch-jonge-asielzoekers-naar-summercamp-heino-deze-winter",
-     "bron": "RTV Oost",
-     "tijd": "17:01",
-     "sorteer": "2026-11-23T16:01:12+00:00"
+     "titel": "Beleef het kerstverhaal in de bossen van Vilsteren",
+     "context": "VILSTEREN – Levende kerstwandeltocht Vilsteren 2e kerstdag weer. Ook dit jaar bent u op tweede kerstdag van harte welkom bij de levende kerstwandeltocht in de bossen van Vilsteren. Zodra de avond valt en het langzaam donker wordt, neemt een verteller u mee op een bijzondere wandeling door het kerstverhaal. Onderweg ontmoet u de herders, Romeinse […]",
+     "rubrieken": [
+      "Ingezonden bericht",
+      "Laatste nieuws",
+      "Vilsteren"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/557188/beleef-het-kerstverhaal-in-de-bossen-van-vilsteren.html",
+     "bron": "DalfsenNet",
+     "tijd": "21:24",
+     "sorteer": "2026-11-23T20:24:21+00:00"
     },
     {
-     "titel": "Vergeet de buitenkraan niet: eerste matige vorst van het seizoen",
-     "context": "DALFSEN – De winterkou laat zich voelen. Afgelopen nacht kwam het voor het eerst dit seizoen tot matige vorst. In Twente daalde de temperatuur tot -7,1 graden. Vlak boven de grond, op klomphoogte, werd het zelfs -9 graden. Ook in De Bilt vroor het stevig. Daar zakte het kwik naar -5,5 graden, waarmee de eerste […]",
+     "titel": "Gezellige middag met Shantykoor",
+     "context": "DALFSEN – Zondag 29 november gezellige middag met Shantykoor De Meppeler Muiters. Houdt u van gezellige muziek, mooie zeemansliederen en een ontspannen middag uit? Kom dan op zondag 29 november om 14.00 uur naar het Emmagebouw in Dalfsen voor een sfeervol optreden van het bekende shantykoor De Meppeler Muiters. De enthousiaste zangers nemen u mee op […]",
      "rubrieken": [
       "Dalfsen",
       "Ingezonden bericht",
       "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/557184/vergeet-de-buitenkraan-niet-eerste-matige-vorst-van-het-seizoen.html",
+     "link": "https://www.dalfsennet.nl/nieuws/557186/gezellige-middag-met-shantykoor.html",
      "bron": "DalfsenNet",
-     "tijd": "19:58",
-     "sorteer": "2026-11-23T18:58:18+00:00"
-    },
-    {
-     "titel": "Met man en macht aan de slag in de Pastoriestraat",
-     "context": "DALFSEN – In de Pastoriestraat werd vandaag met man en macht gewerkt. Een flinke ploeg harde werkers was aan het einde van de middag nog volop bezig om de straat weer berijdbaar te maken. De werkzaamheden in dit deel van Dalfsen zijn voorlopig nog niet afgerond. Er moet nog het nodige gebeuren voordat alles weer […]",
-     "rubrieken": [
-      "Dalfsen",
-      "Laatste nieuws"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/557182/met-man-en-macht-aan-de-slag-in-de-pastoriestraat.html",
-     "bron": "DalfsenNet",
-     "tijd": "19:36",
-     "sorteer": "2026-11-23T18:36:13+00:00"
+     "tijd": "21:18",
+     "sorteer": "2026-11-23T20:18:24+00:00"
     }
    ]
   },
@@ -688,11 +675,25 @@
      "sorteer": "2026-11-23T16:15:00+00:00"
     },
     {
+     "titel": "AI-chatbots raden beleggers vrijwel altijd aan aandelen te kopen, maar slaan belangrijke stappen over",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOGh4VGJSTXVyNkdBR0ozTUNiNm5sV3BPNUxELWxfbEpyTmRhSkpacW96WlF4UFluVEhxMWt2UC1raHRIVTM5RW1ROHBqVGdmZWxxaXdrRFFaUUhFR1phMlMzdENIbGc0eS10Xy1JLXBzSEFkX1E5QmZvZm03ZkdPLXBoNnRVdk5rQld2V1loUVVHX0VKOUpOeEEzenlST2s2RmNkb2ZfbVRUcUw0NmhZcktGN1JycjdGc1dJNVdiUk5yRVo0MUppUnU5UzZxSUN6MFF3RzZqYldMeXkz?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "21:05",
+     "sorteer": "2026-11-23T20:05:00+00:00"
+    },
+    {
      "titel": "Amazon koopt bedrijf Decart achter AI-modellen voor realtimesimulatie",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbnFmVlkzUWdsbVF1TmlzZi1GRUIyOWxIRjNUa2JTSFJScjhEWklmX0RMSmZ0a1hxYjhVSXpwRUcxbnIwUk53THJCS2NxdGVEaklCV01oQzhCQU14R3d6bTJVcFdXZHpTNG1LY3VMZG90THNqUnp0dkw3T0pQa3IzYlNRMmp3cWczU1VTMGtlazVGVGIwN1NFRnU1emFvM0kyNHoxNnlRcE1YMThFZlE?oc=5",
      "bron": "Tweakers",
      "tijd": "20:28",
      "sorteer": "2026-11-23T19:28:08+00:00"
+    },
+    {
+     "titel": "AEX schiet omhoog door optimisme over AI na Nvidia-nieuws",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSWtvaWxTbXZxbHRCanZNN1hTWTRlQ2pwOU40dmhJNGZUcU5QWi1wM0tRUUY2YVpUNFk3cUJnYTl6aHRxdENEMzMyOFpwRlJ0UWFSZmdxcFNIcjh4Z2VKZ1hidEVjREZaWE01ZFVBb1d1WFQtSS1qWVZERy1tbHp0UzJTelVXZHByVjdB?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "20:27",
+     "sorteer": "2026-11-23T19:27:02+00:00"
     }
    ]
   },
@@ -813,7 +814,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "21:00",
+    "bijgewerkt": "22:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1413,22 +1414,22 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 1.6,
-    "gevoel": -1.3,
+    "nu": 0.6,
+    "gevoel": -1.8,
     "wind": "ZW 2",
     "station": "Heino",
     "bericht": "Het blijft deze hele week zonnig en koud winterweer. In de nachten gaat het licht tot matig vriezen, overdag is het zonnig en droog. De middagtemperaturen liggen een paar graden boven het vriespunt en dat is koud voor de laatste fase van november.",
     "vandaag": "Vanavond is het helder, maar in het noorden zijn er wat wolkenvelden en kan er een enkele (winterse) bui voorkomen. Vannacht kan vooral in het noorden nog een enkele (winterse) bui vallen.",
     "temperatuur": "De middagtemperaturen liggen een paar graden boven het vriespunt en dat is koud voor de laatste fase van november.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -3 tot 6 graden, 10% kans op neerslag, ruim 7 uur zon, wind uit het westen, kracht 2.",
+     "zin": "Voor Dalfsen zelf: -3 tot 6 graden, 10% kans op neerslag, ruim 7 uur zon, wind uit het zuidwesten, kracht 2.",
      "max": 6,
      "min": -3,
      "regenkans": 10,
      "omschrijving": "bewolkt",
      "morgen": {
       "max": 2,
-      "min": -4,
+      "min": -3,
       "regenkans": 1,
       "omschrijving": null
      }
