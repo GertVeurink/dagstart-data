@@ -3,13 +3,15 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "09:00",
+  "opgehaald": "10:00",
   "blokken": 10,
-  "berichten": 73,
-  "problemen": [],
+  "berichten": 76,
+  "problemen": [
+   "google '\"minister van Justitie\" OR \"Ju': HTTP 429"
+  ],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-11-23T09:00+01:00",
+ "opgehaald": "2026-11-23T10:00+01:00",
  "audio": "audio/20261123.mp3",
  "afval": [
   {
@@ -197,8 +199,17 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Nederland stuurt delegatie naar India om ontvoerde Insiya terug te krijgen",
+     "context": "Nederland gaat de inspanningen opvoeren om het tien jaar geleden ontvoerde meisje Insiya terug te krijgen. Deze week gaat een delegatie van het ministerie van Buitenlandse Zaken en Justitie en Veiligheid naar India voor gesprekken. Dat zegt minister Berendsen (Buitenlandse Zaken) tegen de NOS. Hij is op werkbezoek in India en heeft gesproken met zijn ambtgenoot Jaishankar. \"Het is voor India duide",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640677",
+     "bron": "NOS",
+     "tijd": "09:15",
+     "sorteer": "2026-11-23T09:15:26+01:00"
+    },
+    {
      "titel": "Zelensky: Oekraïne blies Russisch marineschip op in Libië",
-     "context": "De Oekraïense president Zelensky heeft de verantwoordelijkheid opgeëist voor een aanval op een Russisch marineschip in de haven van de Libische stad Benghazi. Als bewijs voor zijn claim publiceerde hij beelden waarop te zien is hoe Oekraïense zeedrones op het schip afstevenen en tot ontploffing komen. Zelensky schrijft dat er zeven drones zijn ingezet. \"Ondanks tegenmaatregelen van de vijand is de",
+     "context": "De Oekraïense president Zelensky heeft de verantwoordelijkheid opgeëist voor een aanval op een Russisch marineschip in de haven van de Libische stad Benghazi. Als bewijs voor zijn claim publiceerde hij beelden waarop te zien is hoe Oekraïense zeedrones op het schip afstevenen en tot ontploffing komen. Met de gelikte propagandavideo eiste Zelenskey de aanval op: Zelensky schrijft dat er zeven drone",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640676",
      "bron": "NOS",
@@ -216,7 +227,7 @@
     },
     {
      "titel": "Duizenden bezoekers concert Manchester geëvacueerd om onbekende stof",
-     "context": "Bij een concert in Manchester zijn zondagavond 12.000 bezoekers geëvacueerd. Er was volgens de politie een onbekende stof vrijgekomen. Het gebeurde tijdens een concert van de Amerikaanse rapper Don Toliver in de Co-op Live Arena. Ambulancepersoneel onderzocht ter plaatse ruim vijftig mensen. Sommigen hadden last van hun ogen of luchtwegen. Een persoon is voor onderzoek naar het ziekenhuis gebracht",
+     "context": "Bij een concert in Manchester zijn zondagavond 12.000 bezoekers geëvacueerd. Er was volgens de politie een onbekende stof vrijgekomen. Het gebeurde tijdens een concert van de Amerikaanse rapper Don Toliver in de Co-op Live Arena. Op beelden op sociale media is te zien dat bezoekers hoestend de zaal verlaten: Ambulancepersoneel onderzocht ter plaatse ruim vijftig mensen. Sommigen hadden last van hu",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640662",
      "bron": "NOS",
@@ -233,15 +244,6 @@
      "sorteer": "2026-11-23T05:17:41+01:00"
     },
     {
-     "titel": "'Alice Huang tijdens affaire met Nvidia-chef ruim een jaar in contact met spionagedienst'",
-     "context": "De Chinese vrouw die een affaire had met de gevallen Nvidia-topman Jensen Huang had meer dan een jaar lang contact met China's spionagedienst. Dat meldt The New York Times op basis van bronnen bij veiligheidsdiensten. De vrouw, Alice Huang, stond in contact met een functionaris van het Chinese ministerie van Staatsveiligheid vanaf het voorjaar van 2025 tot de herfst van dit jaar. In die periode ha",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640659",
-     "bron": "NOS",
-     "tijd": "02:14",
-     "sorteer": "2026-11-23T02:14:54+01:00"
-    },
-    {
      "titel": "Israëlische premierskandidaat noemt kolonistengeweld op Westoever ‘Joods terrorisme’",
      "context": "",
      "rubrieken": [],
@@ -251,31 +253,74 @@
      "sorteer": "2026-11-23T07:04:00+00:00"
     },
     {
+     "titel": "Commentaar",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrUlVNOEgzblByeXRNcU9iUHhzb2FJNjRtR2E2eVZNT1RGMGVHQTctZFdfYV9aWTF6Ml9xcEo1MVNEQXBrRkE0MXNZSnZkTzg?oc=5",
+     "bron": "NRC",
+     "tijd": "09:18",
+     "sorteer": "2026-11-23T08:18:02+00:00"
+    },
+    {
+     "titel": "Ideologische verwantschap tussen Forum voor Democratie en neonazisme vraagt om waakzaamheid en diepgaand onderzoek",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSnZnSl94d2owUnNPc0RWOHdhMENfcFNDRTNteGJvNjNMR0QzWTNZUlZ0bHJ1N2t5VmdaVHJid2thejFFVmZHaFBoMVVwLXg5d3FlNjJlUl9jemlXb3JhanYyOFcteV9UTlI1Y0JPbWw4eWN2NWNfbVBUX3paTVBaaU56YjRudWVEMUZpX05saEhuZFZUd2xQNHpNYTVwSTZ0cDdmdERxNkUtaG52SHVjU3VnNzUxMkxtTnNxb21tRWd4SE5MNFdTLXg2RGh0ZVlfUUxkRGkwWQ?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "09:03",
+     "sorteer": "2026-11-23T08:03:45+00:00"
+    },
+    {
+     "titel": "Ukraine sank Russian warship off Libya, Zelenskyy says",
+     "context": "Kyiv said seven sea drones sank the corvette and hit a cargo ship, as Ukraine's war at sea spreads from the Baltic to the Mediterranean.",
+     "rubrieken": [
+      "Drones",
+      "Maritime",
+      "Military",
+      "War in Ukraine",
+      "Politics"
+     ],
+     "link": "https://www.politico.eu/article/volodymyr-zelenskyy-claims-ukraine-sank-russia-warship-benghazi-libya/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "09:45",
+     "sorteer": "2026-11-23T08:45:24+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
      "titel": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
      "context": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "08:55",
-     "sorteer": "2026-11-23T07:55:59+00:00",
+     "tijd": "09:41",
+     "sorteer": "2026-11-23T08:41:08+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Manchester’s Co-op Live arena evacuated after ‘unknown substance’ released in crowd",
-     "context": "Police declare major incident after concertgoers at Don Toliver gig report eye and respiratory symptoms One person was taken to hospital and more than 50 were assessed by medics after a substance was let off in the crowd at Manchester’s Co-op Live arena, officials have said. Police declared a major incident after the release of the substance, which was initially thought to be teargas, as they soug",
+     "titel": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says",
+     "context": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "09:36",
+     "sorteer": "2026-11-23T08:36:57+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
+     "context": "Virginia dinner comes as Democrats accuse president of improperly profiting from his cryptocurrency ventures Donald Trump has headlined his third cryptocurrency gala at his ​country club in Virginia, rewarding top holders of his own meme coin, as Democrats accuse the president of improperly profiting from his crypto ventures. The dinner, which took place at the Trump National golf club in Sterling",
      "rubrieken": [
-      "Manchester",
-      "Greater Manchester",
-      "England",
-      "UK news",
-      "Music",
-      "Culture"
+      "Trump administration",
+      "Donald Trump",
+      "Virginia",
+      "Cryptocurrencies",
+      "US politics",
+      "US news",
+      "World news"
      ],
-     "link": "https://www.theguardian.com/uk-news/2026/nov/23/manchester-co-op-live-arena-evacuated-tear-gas-don-toliver-concert",
+     "link": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
      "bron": "The Guardian",
-     "tijd": "08:48",
-     "sorteer": "2026-11-23T07:48:31+00:00",
+     "tijd": "09:33",
+     "sorteer": "2026-11-23T08:33:10+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -299,42 +344,6 @@
      "bron": "New York Times",
      "tijd": "06:49",
      "sorteer": "2026-11-23T05:49:03+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "What's next after no deal at COP31 climate talks?",
-     "context": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "06:34",
-     "sorteer": "2026-11-23T05:34:39+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "France gets an EU budget win — but wants more",
-     "context": "Presented by Fusion for Energy.",
-     "rubrieken": [
-      "Brexit",
-      "British politics",
-      "Brussels Playbook Podcast",
-      "Budget",
-      "Common Agricultural Policy (CAP)",
-      "EU Budget",
-      "EU election",
-      "European politics",
-      "Far right",
-      "farmers",
-      "Regions/Cohesion",
-      "Foreign Affairs",
-      "Politics"
-     ],
-     "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/france-gets-an-eu-budget-win-but-wants-more/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "06:05",
-     "sorteer": "2026-11-23T05:05:00+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -412,32 +421,18 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Ongeval met letsel op Sterappelgaard in Arnhem",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX25vLTJoTTRfMkIzOWQwX2hFekJiNU5aZE5LVFVlVVJjdTBhVmc1Q055UVk0VXVURFJHWGZWTXBZTFZVOGRnTFRwV0poOGUzZHdzaFRVSDcwVDJHR0ZkYjN3RmFpT0JfZHdqRnRYR2UzVkpZTHpKTC1lMFVOeGpEYl9tejBwcGxXTTdjVGctMGRYa2lSbHdrMnJTWGQ2b2Qwdm9BTUZR?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "08:52",
-     "sorteer": "2026-11-23T07:52:33+00:00"
-    },
-    {
-     "titel": "’Alice Huang had contact met Chinese inlichtingendienst’",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUDRzUzNVVGF1MzJpd1h1d25IT2lfUTdJeEd4S1J4MTRLWWNBelJ1WmllYVZXakRab0M3TGxKTkRSOVltTVhRQTMtX05jcGU5RHQtWG1YeUtCNWI1MmN5XzBueklyYlRPZkxzWkY3UEJjek96WE4wRUIyQVEtb09Hak51YlVzUEFNS2ZQTWFIMTBhM1pyUk5pTE43XzgzQlJyQUdxZGVxakk?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "08:37",
-     "sorteer": "2026-11-23T07:37:45+00:00"
-    },
-    {
      "titel": "Wetsvoorstel moet zorgen voor strengere regels prostitutie: minimumleeftijd en klanten kunnen in de cel belanden",
      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSXZWNHFtSml1Z1dmZWRFeVVfQUtOWmJfWm9vX1pScHVPVEk4aDE1Slc0RllhUlg1NHBXRHRFMWF3Y3JaRlM3SG5rRTVrcGxlbHFxaFpHQ1FZeUdsV3NTcFdvYUs3Qmtib29KdTJCaFg3SlZVOERSSV9CNjZ2WmdHSlV1MHN1cTA3aElSa0M5UW5GNG5UVVY3cHBfaThsWGkyNGNFbjB2Qy05dDJ2d2lOWlFrN0p5eGxJeTdxTDJ2RDY0c3pwVmdCWklibTJsMXlJNU50N2RPdU9tX2oyOU1CX1dWcUpuMFBta09nYl9PbU5Cdw?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "08:01",
-     "sorteer": "2026-11-23T07:01:25+00:00"
+     "tijd": "09:31",
+     "sorteer": "2026-11-23T08:31:26+00:00"
     },
     {
-     "titel": "Net binnen",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PWTQ1bVAtSEZmSTUxSHVmRVFWUHdGOVNtdXprZXZQSE8yRmM0a25fVUU0SlRSVXctOHB3aVJOZ0dBTHNWTnJGU0ZJOGM?oc=5",
-     "bron": "AD.nl",
-     "tijd": "08:48",
-     "sorteer": "2026-11-23T07:48:48+00:00"
+     "titel": "Grip op AI-gegenereerde Woo-verzoeken",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZTY1RWF3VW5xcUFGanJ2ZVMzYW8zXzhFMmF1akdDNENwMjZ3WThLVk1fd00zQi1HVi11RzFyNUFnMy1seGhCX1dGUW5IbjFHdHBRbHZyc0JNdkxrMXVZWGVIaG9IVmltR3FYYXo4ZkdOeklCY0F2TVFmVE9UZy1NMHJSNUxzdHo4U3I0?oc=5",
+     "bron": "Binnenlands Bestuur",
+     "tijd": "09:00",
+     "sorteer": "2026-11-23T08:00:00+00:00"
     },
     {
      "titel": "Wat hebben de twee grote taboes van onze tijd, seks en spiritualiteit, gemeen? Dat onderzoekt deze razendslimme roman",
@@ -499,25 +494,75 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Is er leven na twee jaar kerkasiel? Gezin Babayants kijkt voorzichtig vooruit",
-     "context": "Is er leven na twee jaar kerkasiel? En hoe ziet dat eruit? Het zijn vragen die de leden van de familie Babayants deze dagen bezighouden. Het gezin verlaat ergens de komende dagen de Open Hof in Kampen en kijkt, ondanks de voortdurende onzekerheid over hun verblijfsstatus, voorzichtig vooruit.",
+     "titel": "Ruim de helft van de Enschedeërs ziet of vermoedt iets verdachts in de buurt",
+     "context": "Enschede hoort bij de steden waar inwoners het vaakst drugs in de buurt vermoeden, net als Venlo, Heerlen en Sittard-Geleen. In de rest van Overijssel ligt dat cijfer een stuk lager, meldt het CBS.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3722146/ruim-de-helft-van-de-enschedeers-ziet-of-vermoedt-iets-verdachts-in-de-buurt",
+     "bron": "RTV Oost",
+     "tijd": "07:01",
+     "sorteer": "2026-11-23T06:01:09+00:00"
+    },
+    {
+     "titel": "Opnieuw stakingen in streekvervoer, maar niet alle treinen vallen uit",
+     "context": "Reizigers in Overijssel moeten vandaag en morgen rekening houden met uitvallende bussen en regionale treinen. Vakbonden FNV en CNV hebben opnieuw landelijke stakingen uitgeroepen vanwege vastgelopen cao-onderhandelingen. Hoeveel ritten precies uitvallen, is nog niet duidelijk.",
      "rubrieken": [
       "breaking"
      ],
-     "link": "https://www.oost.nl/nieuws/3722120/is-er-leven-na-twee-jaar-kerkasiel-gezin-babayants-kijkt-voorzichtig-vooruit",
+     "link": "https://www.oost.nl/nieuws/3722307/opnieuw-stakingen-in-streekvervoer-maar-niet-alle-treinen-vallen-uit",
      "bron": "RTV Oost",
-     "tijd": "12:49",
-     "sorteer": "2026-11-22T11:49:36+00:00",
+     "tijd": "06:37",
+     "sorteer": "2026-11-23T05:37:25+00:00"
+    },
+    {
+     "titel": "Van 1 gulden tot 60.000 alumni: de UT in bijzondere cijfers",
+     "context": "De Universiteit Twente in Enschede viert deze week haar 65-jarige verjaardag. Achter die geschiedenis gaan opmerkelijke getallen schuil. We zetten wat opvallende cijfers op een rij.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3719168/van-1-gulden-tot-60000-alumni-de-ut-in-bijzondere-cijfers",
+     "bron": "RTV Oost",
+     "tijd": "06:01",
+     "sorteer": "2026-11-23T05:01:22+00:00"
+    },
+    {
+     "titel": "Provincie pakt ondiepe plekken in kanaal Almelo-De Haandrik aan",
+     "context": "Vanaf vandaag voert provincie Overijssel onderhoud uit aan Kanaal Almelo-De Haandrik. Op vier plekken gaat een aannemer zandophopingen uit de vaargeul verwijderen. Ook komen er extra wachtplaatsen voor schepen bij drie bruggen. De werkzaamheden gaan tot en met 18 december duren.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3720295/provincie-pakt-ondiepe-plekken-in-kanaal-almelo-de-haandrik-aan",
+     "bron": "RTV Oost",
+     "tijd": "05:02",
+     "sorteer": "2026-11-23T04:02:08+00:00"
+    },
+    {
+     "titel": "Zeventig jaar getrouwd en nog altijd verliefd: 'Nooit met ruzie naar bed'",
+     "context": "Zeventig jaar getrouwd en nog altijd onafscheidelijk. Wat is het geheim van Margje (92) en Kasper (97) de Graaf uit Almelo? Hoe houden ze de romantiek en het huwelijk goed? Daar hoeven ze niet lang over na te denken: \"Nooit met ruzie naar bed gaan, eerst uitpraten.\"",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/cultuur/3720146/zeventig-jaar-getrouwd-en-nog-altijd-verliefd-nooit-met-ruzie-naar-bed",
+     "bron": "RTV Oost",
+     "tijd": "19:02",
+     "sorteer": "2026-11-22T18:02:05+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "'Het was hier beestachtig streng': tien jaar na vertrek monniken bloeit Nieuw Sion",
-     "context": "Tien jaar na het vertrek van de monniken groeit en bloeit Klooster Nieuw Sion in de bossen bij Diepenveen. Dat wordt onder meer gevierd met een boek over de laatste 75 jaar van het klooster. In het boek worden de enorme veranderingen duidelijk. \"Het was hier beestachtig streng.\"",
+     "titel": "Vreugdehuppeltje komt nét te vroeg na supermarktdiefstal in Hengelo",
+     "context": "Een winkelkar vol vlees en energiedrankjes, een handlanger die het winkelpoortje opent en een vreugdehuppeltje op de parkeerplaats. Het zijn de ingrediënten van een - bijna geslaagde - diefstal bij een supermarkt in Hengelo. Vervelend voor de mannen: het personeel komt net te vroeg achter ze aan.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3721618/het-was-hier-beestachtig-streng-tien-jaar-na-vertrek-monniken-bloeit-nieuw-sion",
+     "link": "https://www.oost.nl/nieuws/3717722/vreugdehuppeltje-komt-net-te-vroeg-na-supermarktdiefstal-in-hengelo",
      "bron": "RTV Oost",
-     "tijd": "09:00",
-     "sorteer": "2026-11-22T08:00:55+00:00"
+     "tijd": "17:21",
+     "sorteer": "2026-11-22T16:21:58+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Tribute to the Soul",
+     "context": "DALFSEN – Op zaterdag 28 november brengt de tienkoppige band DRENTH een energieke theatershow Tribute to the Soul. Een avond soulmuziek, live in theater De Stoomfabriek! Met de krachtige stem van leadzangeres Annemiek Drenth, gedragen door een hechte band van ervaren muzikanten; een blazerssectie en warme grooves klinkt muziek van Aretha Franklin en Marvin Gaye […]",
+     "rubrieken": [
+      "Ingezonden bericht"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/556944/tribute-to-the-soul.html",
+     "bron": "DalfsenNet",
+     "tijd": "09:06",
+     "sorteer": "2026-11-23T08:06:28+00:00"
     },
     {
      "titel": "Aardige gast Jan Stappenbeld afgelopen week overleden",
@@ -531,20 +576,6 @@
      "bron": "DalfsenNet",
      "tijd": "00:15",
      "sorteer": "2026-11-22T23:15:01+00:00"
-    },
-    {
-     "titel": "Heilloever",
-     "context": "DALFSEN – Hoewel de Ooievaar meer aanspraak kan maken op de bovengenoemde streeknaam wordt deze naam ook wel gebruikt voor de Grote Zilverreiger. Dit in de betekenis van heilbelover of gelukbrenger. Deze reiger was tot 1970 een dwaalgast, en broedde voor het eerst in 1978 in ons land (Oostvaardersplassen). Nu zijn er inmiddels ca 700 […]",
-     "rubrieken": [
-      "Dalfsen",
-      "Ingezonden bericht",
-      "Laatste nieuws",
-      "Snavel en veren"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/557120/heilloever-2.html",
-     "bron": "DalfsenNet",
-     "tijd": "22:39",
-     "sorteer": "2026-11-22T21:39:04+00:00"
     }
    ]
   },
@@ -625,6 +656,22 @@
    "emoji": "🏛️",
    "items": [
     {
+     "titel": "Aanpak online en hybride geweld",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "03-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D55204",
+     "sorteer": "2026-11-23T09:57:17.933+01:00"
+    },
+    {
+     "titel": "Antwoorden op vragen commissie over het verslag van de rapporteurs over vaststelling van de begrotingsstaten van het Ministerie…",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "03-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D55141",
+     "sorteer": "2026-11-23T09:00:18.483+01:00"
+    },
+    {
      "titel": "Petitie 'Herzie het asielbeleid voor Jemen op basis van actuele feiten'",
      "bron": "Petitie",
      "kop": "Komende week",
@@ -688,7 +735,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "09:00",
+    "bijgewerkt": "10:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1067,14 +1114,6 @@
      "sorteer": "2026-11-23T05:45:00+00:00"
     },
     {
-     "titel": "Gekeerd getij voor spons als gewei",
-     "toelichting": "Jarenlang ging de Geweispons in de Oosterschelde en het Grevelingenmeer achteruit. Maar een uitgebreide analyse van duikwaarnemingen leverde goed nieuws op. Op diverse plaatsen in onze wateren worden deze geweivormige sp",
-     "bron": "Nature Today",
-     "tijd": "10:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36092",
-     "sorteer": "2026-11-22T09:00:00+00:00"
-    },
-    {
      "titel": "Nu in je tuin: agaatvlinderrupsen",
      "toelichting": "Vorige week zat er in de tuin nog een agaatvlinder op de klimop te drinken, maar nu zit hij vast als rups ergens in de tuin. De rups overwintert en is in milde herfst- en winternachten actief en op allerlei plekken en op",
      "bron": "Nature Today",
@@ -1083,18 +1122,18 @@
      "sorteer": "2026-11-23T06:00:00+00:00"
     },
     {
+     "titel": "Bij het diepste punt van de oceaan vond een robot ook de diepste vulkaanexplosie ooit",
+     "toelichting": "De Challenger Deep in de Grote Oceaan is met bijna 11 kilometer al het diepste punt van de oceaanbodem. Daar komt nu een tweede record bij. Op de wand boven de trog vond een duikrobot gesteente van vulkaanexplosies op ru",
+     "bron": "Scientias",
+     "tijd": "09:00",
+     "link": "https://scientias.nl/bij-het-diepste-punt-van-de-oceaan-vond-een-robot-ook-de-diepste-vulkaanexplosie-ooit/"
+    },
+    {
      "titel": "Ook vissen maken ruzie met hun broers en zussen",
      "toelichting": "Ondanks dat velen van ons bekend zijn met gekibbel tussen broers en zussen, is een broer of zus ook een levenslange metgezel. Bij dieren is dit vaak anders. Bij sommige diersoorten gaat de rivaliteit een stuk verder: bro",
      "bron": "Scientias",
      "tijd": "19:00",
      "link": "https://scientias.nl/ook-vissen-maken-ruzie-met-hun-broers-en-zussen/"
-    },
-    {
-     "titel": "Nieuwe vondst biedt inzicht in de leefwijze van de Homo erectus",
-     "toelichting": "De Homo erectus, verre verwant van de Homo sapiens, bestond bijna twee miljoen jaar. Waarom de soort uiteindelijk uitstierf, is nog niet bekend. Het leefgebied van de uitgestorven Homo erectus verspreidde zich vanuit Afr",
-     "bron": "Scientias",
-     "tijd": "15:00",
-     "link": "https://scientias.nl/nieuwe-vondst-biedt-inzicht-in-de-leefwijze-van-de-homo-erectus/"
     },
     {
      "titel": "Bumblebees are problem-solvers too",
@@ -1158,22 +1197,6 @@
      "tijd": "12:10",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-11-22T12:10:00+01:00"
-    },
-    {
-     "titel": "Witkopstaartmees",
-     "kop": "Zeldzaamheden",
-     "bron": "Flevoland",
-     "tijd": "09:38",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-22T09:38:00+01:00"
-    },
-    {
-     "titel": "Roodkopklauwier",
-     "kop": "Zeldzaamheden",
-     "bron": "Friesland",
-     "tijd": "09:24",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-22T09:24:00+01:00"
     },
     {
      "titel": "Landelijk vandaag: 30 soorten, 3.196 vogels geteld",
@@ -1243,11 +1266,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 73 plekken in de afgelopen week, waarvan 2 vandaag",
+     "titel": "Invasiejaar — op 75 plekken in de afgelopen week, waarvan 4 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 162 vogels; 185 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 166 vogels; 187 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1277,22 +1300,22 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": -3.7,
-    "gevoel": -3.7,
-    "wind": "ZW 0",
+    "nu": -1.4,
+    "gevoel": -1.4,
+    "wind": "ZW 1",
     "station": "Heino",
     "bericht": "Afgelopen nacht kwam het voor het eerst dit seizoen in Twente tot matige vorst. Vandaag is het in Limburg eerst bewolkt. Verder schijnt de zon, met in het noorden ook enkele wolkenvelden.",
     "vandaag": "Vandaag is het in Limburg eerst bewolkt. Vanmiddag is er veel zonneschijn en blijft het droog.",
     "temperatuur": "Afgelopen nacht is het voor het eerst dit seizoen tot matige vorst gekomen, met in Enschede een minimumtemperatuur van -7,1 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -3 tot 6 graden, droog, ruim 7 uur zon, wind uit het westen, kracht 2.",
-     "max": 6,
+     "zin": "Voor Dalfsen zelf: -3 tot 5 graden, droog, ruim 7 uur zon, wind uit het zuidwesten, kracht 2.",
+     "max": 5,
      "min": -3,
      "regenkans": 0,
-     "omschrijving": "bewolkt",
+     "omschrijving": "lichte motregen",
      "morgen": {
       "max": 3,
-      "min": -4,
+      "min": -2,
       "regenkans": 0,
       "omschrijving": null
      }
