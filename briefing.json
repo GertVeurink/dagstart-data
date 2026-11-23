@@ -3,13 +3,15 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "14:00",
+  "opgehaald": "15:00",
   "blokken": 11,
-  "berichten": 88,
-  "problemen": [],
+  "berichten": 86,
+  "problemen": [
+   "google '\"minister van Justitie\" OR \"Ju': HTTP 429"
+  ],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-11-23T14:00+01:00",
+ "opgehaald": "2026-11-23T15:00+01:00",
  "audio": "audio/20261123.mp3",
  "afval": [
   {
@@ -242,6 +244,15 @@
      "sorteer": "2026-11-23T09:15:26+01:00"
     },
     {
+     "titel": "Rusland sluit grote olieraffinaderij in zuiden na Oekraïense droneaanval",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/rusland-sluit-grote-olieraffinaderij-in-zuiden-na-oekraiense-droneaanval~b34eb585/",
+     "bron": "de Volkskrant",
+     "tijd": "14:01",
+     "sorteer": "2026-11-23T13:01:00+00:00"
+    },
+    {
      "titel": "Israëlische president bestempelt kolonistengeweld op de Westoever als ‘verwerpelijk’",
      "context": "",
      "rubrieken": [],
@@ -251,15 +262,6 @@
      "sorteer": "2026-11-23T12:09:00+00:00"
     },
     {
-     "titel": "Oekraïne slaat toe tot in Libië, Russisch oorlogsschip Merkury zou zijn gezonken",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/oekraine-slaat-toe-tot-in-libie-russisch-oorlogsschip-merkury-zou-zijn-gezonken~b4cb57f2/",
-     "bron": "de Volkskrant",
-     "tijd": "12:38",
-     "sorteer": "2026-11-23T11:38:00+00:00"
-    },
-    {
      "titel": "Ze begon een webwinkel vanuit huis en is nu miljardair op de EU-sanctielijst. Wie is Wildberries-oprichter Tatjana Kim?",
      "context": "",
      "rubrieken": [],
@@ -267,6 +269,47 @@
      "bron": "Trouw",
      "tijd": "11:54",
      "sorteer": "2026-11-23T10:54:34+00:00"
+    },
+    {
+     "titel": "They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.",
+     "context": "When the military refused to let them sign up, a band of aging men found their own way to wage war against Russia.",
+     "rubrieken": [
+      "Ukraine",
+      "Defense and Military Forces",
+      "Age, Chronological",
+      "Russian Invasion of Ukraine (2022)",
+      "Zelensky, Volodymyr",
+      "Zaporizhzhia (Ukraine)"
+     ],
+     "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-older-soldiers.html",
+     "bron": "New York Times",
+     "tijd": "14:53",
+     "sorteer": "2026-11-23T13:53:33+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Macron moves to ‘trap’ successors with new budget rule",
+     "context": "The French president's opponents and allies aren't buying his rationale for new deficit spending legislation.",
+     "rubrieken": [
+      "Budget",
+      "Crisis",
+      "Debt",
+      "Eurozone",
+      "Far left",
+      "Finance",
+      "French election 2027",
+      "Referendum",
+      "Tax",
+      "Financial Services",
+      "Politics"
+     ],
+     "link": "https://www.politico.eu/article/emmanuel-macron-trap-successors-budget-rule-france/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "14:53",
+     "sorteer": "2026-11-23T13:53:21+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
      "titel": "Rishi Sunak joins list of former Tory PMs saying Burnham wrong to open debate on rejoining EU – UK politics live",
@@ -290,40 +333,15 @@
       "Utilities",
       "Business",
       "Rishi Sunak",
-      "Nigel Farage"
+      "Nigel Farage",
+      "Northern Ireland",
+      "Northern Irish politics",
+      "European court of human rights"
      ],
      "link": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
      "bron": "The Guardian",
-     "tijd": "13:39",
-     "sorteer": "2026-11-23T12:39:19+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Presidential villa suffers water and power cuts, Nigerian leader says",
-     "context": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "13:33",
-     "sorteer": "2026-11-23T12:33:44+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Ukrainian Attack Off Coast of Libya Shows Reach of Kyiv’s Naval Drones",
-     "context": "President Volodymyr Zelensky said that Ukrainian drones sank a corvette and hit a dry cargo vessel, in attacks that involved special operations forces.",
-     "rubrieken": [
-      "Russian Invasion of Ukraine (2022)",
-      "Ukraine",
-      "Libya",
-      "Russia",
-      "Zelensky, Volodymyr"
-     ],
-     "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
-     "bron": "New York Times",
-     "tijd": "13:33",
-     "sorteer": "2026-11-23T12:33:09+00:00",
+     "tijd": "14:38",
+     "sorteer": "2026-11-23T13:38:55+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -333,24 +351,19 @@
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "13:27",
-     "sorteer": "2026-11-23T12:27:34+00:00",
+     "tijd": "14:34",
+     "sorteer": "2026-11-23T13:34:02+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Grand Theft Auto VI backlash engulfs Greek leader Mitsotakis",
-     "context": "Opposition chiefs hit out at Greece's prime minister after he suggested that pensioners buy their grandchildren the violent video game.",
-     "rubrieken": [
-      "Greek politics",
-      "Media",
-      "Society and culture",
-      "Politics"
-     ],
-     "link": "https://www.politico.eu/article/greece-grand-theft-auto-vi-backlash-kyriakos-mitsotakis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "13:18",
-     "sorteer": "2026-11-23T12:18:04+00:00",
+     "titel": "Mexican soldiers attacked in wake of drug lord's arrest",
+     "context": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "14:26",
+     "sorteer": "2026-11-23T13:26:36+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -434,32 +447,25 @@
      "sorteer": "2026-11-23T10:55:23+00:00"
     },
     {
-     "titel": "Heilooër die vriendin (19) doodde is volgens advocaat kwetsbaar: 'Vorm van dwang'",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeFV1YWNsRDhqZ094akVrQWVzSEtXY0kxOUR6VExEWm1ydEVUVmJBUld0dzViNFJ2R2JiZDdsUjlWTV9RbC15RVBzdW90U29JODU0V193VlpqSzZyUFduTDZ0M2VRZUwzWWs3ZWplQjF6dmhRSl9pRVpZX2NqTk8za2labVpyZUJUUUp3WWYxcEtibWRQTmM1WjhfRjZSMjdZcDJMbThrM0w2QQ?oc=5",
-     "bron": "RTL.nl",
-     "tijd": "13:56",
-     "sorteer": "2026-11-23T12:56:45+00:00"
+     "titel": "Nederland wijst Kyiv op risico’s actie op Noordzee, zegt Boswijk",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbTBjUjhPWl9nT3RrLVBIVmZxdFBObk5aQy1zZWV0VHVFYU5QdmJPamRjN1FiV1FNeUVDSVo5N0ZEZWI0a2t3b2VaSXNlOE9aeEJXV1RPR0JiZ2ZmZnE4dDZoUkliV1Eza0xvTnZDaDVZS01YVzJnVnAyZUQ3emVHSVY5V3lUVDdIUEk5WVVfNmlFTGs?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "14:50",
+     "sorteer": "2026-11-23T13:50:34+00:00"
     },
     {
-     "titel": "Kabinet gaat begin 2027 oorlogsscenario oefenen: ‘Welke beslissingen moeten we dan nemen?’",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTTZHWVpLSE1SR1F3MkpOWk9sRmtDYkV3Z2tIaWVLQ1NESHhWM1dKY1VzcDhrTWVDUFpTNzZXSjc4czZuczZSdU1TRVJsRnpONlRvSndfZ3VlZ3ktNnNPbkJKelRsa3M2QThpN3RCRWlGMlVUU0VxLXBWTjROcjRjRUlaaUdGZlN2RFRXQS12a2l3UVFwbFgwVHRsZlBKWTdwWmJSSGg4SF9YcHE2QWY5QWl5NTFqV18xUG16VzMzSElUWEphR1ZV?oc=5",
-     "bron": "Het Parool",
-     "tijd": "13:52",
-     "sorteer": "2026-11-23T12:52:09+00:00"
+     "titel": "Voor provincies blijft bescherming wolven vooropstaan",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN0RrMk9RMnd2QVZ2S3pGdEcwekIxM0dDMDNBb1B6VjBQRVFsakkxSHJjTFJiY0I3QjJLZGFpZDc5T3o5Um5OMlVkczVLX1FYSGZyNWhHRl90dUZLNVRzVXlEYjFNc0JpYVZ4Tm9pcGk3ZE5wMWhKdlFrS2xzR1NfTUQ4bVhmZw?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "14:50",
+     "sorteer": "2026-11-23T13:50:32+00:00"
     },
     {
-     "titel": "Bejaard slachtoffer woningoverval overleden: verdachte F. uit Oldenzaal blijft ontkennen en zwijgen",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV3BMV241MFU1a18xVUQ3YUdPRmhVZHlQT092X2swdktPWWNmQkwwa1E2N0ZycDBtcDdVSy1nNl82R1NSRkt5bi1sR3ZzQ19xbU9lOXMydVdkdEJ3dUlKT0RQZzhJYnU5TUVoZnNOem0tcGNKRkx4M2xpN25rNGMwWTl4dUtXRjJOUXJST3kwRS1MRE1YQXlpVk0xb0ZheUdqX0oyN3NCOElwMnVkTm1PeHVvbmlNS24tZ19CcFF1eVZrZjdxeWlEdm01RlJWUEhjTlpJbHE2Q2lfX1hlYUU4?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "13:45",
-     "sorteer": "2026-11-23T12:45:37+00:00"
-    },
-    {
-     "titel": "Actievoerders die boterzuur in Zara gooiden, verontwaardigd dat ze voor rechter moeten verschijnen",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUl9XaVNvTWhZU3YxMDNfY05rWnhuNE5zaUR5dnhya05vNlRyVWNKQ0V2a1JYaGZveUlyUTVGMEJTYVFaVlJDZFB0ZEk1THRyYmZCMU84TEpQbWJJRW1INmpMbnFpTHgtQXE4M2kwdS1zVWQxMUdiVkVsVmUtRUZucEdKelVfVC1FX3BzRVkyYXYyZDZvYTlQM21oLWQxZHd4ZDVIZEUwZk5tMUl0ZU5EUjgzSlo0X0xFa3V0dERyQ3RZVnZVWTk3Q0JoeDBZaFh2S1haZGlB?oc=5",
-     "bron": "de Stentor",
-     "tijd": "13:03",
-     "sorteer": "2026-11-23T12:03:00+00:00"
+     "titel": "Na jaren strijd groen licht voor jacht op wolf: ’Kinderen moeten weer door het bos kunnen fietsen’",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTmpmNlNKVDg2c1U5bXY1NEhoZjRDd3VDVS1CX2VNTGg5cmkzbUZsVFdRREI4M2lIcTNaeVhyclREbENJZmZBeE1PUDNwbjd3RFIzY3ZnTFR6SUZJTmN3U0xSNFNnVC1sNTFSSnJlV2dtQ0JZUTlGVHRjODdlQlJCVW9VbVlFVFB0YXdsMUo2YXZXbjdybnFPVU1VMEZuTDlaM2l5RWhIcU5HRUtpU1N0TXFQdkdKMGV1bk1wc3QwYlVkNEFZeVBIOTJkczJ2UWdLWkV4S01ySFQ1TURTVVhz?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "14:30",
+     "sorteer": "2026-11-23T13:30:00+00:00"
     },
     {
      "titel": "Wat hebben de twee grote taboes van onze tijd, seks en spiritualiteit, gemeen? Dat onderzoekt deze razendslimme roman",
@@ -476,27 +482,19 @@
      "sorteer": "2026-11-23T04:45:04+00:00"
     },
     {
+     "titel": "Alternatief EU-begrotingsplan drama voor Nederland: contributie stijgt naar 13,5 miljard euro per jaar",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc3ZqUW5MeFY3YS1BRXZKR05GRUZXeEtmVUdlRV9sUlp5cVZWQmhiZ05Md213N1B6S0RCeXNHUW9XMkNQMTQ2b1I3dDhmUEk2N2t5bmUxaTRKU3V5cEM0bEUwVGxmLVA1UXVuMUZreUpaNXFxVXkxVndhdEltNDBUME4xU1luMVlja244ZlhCcUl0b1BGUEkzV1doM2NaRWFUU0RDZThEUVZmLUhnbHBUSml4VFc3ZWNDbHdGX1d0LTdMcnhPWWFQN2dXSGU4S3FaeTk2bEY1RlJXMTB6b1Rudkl6d0c1Zw?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "14:48",
+     "sorteer": "2026-11-23T13:48:33+00:00",
+     "kop": "Begroting"
+    },
+    {
      "titel": "De Wever heeft nog altijd geen akkoord over de Belgische begroting en gaat volgende week weer naar koning Filip",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLWhZSEt2NTRSSVh4TUh3ajVBYnAyYk5QVk80RVJXb0lXNmdlYjBMaDN4Q1RUZy1qMmxKaEJnRlhyc2RvOFBRX21tOV84MWsxbkdWSHV4SFhfVVk1NFlmMDVZQ0pqQlJGZk80MnRHWGdzOS16a1JhYTdsWDlKWnplcjRvcEsza3JWcGVYY1BPUUtOenRlZ3JXZ1d0bVk3ZWJOQUp6TUdBMUszdmNPX3d2R1lMaVdrNGhfMUx4UFlpQWtJeHhOd3g4S2lWWTY2OU85U25LTkdLVVNaR2tGNDhiaUdrM2Y?oc=5",
-     "bron": "AD.nl",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeEVESngzbkl2VXVubkFHX21EbjRTWE5PRmcyX0hCY0xQX29oX0oyUEtMNDBhOFhwNEFISnpkZjY0Q043YlhHcS1kdk9ETFBpNTdwNUR5amlzNjRXOHBla0ZmLTZzOVp6QmVMSWp1eWk2bklPWjYwOUE4TjZwX3ZENXpvbENVdW1GWlhRbEZpN0xpQl9OWGo4cFl3QUtQOGhlWHJUa0FNb0FiM21QaTZxaWZ3a05ZN0JLWlUwSW1IOUhoRURkaTUtRVdpMEJVbnM2dHZGWnVGSXlGYWpoMXZiMUpUcTA?oc=5",
+     "bron": "Brabants Dagblad",
      "tijd": "12:59",
      "sorteer": "2026-11-23T11:59:34+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Koning geeft premier De Wever weer week uitstel voor begrotingsakkoord België",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2poOUtWN1NWNWt0TDkyRlJUTnRSeUFqbnFJS1JKSGY0VGlNTUZZV3ZBRmt0dl9LN2NkckNSQmVfT3gzTTNKQl9fcERybTNvbGZuVmkzUXJIQUJvVTFXWlBydTlTb1oxMGxvcmMxVjB3MkgteEc2WUlhbTdjQUZ6ekVMd1dFOUJLd3l0QnUzODNLdEZSX3JmTFhnUDVnaU9jazJjekFuV1B6QkZv?oc=5",
-     "bron": "NOS",
-     "tijd": "12:57",
-     "sorteer": "2026-11-23T11:57:18+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Buma moet begrotingsproces op orde krijgen, kabinet blijft wankel",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2UmEydkxWU3dVdzRiMTFUQkd6T2NHWEx5NEtFRTVOT1E5NVJXSnB3VElaWWpJMDJNcm9fYkJZYm4yOTBxc1NxNkFvRGU3UQ?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "12:39",
-     "sorteer": "2026-11-23T11:39:19+00:00",
      "kop": "Begroting"
     },
     {
@@ -543,6 +541,15 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Meer maatregelen tegen probleemwolf mogelijk; wolvenpopulatie is 'genetisch gezond'",
+     "context": "De wolvenpopulatie in Nederland is gezond, waardoor wolven die gevaarlijk zijn voor vee, huisdieren en mensen zonder nadelige gevolgen verjaagd of afgeschoten kunnen worden. Dit heeft staatssecretaris Silvio Erkens bepaald. Hij wil het aantal incidenten rond 'probleemwolven' terugdringen.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3722442/meer-maatregelen-tegen-probleemwolf-mogelijk-wolvenpopulatie-is-genetisch-gezond",
+     "bron": "RTV Oost",
+     "tijd": "14:29",
+     "sorteer": "2026-11-23T13:29:42+00:00"
+    },
     {
      "titel": "Deventenaar dreigt woning te verliezen na drugsvondst van 2,5 miljoen euro",
      "context": "In een woning en berging van een man uit Deventer is in juni volgens woningstichting Ieder1 voor honderd kilo aan harddrugs aangetroffen. Meer dan voldoende om te eisen dat de man de woning verlaat, zo betoogt de corporatie maandag in een kort geding.",
@@ -591,15 +598,17 @@
      "sorteer": "2026-11-23T06:01:09+00:00"
     },
     {
-     "titel": "Opnieuw stakingen in streekvervoer, maar niet alle treinen vallen uit",
-     "context": "Reizigers in Overijssel moeten vandaag en morgen rekening houden met uitvallende bussen en regionale treinen. Vakbonden FNV en CNV hebben opnieuw landelijke stakingen uitgeroepen vanwege vastgelopen cao-onderhandelingen. Hoeveel ritten precies uitvallen, is nog niet duidelijk.",
+     "titel": "Gemeente Dalfsen test noodsteunpunt in Trefkoele+",
+     "context": "DALFSEN – Onderwerp: Pilot noodsteunpunt in gemeente Dalfsen vrijdag 27 november. Als stroom, telefoon en internet langdurig uitvallen, kan het moeilijk zijn om informatie te krijgen of contact te leggen. Een noodsteunpunt biedt dan een plek voor betrouwbare informatie en hulpvragen. Op vrijdag 27 november van 09:00 tot 12:00 uur oefent gemeente Dalfsen met een […]",
      "rubrieken": [
-      "breaking"
+      "Dalfsen",
+      "Ingezonden bericht",
+      "Laatste nieuws"
      ],
-     "link": "https://www.oost.nl/nieuws/3722307/opnieuw-stakingen-in-streekvervoer-maar-niet-alle-treinen-vallen-uit",
-     "bron": "RTV Oost",
-     "tijd": "06:37",
-     "sorteer": "2026-11-23T05:37:25+00:00"
+     "link": "https://www.dalfsennet.nl/nieuws/557168/gemeente-dalfsen-test-noodsteunpunt-in-trefkoele.html",
+     "bron": "DalfsenNet",
+     "tijd": "14:40",
+     "sorteer": "2026-11-23T13:40:13+00:00"
     },
     {
      "titel": "Open leesclub in Nieuwleusen rond Heel Nederland Leest",
@@ -613,19 +622,6 @@
      "bron": "DalfsenNet",
      "tijd": "12:52",
      "sorteer": "2026-11-23T11:52:17+00:00"
-    },
-    {
-     "titel": "Verhalencafé Dalfsen: Een andere kijk op onderwijs.",
-     "context": "DALFSEN – “Wat als we kinderen niet langer vragen om te leren wat wij belangrijk vinden, maar ruimte geven om te ontdekken wat voor hén belangrijk is?” Een verhaal dat je raakt. Op donderdagavond 26 november nemen Klaas Veldman en Wilco Nijland je mee in hun verhaal over onderwijs dat van binnenuit ontstaat. Klaas […]",
-     "rubrieken": [
-      "Dalfsen",
-      "Ingezonden bericht",
-      "Laatste nieuws"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/557141/verhalencafe-dalfsen-een-andere-kijk-op-onderwijs-een-verhaal-dat-je-raakt.html",
-     "bron": "DalfsenNet",
-     "tijd": "12:51",
-     "sorteer": "2026-11-23T11:51:50+00:00"
     }
    ]
   },
@@ -729,12 +725,20 @@
      "sorteer": "2026-11-23T13:39:18.41+01:00"
     },
     {
-     "titel": "Antwoord op vragen van het lid Teunissen over het gebruik van mogelijk excessief geweld door de politie op geweldloze…",
+     "titel": "Antwoord op vragen van het lid Faber over de appreciatie van het amendement 36835-9 in het kader van het trapsgewijs verhogen van…",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
-     "tijd": "23-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D60055",
-     "sorteer": "2026-11-23T13:16:09.387+01:00"
+     "tijd": "05-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D48567",
+     "sorteer": "2026-11-23T14:09:11.893+01:00"
+    },
+    {
+     "titel": "Voortgang aanpak woondiscriminatie",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "04-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D55367",
+     "sorteer": "2026-11-23T14:45:09.36+01:00"
     },
     {
      "titel": "Reactie op verzoek commissie over reactie op KNMG-brief over medische rechtspraak",
@@ -743,14 +747,6 @@
      "tijd": "03-11",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D55218",
      "sorteer": "2026-11-23T13:44:17.443+01:00"
-    },
-    {
-     "titel": "Een goed georganiseerd hulplandschap voor slachtoffers van seksueel misbruik en geweld",
-     "bron": "Brief van de regering",
-     "kop": "Brieven en moties",
-     "tijd": "20-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D59711",
-     "sorteer": "2026-11-23T11:31:04.26+01:00"
     },
     {
      "titel": "Petitie 'Herzie het asielbeleid voor Jemen op basis van actuele feiten'",
@@ -816,7 +812,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "14:00",
+    "bijgewerkt": "15:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1382,15 +1378,15 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 83 plekken in de afgelopen week, waarvan 11 vandaag",
+     "titel": "Invasiejaar — op 88 plekken in de afgelopen week, waarvan 16 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 183 vogels; 216 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 208 vogels; 232 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
-     "titel": "17 plekken binnen 75 km van Dalfsen",
+     "titel": "18 plekken binnen 75 km van Dalfsen",
      "bron": "dichtstbij: Doldersum - Boschoord, 42 km (2026-11-22)",
      "tijd": "10:03",
      "link": "https://waarneming.nl/species/306/observations/"
@@ -1416,19 +1412,19 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 6.1,
-    "gevoel": 4.0,
+    "nu": 5.9,
+    "gevoel": 3.8,
     "wind": "W 2",
     "station": "Heino",
     "bericht": "Afgelopen nacht kwam het voor het eerst dit seizoen tot matige vorst! Ook de komende nachten kan het licht tot matig vriezen. Overdag is het vrij zonnig en het blijft deze week koud voor de laatste fase van november. Vanmiddag is het vrij zonnig en blijft het droog.",
     "vandaag": "Vanmiddag is het vrij zonnig en blijft het droog. Vanavond is het helder, maar in het noorden zijn er wat wolkenvelden en kan er een enkele (winterse) bui voorkomen.",
     "temperatuur": "Ook is het koud met de minima tussen -2 graden in Zeeland tot -5 graden, plaatselijk -6 graden in het oosten en zuidoosten.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -3 tot 6 graden, droog, ruim 7 uur zon, wind uit het westen, kracht 2.",
-     "max": 6,
+     "zin": "Voor Dalfsen zelf: -3 tot 5 graden, droog, ruim 7 uur zon, wind uit het westen, kracht 2.",
+     "max": 5,
      "min": -3,
      "regenkans": 4,
-     "omschrijving": "bewolkt",
+     "omschrijving": "lichte motregen",
      "morgen": {
       "max": 2,
       "min": -3,
