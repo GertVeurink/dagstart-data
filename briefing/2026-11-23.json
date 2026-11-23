@@ -3,13 +3,15 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "12:00",
+  "opgehaald": "13:00",
   "blokken": 11,
-  "berichten": 81,
-  "problemen": [],
+  "berichten": 86,
+  "problemen": [
+   "google '\"minister van Justitie\" OR \"Ju': HTTP 429"
+  ],
   "audio_herkomst": "vangnet"
  },
- "opgehaald": "2026-11-23T12:00+01:00",
+ "opgehaald": "2026-11-23T13:00+01:00",
  "audio": "audio/20261123.mp3",
  "afval": [
   {
@@ -51,70 +53,70 @@
  ],
  "duiding": [
   {
-   "titel": "PvdD noemt belastingplan groener",
-   "tekst": "De Partij voor de Dieren is volgens Trouw trots op een belastingplan dat volgens de partij groener is geworden (24).",
+   "titel": "Buma moet begrotingsproces herstellen",
+   "tekst": "Volgens BNR moet Buma het begrotingsproces op orde krijgen, en BNR noemt het kabinet daarbij wankel (23).",
    "verwijzingen": [
     {
-     "titel": "Partij voor de Dieren is trots op ‘groener’ belastingplan",
-     "link": "https://www.trouw.nl/politiek/partij-voor-de-dieren-is-trots-op-groener-belastingplan~bf2bc0a6/",
-     "bron": "Trouw",
-     "tijd": "18:40",
+     "titel": "Buma moet begrotingsproces op orde krijgen, kabinet blijft wankel",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2UmEydkxWU3dVdzRiMTFUQkd6T2NHWEx5NEtFRTVOT1E5NVJXSnB3VElaWWpJMDJNcm9fYkJZYm4yOTBxc1NxNkFvRGU3UQ?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "12:39",
      "nummers": [
-      24
+      23
      ]
     }
    ],
-   "geschreven": "07:26"
+   "geschreven": "13:01"
   },
   {
-   "titel": "Vakbonden staken in streekvervoer",
-   "tekst": "FNV en CNV staken vandaag en morgen in het streekvervoer, ook bij RRReis in Overijssel, omdat de onderhandelingen over de cao Openbaar Vervoer zijn vastgelopen (14). Die cao geldt voor ruim 13.000 werknemers, vooral buschauffeurs van onder meer Arriva, Transdev en EBS (14). Daarom vallen streekbussen, stadsbussen en regionale treinen uit (14). Werknemers kiezen wel zelf of ze staken, dus rijden er volgens RRReis soms toch bussen en treinen (14). In Friesland en Groningen wordt volgens Arriva niet gestaakt (14).",
+   "titel": "Filip geeft De Wever uitstel",
+   "tekst": "Koning Filip gaf de Belgische premier De Wever opnieuw uitstel, nu een week, voor een begrotingsakkoord, en het paleis wil daarmee een aanslepende crisis vermijden (1). Die coalitie moet zeker 10 miljard euro bezuinigen om aan Europese regels te voldoen, maar is het sinds de zomer niet eens waarop (1). Tegen die bezuinigingen wordt al maanden gestaakt, en vandaag lag het vliegverkeer stil (12).",
    "verwijzingen": [
     {
-     "titel": "Minder bussen en treinen: week begint met staking streekvervoer",
-     "link": "https://nos.nl/l/2640660",
+     "titel": "Koning geeft premier De Wever weer week uitstel voor begrotingsakkoord België",
+     "link": "https://nos.nl/l/2640698",
      "bron": "NOS",
-     "tijd": "04:00",
+     "tijd": "12:57",
      "nummers": [
-      14
+      1
+     ]
+    },
+    {
+     "titel": "Flights grounded in Belgium due to strike against austerity measures",
+     "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "12:26",
+     "nummers": [
+      12
      ]
     }
    ],
-   "geschreven": "07:26"
+   "geschreven": "13:01"
   },
   {
-   "titel": "Klimaattop eindigt zonder akkoord",
-   "tekst": "De klimaattop in het Turkse Antalya is zonder slotakkoord geëindigd, omdat ruim 190 landen het niet eens werden over afscheid van olie, steenkool en aardgas (26). Daarvoor liepen de onderhandelingen twee dagen uit, de langste in de geschiedenis van de top (11). Die breuk loopt volgens de Australische minister Murray Watt tussen landen die fossiele brandstoffen produceren en landen die zwaar door klimaatverandering worden getroffen (9).",
+   "titel": "Berendsen stuurt delegatie naar India",
+   "tekst": "Minister Berendsen stuurt deze week een delegatie naar India om de tien jaar geleden ontvoerde Insiya terug te krijgen, omdat India haar vader niet uitlevert (5). Die vader, Shehzad Hemani, kreeg in Nederland 8,5 jaar cel voor de ontvoering (5). Toch erkent India geen ontvoering als het kind bij een ouder woont, en het land is geen lid van het Haags Kinderontvoeringsverdrag (5). Haar moeder heeft Insiya sinds september 2016 niet meer gezien (5).",
    "verwijzingen": [
     {
-     "titel": "Australian politics live: NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community",
-     "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-     "bron": "The Guardian",
-     "tijd": "06:50",
+     "titel": "Nederland stuurt delegatie naar India om ontvoerde Insiya terug te krijgen",
+     "link": "https://nos.nl/l/2640677",
+     "bron": "NOS",
+     "tijd": "09:15",
      "nummers": [
-      9
+      5
      ]
     },
     {
-     "titel": "What's next after no deal at COP31 climate talks?",
-     "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "06:34",
+     "titel": "Insiya werd 10 jaar geleden als peuter naar India ontvoerd. Waarom grijpt de overheid daar niet in?",
+     "link": "https://www.volkskrant.nl/buitenland/insiya-werd-10-jaar-geleden-als-peuter-naar-india-ontvoerd-waarom-grijpt-de-overheid-daar-niet-in~bbd7fc96/",
+     "bron": "de Volkskrant",
+     "tijd": "12:30",
      "nummers": [
-      11
-     ]
-    },
-    {
-     "titel": "Nieuwsuur: Klimaattop mislukt • Verslaafd aan chemseks • De muziekscene van Kyiv",
-     "link": "https://nos.nl/l/2640600",
-     "bron": "NPO2 · 22:00",
-     "tijd": "22:00",
-     "nummers": [
-      26
+      7
      ]
     }
    ],
-   "geschreven": "07:26"
+   "geschreven": "13:01"
   }
  ],
  "denkwerk": {
@@ -148,46 +150,46 @@
  },
  "verder": [
   {
-   "kop": "Wet neemt rijbewijs direct af",
-   "blok": "nationaal",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX2Zrd08yel9mdUxsa3lRQ3d3bU9pcmZWeFUzRzRMVzNxX0hISm1VWmRQMlBDYjlrRG51Rk5RTlhVcGxLeEFvZEdRbGIzSHpDY3FkN2tuWUFBVlpaajczRktqdHA1RFJGT0NrN3QtTURUTDNjdVFVYmpDTzFIUXlTVWhmOU90bl8yMm9nN2g3aVo1TlJVeWRCaWdSaDhPc0E3R0Nkc0xtdHB2UnRaUWloLXhnR1phQQ?oc=5",
-   "bron": "De Gelderlander",
-   "titel": "Rijbewijs straks direct kwijt, ook bij hoger beroep: nieuwe wet aangenomen"
-  },
-  {
-   "kop": "Prostitutieklant kan cel in",
-   "blok": "nationaal",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSXZWNHFtSml1Z1dmZWRFeVVfQUtOWmJfWm9vX1pScHVPVEk4aDE1Slc0RllhUlg1NHBXRHRFMWF3Y3JaRlM3SG5rRTVrcGxlbHFxaFpHQ1FZeUdsV3NTcFdvYUs3Qmtib29KdTJCaFg3SlZVOERSSV9CNjZ2WmdHSlV1MHN1cTA3aElSa0M5UW5GNG5UVVY3cHBfaThsWGkyNGNFbjB2Qy05dDJ2d2lOWlFrN0p5eGxJeTdxTDJ2RDY0c3pwVmdCWklibTJsMXlJNU50N2RPdU9tX2oyOU1CX1dWcUpuMFBta09nYl9PbU5Cdw?oc=5",
-   "bron": "De Telegraaf",
-   "titel": "Wetsvoorstel moet zorgen voor strengere regels prostitutie: minimumleeftijd en klanten kunnen in de cel belanden"
-  },
-  {
-   "kop": "Kamer stelt terrorismedebat uit",
-   "blok": "bron",
-   "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05594",
-   "bron": "Commissiedebat",
-   "titel": "Terrorisme/extremisme (tot nader order uitgesteld)"
-  },
-  {
-   "kop": "Provincie maakt kanaal dieper",
+   "kop": "Enschedeërs vermoeden vaak drugs",
    "blok": "lokaal",
-   "link": "https://www.oost.nl/nieuws/3720295/provincie-pakt-ondiepe-plekken-in-kanaal-almelo-de-haandrik-aan",
+   "link": "https://www.oost.nl/nieuws/3722146/ruim-de-helft-van-de-enschedeers-ziet-of-vermoedt-iets-verdachts-in-de-buurt",
    "bron": "RTV Oost",
-   "titel": "Provincie pakt ondiepe plekken in kanaal Almelo-De Haandrik aan"
+   "titel": "Ruim de helft van de Enschedeërs ziet of vermoedt iets verdachts in de buurt"
   },
   {
-   "kop": "Aanval op Dymer doodt elf",
-   "blok": "internationaal",
-   "link": "https://nos.nl/l/2640658",
+   "kop": "OM eist weer dertig jaar",
+   "blok": "nationaal",
+   "link": "https://nos.nl/l/2640690",
    "bron": "NOS",
-   "titel": "Dodental Russische aanval op woongebouw bij Kyiv opgelopen tot 11"
+   "titel": "OM eist in hoger beroep weer 30 jaar cel en tbs tegen Erasmusschutter"
   },
   {
-   "kop": "Huang-minnares sprak Chinese spion",
+   "kop": "Mail bedreigt 900 Duitse scholen",
    "blok": "internationaal",
-   "link": "https://nos.nl/l/2640659",
+   "link": "https://nos.nl/l/2640696",
    "bron": "NOS",
-   "titel": "'Alice Huang tijdens affaire met Nvidia-chef ruim een jaar in contact met spionagedienst'"
+   "titel": "Bommelding bij honderden Duitse scholen, ook meldingen in Denemarken"
+  },
+  {
+   "kop": "Vrouw sterft bij brand Zuidlaren",
+   "blok": "nationaal",
+   "link": "https://nos.nl/l/2640692",
+   "bron": "NOS",
+   "titel": "Vrouw (90) overleden bij woningbrand in Zuidlaren"
+  },
+  {
+   "kop": "Rapport adviseert Duitse tol",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3722369/gaan-we-tol-betalen-op-de-autobahn-idee-ligt-in-duitsland-weer-op-tafel",
+   "bron": "RTV Oost",
+   "titel": "Gaan we tol betalen op de Autobahn? Idee ligt in Duitsland weer op tafel"
+  },
+  {
+   "kop": "Drones raken Russisch schip",
+   "blok": "internationaal",
+   "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "bron": "BBC",
+   "titel": "Russian warship hit by Ukrainian drones in Libya, Zelensky says"
   }
  ],
  "blokken": [
@@ -196,6 +198,33 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Koning geeft premier De Wever weer week uitstel voor begrotingsakkoord België",
+     "context": "Koning Filip geeft de Belgische premier De Wever nog meer tijd om tot een begrotingsakkoord te komen in zijn coalitie. Dit keer krijgt hij een week om tot een vergelijk te komen. De Wever, van de rechtse N-VA, had al meermaals uitstel gekregen vanwege de moeizame onderhandelingen. Kort voor het middaguur kwam De Wever aan bij het paleis, na een korte en blijkbaar felle nieuwe onderhandelingsronde ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640698",
+     "bron": "NOS",
+     "tijd": "12:57",
+     "sorteer": "2026-11-23T12:57:18+01:00"
+    },
+    {
+     "titel": "Bommelding bij honderden Duitse scholen, ook meldingen in Denemarken",
+     "context": "In Duitsland zijn honderden scholen opgeschrikt door bommeldingen. Volgens Duitse media gaat het om ongeveer 900 scholen. Ook in Denemarken bevestigt de politie dat bij meerdere scholen bommeldingen zijn binnengekomen. De Duitse scholen, verspreid over het hele land, ontvingen de melding per e-mail. Alle berichten zouden hetzelfde onderwerp hebben gehad: \"De dood wacht op je\". Ook de inhoud van de",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640696",
+     "bron": "NOS",
+     "tijd": "12:24",
+     "sorteer": "2026-11-23T12:24:16+01:00"
+    },
+    {
+     "titel": "Oxfam: bijna heel Gaza mogelijk vervuild door geweld Israël",
+     "context": "Door Israëlisch geweld is de Gazastrook mogelijk ernstig vervuild geraakt, concludeert Oxfam Novib in een uitgebreid rapport. Volgens de hulporganisatie is zowel in de lucht, de grond als het water mogelijk giftige vervuiling aanwezig. Het gaat onder meer om zware metalen, asbestvezels en ziekteverwekkers. Als die eenmaal in het milieu zijn gekomen, kunnen die zich volgens de onderzoekers verder v",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640694",
+     "bron": "NOS",
+     "tijd": "12:18",
+     "sorteer": "2026-11-23T12:18:42+01:00"
+    },
     {
      "titel": "Duitse minister van Onderwijs (CDU) spreekt zich uit voor AfD-verbod",
      "context": "Voor het eerst spreekt een CDU-minister zich uit om te onderzoeken of de partij Alternative für Deutschland (AfD) verboden moet worden. Het gaat om Onderwijs- en Familieminister Karin Prien, die in Nederland is geboren. Aanleiding vormen de onderwijsplannen van de AfD in Saksen-Anhalt, waar de partij mogelijk gaat regeren. Prien verwijst op X naar een gastartikel in de Frankfurter Allgemeine Zeitu",
@@ -215,40 +244,22 @@
      "sorteer": "2026-11-23T09:15:26+01:00"
     },
     {
-     "titel": "Zelensky: Oekraïne blies Russisch marineschip op in Libië",
-     "context": "De Oekraïense president Zelensky heeft de verantwoordelijkheid opgeëist voor een aanval op een Russisch marineschip in de haven van de Libische stad Benghazi. Als bewijs voor zijn claim publiceerde hij beelden waarop te zien is hoe Oekraïense zeedrones op het schip afstevenen en tot ontploffing komen. Met deze propagandavideo eiste Zelensky de aanvallen op: Zelensky schrijft dat er zeven drones zi",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640676",
-     "bron": "NOS",
-     "tijd": "08:57",
-     "sorteer": "2026-11-23T08:57:32+01:00"
-    },
-    {
-     "titel": "Wekdienst 23/11: Staking in streekvervoer • Erasmusschutter hoort strafeis",
-     "context": "Goedemorgen! Werknemers in het streekvervoer staken vanwege vastgelopen cao-onderhandelingen en Fouad L. hoort welke straf het OM in hoger beroep tegen hem eist voor drie moorden en brandstichting. Eerst het weer: Vandaag schijnt regelmatig de zon, in het noorden komen ook wolken voor en in het zuiden is het plaatselijk mistig. De maxima liggen tussen 2 of 3 graden in het zuidoosten en 7 graden in",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640667",
-     "bron": "NOS",
-     "tijd": "06:41",
-     "sorteer": "2026-11-23T06:41:03+01:00"
-    },
-    {
-     "titel": "Duizenden bezoekers concert Manchester geëvacueerd om onbekende stof",
-     "context": "Bij een concert in Manchester zijn zondagavond 12.000 bezoekers geëvacueerd. Er was volgens de politie een onbekende stof vrijgekomen. Het gebeurde tijdens een concert van de Amerikaanse rapper Don Toliver in de Co-op Live Arena. Op beelden op sociale media is te zien dat bezoekers hoestend de zaal verlaten: Ambulancepersoneel onderzocht ter plaatse ruim vijftig mensen. Sommigen hadden last van hu",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640662",
-     "bron": "NOS",
-     "tijd": "05:52",
-     "sorteer": "2026-11-23T05:52:39+01:00"
-    },
-    {
-     "titel": "Spanjaarden gaan bijna naar de stembus: wie grijpt de macht?",
+     "titel": "Oekraïne slaat toe tot in Libië, Russisch oorlogsschip Merkury zou zijn gezonken",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/spanjaarden-gaan-bijna-naar-de-stembus-wie-grijpt-de-macht~bbc4a773/",
+     "link": "https://www.volkskrant.nl/buitenland/oekraine-slaat-toe-tot-in-libie-russisch-oorlogsschip-merkury-zou-zijn-gezonken~b4cb57f2/",
      "bron": "de Volkskrant",
-     "tijd": "11:08",
-     "sorteer": "2026-11-23T10:08:16+00:00"
+     "tijd": "12:38",
+     "sorteer": "2026-11-23T11:38:30+00:00"
+    },
+    {
+     "titel": "Insiya werd 10 jaar geleden als peuter naar India ontvoerd. Waarom grijpt de overheid daar niet in?",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/insiya-werd-10-jaar-geleden-als-peuter-naar-india-ontvoerd-waarom-grijpt-de-overheid-daar-niet-in~bbd7fc96/",
+     "bron": "de Volkskrant",
+     "tijd": "12:30",
+     "sorteer": "2026-11-23T11:30:09+00:00"
     },
     {
      "titel": "Ze begon een webwinkel vanuit huis en is nu miljardair op de EU-sanctielijst. Wie is Wildberries-oprichter Tatjana Kim?",
@@ -260,90 +271,85 @@
      "sorteer": "2026-11-23T10:54:34+00:00"
     },
     {
-     "titel": "Dozens Unaccounted for After Fire Rips Through Candy Factory in Indonesia",
-     "context": "Hundreds of people were at the compound when a blaze broke out on Saturday and then raged for hours.",
+     "titel": "Next issues cyber-attack warning after ‘benign’ data accessed by hackers",
+     "context": "Retailer says it believes no personal data that could lead to fraud was accessed after hack of third-party supplier Business live – latest updates Next has warned that hackers have gained access to data relating to the clothing and homewares retailer through a technology supplier. The firm said on Monday that it had been informed that one of its third-party suppliers had “experienced a cyber incid",
      "rubrieken": [
-      "Fires and Firefighters",
-      "Factories and Manufacturing",
-      "Workplace Hazards and Violations",
-      "Deaths (Fatalities)",
-      "Candy",
-      "Indonesia"
-     ],
-     "link": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
-     "bron": "New York Times",
-     "tijd": "11:45",
-     "sorteer": "2026-11-23T10:45:26+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "From mocked to mainstream: how Spain’s far-right Vox transformed its fortunes",
-     "context": "Party that won just 0.2% of the vote in 2016 is on course for almost 20% this time and could be part of next government Almost exactly eight years ago, a video clip of a stocky, bearded man riding a horse through western Andalucía went viral in Spain . The rider was Santiago Abascal, the leader of the far-right Vox party, the soundtrack was a bombastic snatch of the Lord of the Rings score, and th",
-     "rubrieken": [
-      "Spain",
-      "The far right",
-      "Europe",
-      "World news"
-     ],
-     "link": "https://www.theguardian.com/world/2026/nov/23/vox-party-spain-far-right-mocked-to-mainstream",
-     "bron": "The Guardian",
-     "tijd": "11:37",
-     "sorteer": "2026-11-23T10:37:48+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "How industrial cooperation strengthens Europe’s defense readiness",
-     "context": "European and North American defense companies are strengthening industrial cooperation through the Patriot® program, supporting manufacturing capacity, technical expertise, and long-term defense readiness across Europe.",
-     "rubrieken": [
-      "Aerospace",
-      "Borders",
-      "Buildings",
-      "Companies",
-      "Cooperation",
-      "Defense",
-      "Development",
-      "Employment",
-      "Growth",
-      "Industry",
-      "Innovation",
-      "Investment",
-      "Manufacturing",
-      "Military",
-      "Missiles",
-      "Resilience",
-      "Security",
-      "Supply chains",
+      "Next",
+      "Cybercrime",
       "Technology",
-      "Defense"
+      "Retail industry",
+      "Business",
+      "UK news",
+      "Internet"
      ],
-     "link": "https://www.politico.eu/sponsored-content/how-industrial-cooperation-strengthens-europes-defense-readiness/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "link": "https://www.theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers",
+     "bron": "The Guardian",
+     "tijd": "12:53",
+     "sorteer": "2026-11-23T11:53:45+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+     "context": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "12:40",
+     "sorteer": "2026-11-23T11:40:01+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
+     "context": "The Israeli prime minister, Benjamin Netanyahu calls renewing strikes a matter of national security. Military analysts and opposition leaders say he’s prioritizing his own interests.",
+     "rubrieken": [
+      "US and Israeli Attack on Iran (2026)",
+      "International Relations",
+      "Politics and Government",
+      "Defense and Military Forces",
+      "United States International Relations",
+      "Infrastructure (Public Works)",
+      "Likud Party (Israel)",
+      "Yashar Party (Israel)",
+      "Yisrael Beiteinu (Israeli Political Party)",
+      "Eisenkot, Gadi",
+      "Netanyahu, Benjamin",
+      "Trump, Donald J",
+      "Iran",
+      "Israel",
+      "United States"
+     ],
+     "link": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
+     "bron": "New York Times",
+     "tijd": "12:33",
+     "sorteer": "2026-11-23T11:33:01+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Flights grounded in Belgium due to strike against austerity measures",
+     "context": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "12:26",
+     "sorteer": "2026-11-23T11:26:12+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Belgium’s De Wever visits the king (again) with no budget deal in sight",
+     "context": "The five-party coalition government is on the brink due to a deadlock over how to shrink the deficit.",
+     "rubrieken": [
+      "Belgian politics",
+      "Budget",
+      "Politics"
+     ],
+     "link": "https://www.politico.eu/article/belgium-bart-de-wever-heads-to-king-with-no-budget-deal-in-sight/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
      "bron": "Politico Europe",
-     "tijd": "10:00",
-     "sorteer": "2026-11-23T09:00:00+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Kenya and DR Congo agree to restore ties after tensions over conflict",
-     "context": "The two leaders committed to upholding sovereignty and \"non-interference in the internal affairs of states\".",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "09:53",
-     "sorteer": "2026-11-23T08:53:01+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-     "context": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "09:41",
-     "sorteer": "2026-11-23T08:41:08+00:00",
+     "tijd": "12:11",
+     "sorteer": "2026-11-23T11:11:49+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -355,6 +361,15 @@
    "emoji": "🇳🇱",
    "items": [
     {
+     "titel": "Vrouw (90) overleden bij woningbrand in Zuidlaren",
+     "context": "Bij een brand in Zuidlaren is een 90-jarige vrouw om het leven gekomen, meldt RTV Drenthe . De brand brak rond 05.30 uur uit in haar woning. Een buurvrouw alarmeerde de hulpdiensten. De vrouw is nog gereanimeerd, maar dat mocht niet baten. Het slachtoffer overleed ter plaatse. Het is niet duidelijk hoe de brand ontstond, de politie is nog bezig met onderzoek. Rondom de woning zijn afzetlinten gepl",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640692",
+     "bron": "NOS",
+     "tijd": "12:05",
+     "sorteer": "2026-11-23T12:05:43+01:00"
+    },
+    {
      "titel": "OM eist in hoger beroep weer 30 jaar cel en tbs tegen Erasmusschutter",
      "context": "Het Openbaar Ministerie (OM) heeft ook in hoger beroep dertig jaar cel en tbs met dwangverpleging geëist tegen Fouad L., ook bekend als de Erasmusschutter. Zowel het OM als L. ging in hoger beroep tegen het vonnis uit februari 2025. De inmiddels 35-jarige L. schoot in september 2023 zijn buurmeisje Romy (14) dood, vervolgens haar moeder Marlous (39) en daarna, in het Erasmus Medisch Centrum, docen",
      "rubrieken": [],
@@ -362,6 +377,15 @@
      "bron": "NOS",
      "tijd": "11:34",
      "sorteer": "2026-11-23T11:34:58+01:00"
+    },
+    {
+     "titel": "Wekdienst 23/11: Staking in streekvervoer • Erasmusschutter hoort strafeis",
+     "context": "Goedemorgen! Werknemers in het streekvervoer staken vanwege vastgelopen cao-onderhandelingen en Fouad L. hoort welke straf het OM in hoger beroep tegen hem eist voor drie moorden en brandstichting. Eerst het weer: Vandaag schijnt regelmatig de zon, in het noorden komen ook wolken voor en in het zuiden is het plaatselijk mistig. De maxima liggen tussen 2 of 3 graden in het zuidoosten en 7 graden in",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640667",
+     "bron": "NOS",
+     "tijd": "06:41",
+     "sorteer": "2026-11-23T06:41:03+01:00"
     },
     {
      "titel": "Nederlanders stoken minder gas, maar gebruiken meer stroom voor verwarming",
@@ -380,16 +404,6 @@
      "bron": "NOS",
      "tijd": "04:00",
      "sorteer": "2026-11-23T04:00:01+01:00"
-    },
-    {
-     "titel": "Bewoners redden de bruggen in Pekela: 'We hebben iets unieks bereikt'",
-     "context": "Ruim de helft van de 34 bruggen in Pekela dreigde te verdwijnen, maar dankzij bewoners worden ze nu een voor een opgeknapt. Zo blijft de infrastructuur intact en het onderhoud pakt nog goedkoper uit dan de gemeente had begroot. Hoe kan dat? Het Pekelerhoofddiep snijdt de Groningse veendorpen Oude Pekela, Nieuwe Pekela en Boven Pekela dwars doormidden. Voor het oversteken zijn de bewoners afhankeli",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640638",
-     "bron": "NOS",
-     "tijd": "19:45",
-     "sorteer": "2026-11-22T19:45:36+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Kamerleden: nieuwe wet moet ‘mensonterende’ uitbuiting van buitenlandse draagmoeders voorkomen",
@@ -419,32 +433,25 @@
      "sorteer": "2026-11-23T10:55:23+00:00"
     },
     {
-     "titel": "’Alice Huang had contact met Chinese inlichtingendienst’",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUDRzUzNVVGF1MzJpd1h1d25IT2lfUTdJeEd4S1J4MTRLWWNBelJ1WmllYVZXakRab0M3TGxKTkRSOVltTVhRQTMtX05jcGU5RHQtWG1YeUtCNWI1MmN5XzBueklyYlRPZkxzWkY3UEJjek96WE4wRUIyQVEtb09Hak51YlVzUEFNS2ZQTWFIMTBhM1pyUk5pTE43XzgzQlJyQUdxZGVxakk?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "11:48",
-     "sorteer": "2026-11-23T10:48:52+00:00"
-    },
-    {
      "titel": "Esmée D. zwijgt over verdenking partnermoord",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPSmdiWTAzUUdBNlgxbG1HNEtHZkp3NmRaZTNja1JXWU03aUhOazlWWS1SNlFpem1QTEtnM29jQzBoZjZPWFFxRjNwYjlGWFJ6bVdTLXA2aG1VQ3FIUGtzNVUzQ0FhUmNlTXNnYjV6YVRRRjE1U2l4Zg?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxWDlBRU8ycFZnYUFLYU1OMlJnaXViMlRSdFJ5TVZLZlc2R2V4Q19USVdqT2J2QkpaUm1DYkRNbHd6YWJxNDVKaWQwN2pLMFdxSFJqX3lqZUlFMnhEMFVWbmJQMjE2eDVLNUE0UGtvU3k?oc=5",
      "bron": "Reformatorisch Dagblad",
-     "tijd": "11:45",
-     "sorteer": "2026-11-23T10:45:26+00:00"
+     "tijd": "12:55",
+     "sorteer": "2026-11-23T11:55:11+00:00"
     },
     {
-     "titel": "Voetbalrel loopt volledig uit de hand: trainer neergeslagen, supporter knock-out",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcHFsbEdyeFl6azNkXzJsd2JzMWItbEpMSHJINWMwZHlqWFVWYjA0SlY3NFN2cjBqS0FBOThQMVUzcGYzOXI3VmNqRW4zSmx4cEpvZTQ3MWV6VDBDdHZiLThVZGFWQVVQLW9OUV92c2hsREY3M3FaY18wem5UR0x3cERtT1pYRFpHY3hrSTRRYjRhM2VNdWE4ei16bi1QdnEtOFpKc0lhZXJLRktNY3NPdS1rLTI3RDVZcHZiTjNpLUsyNWZuWHNaWA?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "11:24",
-     "sorteer": "2026-11-23T10:24:50+00:00"
+     "titel": "Gelderland haalt omgekeerde vlaggen weg: „Je wilt niet dat losgewaaide vlag op voorruit rijdende auto belandt”",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX1E0c0hMdEtKR1hveTFrSjV6MzZTSTRzNThQXzluVzhvTWZsZDcwSWhGOXV5Nko0THNtdl9kMWxfY2VaWlFleGV3TjMtV3FMRUc2Sk5vamRUd0llQ1ljSk5Qb3dhNHE5d0lndHdWNDZONk1KNkQzQWdmaG5nTHZkQVJEU1ZiRDlUYkEtY1E3Si1iRlBBS2ZpSjlVTHBjTkdJTlYybjNYV2lKaFl6RXJSRjRIQnhHX3FfN2RWZ3pKRUxXSjVwaHEyNEpNWDl6QQ?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "12:33",
+     "sorteer": "2026-11-23T11:33:35+00:00"
     },
     {
-     "titel": "Kabinet wil geen uitstel omstreden Europese CO2-heffing 2028",
-     "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQbml4R2ZZYmRsbTZPUDhteGRHS01rWmJNS0N2cllMLTV5bm80VkxqYjZJb19LMEcxTkItQXIxV0Fhd1RCTVpqTmpNZWtiVXVXZmZOZFVGQTRpYk5VZ2k3Qkw0cVVGRmZ3OTFaakFnWm1mdU56azQ2V1d0OERjNmtCYlNRR3U4a09zNk8tdDRRR2RCemRpcjlaYk5vOUduRHQ4dzAzNU84c0dsNzN2NWhqaFNIUHB0Wk9iWVp5VjhUS0NUcnFDUlc3b25MMHJrbTBOVnRYQjR0UXR3S0lKek1IeUZZVWFET1JFVGNtZ1hzYXI4Z3R6T0hHekd4U2xaU1NxcEJzTk1oVDlTUm9NNmNfVG50aw?oc=5",
+     "titel": "Wetsvoorstel moet zorgen voor strengere regels prostitutie: minimumleeftijd en klanten kunnen in de cel belanden",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSXZWNHFtSml1Z1dmZWRFeVVfQUtOWmJfWm9vX1pScHVPVEk4aDE1Slc0RllhUlg1NHBXRHRFMWF3Y3JaRlM3SG5rRTVrcGxlbHFxaFpHQ1FZeUdsV3NTcFdvYUs3Qmtib29KdTJCaFg3SlZVOERSSV9CNjZ2WmdHSlV1MHN1cTA3aElSa0M5UW5GNG5UVVY3cHBfaThsWGkyNGNFbjB2Qy05dDJ2d2lOWlFrN0p5eGxJeTdxTDJ2RDY0c3pwVmdCWklibTJsMXlJNU50N2RPdU9tX2oyOU1CX1dWcUpuMFBta09nYl9PbU5Cdw?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "11:16",
-     "sorteer": "2026-11-23T10:16:48+00:00"
+     "tijd": "12:31",
+     "sorteer": "2026-11-23T11:31:27+00:00"
     },
     {
      "titel": "Wat hebben de twee grote taboes van onze tijd, seks en spiritualiteit, gemeen? Dat onderzoekt deze razendslimme roman",
@@ -461,11 +468,19 @@
      "sorteer": "2026-11-23T04:45:04+00:00"
     },
     {
-     "titel": "Nieuw voorstel voor EU-begroting gaat kabinet niet ver genoeg",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ3lud1RMa2NzdGpLV0xBSHNjMHdCVjVhczRhNlRKMFlJYTBUWmxSN2s5R1hFZTRsVTY2V2lNcW5fMDRqWG5DVG5Obk5iTmZDelQ3ZWpmRjFqbDRUZXhvbTJBTmFtVHJUTEFCQzlFdXgySGxRWjJvM1dhbVBHdWlBYk45UjFXcWZJdEE4djRlaGc?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "11:50",
-     "sorteer": "2026-11-23T10:50:13+00:00",
+     "titel": "Buma moet begrotingsproces op orde krijgen, kabinet blijft wankel",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2UmEydkxWU3dVdzRiMTFUQkd6T2NHWEx5NEtFRTVOT1E5NVJXSnB3VElaWWpJMDJNcm9fYkJZYm4yOTBxc1NxNkFvRGU3UQ?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "12:39",
+     "sorteer": "2026-11-23T11:39:19+00:00",
+     "kop": "Begroting"
+    },
+    {
+     "titel": "Nederland blijft kritisch op nieuw begrotingsvoorstel EU",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTU9hRnE3VEo4NGtuaXJxNEJLd1B0MjVTSElVLXY5a2N2ZE9DUWRHLW0tSVhXU1k5UnhQRnZ4am8zVlVKLWlWbFhmeFFzbGxPZTZfbFgwNjdsRC1XTmpFNUk0QWNBRlVZSkRlMzRHQzZXcTA4S2t3M0tZazJHa1lQY21RZnpBejQwRVBjT01UTVBxWXE1a0stbHZBRVB4RUJwUDBDbE9XXzFHMHc?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "12:18",
+     "sorteer": "2026-11-23T11:18:19+00:00",
      "kop": "Begroting"
     },
     {
@@ -514,6 +529,15 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Gaan we tol betalen op de Autobahn? Idee ligt in Duitsland weer op tafel",
+     "context": "Gaan Nederlanders straks betalen voor een ritje over de Autobahn? Een vertrouwelijk rapport voor de Duitse regering adviseert tol voor personenauto's om de snelwegen te bekostigen. Berlijn houdt de boot nog af, maar het idee ligt na een eerdere mislukte poging wel weer op tafel.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3722369/gaan-we-tol-betalen-op-de-autobahn-idee-ligt-in-duitsland-weer-op-tafel",
+     "bron": "RTV Oost",
+     "tijd": "12:02",
+     "sorteer": "2026-11-23T11:02:42+00:00"
+    },
+    {
      "titel": "MST en GGD willen drempel verlagen: 'Mensen denken: het overkomt mij niet'",
      "context": "Het aantal nieuwe hiv-diagnoses in Nederland neemt na jaren van daling weer toe. Om besmettingen eerder op te sporen, kunnen mensen zich deze week gratis en anoniem laten testen bij ziekenhuis MST en de GGD in Enschede. Binnen tien minuten is de uitslag bekend.",
      "rubrieken": [],
@@ -561,42 +585,30 @@
      "sorteer": "2026-11-23T04:02:08+00:00"
     },
     {
-     "titel": "Zeventig jaar getrouwd en nog altijd verliefd: 'Nooit met ruzie naar bed'",
-     "context": "Zeventig jaar getrouwd en nog altijd onafscheidelijk. Wat is het geheim van Margje (92) en Kasper (97) de Graaf uit Almelo? Hoe houden ze de romantiek en het huwelijk goed? Daar hoeven ze niet lang over na te denken: \"Nooit met ruzie naar bed gaan, eerst uitpraten.\"",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/cultuur/3720146/zeventig-jaar-getrouwd-en-nog-altijd-verliefd-nooit-met-ruzie-naar-bed",
-     "bron": "RTV Oost",
-     "tijd": "19:02",
-     "sorteer": "2026-11-22T18:02:05+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Stralende zon en spiegelglad water bij de Bijkersplas",
-     "context": "NIEUWLEUSEN – VINKENBUURT – Een stralende zon, prachtige weerspiegelingen in het water en volop natuurschoon: Femmie Smink genoot gisteren tijdens een wandeling bij de Bijkersplas in de Vinkenbuurt. Met haar camera legde ze het landschap vast op meer dan tien foto’s. Het heerlijke weer maakte de wandeling extra aangenaam. De omgeving weerspiegelde zich fraai in […]",
+     "titel": "Open leesclub in Nieuwleusen rond Heel Nederland Leest",
+     "context": "NIEUWLEUSEN – In het kader van de landelijke campagne Heel Nederland Leest organiseert leescluborganisatie Senia op donderdag 26 november om 19.00 uur, een gratis open leesclub in de bibliotheek in Kulturhus De Spil in Nieuwleusen. Centraal staat dit jaar de roman Het diner van Herman Koch. Tijdens de bijeenkomst gaan deelnemers met elkaar in […]",
      "rubrieken": [
       "Ingezonden bericht",
       "Laatste nieuws",
       "Nieuwleusen"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/557152/stralende-zon-en-spiegelglad-water-bij-de-bijkersplas.html",
+     "link": "https://www.dalfsennet.nl/nieuws/557139/open-leesclub-in-nieuwleusen-rond-heel-nederland-leest.html",
      "bron": "DalfsenNet",
-     "tijd": "11:54",
-     "sorteer": "2026-11-23T10:54:10+00:00"
+     "tijd": "12:52",
+     "sorteer": "2026-11-23T11:52:17+00:00"
     },
     {
-     "titel": "Fotografietrainer Tom Reuvers bij Fotoclub Dalfsen",
-     "context": "DALFSEN – De maandelijkse fotografieavond van Fotoclub Dalfsen stond dit keer niet in het teken van het samen bekijken en beoordelen van foto’s over een bepaald onderwerp. Tom Reuvers, fotograaf, fotografietrainer en freelanceschrijver voor Zoom en Zoom Academy, verzorgde deze avond in november. Hij vertelde over de belangrijkste cameratechnieken die kunnen helpen bij het […]",
+     "titel": "Verhalencafé Dalfsen: Een andere kijk op onderwijs.",
+     "context": "DALFSEN – “Wat als we kinderen niet langer vragen om te leren wat wij belangrijk vinden, maar ruimte geven om te ontdekken wat voor hén belangrijk is?” Een verhaal dat je raakt. Op donderdagavond 26 november nemen Klaas Veldman en Wilco Nijland je mee in hun verhaal over onderwijs dat van binnenuit ontstaat. Klaas […]",
      "rubrieken": [
       "Dalfsen",
       "Ingezonden bericht",
       "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/557150/fotografietrainer-tom-reuvers-bij-fotoclub-dalfsen.html",
+     "link": "https://www.dalfsennet.nl/nieuws/557141/verhalencafe-dalfsen-een-andere-kijk-op-onderwijs-een-verhaal-dat-je-raakt.html",
      "bron": "DalfsenNet",
-     "tijd": "11:31",
-     "sorteer": "2026-11-23T10:31:24+00:00"
+     "tijd": "12:51",
+     "sorteer": "2026-11-23T11:51:50+00:00"
     }
    ]
   },
@@ -677,6 +689,14 @@
    "emoji": "🤖",
    "items": [
     {
+     "titel": "Antwoord op vragen van de leden Kostic en Teunissen over het buitensporige watergebruik van een nieuw datacenter in Amsterdam",
+     "bron": "Antwoord op Kamervragen",
+     "kop": "Uit de Tweede Kamer",
+     "tijd": "05-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D48768",
+     "sorteer": "2026-11-23T12:07:05.677+01:00"
+    },
+    {
      "titel": "Zoek met een nieuw TikTok-account naar ‘geld’ en binnen een dag pompt het algoritme je feed vol criminele content",
      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUDBVdjZyRlFJdU5FUzRscnlURmtzSGRhMFdwTU9SU3N5b2JySmFHWnBzTThmMlUyZkdLeHlpQVZMa05wcWpwRS1KY0pKcmNLR2ZyQmxlS0JSTjNUSE9PQ0p6NDZUVmVxQ1JmSnVQWjg5cFBuSWpHUnYycldBaUtaZlpaMWtkY2JwUTNud19jX1RfZ0Z4QlViN0JuVHVVMTktYklFR0dCcTVLRUo1alJDbmZ1a09RUllnTWxJT0ZKcEo2TURISWdTRjZCcDlRU3RTamZMQXg2V3dJSVd6Y1R5OXYzaE5zazRVSk1wOXZ3?oc=5",
      "bron": "NRC",
@@ -691,12 +711,12 @@
    "emoji": "🏛️",
    "items": [
     {
-     "titel": "Antwoord op vragen van de leden Stoffer en Ceder over de 25e verjaardag van de beruchte Durban-conferentie tegen racisme",
+     "titel": "Antwoord op vragen van het lid lid Markuszower over het bericht over de aanpak van de asielinstroom in Duitsland",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
-     "tijd": "07-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49312",
-     "sorteer": "2026-11-23T10:18:46.293+01:00"
+     "tijd": "05-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D48770",
+     "sorteer": "2026-11-23T12:42:38.623+01:00"
     },
     {
      "titel": "Een goed georganiseerd hulplandschap voor slachtoffers van seksueel misbruik en geweld",
@@ -778,7 +798,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "12:00",
+    "bijgewerkt": "13:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1187,20 +1207,20 @@
      "link": "https://scientias.nl/ook-vissen-maken-ruzie-met-hun-broers-en-zussen/"
     },
     {
+     "titel": "From farm to airline plates, a Zambia farm closes its food-waste loop",
+     "toelichting": "LUSAKA, Zambia — A passenger finishing a salad on a flight out of Lusaka may not know where the vegetables came from — or where some of the organic waste generated during meal preparation ends up. The answer to both ques",
+     "bron": "Mongabay (Engels)",
+     "tijd": "12:50",
+     "link": "https://news.mongabay.com/2026/11/from-farm-to-airline-plates-a-zambia-farm-closes-its-food-waste-loop/",
+     "sorteer": "2026-11-23T11:50:31+00:00"
+    },
+    {
      "titel": "Wolves help wild blueberries grow, US study finds",
      "toelichting": "Every summer in northern Minnesota, gray wolves become fruit eaters, mostly. During peak berry season in July and August, berries make up as much as 83% of adult wolves’ weekly diets in the Greater Voyageurs Ecosystem, a",
      "bron": "Mongabay (Engels)",
      "tijd": "11:57",
      "link": "https://news.mongabay.com/2026/11/wolves-help-wild-blueberries-grow-us-study-finds/",
      "sorteer": "2026-11-23T10:57:42+00:00"
-    },
-    {
-     "titel": "Bumblebees are problem-solvers too",
-     "toelichting": "Turns out bumblebees are spontaneous problem solvers too! In a series of experiments, scientists found that untrained bumblebees were able to find novel solutions to get a reward. The research builds on previous experime",
-     "bron": "Mongabay (Engels)",
-     "tijd": "08:40",
-     "link": "https://news.mongabay.com/short-article/2026/11/bumblebees-are-problem-solvers-too/",
-     "sorteer": "2026-11-23T07:40:22+00:00"
     }
    ]
   },
@@ -1209,6 +1229,22 @@
    "titel": "Vogels",
    "emoji": "🐦",
    "items": [
+    {
+     "titel": "Roodkopklauwier",
+     "kop": "Zeldzaamheden",
+     "bron": "Friesland",
+     "tijd": "09:23",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-23T09:23:00+01:00"
+    },
+    {
+     "titel": "Zwartbuikwaterspreeuw",
+     "kop": "Zeldzaamheden",
+     "bron": "Drenthe",
+     "tijd": "08:57",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-23T08:57:00+01:00"
+    },
     {
      "titel": "Bronskopeend",
      "kop": "Zeldzaamheden",
@@ -1234,58 +1270,61 @@
      "sorteer": "2026-11-22T16:08:00+01:00"
     },
     {
-     "titel": "Siberische Braamsluiper",
-     "kop": "Zeldzaamheden",
-     "bron": "Zuid-Holland",
-     "tijd": "12:29",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-22T12:29:00+01:00"
+     "titel": "Dalfsen (nacht)",
+     "kop": "Vogeltrek",
+     "bron": "23-11",
+     "wanneer": "vannacht",
+     "tijd": "17:10–07:30",
+     "link": "https://trektellen.org/count/view/2364/20261123",
+     "soorten": [
+      "Koperwiek 36",
+      "Merel 11",
+      "Wulp 6",
+      "Brandgans 3"
+     ],
+     "aantal_soorten": 14,
+     "opmerkingen": [
+      "Bonte strandloper Dunlin"
+     ],
+     "tellers": "Vincent Martens"
     },
     {
-     "titel": "Humes Bladkoning",
-     "kop": "Zeldzaamheden",
-     "bron": "Gelderland",
-     "tijd": "12:10",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-22T12:10:00+01:00"
-    },
-    {
-     "titel": "Landelijk vandaag: 30 soorten, 3.196 vogels geteld",
+     "titel": "Landelijk vandaag: 92 soorten, 21.392 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261123?language=dutch"
     },
     {
-     "titel": "Spreeuw — 2.020",
+     "titel": "Spreeuw — 12.708",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261123?language=dutch"
     },
     {
-     "titel": "Kolgans — 356",
+     "titel": "Zwarte Zee-eend — 1.476",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261123?language=dutch"
     },
     {
-     "titel": "Houtduif — 316",
+     "titel": "Houtduif — 888",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261123?language=dutch"
     },
     {
-     "titel": "Vink — 151",
+     "titel": "Koperwiek — 778",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261123?language=dutch"
     },
     {
-     "titel": "Brandgans — 105",
+     "titel": "Kolgans — 757",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -1293,39 +1332,47 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Brandgans springt eruit — 105, normaal 25",
-     "bron": "4× het gewone niveau",
+     "titel": "Smient springt eruit — 441, normaal 26",
+     "bron": "17× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261123?language=dutch",
-     "sein": false
+     "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Houtduif springt eruit — 316, normaal 83",
-     "bron": "4× het gewone niveau",
+     "titel": "Brandgans springt eruit — 421, normaal 25",
+     "bron": "17× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261123?language=dutch",
-     "sein": false
+     "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Vink springt eruit — 151, normaal 50",
-     "bron": "3× het gewone niveau",
+     "titel": "Houtduif springt eruit — 888, normaal 83",
+     "bron": "11× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261123?language=dutch",
-     "sein": false
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Merel springt eruit — 143, normaal 14",
+     "bron": "10× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261123?language=dutch",
+     "sein": true
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 78 plekken in de afgelopen week, waarvan 7 vandaag",
+     "titel": "Invasiejaar — op 82 plekken in de afgelopen week, waarvan 10 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 170 vogels; 197 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 179 vogels; 205 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
-     "titel": "16 plekken binnen 75 km van Dalfsen",
+     "titel": "17 plekken binnen 75 km van Dalfsen",
      "bron": "dichtstbij: Doldersum - Boschoord, 42 km (2026-11-22)",
      "tijd": "10:03",
      "link": "https://waarneming.nl/species/306/observations/"
@@ -1351,28 +1398,28 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 3.4,
-    "gevoel": 3.4,
-    "wind": "ZW 1",
+    "nu": 5.0,
+    "gevoel": 3.0,
+    "wind": "W 2",
     "station": "Heino",
     "bericht": "Afgelopen nacht kwam het voor het eerst dit seizoen tot matige vorst! Ook de komende nachten kan het licht tot matig vriezen. Overdag is het vrij zonnig en het blijft deze week koud voor de laatste fase van november. Vanmiddag is het vrij zonnig en blijft het droog.",
     "vandaag": "Vanmiddag is het vrij zonnig en blijft het droog. Vanavond is het helder, maar in het noorden zijn er wat wolkenvelden en kan er een enkele (winterse) bui voorkomen.",
     "temperatuur": "Ook is het koud met de minima tussen -2 graden in Zeeland tot -5 graden, plaatselijk -6 graden in het oosten en zuidoosten.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -3 tot 5 graden, droog, ruim 7 uur zon, wind uit het westen, kracht 3.",
+     "zin": "Voor Dalfsen zelf: -3 tot 5 graden, droog, ruim 7 uur zon, wind uit het westen, kracht 2.",
      "max": 5,
      "min": -3,
-     "regenkans": 0,
+     "regenkans": 4,
      "omschrijving": "bewolkt",
      "morgen": {
       "max": 3,
       "min": -4,
-      "regenkans": 0,
+      "regenkans": 1,
       "omschrijving": null
      }
     },
     "vooruit": "Perioden met zon en vrijwel overal droog. Vrij koud met in de nacht en ochtend overwegend lichte vorst en ook overdag steeds lagere temperaturen. In de loop van het weekeinde mogelijk wat neerslag en misschien wat zachter.",
-    "omslag": "Nachtvorst in aantocht: morgen tot -5 graden.",
+    "omslag": "Nachtvorst in aantocht: morgen tot -3 graden.",
     "min": "-3",
     "max": "5",
     "regenkans": 0,
@@ -1380,11 +1427,21 @@
     "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
     "morgen": {
      "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
-     "min": "-5",
+     "min": "-3",
      "max": "3",
      "regenkans": 0
     }
    }
   }
+ ],
+ "archief": [
+  "2026-11-23",
+  "2026-11-22",
+  "2026-11-21",
+  "2026-11-20",
+  "2026-11-19",
+  "2026-11-18",
+  "2026-11-17",
+  "2026-11-16"
  ]
 }
