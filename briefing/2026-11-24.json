@@ -3,15 +3,15 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "13:00",
+  "opgehaald": "14:00",
   "blokken": 11,
-  "berichten": 89,
+  "berichten": 88,
   "problemen": [
    "google '\"kunstmatige intelligentie\" AN': HTTP 429"
   ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-24T13:00+01:00",
+ "opgehaald": "2026-11-24T14:00+01:00",
  "audio": "audio/20261124.mp3",
  "afval": [
   {
@@ -246,32 +246,74 @@
      "sorteer": "2026-11-24T11:11:00+00:00"
     },
     {
-     "titel": "Voornaamste adviseur Trump over cyberveiligheid vertrekt na reeks incidenten",
+     "titel": "Rechts Spanje hoopt op de stem van Venezolanen en Cubanen, die welbeschouwd ‘geen migranten zijn’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/live-vs-trump-dringt-aan-op-versnelde-uitvoering-van-de-doodstraf-ondanks-mislukte-executies~bbc0cf3d/",
+     "link": "https://www.trouw.nl/buitenland/rechts-spanje-hoopt-op-de-stem-van-venezolanen-en-cubanen-die-welbeschouwd-geen-migranten-zijn~b51588e1/",
      "bron": "Trouw",
-     "tijd": "05:32",
-     "sorteer": "2026-11-24T04:32:00+00:00"
+     "tijd": "13:18",
+     "sorteer": "2026-11-24T12:18:00+00:00"
     },
     {
-     "titel": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
-     "context": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Congress to grill Jensen Huang over ties with China and Trump’s intervention Jensen Huang’s return to Nvidia, despite concerns over his conduct and the supply of AI chips to China, may sh",
+     "titel": "Stocks Set to Slide as Tech Stocks Partly Reverse Nvidia-Sparked Rally",
+     "context": "Markets have veered wildly for days, pushed and pulled by the drama at Nvidia and the record-breaking trading debut of Anthropic.",
      "rubrieken": [
-      "Business",
-      "Economics",
-      "Nvidia",
-      "Jensen Huang",
-      "Technology sector",
-      "US news",
-      "Technology",
-      "World news",
-      "UK news"
+      "Stocks and Bonds",
+      "NVIDIA Corporation",
+      "Standard & Poor's 500-Stock Index",
+      "United States",
+      "Artificial Intelligence",
+      "Nasdaq Composite Index",
+      "Company Reports",
+      "Anthropic AI LLC",
+      "Huang, Jen-Hsun"
      ],
-     "link": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+     "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+     "bron": "New York Times",
+     "tijd": "13:50",
+     "sorteer": "2026-11-24T12:50:46+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Russian governor detained in rare criminal case against regional leader",
+     "context": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "13:45",
+     "sorteer": "2026-11-24T12:45:43+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Summer heat deaths in 2026 reached record high of 5,258 in England",
+     "context": "Figure for May to September is far higher than previous peak of 2,985 since records began a decade ago More than 5,200 deaths in England in 2026 were linked to summer heat, the highest provisional annual total since records began a decade ago, according to the UK Health Security Agency. The government agency said 5,258 deaths were linked to extreme heat between May and September 2026. Continue rea",
+     "rubrieken": [
+      "Extreme heat",
+      "UK weather",
+      "England",
+      "Health",
+      "Environment",
+      "Society",
+      "UK news",
+      "Climate crisis"
+     ],
+     "link": "https://www.theguardian.com/environment/2026/nov/24/summer-heat-deaths-record-high-england",
      "bron": "The Guardian",
-     "tijd": "12:41",
-     "sorteer": "2026-11-24T11:41:35+00:00",
+     "tijd": "13:39",
+     "sorteer": "2026-11-24T12:39:50+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Israeli air strike kills Hamas internal security chief in Gaza",
+     "context": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "13:12",
+     "sorteer": "2026-11-24T12:12:48+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -299,49 +341,6 @@
      "bron": "Politico Europe",
      "tijd": "12:41",
      "sorteer": "2026-11-24T11:41:01+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-     "context": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "11:58",
-     "sorteer": "2026-11-24T10:58:51+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-     "context": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "11:53",
-     "sorteer": "2026-11-24T10:53:37+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Japan’s Leader, in Break with U.S., Defends International Criminal Court",
-     "context": "Sanae Takaichi welcomed the court’s president and vowed to accelerate financial support despite an effort by the Trump administration to cripple the global body.",
-     "rubrieken": [
-      "International Relations",
-      "United States International Relations",
-      "Courts and the Judiciary",
-      "Embargoes and Sanctions",
-      "International Criminal Court",
-      "Takaichi, Sanae",
-      "Japan",
-      "Tokyo (Japan)",
-      "Tomoko Akane"
-     ],
-     "link": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
-     "bron": "New York Times",
-     "tijd": "11:35",
-     "sorteer": "2026-11-24T10:35:29+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -407,39 +406,41 @@
      "sorteer": "2026-11-24T09:45:29+00:00"
     },
     {
-     "titel": "Broer van Bolle Jos op vrije voeten: ‘Ik wil geen contact meer met hem’",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMXBnbWVMQUI1WjJvOS1zQWZZUF9KVlh4bHhMaUxkbzhpYk03cWtLbk83eXhzOElOZU5wSVlIak9MVVZxV3ZkSEJGZzVZYXZSb1dzdUluZGVxZWZoVGpFNkZzVUYxMmhha1ZGQ3RzWW9EMDRGM0s3NXJXTzdFRzhNWXRzTmY4NVJIVUNjUGoteENEQ09NMlRveW9GazFLM0xOZmdSVUJyOHp1Qnc?oc=5",
-     "bron": "AD.nl",
-     "tijd": "12:56",
-     "sorteer": "2026-11-24T11:56:08+00:00"
+     "titel": "Psyche van de verdachte van de moord op Lisa blijft ‘een black box’, zeggen advocaten",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.trouw.nl/binnenland/psyche-van-de-verdachte-van-de-moord-op-lisa-blijft-een-black-box-zeggen-advocaten~be9ac877/",
+     "bron": "Trouw",
+     "tijd": "12:05",
+     "sorteer": "2026-11-24T11:05:00+00:00"
     },
     {
-     "titel": "Justitie eist drie jaar cel voor verkrachting uit 1993 in Apeldoorn",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTWZPcTdHR3ppNGJhRVM2VTJ6TTRqOUpkME1LakdrYjM1ZFQ0QWNueVdGZ05HUzF5THMxR25jdzZNZ2RiUnpLaXFxaFdja0lTZHpXWkI4RTZzOWItZEhfeGlyUTFkSy1tQUh2T05CblFKNmd1SjZkNmJUMkpJeENvZW0zVkRPVnhOOXJ3UlRXcXg3aEdaMklFSm1Qa0swX1ViN3pzaHA0Nl9wakZMYjBFSA?oc=5",
-     "bron": "Tubantia",
-     "tijd": "11:43",
-     "sorteer": "2026-11-24T10:43:19+00:00"
+     "titel": "Stel in hoger beroep veroordeeld tot cel voor deelname aan IS, nadat ze eerder gedeeltelijk waren vrijgesproken",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNckQxVjFvcDRZYlBHNFhFdkR6d2tGclRZRGpjbjg0X0dPak9BVzZuUjJacXhDQkd3c2s0cW5oYU5tZmVjVEFSdnlaVWNUdHVvX043SUpyWjZ4MzFLOU5YQ3hyZUFROWxlR1l4VDFfdURVb1hqYk9aSHBHd3ZLUTdtNW9pUFFOZWwwSGszRFBfV2lxb25qa29LVFdhN29nZjJscFZwN3RkS0FiWEdwUmwyREZfeVpkdjU0cVg3WGRiT0RZcXZlU1k3dkxYUjJhNEhESkRTdUNnZlBmY2JjcnpnNXZHWWdRLXYzc3Zocg?oc=5",
+     "bron": "de Stentor",
+     "tijd": "13:43",
+     "sorteer": "2026-11-24T12:43:40+00:00"
+    },
+    {
+     "titel": "Ruim 100 onterechte verkeersboetes in Zaanstad door technische storing",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXBDRlBaRERaR2xiSmJlR3ptUlhoZVVEQVZfcHE0MXlaUWVTajh4X0JnM0FUb2pQTDY4eVFla2c3ZnlTNFRteGMtMVF5UFZqRDFtTVRaSEpXZ0h3eFhHamc2S01fS3VpV3d1T1dpQlBjTGpNcG1vZmJFZE1nYTQ2dlF5dDFxTWFpc2JoTjNSZ21RZ2hFZmNBWk02MXF3VHNpa1E?oc=5",
+     "bron": "NOS",
+     "tijd": "13:02",
+     "sorteer": "2026-11-24T12:02:53+00:00"
+    },
+    {
+     "titel": "Toestand van Braziliaanse oud-president Jair Bolsonaro (71) ’aanzienlijk verbeterd’ na darmobstructie",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQXzQ0X3RuQ1hwRmVGUVp0MVROTjFFcHl1elpkRnkyVUhxTW55Z2JDZnBrLUJLOFdDamhoUUVyeXZoUkF0TlQwb29QaV84QUFKRDAwOXVhZ2wzQ3Y1RlRVNlZ6MGpPWnZheVpDZ1p2QTVKXzYzQ2FjeFM2NkRuYV9CZFpYT2dyTUJNZkhfME9TWUdialhaa1JQZ19sWEx5MnhkdnNQRjlGUzFUR0RCOGhMa1dOWEdBUG56RnFPSVpHSTRrLVk1bGNobU1vV25wYlU5UXJCalhKYWJUNXJkY0c4dUR3?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "13:58",
+     "sorteer": "2026-11-24T12:58:59+00:00"
     },
     {
      "titel": "Trump tegen afschaffing doodstraf Californië door Newsom",
      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaC01dE5XaVdqVVhHRzJHX3duV01icVNvS0VtdVl1TElvYXVELUkwYV9MVUdIb2RPX3Z0bFh1a0h3MkJHRFh6NmRMOF9kU3RkUFJlUUFCOHJfbGRMYjJ1amtxNUJjdVV1X05IMjRxRTVyRDB4X1pWYzhxQ0hBUm0tQUxRRzVKOGduT0ZoOUxnTnJwZnRveGc5bHUzSmxzZWNiNU1tR1RER0otTVJGcmwyR0VraEZXaWFHSlliejRpWVdPbWFzVlV0S3ZaaGlFbEFocnc0SE8wakZRbFZUWjhYYjBxOW9tcEJBcWVLdDk0cU1NSmlXSjdIOVVoYW03TlB6cVlMS29KS2o?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "12:55",
-     "sorteer": "2026-11-24T11:55:29+00:00"
-    },
-    {
-     "titel": "Scholieren openen hun Magister-cijfers alsof het een spel is, maar hoe veilig is dat?",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOel9IclREbllsb2lRcUdtYU16R2JCNi1kbDlzV1Rwbm9ueTNpNkQzQS1vSnRQQmVUU0l5U3FUekRwWDFNS0xPMVpzcEUtcFdXSXQ5ZTBOR0M3dnl6R1hEZEcwWnFacEZqbGJLbEFYZGhoTHVQb1ZuZVZZZmFzM2JWMWYzOWt0QTNSREV6RTJ5TGtQWHoxMHZoQVBwb1RYWHh4ZmFtM2FpWlVxLTVuLWNlQS1GXzVscWdJT3p3bjZacFdRQQ?oc=5",
-     "bron": "Tubantia",
-     "tijd": "11:00",
-     "sorteer": "2026-11-24T10:00:20+00:00"
-    },
-    {
-     "titel": "ChristenUnie wil celstraf voor wie seks koopt bij jongeren onder de 21",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQXzdmVDg1c25TUGhEUTJ5SUdVZUlOMlVaRG1vMTVYSXRPQW9kTVZiLVpNdU1LSTMyLW5fcXNoYklROHhvLThmTnU4c3MtcER5S19OZ2pMRm9qRWxQLWQzTnd0eTJaUjVuc0w0OFA5WVc0dWhwR1VHM216cUdNalk1RTl5aW9BclV5LWxCcHdyQVAtWmIzZHE0dFhDOWJiQQ?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "10:41",
-     "sorteer": "2026-11-24T09:41:11+00:00"
+     "tijd": "13:48",
+     "sorteer": "2026-11-24T12:48:10+00:00"
     },
     {
      "titel": "Kinderen moeten leren liegen, vindt deze pedagoog",
@@ -462,17 +463,6 @@
      "bron": "NPO1 · 19:05",
      "tijd": "19:05",
      "sorteer": "2026-11-24T19:05:00"
-    },
-    {
-     "titel": "Nieuwsuur: Inspectie grijpt in: Gommers stopt bij Erasmus MC • Ontvoering Insiya • AI-muziek",
-     "context": "Gommers stapt op als afdelingshoofd ic Erasmus MC Op de intensive care van het Erasmus Medisch Centrum in Rotterdam is sprake van een situatie \"die een ernstige bedreiging voor de veiligheid van patiënten of de zorg kan betekenen\". Dat concludeert de Inspectie Gezondheidszorg en Jeugd (IGJ) in een onderzoek naar de werkcultuur op de grootste ic van Nederland, die onder leiding staat van Diederik G",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640708",
-     "bron": "NPO2 · 22:00",
-     "tijd": "22:00",
-     "sorteer": "2026-11-24T22:00:00",
-     "kop": "Vanavond op tv",
-     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Pauw & De Wit",
@@ -547,29 +537,29 @@
     },
     {
      "titel": "Er is een nieuw overlijdensbericht",
-     "context": "HOONHORST – Er staat een nieuw overlijdensbericht op DalfsenNet.nl Mogelijk gaat het om een hele goede bekende van u. Klik hier om dat bericht te lezen.",
+     "context": "DALFSEN – Er is een nieuw overlijdensbericht geplaatst op DalfsenNet.nl. Mogelijk gaat het om een goede bekende van u. Klik hier om dat bericht te lezen.",
      "rubrieken": [
-      "Hoonhorst",
+      "Dalfsen",
       "Ingezonden bericht",
       "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/557217/er-is-een-nieuw-overlijdensbericht-122.html",
+     "link": "https://www.dalfsennet.nl/nieuws/557226/er-is-een-nieuw-overlijdensbericht-123.html",
      "bron": "DalfsenNet",
-     "tijd": "12:34",
-     "sorteer": "2026-11-24T11:34:47+00:00"
+     "tijd": "13:26",
+     "sorteer": "2026-11-24T12:26:47+00:00"
     },
     {
-     "titel": "Frisse en natte neuzen weer",
-     "context": "DALFSEN – Het was vanmorgen lekker fris in het gebied tegenover Foreco. De Eekwal, het heuveltjesbos, de hei en de vennetjes zijn elk seizoen mooi. En vandaag waren we de enige gasten met , net als onze hond, een natte neus. We keken goed of we nog ijshaar zagen. Maar daar waren we te vroeg […]",
+     "titel": "Bijenvereniging Dalfsen en omgeving",
+     "context": "DALFSEN – Bijenvereniging Dalfsen en omgeving brengt imkers samen die zich inzetten voor het houden van bijen en het bevorderen van biodiversiteit. De leden zijn vooral actief in en rond de kern van Dalfsen. Ze delen hun kennis en werken samen aan gezonde bijenvolken en een omgeving waarin bijen voldoende voedsel kunnen vinden. Een lange […]",
      "rubrieken": [
+      "Dalfsen",
       "Ingezonden bericht",
-      "Laatste nieuws",
-      "Rechteren"
+      "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/557210/frisse-en-natte-neuzen-weer.html",
+     "link": "https://www.dalfsennet.nl/nieuws/557220/bijenvereniging-dalfsen-en-omgeving.html",
      "bron": "DalfsenNet",
-     "tijd": "12:20",
-     "sorteer": "2026-11-24T11:20:53+00:00"
+     "tijd": "13:08",
+     "sorteer": "2026-11-24T12:08:12+00:00"
     }
    ]
   },
@@ -665,32 +655,18 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Werknemer bezorgd over opmars AI-bril: ’Wat als bij het bukken je kont wordt gefilmd?’",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNWlVa3ZBQU5NZkl5OEsyMDRiYlEtRExna2VTZjV2T1d4QTdkbVN3RndWQjI1NFYydEpjanJHUmhaOVBZMjM2ZERCMFdoMExieXdmRVlRdkdKM3RBVTMxemtfVlp0RTNHakdkd01kU1BwTUNBX09KN0o5YkppT2JlSG0xY2E2Zlltc2x3dENzWm5vNW9LczdXVGpNa0FZVXBfaHpqOElKeVZSMWxmR3ZwVTZCSDg4eEZKU2hqYzlkeG5PSlJlRGtCbQ?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "13:32",
+     "sorteer": "2026-11-24T12:32:10+00:00"
+    },
+    {
      "titel": "Werkdruk bij ambtelijk apparaat stijgt doordat gemeentepolitiek steeds meer AI inzet",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWDBPMXRJVHhGcnFOOWQxcENLelpSS1N1dUFEQ2o1OTAxREtnUVpEUjc0WV9WQW9xZlo4NEhWVW92WjZSdnFGeWY0UUdleVM0SXRPb2tseFR5bm5jS2l1MFN0NzRTakl6YkNDNFgwVUk4U2RWRlN4b0x3SmNhSENSR0NUR1l5cm8tOV9ETXh3RkZFbHRKMFhNMUFRdjdJcWgwbjFNanRYYkZJVVlyTzZURl9kS3l6MEpEdmRRRS1wU3hMOGNrczhfaUtsYjNGc1FL?oc=5",
      "bron": "bnr.nl",
      "tijd": "12:40",
      "sorteer": "2026-11-24T11:40:00+00:00"
-    },
-    {
-     "titel": "Werknemer bezorgd over opmars AI-bril: ’Wat als bij het bukken je kont wordt gefilmd?’",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNWlVa3ZBQU5NZkl5OEsyMDRiYlEtRExna2VTZjV2T1d4QTdkbVN3RndWQjI1NFYydEpjanJHUmhaOVBZMjM2ZERCMFdoMExieXdmRVlRdkdKM3RBVTMxemtfVlp0RTNHakdkd01kU1BwTUNBX09KN0o5YkppT2JlSG0xY2E2Zlltc2x3dENzWm5vNW9LczdXVGpNa0FZVXBfaHpqOElKeVZSMWxmR3ZwVTZCSDg4eEZKU2hqYzlkeG5PSlJlRGtCbQ?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "12:33",
-     "sorteer": "2026-11-24T11:33:32+00:00"
-    },
-    {
-     "titel": "AI zet mannen en vrouwen totaal anders neer in sollicitatiebrieven",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZTR3N3hOR2t4TFAxRE1FUXZVT1ItdXZhT0paUE40YjlHRGR1THlmSTROV2NDNmJBTnVTLWdrWVN0M2ZpNS1BU09ieUt5dzB1VVRPRXY3dGljQThDblFlNHhOaWQ0REc2R1RDQlVhWHRfaDJRM1BTOUdhdER5UEtmUlZRdmJQLWNyZ19jMjhXS0VXbExjcUxEWktPb0UzbWxyUUhZODhvYzdKbFpLNV90cENJS0VyNGs?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "11:03",
-     "sorteer": "2026-11-24T10:03:40+00:00"
-    },
-    {
-     "titel": "AI-chatbots raden beleggers vrijwel altijd aan aandelen te kopen, maar slaan belangrijke stappen over",
-     "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOS3E5eTdtMG9LUTgwOFVUWUpKaWotVlRMdEJjYXVGX3NuN2ltSVBLc3k1R3pSbnM5SWhGUklDQzhvOC10UUQ3OGF2bmtEZFZHTXdhbl9kVTRxYzJKNGFTMWtLVlZqXzVZVW42MkhjMVpYZTN0T0FlMEI2RXBZZ1N5eFNTdUlfQlV3S3M5eFJ4TGdiT0k2U2JyOXRuUjBVM3FkTHZtSWJLZTJ4eVcyTzVGRUtzR2NEX0QwTEM3cTlEdXBsUzlkczRBOXpvRGNMXzVGVVdrWXBzNkdGVDNtTXREOTBSNUNtdHN6Ykk3VDVTdFliMFVxaDd4MnQ3OUVtNk1SZEpMSmIyTFF2eGVLR3ZDR0JUNVRIM1EyN3NhQzhwa2tLcVV3Y2FmdEVvQV9ya1Y3U1h4ZjJpd1Q4Nlk0QU82eE0yVTV6eFZ6LW95UWpR?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "07:50",
-     "sorteer": "2026-11-24T06:50:32+00:00"
     }
    ]
   },
@@ -732,20 +708,12 @@
      "sorteer": "2026-11-24T11:46:06.653+01:00"
     },
     {
-     "titel": "Onderzoeksopzet Periodieke Rapportage Ondermijning 2027",
+     "titel": "Reactie op het verzoek van het lid Markuszower, gedaan tijdens de Algemene Politieke Beschouwingen van 16 september 2026, over de…",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
-     "tijd": "09-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D42269",
-     "sorteer": "2026-11-24T12:32:29.287+01:00"
-    },
-    {
-     "titel": "Nieuw handelingskader politie externe bijeenkomsten",
-     "bron": "Brief van de regering",
-     "kop": "Brieven en moties",
-     "tijd": "21-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D44826",
-     "sorteer": "2026-11-24T12:09:45.98+01:00"
+     "tijd": "17-09",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D44049",
+     "sorteer": "2026-11-24T13:49:45.263+01:00"
     },
     {
      "titel": "Motie van het lid Moorman c.s. over ondersteuning van initiatieven voor de veiligheid en emancipatie  van lhbtiq+-mensen in…",
@@ -827,7 +795,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "13:00",
+    "bijgewerkt": "14:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1236,20 +1204,20 @@
      "link": "https://scientias.nl/tabaksplant-maakt-de-werkzame-stof-van-een-veelgebruikt-kankermedicijn/"
     },
     {
-     "titel": "Kiwi return to Wellington hills after 150 years in Māori-led conservation milestone",
-     "toelichting": "For the first time in more than 150 years, wild kiwi are roaming the hills surrounding Aotearoa New Zealand’s capital city, Wellington. The milestone follows the reintroduction of more than 250 kiwi to the landscape, an ",
+     "titel": "Global marine conservation gathering seeks solutions amid mounting ocean challenges",
+     "toelichting": "EDINBURGH — Ocean conservation efforts are being hindered by inadequate funding, as well as difficulties translating research into action, according to attendees of an international marine conservation congress in Scotla",
      "bron": "Mongabay (Engels)",
-     "tijd": "12:19",
-     "link": "https://news.mongabay.com/short-article/2026/11/kiwi-return-to-wellington-hills-after-150-years-in-maori-led-conservation-milestone/",
-     "sorteer": "2026-11-24T11:19:50+00:00"
+     "tijd": "13:44",
+     "link": "https://news.mongabay.com/2026/11/global-marine-conservation-gathering-seeks-solutions-amid-mounting-ocean-challenges/",
+     "sorteer": "2026-11-24T12:44:27+00:00"
     },
     {
-     "titel": "Elders in Bali renew push against new offshore gas terminal",
-     "toelichting": "DENPASAR, Indonesia — Customary leaders from Serangan village in Bali have renewed local opposition to a planned liquefied natural gas terminal off the east coast of the Indonesian island, saying the floating LNG site is",
+     "titel": "Indonesia fires test palm oil certification scheme as NGOs question RSPO accountability",
+     "toelichting": "JAKARTA — Environmental groups are questioning the effectiveness of a global organization that develops standards and certification for sustainable palm oil production after fires affected thousands of hectares in conces",
      "bron": "Mongabay (Engels)",
-     "tijd": "08:42",
-     "link": "https://news.mongabay.com/2026/11/elders-in-bali-renew-push-against-new-offshore-gas-terminal/",
-     "sorteer": "2026-11-24T07:42:36+00:00"
+     "tijd": "13:37",
+     "link": "https://news.mongabay.com/2026/11/indonesia-fires-test-palm-oil-certification-scheme-as-ngos-question-rspo-accountability/",
+     "sorteer": "2026-11-24T12:37:21+00:00"
     }
    ]
   },
@@ -1258,6 +1226,30 @@
    "titel": "Vogels",
    "emoji": "🐦",
    "items": [
+    {
+     "titel": "Bronskopeend",
+     "kop": "Zeldzaamheden",
+     "bron": "Zuid-Holland",
+     "tijd": "12:56",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-24T12:56:00+01:00"
+    },
+    {
+     "titel": "Humes Bladkoning",
+     "kop": "Zeldzaamheden",
+     "bron": "Gelderland",
+     "tijd": "12:48",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-24T12:48:00+01:00"
+    },
+    {
+     "titel": "Roodkopklauwier",
+     "kop": "Zeldzaamheden",
+     "bron": "Friesland",
+     "tijd": "11:05",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-24T11:05:00+01:00"
+    },
     {
      "titel": "Dwerggors",
      "kop": "Zeldzaamheden",
@@ -1351,11 +1343,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 98 plekken in de afgelopen week, waarvan 11 vandaag",
+     "titel": "Invasiejaar — op 102 plekken in de afgelopen week, waarvan 15 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 251 vogels; 323 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 266 vogels; 333 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1397,15 +1389,15 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": -0.1,
-    "gevoel": -3.4,
-    "wind": "OZO 2",
+    "nu": 1.6,
+    "gevoel": -0.6,
+    "wind": "ZO 2",
     "station": "Heino",
     "bericht": "Vandaag nog relatief weinig wind, en op steeds meer plaatsen volop zonneschijn! Morgen wordt gevoelig kouder, want er steekt een schrale oostenwind op!Vanmiddag is het zonovergoten, met temperaturen van 2 of 3 graden. De wind komt uit het zuidoosten en is matig van kracht. Op de Wadden steekt al een vrij krachtige wind op (windkracht 5), dat maakt het daar gevoelsmatig kouder.Vanavond is het helder en koud.",
     "vandaag": "Vanavond is het helder en koud. Vannacht blijvend helder en koud.",
     "temperatuur": "Vandaag nog relatief weinig wind, en op steeds meer plaatsen volop zonneschijn! Morgen wordt gevoelig kouder, want er steekt een schrale oostenwind op!Vanmiddag is het zonovergoten, met temperaturen van 2 of 3 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -4 tot 2 graden, droog, ruim 3 uur zon, wind uit het zuidoosten, kracht 3.",
+     "zin": "Voor Dalfsen zelf: -4 tot 2 graden, droog, ruim 5 uur zon, wind uit het zuidoosten, kracht 3.",
      "max": 2,
      "min": -4,
      "regenkans": 9,
@@ -1427,20 +1419,10 @@
     "morgen": {
      "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
      "min": "-2",
-     "max": "2",
+     "max": "3",
      "regenkans": 0
     }
    }
   }
- ],
- "archief": [
-  "2026-11-24",
-  "2026-11-23",
-  "2026-11-22",
-  "2026-11-21",
-  "2026-11-20",
-  "2026-11-19",
-  "2026-11-18",
-  "2026-11-17"
  ]
 }
