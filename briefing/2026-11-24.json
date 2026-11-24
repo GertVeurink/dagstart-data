@@ -7,10 +7,11 @@
   "blokken": 11,
   "berichten": 89,
   "problemen": [],
-  "audio_herkomst": null
+  "audio_herkomst": "model",
+  "audio_aangehaakt": "06:06"
  },
  "opgehaald": "2026-11-24T05:55+01:00",
- "audio": null,
+ "audio": "audio/20261124.mp3",
  "afval": [
   {
    "datum": "2026-11-27",
@@ -49,7 +50,83 @@
    "afwijkend": false
   }
  ],
- "duiding": [],
+ "duiding": [
+  {
+   "titel": "EU-plan verhoogt Nederlandse afdracht",
+   "tekst": "Een alternatief plan voor de EU-begroting laat de Nederlandse bijdrage aan Brussel stijgen naar 13,5 miljard euro per jaar (23). De Telegraaf noemt dat plan een drama voor Nederland (23).",
+   "verwijzingen": [
+    {
+     "titel": "Alternatief EU-begrotingsplan drama voor Nederland: contributie stijgt naar 13,5 miljard euro per jaar",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc3ZqUW5MeFY3YS1BRXZKR05GRUZXeEtmVUdlRV9sUlp5cVZWQmhiZ05Md213N1B6S0RCeXNHUW9XMkNQMTQ2b1I3dDhmUEk2N2t5bmUxaTRKU3V5cEM0bEUwVGxmLVA1UXVuMUZreUpaNXFxVXkxVndhdEltNDBUME4xU1luMVlja244ZlhCcUl0b1BGUEkzV1doM2NaRWFUU0RDZThEUVZmLUhnbHBUSml4VFc3ZWNDbHdGX1d0LTdMcnhPWWFQN2dXSGU4S3FaeTk2bEY1RlJXMTB6b1Rudkl6d0c1Zw?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "23:45",
+     "nummers": [
+      23
+     ]
+    }
+   ],
+   "geschreven": "06:06"
+  },
+  {
+   "titel": "Rusland eist uitleg over Destinus",
+   "tekst": "De Russische ambassade heeft Buitenlandse Zaken officieel om opheldering gevraagd over de rol van personeel van het Hengelose wapenbedrijf Destinus bij aanvallen op Rusland (5, 27). Dat verzoek volgt op een publicatie van NRC: werknemers zouden in Oekraïne op Russische drones hebben gejaagd en hebben geholpen aanvalsdrones op Rusland af te schieten (5). Daarbij telt volgens de NOS dat een burger die rechtstreeks aan vijandelijkheden deelneemt, de bescherming van het humanitair recht verliest (5).",
+   "verwijzingen": [
+    {
+     "titel": "Russische ambassade in Den Haag vraagt om opheldering betrokkenheid Destinus-personeel",
+     "link": "https://nos.nl/l/2640770",
+     "bron": "NOS",
+     "tijd": "21:43",
+     "nummers": [
+      5
+     ]
+    },
+    {
+     "titel": "Russische ambassade vraagt opheldering over rol Hengeloos wapenbedrijf Destinus",
+     "link": "https://www.oost.nl/nieuws/3722657/russische-ambassade-vraagt-opheldering-over-rol-hengeloos-wapenbedrijf-destinus",
+     "bron": "RTV Oost",
+     "tijd": "23:11",
+     "nummers": [
+      27
+     ]
+    }
+   ],
+   "geschreven": "06:06"
+  },
+  {
+   "titel": "Gommers stapt op na inspectierapport",
+   "tekst": "De inspectie grijpt in bij het Erasmus MC, en ic-hoofd Diederik Gommers legt zijn functie per direct neer (19, 25). Volgens de Inspectie Gezondheidszorg en Jeugd kan de werkcultuur op de grootste ic van Nederland een ernstige bedreiging zijn voor de veiligheid van patiënten (25). Daarop komt de raad van bestuur onder geïntensiveerd toezicht (25).",
+   "verwijzingen": [
+    {
+     "titel": "Diederik Gommers stapt per direct op als afdelingshoofd na kritisch rapport over werkcultuur op ic Erasmus MC",
+     "link": "https://www.volkskrant.nl/binnenland/diederik-gommers-stapt-per-direct-op-als-afdelingshoofd-na-kritisch-rapport-over-werkcultuur-op-ic-erasmus-mc~b0f6d1be/",
+     "bron": "de Volkskrant",
+     "tijd": "19:13",
+     "nummers": [
+      17
+     ]
+    },
+    {
+     "titel": "Inspectie grijpt in bij Erasmus MC vanwege ‘kwetsbare’ werkcultuur, Diederik Gommers vertrekt",
+     "link": "https://www.trouw.nl/binnenland/inspectie-grijpt-in-bij-erasmus-mc-vanwege-kwetsbare-werkcultuur-diederik-gommers-vertrekt~b90f83b2/",
+     "bron": "Trouw",
+     "tijd": "20:07",
+     "nummers": [
+      19
+     ]
+    },
+    {
+     "titel": "Nieuwsuur: Inspectie grijpt in: Gommers stopt bij Erasmus MC • Ontvoering Insiya • AI-muziek",
+     "link": "https://nos.nl/l/2640708",
+     "bron": "NPO2 · 22:00",
+     "tijd": "22:00",
+     "nummers": [
+      25
+     ]
+    }
+   ],
+   "geschreven": "06:06"
+  }
+ ],
  "denkwerk": {
   "tekst": "Hier rijst de vraag of het beter is bemind te worden dan gevreesd, of gevreesd dan bemind. Het antwoord is dat men het allebei zou willen, maar omdat het moeilijk is die twee in één persoon te verenigen, is het veel veiliger gevreesd te worden dan bemind, als men van de twee er één moet missen.",
   "wie": "Niccolò Machiavelli",
@@ -79,7 +156,43 @@
   "link": "https://waarneming.nl/observation/381044358/",
   "zeldzaam": 1
  },
- "verder": [],
+ "verder": [
+  {
+   "kop": "OM eist 22 jaar tegen Esmée D",
+   "blok": "nationaal",
+   "link": "https://nos.nl/l/2640757",
+   "bron": "NOS",
+   "titel": "OM eist 22 jaar cel tegen vrouw (27) die wordt verdacht van vermoorden partner"
+  },
+  {
+   "kop": "Rechtbank spreekt Twentenaren vrij",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3722506/mannen-uit-rijssen-en-nijverdal-vrijgesproken-van-ontvoering-jongen-16-op-camping",
+   "bron": "RTV Oost",
+   "titel": "Mannen uit Rijssen en Nijverdal vrijgesproken van ontvoering jongen (16) op camping"
+  },
+  {
+   "kop": "Nederland zet India onder druk",
+   "blok": "nationaal",
+   "link": "https://nos.nl/l/2640780",
+   "bron": "NOS",
+   "titel": "Nederlandse delegatie praat in India ook over terugkeer andere kinderen"
+  },
+  {
+   "kop": "NAVO stuurt AWACS naar Polen",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2640773",
+   "bron": "NOS",
+   "titel": "NAVO stuurt radarvliegtuig naar Polen na vondst van resten Russische raketten"
+  },
+  {
+   "kop": "NAVO belooft verdediging in ruimte",
+   "blok": "internationaal",
+   "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+   "bron": "BBC",
+   "titel": "Nato chief vows defence against space threat after Russian nuclear satellite reports"
+  }
+ ],
  "blokken": [
   {
    "id": "internationaal",
@@ -1350,5 +1463,15 @@
     }
    }
   }
+ ],
+ "archief": [
+  "2026-11-24",
+  "2026-11-23",
+  "2026-11-22",
+  "2026-11-21",
+  "2026-11-20",
+  "2026-11-19",
+  "2026-11-18",
+  "2026-11-17"
  ]
 }
