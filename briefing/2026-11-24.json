@@ -3,15 +3,13 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "14:00",
+  "opgehaald": "15:00",
   "blokken": 11,
-  "berichten": 88,
-  "problemen": [
-   "google '\"kunstmatige intelligentie\" AN': HTTP 429"
-  ],
+  "berichten": 93,
+  "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-24T14:00+01:00",
+ "opgehaald": "2026-11-24T15:00+01:00",
  "audio": "audio/20261124.mp3",
  "afval": [
   {
@@ -228,6 +226,15 @@
      "sorteer": "2026-11-24T03:26:35+01:00"
     },
     {
+     "titel": "Israëlische aanvallen op Gaza doden 6 burgers en Hamaskopstuk",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/israelische-aanvallen-op-gaza-doden-6-burgers-en-hamaskopstuk~b7968ae6/",
+     "bron": "de Volkskrant",
+     "tijd": "14:28",
+     "sorteer": "2026-11-24T13:28:00+00:00"
+    },
+    {
      "titel": "De schrik van de Siciliaanse maffia neemt zijn geheimen mee het graf in: was de oud-politiechef zelf corrupt?",
      "context": "",
      "rubrieken": [],
@@ -235,15 +242,6 @@
      "bron": "de Volkskrant",
      "tijd": "12:46",
      "sorteer": "2026-11-24T11:46:00+00:00"
-    },
-    {
-     "titel": "Iran valt twee tankers in Hormuz aan, hoogste aantal maandelijkse aanvallen sinds begin oorlog",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/iran-valt-twee-tankers-in-hormuz-aan-hoogste-aantal-maandelijkse-aanvallen-sinds-begin-oorlog~b7968ae6/",
-     "bron": "de Volkskrant",
-     "tijd": "12:11",
-     "sorteer": "2026-11-24T11:11:00+00:00"
     },
     {
      "titel": "Rechts Spanje hoopt op de stem van Venezolanen en Cubanen, die welbeschouwd ‘geen migranten zijn’",
@@ -255,23 +253,59 @@
      "sorteer": "2026-11-24T12:18:00+00:00"
     },
     {
-     "titel": "Stocks Set to Slide as Tech Stocks Partly Reverse Nvidia-Sparked Rally",
-     "context": "Markets have veered wildly for days, pushed and pulled by the drama at Nvidia and the record-breaking trading debut of Anthropic.",
+     "titel": "Norway Has Closed Its Last Coal Mine, Ending a Way of Life in the Arctic",
+     "context": "Svalbard has a mining history that goes back over a century. But this icy archipelago is now a cruise ship destination and a geopolitical hot spot.",
      "rubrieken": [
-      "Stocks and Bonds",
-      "NVIDIA Corporation",
-      "Standard & Poor's 500-Stock Index",
-      "United States",
-      "Artificial Intelligence",
-      "Nasdaq Composite Index",
-      "Company Reports",
-      "Anthropic AI LLC",
-      "Huang, Jen-Hsun"
+      "Coal",
+      "Norway",
+      "Svalbard and Jan Mayen (Norway)",
+      "Arctic Regions",
+      "Russia",
+      "Longyearbyen (Norway)"
      ],
-     "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+     "link": "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html",
      "bron": "New York Times",
-     "tijd": "13:50",
-     "sorteer": "2026-11-24T12:50:46+00:00",
+     "tijd": "14:56",
+     "sorteer": "2026-11-24T13:56:53+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
+     "context": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Democrats hit out at Nvidia and Trump over Huang’s return – US politics live Have you downloaded Meta’s AI assistant Muse or do you plan to? Congress to grill Jensen Huang over ties with China and Trump’s intervention Jensen Huang’s return to Nvidia, despite co",
+     "rubrieken": [
+      "Business",
+      "Economics",
+      "Nvidia",
+      "Jensen Huang",
+      "Technology sector",
+      "US news",
+      "Technology",
+      "World news",
+      "UK news"
+     ],
+     "link": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+     "bron": "The Guardian",
+     "tijd": "14:44",
+     "sorteer": "2026-11-24T13:44:03+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "MI5 warns UK defense firms they are target of Russian attacks",
+     "context": "An increased threat of Russian attacks across Europe has prompted British intelligence to call on U.K. defense firms to take action to protect themselves.",
+     "rubrieken": [
+      "Defense",
+      "European Defense",
+      "Intelligence",
+      "Intelligence services",
+      "War in Ukraine",
+      "Defense"
+     ],
+     "link": "https://www.politico.eu/article/mi5-warns-uk-defense-firms-they-are-target-of-russian-attacks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "14:30",
+     "sorteer": "2026-11-24T13:30:17+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -287,26 +321,6 @@
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Summer heat deaths in 2026 reached record high of 5,258 in England",
-     "context": "Figure for May to September is far higher than previous peak of 2,985 since records began a decade ago More than 5,200 deaths in England in 2026 were linked to summer heat, the highest provisional annual total since records began a decade ago, according to the UK Health Security Agency. The government agency said 5,258 deaths were linked to extreme heat between May and September 2026. Continue rea",
-     "rubrieken": [
-      "Extreme heat",
-      "UK weather",
-      "England",
-      "Health",
-      "Environment",
-      "Society",
-      "UK news",
-      "Climate crisis"
-     ],
-     "link": "https://www.theguardian.com/environment/2026/nov/24/summer-heat-deaths-record-high-england",
-     "bron": "The Guardian",
-     "tijd": "13:39",
-     "sorteer": "2026-11-24T12:39:50+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
      "titel": "Israeli air strike kills Hamas internal security chief in Gaza",
      "context": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
      "rubrieken": [],
@@ -314,33 +328,6 @@
      "bron": "BBC",
      "tijd": "13:12",
      "sorteer": "2026-11-24T12:12:48+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Right-wing revolt threatens to bog down EU budget",
-     "context": "A Patriots for Europe official said several other delegations could back a challenge that would slow down budget talks in the European Parliament.",
-     "rubrieken": [
-      "Budget",
-      "Competitiveness",
-      "Negotiations",
-      "Parliament",
-      "Research",
-      "Rights",
-      "Competition and Industrial Policy",
-      "Defense",
-      "Energy and Climate",
-      "EU Budget",
-      "Financial Services",
-      "Mobility",
-      "Sustainability",
-      "Technology",
-      "Trade"
-     ],
-     "link": "https://www.politico.eu/article/right-wing-revolt-threatens-to-bog-down-eu-budget/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "12:41",
-     "sorteer": "2026-11-24T11:41:01+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -351,6 +338,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Podcast De Dag: drie wiskundigen over het 'AI-genie'",
+     "context": "De afgelopen maanden hebben verschillende AI-modellen een paar van de grootste vraagstukken in de wiskunde opgelost. Dit weekend kwam daar de volgens sommigen 'heilige graal' bij, de zogeheten Riemann-hypothese. Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abonneren. Wiskundigen reageren tussen hoop en vrees op AI. Want als je",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640830",
+     "bron": "NOS",
+     "tijd": "14:28",
+     "sorteer": "2026-11-24T14:28:28+01:00"
+    },
     {
      "titel": "Industrie komt ook met statiegeldregeling voor grote sap- en melkflessen",
      "context": "De brancheorganisatie voor de verpakkingsindustrie begint in de loop van volgend jaar met de invoering van een statiegeldsysteem voor plastic sap- en zuivelflessen tot drie liter. Die flessen vallen nu nog buiten de statiegeldregeling die in 2021 voor kleinere plastic flessen werd ingevoerd. Brancheorganisatie Verpact komt daarmee tegemoet aan de eis van minister Van Veldhoven van Klimaat en Groen",
@@ -388,22 +384,13 @@
      "sorteer": "2026-11-24T09:09:01+01:00"
     },
     {
-     "titel": "BumaStemra gaat strijd aan met AI-muziek en dreigt met rechtszaak",
-     "context": "Muzikanten noemen het een grote bedreiging voor hun vak: de verkoop van AI-gegenereerde muziek, gebaseerd op hun werk, zonder dat zij er een cent voor krijgen. In de VS en Duitsland zijn al rechtszaken aangespannen tegen dit soort AI-platforms, met succes. Nu dreigt voor het eerst ook BumaStemra, de Nederlandse belangenbehartiger van muziekmakers, met juridische stappen. Michiel Laan, commercieel ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640788",
-     "bron": "NOS",
-     "tijd": "07:00",
-     "sorteer": "2026-11-24T07:00:01+01:00"
-    },
-    {
-     "titel": "Chef-kok wil gezonde lunch op elke basisschool: ‘Hoe fijn is het als er op school al de nodige wortels en paprika in gaan’",
+     "titel": "Hof: Nederlandse overheid moet klimaatdoelen aanscherpen en Bonaire meenemen",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/chef-kok-wil-gezonde-lunch-op-elke-basisschool-hoe-fijn-is-het-als-er-op-school-al-de-nodige-wortels-en-paprika-in-gaan~b2c45b36/",
+     "link": "https://www.volkskrant.nl/binnenland/hof-nederlandse-overheid-moet-klimaatdoelen-aanscherpen-en-bonaire-meenemen~b01742cc/",
      "bron": "de Volkskrant",
-     "tijd": "10:45",
-     "sorteer": "2026-11-24T09:45:29+00:00"
+     "tijd": "14:52",
+     "sorteer": "2026-11-24T13:52:20+00:00"
     },
     {
      "titel": "Psyche van de verdachte van de moord op Lisa blijft ‘een black box’, zeggen advocaten",
@@ -416,17 +403,24 @@
     },
     {
      "titel": "Stel in hoger beroep veroordeeld tot cel voor deelname aan IS, nadat ze eerder gedeeltelijk waren vrijgesproken",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNckQxVjFvcDRZYlBHNFhFdkR6d2tGclRZRGpjbjg0X0dPak9BVzZuUjJacXhDQkd3c2s0cW5oYU5tZmVjVEFSdnlaVWNUdHVvX043SUpyWjZ4MzFLOU5YQ3hyZUFROWxlR1l4VDFfdURVb1hqYk9aSHBHd3ZLUTdtNW9pUFFOZWwwSGszRFBfV2lxb25qa29LVFdhN29nZjJscFZwN3RkS0FiWEdwUmwyREZfeVpkdjU0cVg3WGRiT0RZcXZlU1k3dkxYUjJhNEhESkRTdUNnZlBmY2JjcnpnNXZHWWdRLXYzc3Zocg?oc=5",
-     "bron": "de Stentor",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNenpHa0xBNi1WVTI2SktyX2VINTJyVm1YWElnSGpHSHNNSEtQeG80dkhwUHl0dlJPUUZScmtGRi1JLU1iU2hQbXh2ZEVTWVU3Z0dzeGR3Y0JiaEpXU1F5ajVjdE5mZ0FLTTIzYTlJMU9mTjdkSGtJR0l3S09ETFhFQzhhaXdaa1pDYWJwYU4zX2pUS3JTY1dUMDFqNUpFSWJDNWkzZUgxLUozMGRybm5pLTVwNlF3YnoyNVlmbU56WWtEel9TWDJlMThiME5hMnd0WUFHYUhyMFpyWmhWTEU3dHpNMlk2R3NndVUxN2ViY3c?oc=5",
+     "bron": "De Gelderlander",
      "tijd": "13:43",
      "sorteer": "2026-11-24T12:43:40+00:00"
     },
     {
-     "titel": "Ruim 100 onterechte verkeersboetes in Zaanstad door technische storing",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXBDRlBaRERaR2xiSmJlR3ptUlhoZVVEQVZfcHE0MXlaUWVTajh4X0JnM0FUb2pQTDY4eVFla2c3ZnlTNFRteGMtMVF5UFZqRDFtTVRaSEpXZ0h3eFhHamc2S01fS3VpV3d1T1dpQlBjTGpNcG1vZmJFZE1nYTQ2dlF5dDFxTWFpc2JoTjNSZ21RZ2hFZmNBWk02MXF3VHNpa1E?oc=5",
-     "bron": "NOS",
-     "tijd": "13:02",
-     "sorteer": "2026-11-24T12:02:53+00:00"
+     "titel": "Ongeval met letsel op Maaslaan in Zwolle",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQklpZnA1a2ZUR1ZzUHlKdnJzY0lacGNlbEFxVV9maHo5MlBRcFNnNEZVdUlmSEh4NE43X0RnbHBPaWFUTDNhbk90UlpnOTB1SnUzRzJqSTRaaXdjZ1dOd0JPYk9OMnRfZml0WFVZZEpPU0ZiM21mTlNRRnNfdmg0QTJ1SHdSSG9ZZnMzVWZYV3djTEI5VFppSQ?oc=5",
+     "bron": "de Stentor",
+     "tijd": "14:11",
+     "sorteer": "2026-11-24T13:11:01+00:00"
+    },
+    {
+     "titel": "Vastgoedmagnaat uit Zwolle vrijgesproken voor rol bij meerdere drugslabs",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHJacmhQb1FJa3lIVU1SdzVrZGhtcFJJOGFCYmVzN3p1X2gxaXpEay1Lek5iRkNCTTJoV0hCVUw1T0hmSXZYS3U4M3ZsTG9OSEVacnA1bEpEZHV6UFJ6NURRNFRub1F0REc1ZkhILTd5V0VLdU1FMXl6SGx3WVdfZnpBQ1RhaW9nWGFkRWFISlh3a1R2M1dQclNPSzVvOXBJMi1CVEJjWk5wcHhoS1N6X0Y1eXc?oc=5",
+     "bron": "de Stentor",
+     "tijd": "14:08",
+     "sorteer": "2026-11-24T13:08:14+00:00"
     },
     {
      "titel": "Toestand van Braziliaanse oud-president Jair Bolsonaro (71) ’aanzienlijk verbeterd’ na darmobstructie",
@@ -443,6 +437,13 @@
      "sorteer": "2026-11-24T12:48:10+00:00"
     },
     {
+     "titel": "De impact van onze journalistiek en de nieuwe lidmaat­schapsprijzen",
+     "link": "https://decorrespondent.nl/17426",
+     "bron": "De Correspondent · Rob Wijnberg, Sabine Bijleveld",
+     "tijd": "14:01",
+     "sorteer": "2026-11-24T13:01:55+00:00"
+    },
+    {
      "titel": "Kinderen moeten leren liegen, vindt deze pedagoog",
      "link": "https://decorrespondent.nl/17417",
      "bron": "De Correspondent · Sanne Blauw",
@@ -457,12 +458,30 @@
      "sorteer": "2026-11-24T04:45:03+00:00"
     },
     {
+     "titel": "24/11 in Nieuwsuur: Reconstructie Nvidia • Onvrede over EU-begroting • Partij voor de Dieren bestaat 20 jaar • Eindtijdfascisme: Gokken op einde beschaving?",
+     "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxObktLeHBtV0xmOTN4QkdFZVBtNEs4Mm1kT21uMjYxb2hUUElNbWFVZzV0bXBvV3BNa2QxMWdySnVpd3BHVjBNaWNUZGgxTUt1N0QydC11NHhLdE9BWUN3dkZIUjc0VHR2eFprVHQ1cVRIckpnQ016WDhOOG5yWm1FeTRjMUh1QWNyUjNsUk03bGV2TElKTGYzSUJaMVhncTRKY09xemtiSzdVN1hMa1hlSWtSelJrWkRTR19yYWlLZXhZS1NTdlZVLVlISm1oSldRZUNJY1BJWE82Ymw3NW1rd21LemNzRVlDRXhneU5VR25EcEdUVWFGWXZYTmRVelZiTjNtMmpmcjh1Vzk5ZURXUGF1a19rbzQ?oc=5",
+     "bron": "NOS",
+     "tijd": "14:27",
+     "sorteer": "2026-11-24T13:27:27+00:00",
+     "kop": "Begroting"
+    },
+    {
      "titel": "Eva",
      "link": "https://npo.nl/start/serie/eva",
      "kop": "Vanavond op tv",
      "bron": "NPO1 · 19:05",
      "tijd": "19:05",
      "sorteer": "2026-11-24T19:05:00"
+    },
+    {
+     "titel": "Nieuwsuur: Reconstructie Nvidia • Onvrede over EU-begroting • Partij voor de Dieren bestaat 20 jaar • Eindtijdfascisme: Gokken op einde beschaving?",
+     "context": "Nvidia-topman Huang weer terug Dat Jensen Huang weer is teruggekeerd als topman van chipfabrikant Nvidia kwam zelfs voor de hoogste leidinggevenden van het bedrijf als een verrassing. Nog geen twee weken geleden moest hij opstappen vanwege verschillende affaires, waaronder een relatie met een vermoedelijk Chinese spion. Inmiddels komen er meer details naar buiten. Vanavond een reconstructie. Ook h",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640829",
+     "bron": "NPO2 · 22:00",
+     "tijd": "22:00",
+     "sorteer": "2026-11-24T22:00:00",
+     "kop": "Vanavond op tv"
     },
     {
      "titel": "Pauw & De Wit",
@@ -479,6 +498,15 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Nedersaksische taal en cultuur zijn vanaf nu immaterieel erfgoed",
+     "context": "Op scholen, sociale media, films en tv-series zie je steeds vaker streektaal en -cultuur voorbijkomen. En nu wordt het nog zichtbaarder, want de Nedersaksische taal en cultuur is officieel immaterieel erfgoed geworden. Een bevestiging van wat we al wisten: Nedersaksisch is veel meer dan een taal!",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/cultuur/3722826/nedersaksische-taal-en-cultuur-zijn-vanaf-nu-immaterieel-erfgoed",
+     "bron": "RTV Oost",
+     "tijd": "13:56",
+     "sorteer": "2026-11-24T12:56:23+00:00"
+    },
     {
      "titel": "Boer mag drie maanden na dodelijk ongeluk in VS terug naar huis",
      "context": "De boer uit Markelo, die werd aangeklaagd als veroorzaker van een verkeersdrama in de VS waarbij deze zomer drie personen om het leven kwamen, kan na drie maanden weer terug naar huis. Door een schikking met justitie hoeft hij niet de gevangenis in. \"We zijn opgelucht, al voelt het heel dubbel.\"",
@@ -527,13 +555,17 @@
      "sorteer": "2026-11-24T07:06:06+00:00"
     },
     {
-     "titel": "Auto gaat in vlammen op in Deventer",
-     "context": "Een auto is gisteravond rond 23.30 uur in brand gevlogen aan de Zandweerdsweg in Deventer. Het is de zoveelste autobrand in de stad dit jaar.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3722736/auto-gaat-in-vlammen-op-in-deventer",
-     "bron": "RTV Oost",
-     "tijd": "07:03",
-     "sorteer": "2026-11-24T06:03:45+00:00"
+     "titel": "Schilderlessen",
+     "context": "Vanaf januari 2027 elke woensdagmiddag schilderlessen in de Trefkoele voor zowel beginners als gevorderden. Op woensdagmiddag vanaf januari 2027 schilderlessen in de Trefkoele. Er zijn weer een paar plekjes vrijgekomen. Zin om de kwast ( weer ) op te pakken ? Deze acryl lessen zijn voor zowel beginners als gevorderden. Kom ook kennismaken met de […]",
+     "rubrieken": [
+      "Dalfsen",
+      "Ingezonden bericht",
+      "Laatste nieuws"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/557224/schilderlessen.html",
+     "bron": "DalfsenNet",
+     "tijd": "14:16",
+     "sorteer": "2026-11-24T13:16:56+00:00"
     },
     {
      "titel": "Er is een nieuw overlijdensbericht",
@@ -547,19 +579,6 @@
      "bron": "DalfsenNet",
      "tijd": "13:26",
      "sorteer": "2026-11-24T12:26:47+00:00"
-    },
-    {
-     "titel": "Bijenvereniging Dalfsen en omgeving",
-     "context": "DALFSEN – Bijenvereniging Dalfsen en omgeving brengt imkers samen die zich inzetten voor het houden van bijen en het bevorderen van biodiversiteit. De leden zijn vooral actief in en rond de kern van Dalfsen. Ze delen hun kennis en werken samen aan gezonde bijenvolken en een omgeving waarin bijen voldoende voedsel kunnen vinden. Een lange […]",
-     "rubrieken": [
-      "Dalfsen",
-      "Ingezonden bericht",
-      "Laatste nieuws"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/557220/bijenvereniging-dalfsen-en-omgeving.html",
-     "bron": "DalfsenNet",
-     "tijd": "13:08",
-     "sorteer": "2026-11-24T12:08:12+00:00"
     }
    ]
   },
@@ -599,6 +618,14 @@
      "kop": "Politie"
     },
     {
+     "titel": "Law enforcement follow crypto money trail behind billion-euro illegal streaming industry",
+     "toelichting": "Police from 11 countries have joined forces to go after the money behind Europe's illegal streaming industry, tracing cryptocurrency payments used to finance criminal networks profiting from digital piracy.During a five-day…",
+     "bron": "Europol (Engels)",
+     "kop": "Europol",
+     "tijd": "",
+     "link": "https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-follow-crypto-money-trail-behind-billion-euro-illegal-streaming-industry"
+    },
+    {
      "titel": "Over 70 women identified as victims of trafficking network operating across nine European countries",
      "toelichting": "A criminal network suspected of trafficking women from Romania for sexual exploitation across nine European countries has been targeted in two coordinated law enforcement actions on 5 and 19 November 2026.",
      "bron": "Europol (Engels)",
@@ -613,14 +640,6 @@
      "kop": "Europol",
      "tijd": "",
      "link": "https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-dismantle-cocaine-network-ecuador-to-europe"
-    },
-    {
-     "titel": "354 dark web vendors and buyers arrested in Europol-coordinated global crackdown",
-     "toelichting": "Europol, in collaboration with law enforcement agencies from 14 countries across the globe, have successfully identified vendors and buyers from major dark marketplaces as part of Operation TorNado, a coordinated international…",
-     "bron": "Europol (Engels)",
-     "kop": "Europol",
-     "tijd": "",
-     "link": "https://www.europol.europa.eu/media-press/newsroom/news/354-dark-web-vendors-and-buyers-arrested-in-europol-coordinated-global-crackdown"
     }
    ]
   },
@@ -667,6 +686,13 @@
      "bron": "bnr.nl",
      "tijd": "12:40",
      "sorteer": "2026-11-24T11:40:00+00:00"
+    },
+    {
+     "titel": "AI zet mannen en vrouwen totaal anders neer in sollicitatiebrieven",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZTR3N3hOR2t4TFAxRE1FUXZVT1ItdXZhT0paUE40YjlHRGR1THlmSTROV2NDNmJBTnVTLWdrWVN0M2ZpNS1BU09ieUt5dzB1VVRPRXY3dGljQThDblFlNHhOaWQ0REc2R1RDQlVhWHRfaDJRM1BTOUdhdER5UEtmUlZRdmJQLWNyZ19jMjhXS0VXbExjcUxEWktPb0UzbWxyUUhZODhvYzdKbFpLNV90cENJS0VyNGs?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "11:03",
+     "sorteer": "2026-11-24T10:03:00+00:00"
     }
    ]
   },
@@ -795,7 +821,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "14:00",
+    "bijgewerkt": "15:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1347,7 +1373,7 @@
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 266 vogels; 333 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 267 vogels; 349 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1389,15 +1415,15 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 1.6,
-    "gevoel": -0.6,
-    "wind": "ZO 2",
+    "nu": 1.9,
+    "gevoel": -1.0,
+    "wind": "O 2",
     "station": "Heino",
     "bericht": "Vandaag nog relatief weinig wind, en op steeds meer plaatsen volop zonneschijn! Morgen wordt gevoelig kouder, want er steekt een schrale oostenwind op!Vanmiddag is het zonovergoten, met temperaturen van 2 of 3 graden. De wind komt uit het zuidoosten en is matig van kracht. Op de Wadden steekt al een vrij krachtige wind op (windkracht 5), dat maakt het daar gevoelsmatig kouder.Vanavond is het helder en koud.",
     "vandaag": "Vanavond is het helder en koud. Vannacht blijvend helder en koud.",
     "temperatuur": "Vandaag nog relatief weinig wind, en op steeds meer plaatsen volop zonneschijn! Morgen wordt gevoelig kouder, want er steekt een schrale oostenwind op!Vanmiddag is het zonovergoten, met temperaturen van 2 of 3 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -4 tot 2 graden, droog, ruim 5 uur zon, wind uit het zuidoosten, kracht 3.",
+     "zin": "Voor Dalfsen zelf: -4 tot 2 graden, droog, ruim 6 uur zon, wind uit het zuidoosten, kracht 3.",
      "max": 2,
      "min": -4,
      "regenkans": 9,
