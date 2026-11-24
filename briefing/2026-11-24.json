@@ -1,0 +1,1354 @@
+{
+ "datum": "2026-11-24",
+ "naam": "Ochtendbriefing",
+ "status": {
+  "ronde": "Ochtendbriefing",
+  "opgehaald": "05:55",
+  "blokken": 11,
+  "berichten": 89,
+  "problemen": [],
+  "audio_herkomst": null
+ },
+ "opgehaald": "2026-11-24T05:55+01:00",
+ "audio": null,
+ "afval": [
+  {
+   "datum": "2026-11-27",
+   "soort": "GFT",
+   "naam": "GFT",
+   "afwijkend": false
+  },
+  {
+   "datum": "2026-12-02",
+   "soort": "RST",
+   "naam": "Restafval",
+   "afwijkend": false
+  },
+  {
+   "datum": "2026-12-04",
+   "soort": "PMD",
+   "naam": "PMD",
+   "afwijkend": false
+  },
+  {
+   "datum": "2026-12-11",
+   "soort": "GFT",
+   "naam": "GFT",
+   "afwijkend": false
+  },
+  {
+   "datum": "2026-12-19",
+   "soort": "GFT",
+   "naam": "GFT",
+   "afwijkend": true
+  },
+  {
+   "datum": "2026-12-30",
+   "soort": "RST",
+   "naam": "Restafval",
+   "afwijkend": false
+  }
+ ],
+ "duiding": [],
+ "denkwerk": {
+  "tekst": "Hier rijst de vraag of het beter is bemind te worden dan gevreesd, of gevreesd dan bemind. Het antwoord is dat men het allebei zou willen, maar omdat het moeilijk is die twee in één persoon te verenigen, is het veel veiliger gevreesd te worden dan bemind, als men van de twee er één moet missen.",
+  "wie": "Niccolò Machiavelli",
+  "werk": "De vorst",
+  "jaar": 1532,
+  "parafrase": false,
+  "link": "https://gertveurink.github.io/denkwerk/#/"
+ },
+ "museumwerk": {
+  "titel": "De Turfschuit",
+  "maker": "Vincent van Gogh",
+  "jaar": "1883",
+  "museum": "Drents Museum",
+  "plaats": "Assen",
+  "beeld": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Van_Gogh_-_Torfboot_mit_zwei_Figuren.jpeg/960px-Van_Gogh_-_Torfboot_mit_zwei_Figuren.jpeg",
+  "staand": false,
+  "link": "https://museumgids.netlify.app/"
+ },
+ "waarneming": {
+  "datum": "2025-11-22",
+  "naam": "Bosveldkers",
+  "wetenschappelijk": "Cardamine flexuosa",
+  "groep": "Planten",
+  "aantal": 1,
+  "plek": "Dalfsen - Welsum",
+  "foto": "https://waarneming.nl/media/photo/141815800.jpg",
+  "link": "https://waarneming.nl/observation/381044358/",
+  "zeldzaam": 1
+ },
+ "verder": [],
+ "blokken": [
+  {
+   "id": "internationaal",
+   "titel": "Internationaal",
+   "emoji": "🌍",
+   "items": [
+    {
+     "titel": "Gisèle Pelicot onderneemt stappen tegen uitgeverij die naaktfoto's verspreidde",
+     "context": "De Franse vrouw Gisèle Pelicot gaat actie ondernemen tegen een uitgeverij die zonder haar toestemming naar meerdere media naaktfoto's en videobeelden stuurde die door haar ex-man waren gemaakt. De kleine uitgeverij Éditions Tinbad bracht in beperkte oplage een boek van psychoanalyticus Sabine Prokhoris uit waarin één deel is gewijd aan de zaak-Pelicot. In haar essay, dat deel uitmaakt van het boek",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640782",
+     "bron": "NOS",
+     "tijd": "03:26",
+     "sorteer": "2026-11-24T03:26:35+01:00"
+    },
+    {
+     "titel": "Onderzoeksteam zoekt via Opsporing Verzocht getuigen van massamoord Suriname in 1986",
+     "context": "In het opsporingsprogramma Opsporing Verzocht is gisteravond aandacht besteed aan de massamoord in 1986 in het Surinaamse dorpje Moiwana. Het Nederlandse Team Internationale Misdrijven (TIM) roept getuigen op om zich te melden. Militairen richtten in het dorpje een bloedbad aan: 39 onschuldige burgers werden doodgeschoten, voornamelijk vrouwen, maar ook kinderen (onder wie baby's) en ouderen. De m",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640781",
+     "bron": "NOS",
+     "tijd": "02:26",
+     "sorteer": "2026-11-24T02:26:10+01:00"
+    },
+    {
+     "titel": "NAVO stuurt radarvliegtuig naar Polen na vondst van resten Russische raketten",
+     "context": "De NAVO stuurt een speciaal radarvliegtuig naar Polen vanwege de Russische schendingen van het Poolse luchtruim vorige week . Volgens de Poolse openbaar aanklager zijn in het oosten van het land de resten gevonden van drie Russische kruisraketten, die daar vrijdag terecht zouden zijn gekomen. \"Dit was een gevaarlijk incident en Rusland draagt de volledige verantwoordelijkheid\", zegt een NAVO-woord",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640773",
+     "bron": "NOS",
+     "tijd": "22:19",
+     "sorteer": "2026-11-23T22:19:58+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Drie gewonden onder wie een baby bij droneaanval op Colombiaanse politiebasis",
+     "context": "Drones met daarop explosieven hebben een politiebasis in de stad Cúcuta in het noorden van Colombia geraakt. Drie mensen, onder wie een baby, liepen bij de aanval verwondingen op. Zestig woningen raakten beschadigd. Het is onduidelijk wie er achter de aanval zit. In het gebied nabij de grens met Venezuela, waar de stad ligt, strijden verschillende gewapende groepen tegen elkaar. Vermoed wordt dat ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640772",
+     "bron": "NOS",
+     "tijd": "22:13",
+     "sorteer": "2026-11-23T22:13:34+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Russische ambassade in Den Haag vraagt om opheldering betrokkenheid Destinus-personeel",
+     "context": "De Russische ambassade in Den Haag heeft officieel verhaal gehaald bij het ministerie van Buitenlandse Zaken over het in Nederland gevestigde defensiebedrijf Destinus. De ambassade heeft om opheldering gevraagd over \"de mogelijke betrokkenheid van personeel van het in Hengelo gevestigde bedrijf Destinus bij de aanslagen op de Russische Federatie\", laat de ambassade weten op X. Vorige week kwam de ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640770",
+     "bron": "NOS",
+     "tijd": "21:43",
+     "sorteer": "2026-11-23T21:43:53+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Trump dringt aan op versnelde uitvoering van de doodstraf, ondanks mislukte executies",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
+     "bron": "de Volkskrant",
+     "tijd": "05:30",
+     "sorteer": "2026-11-24T04:30:00+00:00"
+    },
+    {
+     "titel": "Nvidia-topman Jensen Huang heeft een beschermengel in het Witte Huis",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/nvidia-topman-jensen-huang-heeft-een-beschermengel-in-het-witte-huis~b285380a/",
+     "bron": "de Volkskrant",
+     "tijd": "03:50",
+     "sorteer": "2026-11-24T02:50:19+00:00"
+    },
+    {
+     "titel": "Voornaamste adviseur Trump over cyberveiligheid vertrekt na reeks incidenten",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.trouw.nl/buitenland/live-vs-trump-dringt-aan-op-versnelde-uitvoering-van-de-doodstraf-ondanks-mislukte-executies~bbc0cf3d/",
+     "bron": "Trouw",
+     "tijd": "05:32",
+     "sorteer": "2026-11-24T04:32:00+00:00"
+    },
+    {
+     "titel": "Australian politics live: Government lacks ‘moral authority’ on decarbonisation, Monique Ryan says",
+     "context": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few days notice for the mid-financial year economic and fiscal outlook (or Myefo). There’s still a fair",
+     "rubrieken": [
+      "Australian politics",
+      "Australia news",
+      "Australian economy",
+      "Business",
+      "Health",
+      "Australian education",
+      "Australian immigration and asylum",
+      "Australian foreign policy",
+      "Labor party"
+     ],
+     "link": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+     "bron": "The Guardian",
+     "tijd": "05:38",
+     "sorteer": "2026-11-24T04:38:15+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+     "context": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "05:36",
+     "sorteer": "2026-11-24T04:36:31+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Industrie vs. Gewerkschaften — Das Standort-Dilemma",
+     "context": "Präsentiert von YouTube.",
+     "rubrieken": [
+      "Autoindustrie",
+      "Der Podcast",
+      "German politics",
+      "Governance",
+      "Industry",
+      "Labor",
+      "Pensions",
+      "Playbook",
+      "Social affairs",
+      "Standortpolitik",
+      "Trade",
+      "Playbook",
+      "Politics"
+     ],
+     "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/industrie-vs-gewerkschaften-das-standort-dilemma/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "05:30",
+     "sorteer": "2026-11-24T04:30:00+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+     "context": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "03:15",
+     "sorteer": "2026-11-24T02:15:59+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "24 Killed After Fire Rips Through Candy Factory in Indonesia",
+     "context": "Hundreds of people were at the compound when a blaze broke out on Saturday and then raged for hours.",
+     "rubrieken": [
+      "Fires and Firefighters",
+      "Factories and Manufacturing",
+      "Workplace Hazards and Violations",
+      "Deaths (Fatalities)",
+      "Candy",
+      "Indonesia"
+     ],
+     "link": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
+     "bron": "New York Times",
+     "tijd": "01:35",
+     "sorteer": "2026-11-24T00:35:20+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    }
+   ]
+  },
+  {
+   "id": "nationaal",
+   "titel": "Nationaal",
+   "emoji": "🇳🇱",
+   "items": [
+    {
+     "titel": "Nederlandse delegatie praat in India ook over terugkeer andere kinderen",
+     "context": "Een Nederlandse delegatie hoopt deze week in India niet alleen vooruitgang te boeken bij de terugkeer van de ontvoerde Insiya, maar ook bij die van andere kinderen. Dat bevestigt het Nederlandse ministerie van Buitenlandse Zaken aan Nieuwsuur. Volgens het ministerie zijn er meerdere verzoeken ingediend om kinderen vanuit India naar Nederland terug te halen. Om hoeveel kinderen het gaat en of het i",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640780",
+     "bron": "NOS",
+     "tijd": "23:49",
+     "sorteer": "2026-11-23T23:49:49+01:00"
+    },
+    {
+     "titel": "Mislukte klimaattop maakt milieustudenten juist strijdbaar: 'Motivatie om door te gaan'",
+     "context": "Docent milieurecht Esther de Jong heeft haar les gisteravond helemaal omgegooid, vertelt ze de dag na de mislukte klimaattop . Voor de meeste mensen werkt zoiets demotiverend, maar dat geldt niet voor haar studenten, vertellen ze. \"Het vlammende betoog dat de Panamese milieuminister eerder tijdens de top hield, greep me enorm aan\", zegt de hbo-docent. De minister sprak over de negatieve gevolgen v",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640769",
+     "bron": "NOS",
+     "tijd": "21:37",
+     "sorteer": "2026-11-23T21:37:21+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Kabinet wil wolven afschieten, maar experts kritisch: 'Onderbouwing ontbreekt'",
+     "context": "Het afschieten van de wolf in Nederland wordt mogelijk, zegt staatssecretaris Silvio Erkens (VVD) van Landbouw, Visserij, Voedselzekerheid en Natuur vandaag in een brief aan de Tweede Kamer. Tot dat principebesluit komt hij op basis van Italiaans onderzoek naar de Nederlandse wolvenpopulatie. Deskundigen verbazen zich over de plannen van Erkens en zijn kritisch op de studie, die de Italiaanse onde",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640767",
+     "bron": "NOS",
+     "tijd": "21:09",
+     "sorteer": "2026-11-23T21:09:36+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "OM eist 22 jaar cel tegen vrouw (27) die wordt verdacht van vermoorden partner",
+     "context": "Het Openbaar Ministerie heeft 22 jaar celstraf geëist tegen de 27-jarige Esmée D. uit Assen. Zij wordt verdacht van de moord op haar vriend Ruben, begin vorig jaar. Ze zou hem volgens de officier van justitie hebben vergiftigd met een overdosis MDMA en slaappillen. Ook schreef ze daarna zelf een afscheidsbrief op zijn telefoon om het te laten lijken op zelfdoding, stelt justitie. Het slachtoffer w",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640757",
+     "bron": "NOS",
+     "tijd": "19:53",
+     "sorteer": "2026-11-23T19:53:17+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Diederik Gommers stapt per direct op als afdelingshoofd na kritisch rapport over werkcultuur op ic Erasmus MC",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/binnenland/diederik-gommers-stapt-per-direct-op-als-afdelingshoofd-na-kritisch-rapport-over-werkcultuur-op-ic-erasmus-mc~b0f6d1be/",
+     "bron": "de Volkskrant",
+     "tijd": "19:13",
+     "sorteer": "2026-11-23T18:13:00+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Voor de stakers in het streekvervoer is het menens: ‘Na drie dagen werken lig je gewoon dood in de hoek’",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/binnenland/voor-de-stakers-in-het-streekvervoer-is-het-menens-na-drie-dagen-werken-lig-je-gewoon-dood-in-de-hoek~b26c8ff9/",
+     "bron": "de Volkskrant",
+     "tijd": "19:09",
+     "sorteer": "2026-11-23T18:09:00+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Inspectie grijpt in bij Erasmus MC vanwege ‘kwetsbare’ werkcultuur, Diederik Gommers vertrekt",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.trouw.nl/binnenland/inspectie-grijpt-in-bij-erasmus-mc-vanwege-kwetsbare-werkcultuur-diederik-gommers-vertrekt~b90f83b2/",
+     "bron": "Trouw",
+     "tijd": "20:07",
+     "sorteer": "2026-11-23T19:07:00+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Verdachte Heiloose pastoriemoord (20) voelde ’dwang’ toen hij zijn vriendin (19) neerstak, zegt advocaat",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR25GWFgtOFNZM2IxbzNiLVg0VzV0akRyV1Bxd2FUckExaFRfbFBTWlhnOVNxTnU4bTlsb0tMTnhqNmxnOGZtZGpJd2lOMXAwZllseVJRS25xVVBoY2VEZ2oxYkFIQ0lzZG9xdjF4bjhKd0hwbEpHdUoyM3B0X1hlaGJ4a1pURTY4am1YX1FxcWNSbTlFMDdfdnlYWWtlVlF0Mk53OUQ2U1VYUW05Yy0wNG9yZmxQcDdxdmx0Q3JIaUdTTFVHUzJ6YTFtREMzZjZZZFI0NnVyNThFWlA2eXd6Si1B?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "00:21",
+     "sorteer": "2026-11-23T23:21:05+00:00"
+    },
+    {
+     "titel": "Rellen na demonstratie in Brussel: politie zet traangas en waterkanonnen in",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVklqZTJLejlFZFBnMVQ4SVJfVFc1QUhkb0hEaC14TzBvN3labm44TlZ6T1l0VjM0NEN1dXR2RmVGMmhtUUJkbm5uek9SV1BnVDc1UFBYaURyMkxaSVFia2J2VjRmMFlQQ1V4U2VaTHpDVWRiM2RPaEtfMzFJWGV6TGpYcDRKTmZpNmVrY3lPQ3ZISFBlV2ltVUM1dlJCSVZHSXFHaEo2MmxNOU81eEhxcms4bFdtQVZZckNLYw?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "02:31",
+     "sorteer": "2026-11-24T01:31:00+00:00"
+    },
+    {
+     "titel": "Istanbul in de ban van loslopende ‘leeuw’: politie deelt warmtebeelden",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONkpJUnR3WDB6WmpmWUN6QWZWcG9Wdlh1bDg4MWpRanBVaU0wNThkZDJfdjNZYjFVX3dXWk1XRTJzY3EtUlBhS1lBRk1WVWxMdjk2bGtsUGVnelVvcmhkOE9KNVhpanRjTktSODJMZXg2dlB3SE1sQnpXWmdXYmVxUHd1eGdEMkJEbEdzQjRsUkpjWGtaclk0TEJEeExSVVZZRTEtNG03RGpxM3FKTkxCYVZ3VQ?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "23:02",
+     "sorteer": "2026-11-23T22:02:00+00:00"
+    },
+    {
+     "titel": "Kinderen moeten leren liegen, vindt deze pedagoog",
+     "link": "https://decorrespondent.nl/17417",
+     "bron": "De Correspondent · Sanne Blauw",
+     "tijd": "05:45",
+     "sorteer": "2026-11-24T04:45:04+00:00"
+    },
+    {
+     "titel": "AI-onafhankelijk? In vijf stappen bouwde ik mijn eigen chatbot op zolder",
+     "link": "https://decorrespondent.nl/17416",
+     "bron": "De Correspondent · Ot van Daalen",
+     "tijd": "05:45",
+     "sorteer": "2026-11-24T04:45:03+00:00"
+    },
+    {
+     "titel": "Alternatief EU-begrotingsplan drama voor Nederland: contributie stijgt naar 13,5 miljard euro per jaar",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc3ZqUW5MeFY3YS1BRXZKR05GRUZXeEtmVUdlRV9sUlp5cVZWQmhiZ05Md213N1B6S0RCeXNHUW9XMkNQMTQ2b1I3dDhmUEk2N2t5bmUxaTRKU3V5cEM0bEUwVGxmLVA1UXVuMUZreUpaNXFxVXkxVndhdEltNDBUME4xU1luMVlja244ZlhCcUl0b1BGUEkzV1doM2NaRWFUU0RDZThEUVZmLUhnbHBUSml4VFc3ZWNDbHdGX1d0LTdMcnhPWWFQN2dXSGU4S3FaeTk2bEY1RlJXMTB6b1Rudkl6d0c1Zw?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "23:45",
+     "sorteer": "2026-11-23T22:45:00+00:00",
+     "kop": "Begroting"
+    },
+    {
+     "titel": "Eva",
+     "link": "https://npo.nl/start/serie/eva",
+     "kop": "Vanavond op tv",
+     "bron": "NPO1 · 19:05",
+     "tijd": "19:05",
+     "sorteer": "2026-11-24T19:05:00"
+    },
+    {
+     "titel": "Nieuwsuur: Inspectie grijpt in: Gommers stopt bij Erasmus MC • Ontvoering Insiya • AI-muziek",
+     "context": "Gommers stapt op als afdelingshoofd ic Erasmus MC Op de intensive care van het Erasmus Medisch Centrum in Rotterdam is sprake van een situatie \"die een ernstige bedreiging voor de veiligheid van patiënten of de zorg kan betekenen\". Dat concludeert de Inspectie Gezondheidszorg en Jeugd (IGJ) in een onderzoek naar de werkcultuur op de grootste ic van Nederland, die onder leiding staat van Diederik G",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640708",
+     "bron": "NPO2 · 22:00",
+     "tijd": "22:00",
+     "sorteer": "2026-11-24T22:00:00",
+     "kop": "Vanavond op tv",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Pauw & De Wit",
+     "link": "https://npo.nl/start/serie/pauw-de-wit",
+     "kop": "Vanavond op tv",
+     "bron": "NPO1 · 22:35",
+     "tijd": "22:35",
+     "sorteer": "2026-11-24T22:35:00"
+    }
+   ]
+  },
+  {
+   "id": "lokaal",
+   "titel": "Dalfsen en Oost-Nederland",
+   "emoji": "📍",
+   "items": [
+    {
+     "titel": "Russische ambassade vraagt opheldering over rol Hengeloos wapenbedrijf Destinus",
+     "context": "De Russische ambassade heeft het ministerie van Buitenlandse Zaken officieel om opheldering gevraagd over de betrokkenheid van Destinus bij aanvallen op Rusland. NRC meldde onlangs dat medewerkers van het Hengelose bedrijf met drones op Russische doelen hebben geschoten.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3722657/russische-ambassade-vraagt-opheldering-over-rol-hengeloos-wapenbedrijf-destinus",
+     "bron": "RTV Oost",
+     "tijd": "23:11",
+     "sorteer": "2026-11-23T22:11:32+00:00"
+    },
+    {
+     "titel": "Overijsselaars bezoeken kerstmarkt in Münster: 'Lekker eten en drinken'",
+     "context": "Sinterklaas is nog lang niet het land uit, maar bij onze oosterburen zijn ze al helemaal in kerststemming. De kerstmarkt in Münster is vandaag begonnen en dus trokken de nodige Overijsselaars richting Duitsland. Zo ook Jan Riesewijk. \"Het is traditie.\"",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/cultuur/3722557/overijsselaars-bezoeken-kerstmarkt-in-munster-lekker-eten-en-drinken",
+     "bron": "RTV Oost",
+     "tijd": "20:01",
+     "sorteer": "2026-11-23T19:01:16+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "IJsclubs houden weerbericht scherp in de gaten: 'Wachten op goede vorst'",
+     "context": "De eerste nachtvorst zorgt voor kriebels bij schaatsliefhebbers, maar ijsclubs in Overijssel sporen nog niet aan om de schaatsen uit het vet te halen. Hoewel meerdere verenigingen voorbereidingen treffen, blijven ijsmeesters voorzichtig. Een paar koude nachten betekent nog geen betrouwbare ijsvloer.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3722524/ijsclubs-houden-weerbericht-scherp-in-de-gaten-wachten-op-goede-vorst",
+     "bron": "RTV Oost",
+     "tijd": "19:23",
+     "sorteer": "2026-11-23T18:23:58+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "De Universiteit Twente begon als experiment: samen wonen en studeren",
+     "context": "Studeren, wonen, sporten en ontspannen op één plek. Toen de Universiteit Twente in de jaren zestig haar eerste studenten verwelkomde, was het idee dat studenten en docenten samen een gemeenschap zouden vormen. Dat bijzondere experiment verliep niet zoals bedacht.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3714662/de-universiteit-twente-begon-als-experiment-samen-wonen-en-studeren",
+     "bron": "RTV Oost",
+     "tijd": "18:03",
+     "sorteer": "2026-11-23T17:03:00+00:00"
+    },
+    {
+     "titel": "Mannen uit Rijssen en Nijverdal vrijgesproken van ontvoering jongen (16) op camping",
+     "context": "Een 16-jarige jongen zegt dat hij in Nijverdal wordt ontvoerd, mishandeld en vervolgens urenlang wordt vastgehouden op een camping in Markelo. Maar de zaak krijgt vandaag een wending: de rechtbank spreekt drie Twentse mannen die voor deze ontvoering terechtstaan volledig vrij.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3722506/mannen-uit-rijssen-en-nijverdal-vrijgesproken-van-ontvoering-jongen-16-op-camping",
+     "bron": "RTV Oost",
+     "tijd": "17:32",
+     "sorteer": "2026-11-23T16:32:08+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Bioloog waarschuwt voor dodelijke paddenstoel die groeit in Zwolle",
+     "context": "De groene knolamaniet, een van de giftigste paddenstoelen ter wereld, komt ook veel voor in Overijssel. Bioloog Piet Bremer wijst op het nut én gevaar van de schimmels. Dat laatste bleek toen een 5-jarig meisje uit Noord-Brabant overleed na het eten van een giftige paddenstoel.",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3722486/bioloog-waarschuwt-voor-dodelijke-paddenstoel-die-groeit-in-zwolle",
+     "bron": "RTV Oost",
+     "tijd": "16:39",
+     "sorteer": "2026-11-23T15:39:47+00:00"
+    },
+    {
+     "titel": "Stokvisdennen nodigt leden uit voor jaarvergadering",
+     "context": "DALFSEN – Op donderdag 26 november organiseert IJsclub Stokvisdennen haar jaarlijkse Algemene Ledenvergadering. De vergadering vindt plaats in de kantine van Stokvisdennen aan de Brinkweg 2 en begint om 20.00 uur. Alle leden hebben inmiddels een brief ontvangen met daarin onder andere hun nieuwe ledenpas. De vertrouwde ledenpas heeft een kleine upgrade gekregen: de […]",
+     "rubrieken": [
+      "Dalfsen",
+      "Ingezonden bericht",
+      "Laatste nieuws"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/557190/stokvisdennen-nodigt-leden-uit-voor-jaarvergadering.html",
+     "bron": "DalfsenNet",
+     "tijd": "23:29",
+     "sorteer": "2026-11-23T22:29:11+00:00"
+    },
+    {
+     "titel": "Beleef het kerstverhaal in de bossen van Vilsteren",
+     "context": "VILSTEREN – Levende kerstwandeltocht Vilsteren 2e kerstdag weer. Ook dit jaar bent u op tweede kerstdag van harte welkom bij de levende kerstwandeltocht in de bossen van Vilsteren. Zodra de avond valt en het langzaam donker wordt, neemt een verteller u mee op een bijzondere wandeling door het kerstverhaal. Onderweg ontmoet u de herders, Romeinse […]",
+     "rubrieken": [
+      "Ingezonden bericht",
+      "Laatste nieuws",
+      "Vilsteren"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/557188/beleef-het-kerstverhaal-in-de-bossen-van-vilsteren.html",
+     "bron": "DalfsenNet",
+     "tijd": "21:24",
+     "sorteer": "2026-11-23T20:24:21+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    }
+   ]
+  },
+  {
+   "id": "vak",
+   "titel": "Politie en justitie",
+   "emoji": "🚔",
+   "items": [
+    {
+     "titel": "Zwolle - Mishandeling aan de Steenstraat in Zwolle",
+     "context": "Aan de Steenstraat in Zwolle sloeg iemand een 27-jarige man zo hard in zijn gezicht dat hij een tand verloor. Herkent u de verdachte? Dan horen wij graag van u.",
+     "rubrieken": [],
+     "link": "https://www.politie.nl/gezocht/opsporingsbericht/2026/oktober/02-mishandeling-aan-de-steenstraat-in-zwolle",
+     "bron": "Politie Zwolle",
+     "tijd": "17:15",
+     "sorteer": "2026-11-19T16:15:00+00:00",
+     "kop": "Politie"
+    },
+    {
+     "titel": "Zwolle - Diefstal uit juwelierszaak Zwolle",
+     "context": "Aan de Diezerstraat in Zwolle stal deze man een gouden armband. Herkent u hem? Neem dan contact met ons op!",
+     "rubrieken": [],
+     "link": "https://www.politie.nl/gezocht/opsporingsbericht/2026/september/02-diefstal-uit-juwelierszaak-zwolle",
+     "bron": "Politie Zwolle",
+     "tijd": "21:10",
+     "sorteer": "2026-11-16T20:10:00+00:00",
+     "kop": "Politie"
+    },
+    {
+     "titel": "Zwolle - Verschillende gouden sieraden gevonden bij mogelijke oplichters",
+     "context": "Op de A28 bij Zwolle troffen we bij een voertuigcontrole sieraden aan die vermoedelijk zijn gestolen. Mogelijk door mensen op te lichten. Dit kan in heel Nederland zijn gebeurd. Denkt u dat ze van u zijn? Neem dan alstublieft contact met ons op.",
+     "rubrieken": [],
+     "link": "https://www.politie.nl/gezocht/opsporingsbericht/2026/augustus/02-eigenaar-gezocht-van-sieraden",
+     "bron": "Politie Zwolle",
+     "tijd": "17:15",
+     "sorteer": "2026-11-12T16:15:00+00:00",
+     "kop": "Politie"
+    },
+    {
+     "titel": "Over 70 women identified as victims of trafficking network operating across nine European countries",
+     "toelichting": "A criminal network suspected of trafficking women from Romania for sexual exploitation across nine European countries has been targeted in two coordinated law enforcement actions on 5 and 19 November 2026.",
+     "bron": "Europol (Engels)",
+     "kop": "Europol",
+     "tijd": "",
+     "link": "https://www.europol.europa.eu/media-press/newsroom/news/over-70-women-identified-victims-of-trafficking-network-operating-across-nine-european-countries"
+    },
+    {
+     "titel": "Law enforcement dismantle cocaine network from Ecuador to Europe",
+     "toelichting": "An international investigation supported by Europol and Eurojust has dismantled a criminal network suspected of importing cocaine into Europe from Ecuador and other Latin American countries. Investigators link the network to…",
+     "bron": "Europol (Engels)",
+     "kop": "Europol",
+     "tijd": "",
+     "link": "https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-dismantle-cocaine-network-ecuador-to-europe"
+    },
+    {
+     "titel": "354 dark web vendors and buyers arrested in Europol-coordinated global crackdown",
+     "toelichting": "Europol, in collaboration with law enforcement agencies from 14 countries across the globe, have successfully identified vendors and buyers from major dark marketplaces as part of Operation TorNado, a coordinated international…",
+     "bron": "Europol (Engels)",
+     "kop": "Europol",
+     "tijd": "",
+     "link": "https://www.europol.europa.eu/media-press/newsroom/news/354-dark-web-vendors-and-buyers-arrested-in-europol-coordinated-global-crackdown"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "titel": "AI",
+   "emoji": "🤖",
+   "items": [
+    {
+     "titel": "Antwoord op vragen van de leden Kröger, Van der Plas, Inge van Dijk, Wiersma, Westerveld, Kostic, Synhaeve, Becker, Beckerman…",
+     "bron": "Antwoord op Kamervragen",
+     "kop": "Uit de Tweede Kamer",
+     "tijd": "23-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D60284",
+     "sorteer": "2026-11-23T17:24:59.27+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Emerce AI Live! volgend jaar al in april",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rN2NpelduU3JLdlZRRGNjU0YySkZZaWdNZXpNMGVDVENlc0dSTk1YcWVsMEh2STg1b1c3TkprOF9ocXZYeTRoWndSQ09BTEtqRXB2TFI3cHNDbTZMX0dYRi1LT1pZY2ZYdGxzbXFGMmExS0E?oc=5",
+     "bron": "Emerce",
+     "tijd": "05:30",
+     "sorteer": "2026-11-24T04:30:00+00:00"
+    },
+    {
+     "titel": "Rob Hoogland over algoritmes op Facebook: tien minuten per dag en ik heb weer een godenlijf",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWNYQ0RPamJLWUF5d1A2cE50MHJTcDZHYlRlQ2tlc21zd2dxTkthcEc3R3UtUjBqa3F6SE0xUUkzOUxYQUJrS0RKeXZQRFFJU2F5ZDdQbnhFNXpuUVBRUTRnUVEzRUpDc3pFWTlvOGdKMGc0dkdUZ0xnQmlXUGFYaHFuVEE2UVhpWW4wZVlNTm1kUG5PWEMzbnNQelBnMHpTa2pleGx4Tng5MElNZVlFV2JzUHpoWGxjZXZ2cGpXRWVQWmdrSnc0TGwyaWI0TWlodGg4?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "04:00",
+     "sorteer": "2026-11-24T03:00:00+00:00"
+    },
+    {
+     "titel": "AI-chatbots raden beleggers vrijwel altijd aan aandelen te kopen, maar slaan belangrijke stappen over",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOGh4VGJSTXVyNkdBR0ozTUNiNm5sV3BPNUxELWxfbEpyTmRhSkpacW96WlF4UFluVEhxMWt2UC1raHRIVTM5RW1ROHBqVGdmZWxxaXdrRFFaUUhFR1phMlMzdENIbGc0eS10Xy1JLXBzSEFkX1E5QmZvZm03ZkdPLXBoNnRVdk5rQld2V1loUVVHX0VKOUpOeEEzenlST2s2RmNkb2ZfbVRUcUw0NmhZcktGN1JycjdGc1dJNVdiUk5yRVo0MUppUnU5UzZxSUN6MFF3RzZqYldMeXkz?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "21:05",
+     "sorteer": "2026-11-23T20:05:43+00:00"
+    },
+    {
+     "titel": "Amazon koopt bedrijf Decart achter AI-modellen voor realtimesimulatie",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbnFmVlkzUWdsbVF1TmlzZi1GRUIyOWxIRjNUa2JTSFJScjhEWklmX0RMSmZ0a1hxYjhVSXpwRUcxbnIwUk53THJCS2NxdGVEaklCV01oQzhCQU14R3d6bTJVcFdXZHpTNG1LY3VMZG90THNqUnp0dkw3T0pQa3IzYlNRMmp3cWczU1VTMGtlazVGVGIwN1NFRnU1emFvM0kyNHoxNnlRcE1YMThFZlE?oc=5",
+     "bron": "Tweakers",
+     "tijd": "20:28",
+     "sorteer": "2026-11-23T19:28:08+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    }
+   ]
+  },
+  {
+   "id": "bron",
+   "titel": "Tweede Kamer",
+   "emoji": "🏛️",
+   "items": [
+    {
+     "titel": "De verschuivende politieke prioriteiten in beleidsgelden en uitvoeringsgelden waardoor minder geïnvesteerd wordt in de strijd…",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "13-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D57842",
+     "sorteer": "2026-11-23T15:50:25.64+01:00"
+    },
+    {
+     "titel": "Het bericht dat er in interneringskampen volop seksueel geweld was, maar bewijs werd weggemoffeld",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "13-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D57839",
+     "sorteer": "2026-11-23T15:40:06.613+01:00"
+    },
+    {
+     "titel": "Het gebruik van mogelijk excessief geweld door de politie op geweldloze klimaatactivisten",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "08-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49729",
+     "sorteer": "2026-11-23T13:39:18.41+01:00"
+    },
+    {
+     "titel": "Antwoord op vragen van het lid Van Duijvenvoorde over publieke politieke uitlatingen van rechters",
+     "bron": "Antwoord op Kamervragen",
+     "kop": "Kamervragen",
+     "tijd": "09-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D50200",
+     "sorteer": "2026-11-23T16:22:30.983+01:00"
+    },
+    {
+     "titel": "Bekrachtiging van het voorstel van wet van de leden Paulusma, Becker, Westerveld, Dobbe en Kostić tot wijziging van het Wetboek…",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "08-09",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D45891",
+     "sorteer": "2026-11-23T17:15:40.687+01:00"
+    },
+    {
+     "titel": "Ontwikkelingen Wet financiering politieke partijen (Wfpp)",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "23-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D60225",
+     "sorteer": "2026-11-23T16:10:11.327+01:00"
+    },
+    {
+     "titel": "Petitie 'Herzie het asielbeleid voor Jemen op basis van actuele feiten'",
+     "bron": "Petitie",
+     "kop": "Komende week",
+     "tijd": "dinsdag 24/11 13:15",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08435",
+     "sorteer": "2026-11-24T13:15"
+    },
+    {
+     "titel": "WOMEN Inc. adviesrapport 'Nationaal Actieplan Stop Geweld tegen Vrouwen' (zal geen doorgang vinden)",
+     "bron": "Petitie",
+     "kop": "Komende week",
+     "tijd": "dinsdag 24/11 13:30",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06505",
+     "sorteer": "2026-11-24T13:30"
+    },
+    {
+     "titel": "Procedurevergadering Justitie en Veiligheid",
+     "bron": "Procedurevergadering",
+     "kop": "Komende week",
+     "tijd": "woensdag 25/11 14:30",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A00444",
+     "sorteer": "2026-11-25T14:30"
+    },
+    {
+     "titel": "Terrorisme/extremisme (tot nader order uitgesteld)",
+     "bron": "Commissiedebat",
+     "kop": "Komende week",
+     "tijd": "donderdag 26/11 10:00",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05594",
+     "sorteer": "2026-11-26T10:00"
+    },
+    {
+     "titel": "Intrekking van de Rijkswet van 10 februari 2017, houdende wijziging van de Rijkswet op het Nederlanderschap in verband…",
+     "bron": "Wetgevingsoverleg",
+     "kop": "Komende week",
+     "tijd": "donderdag 26/11 10:00",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08664",
+     "sorteer": "2026-11-26T10:00"
+    },
+    {
+     "titel": "Goedkeuring van het Aanvullend Protocol inzake de toepassing van het Verdrag over waarborgen met betrekking tot de…",
+     "bron": "Hamerstukken",
+     "kop": "Komende week",
+     "tijd": "donderdag 26/11 10:15",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08077",
+     "sorteer": "2026-11-26T10:15"
+    },
+    {
+     "titel": "Drugspreventie en verslavingszorg",
+     "bron": "Commissiedebat",
+     "kop": "Komende week",
+     "tijd": "donderdag 26/11 13:30",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2023A03420",
+     "sorteer": "2026-11-26T13:30"
+    },
+    {
+     "titel": "Wijziging van de begrotingsstaten van het Ministerie van Justitie en Veiligheid (VI) voor het jaar 2026 (wijziging…",
+     "bron": "Inbreng feitelijke vragen",
+     "kop": "Komende week",
+     "tijd": "dinsdag 1/12 14:00",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08654",
+     "sorteer": "2026-12-01T14:00"
+    }
+   ]
+  },
+  {
+   "id": "sport",
+   "titel": "Sport",
+   "emoji": "⚽",
+   "items": [],
+   "sport": {
+    "bijgewerkt": "05:55",
+    "voetbal": {
+     "uitslagen": [
+      {
+       "thuis": "FC Twente",
+       "uit": "Willem II",
+       "score": "2 - 1",
+       "tijd": "12:15",
+       "bezig": "",
+       "wanneer": "zondag 12:15",
+       "eigen": false
+      },
+      {
+       "thuis": "Ajax",
+       "uit": "ADO Den Haag",
+       "score": "3 - 0",
+       "tijd": "14:30",
+       "bezig": "",
+       "wanneer": "zondag 14:30",
+       "eigen": false
+      },
+      {
+       "thuis": "Sparta",
+       "uit": "AZ Alkmaar",
+       "score": "1 - 5",
+       "tijd": "14:30",
+       "bezig": "",
+       "wanneer": "zondag 14:30",
+       "eigen": false
+      },
+      {
+       "thuis": "Go Ahead Eagles",
+       "uit": "Fortuna",
+       "score": "0 - 1",
+       "tijd": "16:45",
+       "bezig": "",
+       "wanneer": "zondag 16:45",
+       "eigen": false
+      },
+      {
+       "thuis": "NEC",
+       "uit": "PSV",
+       "score": "1 - 4",
+       "tijd": "16:30",
+       "bezig": "",
+       "wanneer": "zaterdag 16:30",
+       "eigen": false
+      },
+      {
+       "thuis": "FC Utrecht",
+       "uit": "Cambuur",
+       "score": "2 - 3",
+       "tijd": "18:45",
+       "bezig": "",
+       "wanneer": "zaterdag 18:45",
+       "eigen": false
+      },
+      {
+       "thuis": "Feyenoord",
+       "uit": "Excelsior",
+       "score": "2 - 3",
+       "tijd": "18:45",
+       "bezig": "",
+       "wanneer": "zaterdag 18:45",
+       "eigen": false
+      },
+      {
+       "thuis": "FC Groningen",
+       "uit": "Heerenveen",
+       "score": "1 - 3",
+       "tijd": "21:00",
+       "bezig": "",
+       "wanneer": "zaterdag 21:00",
+       "eigen": false
+      },
+      {
+       "thuis": "Telstar",
+       "uit": "PEC Zwolle",
+       "score": "1 - 3",
+       "tijd": "21:00",
+       "bezig": "",
+       "wanneer": "zaterdag 21:00",
+       "eigen": true
+      }
+     ],
+     "stand": [
+      {
+       "plek": "1",
+       "team": "PSV",
+       "gespeeld": "13",
+       "punten": "29",
+       "saldo": "+28",
+       "eigen": false
+      },
+      {
+       "plek": "2",
+       "team": "Ajax",
+       "gespeeld": "13",
+       "punten": "28",
+       "saldo": "+20",
+       "eigen": false
+      },
+      {
+       "plek": "3",
+       "team": "FC Twente",
+       "gespeeld": "13",
+       "punten": "27",
+       "saldo": "+19",
+       "eigen": false
+      },
+      {
+       "plek": "4",
+       "team": "AZ Alkmaar",
+       "gespeeld": "13",
+       "punten": "26",
+       "saldo": "+12",
+       "eigen": false
+      },
+      {
+       "plek": "5",
+       "team": "Feyenoord",
+       "gespeeld": "13",
+       "punten": "25",
+       "saldo": "+18",
+       "eigen": false
+      },
+      {
+       "plek": "6",
+       "team": "Heerenveen",
+       "gespeeld": "13",
+       "punten": "24",
+       "saldo": "+10",
+       "eigen": false
+      },
+      {
+       "plek": "7",
+       "team": "Fortuna",
+       "gespeeld": "13",
+       "punten": "23",
+       "saldo": "+1",
+       "eigen": false
+      },
+      {
+       "plek": "8",
+       "team": "Cambuur",
+       "gespeeld": "13",
+       "punten": "18",
+       "saldo": "-1",
+       "eigen": false
+      },
+      {
+       "plek": "9",
+       "team": "Go Ahead Eagles",
+       "gespeeld": "13",
+       "punten": "17",
+       "saldo": "-4",
+       "eigen": false
+      },
+      {
+       "plek": "10",
+       "team": "FC Groningen",
+       "gespeeld": "13",
+       "punten": "15",
+       "saldo": "-1",
+       "eigen": false
+      },
+      {
+       "plek": "11",
+       "team": "PEC Zwolle",
+       "gespeeld": "13",
+       "punten": "15",
+       "saldo": "-9",
+       "eigen": true
+      },
+      {
+       "plek": "12",
+       "team": "NEC",
+       "gespeeld": "13",
+       "punten": "14",
+       "saldo": "-4",
+       "eigen": false
+      },
+      {
+       "plek": "13",
+       "team": "Excelsior",
+       "gespeeld": "13",
+       "punten": "14",
+       "saldo": "-12",
+       "eigen": false
+      },
+      {
+       "plek": "14",
+       "team": "Sparta",
+       "gespeeld": "13",
+       "punten": "12",
+       "saldo": "-12",
+       "eigen": false
+      },
+      {
+       "plek": "15",
+       "team": "FC Utrecht",
+       "gespeeld": "13",
+       "punten": "12",
+       "saldo": "-14",
+       "eigen": false
+      },
+      {
+       "plek": "16",
+       "team": "Telstar",
+       "gespeeld": "13",
+       "punten": "10",
+       "saldo": "-9",
+       "eigen": false
+      },
+      {
+       "plek": "17",
+       "team": "ADO Den Haag",
+       "gespeeld": "13",
+       "punten": "9",
+       "saldo": "-12",
+       "eigen": false
+      },
+      {
+       "plek": "18",
+       "team": "Willem II",
+       "gespeeld": "13",
+       "punten": "3",
+       "saldo": "-30",
+       "eigen": false
+      }
+     ]
+    },
+    "f1": {
+     "race": "Las Vegas",
+     "uitslag": [
+      {
+       "plek": 1,
+       "naam": "Max Verstappen",
+       "eigen": true
+      },
+      {
+       "plek": 2,
+       "naam": "Lando Norris",
+       "eigen": false
+      },
+      {
+       "plek": 3,
+       "naam": "Oscar Piastri",
+       "eigen": false
+      },
+      {
+       "plek": 4,
+       "naam": "Kimi Antonelli",
+       "eigen": false
+      },
+      {
+       "plek": 5,
+       "naam": "Pierre Gasly",
+       "eigen": false
+      },
+      {
+       "plek": 6,
+       "naam": "Franco Colapinto",
+       "eigen": false
+      },
+      {
+       "plek": 7,
+       "naam": "Lewis Hamilton",
+       "eigen": false
+      },
+      {
+       "plek": 8,
+       "naam": "Carlos Sainz",
+       "eigen": false
+      },
+      {
+       "plek": 9,
+       "naam": "George Russell",
+       "eigen": false
+      },
+      {
+       "plek": 10,
+       "naam": "Charles Leclerc",
+       "eigen": false
+      }
+     ],
+     "volgende": {
+      "naam": "Qatar",
+      "datum": "2026-11-29",
+      "wanneer": "zondag 29 november, 17:00"
+     },
+     "stand": [
+      {
+       "plek": "1",
+       "naam": "Kimi Antonelli",
+       "punten": "402",
+       "eigen": false
+      },
+      {
+       "plek": "2",
+       "naam": "Max Verstappen",
+       "punten": "304",
+       "eigen": true
+      },
+      {
+       "plek": "3",
+       "naam": "Lewis Hamilton",
+       "punten": "267",
+       "eigen": false
+      },
+      {
+       "plek": "4",
+       "naam": "George Russell",
+       "punten": "264",
+       "eigen": false
+      },
+      {
+       "plek": "5",
+       "naam": "Lando Norris",
+       "punten": "264",
+       "eigen": false
+      },
+      {
+       "plek": "6",
+       "naam": "Charles Leclerc",
+       "punten": "250",
+       "eigen": false
+      },
+      {
+       "plek": "7",
+       "naam": "Oscar Piastri",
+       "punten": "167",
+       "eigen": false
+      },
+      {
+       "plek": "8",
+       "naam": "Isack Hadjar",
+       "punten": "122",
+       "eigen": false
+      },
+      {
+       "plek": "9",
+       "naam": "Liam Lawson",
+       "punten": "89",
+       "eigen": false
+      },
+      {
+       "plek": "10",
+       "naam": "Pierre Gasly",
+       "punten": "52",
+       "eigen": false
+      }
+     ]
+    }
+   },
+   "aantal": 19
+  },
+  {
+   "id": "natuur",
+   "titel": "Natuur",
+   "emoji": "🌿",
+   "items": [
+    {
+     "titel": "Vandaag in de natuur",
+     "toelichting": "In de Oosterschelde maak je de grootste kans op het zien van een bruinvis , onze kleinste walvisachtige, zeker in het komende jaargetijde.",
+     "bron": "Nature Today",
+     "tijd": "",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36077",
+     "sein": true
+    },
+    {
+     "titel": "Natuurjournaal 23 november 2026",
+     "toelichting": "Koekeloerende bruinvissen zien en sprot is schakel in de voedselketen in zee.",
+     "bron": "Nature Today",
+     "tijd": "06:45",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36077",
+     "sorteer": "2026-11-23T05:45:00+00:00"
+    },
+    {
+     "titel": "Nu in je tuin: agaatvlinderrupsen",
+     "toelichting": "Vorige week zat er in de tuin nog een agaatvlinder op de klimop te drinken, maar nu zit hij vast als rups ergens in de tuin. De rups overwintert en is in milde herfst- en winternachten actief en op allerlei plekken en op",
+     "bron": "Nature Today",
+     "tijd": "07:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36090",
+     "sorteer": "2026-11-23T06:00:00+00:00"
+    },
+    {
+     "titel": "Biodiversiteit in het Maasheggenlandschap: 'Een heg is veel meer dan een afscheiding'",
+     "toelichting": "Piet Hopman voelt zich enorm verbonden met de Maasheggen. De kleine percelen, omzoomd door eeuwenoude heggen, kent hij al sinds zijn jeugd. Tegenwoordig zet hij zich als bestuurslid van Collectief Deltaplan Landschap in ",
+     "bron": "Nature Today",
+     "tijd": "12:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36091",
+     "sorteer": "2026-11-23T11:00:00+00:00"
+    },
+    {
+     "titel": "Tabaksplant maakt de werkzame stof van een veelgebruikt kankermedicijn",
+     "toelichting": "Paclitaxel is een van de meest gebruikte chemotherapiemiddelen ter wereld, oorspronkelijk komt het uit de schors van de taxus. Maar hoe die boom de stof nou precies maakt was nooit helemaal duidelijk. Een internationaal ",
+     "bron": "Scientias",
+     "tijd": "17:02",
+     "link": "https://scientias.nl/tabaksplant-maakt-de-werkzame-stof-van-een-veelgebruikt-kankermedicijn/"
+    },
+    {
+     "titel": "Bij het diepste punt van de oceaan vond een robot ook de diepste vulkaanexplosie ooit",
+     "toelichting": "De Challenger Deep in de Grote Oceaan is met bijna 11 kilometer al het diepste punt van de oceaanbodem. Daar komt nu een tweede record bij. Op de wand boven de trog vond een duikrobot gesteente van vulkaanexplosies op ru",
+     "bron": "Scientias",
+     "tijd": "09:00",
+     "link": "https://scientias.nl/bij-het-diepste-punt-van-de-oceaan-vond-een-robot-ook-de-diepste-vulkaanexplosie-ooit/"
+    },
+    {
+     "titel": "Mongabay Kids launches Wild Guardians: A free education initiative to engage children with nature",
+     "toelichting": "Mongabay Kids has launched Wild Guardians, a free multimedia educational series that connects upper elementary students with nature and inspires them to become stewards of wild things and wild places. Wild Guardians feat",
+     "bron": "Mongabay (Engels)",
+     "tijd": "20:22",
+     "link": "https://news.mongabay.com/short-article/2026/11/mongabay-kids-launches-wild-guardians-a-free-education-initiative-to-engage-children-with-nature/",
+     "sorteer": "2026-11-23T19:22:18+00:00"
+    },
+    {
+     "titel": "Longer droughts threaten floating health clinics as Amazon streams run dry",
+     "toelichting": "As extreme weather transforms rivers into mud, remote families face a choice between safety and care.",
+     "bron": "Mongabay (Engels)",
+     "tijd": "20:00",
+     "link": "https://news.mongabay.com/2026/11/longer-droughts-dry-amazon-waterways-and-threaten-floating-health-clinics/",
+     "sorteer": "2026-11-23T19:00:50+00:00"
+    }
+   ]
+  },
+  {
+   "id": "vogels",
+   "titel": "Vogels",
+   "emoji": "🐦",
+   "items": [
+    {
+     "titel": "Roodkopklauwier",
+     "kop": "Zeldzaamheden",
+     "bron": "Friesland",
+     "tijd": "09:23",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-23T09:23:00+01:00"
+    },
+    {
+     "titel": "Zwartbuikwaterspreeuw",
+     "kop": "Zeldzaamheden",
+     "bron": "Drenthe",
+     "tijd": "08:57",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-23T08:57:00+01:00"
+    },
+    {
+     "titel": "Bronskopeend",
+     "kop": "Zeldzaamheden",
+     "bron": "Zuid-Holland",
+     "tijd": "08:25",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-23T08:25:00+01:00"
+    },
+    {
+     "titel": "Rotszwaluw",
+     "kop": "Zeldzaamheden",
+     "bron": "Noord-Holland",
+     "tijd": "08:03",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-23T08:03:00+01:00"
+    },
+    {
+     "titel": "Dalfsen (nacht)",
+     "kop": "Vogeltrek",
+     "bron": "23-11",
+     "wanneer": "de nacht van zondag op maandag",
+     "tijd": "17:10–07:30",
+     "link": "https://trektellen.org/count/view/2364/20261123",
+     "soorten": [
+      "Koperwiek 36",
+      "Merel 11",
+      "Wulp 6",
+      "Brandgans 3"
+     ],
+     "aantal_soorten": 14,
+     "opmerkingen": [
+      "Bonte strandloper Dunlin"
+     ],
+     "tellers": "Vincent Martens"
+    },
+    {
+     "titel": "Landelijk vandaag: 115 soorten, 21.956 vogels geteld",
+     "kop": "Vogeltrek",
+     "bron": "alle Nederlandse telposten",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261124?language=dutch"
+    },
+    {
+     "titel": "Spreeuw — 12.653",
+     "kop": "Vogeltrek",
+     "bron": "landelijk, vandaag",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261124?language=dutch"
+    },
+    {
+     "titel": "Zwarte Zee-eend — 1.498",
+     "kop": "Vogeltrek",
+     "bron": "landelijk, vandaag",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261124?language=dutch"
+    },
+    {
+     "titel": "Kolgans — 1.094",
+     "kop": "Vogeltrek",
+     "bron": "landelijk, vandaag",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261124?language=dutch"
+    },
+    {
+     "titel": "Koperwiek — 779",
+     "kop": "Vogeltrek",
+     "bron": "landelijk, vandaag",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261124?language=dutch"
+    },
+    {
+     "titel": "Brandgans — 777",
+     "kop": "Vogeltrek",
+     "bron": "landelijk, vandaag",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261124?language=dutch"
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Brandgans springt eruit — 777, normaal 29",
+     "bron": "27× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261124?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Koperwiek springt eruit — 779, normaal 190",
+     "bron": "4× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261124?language=dutch",
+     "sein": false
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Merel springt eruit — 161, normaal 52",
+     "bron": "3× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261124?language=dutch",
+     "sein": false
+    },
+    {
+     "kop": "Pestvogels",
+     "titel": "Invasiejaar — op 86 plekken in de afgelopen week",
+     "bron": "waarneming.nl",
+     "tijd": "",
+     "link": "https://waarneming.nl/species/306/observations/",
+     "vergelijking": "samen 204 vogels; 270 meldingen, veel daarvan van dezelfde groepjes"
+    },
+    {
+     "kop": "Pestvogels",
+     "titel": "15 plekken binnen 75 km van Dalfsen",
+     "bron": "dichtstbij: Doldersum - Boschoord, 42 km (2026-11-22)",
+     "tijd": "10:03",
+     "link": "https://waarneming.nl/species/306/observations/"
+    }
+   ]
+  },
+  {
+   "id": "hemel",
+   "titel": "Aan de hemel",
+   "emoji": "🌙",
+   "items": [
+    {
+     "titel": "Tussen 5:42 en 6:57 uur zijn Io's schaduw en Europa gelijktijdig zichtbaar op Jupiters schijf.",
+     "bron": "hemel.waarnemen.com",
+     "tijd": "05:42",
+     "link": "https://hemel.waarnemen.com/astrokal/"
+    },
+    {
+     "titel": "De Maan bedekt de Pleiaden, in het sterrenbeeld Stier.",
+     "bron": "hemel.waarnemen.com",
+     "tijd": "07:45",
+     "link": "https://hemel.waarnemen.com/astrokal/"
+    },
+    {
+     "titel": "Het is Volle Maan.",
+     "bron": "hemel.waarnemen.com",
+     "tijd": "15:54",
+     "link": "https://hemel.waarnemen.com/astrokal/"
+    }
+   ]
+  },
+  {
+   "id": "weer",
+   "titel": "Weer Dalfsen",
+   "emoji": "🌤️",
+   "items": [],
+   "weer": {
+    "nu": -2.6,
+    "gevoel": -2.6,
+    "wind": "ZZO 1",
+    "station": "Heino",
+    "bericht": "Vandaag begint de dag met vorst en in het noordoosten, zuiden en zuidoosten met mist(banken). Verder schijnt de zon uitbundig en blijft het vrijwel overal droog. Morgen volop zon, maar door de oostenwind voelt het schraal aan!Vanochtend is het in het zuiden en zuidoosten plaatselijk mistig, waarbij de mist ook kan aanvriezen.",
+    "vandaag": "Vandaag begint de dag met vorst en in het noordoosten, zuiden en zuidoosten met mist(banken). Vanmiddag is het zonovergoten, met een middagtemperatuur van een graad of 4.",
+    "temperatuur": "De afgelopen nacht en vroege ochtend is het tot matige vorst gekomen, met voorlopig de laagste temperatuur in Woensdrecht, waar het kwik daalde naar -6,8 graden.",
+    "dalfsen": {
+     "zin": "Voor Dalfsen zelf: -4 tot 3 graden, droog, ruim 6 uur zon, wind uit het zuidoosten, kracht 3.",
+     "max": 3,
+     "min": -4,
+     "regenkans": 9,
+     "omschrijving": "mistig",
+     "morgen": {
+      "max": 2,
+      "min": -2,
+      "regenkans": 0,
+      "omschrijving": null
+     }
+    },
+    "vooruit": "Perioden met zon en vrijwel overal droog. Vrij koud met in de nacht en ochtend overwegend lichte vorst en ook overdag steeds lagere temperaturen. In de loop van het weekeinde mogelijk wat neerslag en misschien wat zachter.",
+    "omslag": "Nachtvorst in aantocht: morgen tot -3 graden.",
+    "min": "-4",
+    "max": "3",
+    "regenkans": 0,
+    "zonkans": 60,
+    "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
+    "morgen": {
+     "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
+     "min": "-3",
+     "max": "2",
+     "regenkans": 0
+    }
+   }
+  }
+ ]
+}
