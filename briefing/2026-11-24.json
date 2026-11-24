@@ -3,13 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "08:00",
+  "opgehaald": "09:00",
   "blokken": 11,
-  "berichten": 88,
+  "berichten": 84,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-24T08:00+01:00",
+ "opgehaald": "2026-11-24T09:00+01:00",
  "audio": "audio/20261124.mp3",
  "afval": [
   {
@@ -199,6 +199,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Ruimtetoestel BepiColombo had problemen bij aankomst bij Mercurius",
+     "context": "Het Europees-Japanse ruimtetoestel BepiColombo dat zaterdag aankwam bij de planeet Mercurius, blijkt problemen te hebben gehad bij de aankomst. De ruimtesonde ging onverwacht op stand-by, maar inmiddels vliegt die veilig en in een stabiele baan rond de planeet, zegt de Europese ruimtevaartorganisatie ESA. Afgelopen weekend ging de sonde vlak na aankomst in de sluimerstand, waarbij alle niet-noodza",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640793",
+     "bron": "NOS",
+     "tijd": "08:28",
+     "sorteer": "2026-11-24T08:28:45+01:00"
+    },
+    {
      "titel": "Wekdienst 24/11: Strafeis tegen Tarwekamp-verdachten • PSV en Feyenoord Europees in actie",
      "context": "Goedemorgen! In Den Haag wordt vandaag de strafeis tegen de vier verdachten van de fatale explosie aan de Tarwekamp bekendgemaakt. Ook komen vanavond PSV en Feyenoord in actie in de Champions League. Eerst het weer: Het is koud en het wordt vandaag op veel plekken zonnig. Lokaal kan het mistig zijn. Het wordt 3 tot 6 graden. De dagen hierna blijft het koud met overdag 1 tot 4 graden en veel zon, e",
      "rubrieken": [],
@@ -218,7 +227,7 @@
     },
     {
      "titel": "Onderzoeksteam zoekt via Opsporing Verzocht getuigen van massamoord Suriname in 1986",
-     "context": "In het opsporingsprogramma Opsporing Verzocht is gisteravond aandacht besteed aan de massamoord in 1986 in het Surinaamse dorpje Moiwana. Het Nederlandse Team Internationale Misdrijven (TIM) roept getuigen op om zich te melden. Militairen richtten in het dorpje een bloedbad aan: 39 onschuldige burgers werden doodgeschoten, voornamelijk vrouwen, maar ook kinderen, onder wie baby's, en ouderen. De m",
+     "context": "Bijna 40 jaar na de massamoord in het Surinaamse dorp Moiwana zijn Nederlandse politieonderzoekers op zoek naar getuigen. Gisteravond riepen ze in het programma Opsporing Verzocht mensen die meer weten over het bloedbad op om zich te melden. De moordpartij vond plaats tijdens de Binnenlandse Oorlog (1986-1992), toen er een strijd werd uitgevochten tussen het Nationaal Leger onder leiding van Desi ",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640781",
      "bron": "NOS",
@@ -236,34 +245,6 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Drie gewonden onder wie een baby bij droneaanval op Colombiaanse politiebasis",
-     "context": "Drones met daarop explosieven hebben een politiebasis in de stad Cúcuta in het noorden van Colombia geraakt. Drie mensen, onder wie een baby, liepen bij de aanval verwondingen op. Zestig woningen raakten beschadigd. Het is onduidelijk wie er achter de aanval zit. In het gebied nabij de grens met Venezuela, waar de stad ligt, strijden verschillende gewapende groepen tegen elkaar. Vermoed wordt dat ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640772",
-     "bron": "NOS",
-     "tijd": "22:13",
-     "sorteer": "2026-11-23T22:13:34+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Trump dringt aan op versnelde uitvoering van de doodstraf, ondanks mislukte executies",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
-     "bron": "de Volkskrant",
-     "tijd": "05:30",
-     "sorteer": "2026-11-24T04:30:00+00:00"
-    },
-    {
-     "titel": "Nvidia-topman Jensen Huang heeft een beschermengel in het Witte Huis",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/nvidia-topman-jensen-huang-heeft-een-beschermengel-in-het-witte-huis~b285380a/",
-     "bron": "de Volkskrant",
-     "tijd": "03:50",
-     "sorteer": "2026-11-24T02:50:00+00:00"
-    },
-    {
      "titel": "Voornaamste adviseur Trump over cyberveiligheid vertrekt na reeks incidenten",
      "context": "",
      "rubrieken": [],
@@ -273,23 +254,41 @@
      "sorteer": "2026-11-24T04:32:00+00:00"
     },
     {
-     "titel": "Australian politics live: ‘Private tycoons’ shouldn’t have their own AI arsenals, Andrew Hastie says",
-     "context": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few days notice for the mid-financial year economic and fiscal outlook (or Myefo). There’s still a fair",
+     "titel": "Trump tegen afschaffing doodstraf Californië door Newsom",
+     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaC01dE5XaVdqVVhHRzJHX3duV01icVNvS0VtdVl1TElvYXVELUkwYV9MVUdIb2RPX3Z0bFh1a0h3MkJHRFh6NmRMOF9kU3RkUFJlUUFCOHJfbGRMYjJ1amtxNUJjdVV1X05IMjRxRTVyRDB4X1pWYzhxQ0hBUm0tQUxRRzVKOGduT0ZoOUxnTnJwZnRveGc5bHUzSmxzZWNiNU1tR1RER0otTVJGcmwyR0VraEZXaWFHSlliejRpWVdPbWFzVlV0S3ZaaGlFbEFocnc0SE8wakZRbFZUWjhYYjBxOW9tcEJBcWVLdDk0cU1NSmlXSjdIOVVoYW03TlB6cVlMS29KS2o?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "07:14",
+     "sorteer": "2026-11-24T06:14:45+00:00"
+    },
+    {
+     "titel": "Asia-Pacific markets rally as Huang’s return to Nvidia reignites AI trade, despite US political backlash – business live",
+     "context": "Rolling coverage of the latest economic and financial news Republican senators criticize Nvidia’s decision to reinstate Jensen Huang The surge in stock markets since Jensen Huang’s return to Nvidia was announced shows that investors are “willing to re-engage with the AI theme when uncertainty recedes”, says Christian Stocker , lead equity strategist for UniCredit Munich . But… Stocker argues that ",
      "rubrieken": [
-      "Australian politics",
-      "Australia news",
-      "Australian economy",
       "Business",
-      "Health",
-      "Australian education",
-      "Australian immigration and asylum",
-      "Australian foreign policy",
-      "Labor party"
+      "Economics",
+      "Nvidia",
+      "Jensen Huang",
+      "Technology sector",
+      "US news",
+      "Technology",
+      "World news",
+      "UK news"
      ],
-     "link": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+     "link": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
      "bron": "The Guardian",
-     "tijd": "07:44",
-     "sorteer": "2026-11-24T06:44:48+00:00",
+     "tijd": "08:50",
+     "sorteer": "2026-11-24T07:50:23+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "What China's Xi could take away from Jensen Huang's return to Nvidia",
+     "context": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "08:26",
+     "sorteer": "2026-11-24T07:26:27+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -339,17 +338,6 @@
      "sorteer": "2026-11-24T06:00:00+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "India's 'cockroach' party leader says he was stopped from flying to UK",
-     "context": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "06:33",
-     "sorteer": "2026-11-24T05:33:07+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
     }
    ]
   },
@@ -360,7 +348,7 @@
    "items": [
     {
      "titel": "BumaStemra gaat strijd aan met AI-muziek en dreigt met rechtszaak",
-     "context": "Muzikanten noemen het een grote bedreiging voor hun vak: de verkoop van AI-gegenereerde muziek, gebaseerd op hun werk, zonder dat zij er een cent voor krijgen. In de VS en Duitsland zijn eerder al rechtszaken aangespannen tegen dit soort AI-platforms, met succes. Nu dreigt voor het eerst ook BumaStemra, de Nederlandse belangenbehartiger van muziekmakers, met juridische stappen. Michel Laan, commer",
+     "context": "Muzikanten noemen het een grote bedreiging voor hun vak: de verkoop van AI-gegenereerde muziek, gebaseerd op hun werk, zonder dat zij er een cent voor krijgen. In de VS en Duitsland zijn al rechtszaken aangespannen tegen dit soort AI-platforms, met succes. Nu dreigt voor het eerst ook BumaStemra, de Nederlandse belangenbehartiger van muziekmakers, met juridische stappen. Michiel Laan, commercieel ",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640788",
      "bron": "NOS",
@@ -396,6 +384,15 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "40 jaar na massamoord in Suriname zoekt onderzoeksteam via ‘Opsporing Verzocht’ naar ooggetuigen",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/40-jaar-na-massamoord-in-suriname-zoekt-onderzoeksteam-via-opsporing-verzocht-naar-ooggetuigen~b7b1113c/",
+     "bron": "de Volkskrant",
+     "tijd": "08:45",
+     "sorteer": "2026-11-24T07:45:27+00:00"
+    },
+    {
      "titel": "Diederik Gommers stapt per direct op als afdelingshoofd na kritisch rapport over werkcultuur op ic Erasmus MC",
      "context": "",
      "rubrieken": [],
@@ -403,16 +400,6 @@
      "bron": "de Volkskrant",
      "tijd": "19:13",
      "sorteer": "2026-11-23T18:13:00+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Voor de stakers in het streekvervoer is het menens: ‘Na drie dagen werken lig je gewoon dood in de hoek’",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/voor-de-stakers-in-het-streekvervoer-is-het-menens-na-drie-dagen-werken-lig-je-gewoon-dood-in-de-hoek~b26c8ff9/",
-     "bron": "de Volkskrant",
-     "tijd": "19:09",
-     "sorteer": "2026-11-23T18:09:00+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -424,6 +411,13 @@
      "tijd": "20:07",
      "sorteer": "2026-11-23T19:07:00+00:00",
      "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Waarom de nazi-leuzen bij de kooigevechten in Oeffelt misschien niet strafbaar zijn",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMC14SG9Xc1NhOHhXc0xJVlRqdUFPZDBYTzhZOW0tZjZPN1N0OUE4dndQRl9Yc2xybW1JR1cyQ1RKSGtWaE1rcFR0Ukp5NHVnY2J0V3FRUzB4MGtwQ0hiblFuYnRZZlRrbmptaFJXUFN1UzhJc3dncm9aNVF4RC04Nmh0UHB6TE50aW5LWkJlNkdScFptTFFVVkYxQV9qNXdWSlhRWVQ5TF9FYzBzemltdDdyYTd2bVVhRDhHSERNWUpxcHVPd002TEJZVjUxaVlzZmc?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "07:34",
+     "sorteer": "2026-11-24T06:34:00+00:00"
     },
     {
      "titel": "Raad Zwolle onderzoekt of actie tegen overlast van predikers toch mogelijk is",
@@ -440,20 +434,6 @@
      "sorteer": "2026-11-24T06:00:48+00:00"
     },
     {
-     "titel": "Heb je de afgelopen jaren in het buitenland veel vuurwerk gekocht? Grote kans dat de politie dit jaar je auto controleert",
-     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWjZLdFdob3pscW5wd2t1bEF2QURWcUN0ZTFVc1FUb29pNk80V3psLUpEU2NydUJVeG0xY0c1eTVZZmVYak9PaU9TUXFuX1djTDBQMTlid0FiWHkwQy0tQ3dZSF9WQm53Z0pDaHJkRUl4VmJ3ejZWUkIzcnVVQlh0R19jd29EUkdXSFBTcGU5dTUtZGxQWnZVZWlYNV9yeFA5Y3d0alN5UmNESG9uLW5rbVp4alFHS2hBT3JMT2o4WW1rY28yYlJBZlFMR2tYYV9CQXRiMU1OV0RKSnlubnlpM1R4QXVydXplWlRGd3dVTDA?oc=5",
-     "bron": "AD.nl",
-     "tijd": "06:00",
-     "sorteer": "2026-11-24T05:00:00+00:00"
-    },
-    {
-     "titel": "Vuurwerk halen in Duitsland is nu strafbaar: zo controleert de politie langs de grens",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdUVDUWpPMDQ0ZjBhNlUzYXBDR1EzZDFvV3pPcWdpdl9EY25xYmh2dDdlUkd2UGlyRHh3amFVQk1EbUdlYkpGMDVQS3JVSFl6N0FaTE5KQlRrSFcxd2k0Y1BaNzVab2pzNl9SR1lfSG01SGMwY21VeEdKTzZjOGZCdGJQanAxeWdEbG5NS3MwZzdfVDd2Nk9ZMUltTThqRlBnZU56ME1Qb01fQnQ2aXVZakIwc1d0dVV1UU9zLTN4MlhYMXJHd0ZiV3I5WQ?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "06:00",
-     "sorteer": "2026-11-24T05:00:00+00:00"
-    },
-    {
      "titel": "Kinderen moeten leren liegen, vindt deze pedagoog",
      "link": "https://decorrespondent.nl/17417",
      "bron": "De Correspondent · Sanne Blauw",
@@ -466,6 +446,14 @@
      "bron": "De Correspondent · Ot van Daalen",
      "tijd": "05:45",
      "sorteer": "2026-11-24T04:45:03+00:00"
+    },
+    {
+     "titel": "Alternatief EU-begrotingsplan drama voor Nederland: contributie stijgt naar 13,5 miljard euro per jaar",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc3ZqUW5MeFY3YS1BRXZKR05GRUZXeEtmVUdlRV9sUlp5cVZWQmhiZ05Md213N1B6S0RCeXNHUW9XMkNQMTQ2b1I3dDhmUEk2N2t5bmUxaTRKU3V5cEM0bEUwVGxmLVA1UXVuMUZreUpaNXFxVXkxVndhdEltNDBUME4xU1luMVlja244ZlhCcUl0b1BGUEkzV1doM2NaRWFUU0RDZThEUVZmLUhnbHBUSml4VFc3ZWNDbHdGX1d0LTdMcnhPWWFQN2dXSGU4S3FaeTk2bEY1RlJXMTB6b1Rudkl6d0c1Zw?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "23:45",
+     "sorteer": "2026-11-23T22:45:00+00:00",
+     "kop": "Begroting"
     },
     {
      "titel": "Eva",
@@ -502,13 +490,13 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Auto gaat in vlammen op in Deventer",
-     "context": "Een auto is gisteravond rond 23.30 uur in brand gevlogen aan de Zandweerdsweg in Deventer. Het is de zoveelste autobrand in de stad dit jaar.",
+     "titel": "Enschede zet plannen voor groene waterstof voorlopig in de koelkast",
+     "context": "Enschede ziet voorlopig af van plannen om zelf groene waterstof te produceren. Het is te duur en bedrijven hebben er weinig belangstelling voor. Ook afvalverwerker Twence ziet er weinig toekomst in. Warmte opslaan lijkt een betere oplossing.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3722736/auto-gaat-in-vlammen-op-in-deventer",
+     "link": "https://www.oost.nl/nieuws/3722579/enschede-zet-plannen-voor-groene-waterstof-voorlopig-in-de-koelkast",
      "bron": "RTV Oost",
-     "tijd": "07:03",
-     "sorteer": "2026-11-24T06:03:45+00:00"
+     "tijd": "08:06",
+     "sorteer": "2026-11-24T07:06:06+00:00"
     },
     {
      "titel": "Twente leidt talent op, maar hoe zorg je dat het ook blijft?",
@@ -531,15 +519,6 @@
      "sorteer": "2026-11-24T04:02:36+00:00"
     },
     {
-     "titel": "Russische ambassade vraagt opheldering over rol Hengeloos wapenbedrijf Destinus",
-     "context": "De Russische ambassade heeft het ministerie van Buitenlandse Zaken officieel om opheldering gevraagd over de betrokkenheid van Destinus bij aanvallen op Rusland. NRC meldde onlangs dat medewerkers van het Hengelose bedrijf met drones op Russische doelen hebben geschoten.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3722657/russische-ambassade-vraagt-opheldering-over-rol-hengeloos-wapenbedrijf-destinus",
-     "bron": "RTV Oost",
-     "tijd": "23:11",
-     "sorteer": "2026-11-23T22:11:32+00:00"
-    },
-    {
      "titel": "Per ongeluk op het WK Prison Island: Enschedese studenten worden elfde",
      "context": "\"Wij wisten vier maanden geleden ook niet wat dit was.\" Roald Hoogvliet kijkt terug op het evenement WK Prison Island afgelopen zaterdag in de hal van Next Level in Enschede. De student eindigde met zijn team Linkerbaan Enschede in een veld van 34 teams als elfde. \"Ze spelen het in heel Europa.\"",
      "rubrieken": [],
@@ -557,6 +536,16 @@
      "bron": "RTV Oost",
      "tijd": "20:01",
      "sorteer": "2026-11-23T19:01:16+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "IJsclubs houden weerbericht scherp in de gaten: 'Wachten op goede vorst'",
+     "context": "De eerste nachtvorst zorgt voor kriebels bij schaatsliefhebbers, maar ijsclubs in Overijssel sporen nog niet aan om de schaatsen uit het vet te halen. Hoewel meerdere verenigingen voorbereidingen treffen, blijven ijsmeesters voorzichtig. Een paar koude nachten betekent nog geen betrouwbare ijsvloer.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3722524/ijsclubs-houden-weerbericht-scherp-in-de-gaten-wachten-op-goede-vorst",
+     "bron": "RTV Oost",
+     "tijd": "19:23",
+     "sorteer": "2026-11-23T18:23:58+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -683,6 +672,14 @@
      "bron": "Emerce",
      "tijd": "05:30",
      "sorteer": "2026-11-24T04:30:00+00:00"
+    },
+    {
+     "titel": "Amazon koopt bedrijf Decart achter AI-modellen voor realtimesimulatie",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbnFmVlkzUWdsbVF1TmlzZi1GRUIyOWxIRjNUa2JTSFJScjhEWklmX0RMSmZ0a1hxYjhVSXpwRUcxbnIwUk53THJCS2NxdGVEaklCV01oQzhCQU14R3d6bTJVcFdXZHpTNG1LY3VMZG90THNqUnp0dkw3T0pQa3IzYlNRMmp3cWczU1VTMGtlazVGVGIwN1NFRnU1emFvM0kyNHoxNnlRcE1YMThFZlE?oc=5",
+     "bron": "Tweakers",
+     "tijd": "20:28",
+     "sorteer": "2026-11-23T19:28:08+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
     }
    ]
   },
@@ -691,6 +688,14 @@
    "titel": "Tweede Kamer",
    "emoji": "🏛️",
    "items": [
+    {
+     "titel": "Het bericht dat de Ombudsman stelt dat Sinti, Roma en reizigers stelselmatig worden gediscrimineerd",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "30-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D54394",
+     "sorteer": "2026-11-24T08:49:57.56+01:00"
+    },
     {
      "titel": "De verschuivende politieke prioriteiten in beleidsgelden en uitvoeringsgelden waardoor minder geïnvesteerd wordt in de strijd…",
      "bron": "Kamervraag",
@@ -708,20 +713,20 @@
      "sorteer": "2026-11-23T15:40:06.613+01:00"
     },
     {
-     "titel": "Het gebruik van mogelijk excessief geweld door de politie op geweldloze klimaatactivisten",
-     "bron": "Kamervraag",
-     "kop": "Kamervragen",
-     "tijd": "08-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D49729",
-     "sorteer": "2026-11-23T13:39:18.41+01:00"
-    },
-    {
      "titel": "Antwoord op vragen van het lid Van Duijvenvoorde over publieke politieke uitlatingen van rechters",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
      "tijd": "09-10",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D50200",
      "sorteer": "2026-11-23T16:22:30.983+01:00"
+    },
+    {
+     "titel": "Voortgangsbrief integrale aanpak cybercrime",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "09-09",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D42146",
+     "sorteer": "2026-11-24T08:14:51.143+01:00"
     },
     {
      "titel": "Bekrachtiging van het voorstel van wet van de leden Paulusma, Becker, Westerveld, Dobbe en Kostić tot wijziging van het Wetboek…",
@@ -732,12 +737,12 @@
      "sorteer": "2026-11-23T17:15:40.687+01:00"
     },
     {
-     "titel": "Ontwikkelingen Wet financiering politieke partijen (Wfpp)",
-     "bron": "Brief van de regering",
+     "titel": "Motie van het lid Moorman c.s. over ondersteuning van initiatieven voor de veiligheid en emancipatie  van lhbtiq+-mensen in…",
+     "bron": "Motie",
      "kop": "Brieven en moties",
      "tijd": "23-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D60225",
-     "sorteer": "2026-11-23T16:10:11.327+01:00"
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D60120",
+     "sorteer": "2026-11-24T08:42:20.453+01:00"
     },
     {
      "titel": "Petitie 'Herzie het asielbeleid voor Jemen op basis van actuele feiten'",
@@ -811,7 +816,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "08:00",
+    "bijgewerkt": "09:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1220,20 +1225,20 @@
      "link": "https://scientias.nl/bij-het-diepste-punt-van-de-oceaan-vond-een-robot-ook-de-diepste-vulkaanexplosie-ooit/"
     },
     {
-     "titel": "Bush dogs are very rare. You’re 100x more likely to see a jaguar",
-     "toelichting": "Founder’s Briefs: An occasional series where Mongabay founder Rhett Ayers Butler shares analysis, perspectives and story summaries. Biologists can spend decades working in the Amazon without seeing a bush dog. A new stud",
+     "titel": "Elders in Bali renew push against new offshore gas terminal",
+     "toelichting": "DENPASAR, Indonesia — Customary leaders from Serangan village in Bali have renewed local opposition to a planned liquefied natural gas terminal off the east coast of the Indonesian island, saying the floating LNG site is",
      "bron": "Mongabay (Engels)",
-     "tijd": "07:08",
-     "link": "https://news.mongabay.com/short-article/2026/11/bush-dogs-are-very-rare-youre-100x-more-likely-to-see-a-jaguar/",
-     "sorteer": "2026-11-24T06:08:50+00:00"
+     "tijd": "08:42",
+     "link": "https://news.mongabay.com/2026/11/elders-in-bali-renew-push-against-new-offshore-gas-terminal/",
+     "sorteer": "2026-11-24T07:42:36+00:00"
     },
     {
-     "titel": "Timor-Leste issues guidelines for whale-watching, but malpractice is rife as industry booms",
-     "toelichting": "DILI, Timor-Leste — As the annual whale migration gets into full swing in Timor-Leste, conservationists are raising concerns about increasingly aggressive tourist encounters with the world’s largest animals, despite new ",
+     "titel": "Indonesian Borneo’s forests go quiet as smoke silences gibbons. Their singing matter",
+     "toelichting": "Around dawn, a gibbon pair starts to sing. Their voices interweave, and the duet builds to a crescendo that fills the canopy. Across much of the Bornean forest, this is the sound of the morning. But since smoke from Indo",
      "bron": "Mongabay (Engels)",
-     "tijd": "05:56",
-     "link": "https://news.mongabay.com/2026/11/timor-leste-issues-guidelines-for-whale-watching-but-malpractice-is-rife-as-industry-booms/",
-     "sorteer": "2026-11-24T04:56:04+00:00"
+     "tijd": "07:57",
+     "link": "https://news.mongabay.com/2026/11/indonesian-borneos-forests-go-quiet-as-smoke-silences-gibbons-their-singing-matter/",
+     "sorteer": "2026-11-24T06:57:07+00:00"
     }
    ]
   },
@@ -1249,30 +1254,6 @@
      "tijd": "09:23",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-11-23T09:23:00+01:00"
-    },
-    {
-     "titel": "Zwartbuikwaterspreeuw",
-     "kop": "Zeldzaamheden",
-     "bron": "Drenthe",
-     "tijd": "08:57",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-23T08:57:00+01:00"
-    },
-    {
-     "titel": "Bronskopeend",
-     "kop": "Zeldzaamheden",
-     "bron": "Zuid-Holland",
-     "tijd": "08:25",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-23T08:25:00+01:00"
-    },
-    {
-     "titel": "Rotszwaluw",
-     "kop": "Zeldzaamheden",
-     "bron": "Noord-Holland",
-     "tijd": "08:03",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-23T08:03:00+01:00"
     },
     {
      "titel": "Dalfsen (nacht)",
@@ -1294,42 +1275,42 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 115 soorten, 21.956 vogels geteld",
+     "titel": "Landelijk vandaag: 22 soorten, 7.912 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261124?language=dutch"
     },
     {
-     "titel": "Spreeuw — 12.653",
+     "titel": "Spreeuw — 6.120",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261124?language=dutch"
     },
     {
-     "titel": "Zwarte Zee-eend — 1.498",
+     "titel": "Kolgans — 1.572",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261124?language=dutch"
     },
     {
-     "titel": "Kolgans — 1.094",
+     "titel": "Brandgans — 98",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261124?language=dutch"
     },
     {
-     "titel": "Koperwiek — 779",
+     "titel": "Kauw — 31",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261124?language=dutch"
     },
     {
-     "titel": "Brandgans — 777",
+     "titel": "Holenduif — 17",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
@@ -1337,23 +1318,7 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Brandgans springt eruit — 777, normaal 29",
-     "bron": "27× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261124?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Koperwiek springt eruit — 779, normaal 190",
-     "bron": "4× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261124?language=dutch",
-     "sein": false
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Merel springt eruit — 161, normaal 52",
+     "titel": "Brandgans springt eruit — 98, normaal 29",
      "bron": "3× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261124?language=dutch",
@@ -1361,11 +1326,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 86 plekken in de afgelopen week",
+     "titel": "Invasiejaar — op 92 plekken in de afgelopen week, waarvan 6 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 204 vogels; 270 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 223 vogels; 278 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1407,21 +1372,21 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": -3.8,
-    "gevoel": -6.9,
-    "wind": "OZO 2",
+    "nu": -3.5,
+    "gevoel": -6.4,
+    "wind": "ZZO 2",
     "station": "Heino",
     "bericht": "Vandaag begint de dag met vorst en in het noordoosten, zuiden en zuidoosten met mist(banken). Verder schijnt de zon uitbundig en blijft het vrijwel overal droog. Morgen volop zon, maar door de oostenwind voelt het schraal aan!Vanochtend is het in het zuiden en zuidoosten plaatselijk mistig, waarbij de mist ook kan aanvriezen.",
     "vandaag": "Vandaag begint de dag met vorst en in het noordoosten, zuiden en zuidoosten met mist(banken). Vanmiddag is het zonovergoten, met een middagtemperatuur van een graad of 4.",
     "temperatuur": "De afgelopen nacht en vroege ochtend is het tot matige vorst gekomen, met voorlopig de laagste temperatuur in Woensdrecht, waar het kwik daalde naar -6,8 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -2 tot 3 graden, droog, ruim 6 uur zon, wind uit het zuidoosten, kracht 3.",
+     "zin": "Voor Dalfsen zelf: -4 tot 3 graden, droog, ruim 6 uur zon, wind uit het zuidoosten, kracht 3.",
      "max": 3,
-     "min": -2,
+     "min": -4,
      "regenkans": 9,
-     "omschrijving": "mistig",
+     "omschrijving": "bewolkt",
      "morgen": {
-      "max": 1,
+      "max": 2,
       "min": -2,
       "regenkans": 0,
       "omschrijving": null
