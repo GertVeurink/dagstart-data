@@ -3,13 +3,15 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "12:00",
+  "opgehaald": "13:50",
   "blokken": 11,
-  "berichten": 101,
-  "problemen": [],
+  "berichten": 97,
+  "problemen": [
+   "AI Report: geen berichten in de archiefpagina gevonden"
+  ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-25T12:00+01:00",
+ "opgehaald": "2026-11-25T13:50+01:00",
  "audio": "audio/20261125.mp3",
  "afval": [
   {
@@ -51,54 +53,54 @@
  ],
  "duiding": [
   {
-   "titel": "OM eist levenslang voor Moshtag B.",
-   "tekst": "Het OM eist levenslang tegen Moshtag B. als meesterbrein van de explosie aan de Haagse Tarwekamp, waarbij op 7 december 2024 zes mensen omkwamen (17, 18). Die aanslag was volgens het OM wraak op zijn ex-vriendin, eigenaresse van de bruidsmodezaak in het pand (17). Daarvoor bereidden de verdachten zich maandenlang voor, onder meer met onderzoek naar de brandbaarheid van bruidsjurken (17). Tegen de drie medeverdachten eist het OM 30, 28 en 4 jaar (17).",
+   "titel": "Leger bevrijdt gijzelaars in Cartagena",
+   "tekst": "Na zestien uur hebben politie en leger in Colombia een gijzeling van 20 mensen in een supermarkt in Cartagena beëindigd, en alle gijzelaars overleefden het (3). Die gijzeling begon toen een overval op een geldwagen mislukte, omdat een bestuurder op de alarmknop drukte en de overvallers de winkel in vluchtten (3). Bij de bevrijding kwam één gijzelnemer om en werden er vier gearresteerd, volgens president Abelardo de la Espriella, die er zelf bij was (3, 11).",
    "verwijzingen": [
     {
-     "titel": "OM eist levenslang tegen opdrachtgever dodelijke explosie Tarwekamp",
-     "link": "https://nos.nl/l/2640862",
+     "titel": "Gijzeling in Colombiaanse supermarkt na 16 uur beëindigd, gijzelnemer gedood",
+     "link": "https://nos.nl/l/2640948",
      "bron": "NOS",
-     "tijd": "18:36",
-     "nummers": [
-      17
-     ]
-    },
-    {
-     "titel": "OM eist levenslang in Tarwekamp-zaak: ‘Het was sowieso waanzin’",
-     "link": "https://www.volkskrant.nl/binnenland/om-eist-levenslang-in-tarwekamp-zaak-het-was-sowieso-waanzin~b46c597c/",
-     "bron": "de Volkskrant",
-     "tijd": "19:22",
-     "nummers": [
-      18
-     ]
-    }
-   ],
-   "geschreven": "06:06"
-  },
-  {
-   "titel": "Nvidia haalt vertrokken Huang terug",
-   "tekst": "Nvidia heeft Jensen Huang teruggehaald als topman, anderhalve week nadat hij moest vertrekken om affaires, onder meer met een vrouw die de NOS en Nieuwsuur als Chinese spion aanduiden (3, 24). Die terugkeer kwam volgens Nieuwsuur zelfs voor de hoogste leiding van het bedrijf als verrassing (24). Daarop bood Huang medewerkers excuses aan voor het schenden van de gedragscode die hij zelf heeft opgesteld (3).",
-   "verwijzingen": [
-    {
-     "titel": "Jensen Huang zegt bij terugkomst Nvidia 'sorry' tegen medewerkers en is in therapie",
-     "link": "https://nos.nl/l/2640898",
-     "bron": "NOS",
-     "tijd": "22:58",
+     "tijd": "10:42",
      "nummers": [
       3
      ]
     },
     {
-     "titel": "Nieuwsuur: Reconstructie Nvidia • Partij voor de Dieren bestaat 20 jaar • Gokken op einde der tijden",
-     "link": "https://nos.nl/l/2640829",
-     "bron": "NPO2 · 22:00",
-     "tijd": "22:00",
+     "titel": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+     "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "12:45",
      "nummers": [
-      24
+      11
      ]
     }
    ],
-   "geschreven": "06:06"
+   "geschreven": "13:54"
+  },
+  {
+   "titel": "Kabinet beantwoordt vragen over Hajar",
+   "tekst": "Het kabinet heeft de Kamervragen van El Abassi over de dood van Hajar en het handelen van de politie beantwoord (49). Die vragen over de dood van Hajar en het politieoptreden werden op 28 oktober gesteld (47).",
+   "verwijzingen": [
+    {
+     "titel": "De dood van Hajar en het handelen van de politie",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D53624",
+     "bron": "Kamervraag",
+     "tijd": "28-10",
+     "nummers": [
+      47
+     ]
+    },
+    {
+     "titel": "Antwoord op vragen van het lid El Abassi over de dood van Hajar en het handelen van de politie",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D60697",
+     "bron": "Antwoord op Kamervragen",
+     "tijd": "25-11",
+     "nummers": [
+      49
+     ]
+    }
+   ],
+   "geschreven": "13:54"
   }
  ],
  "denkwerk": {
@@ -132,46 +134,46 @@
  },
  "verder": [
   {
-   "kop": "Verdachte drugslabs zegt bedreigd",
-   "blok": "lokaal",
-   "link": "https://www.oost.nl/nieuws/3722917/failliete-ondernemer-met-drugslabs-in-ijsselmuiden-en-enschede-ben-zwaar-bedreigd",
-   "bron": "RTV Oost",
-   "titel": "Failliete ondernemer met drugslabs in IJsselmuiden en Enschede: 'Ben zwaar bedreigd'"
-  },
-  {
-   "kop": "Rechter spreekt Zwollenaar vrij",
-   "blok": "lokaal",
-   "link": "https://www.oost.nl/nieuws/3722887/zeven-jaar-cel-geeist-maar-zwolse-vastgoedman-vrijgesproken-in-zaak-drugslabs",
-   "bron": "RTV Oost",
-   "titel": "Zeven jaar cel geëist, maar Zwolse vastgoedman vrijgesproken in zaak drugslabs"
-  },
-  {
-   "kop": "Brand woedt op dak Tata Steel",
+   "kop": "Politie vindt 6470 kilo vuurwerk",
    "blok": "nationaal",
-   "link": "https://nos.nl/l/2640908",
+   "link": "https://nos.nl/l/2640958",
    "bron": "NOS",
-   "titel": "Korte tijd grote brand op terrein Tata Steel"
+   "titel": "Controle auto leidt tot vondst van ruim 6000 kilo vuurwerk in Rotterdam"
   },
   {
-   "kop": "Terreurtoerist verliest paspoort",
+   "kop": "Neonazi-medic adviseerde justitie",
    "blok": "nationaal",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdGI1ckFzYTBKSklKeFNDXzZOVkl3STBIcHpJRW9CYk5vYk5LRzJ5LW1XaWM0Y0N2aXduNUFXMHlSS1Z2b1EtMm9HSXdKZHYxWWpLakxmRkV4TUktT0luLV8tbzVuR3REV2xtb2hZVEl6OGh6RmlwMWJBNFFkMUZsQ19OZEI2cWlpQVRXSGFXaGc0LU1pWllpUGFzY3VmWlQ4eWxJSGxCRzh5enhDVUdVQzhETVJoRHVGenVqb1B1UHZFYWloM2NOUmFrTTZlUFJBa3p3LTRYUk5EaGM?oc=5",
-   "bron": "De Telegraaf",
-   "titel": "’Terreurtoerist’ raakt Nederlands paspoort kwijt bij aansluiten terreurorganisatie in buitenland"
+   "link": "https://nos.nl/l/2640929",
+   "bron": "NOS",
+   "titel": "'Ggz-psychiater die hielp bij neo-nazikooigevechten was adviseur voor justitie'"
   },
   {
-   "kop": "Hongaarse premier bezoekt Oekraïne",
+   "kop": "Duitse politie pakt tieners op",
    "blok": "internationaal",
-   "link": "https://nos.nl/l/2640891",
+   "link": "https://nos.nl/l/2640959",
    "bron": "NOS",
-   "titel": "Hongaarse premier bezoekt Oekraïne voor het eerst sinds 2015: 'Historische dag'"
+   "titel": "Duitse politie pakt 14- en 15-jarigen op voor rechts-extremistische aanslagplannen"
   },
   {
-   "kop": "Mexicaans leger pakt kartelbaas op",
+   "kop": "Polen meldt Russische drone",
    "blok": "internationaal",
-   "link": "https://nos.nl/l/2640910",
-   "bron": "NOS",
-   "titel": "Arrestatie van weer een kartelbaas stort Mexicaans volk in onzekerheid"
+   "link": "https://www.trouw.nl/buitenland/live-oorlog-oekraine-twee-libische-militairen-overleden-aan-verwondingen-na-aanval-oekraine-in-benghazi~ba2815bb/",
+   "bron": "Trouw",
+   "titel": "Polen: Russisch onbemand luchtvaartuig schond Pools luchtruim"
+  },
+  {
+   "kop": "Helsing onderzoekt koop Destinus",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3723224/duitse-krant-meldt-mogelijke-overname-van-wapenfabrikant-destinus-in-hengelo",
+   "bron": "RTV Oost",
+   "titel": "Duitse krant meldt mogelijke overname van wapenfabrikant Destinus in Hengelo"
+  },
+  {
+   "kop": "Waterschap verhoogt belasting 2027",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3723200/waterschap-verhoogt-belasting-in-2027-dit-merken-huurders-en-huiseigenaren",
+   "bron": "RTV Oost",
+   "titel": "Waterschap verhoogt belasting in 2027: dit merken huurders en huiseigenaren"
   }
  ],
  "blokken": [
@@ -180,6 +182,24 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "China lanceert ruimteschip Shenzhou 24: voor het eerst buitenlandse astronaut mee",
+     "context": "Diep in Gobiwoestijn ligt China's oudste ruimtehaven: de Jiuquan lanceerbasis. Om 08.18 uur verbreekt een oorverdovende explosie de serene stilte. De grond trilt. Met een enorme kracht wordt het ruimteschip Shenzhou-24 gelanceerd om drie astronauten naar het Tiangong ruimtestation te vervoeren. Met voor het eerst een Pakistaanse ruimtevaarder aan boord. Deze basis is al meermaals het toneel gewees",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640960",
+     "bron": "NOS",
+     "tijd": "12:18",
+     "sorteer": "2026-11-25T12:18:07+01:00"
+    },
+    {
+     "titel": "Duitse politie pakt 14- en 15-jarigen op voor rechts-extremistische aanslagplannen",
+     "context": "De Duitse politie heeft drie verdachten van 14 en 15 jaar opgepakt in een onderzoek naar een rechts-extremistische terreurgroep. Dat gebeurde bij doorzoekingen in verschillende delen van Duitsland. De drie worden ervan verdacht dat ze lid zijn van Terror 18. Dat is een groep die \"een diepe afkeer heeft van de politieke en democratische omstandigheden in Duitsland\", stelt justitie. Het cijfer 18 ve",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640959",
+     "bron": "NOS",
+     "tijd": "12:11",
+     "sorteer": "2026-11-25T12:11:18+01:00"
+    },
     {
      "titel": "Gijzeling in Colombiaanse supermarkt na 16 uur beëindigd, gijzelnemer gedood",
      "context": "Na zestien uur hebben de Colombiaanse politie en het leger de gijzeling beëindigd waarbij 20 mensen werden vastgehouden in een supermarkt in Cartagena. Volgens de president van het land, Abelardo de la Espriella, is bij de bevrijdingsactie een gijzelnemer omgekomen, vier anderen werden gearresteerd. Alle gijzelaars hebben het overleefd. Bij de actie zette de autoriteiten speciale eenheden van de p",
@@ -208,40 +228,22 @@
      "sorteer": "2026-11-25T10:15:13+01:00"
     },
     {
-     "titel": "Salvadoraan Abrego Garcia verlaat na deportatiestrijd de VS en gaat naar Spanje",
-     "context": "Kilmar Abrego Garcia, de 31-jarige Salvadoraan die de Verenigde Staten werd uitgezet en zijn deportatie met succes aanvocht, is gisteren met een commerciële lijnvlucht vrijwillig naar Spanje vertrokken. Hij werd het gezicht van het harde migratiebeleid van de regering-Trump nadat hij vorig jaar maart werd opgepakt en naar een beruchte gevangenis in zijn geboorteland werd gestuurd. Abrego Garcia we",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640919",
-     "bron": "NOS",
-     "tijd": "07:51",
-     "sorteer": "2026-11-25T07:51:26+01:00"
-    },
-    {
-     "titel": "Wekdienst 25/11: NAVO-chef Rutte praat met Trump • Strafeis mishandeling Plein Den Haag",
-     "context": "Goedemorgen! Goedemorgen! In Florida spreekt NAVO-topman Mark Rutte met de Amerikaanse president Donald Trump over onder meer de oorlog in Oekraïne en het Openbaar Ministerie komt met de strafeisen in de zaak rond de fatale mishandeling van een Somalische asielzoeker op het Plein in Den Haag. Eerst het weer: De dag begint met lichte vorst. Overdag veel zon en vanmiddag wordt het 0 tot 3 graden. Do",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640913",
-     "bron": "NOS",
-     "tijd": "06:48",
-     "sorteer": "2026-11-25T06:48:03+01:00"
-    },
-    {
-     "titel": "Jensen Huang biedt bij terugkeer zijn excuses aan, maar op veel verandering hoeven Nvidia-medewerkers niet te rekenen",
+     "titel": "Strijd om leiding van Verenigde Naties draait om twee vrouwen en verdeelde vetomachten",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/jensen-huang-biedt-bij-terugkeer-zijn-excuses-aan-maar-op-veel-verandering-hoeven-nvidia-medewerkers-niet-te-rekenen~b05952d4/",
+     "link": "https://www.volkskrant.nl/buitenland/strijd-om-leiding-van-verenigde-naties-draait-om-twee-vrouwen-en-verdeelde-vetomachten~b1e10bc9/",
      "bron": "de Volkskrant",
-     "tijd": "10:55",
-     "sorteer": "2026-11-25T09:55:42+00:00"
+     "tijd": "12:10",
+     "sorteer": "2026-11-25T11:10:00+00:00"
     },
     {
-     "titel": "Brand bij twee Russische olieraffinaderijen door Oekraïense droneaanvallen",
+     "titel": "IT-medewerker wint verkiezing in Tennessee en voegt nog een zetel toe aan Democratische overtal",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/brand-bij-twee-russische-olieraffinaderijen-door-oekraiense-droneaanvallen~b34eb585/",
+     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
      "bron": "de Volkskrant",
-     "tijd": "10:02",
-     "sorteer": "2026-11-25T09:02:00+00:00"
+     "tijd": "12:09",
+     "sorteer": "2026-11-25T11:09:00+00:00"
     },
     {
      "titel": "Polen: Russisch onbemand luchtvaartuig schond Pools luchtruim",
@@ -253,67 +255,40 @@
      "sorteer": "2026-11-25T01:58:00+00:00"
     },
     {
-     "titel": "2 Men Charged After Break-In at Prince William and Kate’s Country Home",
-     "context": "The men, Mirgen Doku, 34, and Arilen Ndoci, 32, were accused of intent to steal and of trespass, the police said, after reports of suspicious activity at the Sandringham Estate in eastern England.",
+     "titel": "UK embassy in Japan warns of rise in drink spiking and credit card fraud at Tokyo bars",
+     "context": "Social media campaign fronted by British rapper Shao Dow advises tourists not to let their guard down The British embassy in Tokyo has launched a social media campaign warning visitors to exercise caution after a rise in cases of drink-spiking and credit card fraud against tourists in the Japanese capital. In a recent clip made in conjunction with the embassy, the British rapper and manga artist S",
      "rubrieken": [
-      "Royal Families",
-      "Trespassing",
-      "Robberies and Thefts",
-      "Police",
-      "Catherine, Princess of Wales",
-      "William, Prince of Wales",
-      "Great Britain",
-      "Norfolk (England)"
+      "Japan",
+      "Asia Pacific",
+      "Foreign, Commonwealth and Development Office",
+      "Travel",
+      "World news"
      ],
-     "link": "https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html",
-     "bron": "New York Times",
-     "tijd": "11:53",
-     "sorteer": "2026-11-25T10:53:17+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-     "context": "The verdict follows a months-long trial in New York.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "11:52",
-     "sorteer": "2026-11-25T10:52:09+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "General Synod could vote to ban C of E clergy from supporting Restore Britain",
-     "context": "Private members’ motion comes amid concern about Christian symbols being appropriated by the far right Church of England clergy could be banned from joining or supporting the hard-right Restore Britain party under a motion put forward for debate at the General Synod. The move is an attempt to replicate the decision by bishops 17 years ago prohibiting clergy from belonging to or supporting the Brit",
-     "rubrieken": [
-      "Anglicanism",
-      "Restore Britain",
-      "UK news",
-      "Christianity",
-      "Politics",
-      "Far right"
-     ],
-     "link": "https://www.theguardian.com/world/2026/nov/25/general-synod-ban-church-of-england-clergy-support-restore-britain",
+     "link": "https://www.theguardian.com/world/2026/nov/25/british-embassy-tokyo-warning-tourists-drink-spiking-credit-card-fraud",
      "bron": "The Guardian",
-     "tijd": "11:40",
-     "sorteer": "2026-11-25T10:40:38+00:00",
+     "tijd": "12:59",
+     "sorteer": "2026-11-25T11:59:22+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "French justice minister opens probe into prosecutor seen at far-right HQ",
-     "context": "The prosecutor was discovered at Marine Le Pen's party headquarters during a police raid, but said he was only there to meet an acquaintance.",
+     "titel": "Ukraine’s raid in Libya damaged more than a Russian warship",
+     "context": "Legal experts say the attack likely broke international law, undermining the rules that keep conflicts from spreading.",
      "rubrieken": [
-      "Far right",
-      "French politics",
-      "Politics"
+      "Defense",
+      "Drones",
+      "Maritime",
+      "Military",
+      "Missiles",
+      "Ports",
+      "War",
+      "Weapons",
+      "Opinion"
      ],
-     "link": "https://www.politico.eu/article/france-justice-minister-gerald-darmanin-probe-prosecutor-christian-de-rocquigny-national-rally/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "link": "https://www.politico.eu/article/ukraine-russia-warship-attack-libya-international-law-neutral-waters/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
      "bron": "Politico Europe",
-     "tijd": "11:36",
-     "sorteer": "2026-11-25T10:36:26+00:00",
+     "tijd": "12:49",
+     "sorteer": "2026-11-25T11:49:29+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -323,8 +298,36 @@
      "rubrieken": [],
      "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
      "bron": "BBC",
-     "tijd": "10:56",
-     "sorteer": "2026-11-25T09:56:19+00:00",
+     "tijd": "12:45",
+     "sorteer": "2026-11-25T11:45:16+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
+     "context": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "12:29",
+     "sorteer": "2026-11-25T11:29:40+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Losses Mount for Yemeni Government as Houthi Militia Advances",
+     "context": "The Iran-backed Houthis in Yemen are on a winning streak, securing strategic territory as they fight Saudi Arabia and its Yemeni allies in an asymmetrical war of attrition.",
+     "rubrieken": [
+      "War and Armed Conflicts",
+      "Houthis",
+      "Aden (Yemen)",
+      "Yemen",
+      "vis-photo"
+     ],
+     "link": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
+     "bron": "New York Times",
+     "tijd": "12:24",
+     "sorteer": "2026-11-25T11:24:10+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -335,6 +338,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Controle auto leidt tot vondst van ruim 6000 kilo vuurwerk in Rotterdam",
+     "context": "In een loods in Rotterdam-Hoogvliet heeft de politie duizenden kilo's illegaal vuurwerk gevonden. Volgens de politie gaat het om de grootste vangst van het jaar. De politie kwam de partij op het spoor dankzij een autocontrole door de douane. Douaniers vonden zaterdagavond in de kofferbak van de wagen illegaal vuurwerk en de bestuurder had veel contant geld bij zich. Nadat de politie erbij was geha",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640958",
+     "bron": "NOS",
+     "tijd": "12:05",
+     "sorteer": "2026-11-25T12:05:49+01:00"
+    },
     {
      "titel": "Slachtoffer in vrieskist Utrecht is man van 20, nog veel vragen over toedracht",
      "context": "Het slachtoffer dat gisteren in een vrieskist op straat in Utrecht werd gevonden, is een man van 20 uit Utrecht. Over wat er met hem is gebeurd, is nog niet veel duidelijk. De politie zegt \"alle scenario's open te houden\". De hele avond is er door de Forensische Opsporing onderzoek gedaan. \"Het onderzoek naar de doodsoorzaak en de omstandigheden rond de vondst van de overleden persoon gaat ook van",
@@ -372,15 +384,6 @@
      "sorteer": "2026-11-25T09:42:31+01:00"
     },
     {
-     "titel": "Bij zeker een kwart van alle verkeersdoden is alcohol in het spel",
-     "context": "Bij een aanzienlijk deel van de verkeersdoden is er alcohol in het spel. Dat meldt het Instituut voor Wetenschappelijk Onderzoek Verkeersveiligheid (SWOV) op basis van een schatting. Het instituut keek naar de jaren 2019-2025 en schat dat bij 24 tot 35 procent van de verkeersdoden alcohol een factor is. In veel van die gevallen was degene die omkwam de bestuurder zelf, het SWOV schat dat dat in tw",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640920",
-     "bron": "NOS",
-     "tijd": "08:06",
-     "sorteer": "2026-11-25T08:06:32+01:00"
-    },
-    {
      "titel": "Basisscholen stellen schooladvies vaker bij sinds invoering doorstroomtoets",
      "context": "",
      "rubrieken": [],
@@ -400,41 +403,41 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "In Suriname gloort er opnieuw hoop voor nabestaanden nu Nederland gaat helpen in onderzoek naar oorlogsmisdrijven. ‘Er had allang iets moeten gebeuren’",
+     "titel": "Dienst Toeslagen moet gedupeerde ouders veel beter informeren, vindt de hoogste rechter",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/in-suriname-gloort-er-opnieuw-hoop-voor-nabestaanden-nu-nederland-gaat-helpen-in-onderzoek-naar-oorlogsmisdrijven-er-had-allang-iets-moeten-gebeuren~b5309550/",
+     "link": "https://www.trouw.nl/binnenland/dienst-toeslagen-moet-gedupeerde-ouders-veel-beter-informeren-vindt-de-hoogste-rechter~bcce64da/",
      "bron": "Trouw",
-     "tijd": "11:38",
-     "sorteer": "2026-11-25T10:38:44+00:00"
-    },
-    {
-     "titel": "Nederland zoekt coalitie tegen Amerikaanse ICC-sancties",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcVA4bjZQWDJObnY0WTNuT0xsOEJLUzA5dXBSYTR4TmlTTHNoU3QtUmJydFlXZS05VDZVbGRqaVhTbHJCWmJUNF9Mek9ObjdCV0ppbVlkNW1RUmx3amVYcFhVT2lvRzc3T2tlN3dVRXdWcHJRcjJPWk8xdkxLNHQ0OG9xNUtacU4wdnhtZkJTZmRER2NtbUNkZ3RiMlVfZllOWGJoR2pOX0M5QQ?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "11:56",
-     "sorteer": "2026-11-25T10:56:00+00:00"
-    },
-    {
-     "titel": "18-jarige Amsterdammer hoeft van OM niet meer de cel in na voorbereiden aanslag op synagoge in Heemstede",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTmxEWkVnS2NTNHJ1QXU0Y0FFcXIxQ1F5VmxMcVFobWhEaXB5Z0o0Z2tQSml1YXJXV0hBSHZJRXpkNktrdXpYYnhueWJpb1BQZ21NaEY4eWdyaHRYTmt2WklLMWU3MFZEOGowWnRxeVdrVWg4eUw4TU80VTlXQV9vcEhEOUVWN2VGdDF1Q0JsZTJLYnlTMjlNS3UtRGhUZjJNQkwzbUJjQ0VfWG5VVllYanZTS2d0dGhCU2NaSzJRY1hHYW5YaEIxMHR1Ync1ZUhBRVF1N3dpWUtLb1V6VUVZMzhkZXgyQjRnbVdz?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "11:32",
-     "sorteer": "2026-11-25T10:32:45+00:00"
+     "tijd": "12:43",
+     "sorteer": "2026-11-25T11:43:15+00:00"
     },
     {
      "titel": "’Terreurtoerist’ raakt Nederlands paspoort kwijt bij aansluiten terreurorganisatie in buitenland",
      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdGI1ckFzYTBKSklKeFNDXzZOVkl3STBIcHpJRW9CYk5vYk5LRzJ5LW1XaWM0Y0N2aXduNUFXMHlSS1Z2b1EtMm9HSXdKZHYxWWpLakxmRkV4TUktT0luLV8tbzVuR3REV2xtb2hZVEl6OGh6RmlwMWJBNFFkMUZsQ19OZEI2cWlpQVRXSGFXaGc0LU1pWllpUGFzY3VmWlQ4eWxJSGxCRzh5enhDVUdVQzhETVJoRHVGenVqb1B1UHZFYWloM2NOUmFrTTZlUFJBa3p3LTRYUk5EaGM?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "11:32",
-     "sorteer": "2026-11-25T10:32:06+00:00"
+     "tijd": "13:02",
+     "sorteer": "2026-11-25T12:02:06+00:00"
     },
     {
-     "titel": "Huawei schuldig bevonden aan diefstal bedrijfsgeheimen en bankfraude in VS: ‘Mogelijk volgt miljardenboete’",
-     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU1hYNFRBYm5jUGFnTVIxcHFzUXJFQ1g1Z2dINTZmRzJjUTZkV195S2FOVHp6aDVTX08yaFBKYkZtcnpqaC1xOU5QbGozZU1TMEcySnNuUDVVR1ZNY3c1WVc2aFYwajFscUJxLVgtU0dJbnhETjk2WWFjZG1qR2NVUjBFekJ1XzFCc19JOGZ4SjRReHMtaGZkemttU2xYRlJEcG5wMVJOTk1XdGxhVlc0WkZscktPbjBVeHNSYV9rYVVScTU3eTdvbmxuRzI2bVRtY3lvVm93dVJOVHo4RDNYTDRCRXNtdi14T0E?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "10:57",
-     "sorteer": "2026-11-25T09:57:00+00:00"
+     "titel": "Twee 21-jarige mannen overvielen sekswerkers in woning in Amsterdam-Oost: 4 jaar celstraf",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZmpCUEp2ZDZwSm9rU0RGcHdaWlNZUkdlVjNQU1FzX2VNLWlmc3p4XzZJZFBuSXNFTTg2elVUbTRmSzQ5c2pIeXJoakVES2c0c25iMktXRmVRLTFCQU9WVDhaMWpVaUdyTWFsaDVIcTdEem9OaVkySWVveW1vZUJlbTBOcDRSVFA1cmdkbzBtdGtEVUgwV2FETXViYnBqS3NvOVBKbTU5akZ1Z1puZ3lTcVJJbk9EUkJwWXFzWW4zUXFCamFDWVF3?oc=5",
+     "bron": "Het Parool",
+     "tijd": "12:54",
+     "sorteer": "2026-11-25T11:54:22+00:00"
+    },
+    {
+     "titel": "Politie arresteert 57-jarige man na wéér dierenmishandeling op kinderboerderij; mogelijk ook seksueel misbruik",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbm9EazAwSGxyM1pYcndIRks4X0RacWd3WHJvZExvSW92emVIM213YVFvSXI1Y1hpZ09JYmgwSVRjWHl0UG5jUWtIdm04cEpEei1BTTFtOFN5SjMwbVhTRjNEV2dHdmVMRjFmZDJsdkNER3lLSEhmbkxmZkM2Q3RSVG9GNDZvZTEtN3dsZjY1T1dXeV9MVGFIbHRfSkVqc3B6YWVsNUJ4dkNfamh3d2t0R3RZODZCRE9FRWcyOGNiblAxdUZWZmRXaXJmM29fRFBEQmZSTVZSb3VwdkZqME5LaE9jdGU?oc=5",
+     "bron": "AD.nl",
+     "tijd": "12:45",
+     "sorteer": "2026-11-25T11:45:00+00:00"
+    },
+    {
+     "titel": "18-jarige Amsterdammer hoeft van OM niet meer de cel in na voorbereiden aanslag op synagoge in Heemstede",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTmxEWkVnS2NTNHJ1QXU0Y0FFcXIxQ1F5VmxMcVFobWhEaXB5Z0o0Z2tQSml1YXJXV0hBSHZJRXpkNktrdXpYYnhueWJpb1BQZ21NaEY4eWdyaHRYTmt2WklLMWU3MFZEOGowWnRxeVdrVWg4eUw4TU80VTlXQV9vcEhEOUVWN2VGdDF1Q0JsZTJLYnlTMjlNS3UtRGhUZjJNQkwzbUJjQ0VfWG5VVllYanZTS2d0dGhCU2NaSzJRY1hHYW5YaEIxMHR1Ync1ZUhBRVF1N3dpWUtLb1V6VUVZMzhkZXgyQjRnbVdz?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "12:40",
+     "sorteer": "2026-11-25T11:40:56+00:00"
     },
     {
      "titel": "Het einde der tijden als verdienmodel – in gesprek met Naomi Klein en Astra Taylor over ‘Eindtijdfascisme’",
@@ -493,6 +496,35 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Duitse krant meldt mogelijke overname van wapenfabrikant Destinus in Hengelo",
+     "context": "Het in München gevestigde gevestigde defensiebedrijf Helsing onderzoekt de overname van wapenfabrikant Destinus, dat ook een vestiging in Hengelo heeft. Dat schrijft de Duitse krant Handelsblatt op gezag van vier personen 'die bekend zijn met de besprekingen'.",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3723224/duitse-krant-meldt-mogelijke-overname-van-wapenfabrikant-destinus-in-hengelo",
+     "bron": "RTV Oost",
+     "tijd": "12:06",
+     "sorteer": "2026-11-25T11:06:32+00:00"
+    },
+    {
+     "titel": "Rijkswaterstaat wilde Grote Kolksluis schilderen, maar dat bleek te koud kunstje",
+     "context": "De brug boven de Grote Kolksluis in Zwartsluis zou gisteren door Rijkswaterstaat geschilderd worden, maar die onderhoudsklus ging niet door. Het was te koud, waardoor er te veel ijs op de brug zat. Het wekt ergernis op bij inwoner Jeroen van Hasselt. \"Ik had dit al voorspeld.\"",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3723181/rijkswaterstaat-wilde-grote-kolksluis-schilderen-maar-dat-bleek-te-koud-kunstje",
+     "bron": "RTV Oost",
+     "tijd": "11:56",
+     "sorteer": "2026-11-25T10:56:06+00:00"
+    },
+    {
+     "titel": "Waterschap verhoogt belasting in 2027: dit merken huurders en huiseigenaren",
+     "context": "De waterschapsbelasting gaat in 2027 omhoog. Een meerpersoonshuishouden met een eigen woning betaalt gemiddeld 17 euro meer dan in 2026. Het waterschap zegt het extra geld nodig te hebben voor onder meer vernieuwing van rioolwaterzuiveringen en digitalisering.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3723200/waterschap-verhoogt-belasting-in-2027-dit-merken-huurders-en-huiseigenaren",
+     "bron": "RTV Oost",
+     "tijd": "11:19",
+     "sorteer": "2026-11-25T10:19:59+00:00"
+    },
+    {
      "titel": "Kilometerslange file op A1 bij Deventer na ongeluk",
      "context": "Door een ongeluk op de A1 bij Deventer zijn twee van de drie rijstroken van de autobaan gesloten voor verkeer. Tussen Bathmen en Deventer staat een kilometerslange file.",
      "rubrieken": [],
@@ -503,7 +535,7 @@
     },
     {
      "titel": "Steenwijkerland wil pontje over De Linde voorzien van elektrische aandrijving",
-     "context": "Steenwijkerland gaat maatregelen nemen om de veiligheid van het fietspontje over De Linde bij Oldemarkt te verbeteren. Dat heeft wethouder Tiko Gernaat gisteravond toegezegd in de gemeenteraad, na het voorstel van BGL en ChristenUnie om het omstreden zelfbedieningsveer te elektrificeren.",
+     "context": "Steenwijkerland gaat maatregelen nemen om de veiligheid van het fietspontje over De Linde bij Oldemarkt te verbeteren. Dat heeft wethouder Tilko Gernaat gisteravond toegezegd in de gemeenteraad, na het voorstel van BGL en ChristenUnie om het omstreden zelfbedieningsveer te elektrificeren.",
      "rubrieken": [],
      "link": "https://www.oost.nl/nieuws/3722529/steenwijkerland-wil-pontje-over-de-linde-voorzien-van-elektrische-aandrijving",
      "bron": "RTV Oost",
@@ -511,69 +543,39 @@
      "sorteer": "2026-11-25T09:13:14+00:00"
     },
     {
-     "titel": "LIVE | Reisdag voor FC Twente, ruim drieduizend fans volgen richting Freiburg",
+     "titel": "LIVE | FC Twente treft in Freiburg ploeg in vorm, eerste fans gearriveerd",
      "context": "FC Twente vervolgt donderdagavond de groepsfase van de Conference League met een bezoek aan SC Freiburg. In het Zwarte Woud kunnen de Tukkers een goede slag slaan richting de volgende ronde, nadat de eerste drie duels negen punten opleverden. Volg alles rondom het duel in ons liveblog.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3723129/live-reisdag-voor-fc-twente-ruim-drieduizend-fans-volgen-richting-freiburg",
+     "link": "https://www.oost.nl/nieuws/3723129/live-fc-twente-treft-in-freiburg-ploeg-in-vorm-eerste-fans-gearriveerd",
      "bron": "RTV Oost",
      "tijd": "09:58",
      "sorteer": "2026-11-25T08:58:12+00:00"
     },
     {
-     "titel": "Code geel in Overijssel en ongelukken op de weg: oppassen voor gladheid",
-     "context": "Rondom Genemuiden en Zwolle zijn vanmorgen meerdere ongelukken gebeurd door gladheid. Zo gleed op de Randweg bij Genemuiden een auto van de weg. Het KNMI waarschuwt met code geel voor gladheid in Overijssel . Was het vanmorgen vroeg vooral in het noorden van Overijssel raak, nu ook in Twente.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3723119/code-geel-in-overijssel-en-ongelukken-op-de-weg-oppassen-voor-gladheid",
-     "bron": "RTV Oost",
-     "tijd": "08:19",
-     "sorteer": "2026-11-25T07:19:03+00:00"
-    },
-    {
-     "titel": "Acteur Jules Croiset uit Deventer op 89-jarige leeftijd overleden",
-     "context": "De in Deventer geboren acteur Jules Croiset is maandagavond op 89-jarige leeftijd overleden. Dat heeft zijn familie aan het ANP gemeld. Croiset stond bijna zestig jaar op het toneel en won onder meer een Louis d'Or.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3723109/acteur-jules-croiset-uit-deventer-op-89-jarige-leeftijd-overleden",
-     "bron": "RTV Oost",
-     "tijd": "07:43",
-     "sorteer": "2026-11-25T06:43:18+00:00"
-    },
-    {
-     "titel": "Zeven jaar cel geëist, maar Zwolse vastgoedman vrijgesproken in zaak drugslabs",
-     "context": "Een 70-jarige vastgoedman uit Zwolle is dinsdag vrijgesproken van betrokkenheid bij drugslabs in Bruchterveld en Nieuwlande. Hij was samen met een 53-jarige man uit Gramsbergen een van de twee hoofdverdachten in deze zaak. De man uit Gramsbergen krijgt vijf jaar en vijf maanden cel voor zijn rol.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3722887/zeven-jaar-cel-geeist-maar-zwolse-vastgoedman-vrijgesproken-in-zaak-drugslabs",
-     "bron": "RTV Oost",
-     "tijd": "21:27",
-     "sorteer": "2026-11-24T20:27:20+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Weer nieuwe berichten van de gemeente en of de overheid",
-     "context": "DALFSEN – Ontvangen aanvraag voor een omgevingsvergunning, het bouwen van een woning, Plangebied De Koele II Dalfsen,omgevingsvergunning | Dalfsen | 24-11-2026het bouwen van een woning. Bekijk bericht Ontvangen aanvraag voor een omgevingsvergunning, het wijzigen van de bestaande bijgebouwen naar 1 hoofdgebouw, Parklaan 7 7711HB Nieuwleusen omgevingsvergunning | Dalfsen | 24-11-2026 het wijzigen va",
+     "titel": "Blijf kijken op onze vactures",
+     "context": "DALFSEN – Blijf kijken op onze vacatures Er staat weer een mooie afwisseling op. Klik hier om het te zien.",
      "rubrieken": [
       "Dalfsen",
       "Ingezonden bericht",
       "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/557287/weer-nieuwe-berichten-van-de-gemeente-en-of-de-overheid-2.html",
+     "link": "https://www.dalfsennet.nl/nieuws/557302/blijf-kijken-op-onze-vactures.html",
      "bron": "DalfsenNet",
-     "tijd": "11:50",
-     "sorteer": "2026-11-25T10:50:13+00:00"
+     "tijd": "13:05",
+     "sorteer": "2026-11-25T12:05:38+00:00"
     },
     {
-     "titel": "Supermaan zorgt voor sfeervol schouwspel boven Nieuwleusen",
-     "context": "NIEUWLEUSEN – Eerst een fraaie zonsondergang en daarna een warm gekleurde volle maan: boven Nieuwleusen viel gisteren volop te genieten. Voor natuurfotograaf Femmie Smink was het een uitgelezen kans om met haar camera op pad te gaan. Smink legde de supermaan vast in een serie van vier foto’s. Tegen de donkere hemel kwam de oranje […]",
+     "titel": "Gratis bijeenkomst: Hoe vul ik een digitaal formulier in?",
+     "context": "DALFSEN – Een digitaal formulier invullen? Voor veel mensen is dat nog best spannend. Toch moet het steeds vaker: of je nu iets wilt regelen bij de gemeente of een rijbewijs aanvraagt, het gaat bijna overal online. Bibliotheek Dalfsen helpt je op weg met de bijeenkomst ‘Hoe vul ik een digitaal formulier in?’ Stap voor […]",
      "rubrieken": [
+      "Dalfsen",
       "Ingezonden bericht",
-      "Laatste nieuws",
-      "Nieuwleusen"
+      "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/557285/supermaan-zorgt-voor-sfeervol-schouwspel-boven-nieuwleusen.html",
+     "link": "https://www.dalfsennet.nl/nieuws/557290/gratis-bijeenkomst-hoe-vul-ik-een-digitaal-formulier-in.html",
      "bron": "DalfsenNet",
-     "tijd": "11:43",
-     "sorteer": "2026-11-25T10:43:36+00:00"
+     "tijd": "13:02",
+     "sorteer": "2026-11-25T12:02:33+00:00"
     }
    ]
   },
@@ -634,15 +636,6 @@
    "emoji": "🤖",
    "items": [
     {
-     "titel": "AI kraakt het beroemdste probleem in de wiskunde",
-     "toelichting": "& Google is terug met een model waar testers mee weglopen + zo brainstorm je visueel met AI",
-     "bron": "AI Report",
-     "tijd": "12:00",
-     "link": "https://www.aireport.nl/p/ai-kraakt-het-beroemdste-probleem-in-de-wiskunde",
-     "sorteer": "2026-11-24T11:00:00+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
      "titel": "Reactie op het AI Deltaplan en het rapport Europe2031",
      "bron": "Brief van de regering",
      "kop": "Uit de Tweede Kamer",
@@ -685,11 +678,11 @@
      "sorteer": "2026-11-25T10:55:52+00:00"
     },
     {
-     "titel": "Streamingdienst Tidal verbiedt volledig door AI gemaakte muziek op platform",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR05fZWpPYl9nUWhtLUdmWTdSYXRtUXhxVkg2N1pvc040ekoyV0IyRktVUkpXLXdsdG8wd3JwZ2FGY0VBVTRYeGtkcTdqNnNLZHZfcFQ5aUtOdThBb0ZybVFnQXRzRkdxQUNVeHFwZHlicnZHdW9PY2JMT1RxdjZhZ1VaWHVLdHByQ2ZXTHlOUEtxQ3ZqZmpjMmZrbVVXNTBROVVmclA4bmtvalR5aWozT0JlemdKNEd5Z2ZEcFFGLWYzSmo2ZUhsVlVn?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "10:03",
-     "sorteer": "2026-11-25T09:03:43+00:00"
+     "titel": "Tidal verbiedt volledig door AI gemaakte muziek op platform",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbi1iY0RQSHRFM2ZtUG52clVjbTZBcHlyYzhyT1lQcHlSZ3pRV21kRHFZODZVT1N1REI0NFVmSk1RTUtFcnZOUGg2S3NXUUcwZFJaeVdCVzFTUElla3RKdllIck96RkRLaE9hSmx5b1NWbjhqaGdtSjFaUW9DbTZMZjVIUXp6THRZOExJNDk5RU1WNnFWVUo4?oc=5",
+     "bron": "Brabants Dagblad",
+     "tijd": "11:16",
+     "sorteer": "2026-11-25T10:16:52+00:00"
     },
     {
      "titel": "Ondanks aanvankelijk enthousiasme keren Nederlanders zich nu tegen AI in de klas",
@@ -697,14 +690,6 @@
      "bron": "bnr.nl",
      "tijd": "06:07",
      "sorteer": "2026-11-25T05:07:00+00:00"
-    },
-    {
-     "titel": "Met vriendelijke groet, AI: instanties krijgen steeds meer mails gemaakt met kunstmatige intelligentie",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcEVwU1BaVFVMQ2tpbnRnUjVXM1BKWE1aSDdSUlZXU20xS0ZxT0psdmMtRDA3ejNnSUhvbjVoV0Y4NTBWeXR3VVl5VlBSMzRxWE4tVUVmeG9DdUhOQTFPOHlTT1F5N0UxZ3BySVJIRzV1NFJCam5DTnoxcUV5d285UmtxVGE4THhaRkY4WUtuUHQ4OXJwY21VYy1RTU1SWWE0YUVReldqRkdxX25iTkxYX2FKSklFMXhVOVYzbTdHTkFhLUd3R0pKekdnbm5oQ3ZXUE5HcUV0Q0pmeTc1bWVwQWNlSQ?oc=5",
-     "bron": "Leeuwarder Courant",
-     "tijd": "02:15",
-     "sorteer": "2026-11-25T01:15:00+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
     }
    ]
   },
@@ -782,6 +767,14 @@
      "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05410"
     },
     {
+     "titel": "De verruiming van de inzet van criminele burgerinfiltranten",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "25-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D60759",
+     "sorteer": "2026-11-25T12:49:06.173+01:00"
+    },
+    {
      "titel": "De dood van Hajar en het handelen van de politie",
      "bron": "Kamervraag",
      "kop": "Kamervragen",
@@ -798,14 +791,6 @@
      "sorteer": "2026-11-24T18:56:04.39+01:00"
     },
     {
-     "titel": "Het kerkasiel in Kampen en het Nederlandse terugkeerbeleid.",
-     "bron": "Kamervraag",
-     "kop": "Kamervragen",
-     "tijd": "24-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D60403",
-     "sorteer": "2026-11-24T12:44:25.78+01:00"
-    },
-    {
      "titel": "Antwoord op vragen van het lid El Abassi over de dood van Hajar en het handelen van de politie",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
@@ -814,20 +799,20 @@
      "sorteer": "2026-11-25T11:29:09.92+01:00"
     },
     {
-     "titel": "Contourenbrief verbeteren compensatie slachtoffers van strafbare feiten",
-     "bron": "Brief van de regering",
-     "kop": "Brieven en moties",
-     "tijd": "05-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D55636",
-     "sorteer": "2026-11-25T11:40:14.2+01:00"
-    },
-    {
-     "titel": "Reactie op verzoek commissie inzake blokkeren van burgerinitiatief voor asielopvang door gemeente Neder-Betuwe",
+     "titel": "Beleidsreactie WODC-onderzoek naar de externe openbaarheid van strafzittingen in relatie tot de belangen van privacy en veiligheid",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
      "tijd": "06-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D56183",
-     "sorteer": "2026-11-25T11:37:28.773+01:00"
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D56185",
+     "sorteer": "2026-11-25T13:23:05.923+01:00"
+    },
+    {
+     "titel": "Reactie op verzoek commissie over de brief van de Stichting Because We Carry inzake preventieve geboortezorg in de asielopvang en…",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "25-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D60746",
+     "sorteer": "2026-11-25T12:19:06.43+01:00"
     },
     {
      "titel": "Motie van het lid Wiersma over afspraken met gemeenten, waterschappen en provincies over controle, opsporing en herstel van…",
@@ -901,7 +886,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "12:00",
+    "bijgewerkt": "13:45",
     "voetbal": {
      "uitslagen": [
       {
@@ -1303,20 +1288,20 @@
      "link": "https://scientias.nl/het-ontstaan-van-het-periodiek-systeem/"
     },
     {
+     "titel": "Nigeria’s ivory and pangolin trade exposes gaps in wildlife crime prosecutions",
+     "toelichting": "Illegal wildlife trafficking continues to thrive across West and Central Africa despite recent increases in regional law enforcement operations, according to a recent report by the Environmental Investigation Agency (EIA",
+     "bron": "Mongabay (Engels)",
+     "tijd": "12:09",
+     "link": "https://news.mongabay.com/short-article/2026/11/nigerias-ivory-and-pangolin-trade-exposes-gaps-in-wildlife-crime-prosecutions/",
+     "sorteer": "2026-11-25T11:09:20+00:00"
+    },
+    {
      "titel": "Photos: Elephants maintain an essential role in conservation in Nepal despite shifting norms",
      "toelichting": "CHITWAN NATIONAL PARK, Nepal — Perched some 3 meters off the ground, or about 10 feet, on the back of Asian elephants, workers traverse Nepal’s dense jungles and grasslands to complete wildlife counts, rescue distressed ",
      "bron": "Mongabay (Engels)",
      "tijd": "11:42",
      "link": "https://news.mongabay.com/2026/11/photos-elephants-maintain-an-essential-role-in-conservation-in-nepal-despite-shifting-norms/",
      "sorteer": "2026-11-25T10:42:48+00:00"
-    },
-    {
-     "titel": "Severe drought dries up rivers, cuts off communities in Brazil’s Amazon",
-     "toelichting": "A third El Niño-fueled drought since 2015 has pushed river levels in Roraima, Brazil’s northernmost Amazonian state, to critical lows. Severe drought affected 95% of the state in October, up from 47% in September, accord",
-     "bron": "Mongabay (Engels)",
-     "tijd": "10:49",
-     "link": "https://news.mongabay.com/short-article/2026/11/severe-drought-dries-up-rivers-cuts-off-communities-in-brazils-amazon/",
-     "sorteer": "2026-11-25T09:49:01+00:00"
     }
    ]
   },
@@ -1364,22 +1349,6 @@
      "tijd": "13:45",
      "link": "https://www.dutchbirdalerts.nl/",
      "sorteer": "2026-11-24T13:45:00+01:00"
-    },
-    {
-     "titel": "Bronskopeend",
-     "kop": "Zeldzaamheden",
-     "bron": "Zuid-Holland",
-     "tijd": "12:56",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-24T12:56:00+01:00"
-    },
-    {
-     "titel": "Humes Bladkoning",
-     "kop": "Zeldzaamheden",
-     "bron": "Gelderland",
-     "tijd": "12:48",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-24T12:48:00+01:00"
     },
     {
      "titel": "Dalfsen (nacht)",
@@ -1448,7 +1417,7 @@
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 320 vogels; 414 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 320 vogels; 421 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1484,28 +1453,28 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 0.7,
-    "gevoel": -4.7,
-    "wind": "O 4",
+    "nu": 1.5,
+    "gevoel": -3.3,
+    "wind": "ONO 3",
     "station": "Heino",
-    "bericht": "Vandaag zorgt een schrale oostenwind ervoor dat het flink koud aanvoelt. Het kwik op de thermometer komt vanmiddag maar een paar graden boven het vriespunt uit. Wel schijnt de zon volop.Vanochtend schijnt de zon en komt in het zuiden ook sluierbewolking voor.",
+    "bericht": "Vandaag zorgt een schrale oostenwind ervoor dat het flink koud aanvoelt. Het kwik op de thermometer komt vanmiddag maar een paar graden boven het vriespunt uit. Wel schijnt de zon volop.Vanmiddag is het zonnig, met in het zuiden duidelijk meer bewolking.",
     "vandaag": "Vandaag zorgt een schrale oostenwind ervoor dat het flink koud aanvoelt. Het kwik op de thermometer komt vanmiddag maar een paar graden boven het vriespunt uit.",
     "temperatuur": "",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -2 tot 1 graden, droog, ruim 7 uur zon, wind uit het oosten, kracht 4.",
-     "max": 1,
+     "zin": "Voor Dalfsen zelf: -2 tot 2 graden, droog, ruim 7 uur zon, wind uit het oosten, kracht 4.",
+     "max": 2,
      "min": -2,
      "regenkans": 0,
      "omschrijving": "bewolkt",
      "morgen": {
       "max": 1,
-      "min": -4,
+      "min": -3,
       "regenkans": 0,
       "omschrijving": null
      }
     },
     "vooruit": "Perioden met zon en droog. Koud met in de nacht en ochtend overwegend lichte vorst, overdag enkele graden boven nul. Vanaf zondag iets minder koud en mogelijk wat regen.",
-    "omslag": "Nachtvorst in aantocht: morgen tot -3 graden.",
+    "omslag": "Nachtvorst in aantocht: morgen tot -4 graden.",
     "min": "-2",
     "max": "2",
     "regenkans": 0,
@@ -1513,8 +1482,8 @@
     "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
     "morgen": {
      "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
-     "min": "-3",
-     "max": "1",
+     "min": "-4",
+     "max": "0",
      "regenkans": 0
     }
    }
