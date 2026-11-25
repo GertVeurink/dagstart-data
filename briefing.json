@@ -3,13 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "08:00",
+  "opgehaald": "09:00",
   "blokken": 11,
-  "berichten": 103,
+  "berichten": 100,
   "problemen": [],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-25T08:00+01:00",
+ "opgehaald": "2026-11-25T09:00+01:00",
  "audio": "audio/20261125.mp3",
  "afval": [
   {
@@ -228,22 +228,22 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Opnieuw twee olietankers in brand gevlogen in Straat van Hormuz",
+     "titel": "FT: regering-Trump gelooft niet meer dat economische samenwerking Rusland tot vrede zal verleiden",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/opnieuw-twee-olietankers-in-brand-gevlogen-in-straat-van-hormuz~b7968ae6/",
+     "link": "https://www.volkskrant.nl/buitenland/ft-regering-trump-gelooft-niet-meer-dat-economische-samenwerking-rusland-tot-vrede-zal-verleiden~b34eb585/",
      "bron": "de Volkskrant",
-     "tijd": "06:08",
-     "sorteer": "2026-11-25T05:08:00+00:00"
+     "tijd": "08:14",
+     "sorteer": "2026-11-25T07:14:00+00:00"
     },
     {
-     "titel": "Twee Libische militairen overleden aan verwondingen na aanval Oekraïne op Russische schepen in Benghazi",
+     "titel": "Salvadoraanse immigrant Abrego Garcia verlaat de VS na lange strijd met Amerikaanse immigratiediensten",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/twee-libische-militairen-overleden-aan-verwondingen-na-aanval-oekraine-op-russische-schepen-in-benghazi~b34eb585/",
+     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
      "bron": "de Volkskrant",
-     "tijd": "02:50",
-     "sorteer": "2026-11-25T01:50:00+00:00"
+     "tijd": "08:12",
+     "sorteer": "2026-11-25T07:12:00+00:00"
     },
     {
      "titel": "Polen: Russisch onbemand luchtvaartuig schond Pools luchtruim",
@@ -255,7 +255,29 @@
      "sorteer": "2026-11-25T01:58:00+00:00"
     },
     {
-     "titel": "Australian politics live: Survivors welcome Tasmanian plan to outlaw conversion therapy; Chalmers denies Australia is in ‘stagflation’",
+     "titel": "Iraq’s Prime Minister Aims to Wrest More Power From Kurdistan Region",
+     "context": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.",
+     "rubrieken": [
+      "Kurds",
+      "Politics and Government",
+      "Oil (Petroleum) and Gasoline",
+      "Kataib Hezbollah",
+      "Kurdistan Democratic Party",
+      "Patriotic Union of Kurdistan",
+      "al-Zaidi, Ali (1986- )",
+      "Barrack, Thomas J Jr",
+      "Iraq",
+      "Kurdistan"
+     ],
+     "link": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
+     "bron": "New York Times",
+     "tijd": "08:36",
+     "sorteer": "2026-11-25T07:36:48+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Australian politics live: ‘You’re protecting Trump’: Hanson-Young clashes with Liberal senator before digital duty of care legislation passes both houses",
      "context": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sove",
      "rubrieken": [
       "Australian politics",
@@ -269,8 +291,8 @@
      ],
      "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
      "bron": "The Guardian",
-     "tijd": "07:37",
-     "sorteer": "2026-11-25T06:37:35+00:00",
+     "tijd": "08:34",
+     "sorteer": "2026-11-25T07:34:44+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -293,28 +315,6 @@
      "bron": "BBC",
      "tijd": "07:00",
      "sorteer": "2026-11-25T06:00:36+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "National Security vs. the Stock Market",
-     "context": "President Trump swept aside concerns about possible espionage when he lobbied Nvidia’s board to reinstate Jensen Huang as chief executive.",
-     "rubrieken": [
-      "internal-open-access-from-nl",
-      "Huang, Jen-Hsun",
-      "Trump, Donald J",
-      "Stocks and Bonds",
-      "China",
-      "Huang, Alice (Technology Executive)",
-      "United States Economy",
-      "NVIDIA Corporation",
-      "Artificial Intelligence",
-      "Xi Jinping"
-     ],
-     "link": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
-     "bron": "New York Times",
-     "tijd": "06:45",
-     "sorteer": "2026-11-25T05:45:35+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -349,6 +349,15 @@
    "emoji": "🇳🇱",
    "items": [
     {
+     "titel": "Bij zeker een kwart van alle verkeersdoden is alcohol in het spel",
+     "context": "Bij een aanzienlijk deel van de verkeersdoden is er alcohol in het spel. Dat meldt het Instituut voor Wetenschappelijk Onderzoek Verkeersveiligheid (SWOV) op basis van een schatting. Het instituut keek naar de jaren 2019-2025 en schat dat bij 24 tot 35 procent van de verkeersdoden alcohol een factor is. In veel van die gevallen was degene die omkwam de bestuurder zelf, het SWOV schat dat dat in tw",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640920",
+     "bron": "NOS",
+     "tijd": "08:06",
+     "sorteer": "2026-11-25T08:06:32+01:00"
+    },
+    {
      "titel": "Acteur Jules Croiset (89) overleden",
      "context": "Acteur Jules Croiset is op 89-jarige leeftijd overleden. Zijn familie heeft dat bekendgemaakt aan persbureau ANP. Croiset komt uit een beroemde acteursfamilie. Zijn ouders Max Croiset en Jeanne Verstraete waren acteur en ook onder anderen zijn broer Hans en zijn zonen Vincent en Niels zijn te zien in films, op televisie en in het theater. Hij was de neef van acteur Coen Flink en tv-regisseur Guus ",
      "rubrieken": [],
@@ -377,20 +386,10 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Problemen op ic staan niet op zichzelf, zeggen artsen: 'Willen dat het ophoudt'",
-     "context": "Dat de inspectie ingrijpt bij de intensivecareafdeling (ic) van het Erasmus MC zorgt voor geschrokken reacties onder artsen en patiënten. Toch staat de situatie niet op zichzelf. Er wordt dan ook gepleit voor een brede cultuurdiscussie over de zorgsector. \"Rotterdam is een casus in een serie van vele, dus er is onderhand sprake van een patroon\", zegt Marijn Houwert, voorzitter van vereniging voor ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640883",
-     "bron": "NOS",
-     "tijd": "20:58",
-     "sorteer": "2026-11-24T20:58:39+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Basisscholen stellen vaker schooladvies bij sinds invoering doorstroomtoets",
+     "titel": "Basisscholen stellen schooladvies vaker bij sinds invoering doorstroomtoets",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/basisscholen-stellen-vaker-schooladvies-bij-sinds-invoering-doorstroomtoets~bde6423f/",
+     "link": "https://www.volkskrant.nl/binnenland/basisscholen-stellen-schooladvies-vaker-bij-sinds-invoering-doorstroomtoets~bde6423f/",
      "bron": "de Volkskrant",
      "tijd": "06:36",
      "sorteer": "2026-11-25T05:36:00+00:00"
@@ -419,29 +418,29 @@
      "titel": "’Terreurtoerist’ raakt Nederlands paspoort kwijt bij aansluiten terreurorganisatie in buitenland",
      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdGI1ckFzYTBKSklKeFNDXzZOVkl3STBIcHpJRW9CYk5vYk5LRzJ5LW1XaWM0Y0N2aXduNUFXMHlSS1Z2b1EtMm9HSXdKZHYxWWpLakxmRkV4TUktT0luLV8tbzVuR3REV2xtb2hZVEl6OGh6RmlwMWJBNFFkMUZsQ19OZEI2cWlpQVRXSGFXaGc0LU1pWllpUGFzY3VmWlQ4eWxJSGxCRzh5enhDVUdVQzhETVJoRHVGenVqb1B1UHZFYWloM2NOUmFrTTZlUFJBa3p3LTRYUk5EaGM?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "07:02",
-     "sorteer": "2026-11-25T06:02:06+00:00"
+     "tijd": "08:55",
+     "sorteer": "2026-11-25T07:55:26+00:00"
     },
     {
-     "titel": "Dennie Lamers (39) opent de eerste spelletjeshal van Wageningen, een jaar na de dood van zijn vader: ‘Ondernemen zit in het bloed’",
-     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTGdUa3hMVGx6ekJxU1NxU2VSZDJscFp0OVJzeHVUS0NTWnJfTnNUVy13dmxQRVhzVlBFcGRpeU80OTFFelplaXEycl8yV3BqaDNuYkdMRFgtS2NsY3FGZGEwYUtONlNwMjNXWExFY3FoYlQzdHoweTZ0VHFvSFhzakd6Ym5IYi10MlMwVU1vVTdWOHA0Q2cxenU4YzZkNHhSWjBBenhsNEZmbElDRFEzMFgtc0I4WG9pQkRMRWpLNmdlNVhYZVl6ZUM1TlZfYUFSOGhnV25LMER6Slo2MWk0UG5QY0Z6akhxU29GTHlTVjhOQ0Z0dGc?oc=5",
+     "titel": "Eerst de schulden weg, dan pas praten: Arnhems schuldenexperiment krijgt eigen documentaire op tv",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV2RIcnBnejFOcGZsR3pmNGllZWhyQV9jd0NhYVpVOUdUbkl0LVUyUHpRX1VrV2hNMXFnY0dsaHdGR2NNNXBpM0dMRGlic291bENSZ2taUVVOaGYyUnRMM2VsTFQ4U255WVNzellBMVFzVi1sc1JlNlVJeUhYNGpfWGRUVE91U1pEUEw5aXZFb0QzQjZFYkRDN3lvNHd0STFJWHphLWwtVHc1TTQzd05XckJ5OGpfOUREY2pJX1p3MGNGQzdTelJuSEhn?oc=5",
      "bron": "AD.nl",
-     "tijd": "07:00",
-     "sorteer": "2026-11-25T06:00:09+00:00"
+     "tijd": "08:24",
+     "sorteer": "2026-11-25T07:24:01+00:00"
     },
     {
-     "titel": "Zeker twintig gijzelaars vastgehouden in supermarkt na overval op geldwagen in Colombia",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeGxGcFpqTWFNZ2RrMzJxNUhMN0lpQ0FEOTY2ZlAxX2FvbC01QWY0a1Rfd3ktbkdscGVmRm1ydld3R0Ridnh5R2hpTXd6UlRaLVhlcFBQYTk0dUQtNlVTMklTZGxocm5NT0o4S08xUjQ0MzBzQW5QMzRpMldnOG5hSWUxUlRrRGpnMnhla1JzYVh0MDZCSTExSWt2RXJzV0puS3FiYVlINXdLQkRCUmxZNUlEblNwR0YzdEFyZG5GSWhrMTdD?oc=5",
-     "bron": "Brabants Dagblad",
-     "tijd": "04:56",
-     "sorteer": "2026-11-25T03:56:38+00:00"
-    },
-    {
-     "titel": "Acht jaar cel geëist tegen Jean Gardy L. (22): zwembadstagiair verdacht van misbruiken 13 kinderen",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaDBjWjhZVkh0eHNlVnY2TTJVYWVucHJTMzBnV2RBdzc4RVhDYi15bTRDaHprZUJuSVlKbkdoVS1MZ0dMRkw3N1J5amdWRVNsRkkwdHB3cnh2dlppSk1SOEpOMnBtcjh6RW9uemhLU1pUdEhHa0pqelVoa0dTaElwVEU4dG9NamdkbG9fZ0hwN01XWTFWQlVZU0VWanRhR0dGc0FYOC0zaFVnMFcyUWV5SDdjeGFDbE1IYmd4MjUxV29zaHVoRVFhSl93eXZQQ0RSU3NmWHhfRXRQYTFmdU5Z?oc=5",
+     "titel": "18-jarige Amsterdammer hoeft van OM niet meer de cel in na voorbereiden aanslag op synagoge in Heemstede",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTmxEWkVnS2NTNHJ1QXU0Y0FFcXIxQ1F5VmxMcVFobWhEaXB5Z0o0Z2tQSml1YXJXV0hBSHZJRXpkNktrdXpYYnhueWJpb1BQZ21NaEY4eWdyaHRYTmt2WklLMWU3MFZEOGowWnRxeVdrVWg4eUw4TU80VTlXQV9vcEhEOUVWN2VGdDF1Q0JsZTJLYnlTMjlNS3UtRGhUZjJNQkwzbUJjQ0VfWG5VVllYanZTS2d0dGhCU2NaSzJRY1hHYW5YaEIxMHR1Ync1ZUhBRVF1N3dpWUtLb1V6VUVZMzhkZXgyQjRnbVdz?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "02:43",
-     "sorteer": "2026-11-25T01:43:10+00:00"
+     "tijd": "08:21",
+     "sorteer": "2026-11-25T07:21:13+00:00"
+    },
+    {
+     "titel": "Oudste overvaller (26) stond op de uitkijk terwijl zijn maat de winkels probeerde te beroven",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUnAzWXl4TjdjN3RkS2FqVFREMDBPdHJYVmE5SFV3RkNLQWQ1ZnpDbVZCd1pfOGFucXJsM1JjNkJjcThkemxhYjlGOG9hRUJmWnV6UVdRbC1iNi1VOTlXRkp2bGpZd1YxSDNJQ3dpZXpwRHhzX2h2RE1ZME5QeWdtRVZIN3Vjd0VpYzA0bGFIYWdweUUtWFZmMzBkSE5Rc3g2a2ZvdVM4VUJVUWFmMmtiVXZXclRmNVFkNXVCeXlGWnY2UG1qNzkxYUdBelVBSExF?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "08:15",
+     "sorteer": "2026-11-25T07:15:52+00:00"
     },
     {
      "titel": "Het einde der tijden als verdienmodel – in gesprek met Naomi Klein en Astra Taylor over ‘Eindtijdfascisme’",
@@ -464,14 +463,6 @@
      "tijd": "14:01",
      "sorteer": "2026-11-24T13:01:55+00:00",
      "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Europese Commissie legt kersvers euroland Bulgarije eerste boete ooit op voor te groot begrotingstekort",
-     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRlk4NUpwcDJ2cUxfMmRfOXJEazVlekItTk1ndEh0enRFaW0tR2VlRUZZWjFwVlRvOTVrVVR3bjF0d2pPVEtPbUVDZENoT1FCUkpwcHdTVjRCZW44VHZqMTVleDRBZ3hfdE93NlUtM2hmblhOUDkxZGUzcFNmU29CZ2JmalJ6TnU1Zm9YLVByekNoQmlnV3NpTkxVRnlBR2Vnc1FjSzN1VGdsMVhGSlYtT3RkcmJqbmE5VWVGNDdKVFFZb09QUTkxYVl2NzJXbWZTSnRxSXNMdXViSWpsN19ubWxTV0xzU3JiTmlnMjFLNmp2a243?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "07:55",
-     "sorteer": "2026-11-25T06:55:47+00:00",
-     "kop": "Begroting"
     },
     {
      "titel": "Eva",
@@ -508,13 +499,13 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Acteur Jules Croiset uit Deventer op 89-jarige leeftijd overleden",
-     "context": "De in Deventer geboren acteur Jules Croiset is maandagavond op 89-jarige leeftijd overleden. Dat heeft zijn familie aan het ANP gemeld. Croiset stond bijna zestig jaar op het toneel en won onder meer een Louis d'Or.",
+     "titel": "Huiselijk geweld dwingt Diana om te vluchten: 'Hij hield een mes op mijn keel'",
+     "context": "\"Het was kiezen tussen doodgaan of vluchten\", vertelt Diana Reerink. In haar huwelijk van 29 jaar kreeg ze te maken met extreem huiselijk geweld. Al die tijd leefde ze in angst. \"Hij had alle controle en sloot me met regelmaat buiten. Dan moest ik in de auto slapen.\"",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3723109/acteur-jules-croiset-uit-deventer-op-89-jarige-leeftijd-overleden",
+     "link": "https://www.oost.nl/nieuws/3721232/huiselijk-geweld-dwingt-diana-om-te-vluchten-hij-hield-een-mes-op-mijn-keel",
      "bron": "RTV Oost",
-     "tijd": "07:43",
-     "sorteer": "2026-11-25T06:43:18+00:00"
+     "tijd": "08:01",
+     "sorteer": "2026-11-25T07:01:30+00:00"
     },
     {
      "titel": "Nederland minder arm? Hulporganisaties vertellen een ander verhaal",
@@ -526,10 +517,12 @@
      "sorteer": "2026-11-25T06:00:00+00:00"
     },
     {
-     "titel": "Hondenbelasting verdwijnt langzaam, maar drie gemeenten houden er juist aan vast",
+     "titel": "Nog drie gemeenten in Overijssel hebben straks hondenbelasting",
      "context": "De hondenbelasting verdwijnt op steeds meer plekken in Overijssel. Zwartewaterland schaft de 'blaftaks' vanaf januari af en Enschede volgt een jaar later. Daarmee blijven er nog drie gemeenten in Overijssel over die hondenbelasting innen. En zij zijn voorlopig niet van plan om die af te schaffen.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3721240/hondenbelasting-verdwijnt-langzaam-maar-drie-gemeenten-houden-er-juist-aan-vast",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3721240/nog-drie-gemeenten-in-overijssel-hebben-straks-hondenbelasting",
      "bron": "RTV Oost",
      "tijd": "05:58",
      "sorteer": "2026-11-25T04:58:15+00:00"
@@ -544,16 +537,6 @@
      "sorteer": "2026-11-25T04:01:07+00:00"
     },
     {
-     "titel": "Zeven jaar cel geëist, maar Zwolse vastgoedman vrijgesproken in zaak drugslabs",
-     "context": "Een 70-jarige vastgoedman uit Zwolle is dinsdag vrijgesproken van betrokkenheid bij drugslabs in Bruchterveld en Nieuwlande. Hij was samen met een 53-jarige man uit Gramsbergen een van de twee hoofdverdachten in deze zaak. De man uit Gramsbergen krijgt vijf jaar en vijf maanden cel voor zijn rol.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3722887/zeven-jaar-cel-geeist-maar-zwolse-vastgoedman-vrijgesproken-in-zaak-drugslabs",
-     "bron": "RTV Oost",
-     "tijd": "21:27",
-     "sorteer": "2026-11-24T20:27:20+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
      "titel": "Verkrachting 9-jarige jongen in azc Heemserveen: OM eist vijf jaar cel",
      "context": "Een 9-jarige jongen zou dit voorjaar op het terrein van het asielzoekerscentrum in Heemserveen verkracht zijn. Tegen een 43-jarige medebewoner is dinsdag 5 jaar cel geëist. \"Van een jongen die onbevangen de wereld ontdekt, is niets meer over\", zegt de officier van justitie.",
      "rubrieken": [],
@@ -561,6 +544,16 @@
      "bron": "RTV Oost",
      "tijd": "20:02",
      "sorteer": "2026-11-24T19:02:36+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "In politiek Enschede gebeurt elke maandag iets bijzonders: 'Dorpsplein van stad'",
+     "context": "Politiek is stroperig en antwoorden op vragen duren vaak lang: van dat imago stapt Enschede af. De gemeente houdt elke maandagavond een actualiteitenraad. Op het 'wekelijkse dorpsplein' komen alle vragen samen die er leven bij de partijen in de stad. Het stadsbestuur legt er direct verantwoording af.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3722759/in-politiek-enschede-gebeurt-elke-maandag-iets-bijzonders-dorpsplein-van-stad",
+     "bron": "RTV Oost",
+     "tijd": "18:02",
+     "sorteer": "2026-11-24T17:02:40+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -597,16 +590,6 @@
    "titel": "Politie en justitie",
    "emoji": "🚔",
    "items": [
-    {
-     "titel": "Zwolle - Mishandeling aan de Steenstraat in Zwolle",
-     "context": "Aan de Steenstraat in Zwolle sloeg iemand een 27-jarige man zo hard in zijn gezicht dat hij een tand verloor. Herkent u de verdachte? Dan horen wij graag van u.",
-     "rubrieken": [],
-     "link": "https://www.politie.nl/gezocht/opsporingsbericht/2026/oktober/02-mishandeling-aan-de-steenstraat-in-zwolle",
-     "bron": "Politie Zwolle",
-     "tijd": "17:15",
-     "sorteer": "2026-11-19T16:15:00+00:00",
-     "kop": "Politie"
-    },
     {
      "titel": "Zwolle - Diefstal uit juwelierszaak Zwolle",
      "context": "Aan de Diezerstraat in Zwolle stal deze man een gouden armband. Herkent u hem? Neem dan contact met ons op!",
@@ -711,18 +694,25 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "AI-kunst oogt soms verrassend menselijk. Toch hangt in Museum Kranenburgh een dystopisch sfeertje",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN1VOOWZzTVVWMERveC00WGhrY2hnbi1NcFNBRUlKNVNwdC0yZk1WSU1ld0Nxb0picjRSTFVQek9LZ2VDUmhqeWp3V1A5NnlXVlJrQUFSWG9hYkIyT3lLYUNNc0JuOG9vN3dHb1VJalBBTURQR0pBMldVa0NTNWtxbGlBMEJsLWRVTF9GX1E0d3JOeGR1WDNtX0xxLTRBRTZTOFd2SWJxVkxrYVYxblFNbnktSnZmclJsVnF0eTJuM0EzcjdwVWZPVi00SnNOODhiUGxvMGhKbWk?oc=5",
+     "bron": "Trouw",
+     "tijd": "08:39",
+     "sorteer": "2026-11-25T07:39:00+00:00"
+    },
+    {
+     "titel": "Tidal gaat alle met AI gemaakte muziek van de streamingdienst bannen",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeF85bC1HRnU3bXBzRGtUNmtnOW9lRm1YNEh1T1RuUWp2eVh5eWlyVmN5X0U1a056YVNWSGZRY0JoNDl3dm5sRG5kZUJtdXEyNkRaTXZXOHQ3X3RyYWJaeE9JcUlZZjNDV29iQnpvQWptTmpNN2E2N2NJYWFfSEhBMkJMZG8yLWl6dTR2eTRGTFpZOFBNUGI4Skt6RHNpVFhsNzhqM0c3UFRjSDVXVGkw?oc=5",
+     "bron": "Bright",
+     "tijd": "08:05",
+     "sorteer": "2026-11-25T07:05:02+00:00"
+    },
+    {
      "titel": "Ondanks aanvankelijk enthousiasme keren Nederlanders zich nu tegen AI in de klas",
      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMXRocXFva0xyWUFyQ2VadjZTSXp6UE1zNzhEMTF6dUhoWnpyN3lLcWdpT21DLUxjTFJXc0RETzdXOGpvcDBybHFEeGQ1MVMtN2RWZXNZOWZOcUQyX1lLSzd6bDg5OWIxbmM2a3hLRXc4ZDlhdE80SGlHX1VtajBlZUVlRzlCMzdqWG8tUS1pOHdvVTdZX2l6VGFKUkk2MzA3ZTZVazZLTFFNY1UxZFFsa211Sk1MRHBoSjZ3MllWbTlLb0kyX1ZTU1F3?oc=5",
      "bron": "bnr.nl",
      "tijd": "07:15",
      "sorteer": "2026-11-25T06:15:10+00:00"
-    },
-    {
-     "titel": "Pensioenfondsen lopen enorm risico met AI: ’Helft van aandelen van pensioenfondsen zit in tech’",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQzlsY0QtQ29hQ3JOWlRDRGRYOXZkM0JTeTFkYmo4UlA4WjZsUGM1dmk0bmxvRjlrLTdkY29lVnFvbEduR3VudUk4NTNpT3UtendyN3hlV29aS1MyMEs3OUo1WHRvblRDUHZLam1BT1ZhY1NmVER4S3lzZVQyZWpwOWd4VTRKOXo1YzB0SmdjelBkMVZBQl9rcEI2R2w3TzkxMW0xRjY4UnY4RVpaY3l4Y1NuTGdvVEw5aHpoNWZfVWtLMFN1SjNkY2RYcFl6M21ia2RCaDJKenVWVlU?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "01:00",
-     "sorteer": "2026-11-25T00:00:00+00:00"
     }
    ]
   },
@@ -832,6 +822,14 @@
      "sorteer": "2026-11-24T19:08:06.043+01:00"
     },
     {
+     "titel": "Halfjaarverslag milieu en externe veiligheid Schiphol",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "21-09",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D44774",
+     "sorteer": "2026-11-25T08:38:55.113+01:00"
+    },
+    {
      "titel": "Beleidsreactie WODC onderzoek Criminaliteit onder minderjarige en jongvolwassen vrouwen",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
@@ -840,12 +838,12 @@
      "sorteer": "2026-11-25T07:56:28.693+01:00"
     },
     {
-     "titel": "Voortgang aanpak woondiscriminatie",
-     "bron": "Brief van de regering",
+     "titel": "Motie van het lid Wiersma over afspraken met gemeenten, waterschappen en provincies over controle, opsporing en herstel van…",
+     "bron": "Motie",
      "kop": "Brieven en moties",
-     "tijd": "04-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D55367",
-     "sorteer": "2026-11-24T16:03:39.783+01:00"
+     "tijd": "24-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D60605",
+     "sorteer": "2026-11-25T08:32:47.163+01:00"
     },
     {
      "titel": "Motie van het lid Moorman c.s. over ondersteuning van initiatieven voor de veiligheid en emancipatie  van lhbtiq+-mensen in…",
@@ -911,7 +909,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "08:00",
+    "bijgewerkt": "09:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1336,6 +1334,14 @@
    "emoji": "🐦",
    "items": [
     {
+     "titel": "Rotszwaluw",
+     "kop": "Zeldzaamheden",
+     "bron": "Noord-Holland",
+     "tijd": "06:38",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-25T06:38:00+01:00"
+    },
+    {
      "titel": "Grijze Wouw",
      "kop": "Zeldzaamheden",
      "bron": "Drenthe",
@@ -1401,86 +1407,54 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 128 soorten, 29.548 vogels geteld",
+     "titel": "Landelijk vandaag: 25 soorten, 355 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261125?language=dutch"
     },
     {
-     "titel": "Spreeuw — 14.885",
+     "titel": "Spreeuw — 96",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261125?language=dutch"
     },
     {
-     "titel": "Kolgans — 3.687",
+     "titel": "Houtduif — 49",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261125?language=dutch"
     },
     {
-     "titel": "Brandgans — 1.720",
+     "titel": "Kolgans — 43",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261125?language=dutch"
     },
     {
-     "titel": "Sijs — 1.571",
+     "titel": "Brandgans — 32",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261125?language=dutch"
     },
     {
-     "titel": "Zwarte Zee-eend — 1.104",
+     "titel": "Barmsijs — 23",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261125?language=dutch"
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Sijs springt eruit — 1.571, normaal 89",
-     "bron": "18× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261125?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Holenduif springt eruit — 219, normaal 43",
-     "bron": "5× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261125?language=dutch",
-     "sein": false
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Toendrarietgans springt eruit — 351, normaal 85",
-     "bron": "4× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261125?language=dutch",
-     "sein": false
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Putter springt eruit — 83, normaal 22",
-     "bron": "4× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261125?language=dutch",
-     "sein": false
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 102 plekken in de afgelopen week",
+     "titel": "Invasiejaar — op 105 plekken in de afgelopen week, waarvan 3 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 289 vogels; 398 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 308 vogels; 401 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1517,14 +1491,14 @@
    "items": [],
    "weer": {
     "nu": -2.4,
-    "gevoel": -7.7,
+    "gevoel": -7.9,
     "wind": "ONO 3",
     "station": "Heino",
     "bericht": "Een hogedrukgebied boven Scandinavië zorgt voor een stevige oostelijke stroming, waarmee koude lucht wordt aangevoerd. Dat is goed te merken aan de temperatuur. De zon schijnt bijna overal en er staat een schrale wind.Vanochtend schijnt de zon en komt er in het zuiden ook sluierbewolking voor.",
     "vandaag": "Vanochtend schijnt de zon en komt er in het zuiden ook sluierbewolking voor. Voor het gevoel blijft het de hele ochtend matig vriezen!Vanmiddag is het zonnig, met in het zuiden duidelijk meer bewolking.",
     "temperatuur": "De middagtemperatuur varieert van iets boven het vriespunt in het noordoosten tot maximaal 4 graden in Zeeland.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -2 tot 2 graden, droog, ruim 6 uur zon, wind uit het oosten, kracht 4.",
+     "zin": "Voor Dalfsen zelf: -2 tot 2 graden, droog, ruim 7 uur zon, wind uit het oosten, kracht 4.",
      "max": 2,
      "min": -2,
      "regenkans": 0,
