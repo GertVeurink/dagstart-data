@@ -3,14 +3,15 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "05:55",
+  "opgehaald": "07:00",
   "blokken": 11,
   "berichten": 101,
-  "problemen": [],
-  "audio_herkomst": "model",
-  "audio_aangehaakt": "06:50"
+  "problemen": [
+   "google 'rechtsstaat OR grondwet OR hoo': HTTP 429"
+  ],
+  "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-25T05:55+01:00",
+ "opgehaald": "2026-11-25T07:00+01:00",
  "audio": "audio/20261125.mp3",
  "afval": [
   {
@@ -182,6 +183,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Wekdienst 25/11: NAVO-chef Rutte praat met Trump • Strafeis mishandeling Plein Den Haag",
+     "context": "Goedemorgen! Goedemorgen! In Florida spreekt NAVO-topman Mark Rutte met de Amerikaanse president Donald Trump over onder meer de oorlog in Oekraïne en het Openbaar Ministerie komt met de strafeisen in de zaak rond de fatale mishandeling van een Somalische asielzoeker op het Plein in Den Haag. Eerst het weer: De dag begint met lichte vorst. Overdag veel zon en vanmiddag wordt het 0 tot 3 graden. Do",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640913",
+     "bron": "NOS",
+     "tijd": "06:48",
+     "sorteer": "2026-11-25T06:48:03+01:00"
+    },
+    {
      "titel": "Arrestatie van weer een kartelbaas stort Mexicaans volk in onzekerheid",
      "context": "Waar buiten de grenzen van Mexico niet meer wordt opgekeken van een opgepakte of uitgeschakelde kartelbaas, betekent zo'n arrestatie voor sommige Mexicanen juist een periode van onzekerheid. En zeker als het gaat om iemand van het kaliber 'El Chapo Isidro', zoals Fausto Isidro Meza Flores, die vrijdag werd gearresteerd in het noorden van de staat Sinaloa, werd genoemd. Elite-eenheden van het Mexic",
      "rubrieken": [],
@@ -221,14 +231,13 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Legerhelikopter stort neer in Turkije, tweede fatale crash in korte tijd",
-     "context": "Een helikopter van de Turkse luchtmacht is tijdens een oefening neergestort. Alle vijf inzittenden zijn omgekomen, zegt het Turkse ministerie van Defensie. De dodelijke crash gebeurde in het westen van Turkije. De AS-532 Cougar was opgestegen in de stad Eskisehir, zo'n 200 kilometer ten westen van hoofdstad Ankara. De helikopter is kort daarna neergestort in de omgeving. De oorzaak van het ongeluk",
+     "titel": "Opnieuw twee olietankers in brand gevlogen in Straat van Hormuz",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640887",
-     "bron": "NOS",
-     "tijd": "21:28",
-     "sorteer": "2026-11-24T21:28:59+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "link": "https://www.volkskrant.nl/buitenland/opnieuw-twee-olietankers-in-brand-gevlogen-in-straat-van-hormuz~b7968ae6/",
+     "bron": "de Volkskrant",
+     "tijd": "06:08",
+     "sorteer": "2026-11-25T05:08:00+00:00"
     },
     {
      "titel": "Twee Libische militairen overleden aan verwondingen na aanval Oekraïne op Russische schepen in Benghazi",
@@ -240,15 +249,6 @@
      "sorteer": "2026-11-25T01:50:00+00:00"
     },
     {
-     "titel": "Israël ontneemt vrouwen in Gaza de mogelijkheid om zich veilig voort te planten, zegt Amnesty",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/israel-ontneemt-vrouwen-in-gaza-de-mogelijkheid-om-zich-veilig-voort-te-planten-zegt-amnesty~b0c6ac6a/",
-     "bron": "de Volkskrant",
-     "tijd": "01:00",
-     "sorteer": "2026-11-25T00:00:17+00:00"
-    },
-    {
      "titel": "Polen: Russisch onbemand luchtvaartuig schond Pools luchtruim",
      "context": "",
      "rubrieken": [],
@@ -258,18 +258,29 @@
      "sorteer": "2026-11-25T01:58:00+00:00"
     },
     {
-     "titel": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
-     "context": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "05:49",
-     "sorteer": "2026-11-25T04:49:55+00:00",
+     "titel": "National Security vs. the Stock Market",
+     "context": "President Trump swept aside concerns about possible espionage when he lobbied Nvidia’s board to reinstate Jensen Huang as chief executive.",
+     "rubrieken": [
+      "internal-open-access-from-nl",
+      "Huang, Jen-Hsun",
+      "Trump, Donald J",
+      "Stocks and Bonds",
+      "China",
+      "Huang, Alice (Technology Executive)",
+      "United States Economy",
+      "NVIDIA Corporation",
+      "Artificial Intelligence",
+      "Xi Jinping"
+     ],
+     "link": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
+     "bron": "New York Times",
+     "tijd": "06:45",
+     "sorteer": "2026-11-25T05:45:35+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Australian politics live: Two Nationals kicked out of question time as Taylor slams ‘dirty deal’ with Greens; NSW responds to fire ant threat in Sydney",
+     "titel": "Australian politics live: ‘A tragedy in the life of our nation’: prime minister apologises to LGBTQ+ veterans",
      "context": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sove",
      "rubrieken": [
       "Australian politics",
@@ -283,52 +294,42 @@
      ],
      "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
      "bron": "The Guardian",
-     "tijd": "05:41",
-     "sorteer": "2026-11-25T04:41:09+00:00",
+     "tijd": "06:43",
+     "sorteer": "2026-11-25T05:43:47+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
-     "context": "A 2022 Solomon Islands agreement with China had raised concerns it would enable Beijing to establish a military presence on the Pacific island. The new accord precludes such bases.",
+     "titel": "Why Europe’s Socialists are turning on Frederiksen",
+     "context": "Presented by Fusion for Energy.",
      "rubrieken": [
-      "International Relations",
-      "Treaties",
-      "Defense and Military Forces",
-      "Infrastructure (Public Works)",
-      "Islands",
-      "Albanese, Anthony (1963- )",
-      "Sogavare, Manasseh",
-      "Australia",
-      "China",
-      "Solomon Islands"
-     ],
-     "link": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
-     "bron": "New York Times",
-     "tijd": "05:31",
-     "sorteer": "2026-11-25T04:31:18+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Die schwierigen Wochen bis Weihnachten des Kanzlers",
-     "context": "Präsentiert von YouTube.",
-     "rubrieken": [
-      "Antisemitism",
-      "Budget",
-      "Der Podcast",
-      "German politics",
-      "Pensions",
-      "Playbook",
-      "Social affairs",
-      "Tax",
-      "Playbook",
+      "Africa",
+      "AI Act",
+      "Balkans",
+      "Brussels Playbook Podcast",
+      "digital",
+      "Enlargement",
+      "Migration",
+      "Privacy",
+      "Social Media",
+      "Foreign Affairs",
       "Politics"
      ],
-     "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/die-schwierigen-wochen-bis-weihnachten-des-kanzlers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/why-europes-socialists-are-turning-on-frederiksen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
      "bron": "Politico Europe",
-     "tijd": "05:30",
-     "sorteer": "2026-11-25T04:30:00+00:00",
+     "tijd": "06:05",
+     "sorteer": "2026-11-25T05:05:00+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+     "context": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "05:49",
+     "sorteer": "2026-11-25T04:49:55+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -391,14 +392,13 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "OM eist levenslang tegen opdrachtgever dodelijke explosie Tarwekamp",
-     "context": "Het Openbaar Ministerie heeft levenslang geëist tegen hoofdverdachte Moshtag B. in de rechtszaak van de dodelijke explosie aan de Haagse Tarwekamp. Tegen de drie medeverdachten zijn straffen van 30, 28 en 4 jaar geëist. Bij de ontploffing op 7 december 2024 in de wijk Mariahoeve kwamen zes mensen om het leven. Het OM is ervan overtuigd dat Moshtag B. uit wraak handelde tegen zijn ex-vriendin, de e",
+     "titel": "Sinds invoering doorstroomtoets stellen scholen vaker schooladvies bij",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640862",
-     "bron": "NOS",
-     "tijd": "18:36",
-     "sorteer": "2026-11-24T18:36:22+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "link": "https://www.volkskrant.nl/binnenland/sinds-invoering-doorstroomtoets-stellen-scholen-vaker-schooladvies-bij~bde6423f/",
+     "bron": "de Volkskrant",
+     "tijd": "06:36",
+     "sorteer": "2026-11-25T05:36:00+00:00"
     },
     {
      "titel": "OM eist levenslang in Tarwekamp-zaak: ‘Het was sowieso waanzin’",
@@ -408,16 +408,6 @@
      "bron": "de Volkskrant",
      "tijd": "19:22",
      "sorteer": "2026-11-24T18:22:24+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Met de verkoop van Landbouwbelang in Maastricht verdwijnt wederom een vrijplaats: ‘De rafelranden zijn aan het opraken’",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/met-de-verkoop-van-landbouwbelang-in-maastricht-verdwijnt-wederom-een-vrijplaats-de-rafelranden-zijn-aan-het-opraken~bce1bef2/",
-     "bron": "de Volkskrant",
-     "tijd": "18:55",
-     "sorteer": "2026-11-24T17:55:55+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -434,15 +424,15 @@
      "titel": "’Terreurtoerist’ raakt Nederlands paspoort kwijt bij aansluiten terreurorganisatie in buitenland",
      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdGI1ckFzYTBKSklKeFNDXzZOVkl3STBIcHpJRW9CYk5vYk5LRzJ5LW1XaWM0Y0N2aXduNUFXMHlSS1Z2b1EtMm9HSXdKZHYxWWpLakxmRkV4TUktT0luLV8tbzVuR3REV2xtb2hZVEl6OGh6RmlwMWJBNFFkMUZsQ19OZEI2cWlpQVRXSGFXaGc0LU1pWllpUGFzY3VmWlQ4eWxJSGxCRzh5enhDVUdVQzhETVJoRHVGenVqb1B1UHZFYWloM2NOUmFrTTZlUFJBa3p3LTRYUk5EaGM?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "05:33",
-     "sorteer": "2026-11-25T04:33:36+00:00"
+     "tijd": "06:07",
+     "sorteer": "2026-11-25T05:07:51+00:00"
     },
     {
      "titel": "Zeker twintig gijzelaars vastgehouden in supermarkt na overval op geldwagen in Colombia",
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ2VEVVJyMHV0V0VMX1o1dW9DV2Y3RVZZQnlRM1hDTEdlUm1vcGdzNzIyWm8zYWpTX21wWVk5b3hDZlpCR1RJT3VJWHRkUGZlRHFmcjJLb1AzS2xDVlNEV1c4OWVZSWpSSlNfU1dwSTQ5R3haX2hEeTNSNXZEclMzcWFQQWhnSFRvdDlSOXlnVW02RVRKdmtwQTQzd29vMTFvTmhCb3Zja2dkNWdZMlFla2ZxZHU3UDFLc1dGQzVJMVZleG5q?oc=5",
      "bron": "AD.nl",
      "tijd": "04:56",
-     "sorteer": "2026-11-25T03:56:00+00:00"
+     "sorteer": "2026-11-25T03:56:38+00:00"
     },
     {
      "titel": "Acht jaar cel geëist tegen Jean Gardy L. (22): zwembadstagiair verdacht van misbruiken 13 kinderen",
@@ -715,6 +705,14 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Arrestatieteam pakt tbs’er op in Wolvega na schenden afspraken & instanties krijgen steeds meer AI-gegenereerde mails",
+     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUTFsVjkwQ3lpRjdUeHl2dUFOQnE3aWhDT240X3hkcVo0OXhlMWoyazRnQ2xQMDA2Tjd2NDFIQTJnWkUzYjliSXB6cnpfQWdvaFVMMkZmUmpXR1VzdFMzNkxlWHFXQ1ZRYWJoNWlJd0VwSFRtYkg4bXFVTld1TkdyU3FCZ2xlc1pzb1JsTWhseGRiQ3hYSVk3cWROU1ZIQkNnWGp6bXB1LXcyamVEd1BnRDBiRW5xT1pkLUxqbG1RdXgyWFZPbFJWZm9qdmdIWUY0WGdad1RFV0tVeHp4WEdqMzEwZWdQNWkzV2wwbThheEtvYk82QVE?oc=5",
+     "bron": "Leeuwarder Courant",
+     "tijd": "01:14",
+     "sorteer": "2026-11-25T00:14:35+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
      "titel": "Pensioenfondsen lopen enorm risico met AI: ’Helft van aandelen van pensioenfondsen zit in tech’",
      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQzlsY0QtQ29hQ3JOWlRDRGRYOXZkM0JTeTFkYmo4UlA4WjZsUGM1dmk0bmxvRjlrLTdkY29lVnFvbEduR3VudUk4NTNpT3UtendyN3hlV29aS1MyMEs3OUo1WHRvblRDUHZLam1BT1ZhY1NmVER4S3lzZVQyZWpwOWd4VTRKOXo1YzB0SmdjelBkMVZBQl9rcEI2R2w3TzkxMW0xRjY4UnY4RVpaY3l4Y1NuTGdvVEw5aHpoNWZfVWtLMFN1SjNkY2RYcFl6M21ia2RCaDJKenVWVlU?oc=5",
      "bron": "De Telegraaf",
@@ -908,7 +906,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "05:55",
+    "bijgewerkt": "07:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1272,27 +1270,19 @@
    "items": [
     {
      "titel": "Vandaag in de natuur",
-     "toelichting": "Ze drukken zich in de lengterichting tegen houtige of verdorde plantenstengels aan en worden bijna één met de plant: bruine winterjuffers .",
+     "toelichting": "Op dode takken van loofbomen en struiken komt de gele trilzwam voor, waar deze zwam parasiteert op andere schimmels, namelijk op schorszwammen.",
      "bron": "Nature Today",
      "tijd": "",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36093",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36104",
      "sein": true
     },
     {
-     "titel": "Natuurjournaal 24 november 2026",
-     "toelichting": "Bruine winterjuffer komt de vorst met antivries door, hazelwormen zijn ondergronds gegaan.",
+     "titel": "Natuurjournaal 25 november 2026",
+     "toelichting": "Gele trilzwam en geweizwam vallen nu op.",
      "bron": "Nature Today",
      "tijd": "06:45",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36093",
-     "sorteer": "2026-11-24T05:45:00+00:00"
-    },
-    {
-     "titel": "Nieuw boek 'Bescherming van biodiversiteit in de praktijk' laat zien: natuurherstel werkt!",
-     "toelichting": "'Het gaat niet goed met de natuur' en 'De insecten gaan sterk achteruit': de berichten over de natuur en biodiversiteit in Nederland zijn somber. Toch is het niet alleen kommer en kwel. In het recent gepresenteerde boek ",
-     "bron": "Nature Today",
-     "tijd": "07:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36099",
-     "sorteer": "2026-11-24T06:00:00+00:00"
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36104",
+     "sorteer": "2026-11-25T05:45:00+00:00"
     },
     {
      "titel": "Wat zwammen vertellen over een boom",
@@ -1301,6 +1291,14 @@
      "tijd": "12:00",
      "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36098",
      "sorteer": "2026-11-24T11:00:00+00:00"
+    },
+    {
+     "titel": "Rijke Weide Vogelfonds geeft droomboerderij een toekomst",
+     "toelichting": "De familie De Boer wilde hun gangbare melkveebedrijf omvormen tot een extensieve boerderij waar weidevogels, zoals de grutto, volop ruimte krijgen. Financieel leek dat niet haalbaar, tot het Rijke Weide Vogelfonds te hul",
+     "bron": "Nature Today",
+     "tijd": "15:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36097",
+     "sorteer": "2026-11-24T14:00:00+00:00"
     },
     {
      "titel": "Starship thuis, lanceer je naam naar Titan en nog veel meer: ruimtevaart in vogelvlucht",
@@ -1513,28 +1511,28 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": -2.0,
-    "gevoel": -7.1,
-    "wind": "ONO 3",
+    "nu": -2.1,
+    "gevoel": -7.7,
+    "wind": "O 3",
     "station": "Heino",
     "bericht": "Een hogedrukgebied boven Scandinavië zorgt voor een stevige oostelijke stroming, waarmee koude lucht wordt aangevoerd. Dat is goed te merken aan de temperatuur. De zon schijnt bijna overal en er staat een schrale wind.Vanochtend schijnt de zon en komt er in het zuiden ook sluierbewolking voor.",
     "vandaag": "Vanochtend schijnt de zon en komt er in het zuiden ook sluierbewolking voor. Voor het gevoel blijft het de hele ochtend matig vriezen!Vanmiddag is het zonnig, met in het zuiden duidelijk meer bewolking.",
     "temperatuur": "De middagtemperatuur varieert van iets boven het vriespunt in het noordoosten tot maximaal 4 graden in Zeeland.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -2 tot 2 graden, droog, ruim 7 uur zon, wind uit het oosten, kracht 4.",
-     "max": 2,
+     "zin": "Voor Dalfsen zelf: -2 tot 1 graden, droog, ruim 7 uur zon, wind uit het oosten, kracht 4.",
+     "max": 1,
      "min": -2,
      "regenkans": 0,
-     "omschrijving": "mistig",
+     "omschrijving": "bewolkt",
      "morgen": {
-      "max": 1,
+      "max": 0,
       "min": -4,
       "regenkans": 0,
       "omschrijving": null
      }
     },
     "vooruit": "Perioden met zon en droog. Koud met in de nacht en ochtend overwegend lichte vorst, overdag enkele graden boven nul. Vanaf zondag iets minder koud en mogelijk wat regen.",
-    "omslag": "Nachtvorst in aantocht: morgen tot -4 graden.",
+    "omslag": "Nachtvorst in aantocht: morgen tot -3 graden.",
     "min": "-2",
     "max": "2",
     "regenkans": 0,
@@ -1542,7 +1540,7 @@
     "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
     "morgen": {
      "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
-     "min": "-4",
+     "min": "-3",
      "max": "1",
      "regenkans": 0
     }
