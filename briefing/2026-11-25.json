@@ -1,17 +1,17 @@
 {
  "datum": "2026-11-25",
- "naam": "Middagbriefing",
+ "naam": "Avondbriefing",
  "status": {
-  "ronde": "Middagbriefing",
-  "opgehaald": "17:39",
+  "ronde": "Avondbriefing",
+  "opgehaald": "18:00",
   "blokken": 11,
-  "berichten": 99,
+  "berichten": 95,
   "problemen": [
    "AI Report: geen berichten in de archiefpagina gevonden"
   ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-25T17:39+01:00",
+ "opgehaald": "2026-11-25T18:00+01:00",
  "audio": "audio/20261125.mp3",
  "afval": [
   {
@@ -183,6 +183,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Twee minderjarige verdachten van fatale beschieting Schiedam aangehouden in VK",
+     "context": "In het Verenigd Koninkrijk zijn gisteravond nog twee minderjarige verdachten aangehouden die betrokken zouden zijn bij de schietpartij in Schiedam begin deze maand. Daarbij kwam een 19-jarige man om het leven en raakten twee andere jonge mannen gewond. In totaal zijn nu drie verdachten aangehouden voor de fatale beschieting. Zij worden allen verdacht van moord of doodslag en poging tot moord of do",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2641001",
+     "bron": "NOS",
+     "tijd": "17:46",
+     "sorteer": "2026-11-25T17:46:50+01:00"
+    },
+    {
      "titel": "Nieuwe foto's tonen schade aan Hitlers Adelaarsnest na grote brand",
      "context": "De schade aan het Adelaarsnest, het voormalige theehuis van Adolf Hitler in de Beierse Alpen, is aanzienlijk na de brandstichting eind oktober. Dat is te zien op nieuwe foto's van persbureau Reuters. Een nooddak is inmiddels geplaatst, maar binnenin moet er nog veel gebeuren. Het monumentale gebouw, officieel het Kehlsteinhaus, werd grotendeels verwoest door de brand. Kort na de brand werd een 33-",
      "rubrieken": [],
@@ -219,13 +228,13 @@
      "sorteer": "2026-11-25T15:25:10+01:00"
     },
     {
-     "titel": "Muziekstreamingdienst Tidal verbiedt AI-muziek en verwijdert bijna 30 miljoen nummers",
-     "context": "Muziekstreamingdienst Tidal gaat muziek die volledig is gemaakt met AI uit het aanbod verwijderen. Ook laat het bedrijf vanaf 9 december geen muziek meer toe die volledig door kunstmatige intelligentie is gegenereerd. Dat heeft Tidal bekendgemaakt . De leidinggevende van het bedrijf, Robert Anderson, zegt dat deze stap is genomen, omdat 43 procent van de muziek die de afgelopen negentig dagen bij ",
+     "titel": "Olivia Maurel is een draagmoederdochter: ‘Ik ben gekocht voordat ik geboren werd’",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640977",
-     "bron": "NOS",
-     "tijd": "15:16",
-     "sorteer": "2026-11-25T15:16:35+01:00"
+     "link": "https://www.volkskrant.nl/binnenland/olivia-maurel-is-een-draagmoederdochter-ik-ben-gekocht-voordat-ik-geboren-werd~b76d232b/",
+     "bron": "de Volkskrant",
+     "tijd": "17:43",
+     "sorteer": "2026-11-25T16:43:44+00:00"
     },
     {
      "titel": "Regering-Trump kondigt nieuwe reeks importheffingen aan vanwege ‘oneerlijke handelspraktijken’, ook EU doelwit",
@@ -237,15 +246,6 @@
      "sorteer": "2026-11-25T16:14:00+00:00"
     },
     {
-     "titel": "Oekraïne meldt aanval op Russische luchtmachtbasis, zeker vijf kostbare gevechtsvliegtuigen onklaar gemaakt",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/oekraine-meldt-aanval-op-russische-luchtmachtbasis-zeker-vijf-kostbare-gevechtsvliegtuigen-onklaar-gemaakt~b34eb585/",
-     "bron": "de Volkskrant",
-     "tijd": "15:44",
-     "sorteer": "2026-11-25T14:44:00+00:00"
-    },
-    {
      "titel": "Polen kondigt vliegverbod aan bij grens met Oekraïne",
      "context": "",
      "rubrieken": [],
@@ -255,45 +255,60 @@
      "sorteer": "2026-11-25T16:20:00+00:00"
     },
     {
-     "titel": "Burnham dismisses Badenoch’s criticism over influencer and declines to apologise for ‘vile video’ – UK politics live",
-     "context": "Pair clashed at PMQs over a video shot outside No 10 by TikToker Max Balegde Diane Taylor is a Guardian reporter who covers migration. Britons get many of the facts about migration wrong and Reform UK voters are the group who get these facts most wrong, according to new research published today by King’s College University and YouGov. Among Reform UK supporters, 57% think net migration rose signif",
+     "titel": "US army calls Iowa lead detonation a ‘huge success’ and says threat of spontaneous explosions has been ‘eliminated’ – live",
+     "context": "Army detonates 68 barrels containing nearly 9,500lbs of lead azide despite public concern about potential health and environmental effects Smoke seen from a mile away as army detonates bomb-making chemicals Sign up for the Breaking News US email The United States Centers for Disease Control and Prevention (CDC) has activated an emergency response to support the Iowa Department of Health and Human ",
      "rubrieken": [
-      "Politics",
-      "UK news",
-      "PMQs",
-      "Andy Burnham",
-      "Kemi Badenoch",
-      "Labour",
-      "Conservatives",
-      "House of Commons",
-      "Devolution",
-      "Local government",
-      "Energy bills",
-      "Military",
-      "Nuclear weapons"
+      "Iowa",
+      "US news",
+      "Trump administration",
+      "Environment",
+      "US Environmental Protection Agency",
+      "US military"
      ],
-     "link": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/25/iowa-lead-azide-detonation-army-explosion-bomb-live-updates",
      "bron": "The Guardian",
-     "tijd": "17:24",
-     "sorteer": "2026-11-25T16:24:39+00:00",
+     "tijd": "17:52",
+     "sorteer": "2026-11-25T16:52:25+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "South African President Wins Reprieve From ‘Farmgate’ Impeachment Investigation",
-     "context": "A court threw out a report suggesting that Cyril Ramaphosa may have tried to conceal the theft of more than half a million dollars of U.S. currency.",
+     "titel": "French presidential hopeful Teddy Riner says Ukraine is ‘not our war’",
+     "context": "The Olympic gold medalist's remarks on Russia's ongoing full-scale invasion provoked a backlash.",
      "rubrieken": [
-      "Ramaphosa, Cyril",
-      "South Africa",
-      "Corruption (Institutional)",
-      "Politics and Government",
-      "Impeachment",
-      "Courts and the Judiciary"
+      "Defense",
+      "Elections",
+      "French election 2027",
+      "War in Ukraine",
+      "Defense",
+      "Foreign Affairs",
+      "Politics"
      ],
-     "link": "https://www.nytimes.com/2026/11/25/world/africa/south-africa-ramaphosa-farmgate.html",
+     "link": "https://www.politico.eu/article/french-presidential-hopeful-teddy-riner-says-ukraine-is-not-our-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "17:51",
+     "sorteer": "2026-11-25T16:51:22+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Norway Has Closed Its Last Coal Mine, Ending a Way of Life in the Arctic",
+     "context": "Svalbard has a mining history that goes back over a century. But this icy archipelago is now a cruise ship destination and a geopolitical hot spot.",
+     "rubrieken": [
+      "Norway",
+      "Coal",
+      "Mines and Mining",
+      "Shutdowns (Institutional)",
+      "Labor and Jobs",
+      "Svalbard and Jan Mayen (Norway)",
+      "Longyearbyen (Norway)",
+      "Arctic Regions",
+      "Russia"
+     ],
+     "link": "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html",
      "bron": "New York Times",
-     "tijd": "17:22",
-     "sorteer": "2026-11-25T16:22:17+00:00",
+     "tijd": "17:47",
+     "sorteer": "2026-11-25T16:47:22+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -305,20 +320,6 @@
      "bron": "BBC",
      "tijd": "17:20",
      "sorteer": "2026-11-25T16:20:14+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "EU weist Trumps Argumente für neue Zölle zurück",
-     "context": "Brüssel widerspricht der Einschätzung Washingtons, wonach Europa die weltweiten Überkapazitäten in der Industrie verschärfe.",
-     "rubrieken": [
-      "Gesundheit",
-      "Industrie & Handel"
-     ],
-     "link": "https://www.politico.eu/article/eu-weist-trumps-argumente-fuer-neue-zoelle-zurueck/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "17:17",
-     "sorteer": "2026-11-25T16:17:15+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -359,7 +360,7 @@
      "sorteer": "2026-11-25T16:30:02+01:00"
     },
     {
-     "titel": "Vrouw overleden nadat ze door man werd neergestoken op fietspad in Houten",
+     "titel": "Vrouw overleden nadat man haar neersteekt op fietspad in Houten",
      "context": "De 34-jarige vrouw die vanmorgen werd neergestoken door een man op een fatbike in Houten, heeft het niet overleefd. De verdachte is een 39-jarige man uit Utrecht. Ze kenden elkaar, laat de politie weten. De steekpartij was vanmorgen rond 08.30 uur in Houten. De verdachte viel de vrouw, die op een bakfiets reed, aan met een mes en ging er daarna vandoor. Anderhalf uur later meldde hij zichzelf bij ",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640971",
@@ -377,31 +378,13 @@
      "sorteer": "2026-11-25T12:05:49+01:00"
     },
     {
-     "titel": "Dode in vrieskist Utrecht is man van 20, waarschijnlijk geen misdrijf",
-     "context": "Het slachtoffer dat gisteren in een vrieskist op straat in Utrecht werd gevonden, is een man van 20 uit Utrecht. Volgens de Utrechtse burgemeester Dijksma lijkt het erop dat er geen sprake is van een misdrijf. De man zou drugsproblemen hebben gehad. Dijksma zegt dat de politie alle scenario's heeft onderzocht. \"Maar ik begrijp dat de voorlopige conclusie van de politie is dat men niet uitgaat van ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640952",
-     "bron": "NOS",
-     "tijd": "11:14",
-     "sorteer": "2026-11-25T11:14:28+01:00"
-    },
-    {
-     "titel": "‘We moeten honden fokken, geen barbiepoppen’",
+     "titel": "Dierenartsen trekken de parken in om baasjes te wijzen op de risico’s van minihonden: ‘Aanschaffen van kleine hond moet taboe worden’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/we-moeten-honden-fokken-geen-barbiepoppen~b8689a32/",
+     "link": "https://www.volkskrant.nl/binnenland/dierenartsen-trekken-de-parken-in-om-baasjes-te-wijzen-op-de-risico-s-van-minihonden-aanschaffen-van-kleine-hond-moet-taboe-worden~b8689a32/",
      "bron": "de Volkskrant",
      "tijd": "17:13",
-     "sorteer": "2026-11-25T16:13:27+00:00"
-    },
-    {
-     "titel": "‘Verjongingscrème’ houdt asfalt langer goed, maar veroorzaakt ook gladheid",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/verjongingscreme-houdt-asfalt-langer-goed-maar-veroorzaakt-ook-gladheid~b8b3309a/",
-     "bron": "de Volkskrant",
-     "tijd": "17:12",
-     "sorteer": "2026-11-25T16:12:16+00:00"
+     "sorteer": "2026-11-25T16:13:00+00:00"
     },
     {
      "titel": "De opmars van vrouwelijke wethouders stagneert, maar ‘het is geen gebrek aan ambitie’",
@@ -413,18 +396,11 @@
      "sorteer": "2026-11-25T14:48:00+00:00"
     },
     {
-     "titel": "Verdachten blijven aandeel in dodelijk geweld Plein ontkennen",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdGZFUmtqMjlRZTBGX25FSWVORnVTVG5nM2MxclVVZjEzc005RTJKaklEUkxRUXBUelJKTXJCU2RBZm1YYnhxZk1QaXRWY3JsdzBadDZiYnlGeWZ6bkhBX2NEUHdnejdwWUpaSGl5MmUteGpidUN5TW9pNGhaZnF0NXRSUlNyT0Z4Vk8wVTVSdDI?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "17:21",
-     "sorteer": "2026-11-25T16:21:25+00:00"
-    },
-    {
-     "titel": "Twee verdachten van ’vergismoord’ op Schiedammer Tico (19) opgepakt: minderjarigen waren gevlucht naar Engeland",
-     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTHRpcGd1Rm80TnFUdHJ5Yl9sc2pzYTZhOVdkU3pUSHZheS0zbXZVOGxUeWxUdV9GWFl2WmhFYzd2UV9IUFNsMFZreVprLXE4OGxpeHRXVGtrZk5FbFlhRHNLakhpd0FwYU0wcDNOVnpkdGY5aW90ZnhrVFoycjV1WmNmSFdQdHlTcVFPT2l6NkJFa2dKQ2V1czNMdHN5aGlPZmFTY3pJQ1hzcmpUNG96dW1qekdEN3J0T1VmMHpUTk5pS1NYR3k2OVd5N2FQRjhZQW5uVGlyUFlYdjBRSS1jZi1PUGdnQVc1M3dtQkZR?oc=5",
+     "titel": "Verdachten uit Duitsland ontkennen dodelijk geweld op Plein in Den Haag",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX3RZNkNrdFg0eEt6cW9yR2UxOTM4Zm12YldTZjJUaGJhN0I2d01OeFJvYkVQSkdaQjBGVnZ3c3JsSmo4Zk1vQmNjMkltT0l3ZnpFX2tnLWN5YWZOWGNZRVRSTVo3bWRXSmY2TW9wXzRuWElKeE1mZUZHckJTaVhzakowNTd4R2dsOUZlMExtTHR4UkNYdHRIS0t1bWpyeVh5Ti1vMzd0MjYySE51QzlYS1NDMlYtQnh6MDIyTWhOMA?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "17:17",
-     "sorteer": "2026-11-25T16:17:37+00:00"
+     "tijd": "17:48",
+     "sorteer": "2026-11-25T16:48:27+00:00"
     },
     {
      "titel": "De grootste Lidl in de regio heropent na renovatie: we nemen de proef op de som",
@@ -453,14 +429,6 @@
      "bron": "De Correspondent · Lotte Kok",
      "tijd": "05:45",
      "sorteer": "2026-11-25T04:45:04+00:00"
-    },
-    {
-     "titel": "25/11 in Nieuwsuur: Crack-epidemie in Nederlandse steden • Hebben we voldoende zicht op Zembla's neonazi's? • EU-top over begroting dreigt flop te worden",
-     "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOX2Q0MEJxYVJkSWw3V0Y1T09LSG9RR1NjcVc1UDlkdlpNZlF3NWExb1VZanp0TnYzMHl4enlDRU5YMDJ6TUpkRmxfbXVxenEtcmVzR21yTU9CR29UYjRwdlhzRGZyYnByZmtDaUZVMTBZeWhmT185NXhUbFowSGZ1Yl9DTk5zdGYwOU9UMVoyWkcyTEhiUFQ1ZEJQandRM1RtWUxQbVJZWnpuVWE2ZGJyaVctdU81TTRnUEtqbVVRM2hQaFM3bHV2dU55SXVEaXh2dTZnWEJuN2VWRjVXYVQteWROTVd0bTNMY3A0STJXa3U1RHJOZTI3d2pzU21KMVhmcV9uNUEyRTdjdVVRVWtsdWVnXzc0NUk?oc=5",
-     "bron": "NOS",
-     "tijd": "14:22",
-     "sorteer": "2026-11-25T13:22:37+00:00",
-     "kop": "Begroting"
     },
     {
      "titel": "Eva",
@@ -550,30 +518,30 @@
      "sorteer": "2026-11-25T09:32:32+00:00"
     },
     {
-     "titel": "Bank pas gevonden",
-     "context": "DALFSEN – Bankpas gevonden. Alleen de eigenaar mag mij bellen: 06 365 124 44",
+     "titel": "IJsbaan Stokvisdennen nog niet gevuld, voorbereidingen in volle gang",
+     "context": "DALFSEN – De winterkou overvalt Nederland een beetje. Want wie rekent er nu op dat het vóór december al matig vriest? Bij ijsbaan Stokvisdennen in Dalfsen worden ondertussen de handen uit de mouwen gestoken. De baan is nog niet gevuld, maar de voorbereidingen zijn begonnen. Een belangrijk aandachtspunt is de pomp. Die moet eerst […]",
+     "rubrieken": [
+      "Dalfsen",
+      "Laatste nieuws"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/557314/ijsbaan-stokvisdennen-nog-niet-gevuld-voorbereidingen-in-volle-gang.html",
+     "bron": "DalfsenNet",
+     "tijd": "17:47",
+     "sorteer": "2026-11-25T16:47:38+00:00"
+    },
+    {
+     "titel": "Bank pas gevonden en weer op de plek",
+     "context": "DALFSEN – Bankpas gevonden. Alleen de eigenaar mocht bellen: en dat is gedaan, opgelost dus.",
      "rubrieken": [
       "Dalfsen",
       "Ingezonden bericht",
+      "Kwiet en weer terechte",
       "Laatste nieuws"
      ],
      "link": "https://www.dalfsennet.nl/nieuws/557299/bank-pas-gevonden.html",
      "bron": "DalfsenNet",
      "tijd": "14:41",
      "sorteer": "2026-11-25T13:41:30+00:00"
-    },
-    {
-     "titel": "Bach-cantate klinkt in Grote Kerk Dalfsen",
-     "context": "DALFSEN – Op zondagmiddag 29 november is er een cantatedienst in de Grote Kerk Dalfsen. Voorganger is ds. At Kramer. Het Oecumenisch Cantatekoor o.l.v. Wim van Lenthe voert dan een cantate van Bach uit, te weten Cantate nummer 36: ‘Schwingt freudig euch empor’. Johann Sebastiaan Bach heeft voor elke zondag een cantate gecomponeerd. Cantate […]",
-     "rubrieken": [
-      "Dalfsen",
-      "Ingezonden bericht",
-      "Laatste nieuws"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/557304/bach-cantate-klinkt-in-grote-kerk-dalfsen.html",
-     "bron": "DalfsenNet",
-     "tijd": "13:49",
-     "sorteer": "2026-11-25T12:49:10+00:00"
     }
    ]
   },
@@ -684,18 +652,18 @@
      "sorteer": "2026-11-25T16:08:55+00:00"
     },
     {
-     "titel": "‘Beheersbaarheid van AI is cruciaal’",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMHg3NTJkcXRIcVl1RFo4ZEg1QmpjeWFDbS1vNkhIMzh4ZEtVcjlZMGpic0lIcjE4djcyWHFVX2RNNU5pRVRYbk1yWnVsRGFhdkFTVmdqejJkcGh3UTNyNVEyZl9sOGRveVp3WndlWHYxbU1CWFNnWWRkVlpkWkwzdmpiZDc?oc=5",
-     "bron": "iBestuur",
-     "tijd": "11:55",
-     "sorteer": "2026-11-25T10:55:52+00:00"
-    },
-    {
      "titel": "DIVD vermoedt dat AI-tool Artex werd gebruikt bij eigen hack",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcEp5OWdLQUZhbnBVRTNSWGNfUGhGSm9HbVdqRVc3U3VJUWdpdkZfN0R4Y3NjcFNaZHRGOGtfd0hndV9DcGstUFR6TXluS19ZYlRia3hNbm1ITDlUVjJWeGxwWUNKYWYxaldDU0pWR0dXem9pR3R4UW9iT0pzaFcwbDVUeV9Zb19DejJFd09tQlJ5T0ttemR2S2U1NWRWXzdmVWc?oc=5",
      "bron": "Tweakers",
      "tijd": "16:38",
      "sorteer": "2026-11-25T15:38:38+00:00"
+    },
+    {
+     "titel": "Muziekstreamingdienst Tidal verbiedt AI-muziek en verwijdert bijna 30 miljoen nummers",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0FpcUhtNEx1ZU5QQmI2QUFOVWloYXE3WEhXMU93eVlPOG1lc1RWZktjOU01czI1Rk8wRVhuV0RnQ1E4RHZJaVVfOEdYVFJVZi1iVGd4U3lNMHZndGV6MmhUc05NV0U3THlQUVFPR043MEEybS1HdE1FdXdYa21CVjlHTmE3THR4bHlKNzMyeVd6ZDduUFpRamliUjJRTzBqV2l4dWJEdlJlajBnN1BsMkNOOHpBMnc?oc=5",
+     "bron": "NOS",
+     "tijd": "15:16",
+     "sorteer": "2026-11-25T14:16:35+00:00"
     },
     {
      "titel": "Europa wil 50 miljard ophalen voor steun aan AI- en quantumbedrijven",
@@ -871,7 +839,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "17:39",
+    "bijgewerkt": "18:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1429,11 +1397,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 110 plekken in de afgelopen week, waarvan 8 vandaag",
+     "titel": "Invasiejaar — op 111 plekken in de afgelopen week, waarvan 8 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 332 vogels; 463 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 333 vogels; 466 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1469,12 +1437,12 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": -0.2,
+    "nu": -0.1,
     "gevoel": -5.2,
     "wind": "ONO 3",
     "station": "Heino",
-    "bericht": "Vandaag zorgt een schrale oostenwind ervoor dat het flink koud aanvoelt. Het kwik op de thermometer komt vanmiddag maar een paar graden boven het vriespunt uit. Wel schijnt de zon volop.Vanmiddag is het zonnig, met in het zuiden duidelijk meer bewolking.",
-    "vandaag": "Vandaag zorgt een schrale oostenwind ervoor dat het flink koud aanvoelt. Het kwik op de thermometer komt vanmiddag maar een paar graden boven het vriespunt uit.",
+    "bericht": "Het is koud de komende dagen en de schrale oostenwind speelt hierbij ook een rol. Overdag komt de temperatuur nipt boven het vriespunt uit en misschien komt het deze week wel tot de eerst lokale ijsdag!Vanavond en vannacht is het vrij helder, al ligt er wel een band met met dikkere bewolking over het noorden. Deze lijkt wat naar het zuiden te zakken en in de loop van de nacht op te lossen.",
+    "vandaag": "Deze lijkt wat naar het zuiden te zakken en in de loop van de nacht op te lossen. De minimumtemperatuur varieert van rond het vriespunt langs de kust tot -4 graden in het oosten van het land.",
     "temperatuur": "",
     "dalfsen": {
      "zin": "Voor Dalfsen zelf: -2 tot 2 graden, droog, ruim 7 uur zon, wind uit het oosten, kracht 4.",
@@ -1484,7 +1452,7 @@
      "omschrijving": "bewolkt",
      "morgen": {
       "max": 0,
-      "min": -2,
+      "min": -4,
       "regenkans": 0,
       "omschrijving": null
      }
