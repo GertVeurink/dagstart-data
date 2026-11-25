@@ -3,16 +3,13 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "07:00",
+  "opgehaald": "08:00",
   "blokken": 11,
-  "berichten": 101,
-  "problemen": [
-   "google 'rechtsstaat OR grondwet OR hoo': HTTP 429"
-  ],
-  "audio_herkomst": "model",
-  "audio_aangehaakt": "07:20"
+  "berichten": 103,
+  "problemen": [],
+  "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-25T07:00+01:00",
+ "opgehaald": "2026-11-25T08:00+01:00",
  "audio": "audio/20261125.mp3",
  "afval": [
   {
@@ -184,6 +181,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Salvadoraan Abrego Garcia verlaat na deportatiestrijd de VS en gaat naar Spanje",
+     "context": "Kilmar Abrego Garcia, de 31-jarige Salvadoraan die de Verenigde Staten werd uitgezet en zijn deportatie met succes aanvocht, is gisteren met een commerciële lijnvlucht vrijwillig naar Spanje vertrokken. Hij werd het gezicht van het harde migratiebeleid van de regering-Trump nadat hij vorig jaar maart werd opgepakt en naar een beruchte gevangenis in zijn geboorteland werd gestuurd. Abrego Garcia we",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640919",
+     "bron": "NOS",
+     "tijd": "07:51",
+     "sorteer": "2026-11-25T07:51:26+01:00"
+    },
+    {
      "titel": "Wekdienst 25/11: NAVO-chef Rutte praat met Trump • Strafeis mishandeling Plein Den Haag",
      "context": "Goedemorgen! Goedemorgen! In Florida spreekt NAVO-topman Mark Rutte met de Amerikaanse president Donald Trump over onder meer de oorlog in Oekraïne en het Openbaar Ministerie komt met de strafeisen in de zaak rond de fatale mishandeling van een Somalische asielzoeker op het Plein in Den Haag. Eerst het weer: De dag begint met lichte vorst. Overdag veel zon en vanmiddag wordt het 0 tot 3 graden. Do",
      "rubrieken": [],
@@ -213,22 +219,12 @@
     },
     {
      "titel": "Jensen Huang zegt bij terugkomst Nvidia 'sorry' tegen medewerkers en is in therapie",
-     "context": "Nvidia-topman Jensen Huang heeft in een vergadering bij zijn terugkomst bij de chipfabrikant zijn excuses aangeboden aan medewerkers van het bedrijf. In een vergadering erkent hij dat hij \"vreselijke fouten heeft gemaakt\". Gisteren werd bekendgemaakt dat Huang terugkeert als ceo van het bedrijf, nadat hij anderhalve week geleden moest vertrekken na onthullingen over meerdere affaires, onder andere",
+     "context": "Nvidia-topman Jensen Huang heeft in een vergadering bij zijn terugkomst bij de chipfabrikant zijn excuses aangeboden aan medewerkers van het bedrijf. In een vergadering erkent hij dat hij \"vreselijke fouten heeft gemaakt\". Gisteren werd bekendgemaakt dat Huang terugkeert als CEO van het bedrijf, nadat hij anderhalve week geleden moest vertrekken na onthullingen over meerdere affaires, onder andere",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640898",
      "bron": "NOS",
      "tijd": "22:58",
      "sorteer": "2026-11-24T22:58:37+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Hongaarse premier bezoekt Oekraïne voor het eerst sinds 2015: 'Historische dag'",
-     "context": "Voor het eerst sinds 2015 heeft een Hongaarse premier een officieel bezoek gebracht aan Oekraïne. Premier Magyar heeft in de grenzende regio met president Zelensky gepraat en samen een militaire begraafplaats bezocht. Het is een belangrijk symbolisch moment voor de nieuwe relatie tussen beide landen. \"Ik beschouw dit als een historische dag\", zei Magyar. \"En een enorme kans om een nieuw hoofdstuk ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640891",
-     "bron": "NOS",
-     "tijd": "22:35",
-     "sorteer": "2026-11-24T22:35:14+01:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -259,6 +255,48 @@
      "sorteer": "2026-11-25T01:58:00+00:00"
     },
     {
+     "titel": "Australian politics live: Survivors welcome Tasmanian plan to outlaw conversion therapy; Chalmers denies Australia is in ‘stagflation’",
+     "context": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sove",
+     "rubrieken": [
+      "Australian politics",
+      "Australian economy",
+      "Australia news",
+      "Business",
+      "Health",
+      "Australian education",
+      "Australian immigration and asylum",
+      "Australian foreign policy"
+     ],
+     "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+     "bron": "The Guardian",
+     "tijd": "07:37",
+     "sorteer": "2026-11-25T06:37:35+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
+     "context": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "07:36",
+     "sorteer": "2026-11-25T06:36:00+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+     "context": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "07:00",
+     "sorteer": "2026-11-25T06:00:36+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
      "titel": "National Security vs. the Stock Market",
      "context": "President Trump swept aside concerns about possible espionage when he lobbied Nvidia’s board to reinstate Jensen Huang as chief executive.",
      "rubrieken": [
@@ -277,26 +315,6 @@
      "bron": "New York Times",
      "tijd": "06:45",
      "sorteer": "2026-11-25T05:45:35+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Australian politics live: ‘A tragedy in the life of our nation’: prime minister apologises to LGBTQ+ veterans",
-     "context": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sove",
-     "rubrieken": [
-      "Australian politics",
-      "Australian economy",
-      "Australia news",
-      "Business",
-      "Health",
-      "Australian education",
-      "Australian immigration and asylum",
-      "Australian foreign policy"
-     ],
-     "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-     "bron": "The Guardian",
-     "tijd": "06:43",
-     "sorteer": "2026-11-25T05:43:47+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -322,29 +340,6 @@
      "sorteer": "2026-11-25T05:05:00+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
-     "context": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "05:49",
-     "sorteer": "2026-11-25T04:49:55+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "US attorney general dodges questions about Nvidia investigation",
-     "context": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "04:44",
-     "sorteer": "2026-11-25T03:44:07+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media",
-     "vervolg": "stond gisteren ook in de briefing"
     }
    ]
   },
@@ -353,6 +348,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Acteur Jules Croiset (89) overleden",
+     "context": "Acteur Jules Croiset is op 89-jarige leeftijd overleden. Zijn familie heeft dat bekendgemaakt aan persbureau ANP. Croiset komt uit een beroemde acteursfamilie. Zijn ouders Max Croiset en Jeanne Verstraete waren acteur en ook onder anderen zijn broer Hans en zijn zonen Vincent en Niels zijn te zien in films, op televisie en in het theater. Hij was de neef van acteur Coen Flink en tv-regisseur Guus ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640917",
+     "bron": "NOS",
+     "tijd": "07:29",
+     "sorteer": "2026-11-25T07:29:00+01:00"
+    },
     {
      "titel": "Korte tijd grote brand op terrein Tata Steel",
      "context": "Op het terrein van Tata Steel in IJmuiden is gisteravond een grote brand uitgebroken. De brand woedde op het dak van een van de gebouwen van de fabriek, meldt de veiligheidsregio. Rond 22.00 uur kwam de eerste melding binnen en de brandweer schaalde al gauw op naar \"zeer grote brand\". Voor het blussen werd onder meer een hoogwerker ingezet omdat de brand woedde op een hoogte van zo'n 35 meter. Rui",
@@ -383,20 +387,10 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Hogeschool Rotterdam stelt docent uit neonazi-documentaire Zembla op non-actief",
-     "context": "Een hbo-docent Medische Hulpverlening is door zijn werkgever Hogeschool Rotterdam op non-actief gesteld, omdat hij voorkomt in de Zembla- documentaire De neonazi - files . In de uitzending, die vorige week verscheen, zijn beelden te zien van neonazistische bewegingen die onder meer Adolf Hitler vereren en onderling kooigevechten houden. De docent die door de hogeschool is geschorst, was bij de koo",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640876",
-     "bron": "NOS",
-     "tijd": "19:16",
-     "sorteer": "2026-11-24T19:16:41+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Sinds invoering doorstroomtoets stellen scholen vaker schooladvies bij",
+     "titel": "Basisscholen stellen vaker schooladvies bij sinds invoering doorstroomtoets",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/sinds-invoering-doorstroomtoets-stellen-scholen-vaker-schooladvies-bij~bde6423f/",
+     "link": "https://www.volkskrant.nl/binnenland/basisscholen-stellen-vaker-schooladvies-bij-sinds-invoering-doorstroomtoets~bde6423f/",
      "bron": "de Volkskrant",
      "tijd": "06:36",
      "sorteer": "2026-11-25T05:36:00+00:00"
@@ -425,13 +419,20 @@
      "titel": "’Terreurtoerist’ raakt Nederlands paspoort kwijt bij aansluiten terreurorganisatie in buitenland",
      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdGI1ckFzYTBKSklKeFNDXzZOVkl3STBIcHpJRW9CYk5vYk5LRzJ5LW1XaWM0Y0N2aXduNUFXMHlSS1Z2b1EtMm9HSXdKZHYxWWpLakxmRkV4TUktT0luLV8tbzVuR3REV2xtb2hZVEl6OGh6RmlwMWJBNFFkMUZsQ19OZEI2cWlpQVRXSGFXaGc0LU1pWllpUGFzY3VmWlQ4eWxJSGxCRzh5enhDVUdVQzhETVJoRHVGenVqb1B1UHZFYWloM2NOUmFrTTZlUFJBa3p3LTRYUk5EaGM?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "06:07",
-     "sorteer": "2026-11-25T05:07:51+00:00"
+     "tijd": "07:02",
+     "sorteer": "2026-11-25T06:02:06+00:00"
+    },
+    {
+     "titel": "Dennie Lamers (39) opent de eerste spelletjeshal van Wageningen, een jaar na de dood van zijn vader: ‘Ondernemen zit in het bloed’",
+     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTGdUa3hMVGx6ekJxU1NxU2VSZDJscFp0OVJzeHVUS0NTWnJfTnNUVy13dmxQRVhzVlBFcGRpeU80OTFFelplaXEycl8yV3BqaDNuYkdMRFgtS2NsY3FGZGEwYUtONlNwMjNXWExFY3FoYlQzdHoweTZ0VHFvSFhzakd6Ym5IYi10MlMwVU1vVTdWOHA0Q2cxenU4YzZkNHhSWjBBenhsNEZmbElDRFEzMFgtc0I4WG9pQkRMRWpLNmdlNVhYZVl6ZUM1TlZfYUFSOGhnV25LMER6Slo2MWk0UG5QY0Z6akhxU29GTHlTVjhOQ0Z0dGc?oc=5",
+     "bron": "AD.nl",
+     "tijd": "07:00",
+     "sorteer": "2026-11-25T06:00:09+00:00"
     },
     {
      "titel": "Zeker twintig gijzelaars vastgehouden in supermarkt na overval op geldwagen in Colombia",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ2VEVVJyMHV0V0VMX1o1dW9DV2Y3RVZZQnlRM1hDTEdlUm1vcGdzNzIyWm8zYWpTX21wWVk5b3hDZlpCR1RJT3VJWHRkUGZlRHFmcjJLb1AzS2xDVlNEV1c4OWVZSWpSSlNfU1dwSTQ5R3haX2hEeTNSNXZEclMzcWFQQWhnSFRvdDlSOXlnVW02RVRKdmtwQTQzd29vMTFvTmhCb3Zja2dkNWdZMlFla2ZxZHU3UDFLc1dGQzVJMVZleG5q?oc=5",
-     "bron": "AD.nl",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeGxGcFpqTWFNZ2RrMzJxNUhMN0lpQ0FEOTY2ZlAxX2FvbC01QWY0a1Rfd3ktbkdscGVmRm1ydld3R0Ridnh5R2hpTXd6UlRaLVhlcFBQYTk0dUQtNlVTMklTZGxocm5NT0o4S08xUjQ0MzBzQW5QMzRpMldnOG5hSWUxUlRrRGpnMnhla1JzYVh0MDZCSTExSWt2RXJzV0puS3FiYVlINXdLQkRCUmxZNUlEblNwR0YzdEFyZG5GSWhrMTdD?oc=5",
+     "bron": "Brabants Dagblad",
      "tijd": "04:56",
      "sorteer": "2026-11-25T03:56:38+00:00"
     },
@@ -441,13 +442,6 @@
      "bron": "De Telegraaf",
      "tijd": "02:43",
      "sorteer": "2026-11-25T01:43:10+00:00"
-    },
-    {
-     "titel": "Huawei in VS schuldig bevonden aan diefstal van bedrijsgeheimen",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQzh0VGw4LVFoNUFJVDFMOTIwVGJTQXdZT3dRNlZFUFNhX2VydVZ4ZjhySVU5Q3Axb3JxTlpObHloMUtiN3BIWC0wNVpMNGFpV2ZmU0c1OWdYbzhnRUtRNnlka1lOakFNejRRT2ttQVMtM1ZOREdlTFk1N1JNV0RnbTE2Ui1acUltYUlXTE5jdkgwVHBhWDloTzF3?oc=5",
-     "bron": "NOS",
-     "tijd": "01:48",
-     "sorteer": "2026-11-25T00:48:05+00:00"
     },
     {
      "titel": "Het einde der tijden als verdienmodel – in gesprek met Naomi Klein en Astra Taylor over ‘Eindtijdfascisme’",
@@ -470,6 +464,14 @@
      "tijd": "14:01",
      "sorteer": "2026-11-24T13:01:55+00:00",
      "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Europese Commissie legt kersvers euroland Bulgarije eerste boete ooit op voor te groot begrotingstekort",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRlk4NUpwcDJ2cUxfMmRfOXJEazVlekItTk1ndEh0enRFaW0tR2VlRUZZWjFwVlRvOTVrVVR3bjF0d2pPVEtPbUVDZENoT1FCUkpwcHdTVjRCZW44VHZqMTVleDRBZ3hfdE93NlUtM2hmblhOUDkxZGUzcFNmU29CZ2JmalJ6TnU1Zm9YLVByekNoQmlnV3NpTkxVRnlBR2Vnc1FjSzN1VGdsMVhGSlYtT3RkcmJqbmE5VWVGNDdKVFFZb09QUTkxYVl2NzJXbWZTSnRxSXNMdXViSWpsN19ubWxTV0xzU3JiTmlnMjFLNmp2a243?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "07:55",
+     "sorteer": "2026-11-25T06:55:47+00:00",
+     "kop": "Begroting"
     },
     {
      "titel": "Eva",
@@ -506,6 +508,42 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Acteur Jules Croiset uit Deventer op 89-jarige leeftijd overleden",
+     "context": "De in Deventer geboren acteur Jules Croiset is maandagavond op 89-jarige leeftijd overleden. Dat heeft zijn familie aan het ANP gemeld. Croiset stond bijna zestig jaar op het toneel en won onder meer een Louis d'Or.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3723109/acteur-jules-croiset-uit-deventer-op-89-jarige-leeftijd-overleden",
+     "bron": "RTV Oost",
+     "tijd": "07:43",
+     "sorteer": "2026-11-25T06:43:18+00:00"
+    },
+    {
+     "titel": "Nederland minder arm? Hulporganisaties vertellen een ander verhaal",
+     "context": "De armoede in Nederland is licht gedaald. Dat blijkt uit de nieuwe armoedecijfers van het CBS. Hulporganisaties als het Armoedefonds plaatsen hier evenwel kritische kanttekeningen bij: \"Grote groepen mensen die niet kunnen rondkomen, zijn in deze cijfers niet meegerekend.\"",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3722988/nederland-minder-arm-hulporganisaties-vertellen-een-ander-verhaal",
+     "bron": "RTV Oost",
+     "tijd": "07:00",
+     "sorteer": "2026-11-25T06:00:00+00:00"
+    },
+    {
+     "titel": "Hondenbelasting verdwijnt langzaam, maar drie gemeenten houden er juist aan vast",
+     "context": "De hondenbelasting verdwijnt op steeds meer plekken in Overijssel. Zwartewaterland schaft de 'blaftaks' vanaf januari af en Enschede volgt een jaar later. Daarmee blijven er nog drie gemeenten in Overijssel over die hondenbelasting innen. En zij zijn voorlopig niet van plan om die af te schaffen.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3721240/hondenbelasting-verdwijnt-langzaam-maar-drie-gemeenten-houden-er-juist-aan-vast",
+     "bron": "RTV Oost",
+     "tijd": "05:58",
+     "sorteer": "2026-11-25T04:58:15+00:00"
+    },
+    {
+     "titel": "Megaorder uit Duitsland voor Vogelwerkgroep Geesteren: maak 140 insectenhotels",
+     "context": "\"Klaar voor de export.\" In de werkplaats van de Vogelwerkgroep Geesteren bouwen de vrijwilligers insectenhotels aan de lopende band. Momenteel wordt er keihard gewerkt aan een megaorder. De bestelling komt van de andere kant van de grens: 140 insectenhotels voor het Duitse Wietmarschen.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3722910/megaorder-uit-duitsland-voor-vogelwerkgroep-geesteren-maak-140-insectenhotels",
+     "bron": "RTV Oost",
+     "tijd": "05:01",
+     "sorteer": "2026-11-25T04:01:07+00:00"
+    },
+    {
      "titel": "Zeven jaar cel geëist, maar Zwolse vastgoedman vrijgesproken in zaak drugslabs",
      "context": "Een 70-jarige vastgoedman uit Zwolle is dinsdag vrijgesproken van betrokkenheid bij drugslabs in Bruchterveld en Nieuwlande. Hij was samen met een 53-jarige man uit Gramsbergen een van de twee hoofdverdachten in deze zaak. De man uit Gramsbergen krijgt vijf jaar en vijf maanden cel voor zijn rol.",
      "rubrieken": [],
@@ -516,55 +554,14 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Miljarden apparaten gebruiken zijn uitvinding, maar Jaap werd er niet rijk van",
-     "context": "Muziek streamen, een telefoongesprek voeren of bestanden overzetten van het ene naar het andere apparaat: daarvoor gebruiken we dagelijks bluetooth. De uitvinder is Jaap Haartsen (63). Hij vroeg een belangrijk patent aan toen hij in Borne woonde. Maar rijk werd hij er niet van.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3713033/miljarden-apparaten-gebruiken-zijn-uitvinding-maar-jaap-werd-er-niet-rijk-van",
-     "bron": "RTV Oost",
-     "tijd": "19:04",
-     "sorteer": "2026-11-24T18:04:57+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "In politiek Enschede gebeurt elke maandag iets bijzonders: 'Dorpsplein van stad'",
-     "context": "Politiek is stroperig en antwoorden op vragen duren vaak lang: van dat imago stapt Enschede af. De gemeente houdt elke maandagavond een actualiteitenraad. Op het 'wekelijkse dorpsplein' komen alle vragen samen die er leven bij de partijen in de stad. Het stadsbestuur legt er direct verantwoording af.",
+     "titel": "Verkrachting 9-jarige jongen in azc Heemserveen: OM eist vijf jaar cel",
+     "context": "Een 9-jarige jongen zou dit voorjaar op het terrein van het asielzoekerscentrum in Heemserveen verkracht zijn. Tegen een 43-jarige medebewoner is dinsdag 5 jaar cel geëist. \"Van een jongen die onbevangen de wereld ontdekt, is niets meer over\", zegt de officier van justitie.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3722759/in-politiek-enschede-gebeurt-elke-maandag-iets-bijzonders-dorpsplein-van-stad",
+     "link": "https://www.oost.nl/nieuws/3722922/verkrachting-9-jarige-jongen-in-azc-heemserveen-om-eist-vijf-jaar-cel",
      "bron": "RTV Oost",
-     "tijd": "18:02",
-     "sorteer": "2026-11-24T17:02:40+00:00",
+     "tijd": "20:02",
+     "sorteer": "2026-11-24T19:02:36+00:00",
      "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Elk jaar ruzie met de kerstlampjes? Mats uit Zwolle brengt verlichting",
-     "context": "Gezellig, de kerstboom weer in huis. Volgehangen met ballen, ornamenten en uiteraard lampjes. Áls ze branden. Want kerstlampjes ophangen staat ongetwijfeld hoog in de frustratie top-tien. Maar dankzij Mats Kreule (21) is er weer hoop, vrede en vreugde: hij hangt de lampjes bij jou in de kerstboom.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3722551/elk-jaar-ruzie-met-de-kerstlampjes-mats-uit-zwolle-brengt-verlichting",
-     "bron": "RTV Oost",
-     "tijd": "17:08",
-     "sorteer": "2026-11-24T16:08:34+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Woningen in Goor en Diepenheim geïsoleerd met UF-schuim",
-     "context": "Ook in Hof van Twente zijn woningen van woningcorporatie Viverion geïsoleerd met UF-schuim. Dat blijkt uit antwoorden van het college van die gemeente op vragen van de lokale VVD-fractie.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3722823/woningen-in-goor-en-diepenheim-geisoleerd-met-uf-schuim",
-     "bron": "RTV Oost",
-     "tijd": "16:26",
-     "sorteer": "2026-11-24T15:26:24+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Failliete ondernemer met drugslabs in IJsselmuiden en Enschede: 'Ben zwaar bedreigd'",
-     "context": "Een drugslab in IJsselmuiden, eentje in Enschede en ook nog eens een drugsopslag in die stad. Enschedeër P. (57) heeft heel wat uit te leggen. De verdachte, die zegt zwaar onder druk te zijn gezet, doet een hartenkreet. \"Ik hoop dat de waarheid naar boven komt.\"",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3722917/failliete-ondernemer-met-drugslabs-in-ijsselmuiden-en-enschede-ben-zwaar-bedreigd",
-     "bron": "RTV Oost",
-     "tijd": "15:36",
-     "sorteer": "2026-11-24T14:36:25+00:00"
     },
     {
      "titel": "Er is een nieuw overlijdensbericht",
@@ -714,6 +711,13 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Ondanks aanvankelijk enthousiasme keren Nederlanders zich nu tegen AI in de klas",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMXRocXFva0xyWUFyQ2VadjZTSXp6UE1zNzhEMTF6dUhoWnpyN3lLcWdpT21DLUxjTFJXc0RETzdXOGpvcDBybHFEeGQ1MVMtN2RWZXNZOWZOcUQyX1lLSzd6bDg5OWIxbmM2a3hLRXc4ZDlhdE80SGlHX1VtajBlZUVlRzlCMzdqWG8tUS1pOHdvVTdZX2l6VGFKUkk2MzA3ZTZVazZLTFFNY1UxZFFsa211Sk1MRHBoSjZ3MllWbTlLb0kyX1ZTU1F3?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "07:15",
+     "sorteer": "2026-11-25T06:15:10+00:00"
+    },
+    {
      "titel": "Pensioenfondsen lopen enorm risico met AI: ’Helft van aandelen van pensioenfondsen zit in tech’",
      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQzlsY0QtQ29hQ3JOWlRDRGRYOXZkM0JTeTFkYmo4UlA4WjZsUGM1dmk0bmxvRjlrLTdkY29lVnFvbEduR3VudUk4NTNpT3UtendyN3hlV29aS1MyMEs3OUo1WHRvblRDUHZLam1BT1ZhY1NmVER4S3lzZVQyZWpwOWd4VTRKOXo1YzB0SmdjelBkMVZBQl9rcEI2R2w3TzkxMW0xRjY4UnY4RVpaY3l4Y1NuTGdvVEw5aHpoNWZfVWtLMFN1SjNkY2RYcFl6M21ia2RCaDJKenVWVlU?oc=5",
      "bron": "De Telegraaf",
@@ -828,20 +832,20 @@
      "sorteer": "2026-11-24T19:08:06.043+01:00"
     },
     {
+     "titel": "Beleidsreactie WODC onderzoek Criminaliteit onder minderjarige en jongvolwassen vrouwen",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "07-09",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D41250",
+     "sorteer": "2026-11-25T07:56:28.693+01:00"
+    },
+    {
      "titel": "Voortgang aanpak woondiscriminatie",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
      "tijd": "04-11",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D55367",
      "sorteer": "2026-11-24T16:03:39.783+01:00"
-    },
-    {
-     "titel": "Aanpak online en hybride geweld",
-     "bron": "Brief van de regering",
-     "kop": "Brieven en moties",
-     "tijd": "03-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D55204",
-     "sorteer": "2026-11-24T15:45:02.937+01:00"
     },
     {
      "titel": "Motie van het lid Moorman c.s. over ondersteuning van initiatieven voor de veiligheid en emancipatie  van lhbtiq+-mensen in…",
@@ -907,7 +911,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "07:00",
+    "bijgewerkt": "08:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1512,28 +1516,28 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": -2.1,
+    "nu": -2.4,
     "gevoel": -7.7,
-    "wind": "O 3",
+    "wind": "ONO 3",
     "station": "Heino",
     "bericht": "Een hogedrukgebied boven Scandinavië zorgt voor een stevige oostelijke stroming, waarmee koude lucht wordt aangevoerd. Dat is goed te merken aan de temperatuur. De zon schijnt bijna overal en er staat een schrale wind.Vanochtend schijnt de zon en komt er in het zuiden ook sluierbewolking voor.",
     "vandaag": "Vanochtend schijnt de zon en komt er in het zuiden ook sluierbewolking voor. Voor het gevoel blijft het de hele ochtend matig vriezen!Vanmiddag is het zonnig, met in het zuiden duidelijk meer bewolking.",
     "temperatuur": "De middagtemperatuur varieert van iets boven het vriespunt in het noordoosten tot maximaal 4 graden in Zeeland.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -2 tot 1 graden, droog, ruim 7 uur zon, wind uit het oosten, kracht 4.",
-     "max": 1,
+     "zin": "Voor Dalfsen zelf: -2 tot 2 graden, droog, ruim 6 uur zon, wind uit het oosten, kracht 4.",
+     "max": 2,
      "min": -2,
      "regenkans": 0,
      "omschrijving": "bewolkt",
      "morgen": {
-      "max": 0,
+      "max": 1,
       "min": -4,
       "regenkans": 0,
       "omschrijving": null
      }
     },
     "vooruit": "Perioden met zon en droog. Koud met in de nacht en ochtend overwegend lichte vorst, overdag enkele graden boven nul. Vanaf zondag iets minder koud en mogelijk wat regen.",
-    "omslag": "Nachtvorst in aantocht: morgen tot -3 graden.",
+    "omslag": "Nachtvorst in aantocht: morgen tot -4 graden.",
     "min": "-2",
     "max": "2",
     "regenkans": 0,
@@ -1541,7 +1545,7 @@
     "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
     "morgen": {
      "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
-     "min": "-3",
+     "min": "-4",
      "max": "1",
      "regenkans": 0
     }
