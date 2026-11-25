@@ -7,10 +7,11 @@
   "blokken": 11,
   "berichten": 101,
   "problemen": [],
-  "audio_herkomst": null
+  "audio_herkomst": "model",
+  "audio_aangehaakt": "06:06"
  },
  "opgehaald": "2026-11-25T05:55+01:00",
- "audio": null,
+ "audio": "audio/20261125.mp3",
  "afval": [
   {
    "datum": "2026-11-27",
@@ -49,7 +50,58 @@
    "afwijkend": false
   }
  ],
- "duiding": [],
+ "duiding": [
+  {
+   "titel": "OM eist levenslang voor Moshtag B.",
+   "tekst": "Het OM eist levenslang tegen Moshtag B. als meesterbrein van de explosie aan de Haagse Tarwekamp, waarbij op 7 december 2024 zes mensen omkwamen (17, 18). Die aanslag was volgens het OM wraak op zijn ex-vriendin, eigenaresse van de bruidsmodezaak in het pand (17). Daarvoor bereidden de verdachten zich maandenlang voor, onder meer met onderzoek naar de brandbaarheid van bruidsjurken (17). Tegen de drie medeverdachten eist het OM 30, 28 en 4 jaar (17).",
+   "verwijzingen": [
+    {
+     "titel": "OM eist levenslang tegen opdrachtgever dodelijke explosie Tarwekamp",
+     "link": "https://nos.nl/l/2640862",
+     "bron": "NOS",
+     "tijd": "18:36",
+     "nummers": [
+      17
+     ]
+    },
+    {
+     "titel": "OM eist levenslang in Tarwekamp-zaak: ‘Het was sowieso waanzin’",
+     "link": "https://www.volkskrant.nl/binnenland/om-eist-levenslang-in-tarwekamp-zaak-het-was-sowieso-waanzin~b46c597c/",
+     "bron": "de Volkskrant",
+     "tijd": "19:22",
+     "nummers": [
+      18
+     ]
+    }
+   ],
+   "geschreven": "06:06"
+  },
+  {
+   "titel": "Nvidia haalt vertrokken Huang terug",
+   "tekst": "Nvidia heeft Jensen Huang teruggehaald als topman, anderhalve week nadat hij moest vertrekken om affaires, onder meer met een vrouw die de NOS en Nieuwsuur als Chinese spion aanduiden (3, 24). Die terugkeer kwam volgens Nieuwsuur zelfs voor de hoogste leiding van het bedrijf als verrassing (24). Daarop bood Huang medewerkers excuses aan voor het schenden van de gedragscode die hij zelf heeft opgesteld (3).",
+   "verwijzingen": [
+    {
+     "titel": "Jensen Huang zegt bij terugkomst Nvidia 'sorry' tegen medewerkers en is in therapie",
+     "link": "https://nos.nl/l/2640898",
+     "bron": "NOS",
+     "tijd": "22:58",
+     "nummers": [
+      3
+     ]
+    },
+    {
+     "titel": "Nieuwsuur: Reconstructie Nvidia • Partij voor de Dieren bestaat 20 jaar • Gokken op einde der tijden",
+     "link": "https://nos.nl/l/2640829",
+     "bron": "NPO2 · 22:00",
+     "tijd": "22:00",
+     "nummers": [
+      24
+     ]
+    }
+   ],
+   "geschreven": "06:06"
+  }
+ ],
  "denkwerk": {
   "tekst": "Maar al het voortreffelijke is even moeilijk als zeldzaam.",
   "wie": "Baruch de Spinoza",
@@ -79,7 +131,50 @@
   "link": "https://waarneming.nl/observation/381223528/",
   "zeldzaam": 1
  },
- "verder": [],
+ "verder": [
+  {
+   "kop": "Verdachte drugslabs zegt bedreigd",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3722917/failliete-ondernemer-met-drugslabs-in-ijsselmuiden-en-enschede-ben-zwaar-bedreigd",
+   "bron": "RTV Oost",
+   "titel": "Failliete ondernemer met drugslabs in IJsselmuiden en Enschede: 'Ben zwaar bedreigd'"
+  },
+  {
+   "kop": "Rechter spreekt Zwollenaar vrij",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3722887/zeven-jaar-cel-geeist-maar-zwolse-vastgoedman-vrijgesproken-in-zaak-drugslabs",
+   "bron": "RTV Oost",
+   "titel": "Zeven jaar cel geëist, maar Zwolse vastgoedman vrijgesproken in zaak drugslabs"
+  },
+  {
+   "kop": "Brand woedt op dak Tata Steel",
+   "blok": "nationaal",
+   "link": "https://nos.nl/l/2640908",
+   "bron": "NOS",
+   "titel": "Korte tijd grote brand op terrein Tata Steel"
+  },
+  {
+   "kop": "Terreurtoerist verliest paspoort",
+   "blok": "nationaal",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdGI1ckFzYTBKSklKeFNDXzZOVkl3STBIcHpJRW9CYk5vYk5LRzJ5LW1XaWM0Y0N2aXduNUFXMHlSS1Z2b1EtMm9HSXdKZHYxWWpLakxmRkV4TUktT0luLV8tbzVuR3REV2xtb2hZVEl6OGh6RmlwMWJBNFFkMUZsQ19OZEI2cWlpQVRXSGFXaGc0LU1pWllpUGFzY3VmWlQ4eWxJSGxCRzh5enhDVUdVQzhETVJoRHVGenVqb1B1UHZFYWloM2NOUmFrTTZlUFJBa3p3LTRYUk5EaGM?oc=5",
+   "bron": "De Telegraaf",
+   "titel": "’Terreurtoerist’ raakt Nederlands paspoort kwijt bij aansluiten terreurorganisatie in buitenland"
+  },
+  {
+   "kop": "Hongaarse premier bezoekt Oekraïne",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2640891",
+   "bron": "NOS",
+   "titel": "Hongaarse premier bezoekt Oekraïne voor het eerst sinds 2015: 'Historische dag'"
+  },
+  {
+   "kop": "Mexicaans leger pakt kartelbaas op",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2640910",
+   "bron": "NOS",
+   "titel": "Arrestatie van weer een kartelbaas stort Mexicaans volk in onzekerheid"
+  }
+ ],
  "blokken": [
   {
    "id": "internationaal",
@@ -1453,5 +1548,15 @@
     }
    }
   }
+ ],
+ "archief": [
+  "2026-11-25",
+  "2026-11-24",
+  "2026-11-23",
+  "2026-11-22",
+  "2026-11-21",
+  "2026-11-20",
+  "2026-11-19",
+  "2026-11-18"
  ]
 }
