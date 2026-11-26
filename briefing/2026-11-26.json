@@ -1,17 +1,17 @@
 {
  "datum": "2026-11-26",
- "naam": "Middagbriefing",
+ "naam": "Avondbriefing",
  "status": {
-  "ronde": "Middagbriefing",
-  "opgehaald": "17:00",
+  "ronde": "Avondbriefing",
+  "opgehaald": "18:00",
   "blokken": 11,
-  "berichten": 107,
+  "berichten": 109,
   "problemen": [
    "AI Report: geen berichten in de archiefpagina gevonden"
   ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-26T17:00+01:00",
+ "opgehaald": "2026-11-26T18:00+01:00",
  "audio": "audio/20261126.mp3",
  "afval": [
   {
@@ -201,6 +201,24 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Twee Italianen omgekomen bij Iraanse droneaanval op Koeweit",
+     "context": "Bij een Iraanse droneaanval op Koeweit zijn twee Italianen omgekomen. De twee werkten daar als technici voor de Duitse wapenfabrikant Rheinmetall. Volgens de Italiaanse minister van Buitenlandse Zaken Tajani waren de slachtoffers aan het werk bij een luchtverdedigingsstation toen dit werd bestookt door Iraanse drones. Het zijn twee mannen van 36 en 65 jaar oud. Ze waren bezig met onderhoudswerkzaa",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2641131",
+     "bron": "NOS",
+     "tijd": "17:45",
+     "sorteer": "2026-11-26T17:45:05+01:00"
+    },
+    {
+     "titel": "Franse acteur Gérard Depardieu moet terechtstaan voor verkrachting",
+     "context": "Acteur Gérard Depardieu moet terechtstaan voor een verkrachting in 2018. De 77-jarige Fransman had het gerechtshof in Parijs gevraagd om af te zien van een rechtszaak, maar dat verzoek is verworpen. De zaak is aangespannen door actrice Charlotte Arnould. Zij zegt dat de acteur haar heeft verkracht toen ze acht jaar geleden in zijn woning in Parijs was. Depardieu ontkent de beschuldiging en zegt da",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2641130",
+     "bron": "NOS",
+     "tijd": "17:41",
+     "sorteer": "2026-11-26T17:41:23+01:00"
+    },
+    {
      "titel": "Spanjaard Hernández de Cos wordt president ECB, Klaas Knot grijpt naast Europese topfunctie",
      "context": "De Spanjaard Pablo Hernández de Cos wordt de nieuwe president van de Europese Centrale Bank (ECB). Hij volgt in februari de Franse Christine Lagarde op, die de functie sinds 2019 vervult. Op de EU-top is Hernández de Cos (55) naar voren geschoven als kandidaat. Daarmee grijpt Nederlander Klaas Knot, de voormalige president van De Nederlandsche Bank, naast de Europese topfunctie. De benoeming was e",
      "rubrieken": [],
@@ -228,22 +246,13 @@
      "sorteer": "2026-11-26T14:15:32+01:00"
     },
     {
-     "titel": "Miljoen datacenters van Musk in de ruimte? 'Maak me zorgen of het veilig kan'",
-     "context": "De Amerikaanse autoriteiten hebben Elon Musk toestemming gegeven om met zijn bedrijf SpaceX een miljoen datacenters in de ruimte te brengen. Wetenschappers zetten echter grote vraagtekens bij de haalbaarheid en de veiligheid van het plan. \"Dat je het kan doen, wil niet zeggen dat je het ook móet doen\", waarschuwt satellietdeskundige Marco Langbroek van de TU Delft. Communicatiewaakhond FCC had gee",
+     "titel": "Miljardair Todd Boehly weet precies hoe hij kan profiteren van oliesancties tegen Rusland, dankzij Trump",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2641100",
-     "bron": "NOS",
-     "tijd": "12:49",
-     "sorteer": "2026-11-26T12:49:27+01:00"
-    },
-    {
-     "titel": "Te koop voor 1000 euro: een kringloopkerstbal met Jezus en een bijzonder oogje",
-     "context": "Een kerstbal kan voor een paar euro gekocht worden bij een willekeurig tuincentrum om de hoek, maar wie een bijzonder exemplaar wil moet naar een kringloop in de Belgische stad Sint-Niklaas. Daar kan geboden worden op een volledig glazen bal in het roze en blauw, met in het midden het kindje Jezus. Wie deze bal wil hebben, moet wel de portemonnee trekken. Kringloopzaak Den Azalee heeft voor dit bi",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2641095",
-     "bron": "NOS",
-     "tijd": "12:23",
-     "sorteer": "2026-11-26T12:23:46+01:00"
+     "link": "https://www.volkskrant.nl/buitenland/miljardair-todd-boehly-weet-precies-hoe-hij-kan-profiteren-van-oliesancties-tegen-rusland-dankzij-trump~bdffc31f/",
+     "bron": "de Volkskrant",
+     "tijd": "17:32",
+     "sorteer": "2026-11-26T16:32:13+00:00"
     },
     {
      "titel": "Twee Italiaanse mannen gedood door droneaanvallen in Koeweit, zegt Italië",
@@ -255,15 +264,6 @@
      "sorteer": "2026-11-26T15:57:00+00:00"
     },
     {
-     "titel": "ICE arresteert Salvadoraan nadat hij 1 miljoen dollar in de loterij heeft gewonnen",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/ice-arresteert-salvadoraan-nadat-hij-1-miljoen-dollar-in-de-loterij-heeft-gewonnen~b408dbb4/",
-     "bron": "de Volkskrant",
-     "tijd": "15:22",
-     "sorteer": "2026-11-26T14:22:04+00:00"
-    },
-    {
      "titel": "Myanmar legt zich niet neer bij genocideuitspraak ICJ",
      "context": "",
      "rubrieken": [],
@@ -273,28 +273,67 @@
      "sorteer": "2026-11-26T15:14:43+00:00"
     },
     {
-     "titel": "Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US",
-     "context": "More than 80 million Americans are expected to be traveling as severe weather is forecast on the western and eastern coasts of the US.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "16:57",
-     "sorteer": "2026-11-26T15:57:26+00:00",
+     "titel": "Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal – UK politics live",
+     "context": "In a WhatsApp exchange Mandelson told Starmer’s chief of staff at the time, Morgan McSweeney, to ‘solve your Darren issue’ – referring to Darren Jones The Liberal Democrats are saying the UK needs a proper plan for immigration. This is from the party’s asylum and immigration spokesperson, Paul Kohler . Britain needs to regain control of its immigration system after the chaos of Brexit. Yet sixteen",
+     "rubrieken": [
+      "Politics",
+      "UK news",
+      "Labour",
+      "Brexit",
+      "European Union",
+      "Trade policy",
+      "Peter Mandelson",
+      "Migration",
+      "Immigration and asylum",
+      "Europe",
+      "Foreign policy",
+      "Reform UK",
+      "Nigel Farage",
+      "Homelessness"
+     ],
+     "link": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
+     "bron": "The Guardian",
+     "tijd": "17:50",
+     "sorteer": "2026-11-26T16:50:38+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Politician hosts 400,000 guests at daughter’s wedding in India’s poorest state",
-     "context": "Six helipads built and feast prepared by 500 cooks for wedding hosted by Anant Singh, an MP charged with murder It takes a brave soul to try to match the mythic opulence of the wedding arranged by the Indian billionaire Mukesh Ambani for his son Anant in 2024. Estimates of the cost for the months-long celebration ran to at least $600m, with world leaders and celebrities among those on the guest li",
+     "titel": "Italy says two citizens killed in Iranian strike in Kuwait",
+     "context": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "17:39",
+     "sorteer": "2026-11-26T16:39:30+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Nine injured, three critically, after Bangkok oil refinery explosion",
+     "context": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "17:21",
+     "sorteer": "2026-11-26T16:21:19+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Sweden’s Kristersson edges closer to new term as prime minister",
+     "context": "Social Democratic candidate Magdalena Andersson failed to find majority, dealing a heavy blow to EU Socialists.",
      "rubrieken": [
-      "India",
-      "World news",
-      "South and central Asia"
+      "Cooperation",
+      "Elections",
+      "Parliament",
+      "Platforms",
+      "Politics"
      ],
-     "link": "https://www.theguardian.com/world/2026/nov/26/india-anant-singh-hosts-400000-guests-wedding-guests-daughter",
-     "bron": "The Guardian",
-     "tijd": "16:41",
-     "sorteer": "2026-11-26T15:41:42+00:00",
+     "link": "https://www.politico.eu/article/sweden-kristersson-edges-closer-new-term-prime-minister/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "17:11",
+     "sorteer": "2026-11-26T16:11:18+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -315,39 +354,6 @@
      "bron": "New York Times",
      "tijd": "16:27",
      "sorteer": "2026-11-26T15:27:03+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "New UK-EU treaty has 10-year termination clause",
-     "context": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "16:23",
-     "sorteer": "2026-11-26T15:23:17+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "EU Commission offers little in response to US drug pricing pressures",
-     "context": "Some members of the European Parliament suggested the EU should consider its Anti-Coercion Instrument.",
-     "rubrieken": [
-      "Anti-coercion instrument",
-      "Competition",
-      "Drug pricing",
-      "Medicines",
-      "Pharma",
-      "Tariffs",
-      "Trade",
-      "Health Care",
-      "Trade",
-      "Trade UK"
-     ],
-     "link": "https://www.politico.eu/article/eu-commission-offers-little-in-response-to-us-drug-pricing-pressures/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "15:58",
-     "sorteer": "2026-11-26T14:58:49+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -378,7 +384,7 @@
     },
     {
      "titel": "Vondst van lichaam in vriezer wijst op breder probleem met getraumatiseerde jongeren",
-     "context": "De dood van de Syrische jongen Muhammed, die deze week in een vrieskist in de Utrechtse wijk Pijlsweerd werd gevonden, staat volgens hulpverleners niet op zichzelf. Er zijn meer alleenstaande minderjarige vluchtelingen die te maken hebben met trauma's, verslaving en dakloosheid. Voor deze kwetsbare groep is passende hulp vaak moeilijk te vinden. In Pijlsweerd spreekt fractievoorzitter Mahaar Fatta",
+     "context": "De dood van de Syrische jongen Mohammed, die deze week in een vrieskist in de Utrechtse wijk Pijlsweerd werd gevonden, staat volgens hulpverleners niet op zichzelf. Er zijn meer alleenstaande minderjarige vluchtelingen die te maken hebben met trauma's, verslaving en dakloosheid. Voor deze kwetsbare groep is passende hulp vaak moeilijk te vinden. In Pijlsweerd spreekt fractievoorzitter Mahaar Fatta",
      "rubrieken": [],
      "link": "https://nos.nl/l/2641120",
      "bron": "NOS",
@@ -422,39 +428,32 @@
      "sorteer": "2026-11-26T14:54:00+00:00"
     },
     {
-     "titel": "Moeder verdacht van doodsteken zoon (12) in Eerbeek naar Pieter Baan Centrum",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOWlhXzNLNF9qc1RtQW9PT3dvS3NuUnEwcVpBbEZESWJKOWlDTlRza005NXpPdEEyel9vNnBlRzQ2M0N0em1RYzFyTzZZXzJtNklzRmdxRjRXenVxMm9IdXpSOFliYm9YNTlpbVpWbEYtWVM0T3hoekJQclBiS2NreDVwQVJFNHVOYTBXbmdab2s2QmpQdGh6dkZoUFJUdGFRLUcyWmVsSmYyMVhnNUowUkoxdGplejA3amlUb3d6cm5rb0E?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "16:52",
-     "sorteer": "2026-11-26T15:52:41+00:00"
-    },
-    {
-     "titel": "Hof legt fors lagere straffen op voor vroeger topkader van Satudarah MC",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONlNveEw5TTNadFNtR0pFNUZGMU9SVFZTUVE2U09wREdYXzJUV3d4S0NqdmhRVm9oZktsVWsxRzh5VlJEeDJUZ25Ha1RxaXFRU1ItdVNwNE4zZkRyd3RuNmk5V1A2UmhQUU9feFQ1N3V1bmVCTWpOc29ib3dzeWhUSkhlVHNVSkNGMjB5bnJ6MjVfalY4XzNfdFFDTVE2SFE4OTdrQkFxOGxTX01oWnBYMi1kOFRzNW5TN3c?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "16:45",
-     "sorteer": "2026-11-26T15:45:00+00:00"
-    },
-    {
      "titel": "Doorbraak in vijf oude zedenzaken door nieuw DNA-onderzoek NFI: ’We hebben goud in handen’",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVXRiTTVUc2pjelFOX0Y2cUpHdmoxSGwtd0FMcUpOX044UjRpTU42cWlnb1JveG1MeVYycHo1Z0ZtZUFRcnNvWmtXOU5ZNTc1d0g3VjI4R3VpZVZZdkM0dmZKTWpKZ3Rxd2FPdWpRamdWM015LUY4NUVTM2lHM1RmNGpNYWM1ZzN4VmJMQXR2UlE4OUxOUjhIMk15d1p5N0ZabEFsSnVYMWJtV2FoS1lMU0U0YXlSZzFQc2ZWTWtIQWNfSVJiMTJsSjVkTTZjMVRM?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "16:06",
-     "sorteer": "2026-11-26T15:06:38+00:00"
+     "tijd": "17:34",
+     "sorteer": "2026-11-26T16:34:31+00:00"
     },
     {
-     "titel": "Lezers: ’Lezers: Yesilgöz moet kiezen’",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOenlRdDhqdEhER3NlSXlBeUlGQnVrQnJyUmVfRHNFOGhDZ2pRYl9zYS1vaWNrbW9zU2dySVRwU05LN2xKLVp2eHc4Mi1lSVV1Z2FGQlV0RnQyS0VHcnN4by1KTG5qOVJfVUZkNjZSbzRDM1NIVGVsRlptTXZtTnRHM1YzamtlanBFYUJHX1R3?oc=5",
+     "titel": "Moeder verdacht van doodsteken zoon (12) in Eerbeek naar Pieter Baan Centrum",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOWlhXzNLNF9qc1RtQW9PT3dvS3NuUnEwcVpBbEZESWJKOWlDTlRza005NXpPdEEyel9vNnBlRzQ2M0N0em1RYzFyTzZZXzJtNklzRmdxRjRXenVxMm9IdXpSOFliYm9YNTlpbVpWbEYtWVM0T3hoekJQclBiS2NreDVwQVJFNHVOYTBXbmdab2s2QmpQdGh6dkZoUFJUdGFRLUcyWmVsSmYyMVhnNUowUkoxdGplejA3amlUb3d6cm5rb0E?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "15:36",
-     "sorteer": "2026-11-26T14:36:26+00:00"
+     "tijd": "17:16",
+     "sorteer": "2026-11-26T16:16:45+00:00"
     },
     {
-     "titel": "Paniek na explosie tankwagen in Egypte: zeker 31 doden",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNDVUM3RjN2lsM2drUUNOM2ZWNmRnNU1EZXV3cjNNaHdMU1hTQXhQRVFWNjRxZEtEWlU3Q0h1SUhpbTB1MWlpQm1VVzZhU1pTUUswX3ozcGQ4OUQySGhBTl9rb3dMbDVWZGk2b2NhanFPUUp6aTBOME5BcThrRVgwVHItbnJ4bUZaX2k1aWJhZW9ha3VUWkxVYnd3Z3VnQmly?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "15:30",
-     "sorteer": "2026-11-26T14:30:02+00:00"
+     "titel": "Buma wil volgende week fractievoorzitters uitnodigen voor gesprek",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkNVQ0ZhVlhpZEJHZ0Fud1YycUtiWEY5UmtzNGNYY1ZNbXM3RXMtSmtFRnNyNjNBZlU5SEFmal9fNUNTRmtwUlhoaE1iV1p1NHdSM0dwdElFRHg3dndGN1NvY09PN0N0TlJrNXB6VHRISVo0cUt5cjUxYWJCTVNjOGFfaF9ROENyMi1ZWmFpTW5kbm9DQmc?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "17:57",
+     "sorteer": "2026-11-26T16:57:08+00:00"
+    },
+    {
+     "titel": "Kandidaat-lijsttrekker VVD-senaatsfractie Micky Adriaansens noemt kandidaatstelling Weekers via tv ‘niet chic’",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQnpvYmFWVzZrMFJhal8xZkZBMGFobUdqQlFjZWtva1Q1MjBaWDRFM21qRWNPZzA1eG03d012TU5TSVVNTFNEaWcxRGRhRUhVVWg1eTVFZTRrQ1pxWFgwQTFGeEpzMTVnYXYtc1VsNHZqd3hwWWp2enlCYUtSdTl6clBaZnMzMzJoNzBBN1lkbjIyWlZlQlA2SG1Ub0pKNkNmRW93YTVsUmtVWDhWbzZGdUw0VWRfRkxzam1vY29UTEU4VjF3V0VDM09KWDVIM1RIOU1HbnJGWElSLVVtU3c?oc=5",
+     "bron": "Brabants Dagblad",
+     "tijd": "17:34",
+     "sorteer": "2026-11-26T16:34:07+00:00"
     },
     {
      "titel": "Zo werd Ter Apel ‘Ter Apel’: een geschiedenis van de asielcrisis in zeven fragmenten",
@@ -471,11 +470,27 @@
      "sorteer": "2026-11-26T04:45:04+00:00"
     },
     {
+     "titel": "Buma voert eerste gesprekken na kabinetscrisis over belastingplan",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZXNnMEo0Ti1JS0JFaUFjbEZER2drMEl6eXVySVF4UzZXY0tZWFo4UWpGZTYzcFQ2Rmg5c1BUaVQzMkEwNUZfQTdmeEs0SVdubXZDOENlWWdrSzNTd2xIblREWTV4UnYtME1KRXlHYUhjT09YTG9hdVlNMG5KaHQxaDZZNVFqdGk3MDlVVHFsOHkzOV82aExHQmlBdFA3dUMxcnlybUszam43dGRSTmdXNGNwYWYyalU?oc=5",
+     "bron": "RTL.nl",
+     "tijd": "17:47",
+     "sorteer": "2026-11-26T16:47:19+00:00",
+     "kop": "Begroting"
+    },
+    {
      "titel": "Keert na belastingplan-bonje en ’bypass via Buma’ de rust terug in Den Haag?",
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX1FJQ29qVV9QZUg2aDJqdUxhcEV1Vmt0Q0g1QWE3eUxQVTlkZHBuRHEydWNFdHZ3UjkyMWNjVGFuU05VeVQ1eWU5ZERYeWZ2OFJFWjJTbTNwSW1lZ25pV1d0SDJoeS1xUW1keHJpSUNjU0dyVjRrSWYya1BGZ0xhb0w5Wlp2NGQzWlh0eU1zLWtqSnJ1WVRLOFVLNHpVYnNJQ1V2MlVMUTgzWGJ5dzlPSF9QZHVZQ3hKamdCcUlxcw?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "16:56",
-     "sorteer": "2026-11-26T15:56:42+00:00",
+     "tijd": "17:16",
+     "sorteer": "2026-11-26T16:16:45+00:00",
+     "kop": "Begroting"
+    },
+    {
+     "titel": "Kooigevechten in Brussel om de Europese begroting - 26 november 2026",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUFc3bFJkZFdJNFkwd3huYUU3cXRNZGUyUWxkVEpaZ2tTcU10ZWdlLTc3Q01KQ0hjeHFldm5SWGtkN2NDcHFDNjBtdHdfeVhVZnEzb3Z6Y2tzYmRMMFNuSm11c19RN2ZpRDQ2SWM0YkZwSjFhcmQySnkzTjZ4QUlaeHlXRFVBV3JJcXloYXRfU2V4emMwMDhYcElWdDJNNUVuRFRvY2pmVHVBUUkySWZjWGV0Y0JWVTFXTGgtYVJvRlM?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "17:12",
+     "sorteer": "2026-11-26T16:12:26+00:00",
      "kop": "Begroting"
     },
     {
@@ -507,8 +522,8 @@
      "kop": "Vanavond op tv"
     },
     {
-     "titel": "Pauw & De Wit",
-     "link": "https://npo.nl/start/serie/pauw-de-wit",
+     "titel": "Pauw & De Wit: Bart van den Brink, Gerard Spong, Marleen de Rooy & Saskia Belleman",
+     "link": "https://www.bnnvara.nl/pauw-de-wit/artikelen/donderdagavond-met-oa-bart-van-den-brink-gerard-spong-marleen-de-rooy-saskia-belleman",
      "kop": "Vanavond op tv",
      "bron": "NPO1 · 22:30",
      "tijd": "22:30",
@@ -521,6 +536,42 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Een nacht in de vrieskou: medewerkers Tactus ervaren het leven op straat",
+     "context": "Met een gevoelstemperatuur van onder het vriespunt is bijna niemand graag op straat. Toch is dat precies wat medewerkers van Tactus doen in onder meer Enschede, Zwolle en Almelo. Hun doel: zoveel mogelijk buitenslapers naar de noodopvang krijgen en zélf eens in de kou overnachten.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3723823/een-nacht-in-de-vrieskou-medewerkers-tactus-ervaren-het-leven-op-straat",
+     "bron": "RTV Oost",
+     "tijd": "17:15",
+     "sorteer": "2026-11-26T16:15:09+00:00"
+    },
+    {
+     "titel": "Opmars van de e-truck: 'Eenmaal elektrisch, nooit meer terug naar diesel'",
+     "context": "Elektrische auto's zijn inmiddels een vertrouwd gezicht op de weg, maar bij vrachtwagens gaat de overstap minder hard. Toch wint de elektrische truck terrein. Op de Internationale Dag van het Duurzame Transport blijkt ook in Overijssel dat de diesel serieuze concurrentie heeft.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3723909/opmars-van-de-e-truck-eenmaal-elektrisch-nooit-meer-terug-naar-diesel",
+     "bron": "RTV Oost",
+     "tijd": "16:34",
+     "sorteer": "2026-11-26T15:34:54+00:00"
+    },
+    {
+     "titel": "Klachten over kerosinelucht rond Destinus in Hengelo, bedrijf neemt maatregelen",
+     "context": "Bedrijven in de omgeving van Destinus in Hengelo hebben last van een sterke kerosinelucht die afkomstig is van de wapenfabrikant. Bij de Omgevingsdienst Twente (ODT) zijn hier meerdere klachten over binnengekomen. Het bedrijf neemt op last van de gemeente maatregelen.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3723830/klachten-over-kerosinelucht-rond-destinus-in-hengelo-bedrijf-neemt-maatregelen",
+     "bron": "RTV Oost",
+     "tijd": "15:35",
+     "sorteer": "2026-11-26T14:35:45+00:00"
+    },
+    {
+     "titel": "Gered van de sloop, 20 jaar buiten beeld: dit kunstwerk keert terug in Deventer",
+     "context": "Vrijwilligers redden het twintig jaar geleden van de sloop. Nu is het vijftien meter brede glaskunstwerk van de Deventer kunstenaar Willy Zandvliet weer te bewonderen. Het bepaalt zelfs de kleuren van de nieuwe vmbo-school de Marke.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3723728/gered-van-de-sloop-20-jaar-buiten-beeld-dit-kunstwerk-keert-terug-in-deventer",
+     "bron": "RTV Oost",
+     "tijd": "14:31",
+     "sorteer": "2026-11-26T13:31:54+00:00"
+    },
     {
      "titel": "Isala brengt eigen geneesmiddel op de markt: 'Naam blijft geheim'",
      "context": "Isala ziekenhuizen heeft als eerste Nederlandse ziekenhuis een eigen geneesmiddel geregistreerd. Het middel kan gebruikt worden bij een plotselinge daling van de bloeddruk en wordt toegepast via een kant-en-klare medicatiespuit. De naam van het geneesmiddel blijft geheim.",
@@ -538,44 +589,6 @@
      "bron": "RTV Oost",
      "tijd": "11:57",
      "sorteer": "2026-11-26T10:57:23+00:00"
-    },
-    {
-     "titel": "Jonge vrouw verdient meer dan man, maar later draait dat om",
-     "context": "Een op de tien vrouwen werkt vanaf vandaag de rest van het jaar voor niets. Daar vraagt Equal Pay Day aandacht voor. Volgens beloningsdeskundige Marc Altink ontstaat de loonkloof vooral later in de loopbaan, en wel op een specifiek moment. Nieuwe Europese regels moeten loonverschillen inzichtelijker maken.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3723194/jonge-vrouw-verdient-meer-dan-man-maar-later-draait-dat-om",
-     "bron": "RTV Oost",
-     "tijd": "11:27",
-     "sorteer": "2026-11-26T10:27:53+00:00"
-    },
-    {
-     "titel": "Kozijnenhandelaar, zorgbureau en vuurhaarden: deze bedrijven gingen failliet",
-     "context": "Nadat ze een aanbetaling hadden gedaan en de kunststofkozijnen uitbleven, vroegen teleurgestelde klanten het faillissement aan van KBN Montage. Maar vooralsnog is de directeur-bestuurder onvindbaar. Behalve het kozijnenbedrijf gingen deze week onder meer een hovenier en wasstraat op de fles.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3723277/kozijnenhandelaar-zorgbureau-en-vuurhaarden-deze-bedrijven-gingen-failliet",
-     "bron": "RTV Oost",
-     "tijd": "10:27",
-     "sorteer": "2026-11-26T09:27:26+00:00"
-    },
-    {
-     "titel": "Strijd om mountainbikeroute Sallandse Heuvelrug belandt bij Raad van State",
-     "context": "De mountainbikeroute op de Sallandse Heuvelrug ligt onder vuur vanwege honderden dode hagedissen en hazelwormen. Het Recreatieschap Twente is het niet eens met de opgelegde beperkingen en dwangsom en legt de kwestie voor aan de Raad van State.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3723241/strijd-om-mountainbikeroute-sallandse-heuvelrug-belandt-bij-raad-van-state",
-     "bron": "RTV Oost",
-     "tijd": "08:01",
-     "sorteer": "2026-11-26T07:01:31+00:00"
-    },
-    {
-     "titel": "Kat Tijger doodgeschoten in Hengelo: 'Kinderen zijn er kapot van'",
-     "context": "Een onschuldige middag veranderde in een nachtmerrie voor de familie Börger uit Hengelo. Hun geliefde kater Tijger kwam zwaargewond thuis nadat hij buiten was beschoten. De dierenarts kon hem niet meer redden. \"Hoe ziek ben je om zoiets te doen? Je maakt ons kapot.\"",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3723353/kat-tijger-doodgeschoten-in-hengelo-kinderen-zijn-er-kapot-van",
-     "bron": "RTV Oost",
-     "tijd": "07:02",
-     "sorteer": "2026-11-26T06:02:00+00:00"
     },
     {
      "titel": "Er is een familiebericht geplaatst",
@@ -610,6 +623,16 @@
    "emoji": "🚔",
    "items": [
     {
+     "titel": "Zwolle - Explosie aan de Schoolstraat in Zwolle",
+     "context": "Aan de Schoolstraat in Zwolle liet iemand een explosief afgaan bij een woning. Weet u wie hij of zij is? Neem dan alstublieft contact met ons op.",
+     "rubrieken": [],
+     "link": "https://www.politie.nl/gezocht/opsporingsbericht/2026/oktober/02-explosie-aan-de-schoolstraat-in-zwolle",
+     "bron": "Politie Zwolle",
+     "tijd": "17:15",
+     "sorteer": "2026-11-26T16:15:00+00:00",
+     "kop": "Politie"
+    },
+    {
      "titel": "Zwolle - Diefstal uit juwelierszaak Zwolle",
      "context": "Aan de Diezerstraat in Zwolle stal deze man een gouden armband. Herkent u hem? Neem dan contact met ons op!",
      "rubrieken": [],
@@ -617,16 +640,6 @@
      "bron": "Politie Zwolle",
      "tijd": "21:10",
      "sorteer": "2026-11-16T20:10:00+00:00",
-     "kop": "Politie"
-    },
-    {
-     "titel": "Zwolle - Verschillende gouden sieraden gevonden bij mogelijke oplichters",
-     "context": "Op de A28 bij Zwolle troffen we bij een voertuigcontrole sieraden aan die vermoedelijk zijn gestolen. Mogelijk door mensen op te lichten. Dit kan in heel Nederland zijn gebeurd. Denkt u dat ze van u zijn? Neem dan alstublieft contact met ons op.",
-     "rubrieken": [],
-     "link": "https://www.politie.nl/gezocht/opsporingsbericht/2026/augustus/02-eigenaar-gezocht-van-sieraden",
-     "bron": "Politie Zwolle",
-     "tijd": "17:15",
-     "sorteer": "2026-11-12T16:15:00+00:00",
      "kop": "Politie"
     },
     {
@@ -661,6 +674,14 @@
    "emoji": "🤖",
    "items": [
     {
+     "titel": "Antwoord op vragen van lid Michon-Derkzen over de berichten 'DNB: voor succesvolle toepassing AI moet starre polder worden…",
+     "bron": "Antwoord op Kamervragen",
+     "kop": "Uit de Tweede Kamer",
+     "tijd": "26-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D61343",
+     "sorteer": "2026-11-26T17:08:48.97+01:00"
+    },
+    {
      "titel": "Motie van het lid Van den Berg over borgen dat Nederland zelf beslist of en waar het datacenterversnellingszones aanwijst",
      "bron": "Motie",
      "kop": "Uit de Tweede Kamer",
@@ -685,14 +706,6 @@
      "sorteer": "2026-11-26T14:38:20.287+01:00"
     },
     {
-     "titel": "Antwoord op vragen van het lid Dassen over het NOS-bericht \"Een derde aangevraagde stroom komt van datacenters, genoeg voor 15…",
-     "bron": "Antwoord op Kamervragen",
-     "kop": "Uit de Tweede Kamer",
-     "tijd": "26-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D61101",
-     "sorteer": "2026-11-26T13:13:37.94+01:00"
-    },
-    {
      "titel": "Kabinetsreactie op het SER-advies over werk en AI",
      "bron": "Brief van de regering",
      "kop": "Uit de Tweede Kamer",
@@ -701,18 +714,11 @@
      "sorteer": "2026-11-26T09:39:24.247+01:00"
     },
     {
-     "titel": "Onderzoek: Nederlanders willen invloed AI op scholen beteugelen",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSkhsNThmWm1ZWWxTR3RzX044ME5JczZ5bEVDd0lmOWRqMkZPV2pDOXd6TG9RRUpnb3ZTdklEamVJSnlRczl2NF9laExxRUFhTWZaZ2NaZmhDUE40UzRRRnN3azJMU0E0RUZtWW1Id0xhNXVDNTRfdzBzQ0E2dUVNZGVGREdQZWc0WXVWa2JSYw?oc=5",
-     "bron": "Emerce",
-     "tijd": "12:09",
-     "sorteer": "2026-11-26T11:09:00+00:00"
-    },
-    {
-     "titel": "Leer hoe ChatGPT en AI werken tijdens gratis bijeenkomst in Hillegom",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS0ZXLXF2WFpUYWpJdVkyaDdvMkVBWm9Velc1Xzg3Y0xvNDVIbFNReTY0MjhzdGNOd0V4QXg2dzEyc2ZyRjM2aHJsY3pZelhNcnZKeF9VQTdiai1hcE5ISWtRZ3NMQ0J0SUtDMjIzSUVJXzRiU0hYVzFQMlBXcWVjaFFKNUwxMnJwV05EREZYS1BreVBhWnR6YVRyZHcyV2hOYjlKc2l6YnJhUQ?oc=5",
-     "bron": "AD.nl",
-     "tijd": "12:03",
-     "sorteer": "2026-11-26T11:03:09+00:00"
+     "titel": "AI-datacenters in de ruimte? “Als mensheid zouden we dit niet moeten willen”",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeC1UUGk1djJNQUdidS1rajRrRnF2ZXFsakNNeGtudWM0cUt1ZmtpblJYTTNuR1A5VGkzTjRmVzlGTWd4dW10cDVGWFZJTUF5MU1Ea3ZZTjh4VkRkUVExSHdabjI4V09wMWRjd2p0Y3BsMmEzVmpLX3dERF9GanJYYnJYamNoTnM5d1plMGFJdGtQR09yaTBfak1wVy1xQjBibnA5OXdvVTBGQlVjekJMOGNWVWVodDY1?oc=5",
+     "bron": "Bright",
+     "tijd": "17:00",
+     "sorteer": "2026-11-26T16:00:00+00:00"
     },
     {
      "titel": "Trump-angstcultuur is terug nu Huang weer Nvidia-baas is + Wat moeten we met die enorme storingen door AI?",
@@ -846,6 +852,14 @@
      "sorteer": "2026-11-26T14:51:35.09+01:00"
     },
     {
+     "titel": "Antwoord op vragen van het lid Van Houwelingen over de mogelijke inzet van Duitse politie in Polen",
+     "bron": "Antwoord op Kamervragen",
+     "kop": "Kamervragen",
+     "tijd": "26-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D61106",
+     "sorteer": "2026-11-26T13:15:18.34+01:00"
+    },
+    {
      "titel": "Antwoord op vragen van de leden Ceulemans en Boomsma over de gezinshereniging van een verdachte met 114 politieregistraties",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
@@ -854,20 +868,20 @@
      "sorteer": "2026-11-26T10:19:57.487+01:00"
     },
     {
-     "titel": "Nadere motivering inzake de vertrouwelijkheid van het noodplan asielketen EUAA",
+     "titel": "Veiligheid, regeldruk en toezicht kinderopvang",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
      "tijd": "26-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D61334",
-     "sorteer": "2026-11-26T16:53:19.047+01:00"
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D61380",
+     "sorteer": "2026-11-26T17:29:21.43+01:00"
     },
     {
-     "titel": "Uitvoeringsconsequenties latere invoering lagere regelgeving asielzoekers en werk",
+     "titel": "Weerbaar Bestuur en Monitor Integriteit en Veiligheid 2026",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
-     "tijd": "06-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D56260",
-     "sorteer": "2026-11-26T16:41:20.61+01:00"
+     "tijd": "26-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D61363",
+     "sorteer": "2026-11-26T17:25:20.2+01:00"
     },
     {
      "titel": "Motie van het lid Prickaertz over waarborgen dat aangiften van winkeldiefstal worden opgenomen, beoordeeld en opgevolgd",
@@ -949,7 +963,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "17:00",
+    "bijgewerkt": "18:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1381,6 +1395,14 @@
    "emoji": "🐦",
    "items": [
     {
+     "titel": "Brilzee-eend",
+     "kop": "Zeldzaamheden",
+     "bron": "Friesland",
+     "tijd": "16:01",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-26T16:01:00+01:00"
+    },
+    {
      "titel": "Humes Bladkoning",
      "kop": "Zeldzaamheden",
      "bron": "Gelderland",
@@ -1511,7 +1533,7 @@
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 319 vogels; 544 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 319 vogels; 550 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1547,13 +1569,13 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": -1.0,
-    "gevoel": -4.6,
-    "wind": "ONO 2",
+    "nu": -2.7,
+    "gevoel": -6.4,
+    "wind": "O 2",
     "station": "Heino",
-    "bericht": "Een hogedrukgebied zorgt de komende dagen voor winters weer. De temperatuur komt overdag nog maar nét boven het vriespunt uit en de komende nacht kan het matig gaan vriezen. Verder is er bijna overal een hoofdrol weggelegd voor de zon, totdat het komend weekend vaker bewolkt raakt.Vanmiddag schijnt de zon volop en blijft het in het hele land droog.",
-    "vandaag": "Vanmiddag schijnt de zon volop en blijft het in het hele land droog. De temperatuur komt vanmiddag slechts kort iets boven het vriespunt uit.",
-    "temperatuur": "De hoogste temperaturen vinden we langs de kust, waar het nog 2 graden kan worden.",
+    "bericht": "Het is koud novemberweer. Met komende nachten op grote schaal matige vorst. Overdag komt de temperatuur amper boven het vriespunt uit, maar schijnt de zon volop.Vanavond is het weer overal helder.",
+    "vandaag": "Vanavond is het weer overal helder. Vannacht is het helder en koud met lichte tot matige vorst.",
+    "temperatuur": "Hierdoor zakt de temperatuur als een baksteen, en al snel is er op veel plaatsen sprake van matige vorst met een temperatuur iets onder -5 graden.",
     "dalfsen": {
      "zin": "Voor Dalfsen zelf: -2 tot 1 graden, droog, ruim 3 uur zon, wind uit het oosten, kracht 3.",
      "max": 1,
@@ -1562,7 +1584,7 @@
      "omschrijving": "bewolkt",
      "morgen": {
       "max": 1,
-      "min": -6,
+      "min": -5,
       "regenkans": 0,
       "omschrijving": null
      }
