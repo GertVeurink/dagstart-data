@@ -3,15 +3,15 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "08:00",
+  "opgehaald": "09:00",
   "blokken": 11,
-  "berichten": 99,
+  "berichten": 100,
   "problemen": [
    "AI Report: geen berichten in de archiefpagina gevonden"
   ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-26T08:00+01:00",
+ "opgehaald": "2026-11-26T09:00+01:00",
  "audio": "audio/20261126.mp3",
  "afval": [
   {
@@ -183,6 +183,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "'Hoofdrol Duitse botenhandelaar bij mensensmokkel over Het Kanaal'",
+     "context": "Een botenhandelaar uit de buurt van het Duitse Dortmund wordt ervan verdacht een grote rol te hebben gespeeld bij de smokkel van migranten over Het Kanaal. Internationale media schrijven dat in de eerste vier maanden van dit jaar boten van de man gebruikt werden bij bijna een derde van de overtochten. Bij zeker twee van de smokkelpogingen kwamen mensen om het leven, vier in totaal. Frankrijk heeft",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2641055",
+     "bron": "NOS",
+     "tijd": "08:19",
+     "sorteer": "2026-11-26T08:19:44+01:00"
+    },
+    {
      "titel": "Dodental ondergelopen mijn Indonesië loopt op naar dertien",
      "context": "Het aantal doden bij een overstroomde goudmijn in Indonesië is opgelopen tot dertien. Vermoedelijk zitten nog dertien mijnwerkers vast. De illegale mijn ligt ten zuiden van Jakarta, in het westen van Java. 26 mensen waren daar maandagavond naar goud aan het graven, toen de rivier Ciseureuh door zware regenval buiten zijn oevers trad en een mijnschacht onder water zette. Mijnwerkers kwamen 100 mete",
      "rubrieken": [],
@@ -219,15 +228,6 @@
      "sorteer": "2026-11-26T06:14:39+01:00"
     },
     {
-     "titel": "Inslag op ruimterots uit 2022 veroorzaakte krater zo groot als een stadion",
-     "context": "Toen de Amerikaanse ruimtevaartorganisatie NASA in 2022 een ruimtevoertuig opzettelijk liet inslaan op een planetoïde, ontstond er een krater ter grootte van een stadion. Dat meldt de Europese ruimtevaartorganisatie ESA . Begin deze maand kwam de Europese sonde Hera aan bij de ruimterots. Hera was in 2024 gelanceerd en bereikte de rots nu twee jaar later om de schade op te maken. Eén kant van Dimo",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2641039",
-     "bron": "NOS",
-     "tijd": "03:29",
-     "sorteer": "2026-11-26T03:29:23+01:00"
-    },
-    {
      "titel": "Navo-baas Mark Rutte en Trump roepen Rusland op Oekraïne-oorlog niet uit te breiden",
      "context": "",
      "rubrieken": [],
@@ -255,41 +255,55 @@
      "sorteer": "2026-11-26T01:01:28+00:00"
     },
     {
-     "titel": "Thursday briefing: Why young people are having less sex than ever",
-     "context": "In today’s newsletter: A new study of sexual trends in Britain has found that one in three under-25s have never had sex, a flashy headline that obscures the real reasons behind a ‘sex recession’ among young people Good morning. Let’s talk about sex! I know, I know; it’s not 9am yet. But trust me, you’ll enjoy it and I won’t ask you to do anything that puts your back out before your first brew. The",
-     "rubrieken": [
-      "Sex",
-      "Life and style",
-      "UK news",
-      "Young people",
-      "Society",
-      "Relationships",
-      "Relationships and sex education"
-     ],
-     "link": "https://www.theguardian.com/world/2026/nov/26/thursday-briefing-why-young-people-are-having-less-sex-than-ever",
-     "bron": "The Guardian",
-     "tijd": "07:45",
-     "sorteer": "2026-11-26T06:45:01+00:00",
+     "titel": "FedEx plane overshoots Miami runway, causing brief suspension of flights at airport",
+     "context": "The brief ground stop came on the eve of the US Thanksgiving holiday, one of the busiest travel days of the year.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "08:34",
+     "sorteer": "2026-11-26T07:34:47+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Study Hard, Get Ahead?",
-     "context": "The broken promise of upward mobility through education is sparking youth protests around the world.",
+     "titel": "Was Japan Prime Minister Takaichi Snubbed at China’s Big Summit?",
+     "context": "Images show the differences between the welcomes afforded to Sanae Takaichi and other world leaders in Shenzhen, as some officials in Japan cry foul.",
      "rubrieken": [
-      "internal-open-access-from-nl",
-      "Graduate Schools and Students",
-      "Education",
-      "Colleges and Universities",
-      "Demonstrations, Protests and Riots",
-      "Cockroach Janta Party (India)",
-      "France",
-      "Thanksgiving Day"
+      "International Relations",
+      "Politics and Government",
+      "Airlines and Airplanes",
+      "Asia-Pacific Economic Cooperation",
+      "Takaichi, Sanae",
+      "Xi Jinping",
+      "China",
+      "Japan"
      ],
-     "link": "https://www.nytimes.com/2026/11/25/world/youth-protests-education-tariffs-thanksgiving.html",
+     "link": "https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html",
      "bron": "New York Times",
-     "tijd": "07:38",
-     "sorteer": "2026-11-26T06:38:37+00:00",
+     "tijd": "08:14",
+     "sorteer": "2026-11-26T07:14:18+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "London commuters braced for disruption as tube strike begins",
+     "context": "Industrial action by RMT drivers expected to cause severe disruption on Thursday and Friday Severe disruption is expected across the London Underground on Thursday and Friday, when many tube drivers will go on strike. Drivers who are part of the national union of rail, maritime and transport workers (RMT) will strike for 24 hours from noon on Thursday, in the first of a fresh wave of strikes in th",
+     "rubrieken": [
+      "London Underground",
+      "Rail strikes",
+      "RMT",
+      "Industrial action",
+      "Four-day week",
+      "Business",
+      "London",
+      "Rail transport",
+      "UK news",
+      "Transport"
+     ],
+     "link": "https://www.theguardian.com/uk-news/2026/nov/26/tube-drivers-strike-will-cause-severe-disruption-to-network-on-thursday-and-friday",
+     "bron": "The Guardian",
+     "tijd": "07:56",
+     "sorteer": "2026-11-26T06:56:24+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -317,17 +331,6 @@
      "bron": "BBC",
      "tijd": "05:10",
      "sorteer": "2026-11-26T04:10:58+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Macy's postpones Thanksgiving parade due to severe weather",
-     "context": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving holiday.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "05:04",
-     "sorteer": "2026-11-26T04:04:14+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -403,6 +406,13 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Paniek na explosie tankwagen in Egypte: zeker 31 doden",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNDVUM3RjN2lsM2drUUNOM2ZWNmRnNU1EZXV3cjNNaHdMU1hTQXhQRVFWNjRxZEtEWlU3Q0h1SUhpbTB1MWlpQm1VVzZhU1pTUUswX3ozcGQ4OUQySGhBTl9rb3dMbDVWZGk2b2NhanFPUUp6aTBOME5BcThrRVgwVHItbnJ4bUZaX2k1aWJhZW9ha3VUWkxVYnd3Z3VnQmly?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "08:14",
+     "sorteer": "2026-11-26T07:14:36+00:00"
+    },
+    {
      "titel": "Hemeltergend dat verdachte verkrachting zich druk maakt om verblijfsvergunning",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc1d1RVl0MEtBTDhsMERRWjdpd2FLYTAxY3ljNWNhM0ZrbnVoQl9lY2dPYlNKZU9IMmZJb3N0OE5nOTlVWG1ibkFRenpsUTZ6TnFKM0ZlcTJYNkRrcHl3R21tME9uTndMR2pSbmxwVzdiR2l6eW9Jbm5rR2tWNUFtQllEeW9aMlRMZzJXSElGUEZuVkZ5aERhNkJwZml1TkNIXzh6Nmwwb0w2RDdBT2RMVmpzejNpQVZrVTBrYVVDZm83cFk?oc=5",
      "bron": "De Telegraaf",
@@ -421,14 +431,7 @@
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSjhBQkZpSThtODBJbDJDSlBLb1dEZTNxSU80a1FWZnIwU2N5TkdPUk85eWJteVNuMTZmY2xTMGtiRW8zRndVWDB5Y2dja0tSRDAzYWh3dVNfZzlvajdtc3R5R2lON0dmb3hGd2F2WE1PU3I2bzJtZkt1aVNzdHNZREYzd1g5aXFfcGtnNXBDVnBaU3Rzd0lPWGI2TGNxQnVETjM4RVFIT2xGempQcVlvNw?oc=5",
      "bron": "AD.nl",
      "tijd": "07:13",
-     "sorteer": "2026-11-26T06:13:40+00:00"
-    },
-    {
-     "titel": "Buitenlandse chauffeurs negeren massaal rijverbod Merwedebrug maar ontlopen boete: ’Dit is de wereld op zijn kop’",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSHlnUlk5RjRuaWJucWgxOEpnU0VJa3EtSzJuT3ZNOFl3a3ZXNXY0T3NseUpHdXNVa1pSc0lxRnYtell3MGpxVVkyZUVyOXl2alVvZEswTlMzSmhMcDk3WEFubDU2bW5UaTJMMTUwcXpaUG1jdXZEa0NxR0tHV0hCTjgwX1ZHcnVaR3lQNXd6SXMzSWpfQ0V2cjdBMVIzVW1PeDVLSzN2bGxnSDcxV2dnd2oxUVlNYmxfaGV0RVpPVGJxWnZPcHAzVlNUNTlGcHdWdkctbWZDaUZiSHl0SE1lbDhITDlCRVBBQktDSFJHMXlIWFE?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "06:30",
-     "sorteer": "2026-11-26T05:30:00+00:00"
+     "sorteer": "2026-11-26T06:13:00+00:00"
     },
     {
      "titel": "Zo werd Ter Apel ‘Ter Apel’: een geschiedenis van de asielcrisis in zeven fragmenten",
@@ -516,13 +519,13 @@
      "sorteer": "2026-11-26T04:02:06+00:00"
     },
     {
-     "titel": "LEES TERUG | Fans vermaken zich bij FC Twente-feest in Duitse nachtclub",
-     "context": "FC Twente vervolgt donderdagavond de groepsfase van de Conference League met een bezoek aan SC Freiburg. In het Zwarte Woud kunnen de Tukkers een goede slag slaan richting de volgende ronde, nadat de eerste drie duels negen punten opleverden. Volg alles rondom het duel in ons liveblog.",
+     "titel": "Na jarenlange strijd voor woonwagenplekken, blijft Martha weg bij opening",
+     "context": "Na jaren wachten hebben de woonwagenbewoners in Goor eindelijk weer een eigen plek, in de nieuwe wijk Op Stoom. Voor de gemeente Hof van Twente, woningcorporatie Viverion en de bewoners reden voor een feestje. Maar niet iedereen viert mee.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3723129/lees-terug-fans-vermaken-zich-bij-fc-twente-feest-in-duitse-nachtclub",
+     "link": "https://www.oost.nl/nieuws/3723254/na-jarenlange-strijd-voor-woonwagenplekken-blijft-martha-weg-bij-opening",
      "bron": "RTV Oost",
-     "tijd": "22:00",
-     "sorteer": "2026-11-25T21:00:18+00:00"
+     "tijd": "20:58",
+     "sorteer": "2026-11-25T19:58:05+00:00"
     },
     {
      "titel": "Twente loopt miljoenen mis bij investeerders: 'Daar zijn we ronduit slecht in'",
@@ -547,6 +550,20 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
+     "titel": "Vandaag bestaat Bergman Installatiewerken 25 jaar!",
+     "context": "DALFSEN – HOONHORST – LENTHE – Wat 25 jaar geleden begon in een klein schuurtje bij het ouderlijk huis van Eelco in Heino, is inmiddels uitgegroeid tot een mooi installatiebedrijf. Iets waar we ontzettend trots op zijn! In de afgelopen 25 jaar hebben we heel wat mooie projecten mogen realiseren. Van kleine klussen tot […]",
+     "rubrieken": [
+      "Dalfsen",
+      "Hoonhorst",
+      "Laatste nieuws",
+      "Lenthe"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/557295/vandaag-bestaat-bergman-installatiewerken-25-jaar.html",
+     "bron": "DalfsenNet",
+     "tijd": "08:00",
+     "sorteer": "2026-11-26T07:00:02+00:00"
+    },
+    {
      "titel": "Orgelconcert Evan Bogerd",
      "context": "DALFSEN – Top organist geeft een orgelconcert in de Grote Kerk Dalfsen. Op 28 november a.s. geeft de bekende organist Evan Bogerd een orgelconcert op het mooie Holtgrave orgel. Sinds 2020 is Evan verbonden aan de Westerkerk in Amsterdam. Zijn repertoire reikt van Sweelinck tot aan hedendaagse muziek van bijvoorbeeld Daan Manneke. Bach, Franck en […]",
      "rubrieken": [
@@ -556,23 +573,6 @@
      "bron": "DalfsenNet",
      "tijd": "22:57",
      "sorteer": "2026-11-25T21:57:17+00:00"
-    },
-    {
-     "titel": "Inbraak meerdere bedrijfsbusjes Dalfsen (2) foto update",
-     "context": "DALFSEN – Zoals eerder vandaag gemeld, zijn er vannacht in Dalfsen en Nieuwleusen meerdere bestelbussen opengebroken of zijn er pogingen daartoe gedaan. Gezien de forse schade gaat het hier niet om amateurs. Voor zover nu bij ons bekend, zijn er auto’s opengebroken aan de Fabiushof, Agnietenhof en Teunisbloem in Dalfsen, en één auto in Nieuwleusen. […]",
-     "rubrieken": [
-      "112-nieuws",
-      "Dalfsen",
-      "Ingezonden bericht",
-      "Laatste nieuws",
-      "Nieuwleusen",
-      "Uitgelicht"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/557324/inbraak-bedrijfsbusjes.html",
-     "bron": "DalfsenNet",
-     "tijd": "18:52",
-     "sorteer": "2026-11-25T17:52:56+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
     }
    ]
   },
@@ -633,6 +633,22 @@
    "emoji": "🤖",
    "items": [
     {
+     "titel": "Motie van de leden Schoonis en Bühler over verkennen hoe AI kan worden ingezet om het mkb laagdrempeliger toegang te geven tot…",
+     "bron": "Motie",
+     "kop": "Uit de Tweede Kamer",
+     "tijd": "25-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D60794",
+     "sorteer": "2026-11-26T08:49:54.407+01:00"
+    },
+    {
+     "titel": "Motie van het lid Van den Berg over borgen dat Nederland zelf beslist of en waar het datacenterversnellingszones aanwijst",
+     "bron": "Motie",
+     "kop": "Uit de Tweede Kamer",
+     "tijd": "25-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D60704",
+     "sorteer": "2026-11-26T08:26:37.11+01:00"
+    },
+    {
      "titel": "Kabinetsreactie op het SER-advies over werk en AI",
      "bron": "Brief van de regering",
      "kop": "Uit de Tweede Kamer",
@@ -656,24 +672,6 @@
      "tijd": "06-11",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D56155",
      "sorteer": "2026-11-25T14:55:38.707+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Het artikel ‘Leraren en scholieren massaal aan de schandpaal: honderden TikTok-accounts verspreiden vernederende AI-filmpjes’",
-     "bron": "Kamervraag",
-     "kop": "Uit de Tweede Kamer",
-     "tijd": "09-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D50131",
-     "sorteer": "2026-11-24T21:41:41.747+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Antwoord op vragen van de leden Kröger, Van der Plas, Inge van Dijk, Wiersma, Westerveld, Kostic, Synhaeve, Becker, Beckerman…",
-     "bron": "Antwoord op Kamervragen",
-     "kop": "Uit de Tweede Kamer",
-     "tijd": "23-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D60284",
-     "sorteer": "2026-11-24T09:21:15.443+01:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -703,6 +701,13 @@
      "bron": "Reformatorisch Dagblad",
      "tijd": "07:08",
      "sorteer": "2026-11-26T06:08:17+00:00"
+    },
+    {
+     "titel": "Jongeren willen na opleiding meteen aan het werk: ’Zeker als ze AI beheersen, kunnen ze gouden bergen verdienen’",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVlpWUmp0c0ktUW1YLWxwVkhyRHhxcDJadXlackpDQ1FMbV9RbDFYdUhvSGlhUUxWOEVxR1RieXRZNzRQRXNMNE5QcGV4TzdPZHRjUGtYWDB0VkhyYVZRYUpseDBjQUNtZDZTTl9IYzk2YjVDRmQzNjB2cXpiOER6SFBuQjJhZk5ROXV3UzVxcklNbXN4ajV4VWlyRjJJQmpCeUVEcTUtUDlxMTJqdmtLWlk0RnhBS3JUVm5JcncxYU9LTzFpMkp1LVF6am5QNThsamNUVG5zRF83bzJVb0lWUF9HUzZNUTlwdnBla0VEc1Y?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "07:00",
+     "sorteer": "2026-11-26T06:00:00+00:00"
     },
     {
      "titel": "AI-gebruik door bedrijven verdubbeld, inhaalslag bij mkb'ers",
@@ -823,12 +828,20 @@
      "sorteer": "2026-11-25T14:52:17.72+01:00"
     },
     {
-     "titel": "Motie van het lid Wiersma over afspraken met gemeenten, waterschappen en provincies over controle, opsporing en herstel van…",
+     "titel": "Motie van het lid Prickaertz over waarborgen dat aangiften van winkeldiefstal worden opgenomen, beoordeeld en opgevolgd",
      "bron": "Motie",
      "kop": "Brieven en moties",
-     "tijd": "24-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D60605",
-     "sorteer": "2026-11-25T08:32:47.163+01:00"
+     "tijd": "25-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D60797",
+     "sorteer": "2026-11-26T08:51:44.553+01:00"
+    },
+    {
+     "titel": "Motie van het lid Van der Lee c.s. over instrumenten voor voldoende niet-marktconforme financiering ten behoeve van projecten die…",
+     "bron": "Motie",
+     "kop": "Brieven en moties",
+     "tijd": "25-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D60787",
+     "sorteer": "2026-11-26T08:46:53.94+01:00"
     },
     {
      "titel": "Terrorisme/extremisme (tot nader order uitgesteld)",
@@ -894,7 +907,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "08:00",
+    "bijgewerkt": "09:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1310,6 +1323,14 @@
    "emoji": "🐦",
    "items": [
     {
+     "titel": "Rotszwaluw",
+     "kop": "Zeldzaamheden",
+     "bron": "Noord-Holland",
+     "tijd": "07:58",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-26T07:58:00+01:00"
+    },
+    {
      "titel": "Grijze Wouw",
      "kop": "Zeldzaamheden",
      "bron": "Drenthe",
@@ -1360,91 +1381,72 @@
     {
      "titel": "Dalfsen (nacht)",
      "kop": "Vogeltrek",
-     "bron": "25-11",
-     "wanneer": "de nacht van dinsdag op woensdag",
-     "tijd": "17:10–07:35",
-     "link": "https://trektellen.org/count/view/2364/20261125",
+     "bron": "26-11",
+     "wanneer": "vannacht",
+     "tijd": "17:10–02:00",
+     "link": "https://trektellen.org/count/view/2364/20261126",
      "soorten": [
-      "Koperwiek 21",
-      "Kolgans 6",
-      "Krakeend 4",
-      "Merel 2"
+      "Koperwiek 6",
+      "Kolgans 2",
+      "Toendrarietgans 1"
      ],
-     "aantal_soorten": 9,
-     "opmerkingen": [
-      "Brilduiker Goldeneye"
-     ],
+     "aantal_soorten": 3,
+     "opmerkingen": [],
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 93 soorten, 4.915 vogels geteld",
+     "titel": "Landelijk vandaag: 14 soorten, 278 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261126?language=dutch"
     },
     {
-     "titel": "Kokmeeuw — 852",
+     "titel": "Spreeuw — 184",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261126?language=dutch"
     },
     {
-     "titel": "Kolgans — 358",
+     "titel": "Houtduif — 43",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261126?language=dutch"
     },
     {
-     "titel": "Roodkeelduiker — 337",
+     "titel": "Sijs — 10",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261126?language=dutch"
     },
     {
-     "titel": "Spreeuw — 316",
+     "titel": "Kramsvogel — 8",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261126?language=dutch"
     },
     {
-     "titel": "Kuifeend — 303",
+     "titel": "Koperwiek — 7",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261126?language=dutch"
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Kuifeend springt eruit — 303, normaal 17",
-     "bron": "18× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261126?language=dutch",
-     "sein": true
-    },
-    {
-     "kop": "Vogeltrek",
-     "titel": "Fuut springt eruit — 94, normaal 27",
-     "bron": "3× het gewone niveau",
-     "tijd": "",
-     "link": "https://trektellen.org/count/daytotals/1/0/20261126?language=dutch",
-     "sein": false
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 99 plekken in de afgelopen week",
+     "titel": "Invasiejaar — op 102 plekken in de afgelopen week, waarvan 3 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 292 vogels; 468 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 301 vogels; 473 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
-     "titel": "13 plekken binnen 75 km van Dalfsen",
+     "titel": "14 plekken binnen 75 km van Dalfsen",
      "bron": "dichtstbij: Hoogeveen - Zuid, 27 km (2026-11-25)",
      "tijd": "15:34",
      "link": "https://waarneming.nl/species/306/observations/"
@@ -1476,17 +1478,17 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": -2.7,
+    "nu": -2.8,
     "gevoel": -6.7,
-    "wind": "ONO 2",
+    "wind": "NO 2",
     "station": "Heino",
     "bericht": "Een hogedrukgebied zorgt de komende dagen voor winters weer. De temperatuur komt overdag op een nog wat lager niveau uit en komende nacht kan het op meerdere plaatsen matig gaan vriezen. Verder is er bijna overal een hoofdrol weggelegd voor de zon.Vanochtend schijnt de zon, maar in het oosten en soms ook in delen van het midden van het land kan een pluk lage bewolking vanuit Duitsland binnendrijven.",
     "vandaag": "Vanochtend schijnt de zon, maar in het oosten en soms ook in delen van het midden van het land kan een pluk lage bewolking vanuit Duitsland binnendrijven. Vanmiddag schijnt de zon volop en blijft het in het hele land droog.",
     "temperatuur": "De hoogste temperaturen vinden we langs de kust, waar het nog 2 graden kan worden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -3 tot 1 graden, droog, ruim 4 uur zon, wind uit het oosten, kracht 3.",
+     "zin": "Voor Dalfsen zelf: -4 tot 1 graden, droog, ruim 4 uur zon, wind uit het oosten, kracht 3.",
      "max": 1,
-     "min": -3,
+     "min": -4,
      "regenkans": 0,
      "omschrijving": "bewolkt",
      "morgen": {
