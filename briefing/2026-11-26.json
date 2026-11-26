@@ -9,10 +9,11 @@
   "problemen": [
    "AI Report: geen berichten in de archiefpagina gevonden"
   ],
-  "audio_herkomst": null
+  "audio_herkomst": "model",
+  "audio_aangehaakt": "06:05"
  },
  "opgehaald": "2026-11-26T05:55+01:00",
- "audio": null,
+ "audio": "audio/20261126.mp3",
  "afval": [
   {
    "datum": "2026-11-27",
@@ -51,7 +52,58 @@
    "afwijkend": false
   }
  ],
- "duiding": [],
+ "duiding": [
+  {
+   "titel": "Nederland wil beter EU-voorstel",
+   "tekst": "Nederland wil bij het Europese gevecht over de begroting een beter voorstel dan er nu ligt, meldt RTL, en daarmee staan miljarden aan Europees geld op het spel (23). Dat gevecht gaat over de Europese meerjarenbegroting voor de periode 2028-2034 (25). Daarvoor is een extra EU-top ingelast, schrijft Nieuwsuur (25).",
+   "verwijzingen": [
+    {
+     "titel": "Europees miljardengevecht over begroting breekt los, Nederland wil beter voorstel",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTnpzRjRXWWFPRU9aamxrUnp1a2R6Vml6UUYxTzFBaGJzaXEyNzg1c2VmMjR2SXp2V0Y5VkN0YlRUd1l3R2NXcVFRdXRXdXVTTGVvRjlHam4wODZDMHcwVEo0TWVnRUpHMkxPNWVPZUVGQUFUT1MxRU9uUGlIYUx6dE9pbVUxeW1MT0FMVFI1Y2RBa0NyZUNMTWJ5OW9VeTBrbXBWVkpmbG5CNjhnYURYOF9jeHU3M1U?oc=5",
+     "bron": "RTL.nl",
+     "tijd": "05:41",
+     "nummers": [
+      23
+     ]
+    },
+    {
+     "titel": "Nieuwsuur: Crackproblemen • Aanpak neonazi's • EU-top over begroting",
+     "link": "https://nos.nl/l/2640974",
+     "bron": "NPO2 · 22:00",
+     "tijd": "22:00",
+     "nummers": [
+      25
+     ]
+    }
+   ],
+   "geschreven": "06:05"
+  },
+  {
+   "titel": "Bertholee wil neonazigroepen verbieden",
+   "tekst": "Oud-AIVD-baas Rob Bertholee pleit voor een verbod op neonazistische groeperingen en symbolen, omdat justitie besloten bijeenkomsten nu moeilijk kan vervolgen (14). Aanleiding zijn Zembla-beelden van kooigevechten waar aanwezigen de hitlergroet brachten (14). Een van de medische hulpverleners op die gevechten zat volgens Zembla in een werkgroep die het ministerie van Justitie adviseerde over wapenvergunningen (25).",
+   "verwijzingen": [
+    {
+     "titel": "Oud-AIVD-baas pleit voor verbod op neonazistische groeperingen en symbolen",
+     "link": "https://nos.nl/l/2641035",
+     "bron": "NOS",
+     "tijd": "00:12",
+     "nummers": [
+      14
+     ]
+    },
+    {
+     "titel": "Nieuwsuur: Crackproblemen • Aanpak neonazi's • EU-top over begroting",
+     "link": "https://nos.nl/l/2640974",
+     "bron": "NPO2 · 22:00",
+     "tijd": "22:00",
+     "nummers": [
+      25
+     ]
+    }
+   ],
+   "geschreven": "06:05"
+  }
+ ],
  "denkwerk": {
   "tekst": "… dan zou de mens worden uitgewist, zoals een gezicht van zand aan de rand van de zee.",
   "wie": "Michel Foucault",
@@ -81,7 +133,50 @@
   "link": "https://waarneming.nl/observation/334365237/",
   "zeldzaam": 3
  },
- "verder": [],
+ "verder": [
+  {
+   "kop": "Inbrekers kraken busjes Dalfsen",
+   "blok": "lokaal",
+   "link": "https://www.dalfsennet.nl/nieuws/557324/inbraak-bedrijfsbusjes.html",
+   "bron": "DalfsenNet",
+   "titel": "Inbraak meerdere bedrijfsbusjes Dalfsen (2) foto update"
+  },
+  {
+   "kop": "Politie onderzoekt dode in Zwolle",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3723415/overleden-persoon-aangetroffen-bij-tankstation-in-zwolle",
+   "bron": "RTV Oost",
+   "titel": "Overleden persoon aangetroffen bij tankstation in Zwolle"
+  },
+  {
+   "kop": "Politie vindt weer vuurwerk Rhenen",
+   "blok": "nationaal",
+   "link": "https://nos.nl/l/2641038",
+   "bron": "NOS",
+   "titel": "Meerdere bewoners geëvacueerd na vondst zwaar vuurwerk in woning Rhenen"
+  },
+  {
+   "kop": "Chauffeurs negeren rijverbod brug",
+   "blok": "nationaal",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSHlnUlk5RjRuaWJucWgxOEpnU0VJa3EtSzJuT3ZNOFl3a3ZXNXY0T3NseUpHdXNVa1pSc0lxRnYtell3MGpxVVkyZUVyOXl2alVvZEswTlMzSmhMcDk3WEFubDU2bW5UaTJMMTUwcXpaUG1jdXZEa0NxR0tHV0hCTjgwX1ZHcnVaR3lQNXd6SXMzSWpfQ0V2cjdBMVIzVW1PeDVLSzN2bGxnSDcxV2dnd2oxUVlNYmxfaGV0RVpPVGJxWnZPcHAzVlNUNTlGcHdWdkctbWZDaUZiSHl0SE1lbDhITDlCRVBBQktDSFJHMXlIWFE?oc=5",
+   "bron": "De Telegraaf",
+   "titel": "Buitenlandse chauffeurs negeren massaal rijverbod Merwedebrug maar ontlopen boete: ’Dit is de wereld op zijn kop’"
+  },
+  {
+   "kop": "Australië neemt onlinewet aan",
+   "blok": "internationaal",
+   "link": "https://www.trouw.nl/buitenland/australie-neemt-wet-voor-online-veiligheid-aan-techreuzen-riskeren-boetes-van-miljoenen-dollars~b5793c7d/",
+   "bron": "Trouw",
+   "titel": "Australië neemt wet voor online veiligheid aan; techreuzen riskeren boetes van miljoenen dollars"
+  },
+  {
+   "kop": "Zeker dertig doden in Egypte",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2641017",
+   "bron": "NOS",
+   "titel": "Zeker 30 doden in Egypte bij ongeluk met vrachtwagen die na crash vlam vatte"
+  }
+ ],
  "blokken": [
   {
    "id": "internationaal",
@@ -1446,5 +1541,15 @@
     }
    }
   }
+ ],
+ "archief": [
+  "2026-11-26",
+  "2026-11-25",
+  "2026-11-24",
+  "2026-11-23",
+  "2026-11-22",
+  "2026-11-21",
+  "2026-11-20",
+  "2026-11-19"
  ]
 }
