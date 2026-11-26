@@ -3,15 +3,15 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "22:00",
+  "opgehaald": "23:00",
   "blokken": 11,
-  "berichten": 108,
+  "berichten": 109,
   "problemen": [
    "AI Report: geen berichten in de archiefpagina gevonden"
   ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-26T22:00+01:00",
+ "opgehaald": "2026-11-26T23:00+01:00",
  "audio": "audio/20261126.mp3",
  "afval": [
   {
@@ -201,6 +201,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Wapenvergunningen van twee AfD'ers onterecht ingetrokken, oordeelt hoogste bestuursrechter",
+     "context": "De Duitse autoriteiten hebben enkele jaren geleden ten onrechte de wapenvergunningen van twee leden van de inmiddels opgeheven AfD-jongerentak Junge Alternative ingetrokken. Dat heeft de hoogste bestuursrechter in Leipzig, het Bundesverwaltungsgericht , bepaald. Duitsland heeft een van de strengste wapenwetten van Europa. De Duitse autoriteiten mogen wapenvergunningen weigeren of intrekken als een",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2641163",
+     "bron": "NOS",
+     "tijd": "22:25",
+     "sorteer": "2026-11-26T22:25:16+01:00"
+    },
+    {
      "titel": "Nederland geeft twee buitgemaakte geweren uit koloniale tijd terug aan Sri Lanka",
      "context": "Nederland geeft twee geweren terug aan Sri Lanka die in de achttiende eeuw zijn buitgemaakt. Dat heeft minister Letschert van Onderwijs, Cultuur en Wetenschap besloten. De geweren zijn momenteel in het beheer van het Rijksmuseum in Amsterdam. De geweren werden gestolen tijdens een gewapend conflict tussen de Verenigde Oost-Indische Compagnie (VOC) en het koninkrijk Kandy. Dat was een onafhankelijk",
      "rubrieken": [],
@@ -237,15 +246,6 @@
      "sorteer": "2026-11-26T19:23:51+01:00"
     },
     {
-     "titel": "Twee Italianen omgekomen bij droneaanval op Koeweit",
-     "context": "Bij een droneaanval op Koeweit zijn twee Italianen omgekomen. De twee werkten daar als technici voor de Duitse wapenfabrikant Rheinmetall. Volgens Italië en Koeweit is het een Iraanse aanval. Iran ontkent elke betrokkenheid. De Italiaanse minister van Buitenlandse Zaken Tajani zegt dat de slachtoffers aan het werk waren bij een luchtverdedigingsstation toen dit werd bestookt door de drones. Het zi",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2641131",
-     "bron": "NOS",
-     "tijd": "17:45",
-     "sorteer": "2026-11-26T17:45:05+01:00"
-    },
-    {
      "titel": "Olieraffinaderij in Saoedi-Arabië aangevallen door Houthi’s, zegt regering Jemen",
      "context": "",
      "rubrieken": [],
@@ -264,13 +264,13 @@
      "sorteer": "2026-11-26T19:46:00+00:00"
     },
     {
-     "titel": "Myanmar legt zich niet neer bij genocideuitspraak ICJ",
+     "titel": "Duitsland bezorgd over potentieel Russisch kernwapen in de ruimte: ‘Het ultieme nachtmerriescenario’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/myanmar-legt-zich-niet-neer-bij-genocideuitspraak-icj~b80b0bd1/",
+     "link": "https://www.trouw.nl/buitenland/duitsland-bezorgd-over-potentieel-russisch-kernwapen-in-de-ruimte-het-ultieme-nachtmerriescenario~bb3c53d9/",
      "bron": "Trouw",
-     "tijd": "16:14",
-     "sorteer": "2026-11-26T15:14:43+00:00"
+     "tijd": "22:00",
+     "sorteer": "2026-11-26T21:00:40+00:00"
     },
     {
      "titel": "U.K. Releases Files on Peter Mandelson, Ambassador Tied to Jeffrey Epstein",
@@ -287,8 +287,39 @@
      ],
      "link": "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html",
      "bron": "New York Times",
-     "tijd": "21:49",
-     "sorteer": "2026-11-26T20:49:46+00:00",
+     "tijd": "22:40",
+     "sorteer": "2026-11-26T21:40:09+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Southern and central Australia face summer of heightened bushfire risk and heatwaves",
+     "context": "Fire chiefs say large swathes of the country are at risk from fires driven by high fuel loads, dry soil and hot weather Get our breaking news email , free app or daily news podcast Large parts of southern and central Australia face elevated fire risk this summer, authorities say, while heatwaves and extreme temperatures are likely nationwide. Most of Victoria, eastern Tasmania and large parts of S",
+     "rubrieken": [
+      "Bushfires",
+      "Extreme heat",
+      "Australia news",
+      "Australia weather",
+      "Environment",
+      "Climate crisis",
+      "El Niño southern oscillation",
+      "Great Barrier Reef"
+     ],
+     "link": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
+     "bron": "The Guardian",
+     "tijd": "22:33",
+     "sorteer": "2026-11-26T21:33:36+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+     "context": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "22:17",
+     "sorteer": "2026-11-26T21:17:53+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -312,36 +343,6 @@
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-     "context": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "21:35",
-     "sorteer": "2026-11-26T20:35:39+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
-     "context": "Farmers’ Federation president says Australia ‘can’t even keep [illicit] cigarettes out of the country … let alone some of these difficult-to-detect pests’ Get our breaking news email , free app or daily news podcast Years-old recommendations by Australia’s biosecurity watchdog have been ignored or not acted on by successive federal governments, increasing the risk of an invasive pest outbreak such",
-     "rubrieken": [
-      "Invasive species",
-      "Australia news",
-      "Sydney",
-      "Environment",
-      "Wildlife",
-      "New South Wales",
-      "Insects"
-     ],
-     "link": "https://www.theguardian.com/australia-news/2026/nov/27/sydney-fire-ants-outbreak-biosecurity-experts-ignored",
-     "bron": "The Guardian",
-     "tijd": "21:33",
-     "sorteer": "2026-11-26T20:33:26+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
      "titel": "Watch: Roofs torn off and streets under water as severe weather hits US",
      "context": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
      "rubrieken": [],
@@ -360,8 +361,8 @@
    "emoji": "🇳🇱",
    "items": [
     {
-     "titel": "Ghanese kunstdocent kąrî'k chä seid'ou krijgt Prins Claus Impact Award",
-     "context": "Prins Constantijn heeft vanmiddag de Prins Claus Impact Award uitgereikt aan de Ghanese kunstenaar kąrî'k chä seid'ou. Bij de uitreiking in het Paleis op de Dam waren ook koning Willem-Alexander, koningin Máxima en prinses Beatrix aanwezig. De award van het Prins Claus Fonds wordt elke twee jaar uitgereikt aan een internationale kunstenaar die bijdraagt aan maatschappelijke verandering. De prijs h",
+     "titel": "Ghanese kunstdocent krijgt Prins Claus Impact Award",
+     "context": "Prins Constantijn heeft vanmiddag de Prins Claus Impact Award uitgereikt aan de Ghanese kunstenaar Kari'k chä Seid'ou. Bij de uitreiking in het Paleis op de Dam waren ook koning Willem-Alexander, koningin Máxima en prinses Beatrix aanwezig. De award van het Prins Claus Fonds wordt elke twee jaar uitgereikt aan een internationale kunstenaar die bijdraagt aan maatschappelijke verandering. De prijs h",
      "rubrieken": [],
      "link": "https://nos.nl/l/2641162",
      "bron": "NOS",
@@ -423,34 +424,20 @@
      "sorteer": "2026-11-26T17:14:11+00:00"
     },
     {
-     "titel": "Muziekwereld gaat strijd aan met AI-copycats",
+     "titel": "Gezichtsherkenning sluipt via geitenpaadjes de samenleving in. ‘Fabrikanten leggen de verantwoordelijkheid bij gebruikers’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/muziekwereld-gaat-strijd-aan-met-ai-copycats~bf1ee918/",
+     "link": "https://www.trouw.nl/binnenland/gezichtsherkenning-sluipt-via-geitenpaadjes-de-samenleving-in-fabrikanten-leggen-de-verantwoordelijkheid-bij-gebruikers~bf41c865/",
      "bron": "Trouw",
-     "tijd": "20:53",
-     "sorteer": "2026-11-26T19:53:32+00:00"
+     "tijd": "22:00",
+     "sorteer": "2026-11-26T21:00:39+00:00"
     },
     {
-     "titel": "Ongeval met letsel op Snelliusweg in Arnhem",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMW9VVVYwSUR1Q0JpaDlDMWZ1SkFFMC0xRnd1OUlTQndzd0VwcEZ2UUh5QW5IbWl0RkNHbVkzMkZZa0QzT2luejdDbzBzOFpDc216bWVWamZiUmEzVnJWTUtueDItTkIzTmlYVWpVZG4wWjIwYy02MEt2RUxjYmNfZzZzdWRvNEt3VDZQV191YzZ4bEloOEExRDlGNlFOckxJ?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "20:07",
-     "sorteer": "2026-11-26T19:07:31+00:00"
-    },
-    {
-     "titel": "Huurauto slaat over de kop na eenzijdig ongeval in Arnhem, twee jongeren komen met schrik vrij",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX2VkNHd0M01BTXpGN1M4TlVFMkpvR0prUzVRZWVuM2dwbkFpUlgyQW15VVR4M0tLSXFRUGhyNFczd3BmRGZOSkN1QkhOR3hlTjNMSXNnSDY3NXA4ZTNJUGZoR2d4U0pSel9abTUyU1J3YnBQNW5wdURWRTBpdVBZcm4xVjRpcjFzeXhmOVJuZHNOZlFEaUFoWFR6RjhrNHEtRDV6SGhfZWFqMTd1ZzJYSXNzQWQtY2ZabkRjc25aZDJDV1g2ME1xYkM0ZnJ4eWxRTWd3T0NTck91Q0M1T3R6WlFIYw?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "20:07",
-     "sorteer": "2026-11-26T19:07:03+00:00"
-    },
-    {
-     "titel": "Grote ravage op de weg: twee jongeren slaan met huurauto over de kop",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdWRDUW5GUVg2RWNGSlVHUWdjbjhTMTdobkRqNWItby1BbFVwRzkwVEdqN3ZkQjFXVXZoZmhaSlpMcFJhZGQ2U21lMS1DN0Riamtyc3BNRmRKNTlfaEl0NEFWS0pubXpRbHFRcDBlNGJsTjJHQjNkeGN5MmFaWXBmX2t1Z09yZlh2b0wzZlhna3BQbTdUWXB3a3VQNmJlMWJXU0NnemJtM2JPMTV5OHJxbXotTDNZRnV2N19DNkVPMko?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "20:07",
-     "sorteer": "2026-11-26T19:07:00+00:00"
+     "titel": "‘Levende geheugen’ van voetbalclub WAVV Henk Jansen (78) overleden",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeGQtVDdHTEJfTHI2enRuLTJDRXlsRjZVdGxsNlBrbTd0Z09ibEVfZ2F2VV9rX1NLUkRnc2VaMGt3SDdrblI3NGsyN2I2UExlbXdRM2ZmbXVQNHBYTEdsN1dMaUFvTnllYzIxRy1qVVhlRWlXRzJSVUotUzlCZnF3Y09lRDRScVVwbEdPUjhsNDJXajBXUWw5NXl4Yl96OWNQNTJyM28ycw?oc=5",
+     "bron": "de Stentor",
+     "tijd": "22:11",
+     "sorteer": "2026-11-26T21:11:08+00:00"
     },
     {
      "titel": "Brandweer moest hem uit brandende woning bevrijden, nu denkt justitie dat hij ontploffing veroorzaakte",
@@ -458,6 +445,20 @@
      "bron": "de Stentor",
      "tijd": "20:00",
      "sorteer": "2026-11-26T19:00:00+00:00"
+    },
+    {
+     "titel": "Charles Ratelband vraagt gedupeerde investeerders tóch nog eens om geld: ‘Te gek voor woorden’",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeVRVQTRDV3paZGEwY1FmNWtyZms5dU5SOFFES2lIYmlrS0s5YlpvWWFlTU5tM2ljN0dmQ0JjdHUySTYzem5mTUZuT0FpS2pnMXBZMDVKZzZIQXBuS0xBR1RlV2lnT3NsanZpdl84cktYVTJ4bWJnRmo2QXVKWl85WG5sQWtmZEVEdEZuQjF5VkVhZy16MHhaQWFGckItSmRaX2ZOMnJnMkhyajRJZEl4SlpYa192aFRBdHFHb3cxeHZjd0ZONXV4eEphbHJ2Zw?oc=5",
+     "bron": "de Stentor",
+     "tijd": "18:23",
+     "sorteer": "2026-11-26T17:23:52+00:00"
+    },
+    {
+     "titel": "Jetten verwacht van Costa nieuw en beter voorstel meerjarenbudget",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUENlTlVLbmRTMWp3UkdVR3BHcy1jNGxNa19sYTVnT1c0V1FyZVEwNF96SWN0Rkd4ZXp0UU90cC1sTXcza3NpYTZHTHlHbVItMjFCbHpVM0FhSWwwNGo4RC01ckxTOHhMOFlVM0hqQVFZYVdDMXZtNzlKOFdpNENhMk13bTNKeFBHaGtQT3gxMnpBdk42VGc?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "22:47",
+     "sorteer": "2026-11-26T21:47:23+00:00"
     },
     {
      "titel": "Zo werd Ter Apel ‘Ter Apel’: een geschiedenis van de asielcrisis in zeven fragmenten",
@@ -474,11 +475,11 @@
      "sorteer": "2026-11-26T04:45:04+00:00"
     },
     {
-     "titel": "Keert na belastingplan-bonje en ’bypass via Buma’ de rust terug in Den Haag?",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX1FJQ29qVV9QZUg2aDJqdUxhcEV1Vmt0Q0g1QWE3eUxQVTlkZHBuRHEydWNFdHZ3UjkyMWNjVGFuU05VeVQ1eWU5ZERYeWZ2OFJFWjJTbTNwSW1lZ25pV1d0SDJoeS1xUW1keHJpSUNjU0dyVjRrSWYya1BGZ0xhb0w5Wlp2NGQzWlh0eU1zLWtqSnJ1WVRLOFVLNHpVYnNJQ1V2MlVMUTgzWGJ5dzlPSF9QZHVZQ3hKamdCcUlxcw?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "17:51",
-     "sorteer": "2026-11-26T16:51:00+00:00",
+     "titel": "Geen akkoord over EU-begroting, Jetten wil ‘hogere korting’ voor Nederland",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2VhUl9xeFl3bjFSWVZnem1VamZEaG1FUXNPazBNYkxXekREX29Bbkh5ZldGTUJPeUJHMTVhOE5IUnBUb0xkUF94dUJvcmJxdTBQd3U4Y1EwNTNyd1lucS1nR05xRF9KX1B4SGlWTEtjRnBYUzJHa2ZsZFpueDZud0Y4cDNYUDcwVldQSWJJQXJtX29jcFJOa1JZc0FHdHpSOWpvd05qWFY4dW9POHREbzBhaGNZZw?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "22:37",
+     "sorteer": "2026-11-26T21:37:00+00:00",
      "kop": "Begroting"
     },
     {
@@ -581,8 +582,22 @@
      "sorteer": "2026-11-26T13:31:54+00:00"
     },
     {
+     "titel": "Vandaag bestaat Bergman Installatiewerken 25 jaar!",
+     "context": "DALFSEN – HOONHORST – LENTHE – Wat 25 jaar geleden begon in een klein schuurtje bij het ouderlijk huis van Eelco in Heino, is inmiddels uitgegroeid tot een mooi installatiebedrijf. Iets waar we ontzettend trots op zijn! In de afgelopen 25 jaar hebben we heel wat mooie projecten mogen realiseren. Van kleine klussen tot […]",
+     "rubrieken": [
+      "Dalfsen",
+      "Hoonhorst",
+      "Laatste nieuws",
+      "Lenthe"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/557295/vandaag-bestaat-bergman-installatiewerken-25-jaar.html",
+     "bron": "DalfsenNet",
+     "tijd": "22:00",
+     "sorteer": "2026-11-26T21:00:02+00:00"
+    },
+    {
      "titel": "Een frisse neus op het Rechterenseveld",
-     "context": "RECHTEREN – Wat een heerlijk weer om een frisse neus te halen en te genieten van de winterse sfeer. Het Rechterenveld is dan een prachtige plek voor een wandeling. Een paar weken geleden was ik hier ook. Toen waren er meer dan honderd mensen in het bos aan het werk dennetjes verwijderen tussen de […]",
+     "context": "RECHTEREN – Wat een heerlijk weer om een frisse neus te halen en te genieten van de winterse sfeer. Het Rechterense veld is dan een prachtige plek voor een wandeling. Een paar weken geleden was ik hier ook. Toen waren er meer dan honderd mensen in het bos aan het werk dennetjes verwijderen tussen […]",
      "rubrieken": [
       "Laatste nieuws",
       "Rechteren"
@@ -591,19 +606,6 @@
      "bron": "DalfsenNet",
      "tijd": "21:07",
      "sorteer": "2026-11-26T20:07:25+00:00"
-    },
-    {
-     "titel": "Afscheid VerhalenCaféNieuwleusen",
-     "context": "NIEUWLEUSEN – Na ruim zeven jaar nemen we afscheid van het VerhalenCaféNieuwleusen. Sinds het voorjaar van 2019 brachten we mensen samen voor een inspirerende, laagdrempelige en gratis avond vol bijzondere verhalen. Gisteravond sloten we af met het indrukwekkende verhaal van Gea Luttels, die bijna 2.000 kilometer naar Zweden wandelde om geld in te zamelen voor […]",
-     "rubrieken": [
-      "Ingezonden bericht",
-      "Laatste nieuws",
-      "Nieuwleusen"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/557385/afscheid-verhalencafenieuwleusen.html",
-     "bron": "DalfsenNet",
-     "tijd": "20:25",
-     "sorteer": "2026-11-26T19:25:32+00:00"
     }
    ]
   },
@@ -704,6 +706,13 @@
      "sorteer": "2026-11-26T09:39:24.247+01:00"
     },
     {
+     "titel": "Muziekwereld gaat strijd aan met AI-copycats",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYk1Dem5jaTRPSlJpbU9sS0NfaVlaaVdoaVhDVWlpcmhBWGhnUjFXcEdyWXk3Tllnc1Fwc0Ezd2ctT3pKbU1WNGVwTUZHbXJjOVVia1hScW5UejR6ZXVLM25wUHU0Q2N5VTRhb3lZYjlONGFLU3Y3MVJyMFNhTWNhcHdub0VTcGlZWVpPT3V1aw?oc=5",
+     "bron": "Trouw",
+     "tijd": "20:53",
+     "sorteer": "2026-11-26T19:53:32+00:00"
+    },
+    {
      "titel": "'Nvidia legt leveringen AI-chips aan Zuidoost-Azië stil'",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVRnMTVjTURiWi1idUtUUVI2QUdSY2FDX0FvdndHLWZtY3A0QWVfVUdmODllcFFYQUI1R25kYlZlNGdkX2hIUFVUSkRwWm5xclIwYUNxakctUF9WVjZEYnRWY3ltT2lGSmlwT2dtQjQtdmE5bW5pb1Y3bmg4T3AxcDhRMmhzLUczS3lJNGQ0WlpKd254dmd6S0ZB?oc=5",
      "bron": "Tweakers",
@@ -718,6 +727,13 @@
      "sorteer": "2026-11-26T14:45:00+00:00"
     },
     {
+     "titel": "Softwareconcern SAP wil zeker 10.000 banen schrappen en meer inzetten op AI",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWGlwUXQ3LXBzM2k1SHRUYmozOEY0MjJhNWZMQjQ2Vk9JeG50Y19xNkZvZGFOQlQzU08tYWFnSDNYNThlQmttejhuc0hRVjVYbF9seFZReHhTQk1DX2h6ZU1LRGNySHRPLVA4VHJZdUNkVlNCVFAzSVZJcmpIejRiT2ROVHhTbzFqV0JpZkNLSFlFQUY0bnBJZXlWUHUyZ0ZLMEFoN01HUFhPcDBHVjdlZFNzbGZWWHVpeGVR?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "22:31",
+     "sorteer": "2026-11-26T21:31:47+00:00"
+    },
+    {
      "titel": "Een AI-robot die zijn superioriteit benadrukt tegenover een sollicitant – logisch dat die viraal gaat",
      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRzJKRDhuV3RqajN6OHBrZlFMam5TQ0hmb1BCbGtLcVItREliNHlDQVd6R2ZRRFBTcDlrT1ZNaEJFYmJabXZTM0Y5RHZkS0JaR3hvTHRSdnpxSVhYR0FLQ2tSV0FibWpIR1BZbjBBUWZ0dXAyQVJmOEJKQlRncThVWVNNNE9ZN0R1NEc0YUpqYzRyRUlfb0hXUUptLTU3bUg0ZUp3bEdTbEF0U2o1ZTF4ZHB4bHlXdjYzMXh0eHl6OUU5bzVvc0Z3NGJKWUZmcDVvS09wRjBTcw?oc=5",
      "bron": "de Volkskrant",
@@ -730,13 +746,6 @@
      "bron": "Bright",
      "tijd": "17:00",
      "sorteer": "2026-11-26T16:00:00+00:00"
-    },
-    {
-     "titel": "Trump-angstcultuur is terug nu Huang weer Nvidia-baas is + Wat moeten we met die enorme storingen door AI?",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQk85SVd4VlRkNGhpOFhqN3VMek5ZTFpNX24tQXFIY2dFRFVxdTlCX216SjROSnhYZjltVFhWUVNxaEdKY2k0d29KWGVwYWE1TE1tenAzM01vTXZOUzNuNGxCSmxERzNwRTZrLTRlTXNBd0N6UjdQWDRELV9rWmdZUXR5MmhVWUJyWnJpVmNKcF82V3N2RGJxUjhSVE0zTGJxNnVTVVQzU3VvR1oyMThxbTl6YWEyRWVjcjQzMUF1VUVXVTRmVlVUZlBzXzRSUU9vRU1UWGFpNHZaUmNKVUJWd2hySEJ0dDVsOUFz?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "16:14",
-     "sorteer": "2026-11-26T15:14:18+00:00"
     }
    ]
   },
@@ -745,6 +754,14 @@
    "titel": "Tweede Kamer",
    "emoji": "🏛️",
    "items": [
+    {
+     "titel": "De heer Erkens over opsporing",
+     "bron": "Begroting Landbouw, Visserij, Voedselzekerheid en Natuur…",
+     "toelichting": "Mevrouw Bromet vroeg mij nog of het convenant gewasbescherming voldoende garanties biedt, of dat hier meer regie en handhaving op nodig is. Het convenant toekomstgerichte gewasbescherming moet nog gesloten worden, maar ik wil met het convenant zorgen voor een forse verlaging van de milieubelasting van het gebruik van gewasbeschermingsmiddelen. Er komt een nationaal reductiedoel voor 2040, met tussendoelen voor 2030…",
+     "kop": "Transcriptie",
+     "tijd": "26-11",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08637"
+    },
     {
      "titel": "De heer Graus (PVV) over opsporing",
      "bron": "de Begrotingen Landbouw, Visserij, Voedselzekerheid en Natuur en…",
@@ -816,14 +833,6 @@
      "kop": "Transcriptie",
      "tijd": "26-11",
      "link": "https://www.tweedekamer.nl/debat_en_vergadering"
-    },
-    {
-     "titel": "De heer Erkens over politie",
-     "bron": "Begroting Landbouw, Visserij, Voedselzekerheid en Natuur…",
-     "toelichting": "Richting de heer Graus wil ik het volgende kwijt. Ik zou het de omgekeerde wereld vinden dat de politie medewerkers van de NVWA zou moeten vergezellen bij hun werkzaamheden. Ik deel wel wat hij zegt: alleen de sector aanspreken werkt onvoldoende op dit vlak. We kunnen dit niet afdoen als incidenten. Het komt te vaak en te breed voor. De NVWA kan dus ingrijpen door de slacht stop te zetten, aangifte te doen of andere…",
-     "kop": "Transcriptie",
-     "tijd": "26-11",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08637"
     },
     {
      "titel": "De verslechterende veiligheidssituatie voor christenen in Syrië",
@@ -953,7 +962,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "22:00",
+    "bijgewerkt": "23:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1362,20 +1371,20 @@
      "link": "https://scientias.nl/superman-oh-nee-gewoon-krypton-hoe-dat-ontdekt-werd-nou-diederik-legt-het-uit-in-deze-video/"
     },
     {
+     "titel": "Community forests offer hope for conservation in DRC, but major hurdles remain",
+     "toelichting": "LUBUMBASHI, Democratic Republic of Congo — In the Democratic Republic of Congo, an initiative is underway to award community-based forestry land titles to 7.1 million hectares of land, or about 17.5 million acres — an ar",
+     "bron": "Mongabay (Engels)",
+     "tijd": "22:30",
+     "link": "https://news.mongabay.com/2026/11/community-forests-offer-hope-for-conservation-in-drc-but-major-hurdles-remain/",
+     "sorteer": "2026-11-26T21:30:06+00:00"
+    },
+    {
      "titel": "US bill to speed up clean energy projects could also fast-track fossil fuels",
      "toelichting": "On Nov. 19, the U.S. Senate passed a bill that aims to speed up permitting for energy infrastructure projects. The 62-33 vote on the Bipartisan American Affordability and Jobs Act (BAAJA) included support from pro-enviro",
      "bron": "Mongabay (Engels)",
      "tijd": "18:58",
      "link": "https://news.mongabay.com/short-article/2026/11/us-bill-to-speed-up-clean-energy-projects-could-also-fast-track-fossil-fuels/",
      "sorteer": "2026-11-26T17:58:01+00:00"
-    },
-    {
-     "titel": "Tequila’s hangover: How the drink’s success drove deforestation in Mexico",
-     "toelichting": "For decades, Manuel García Castro has grown corn, squash and beans to feed his family and livestock. In 2019, he followed in the footsteps of prosperous local farmers and dedicated a portion of his land in the highlands ",
-     "bron": "Mongabay (Engels)",
-     "tijd": "16:44",
-     "link": "https://news.mongabay.com/2026/11/tequilas-hangover-how-the-drinks-success-drove-deforestation-in-mexico/",
-     "sorteer": "2026-11-26T15:44:26+00:00"
     }
    ]
   },
@@ -1519,11 +1528,11 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 110 plekken in de afgelopen week, waarvan 11 vandaag",
+     "titel": "Invasiejaar — op 111 plekken in de afgelopen week, waarvan 11 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 319 vogels; 559 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 320 vogels; 563 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1559,22 +1568,22 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": -4.1,
-    "gevoel": -6.6,
-    "wind": "ONO 1",
+    "nu": -3.8,
+    "gevoel": -8.1,
+    "wind": "ONO 2",
     "station": "Heino",
     "bericht": "Het is koud novemberweer. Met komende nachten op grote schaal matige vorst. Overdag komt de temperatuur amper boven het vriespunt uit, maar schijnt de zon volop.Vanavond is het weer overal helder.",
     "vandaag": "Vanavond is het weer overal helder. Vannacht is het helder en koud met lichte tot matige vorst.",
     "temperatuur": "Hierdoor zakt de temperatuur als een baksteen, en al snel is er op veel plaatsen sprake van matige vorst met een temperatuur iets onder -5 graden.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -4 tot 1 graden, droog, ruim 3 uur zon, wind uit het oosten, kracht 3.",
+     "zin": "Voor Dalfsen zelf: -2 tot 1 graden, droog, ruim 3 uur zon, wind uit het oosten, kracht 3.",
      "max": 1,
-     "min": -4,
+     "min": -2,
      "regenkans": 0,
      "omschrijving": "bewolkt",
      "morgen": {
       "max": 1,
-      "min": -7,
+      "min": -5,
       "regenkans": 0,
       "omschrijving": null
      }
