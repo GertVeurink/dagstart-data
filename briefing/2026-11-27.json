@@ -3,15 +3,15 @@
  "naam": "Avondbriefing",
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "18:00",
+  "opgehaald": "19:00",
   "blokken": 11,
-  "berichten": 102,
+  "berichten": 101,
   "problemen": [
    "AI Report: geen berichten in de archiefpagina gevonden"
   ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-27T18:00+01:00",
+ "opgehaald": "2026-11-27T19:00+01:00",
  "audio": "audio/20261127.mp3",
  "afval": [
   {
@@ -53,95 +53,54 @@
  ],
  "duiding": [
   {
-   "titel": "EU-top over begroting mislukt",
-   "tekst": "Volgens het Reformatorisch Dagblad is de EU-top over de begroting op een fiasco uitgelopen, en daarmee hebben de Europese leiders nog geen akkoord (22). De leiders blijven ook na de top verdeeld (22).",
+   "titel": "Ex-man Houten blijft langer vast",
+   "tekst": "De man die zijn ex-vrouw in Houten zou hebben doodgestoken, blijft twee weken langer vast, en het OM verdenkt hem van moord of doodslag (15, 22). Volgens de NOS wachtte hij haar woensdagochtend op een fietspad op, net nadat ze haar twee jongste kinderen naar school had gebracht (15). Anderhalf uur na de aanval meldde hij zich zelf op het bureau in Houten (15). De vrouw kreeg eerder hulp van het Oranje Huis in Utrecht, dat slachtoffers van huiselijk geweld bijstaat (15).",
    "verwijzingen": [
     {
-     "titel": "EU-top over begroting loopt uit op fiasco; leiders blijven even verdeeld",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUhFSVpSN3RxX18xZ2NZcXRzNW16R1VKT0VnbVNsS0xnM2lUczZxaEtYcVp3dDFqOTc0dWV1QnRpX0FmeUdqY1poUjNmT1FIenItbjZJTTR3Y0ZSMXNEN1pzOV96MzVLNmhKekpZZmlCMDZYbHdnZ2RLVkV4X1p0aDJJN3FVYVQ3NWc4aHdHdkwtaVlvVnc?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "11:47",
-     "nummers": [
-      22
-     ]
-    }
-   ],
-   "geschreven": "13:00"
-  },
-  {
-   "titel": "OM onderzoekt neonazi's uit Zembla",
-   "tekst": "Na de Zembla-documentaire over neonazi's is het OM een onderzoek begonnen naar de mensen die erin te zien waren, onder meer naar \"activiteiten gericht op discriminatie\" (4, 21). In die uitzending brachten aanwezigen bij kooigevechten openlijk de Hitlergroet en toonden ze hakenkruizen (4). Daarom krijgt het OM bij het onderzoek steun van de discriminatie-expertisecentra van OM en politie (4). Vervolging is volgens deskundigen tegen Nieuwsuur mogelijk maar niet eenvoudig, want uitlatingen zijn vaak pas strafbaar als ze in het openbaar zijn gedaan (4).",
-   "verwijzingen": [
-    {
-     "titel": "OM start onderzoek na neo-nazidocumentaire Zembla",
-     "link": "https://nos.nl/l/2641206",
+     "titel": "Man die zijn ex-vrouw doodstak in Houten verdacht van moord, blijft langer vastzitten",
+     "link": "https://nos.nl/l/2641275",
      "bron": "NOS",
-     "tijd": "10:14",
-     "nummers": [
-      4
-     ]
-    },
-    {
-     "titel": "OM stelt onderzoek in na neonazi-uitzending Zembla",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU2lGRThrSl9HaWptNmZJa08wbDZnX3VWMWh3NHpJdE5FREFhUURZTmpoSURLVWxqdnhMdXdldnZnWGlmYzlFc0dGZkR1YUFaOEpHWjZ0SXp2Ym1MUEVPQ0JteklBWHB3dTJmY2s4c2RkRkV2V2swS3dUc3RjcHhuNTJxaTZQbXVvTmVPU21La3lELXBfakNJ?oc=5",
-     "bron": "Trouw",
-     "tijd": "11:48",
-     "nummers": [
-      21
-     ]
-    }
-   ],
-   "geschreven": "13:00"
-  },
-  {
-   "titel": "Borsato krijgt helft kosten terug",
-   "tekst": "De rechtbank Midden-Nederland geeft Marco Borsato na zijn vrijspraak minder dan de helft terug van de kosten die hij van de Staat eiste (15). Die korting komt vooral doordat de rechtbank de advocatenkosten buitensporig hoog vindt (15). Zijn advocaten rekenden in vijf jaar ruim 825 uur, terwijl de rechtbank het dossier relatief overzichtelijk noemt (15). Borsato krijgt 202.744,03 euro van de geëiste 434.588,44 euro (15). Daarmee blijft ruim twee ton voor zijn eigen rekening (18).",
-   "verwijzingen": [
-    {
-     "titel": "Marco Borsato krijgt helft advocatenkosten terug: twee ton",
-     "link": "https://nos.nl/l/2641223",
-     "bron": "NOS",
-     "tijd": "11:34",
+     "tijd": "16:22",
      "nummers": [
       15
      ]
     },
     {
-     "titel": "Bonnetje advocaten Marco Borsato was ’bovenmatig’: ruim twee ton voor eigen rekening",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPckduY1d2b1E4TWdFeUN0STR3dkV3Rm4wT1FRVV8wQ040bVBiUGdHR25LUTlMQXlLUU4wMnZjbm53c2hJTWl1OHBKcW5kdVdEeXFNSUQtM3cwTndTUWg0eGFHTzUyZGZrX2pHTHA0bFJsZlZ6NXhmNEFfLUdyTWQ4RzZiNEhqa05jUEc5ZVctRFRfcVE5ZHkxR3gzazk4Sml3Z295MElPU3hDNmVrWGZfUnNwN1pVcDlJSllpSlVpV2xRcWJXMFpNeGVOSU13dFFW?oc=5",
+     "titel": "Man (39) blijft langer vast na dodelijke steekpartij op ex-partner in Houten",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVmpCLUNMOGlxc19ZaUJaYkpWazNiQXZqVFRkRXpzSEhxemRrTzBRbGVLVWhkUGw0OTBvUUc1STRTNEs4bmxhZ2NJUUx0UUhwdWZXY0wxci1Kd1kyMFhZeVAyODIwWk12SEVYVXVQZkVtbGJQc3hKUWR4Wl9mcmVTVVh2ZkVGM0JJUVVZZ2tGNFIxQzVHb3Z0UFNHR1hDcmswRXhTQ29Rd1Z6UllpRElUUHJ1Zk1kRGhQZWVFWmhYakx2R3M?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "12:20",
+     "tijd": "17:04",
      "nummers": [
-      18
+      22
      ]
     }
    ],
-   "geschreven": "13:00"
+   "geschreven": "19:00"
   },
   {
-   "titel": "Vorst legt voetbal en hockey stil",
-   "tekst": "Twente had vannacht met acht graden vorst de koudste 27 november ooit, en vier eerstedivisieduels van vanavond zijn afgelast (25, 14). Op 27 meetstations van het KNMI is een kouderecord verbroken (25). Daarom is ook het complete hoofdklasseprogramma hockey van zaterdag en zondag geschrapt (14). De eredivisie gaat volgens de KNVB vooralsnog wel door (14).",
+   "titel": "Nvidia-zaak raakt ook Nederland",
+   "tekst": "Volgens Nieuwsuur is de affaire rond de topman van Nvidia en een vermeende Chinese spion geen puur Amerikaanse kwestie, want erachter speelt de strijd om de meest geavanceerde chips (24). Trouw noemt die zaak tekenend voor de bemoeienis van Trump met de techindustrie (8). Nederland raakt volgens Nieuwsuur steeds verder verstrikt in die strijd, en daarbij gaat het om een miljardenbelang (24). Nieuwsuur bespreekt dat vanavond om 22.00 uur op NPO2 met techjournalist Diederik Baazil (24).",
    "verwijzingen": [
     {
-     "titel": "Kou in Nederland: schaatsen op natuurijs, eerstedivisieduels en hockeyprogramma afgelast",
-     "link": "https://nos.nl/l/2641224",
-     "bron": "NOS",
-     "tijd": "11:46",
+     "titel": "Nvidia-zaak is tekenend voor Trumps bemoeienis met de tech-industrie",
+     "link": "https://www.trouw.nl/buitenland/nvidia-zaak-is-tekenend-voor-trumps-bemoeienis-met-de-tech-industrie~b6460b74/",
+     "bron": "Trouw",
+     "tijd": "14:31",
      "nummers": [
-      14
+      8
      ]
     },
     {
-     "titel": "Koudste 27 november ooit, laagste temperatuur in Twente",
-     "link": "https://www.oost.nl/nieuws/3724166/koudste-27-november-ooit-laagste-temperatuur-in-twente",
-     "bron": "RTV Oost",
-     "tijd": "11:12",
+     "titel": "Nieuwsuur: De strijd om geavanceerde chips • Aanpak netwerk illegale prostitutie • Het oude Rotterdam is terug",
+     "link": "https://nos.nl/l/2641271",
+     "bron": "NPO2 · 22:00",
+     "tijd": "22:00",
      "nummers": [
-      25
+      24
      ]
     }
    ],
-   "geschreven": "13:00"
+   "geschreven": "19:00"
   }
  ],
  "denkwerk": {
@@ -175,46 +134,39 @@
  },
  "verder": [
   {
-   "kop": "Overvaller snackbar Borne opgepakt",
+   "kop": "Politie zoekt verdachte explosie",
    "blok": "lokaal",
-   "link": "https://www.oost.nl/nieuws/3724205/snackbarhouder-joeg-overvaller-zijn-zaak-uit-verdachte-nu-opgepakt",
+   "link": "https://www.oost.nl/nieuws/3724316/politie-zoekt-verdachte-na-explosie-in-hengelo",
    "bron": "RTV Oost",
-   "titel": "Snackbarhouder joeg overvaller zijn zaak uit, verdachte nu opgepakt"
+   "titel": "Politie zoekt verdachte na explosie in Hengelo"
   },
   {
-   "kop": "Celstraf geëist voor coma Deventer",
+   "kop": "Schoondochter verjaagt nepagent",
    "blok": "lokaal",
-   "link": "https://www.oost.nl/nieuws/3723986/celstraffen-geeist-voor-in-coma-slaan-op-straat-in-deventer",
+   "link": "https://www.oost.nl/nieuws/3722184/schoondochter-jaagt-nepagent-weg-uit-seniorencomplex-ik-was-echt-helemaal-boos",
    "bron": "RTV Oost",
-   "titel": "Celstraffen geëist voor 'in coma slaan' op straat in Deventer"
+   "titel": "Schoondochter jaagt nepagent weg uit seniorencomplex: 'Ik was echt helemaal boos'"
   },
   {
-   "kop": "Kom krijgt trajectcontrole",
+   "kop": "Odido gedaagd om datalek",
    "blok": "nationaal",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUnh4b3BKM25KZFROMGcxdnVuX2ttSklBQnFQSXZONngyaFFDUDFvQUxnbGVuaENwZlBBdnU1WHplVHdQVG5Ta1pUZktScUVZQXl3UFBFcU1rNEdqSzBBVEplVUh1bHVLZW42MkNfX3hNbC1iSnUwek1faFI2NGh5eG5fdFBuNEFKdlpEOWtOZ2RVRkprT09LOTNYaFVlb3VPcmpxYTgybjFlS3VReGNmX3lxdW5kSWhRTmtqRDV2Sk1pWlgwVzRMMmlVaWZmem5IalRHT3NFTWk?oc=5",
-   "bron": "De Telegraaf",
-   "titel": "Automobilisten zijn gewaarschuwd: trajectcontrole voor het eerst ook binnen de bebouwde kom"
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPazZ2WTJ3OEdUVy00WjNydEs3QVhLQy1hM29JWGc1ejhqVW91QlhOQW9zRjhwaV9IMFE1R2tCNFdxbGpTSDNwNVlJRmVESXZUbHI5dWJ1cFNqVWVLdzRXaXkxZi1xSUgzdkN2UElKWV9kdkV4VXpHZktqR1BBeG1YRDlJX19jSjVUX0pxLWxZU1d6WGxKX2lPWEk2UmRHYUJRUTlQdXdKbEdDTUZMU2YxVksyS3NDa2VEaXlwQ0tOaEV4clNJcTJCUDE3RjNKUUFk?oc=5",
+   "bron": "Het Parool",
+   "titel": "Odido voor de rechter gesleept om datalek, schadevergoeding van 500 euro per gedupeerde geëist"
   },
   {
-   "kop": "Douane vindt schildpadden in tape",
+   "kop": "Erasmus MC wil klokkenluider weg",
    "blok": "nationaal",
-   "link": "https://nos.nl/l/2641232",
-   "bron": "NOS",
-   "titel": "Zeldzame modderschildpadden in ducttape gevonden op Schiphol"
+   "link": "https://www.volkskrant.nl/binnenland/erasmus-mc-wil-klokkenluider-ontslaan-die-misstanden-op-ic-afdeling-meldde-bij-inspectie~bd3bac82/",
+   "bron": "de Volkskrant",
+   "titel": "Erasmus MC wil klokkenluider ontslaan die misstanden op ic-afdeling meldde bij inspectie"
   },
   {
-   "kop": "Oekraïne valt Sint-Petersburg aan",
+   "kop": "Rechter wijst eis Gazanen af",
    "blok": "internationaal",
-   "link": "https://nos.nl/l/2641212",
+   "link": "https://nos.nl/l/2641243",
    "bron": "NOS",
-   "titel": "Gewonde bij droneaanval in Sint-Petersburg, ook explosies ten zuiden van Moskou"
-  },
-  {
-   "kop": "SAP wil 10.000 banen schrappen",
-   "blok": "ai",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UX1NyTmd6M2tVa2paTy04T2N1S2xmRXV6VTBneXdjM1paRTd5RkU0X0ZUdVNRUm9aRFFJMlZfX0c4dVZ1Tl90aFFlSm1hWWczVmFibHd5TUpwRktIMV9WVVlqTVVtZVo4V2FuYjFvZTlYRE5IQWhQQmgxOA?oc=5",
-   "bron": "Reformatorisch Dagblad",
-   "titel": "Bloomberg: SAP wil 10.000 banen schrappen vanwege AI"
+   "titel": "Rechter: Staat hoeft Gazanen niet te helpen om naar Nederland te komen"
   }
  ],
  "blokken": [
@@ -296,6 +248,55 @@
      "sorteer": "2026-11-27T13:31:00+00:00"
     },
     {
+     "titel": "The Com: the global cybercrime network posing a ‘chilling threat’ to children",
+     "context": "FBI estimates thousands of people identify as members, or recent members, of group linked to indecent images of girls and blackmail It sounds benign: the Com, short for the Community. But crime agencies around the world warn that it is far from that and the young cybercriminals involved are causing havoc and putting children at chilling, sickening risk. Beau-Jack Mensforth was jailed by a UK judge",
+     "rubrieken": [
+      "Cybercrime",
+      "Crime",
+      "UK news",
+      "Online abuse",
+      "Internet",
+      "Society",
+      "Social media",
+      "Digital media"
+     ],
+     "link": "https://www.theguardian.com/technology/2026/nov/27/the-com-global-cybercrime-network-posing-chilling-threat-to-children",
+     "bron": "The Guardian",
+     "tijd": "18:53",
+     "sorteer": "2026-11-27T17:53:30+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Spanish Police Find a Vast Marijuana Bunker Beneath a Backyard Playground",
+     "context": "Five people were arrested in southern Spain after a large marijuana farm was found under a playhouse on artificial turf.",
+     "rubrieken": [
+      "Marijuana",
+      "Playgrounds",
+      "Drug Abuse and Traffic",
+      "Artificial Turf",
+      "Granada (Spain)",
+      "Civil Guard (Spain)"
+     ],
+     "link": "https://www.nytimes.com/2026/11/27/world/europe/marijuana-farm-spain-playground.html",
+     "bron": "New York Times",
+     "tijd": "18:45",
+     "sorteer": "2026-11-27T17:45:33+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Kenyan doomsday cult leader convicted over further 123 deaths",
+     "context": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "18:19",
+     "sorteer": "2026-11-27T17:19:31+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
      "titel": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
      "context": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
      "rubrieken": [],
@@ -303,63 +304,6 @@
      "bron": "BBC",
      "tijd": "17:53",
      "sorteer": "2026-11-27T16:53:46+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Jared Kushner’s 70-minute interview shows the peril of treating Putin like a corporate rival",
-     "context": "Trump’s son-in-law and top negotiator paints Russian invasion of Ukraine as a misunderstanding to be resolved In the space of a 70-minute interview, Jared Kushner – Donald Trump’s son-in-law and a prominent US negotiator in Russia, Gaza and Iran – probably did more to reveal why the world is mired in entrenched conflicts than a thousand geopolitical tomes or seminars. During the conversation this ",
-     "rubrieken": [
-      "Jared Kushner",
-      "Russia",
-      "Ukraine",
-      "Vladimir Putin",
-      "Axel Springer",
-      "US news",
-      "World news"
-     ],
-     "link": "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival",
-     "bron": "The Guardian",
-     "tijd": "17:49",
-     "sorteer": "2026-11-27T16:49:59+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Canada’s Top Court Lets Quebec Use Controversial Measure for Secularism Law",
-     "context": "Quebec had used the measure to pass a law barring certain public workers, like schoolteachers and police officers, from wearing religious symbols on duty, which critics called discriminatory.",
-     "rubrieken": [
-      "Canada",
-      "Quebec Province (Canada)",
-      "Law and Legislation",
-      "Freedom of Religion",
-      "Freedom of Speech and Expression",
-      "Constitutions",
-      "Civil Rights and Liberties",
-      "Symbols",
-      "Carney, Mark J",
-      "St-Pierre Plamondon, Paul",
-      "Blanchet, Yves-Francois",
-      "Parti Quebecois (Canada)",
-      "Roman Catholic Church",
-      "Religion-State Relations",
-      "Teachers and School Employees"
-     ],
-     "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
-     "bron": "New York Times",
-     "tijd": "17:39",
-     "sorteer": "2026-11-27T16:39:54+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Kenyan doomsday cult leader convicted over further 123 deaths",
-     "context": "Paul Mackenzie is found guilty of killing followers, weeks after being jailed for the mass murder of children.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "17:06",
-     "sorteer": "2026-11-27T16:06:37+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -429,6 +373,15 @@
      "sorteer": "2026-11-27T15:16:21+01:00"
     },
     {
+     "titel": "Erasmus MC wil klokkenluider ontslaan die misstanden op ic-afdeling meldde bij inspectie",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/binnenland/erasmus-mc-wil-klokkenluider-ontslaan-die-misstanden-op-ic-afdeling-meldde-bij-inspectie~bd3bac82/",
+     "bron": "de Volkskrant",
+     "tijd": "18:30",
+     "sorteer": "2026-11-27T17:30:10+00:00"
+    },
+    {
      "titel": "Dood Syrische man in vrieskist wijst op breder probleem: ‘Migrantenjongeren proberen te overleven’",
      "context": "",
      "rubrieken": [],
@@ -436,15 +389,6 @@
      "bron": "de Volkskrant",
      "tijd": "16:47",
      "sorteer": "2026-11-27T15:47:09+00:00"
-    },
-    {
-     "titel": "Trajectcontrole in de binnenstad moet veel ongelukken gaan voorkomen",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/trajectcontrole-in-de-binnenstad-moet-veel-ongelukken-gaan-voorkomen~b1a54f29/",
-     "bron": "de Volkskrant",
-     "tijd": "15:23",
-     "sorteer": "2026-11-27T14:23:00+00:00"
     },
     {
      "titel": "Het is koud, dus we schaatsen: ‘Het zit blijkbaar echt in onze cultuur’",
@@ -456,11 +400,18 @@
      "sorteer": "2026-11-27T16:31:37+00:00"
     },
     {
-     "titel": "Marco Borsato laat van zich horen na uitspraak over advocaatkosten",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZzlNamE3NGZkZ08tczVNdHpkSGhKbTYwUVlzVS1qbzhVVHBnTjFzM2JtTzFXZGNaOFFoT3p6TWFCUVNLOHNyTENqenlLbGtqeVJZbGlMT1IwZk5hRC1zbVk3WFV2VzF0cGJOWHp0RjF0QUU4LXpSZlFhUjBlc1pHNlpkUGgzQ2NDcDNIM2VjMHUzQzFXOGFvMmNBV1c5NFJWc29FSzhaWHhEd1ota1dtRUtn?oc=5",
-     "bron": "RTL.nl",
-     "tijd": "17:52",
-     "sorteer": "2026-11-27T16:52:38+00:00"
+     "titel": "Odido voor de rechter gesleept om datalek, schadevergoeding van 500 euro per gedupeerde geëist",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPazZ2WTJ3OEdUVy00WjNydEs3QVhLQy1hM29JWGc1ejhqVW91QlhOQW9zRjhwaV9IMFE1R2tCNFdxbGpTSDNwNVlJRmVESXZUbHI5dWJ1cFNqVWVLdzRXaXkxZi1xSUgzdkN2UElKWV9kdkV4VXpHZktqR1BBeG1YRDlJX19jSjVUX0pxLWxZU1d6WGxKX2lPWEk2UmRHYUJRUTlQdXdKbEdDTUZMU2YxVksyS3NDa2VEaXlwQ0tOaEV4clNJcTJCUDE3RjNKUUFk?oc=5",
+     "bron": "Het Parool",
+     "tijd": "18:22",
+     "sorteer": "2026-11-27T17:22:35+00:00"
+    },
+    {
+     "titel": "Nederlander Willem S. (58) die in Indonesië levenslang kon krijgen, overlijdt kort voor uitspraak: ’Ineens zuurstoftekort’",
+     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWnRjcTZrd3JqV2JyTGEzMmxVbjhmUmdYUHZBd1dROVl4TEp2cjhYVjYzeG1jMGlGSDJqSjFJLXBlRU1PT2VqVjZFOUJ3eFl3ejBtNkhFV09YYmRnMURWT2RwOEI3cjJiWVNhOGMwbndPc3RVY3lwbE1jbjZRQUU5QTFtd1VLMkpkRTFxNEgxbkJnd2ljN1R1RmFERzc5NUJtRnZGOThxRzBvWGgzdnNobG1HVUxDX0NyQ2Jmbmg1OE14dUZ3TUVrbjNVU19ySy1qb3ozZXJnYWhvSENxNjBrSU5nQUw2dFk5emNHcXFuWUJxblUtRGZnQW00UQ?oc=5",
+     "bron": "De Telegraaf",
+     "tijd": "18:18",
+     "sorteer": "2026-11-27T17:18:53+00:00"
     },
     {
      "titel": "Man (39) blijft langer vast na dodelijke steekpartij op ex-partner in Houten",
@@ -470,18 +421,11 @@
      "sorteer": "2026-11-27T16:04:39+00:00"
     },
     {
-     "titel": "Verdachte doodsteken ex-partner blijft twee weken langer vast",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeEhlcFFlTGtPYl9qZ2xzNXRtQUVyeEFVemZEaEV3N1JwM2tmTXpJVjJYci1KNnBYZm0tLWx1YmFTYnJMd0VNVXNTU1U3ZjZnZmlqV1V4Rlc4MlU0VzhaLWR5eEp2dWkwT1AxcXNrLUJYeUEtNlJYdTRoVXpfWFJDaURJc2MwdTc0?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "16:36",
-     "sorteer": "2026-11-27T15:36:38+00:00"
-    },
-    {
-     "titel": "Onthutsend kijkje in werkwijze van Tarwekamp-verdachten: ’Ik ga je vertellen, bro, ga uit de radar’",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORmFkME9tSUEtcWMxcEQ3MjU1UTlTVXFHQlFTXzRLRl80T0VqdnlpQVNaRldWUU5maERMS2pqUlE0bzlDVjRGekx2QVRNRlhjZzVPTHRPV2kwTWdBSzJGVGFkcGEtak1DWndkZlJIMUVZSUpuZWt6WGtwNUx0WDRZNFJ1b1VnX3Q0SGpObXZlZG5MSy15Si1RR19wamYzbm9oUGdjTkNqMVZGRHRKVkZ0WEFRc1dHakhaekZfY0dPeTZUUG1xOGpmZVQ3azVrQks3UW4yVFV3Smw?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "16:33",
-     "sorteer": "2026-11-27T15:33:25+00:00"
+     "titel": "Die ene vrouw met een kalasjnikov aan de muur zegt misschien wel alles over Dilan Yesilgöz",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTzRFOUpZcDhyejJRbGlNS3FPbjBuQVFBQm95NUxGWjhsZ1kzd2M0YzNxWVU2dTJDdVZmMlFCeW1tam5XWXZPMjdwLVlEcktHaS1laXRXbEwwaTFjWURyX2VjcjNXNFpBWmtyOEdDTGs3dUo4ZDBrZGxFVkVPRlZiY1RHY2dTZml1M1J0Wnl3MjYzWllxekxqWm9jb0k0YkdMUzMzTFREVGp3QXZfTmp5RkpTTThSbUFYeDVFd2NoUUY4LWxVeHc?oc=5",
+     "bron": "Brabants Dagblad",
+     "tijd": "18:30",
+     "sorteer": "2026-11-27T17:30:11+00:00"
     },
     {
      "titel": "Ik ga met verlof (nee, ik krijg geen kind en ik ga ook geen boek schrijven)",
@@ -511,7 +455,7 @@
      "link": "https://www.volkskrant.nl/politiek/compromis-over-meerjarenbegroting-eu-integendeel-alle-leiders-diepten-hun-loopgraaf-nog-wat-verder-uit~bf864474/",
      "bron": "de Volkskrant",
      "tijd": "17:16",
-     "sorteer": "2026-11-27T16:16:27+00:00",
+     "sorteer": "2026-11-27T16:16:00+00:00",
      "kop": "Begroting"
     },
     {
@@ -531,6 +475,15 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Schoondochter jaagt nepagent weg uit seniorencomplex: 'Ik was echt helemaal boos'",
+     "context": "Een nepagent heeft de telefoon van een oudere vrouw al overgenomen als haar schoondochter binnenkomt. Die jaagt hem weg. “Ik voelde zoveel onrechtvaardigheid. Ik dacht: dit is niet oké. Toen hij weg wilde gaan, was ik echt helemaal boos.” De man vlucht halsoverkop het seniorencomplex in Raalte uit.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3722184/schoondochter-jaagt-nepagent-weg-uit-seniorencomplex-ik-was-echt-helemaal-boos",
+     "bron": "RTV Oost",
+     "tijd": "18:04",
+     "sorteer": "2026-11-27T17:04:22+00:00"
+    },
     {
      "titel": "Met roze camper hoopt Geldfit zoveel mogelijk mensen te informeren: 'Vraag hulp'",
      "context": "Niet weten welke regelingen jou kunnen helpen of vragen over je rechten als zzp'er: dit soort vragen krijgen mensen van Geldfit als ze met hun roze camper door Zwolle trekken. Minister Hans Vijlbrief van Sociale Zaken komt een middag polshoogte nemen. \"Het valt tegen hoeveel mensen weten waar ze recht op hebben.\"",
@@ -577,40 +530,29 @@
      "sorteer": "2026-11-27T14:24:13+00:00"
     },
     {
-     "titel": "Wie meldt zich om te praten over appgroep 't Haviksoog?",
-     "context": "De politie Oost-Nederland probeert meer duidelijkheid te krijgen over de WhatsAppgroep 't Haviksoog. Ze roept mannen die in de groep zaten op om zich te melden als getuige.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3724203/wie-meldt-zich-om-te-praten-over-appgroep-t-haviksoog",
-     "bron": "RTV Oost",
-     "tijd": "14:18",
-     "sorteer": "2026-11-27T13:18:12+00:00"
-    },
-    {
-     "titel": "Caruba Afstandbediening gevonden bij Oude Oever",
-     "context": "OUDLEUSEN – Hallo, voor de rubriek Kwiet en weer terechte: Gevonden op de picknicktafel bij Vechtarm Oude Oever: een Caruba afstandsbediening voor een camera. De eigenaar kan mij een mailtje sturen Groet, Vincent",
+     "titel": "Gezellige drukte op bazaar bij Rosengaerde",
+     "context": "DALFSEN – Vanmiddag vond bij Rosengaerde aan de Brandkolkstraat de jaarlijkse bazaar plaats. Bezoekers konden rondneuzen tussen allerlei tweedehands spullen. Dit jaar waren er ook veel artikelen te koop die vanwege de verhuizing beschikbaar waren gekomen, waaronder decoratie, kantoorartikelen en bloemvazen. Buiten stond bovendien allerlei meubilair dat voor een prikje van eigenaar wisselde. De […]",
      "rubrieken": [
-      "Ingezonden bericht",
-      "Kwiet en weer terechte",
-      "Laatste nieuws",
-      "Oudleusen"
+      "Dalfsen",
+      "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/557465/caruba-afstandbediening-gevonden-bij-oude-oever.html",
+     "link": "https://www.dalfsennet.nl/nieuws/557481/gezellige-drukte-op-bazaar-bij-rosengaerde.html",
      "bron": "DalfsenNet",
-     "tijd": "17:49",
-     "sorteer": "2026-11-27T16:49:37+00:00"
+     "tijd": "18:58",
+     "sorteer": "2026-11-27T17:58:36+00:00"
     },
     {
-     "titel": "Morgen weer bomen planten bij Frion",
-     "context": "LEMELERVELD – Ze gaan weer verder met het voedselbos bij Lemelerveld. Kom je weer helpen bij Voedselbos net als een jaar geleden? Op zaterdag 28 november van 13:00 tot 16:00 en op zaterdag 12 december van 13:00 tot 16:00 gaan wij aan de slag met het planten van bomen in het nieuwe Voedselbos Lemelerveld bij […]",
+     "titel": "Inwoners OV planten recordaantal bomen en struiken",
+     "context": "REGIO – Dit plantseizoen gaat er een recordaantal bomen en struiken de grond in. De komende maanden planten inwoners, vrijwilligers, gemeenten, scholen, zorginstellingen en natuurorganisaties meer dan 215.000 bomen, struiken en heggen in heel Overijssel. Lees hier verder",
      "rubrieken": [
       "Ingezonden bericht",
       "Laatste nieuws",
-      "Lemelerveld"
+      "Regio"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/557460/morgen-weer-bomen-planten-bij-frion.html",
+     "link": "https://www.dalfsennet.nl/nieuws/557477/inwoners-ov-planten-recordaantal-bomen-en-struiken.html",
      "bron": "DalfsenNet",
-     "tijd": "17:23",
-     "sorteer": "2026-11-27T16:23:51+00:00"
+     "tijd": "18:07",
+     "sorteer": "2026-11-27T17:07:04+00:00"
     }
    ]
   },
@@ -702,20 +644,6 @@
      "tijd": "06-11",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D56181",
      "sorteer": "2026-11-26T09:39:24.247+01:00"
-    },
-    {
-     "titel": "AI-bedrijf failliet: miljoenen privéchats klanten staan te koop",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeVFlVTQ5Ulptcmp4cGlMby1DS1k2VmlndEtWYkhPekRQckU1ZUVpSW9DWVM2Rm5sTlNONkpURlpseHlrSldWd3ZoU3Z3ZVVucGU5NVFEeFFiSVVBWXFwZUVDSERldktac0dpcW8yZ1RJQ3ZuUUNMNC0wUktfRC1pZ0FaVmUxQTc0MnJrMW1zSWpUNjlvZWEyVzQ3c1Y4ajV1SUY1Q1EzWFdTN3BPM0Fvekgxdw?oc=5",
-     "bron": "RTL.nl",
-     "tijd": "12:19",
-     "sorteer": "2026-11-27T11:19:16+00:00"
-    },
-    {
-     "titel": "Westerbork worstelt met AI-foto's van Holocaust: 'Bijna dagelijks nepbeelden'",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY0hkaWtnVG5jYUR3MldPUFk0QTllTHNMR2hhUlB5dGs2Q1pfbTlBVDRNNUxzQkpqSndnUWUxaXNYMWUyWGx6YjFMX3NJTzVfdHc5UzI3QjFRckZiTHRsRUx3YmIyRDV5QVRBVkZabGRZX0ktejJrQmxyUXluWkFUMUhXYnVLVHJVQVVZdTJ4bUhrbzBhMjNxbWtDbmJkbXRUaHIwR2pxV0I?oc=5",
-     "bron": "NOS",
-     "tijd": "13:49",
-     "sorteer": "2026-11-27T12:49:18+00:00"
     }
    ]
   },
@@ -932,7 +860,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "18:00",
+    "bijgewerkt": "19:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1341,20 +1269,20 @@
      "link": "https://scientias.nl/waarom-vliegende-eekhoorns-kunnen-helpen-bij-het-herstel-van-tropisch-regenwoud/"
     },
     {
+     "titel": "International Jaguar Day: Big cats hold on at the edges of their range",
+     "toelichting": "International Jaguar Day has been marked every Nov. 29 since 2018, to raise awareness of the threats faced by the Americas’ biggest cats and the efforts to protect them. Jaguars (Panthera onca) were once found across som",
+     "bron": "Mongabay (Engels)",
+     "tijd": "18:37",
+     "link": "https://news.mongabay.com/short-article/2026/11/international-jaguar-day-big-cats-hold-on-at-the-edges-of-their-range/",
+     "sorteer": "2026-11-27T17:37:23+00:00"
+    },
+    {
      "titel": "Refugee families use agroforestry to restore degraded landscape in Bangladesh camp",
      "toelichting": "KUTUPALONG REFUGEE CAMP, Bangladesh —”It is like a jail, but it isn’t a jail,” says Roshid Ahamed Bin, a 47-year-old Rohingya farmer, living in what is now a refugee camp in Bangladesh. It is far from the farmland where ",
      "bron": "Mongabay (Engels)",
      "tijd": "16:32",
      "link": "https://news.mongabay.com/2026/11/refugee-families-use-agroforestry-to-restore-degraded-landscape-in-bangladesh-camp/",
      "sorteer": "2026-11-27T15:32:02+00:00"
-    },
-    {
-     "titel": "In Republic of Congo, residents and a scientist take on a fight against lead pollution",
-     "toelichting": "Nearly 120 residents of Vindoulou, a neighborhood in Pointe-Noire, Republic of Congo, have filed a civil claim before the city’s High Court in relation to pollution allegedly caused by a foundry. “We want tests, but also",
-     "bron": "Mongabay (Engels)",
-     "tijd": "16:19",
-     "link": "https://news.mongabay.com/2026/11/in-republic-of-congo-residents-and-a-scientist-take-on-a-fight-against-lead-pollution/",
-     "sorteer": "2026-11-27T15:19:59+00:00"
     }
    ]
   },
@@ -1439,46 +1367,54 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 90 soorten, 10.808 vogels geteld",
+     "titel": "Landelijk vandaag: 110 soorten, 14.000 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261127?language=dutch"
     },
     {
-     "titel": "Zwarte Zee-eend — 4.309",
+     "titel": "Zwarte Zee-eend — 5.006",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261127?language=dutch"
     },
     {
-     "titel": "Aalscholver — 1.273",
+     "titel": "Roodkeelduiker — 1.759",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261127?language=dutch"
     },
     {
-     "titel": "Roodkeelduiker — 1.124",
+     "titel": "Aalscholver — 1.290",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261127?language=dutch"
     },
     {
-     "titel": "Spreeuw — 648",
+     "titel": "Kuifeend — 875",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261127?language=dutch"
     },
     {
-     "titel": "Koperwiek — 618",
+     "titel": "Spreeuw — 678",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261127?language=dutch"
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Kuifeend springt eruit — 875, normaal 26",
+     "bron": "34× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261127?language=dutch",
+     "sein": true
     },
     {
      "kop": "Vogeltrek",
@@ -1490,15 +1426,15 @@
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Fuut springt eruit — 351, normaal 29",
-     "bron": "12× het gewone niveau",
+     "titel": "Fuut springt eruit — 363, normaal 29",
+     "bron": "13× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261127?language=dutch",
      "sein": true
     },
     {
      "kop": "Vogeltrek",
-     "titel": "Koperwiek springt eruit — 618, normaal 190",
+     "titel": "Koperwiek springt eruit — 636, normaal 190",
      "bron": "3× het gewone niveau",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261127?language=dutch",
@@ -1514,15 +1450,15 @@
     },
     {
      "kop": "Pestvogels",
-     "titel": "Invasiejaar — op 102 plekken in de afgelopen week, waarvan 10 vandaag",
+     "titel": "Invasiejaar — op 103 plekken in de afgelopen week, waarvan 11 vandaag",
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 307 vogels; 589 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 313 vogels; 592 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
-     "titel": "14 plekken binnen 75 km van Dalfsen",
+     "titel": "15 plekken binnen 75 km van Dalfsen",
      "bron": "dichtstbij: Zwolle - Buurtschap Harculo, 11 km (2026-11-26)",
      "tijd": "13:17",
      "link": "https://waarneming.nl/species/306/observations/"
@@ -1548,9 +1484,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": -3.0,
-    "gevoel": -5.4,
-    "wind": "O 1",
+    "nu": -3.8,
+    "gevoel": -6.6,
+    "wind": "O 2",
     "station": "Heino",
     "bericht": "Vannacht is het helder en koud met op veel plaatsen 3 tot 7 graden vorst. Zaterdag start zonnig, in de middag krijgen we steeds meer bewolking. Er waait een koude zuidoostenwind en het wordt 1 tot 4 graden.",
     "vandaag": "Vannacht is het helder en koud met op veel plaatsen 3 tot 7 graden vorst. Vanavond en vannacht is het helder met verspreid wat velden sluierbewolking en blijft het droog.",
@@ -1583,5 +1519,15 @@
     }
    }
   }
+ ],
+ "archief": [
+  "2026-11-27",
+  "2026-11-26",
+  "2026-11-25",
+  "2026-11-24",
+  "2026-11-23",
+  "2026-11-22",
+  "2026-11-21",
+  "2026-11-20"
  ]
 }
