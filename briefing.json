@@ -3,17 +3,16 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "07:00",
+  "opgehaald": "08:00",
   "blokken": 11,
   "berichten": 103,
   "problemen": [
    "google 'rechtsstaat OR grondwet OR hoo': HTTP 429",
    "AI Report: geen berichten in de archiefpagina gevonden"
   ],
-  "audio_herkomst": "model",
-  "audio_aangehaakt": "07:20"
+  "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-27T07:00+01:00",
+ "opgehaald": "2026-11-27T08:00+01:00",
  "audio": "audio/20261127.mp3",
  "afval": [
   {
@@ -229,7 +228,7 @@
     },
     {
      "titel": "Honderdduizenden Amerikanen op feestdag zonder stroom door noodweer",
-     "context": "In de VS zitten op Thanksgiving, een van de belangrijkste feestdagen in het jaar, meer dan 800.000 Amerikanen zonder stroom. De meesten wonen in staten aan de oostkust, maar volgens een website die de stroomuitval bijhoudt zitten ook in Missouri in het Midden-Westen tienduizenden mensen zonder elektriciteit. De oorzaken zijn zware storm, regenval en sneeuw. In de VS lopen veel elektriciteitsverbin",
+     "context": "In de VS zitten op Thanksgiving, een van de belangrijkste feestdagen in het jaar, meer dan 800.000 Amerikanen zonder stroom. De meesten wonen in staten aan de oostkust, maar volgens een website die de stroomuitval bijhoudt zitten ook in Missouri in het Midden-Westen tienduizenden mensen zonder elektriciteit. De oorzaken zijn zware storm, regenval en sneeuw. In New York zijn bomen omgewaaid en zitt",
      "rubrieken": [],
      "link": "https://nos.nl/l/2641174",
      "bron": "NOS",
@@ -274,6 +273,32 @@
      "sorteer": "2026-11-27T04:00:53+00:00"
     },
     {
+     "titel": "Grace Tame calls out ex-Murdoch media executive who said she ‘must be looking to be raped again’",
+     "context": "Matt Handbury, nephew of Rupert Murdoch, admits making offensive remark and says he was referencing assault survivor’s ‘strikingly attractive get-up’ Get our breaking news email , free app or daily news podcast A former Murdoch media executive has admitted he said Grace Tame “must be looking to be raped again” at an event after the former Australian of the year overheard the comment and confronted",
+     "rubrieken": [
+      "Grace Tame",
+      "Australia news",
+      "Sexual harassment"
+     ],
+     "link": "https://www.theguardian.com/australia-news/2026/nov/27/grace-tame-responds-former-murdoch-executive-nephew-rape-comment-ntwnfb",
+     "bron": "The Guardian",
+     "tijd": "07:54",
+     "sorteer": "2026-11-27T06:54:59+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Could housing decide Spain's general election?",
+     "context": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "07:09",
+     "sorteer": "2026-11-27T06:09:31+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
      "titel": "In Praise of My Typewriter",
      "context": "The A.I. projects editor at The New York Times uses chatbots every day. But when it’s time to write, he reaches for an Olivetti Lettera 22 from the 1950s.",
      "rubrieken": [
@@ -290,21 +315,6 @@
      "bron": "New York Times",
      "tijd": "06:45",
      "sorteer": "2026-11-27T05:45:53+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Erin Patterson launches high court appeal bid over mushroom murder convictions",
-     "context": "Patterson, 52, seeks leave to appeal to Australia’s highest court over deaths of estranged family members after fatal beef wellington lunch Get our breaking news email , free app or daily news podcast Erin Patterson has applied to the high court seeking leave to appeal after a failed bid last month to overturn her triple murder conviction. Patterson, 52, was found guilty last year of the murders o",
-     "rubrieken": [
-      "Erin Patterson mushroom trial",
-      "Victoria",
-      "Australia news"
-     ],
-     "link": "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb",
-     "bron": "The Guardian",
-     "tijd": "06:31",
-     "sorteer": "2026-11-27T05:31:38+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -341,17 +351,6 @@
      "sorteer": "2026-11-27T04:30:00+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-     "context": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "04:28",
-     "sorteer": "2026-11-27T03:28:15+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
     }
    ]
   },
@@ -360,6 +359,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Grote brand op industrieterrein in olieopslag Moerdijk geblust",
+     "context": "In Moerdijk heeft een grote brand gewoed op een industrieterrein. De vlammen sloegen vanochtend vroeg uit een pand waar plantaardige vetten en oliën worden opgeslagen. Om 06.43 uur was de brand geblust en werd het sein brand meester gegeven. De eerste melding van de brand kwam rond 05.00 uur binnen, schrijft Omroep Brabant. De brandweer rukte toen massaal uit. Nu de situatie onder controle is, zal",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2641190",
+     "bron": "NOS",
+     "tijd": "07:02",
+     "sorteer": "2026-11-27T07:02:17+01:00"
+    },
     {
      "titel": "Wekdienst 27/11: Verdachte moordzaak Houten voorgeleid • Start wereldbekerseizoen veldrijden",
      "context": "Goedemorgen! Vandaag wordt de verdachte van de moord in Houten voor het eerst voorgeleid. Ook begint het wereldbekerseizoen veldrijden. Eerst het weer: Het is vrij zonnig en koud met in het hele land vorst. Over het noorden en oosten trekken wolkenvelden en kan het mistig zijn. Vanmiddag lost de mist op en gaat op steeds meer plaatsen de zon schijnen. De temperatuur stijgt naar een enkele graad en",
@@ -397,16 +405,6 @@
      "sorteer": "2026-11-27T01:30:59+01:00"
     },
     {
-     "titel": "Ghanese kunstdocent krijgt Prins Claus Impact Award",
-     "context": "Prins Constantijn heeft vanmiddag de Prins Claus Impact Award uitgereikt aan de Ghanese kunstenaar Kari'k chä Seid'ou. Bij de uitreiking in het Paleis op de Dam waren ook koning Willem-Alexander, koningin Máxima en prinses Beatrix aanwezig. De award van het Prins Claus Fonds wordt elke twee jaar uitgereikt aan een internationale kunstenaar die bijdraagt aan maatschappelijke verandering. De prijs h",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2641162",
-     "bron": "NOS",
-     "tijd": "21:58",
-     "sorteer": "2026-11-26T21:58:17+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
      "titel": "Een leven na borstkanker met één, twee of geen borsten",
      "context": "",
      "rubrieken": [],
@@ -434,32 +432,32 @@
      "sorteer": "2026-11-27T03:21:00+00:00"
     },
     {
-     "titel": "Aansluiten bij terreurgroep in buitenland kan je je paspoort kosten",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdoV1ZVMmluaHpOV01jXzJkcjRoeWs5MmNHZW5IQVdRNDJWZml1ZlNrb01TVlUtRGFkZHVNVG05LS1nUjd3OXVZSTlfSlZQdDV0ek1rT01GVmp2SFBkV0llT1EzdFJnVmZiSWtoRERNd3daXzZkaXhkVEtKc0ZLM0dtUTlYY3poSS1KazhBZ3VTWnJySWJLcw?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "03:33",
-     "sorteer": "2026-11-27T02:33:18+00:00"
-    },
-    {
-     "titel": "Moeder verdacht van doodsteken zoon (12) in Eerbeek naar Pieter Baan Centrum",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOWlhXzNLNF9qc1RtQW9PT3dvS3NuUnEwcVpBbEZESWJKOWlDTlRza005NXpPdEEyel9vNnBlRzQ2M0N0em1RYzFyTzZZXzJtNklzRmdxRjRXenVxMm9IdXpSOFliYm9YNTlpbVpWbEYtWVM0T3hoekJQclBiS2NreDVwQVJFNHVOYTBXbmdab2s2QmpQdGh6dkZoUFJUdGFRLUcyWmVsSmYyMVhnNUowUkoxdGplejA3amlUb3d6cm5rb0E?oc=5",
+     "titel": "Esmée D. (25) verdacht van gifmoord op partner:'De rechter smeekte haar om te praten’",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMnh0VDdaQlQyazh2dUJHRnpNLWZ5RWltZHhQeEFabTZQeUJfVWdKRnRmcFJKR0Z4TWc2bzJUV25pMVlOUzFmRzlzandKNmlIdUNpV1dOQXN1VXgySURybjlMV1RlMEdmYWxUUHpKOE9NVXhabTJnNGZRT0I2MDV3NmVNVFdZbmVSVk16RkRTd2dpenpyRUdWTXZBZ0VaTlVFdU5DaGpDdi1vTzVTUUVKcW9hVVpOLWN1YTdPclo3czVMRVpTUVBJ?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "01:49",
-     "sorteer": "2026-11-27T00:49:38+00:00"
+     "tijd": "07:04",
+     "sorteer": "2026-11-27T06:04:15+00:00"
     },
     {
-     "titel": "Honderden Nederlandse jeugdzorg­jongeren uit het zicht in het buitenland",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGphNTExUnRqaGlUY094WW4yaWJmdmVsRXhhRHpsbDdhRjlMQ3pzeVJHLWVRLTZoWWItQWFwUkNEd1NjNFV3bjlMMXZBM1MtOG84U0M5RjVTUDVpVi1USFpzU21fczByNG41OVphbmpjcXJRbWFMZ0FuMVB0UGV4X2FqZnI3WllaTVNpTWI0cGoyS2VmNFpMQTJmRHNXOU9aOW00?oc=5",
-     "bron": "Follow the Money",
-     "tijd": "06:05",
-     "sorteer": "2026-11-27T05:05:00+00:00"
+     "titel": "Audiowandelingen in Arnhem: ontdek deze podwalks",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNm1YT3dGdmxMa2xGWTFnMGMzd3JyWUEyZ01rZ05UcDktbWotOHo3eXFwQ2I1bTI2eWw0MEcxTDlQbVZIOWFHYXFnREJTb3JNcGh4aXZ2bzJlR0ZGZTFMVlg2cmtuMVMwVjJibklhNmVja0ZqYUlKU05KVVNXUTd2XzdYUm5Odw?oc=5",
+     "bron": "de Stentor",
+     "tijd": "07:00",
+     "sorteer": "2026-11-27T06:00:00+00:00"
     },
     {
-     "titel": "Temperatuur blijft vrijdag rond het vriespunt: mogelijk heeft de poolwervel ermee te maken, maar die kans is klein",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUWd1Wkd4bEtDd09JZWcxNDVXenhsT1R5MkZxRlllbkdQaVBNelhOQzAzRlh5SEwxNTRlOGN6dUdVOGpBWHNZR19WeF9uWjdCNW0yR1FEOGtkT3lSbFhlUXU2Z0I5TmZ6ZFRaVWhNcXhxclFNRENIaHdVcFlQZUMxTzBPbFBVamtyM3RyR3dYd0pTRkM2RG1hc1EyWHV4SmdXb2hxcExpa21Ra1FsSHBQemdxb0NDZWJUbGZHWDkyXzAtdHU1bVlJcjN1NGtFeXFjc216b0taMEZwVU9ob2RJSlRrNzJMaXZVcVREeWMwNHI0OG8?oc=5",
-     "bron": "De Gelderlander",
-     "tijd": "06:00",
-     "sorteer": "2026-11-27T05:00:29+00:00"
+     "titel": "Vannacht koudste 27 november ooit op 26 plekken in Nederland: -8 graden gemeten in Twenthe",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRko3QWxKQWtlNHctSThuUHczZy1HZHZBTENrbnRwY05INHBneXJYSmVxVFkyMWdZMXFZOWEwVDR6d2NCQUdDMjJIZklnVVJFVUtGSVF1MFVWZHdObHBPZjVGb0N6LXVKbWRtYUd6dmtDOHNHQTI0M0t5allicE9wRkc3ZGZaaFM2VnBoN0plU1NFaWdlZjV4bzhkSmVOdktUMkNqZVlVWENFaWlGekQ1TzQ2WEZuVEQzOU5VM00tNk15U2hWclE?oc=5",
+     "bron": "Brabants Dagblad",
+     "tijd": "07:07",
+     "sorteer": "2026-11-27T06:07:14+00:00"
+    },
+    {
+     "titel": "Mbo’s worden verplicht om Friese taal aan te bieden: ’In moaie stap’",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUlJrd00xTllJakt1b19WUnlHUC1Ibk9mampRSUxpaFMxNGZrS25pRTBuUmh3cEJaaFdtT2twOUtGRkRuTlZQWkxJRXJhWU1IV1NqMFpJdGx2S1NqSTl3a1REQ04yMFZiT3lVdlFNOUpwSUlmOVhVdUhxSVA1MkpuVWllU0w2RTlKa0pONWZOb2lHNHpXcEVhc1h1cE15VU55OHAwTHlLaVdSVGJ4bnFpNHNpMA?oc=5",
+     "bron": "Leeuwarder Courant",
+     "tijd": "07:04",
+     "sorteer": "2026-11-27T06:04:37+00:00"
     },
     {
      "titel": "Hoe lastig het is om een wijk schuldenvrij te maken, zie je in de documentaire ‘Schuldenvrij’",
@@ -483,6 +481,14 @@
      "sorteer": "2026-11-27T04:45:04+00:00"
     },
     {
+     "titel": "Ochtendnieuws: Gesprekken tussen Europese leiders geklapt, EU-begroting zit muurvast",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWTlpQzFaTkluOU54SXB1Z08xSlNrUGJ6MVFxeXl6eTlYNzdfYlg4YzhyZTRQVkVLYW5jLU5BR0VvNG5UUDVDS0tUc25tWTB6MnJfWkt3QVkxWS1lT1laNFg3RUY3cEtjRnNuQWVNaGRhS1pFY20wVEVZNGFaYmd3Y2N3SElHai1sS0Zfcml3THdfSVQyTDVDLXp4UXhsamppcGdITldNWGd3MUFlcnU4SDdld3pUV0k2cDVVc2d0ZzJzaTRuQWNUTFljWmNLNU0?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "07:02",
+     "sorteer": "2026-11-27T06:02:16+00:00",
+     "kop": "Begroting"
+    },
+    {
      "titel": "Regeringscoalitie Nieuw-Zeeland komt net tekort voor meerderheid",
      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWGFXQ19DakJnUm5mcG9HbkxPRkNkdThKS3BmS3dHUFdUYm1waWZydmE2TUt3NU9KODZqNElyVmNCMjdKUG96NklyWkRvTmdHbU92TkJSbDRIc3RYdnRhUmtRR3RRaXZyU0RmbVp0UGFzbU5pZkJFNFBIbHVVcGhnejN2QlJBNndBZk1xeGVQUERST0Nw?oc=5",
      "bron": "Reformatorisch Dagblad",
@@ -497,15 +503,6 @@
      "tijd": "01:51",
      "sorteer": "2026-11-27T00:51:00+00:00",
      "kop": "Begroting"
-    },
-    {
-     "titel": "Geen akkoord over EU-begroting, Jetten wil ‘hogere korting’ voor Nederland",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2VhUl9xeFl3bjFSWVZnem1VamZEaG1FUXNPazBNYkxXekREX29Bbkh5ZldGTUJPeUJHMTVhOE5IUnBUb0xkUF94dUJvcmJxdTBQd3U4Y1EwNTNyd1lucS1nR05xRF9KX1B4SGlWTEtjRnBYUzJHa2ZsZFpueDZud0Y4cDNYUDcwVldQSWJJQXJtX29jcFJOa1JZc0FHdHpSOWpvd05qWFY4dW9POHREbzBhaGNZZw?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "22:37",
-     "sorteer": "2026-11-26T21:37:47+00:00",
-     "kop": "Begroting",
-     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Nieuwsuur: Onvrede over dubbelfunctie Yesilgöz • NCTV over gevaren AI • Equal Pay Day",
@@ -526,9 +523,20 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "'Onweerstaanbiedingen' op Black Friday: niet elke knalprijs is een koopje",
+     "context": "De koopjes vliegen je om de oren tijdens Black Friday, maar niet iedere aanbieding is een buitenkansje. De Consumentenbond waarschuwt voor nepkortingen en adviseert om goed prijzen te vergelijken. In Overijssel zijn er ook alternatieven voor de jaarlijkse koopjesjacht.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3723973/onweerstaanbiedingen-op-black-friday-niet-elke-knalprijs-is-een-koopje",
+     "bron": "RTV Oost",
+     "tijd": "07:04",
+     "sorteer": "2026-11-27T06:04:29+00:00"
+    },
+    {
      "titel": "Onrust binnen VVD over dubbelrol Yesilgöz, ook twijfels in Overijssel",
      "context": "Binnen de VVD is onrust ontstaan over de dubbelfunctie van Dilan Yesilgöz. Het combineren van de functies van partijleider en minister van Defensie wordt door steeds meer VVD-leden als een probleem gezien, ook in Overijssel.",
-     "rubrieken": [],
+     "rubrieken": [
+      "breaking"
+     ],
      "link": "https://www.oost.nl/nieuws/3723958/onrust-binnen-vvd-over-dubbelrol-yesilgoz-ook-twijfels-in-overijssel",
      "bron": "RTV Oost",
      "tijd": "06:07",
@@ -569,16 +577,6 @@
      "bron": "RTV Oost",
      "tijd": "19:58",
      "sorteer": "2026-11-26T18:58:35+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Rechten studeren in Enschede komt dichterbij: UT breidt aanbod uit",
-     "context": "Studenten in Enschede kunnen vanaf september 2028 kiezen uit twee nieuwe bacheloropleidingen van de Vrije Universiteit Amsterdam. De Universiteit Twente (UT) en de VU breiden hun samenwerking verder uit. Ook in Amsterdam komt een nieuwe opleiding van de UT.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3723999/rechten-studeren-in-enschede-komt-dichterbij-ut-breidt-aanbod-uit",
-     "bron": "RTV Oost",
-     "tijd": "19:52",
-     "sorteer": "2026-11-26T18:52:44+00:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -712,11 +710,12 @@
      "sorteer": "2026-11-26T09:39:24.247+01:00"
     },
     {
-     "titel": "ING: Een derde particuliere beleggers gebruikt AI-tools",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmlkdWI3UzNlQngtandyZXRPcEpUd050WUhIRmJFZEh0cEw0REpMeHlxVHlWaXRTMDl5WmduVFVMR0xMMXRLekRkbGQwTXBGLTk2TjdSUXlDZnVJcmsyWGNGcUZlVUJiOHE2REI2VDdIU290NjFBZUZ0LWpBTzYyQjdjTkpnSUd5QUROLWNvb3dzQ3hpMUxpMGs2bE9HTTg?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "06:16",
-     "sorteer": "2026-11-27T05:16:34+00:00"
+     "titel": "'Nvidia legt leveringen AI-chips aan Zuidoost-Azië stil'",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVRnMTVjTURiWi1idUtUUVI2QUdSY2FDX0FvdndHLWZtY3A0QWVfVUdmODllcFFYQUI1R25kYlZlNGdkX2hIUFVUSkRwWm5xclIwYUNxakctUF9WVjZEYnRWY3ltT2lGSmlwT2dtQjQtdmE5bW5pb1Y3bmg4T3AxcDhRMmhzLUczS3lJNGQ0WlpKd254dmd6S0ZB?oc=5",
+     "bron": "Tweakers",
+     "tijd": "07:05",
+     "sorteer": "2026-11-27T06:05:34+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Muziekwereld gaat strijd aan met AI-copycats",
@@ -727,20 +726,26 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "'Nvidia legt leveringen AI-chips aan Zuidoost-Azië stil'",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVRnMTVjTURiWi1idUtUUVI2QUdSY2FDX0FvdndHLWZtY3A0QWVfVUdmODllcFFYQUI1R25kYlZlNGdkX2hIUFVUSkRwWm5xclIwYUNxakctUF9WVjZEYnRWY3ltT2lGSmlwT2dtQjQtdmE5bW5pb1Y3bmg4T3AxcDhRMmhzLUczS3lJNGQ0WlpKd254dmd6S0ZB?oc=5",
-     "bron": "Tweakers",
-     "tijd": "19:27",
-     "sorteer": "2026-11-26T18:27:42+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
      "titel": "AI-datacenters in de ruimte? “Als mensheid zouden we dit niet moeten willen”",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeC1UUGk1djJNQUdidS1rajRrRnF2ZXFsakNNeGtudWM0cUt1ZmtpblJYTTNuR1A5VGkzTjRmVzlGTWd4dW10cDVGWFZJTUF5MU1Ea3ZZTjh4VkRkUVExSHdabjI4V09wMWRjd2p0Y3BsMmEzVmpLX3dERF9GanJYYnJYamNoTnM5d1plMGFJdGtQR09yaTBfak1wVy1xQjBibnA5OXdvVTBGQlVjekJMOGNWVWVodDY1?oc=5",
      "bron": "Bright",
      "tijd": "17:00",
      "sorteer": "2026-11-26T16:00:00+00:00",
      "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Zeven mythes over AI ontkracht",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92b25tTXVydFcyYzBOd0k5ZVFDMEx0dHFxdUN2UjBvUWtvYnBSRlNhUHZfVEFKTkFNcWRBYi1VT2hoLUlEZ2I4cF9pTGdDbThlMVBMcF9NNlZJdWxwV2xncWs5cWJaVzQ?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "07:08",
+     "sorteer": "2026-11-27T06:08:33+00:00"
+    },
+    {
+     "titel": "Geen algoritme, maar puur mensenwerk: zo zet Bram de kerstlijst van Sky Radio met de hand in elkaar",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSXRCZGJ0c1FMZE9uSDQ0TzlaaG94M2hnaHZSajhtSVNFS05uSEh2SThsLWpPX0VGd05EZFl4Z25MZ3J6N2ZSSXgxNC1VUWxxQU80R0dIYzFUYVd2MkZmM2FlS3FBNVIwbHNqNi1tbHF5M3N3WTZiMHRhc0pqb1VqRmxYd2pnMlJhdy1LVmRxNF9DdzMzVldCR08wVGpYalhZdW8yLW1QaVVJMEx1cUpXU2JfVE5xZFZ3RXBVUkVBTW44ZHNrVTBORjlR?oc=5",
+     "bron": "AD.nl",
+     "tijd": "07:00",
+     "sorteer": "2026-11-27T06:00:09+00:00"
     },
     {
      "titel": "Softwareconcern SAP wil zeker 10.000 banen schrappen en meer inzetten op AI",
@@ -886,20 +891,20 @@
      "sorteer": "2026-11-26T10:19:57.487+01:00"
     },
     {
+     "titel": "Periodieke rapportage Nationale Veiligheid Bewaken en Beveiligen Crisisbeheersing Cybersecurity en Statelijke Dreigingen",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "08-09",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D41816",
+     "sorteer": "2026-11-27T07:38:42.943+01:00"
+    },
+    {
      "titel": "Veiligheid, regeldruk en toezicht kinderopvang",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
      "tijd": "26-11",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D61380",
      "sorteer": "2026-11-26T17:29:21.43+01:00"
-    },
-    {
-     "titel": "Weerbaar Bestuur en Monitor Integriteit en Veiligheid 2026",
-     "bron": "Brief van de regering",
-     "kop": "Brieven en moties",
-     "tijd": "26-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D61363",
-     "sorteer": "2026-11-26T17:25:20.2+01:00"
     },
     {
      "titel": "Motie van het lid Prickaertz over waarborgen dat aangiften van winkeldiefstal worden opgenomen, beoordeeld en opgevolgd",
@@ -949,7 +954,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "07:00",
+    "bijgewerkt": "08:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1421,14 +1426,6 @@
      "sorteer": "2026-11-26T10:27:00+01:00"
     },
     {
-     "titel": "Rotszwaluw",
-     "kop": "Zeldzaamheden",
-     "bron": "Noord-Holland",
-     "tijd": "07:58",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-26T07:58:00+01:00"
-    },
-    {
      "titel": "Dalfsen (nacht)",
      "kop": "Vogeltrek",
      "bron": "26-11",
@@ -1541,19 +1538,19 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": -4.8,
-    "gevoel": -7.6,
-    "wind": "ONO 2",
+    "nu": -5.4,
+    "gevoel": -7.7,
+    "wind": "ONO 1",
     "station": "Heino",
     "bericht": "De afgelopen nacht was de koudste van deze novemberwinter. Vandaag is het zonnig met eerst lichte tot matige vorst. Vanmiddag ligt de temperatuur dicht bij het vriespunt.",
     "vandaag": "Vandaag is het zonnig met eerst lichte tot matige vorst. Vanmiddag ligt de temperatuur dicht bij het vriespunt.",
     "temperatuur": "",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -6 tot 1 graden, droog, ruim 7 uur zon, wind uit het oosten, kracht 3.",
-     "max": 1,
+     "zin": "Voor Dalfsen zelf: -6 tot 0 graden, droog, ruim 5 uur zon, wind uit het oosten, kracht 3.",
+     "max": 0,
      "min": -6,
      "regenkans": 0,
-     "omschrijving": "bewolkt",
+     "omschrijving": "mistig",
      "morgen": {
       "max": 1,
       "min": -4,
@@ -1571,7 +1568,7 @@
     "morgen": {
      "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
      "min": "-4",
-     "max": "2",
+     "max": "1",
      "regenkans": 30
     }
    }
