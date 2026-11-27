@@ -3,16 +3,16 @@
  "naam": "Ochtendbriefing",
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "05:55",
+  "opgehaald": "07:00",
   "blokken": 11,
-  "berichten": 102,
+  "berichten": 103,
   "problemen": [
+   "google 'rechtsstaat OR grondwet OR hoo': HTTP 429",
    "AI Report: geen berichten in de archiefpagina gevonden"
   ],
-  "audio_herkomst": "model",
-  "audio_aangehaakt": "06:50"
+  "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-27T05:55+01:00",
+ "opgehaald": "2026-11-27T07:00+01:00",
  "audio": "audio/20261127.mp3",
  "afval": [
   {
@@ -218,8 +218,8 @@
      "sorteer": "2026-11-27T04:31:07+01:00"
     },
     {
-     "titel": "Hard tegen hard bij begrotingsonderhandelingen EU, geen akkoord na nachtelijk overleg",
-     "context": "De een bedelt om een korting, de ander dreigt met een veto. Europese regeringsleiders gunnen elkaar tot nu toe geen millimeter bij de onderhandelingen over de vraag hoeveel geld de EU de komende zeven jaar mag uitgeven. Na een lange dag, avond en nacht vergaderen zijn de 27 EU regeringsleiders uit elkaar gegaan zonder dat er uitzicht is op een compromis. Het ging er stevig aan toe, zei premier Jet",
+     "titel": "Hard tegen hard bij begrotingsonderhandelingen EU, geen akkoord na lange dag overleg",
+     "context": "De een bedelt om een korting, de ander dreigt met een veto. Europese regeringsleiders gunnen elkaar tot nu toe geen millimeter bij de onderhandelingen over de vraag hoeveel geld de EU de komende zeven jaar mag uitgeven. Na een lange dag en avond vergaderen zijn de 27 EU-regeringsleiders uit elkaar gegaan zonder dat er uitzicht is op een compromis. Het ging er stevig aan toe, zei premier Jetten na ",
      "rubrieken": [],
      "link": "https://nos.nl/l/2641176",
      "bron": "NOS",
@@ -273,13 +273,50 @@
      "sorteer": "2026-11-27T04:00:53+00:00"
     },
     {
-     "titel": "Rusland ontkent Duitse mediaberichten over kernwapens in ruimte",
-     "context": "",
+     "titel": "In Praise of My Typewriter",
+     "context": "The A.I. projects editor at The New York Times uses chatbots every day. But when it’s time to write, he reaches for an Olivetti Lettera 22 from the 1950s.",
+     "rubrieken": [
+      "internal-open-access-from-nl",
+      "Artificial Intelligence",
+      "Typewriters and Typewriting",
+      "Russian Invasion of Ukraine (2022)",
+      "Innovation",
+      "Thanksgiving Day",
+      "Russia",
+      "Brazil"
+     ],
+     "link": "https://www.nytimes.com/2026/11/26/world/ai-typewriter-russia-brazil-mirumi.html",
+     "bron": "New York Times",
+     "tijd": "06:45",
+     "sorteer": "2026-11-27T05:45:53+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Erin Patterson launches high court appeal bid over mushroom murder convictions",
+     "context": "Patterson, 52, seeks leave to appeal to Australia’s highest court over deaths of estranged family members after fatal beef wellington lunch Get our breaking news email , free app or daily news podcast Erin Patterson has applied to the high court seeking leave to appeal after a failed bid last month to overturn her triple murder conviction. Patterson, 52, was found guilty last year of the murders o",
+     "rubrieken": [
+      "Erin Patterson mushroom trial",
+      "Victoria",
+      "Australia news"
+     ],
+     "link": "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb",
+     "bron": "The Guardian",
+     "tijd": "06:31",
+     "sorteer": "2026-11-27T05:31:38+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Major Thanksgiving storm brings flooding, flight delays across US",
+     "context": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/live-oorlog-oekraine-rusland-ontkent-duitse-mediaberichten-over-kernwapens-in-ruimte~ba2815bb/",
-     "bron": "Trouw",
-     "tijd": "01:43",
-     "sorteer": "2026-11-27T00:43:00+00:00"
+     "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "06:15",
+     "sorteer": "2026-11-27T05:15:26+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
      "titel": "Wie der Rentenstreit die Koalition spaltet",
@@ -314,59 +351,6 @@
      "sorteer": "2026-11-27T03:28:15+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Heatwaves, floods, fires and rain: weekend of weather extremes expected across Australia",
-     "context": "As bushfires ravage Flinders Island, Victorians can expect a wet and windy election day as storms forecast on east coast Get our breaking news email , free app or daily news podcast Major fires are among a multitude of weather extremes forecast across Australia on Friday and into the weekend, which also includes severe storms, heavy rain, floods and heatwaves. Firefighters contending with an out-o",
-     "rubrieken": [
-      "Australia news",
-      "Bushfires",
-      "Environment",
-      "Tasmania",
-      "Victoria",
-      "New South Wales",
-      "Western Australia",
-      "Queensland",
-      "Flooding"
-     ],
-     "link": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia",
-     "bron": "The Guardian",
-     "tijd": "04:14",
-     "sorteer": "2026-11-27T03:14:10+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Major Thanksgiving storm brings flooding, flight delays across US",
-     "context": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "01:52",
-     "sorteer": "2026-11-27T00:52:11+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "U.K. Releases Files on Peter Mandelson, Ambassador Tied to Jeffrey Epstein",
-     "context": "Documents released Thursday shed new light on the rushed appointment of Peter Mandelson and his continued ties to Global Counsel, a lobbying group.",
-     "rubrieken": [
-      "Mandelson, Peter",
-      "Great Britain",
-      "Diplomatic Service, Embassies and Consulates",
-      "Epstein, Jeffrey E (1953- )",
-      "International Relations",
-      "Politics and Government",
-      "Conflicts of Interest",
-      "Ethics and Official Misconduct"
-     ],
-     "link": "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html",
-     "bron": "New York Times",
-     "tijd": "22:40",
-     "sorteer": "2026-11-26T21:40:09+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media",
-     "vervolg": "stond gisteren ook in de briefing"
     }
    ]
   },
@@ -375,6 +359,24 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Wekdienst 27/11: Verdachte moordzaak Houten voorgeleid • Start wereldbekerseizoen veldrijden",
+     "context": "Goedemorgen! Vandaag wordt de verdachte van de moord in Houten voor het eerst voorgeleid. Ook begint het wereldbekerseizoen veldrijden. Eerst het weer: Het is vrij zonnig en koud met in het hele land vorst. Over het noorden en oosten trekken wolkenvelden en kan het mistig zijn. Vanmiddag lost de mist op en gaat op steeds meer plaatsen de zon schijnen. De temperatuur stijgt naar een enkele graad en",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2641188",
+     "bron": "NOS",
+     "tijd": "06:40",
+     "sorteer": "2026-11-27T06:40:34+01:00"
+    },
+    {
+     "titel": "Primeur in Rotterdam: trajectcontrole binnen bebouwde kom",
+     "context": "Wie vandaag over de Matlingeweg in Rotterdam rijdt, komt daar een trajectcontrole tegen. Voor het eerst wordt er in Nederland binnen de bebouwde kom zo'n snelheidscontrole gehouden, waarbij de gemiddelde snelheid op een bepaald traject wordt gemeten. Het Openbaar Ministerie hoopt zo hardrijders te ontmoedigen. Veilig Verkeer Nederland (VVN) wijst erop dat juist in de bebouwde kom de meeste verkeer",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2641182",
+     "bron": "NOS",
+     "tijd": "06:25",
+     "sorteer": "2026-11-27T06:25:20+01:00"
+    },
     {
      "titel": "Zelensky kritisch op Amerikaanse steun: 'Tekort aan raketten kost levens'",
      "context": "De Oekraïense president Zelensky heeft in een interview met de BBC zijn frustratie uitgesproken over de steun die zijn land krijgt van de Verenigde Staten. Zo klaagde hij dat de VS Rusland tijdens vredesonderhandelingen niet hard genoeg onder druk zet. Ook was hij kritisch over vertragingen van wapenleveranties en de houding van de Amerikaanse president Trump ten opzichte van zijn Russische ambtge",
@@ -401,26 +403,6 @@
      "bron": "NOS",
      "tijd": "21:58",
      "sorteer": "2026-11-26T21:58:17+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Schaatskoorts loopt op, maar de tijd dringt",
-     "context": "Het was de afgelopen dagen stralend zonnig, maar ook ijzig koud. Zeker woensdag zorgde de snijdende oostenwind voor lage gevoelstemperaturen. Overdag lag de temperatuur net iets boven het vriespunt. Door deze reeks koude dagen stevenen we af op de koudste november sinds 1998. Opvallend is daarbij ook het hoge aantal nachten dat het gevroren heeft. De combinatie van vorst in de nacht, redelijk wat ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2641141",
-     "bron": "NOS",
-     "tijd": "18:32",
-     "sorteer": "2026-11-26T18:32:51+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Verdriet in Houten om doodsteken moeder, vrouw kreeg hulp bij huiselijk geweld",
-     "context": "In Houten hangen de vlaggen huis aan huis halfstok en op het grasveld voor de woningen leggen omwonenden bloemen, knuffels en kaarten. Een dag nadat een 34-jarige vrouw op deze plek werd doodgestoken , kort nadat ze haar jongste twee kinderen met de bakfiets naar school had gebracht, is de buurt in rouw. \"Mijn moederhart huilt\", staat op een van de handgeschreven briefjes. Voor mensen die naar de ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2641125",
-     "bron": "NOS",
-     "tijd": "16:38",
-     "sorteer": "2026-11-26T16:38:43+01:00",
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
@@ -451,6 +433,13 @@
      "sorteer": "2026-11-27T03:21:00+00:00"
     },
     {
+     "titel": "Aansluiten bij terreurgroep in buitenland kan je je paspoort kosten",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdoV1ZVMmluaHpOV01jXzJkcjRoeWs5MmNHZW5IQVdRNDJWZml1ZlNrb01TVlUtRGFkZHVNVG05LS1nUjd3OXVZSTlfSlZQdDV0ek1rT01GVmp2SFBkV0llT1EzdFJnVmZiSWtoRERNd3daXzZkaXhkVEtKc0ZLM0dtUTlYY3poSS1KazhBZ3VTWnJySWJLcw?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "03:33",
+     "sorteer": "2026-11-27T02:33:18+00:00"
+    },
+    {
      "titel": "Moeder verdacht van doodsteken zoon (12) in Eerbeek naar Pieter Baan Centrum",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOWlhXzNLNF9qc1RtQW9PT3dvS3NuUnEwcVpBbEZESWJKOWlDTlRza005NXpPdEEyel9vNnBlRzQ2M0N0em1RYzFyTzZZXzJtNklzRmdxRjRXenVxMm9IdXpSOFliYm9YNTlpbVpWbEYtWVM0T3hoekJQclBiS2NreDVwQVJFNHVOYTBXbmdab2s2QmpQdGh6dkZoUFJUdGFRLUcyWmVsSmYyMVhnNUowUkoxdGplejA3amlUb3d6cm5rb0E?oc=5",
      "bron": "De Telegraaf",
@@ -458,19 +447,18 @@
      "sorteer": "2026-11-27T00:49:38+00:00"
     },
     {
-     "titel": "8 jaar cel en tbs voor onlinemisbruik van 245 minderjarige meisjes: ’Kinderen van hun onschuld beroofd’",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUlR1Nk9JaXRaYTEtOXhSaU9OdV9QV1p5TlFhSTZ0YjhvczRuOW5aZWtNejBPSDdlTUFNWndDS0R3ZGVESWlqZV9kdnhWSkhZNnQzOWZ4Sno5Y1hZQl9YNlBSNXhfSVdWU0R2MzF0MUxreS01TndCamlSTXBHOXdEOWRyVlVuQ2kteVd3M0x6aWRETGR3eVYwU3o1aHdoRHFTSERzT0lsVW1iVWhqSU1BZURqVWFURnk2SVNNWThfaU9aUnVDNHJ5Z3FhdnhxWTIteDlCQVRPdFhiT3RKS0tUaXI0bElIZw?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "22:57",
-     "sorteer": "2026-11-26T21:57:37+00:00"
+     "titel": "Honderden Nederlandse jeugdzorg­jongeren uit het zicht in het buitenland",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGphNTExUnRqaGlUY094WW4yaWJmdmVsRXhhRHpsbDdhRjlMQ3pzeVJHLWVRLTZoWWItQWFwUkNEd1NjNFV3bjlMMXZBM1MtOG84U0M5RjVTUDVpVi1USFpzU21fczByNG41OVphbmpjcXJRbWFMZ0FuMVB0UGV4X2FqZnI3WllaTVNpTWI0cGoyS2VmNFpMQTJmRHNXOU9aOW00?oc=5",
+     "bron": "Follow the Money",
+     "tijd": "06:05",
+     "sorteer": "2026-11-27T05:05:00+00:00"
     },
     {
-     "titel": "Amsterdamse taxibranche opgeschrikt door megabeslaglegging: politie pakt honderden taxi’s aan in witwasonderzoek",
-     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbXo2MVpnQTgza1NhcTBvemhzeFEtYjA3bmlJejdrckEzT3ZZTkFINUNfWmNrSjVtck9hVTN3VTBQRmViZG1OeFc0bFduSE9pRmZhTmdFNzJ1VGVuMFMwTWYxeEhZenI0MXFZVmF6RzZSTlplZ2tMNi00UGNwNnpFcXRrN1RneVJzcEhsRnVNQ2otR1dDRE9HaEpuWFdwemcwMDBHbjZ2Q1dTemxNU245LUFEZ1VqN013TC14ckVwVmwwdXlKTkoxdlR4bGhBZVdPSkdKYUM1NWhnQkU1dFM3cDdhS1JuWEt5VlZJRW9ZYw?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "22:46",
-     "sorteer": "2026-11-26T21:46:00+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "titel": "Temperatuur blijft vrijdag rond het vriespunt: mogelijk heeft de poolwervel ermee te maken, maar die kans is klein",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUWd1Wkd4bEtDd09JZWcxNDVXenhsT1R5MkZxRlllbkdQaVBNelhOQzAzRlh5SEwxNTRlOGN6dUdVOGpBWHNZR19WeF9uWjdCNW0yR1FEOGtkT3lSbFhlUXU2Z0I5TmZ6ZFRaVWhNcXhxclFNRENIaHdVcFlQZUMxTzBPbFBVamtyM3RyR3dYd0pTRkM2RG1hc1EyWHV4SmdXb2hxcExpa21Ra1FsSHBQemdxb0NDZWJUbGZHWDkyXzAtdHU1bVlJcjN1NGtFeXFjc216b0taMEZwVU9ob2RJSlRrNzJMaXZVcVREeWMwNHI0OG8?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "06:00",
+     "sorteer": "2026-11-27T05:00:29+00:00"
     },
     {
      "titel": "Hoe lastig het is om een wijk schuldenvrij te maken, zie je in de documentaire ‘Schuldenvrij’",
@@ -494,6 +482,14 @@
      "sorteer": "2026-11-27T04:45:04+00:00"
     },
     {
+     "titel": "Regeringscoalitie Nieuw-Zeeland komt net tekort voor meerderheid",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWGFXQ19DakJnUm5mcG9HbkxPRkNkdThKS3BmS3dHUFdUYm1waWZydmE2TUt3NU9KODZqNElyVmNCMjdKUG96NklyWkRvTmdHbU92TkJSbDRIc3RYdnRhUmtRR3RRaXZyU0RmbVp0UGFzbU5pZkJFNFBIbHVVcGhnejN2QlJBNndBZk1xeGVQUERST0Nw?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "03:07",
+     "sorteer": "2026-11-27T02:07:12+00:00",
+     "kop": "Begroting"
+    },
+    {
      "titel": "Keert na belastingplan-bonje en ’bypass via Buma’ de rust terug in Den Haag?",
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX1FJQ29qVV9QZUg2aDJqdUxhcEV1Vmt0Q0g1QWE3eUxQVTlkZHBuRHEydWNFdHZ3UjkyMWNjVGFuU05VeVQ1eWU5ZERYeWZ2OFJFWjJTbTNwSW1lZ25pV1d0SDJoeS1xUW1keHJpSUNjU0dyVjRrSWYya1BGZ0xhb0w5Wlp2NGQzWlh0eU1zLWtqSnJ1WVRLOFVLNHpVYnNJQ1V2MlVMUTgzWGJ5dzlPSF9QZHVZQ3hKamdCcUlxcw?oc=5",
      "bron": "De Telegraaf",
@@ -502,22 +498,11 @@
      "kop": "Begroting"
     },
     {
-     "titel": "Geen akkoord EU-begroting op ‘knetterende’ top in Brussel: Jetten verwacht ‘nieuw en beter’ voorstel van voorzitter Costa",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONzkzZVdNSTJaWS1YSmhUaTNpSEI0NURzdUJWQTVIamlqdUpIVzV6dG04QW9MLW9LSmJma2REQlZjZnp6MTcyNUt3SXo4NVgyUFN4R2NfSE01b1VFLW5PdkQxNUdEcEFISzlDSnVBakxGQUhwQi00REk0cF9FZ24yb0I2OU9nYWNIdHRJNlY4MnlBU2htVEVMOTJhQTZfc1ZFQWJqRnlxNmZVM245WHJaNWt3em1SalZDcGw5RUphd01YWW1ubTIwaHo1MHRDdzNyUk55NjZBY1NoV3pHc1h0YmI1TTlHcEd2b2Zr?oc=5",
-     "bron": "AD.nl",
-     "tijd": "01:11",
-     "sorteer": "2026-11-27T00:11:16+00:00",
-     "kop": "Begroting",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Jetten zet zich schrap voor 'bloedig gevecht' over EU-begroting",
-     "context": "Een bloedbad, een totale mislukking en een boksring. Diplomaten schetsen achter de schermen een beeld van wat zij verwachten van de EU-top die vandaag begint in Brussel. Het is een extra top over de nieuwe Europese begroting. Premier Jetten zal daar net als alle andere regeringsleiders met hand en tand de belangen van zijn eigen land proberen te verdedigen. De man die de top in goede banen moet le",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2641042",
-     "bron": "NOS politiek",
-     "tijd": "06:14",
-     "sorteer": "2026-11-26T06:14:39+01:00",
+     "titel": "Geen akkoord over EU-begroting, Jetten wil ‘hogere korting’ voor Nederland",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2VhUl9xeFl3bjFSWVZnem1VamZEaG1FUXNPazBNYkxXekREX29Bbkh5ZldGTUJPeUJHMTVhOE5IUnBUb0xkUF94dUJvcmJxdTBQd3U4Y1EwNTNyd1lucS1nR05xRF9KX1B4SGlWTEtjRnBYUzJHa2ZsZFpueDZud0Y4cDNYUDcwVldQSWJJQXJtX29jcFJOa1JZc0FHdHpSOWpvd05qWFY4dW9POHREbzBhaGNZZw?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "22:37",
+     "sorteer": "2026-11-26T21:37:47+00:00",
      "kop": "Begroting",
      "vervolg": "stond gisteren ook in de briefing"
     },
@@ -540,6 +525,24 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Onrust binnen VVD over dubbelrol Yesilgöz, ook twijfels in Overijssel",
+     "context": "Binnen de VVD is onrust ontstaan over de dubbelfunctie van Dilan Yesilgöz. Het combineren van de functies van partijleider en minister van Defensie wordt door steeds meer VVD-leden als een probleem gezien, ook in Overijssel.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3723958/onrust-binnen-vvd-over-dubbelrol-yesilgoz-ook-twijfels-in-overijssel",
+     "bron": "RTV Oost",
+     "tijd": "06:07",
+     "sorteer": "2026-11-27T05:07:58+00:00"
+    },
+    {
+     "titel": "Universiteit Twente viert 65-jarig bestaan met uitreiking van vier eredoctoraten",
+     "context": "De Universiteit Twente viert vandaag haar 65-jarige bestaan. Het hoogtepunt van het jubileumjaar is vanmiddag de Dies Natalis, de officiële academische verjaardag. Tijdens de plechtigheid worden vier eredoctoraten uitgereikt, onder anderen aan een van de topmannen van chipmachinefabrikant ASML.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3723780/universiteit-twente-viert-65-jarig-bestaan-met-uitreiking-van-vier-eredoctoraten",
+     "bron": "RTV Oost",
+     "tijd": "05:03",
+     "sorteer": "2026-11-27T04:03:36+00:00"
+    },
+    {
      "titel": "Overijssel wil nog geen wolfvrije zones aanwijzen: 'Eerst moet juridisch alles kloppen'",
      "context": "Er komen meer mogelijkheden om wolven aan te pakken, maar in Overijssel verandert er voorlopig nog weinig. De provincie gaat geen wolfvrije zones aanwijzen en begint ook nog niet met actief wolvenbeheer. Eerst moet duidelijk zijn wat juridisch wel en niet mag. \"Het blijft een beschermde diersoort.\"",
      "rubrieken": [],
@@ -558,6 +561,16 @@
      "sorteer": "2026-11-26T20:01:59+00:00"
     },
     {
+     "titel": "Twentse uitvinding moet bevolkingsonderzoek voor vrouwen eenvoudiger maken",
+     "context": "Een potje urine inleveren en binnen een uur de uitslag krijgen. Als het aan hoogleraar Loes Segerink van de Universiteit Twente ligt, is dat straks voldoende bij bevolkingsonderzoek naar baarmoederhalskanker. Samen met haar team werkt ze aan een piepkleine chip die onderzoek eenvoudiger moet maken.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3723720/twentse-uitvinding-moet-bevolkingsonderzoek-voor-vrouwen-eenvoudiger-maken",
+     "bron": "RTV Oost",
+     "tijd": "19:58",
+     "sorteer": "2026-11-26T18:58:35+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
      "titel": "Rechten studeren in Enschede komt dichterbij: UT breidt aanbod uit",
      "context": "Studenten in Enschede kunnen vanaf september 2028 kiezen uit twee nieuwe bacheloropleidingen van de Vrije Universiteit Amsterdam. De Universiteit Twente (UT) en de VU breiden hun samenwerking verder uit. Ook in Amsterdam komt een nieuwe opleiding van de UT.",
      "rubrieken": [],
@@ -566,36 +579,6 @@
      "tijd": "19:52",
      "sorteer": "2026-11-26T18:52:44+00:00",
      "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Zware explosie bij voordeur in Zwolle terwijl gezin met twee kinderen slaapt",
-     "context": "Een enorme knal, een vernielde voordeur en glas dat tot in de woonkamer terechtkomt. De crimineel die een explosief plaatst bij een woning aan de Schoolstraat in Zwolle neemt een groot risico. Op het moment van de ontploffing ligt een gezin met kinderen te slapen. De bewoners zijn enorm geschrokken.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3722183/zware-explosie-bij-voordeur-in-zwolle-terwijl-gezin-met-twee-kinderen-slaapt",
-     "bron": "RTV Oost",
-     "tijd": "19:03",
-     "sorteer": "2026-11-26T18:03:25+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
-     "titel": "Provincie Overijssel: 'Intrekken vergunningen boerenbedrijven helpt natuur nauwelijks'",
-     "context": "Vereniging Leefmilieu eist voor de rechtbank in Zwolle dat de provincie opnieuw kijkt naar haar verzoeken om natuurvergunningen geheel, of gedeeltelijk, in te trekken. De milieuorganisatie wil al jaren dat de provincie bij twaalf Overijsselse veehouderijen handhaaft, maar die weigert dit.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3723933/provincie-overijssel-intrekken-vergunningen-boerenbedrijven-helpt-natuur-nauwelijks",
-     "bron": "RTV Oost",
-     "tijd": "18:27",
-     "sorteer": "2026-11-26T17:27:20+00:00"
-    },
-    {
-     "titel": "Haaksbergen grijpt weer naast eerste natuurijsmarathon: 'Bij het huilen af'",
-     "context": "Het is de vrijwilligers van IJsch Haaksbergen opnieuw niet gelukt om de eerste marathon op natuurijs te organiseren. Vanmorgen werd bekend dat de ijsvereniging in Winterswijk vanavond het bal mag openen. Bladeren op de baan verpesten de kansen voor IJsch.",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/nieuws/3723682/haaksbergen-grijpt-weer-naast-eerste-natuurijsmarathon-bij-het-huilen-af",
-     "bron": "RTV Oost",
-     "tijd": "18:01",
-     "sorteer": "2026-11-26T17:01:21+00:00"
     },
     {
      "titel": "Bergman installatiewerken Dalfsen bestaat 25 jaar",
@@ -726,6 +709,13 @@
      "tijd": "06-11",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D56181",
      "sorteer": "2026-11-26T09:39:24.247+01:00"
+    },
+    {
+     "titel": "ING: Een derde particuliere beleggers gebruikt AI-tools",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmlkdWI3UzNlQngtandyZXRPcEpUd050WUhIRmJFZEh0cEw0REpMeHlxVHlWaXRTMDl5WmduVFVMR0xMMXRLekRkbGQwTXBGLTk2TjdSUXlDZnVJcmsyWGNGcUZlVUJiOHE2REI2VDdIU290NjFBZUZ0LWpBTzYyQjdjTkpnSUd5QUROLWNvb3dzQ3hpMUxpMGs2bE9HTTg?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "06:16",
+     "sorteer": "2026-11-27T05:16:34+00:00"
     },
     {
      "titel": "Muziekwereld gaat strijd aan met AI-copycats",
@@ -958,7 +948,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "05:55",
+    "bijgewerkt": "07:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1322,27 +1312,19 @@
    "items": [
     {
      "titel": "Vandaag in de natuur",
-     "toelichting": "Er zijn diverse soorten van, onder andere het bekende kerststukjes-rendiermos, open rendiermos – de soort die in ons land het meest algemeen voorkomt – en gebogen rendiermos.",
+     "toelichting": "Bloeiende sneeuwklokjes in november of december, is dat niet wat vroeg? Niet noodzakelijk, waarschijnlijk gaat het dan om andere soorten dan de meest algemene soort van het stel, het gewoon sneeuwklokje.",
      "bron": "Nature Today",
      "tijd": "",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36094",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36095",
      "sein": true
     },
     {
-     "titel": "Natuurjournaal 26 november 2026",
-     "toelichting": "Rendiermos groeit waar geen ander dat kan en ook de boskrekel is een taaie.",
+     "titel": "Natuurjournaal 27 november 2026",
+     "toelichting": "Galant groot sneeuwklokje bloeit al en gaatjes in mariene schelpen worden door de boorspons gemaakt.",
      "bron": "Nature Today",
      "tijd": "06:45",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36094",
-     "sorteer": "2026-11-26T05:45:00+00:00"
-    },
-    {
-     "titel": "Koude dagen, waar zijn de vlinders?",
-     "toelichting": "Nachtvorst en temperaturen die overdag nauwelijks boven de 5 graden uitkomen, dat is niet echt weer waarbij je vlinders verwacht. Dat klopt ook wel, want de meeste vlinders zijn nu in winterrust. Een enkeling kun je nu n",
-     "bron": "Nature Today",
-     "tijd": "07:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36105",
-     "sorteer": "2026-11-26T06:00:00+00:00"
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36095",
+     "sorteer": "2026-11-27T05:45:00+00:00"
     },
     {
      "titel": "Vleermuizen horen in de natuur, niet in je winkelmandje",
@@ -1351,6 +1333,14 @@
      "tijd": "13:00",
      "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36101",
      "sorteer": "2026-11-26T12:00:00+00:00"
+    },
+    {
+     "titel": "Tellingen voor nieuwe Vogelatlas gaan van start",
+     "toelichting": "We staan aan de start van het nieuwe atlasproject. Vanaf 1 december gaan honderden vogeltellers op pad om alle vogelsoorten in Nederland opnieuw in kaart te brengen. Veel vogelaars trappelen van ongeduld om ‘het veld in ",
+     "bron": "Nature Today",
+     "tijd": "07:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36103",
+     "sorteer": "2026-11-27T06:00:00+00:00"
     },
     {
      "titel": "Waarom vliegende eekhoorns kunnen helpen bij het herstel van tropisch regenwoud",
@@ -1367,20 +1357,20 @@
      "link": "https://scientias.nl/superman-oh-nee-gewoon-krypton-hoe-dat-ontdekt-werd-nou-diederik-legt-het-uit-in-deze-video/"
     },
     {
+     "titel": "Hong Kong becomes key link in illegal trade of Australia’s native reptiles",
+     "toelichting": "From lizards to snakes, Hong Kong is emerging as a primary trafficking center for native Australian reptiles, reports contributor Selina Cheng for Mongabay. In December 2025, customs authorities intercepted a consignment",
+     "bron": "Mongabay (Engels)",
+     "tijd": "05:55",
+     "link": "https://news.mongabay.com/short-article/2026/11/hong-kong-becomes-key-link-in-illegal-trade-of-australias-native-reptiles/",
+     "sorteer": "2026-11-27T04:55:14+00:00"
+    },
+    {
      "titel": "Sri Lanka deploys ‘elephant army’ to protect rare tuskers, but experts urge caution",
      "toelichting": "A beloved male elephant named Kavantissa that frequented a rural village in Sri Lanka recently died from a gunshot injury, sparking public outrage. Environmentalists condemned authorities for what they called a “lack of ",
      "bron": "Mongabay (Engels)",
      "tijd": "05:43",
      "link": "https://news.mongabay.com/short-article/2026/11/sri-lanka-deploys-elephant-army-to-protect-rare-tuskers-but-experts-urge-caution/",
      "sorteer": "2026-11-27T04:43:37+00:00"
-    },
-    {
-     "titel": "In Nepal, experts debate future of mega-dams after August’s flood",
-     "toelichting": "KATHMANDU — Until recently, residents living in the lap of the Himalayas saw the peaks as immovable giants silently nurturing them with snowmelt. But on Aug. 26, there was a road from the mountain overlooking the Bhoteko",
-     "bron": "Mongabay (Engels)",
-     "tijd": "03:15",
-     "link": "https://news.mongabay.com/2026/11/in-nepal-experts-debate-future-of-mega-dams-after-augusts-flood/",
-     "sorteer": "2026-11-27T02:15:40+00:00"
     }
    ]
   },
@@ -1550,9 +1540,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": -4.2,
-    "gevoel": -6.7,
-    "wind": "ONO 1",
+    "nu": -4.8,
+    "gevoel": -7.6,
+    "wind": "ONO 2",
     "station": "Heino",
     "bericht": "De afgelopen nacht was de koudste van deze novemberwinter. Vandaag is het zonnig met eerst lichte tot matige vorst. Vanmiddag ligt de temperatuur dicht bij het vriespunt.",
     "vandaag": "Vandaag is het zonnig met eerst lichte tot matige vorst. Vanmiddag ligt de temperatuur dicht bij het vriespunt.",
@@ -1580,20 +1570,10 @@
     "morgen": {
      "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
      "min": "-4",
-     "max": "1",
+     "max": "2",
      "regenkans": 30
     }
    }
   }
- ],
- "archief": [
-  "2026-11-27",
-  "2026-11-26",
-  "2026-11-25",
-  "2026-11-24",
-  "2026-11-23",
-  "2026-11-22",
-  "2026-11-21",
-  "2026-11-20"
  ]
 }
