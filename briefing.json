@@ -1,17 +1,17 @@
 {
  "datum": "2026-11-27",
- "naam": "Ochtendbriefing",
+ "naam": "Middagbriefing",
  "status": {
-  "ronde": "Ochtendbriefing",
-  "opgehaald": "11:00",
+  "ronde": "Middagbriefing",
+  "opgehaald": "12:00",
   "blokken": 11,
-  "berichten": 101,
+  "berichten": 103,
   "problemen": [
    "AI Report: geen berichten in de archiefpagina gevonden"
   ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-27T11:00+01:00",
+ "opgehaald": "2026-11-27T12:00+01:00",
  "audio": "audio/20261127.mp3",
  "afval": [
   {
@@ -208,6 +208,15 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Politie vindt handboeien en bivakmuts bij omstreden De Slimste Mens-deelnemer El Hadri",
+     "context": "De Belgische politie heeft het huis doorzocht van de Belgische influencer en voormalig De Slimste Mens -deelnemer Mehdi El Hadri. Bij de huiszoeking zijn verschillende laptops en een mobiele telefoon in beslag genomen. Ook stuitte de politie in de woning op handboeien en een bivakmuts. Daarnaast is er een nieuwe aanklacht tegen El Hadri ingediend, schrijven meerdere Belgische media. Begin deze maa",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2641220",
+     "bron": "NOS",
+     "tijd": "11:20",
+     "sorteer": "2026-11-27T11:20:54+01:00"
+    },
+    {
      "titel": "Gewonde bij droneaanval in Sint-Petersburg, ook explosies ten zuiden van Moskou",
      "context": "Bij een droneaanval op de Russische stad Sint-Petersburg is vannacht volgens de lokale autoriteiten een vrouw gewond geraakt. Ook zou een energiecentrale zijn bestookt in de regio Toela, ten zuiden van Moskou. Volgens het stadsbestuur van Sint-Petersburg, de op een na grootste stad van Rusland, vlogen 55 drones in de richting van de stad. Brokstukken van neergehaalde drones zouden zijn neergekomen",
      "rubrieken": [],
@@ -244,15 +253,6 @@
      "sorteer": "2026-11-27T04:31:07+01:00"
     },
     {
-     "titel": "Hard tegen hard bij begrotingsonderhandelingen EU, geen akkoord na lange dag overleg",
-     "context": "De een bedelt om een korting, de ander dreigt met een veto. Europese regeringsleiders gunnen elkaar tot nu toe geen millimeter bij de onderhandelingen over de vraag hoeveel geld de EU de komende zeven jaar mag uitgeven. Na een lange dag en avond vergaderen zijn de 27 EU-regeringsleiders uit elkaar gegaan zonder dat er uitzicht is op een compromis. Het ging er stevig aan toe, zei premier Jetten na ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2641176",
-     "bron": "NOS",
-     "tijd": "23:23",
-     "sorteer": "2026-11-26T23:23:16+01:00"
-    },
-    {
      "titel": "VS vroegen Venezuela en Irak uit oliekartel Opec te stappen",
      "context": "",
      "rubrieken": [],
@@ -271,78 +271,89 @@
      "sorteer": "2026-11-27T07:53:00+00:00"
     },
     {
-     "titel": "Pizza history: AI agent’s cardless purchase is a first for UK",
-     "context": "Papa John’s order was made without sharing bank security details – tech that could revolutionise shopping Retailers enter the unknown with AI shopping assistants on Black Friday An order of Papa John’s margherita pizzas has become the first purchase in the UK to be made using an AI agent using cardless payment technology. The order of nine mini pizzas was made as part of the Financial Conduct Auth",
+     "titel": "Trump calling Putin ‘friend’ like declaring friendship with Hitler during WW2, Zelenskyy says – Europe live",
+     "context": "Ukraine’s president labels US counterpart’s comments ‘strange’ and urges Washington to increase pressure on Moscow in Madrid Last night’s debate between the leaders of Spain’s four biggest political parties was a rambling, ratty and revealing spectacle in which Ada Colau, the leader of the leftwing Broad Front, is generally agreed to have come out on top. Continue reading...",
      "rubrieken": [
-      "Technology",
-      "Food & drink industry",
-      "Retail industry",
-      "Banking",
-      "Financial Conduct Authority",
-      "Business",
-      "AI (artificial intelligence)",
-      "UK news"
-     ],
-     "link": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
-     "bron": "The Guardian",
-     "tijd": "10:53",
-     "sorteer": "2026-11-27T09:53:11+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Dépendance aux Big Tech américaines : où en est la France par rapport à ses voisins européens ?",
-     "context": "Plus de 78% des sites des services publics maltais reposent sur de la technologie américaine, contre moins de 3% en Allemagne.",
-     "rubrieken": [
-      "Actualité",
-      "Tech France"
-     ],
-     "link": "https://www.politico.eu/article/ue-tech-americaine-dependance-souverainete-ia-cloud/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "10:41",
-     "sorteer": "2026-11-27T09:41:42+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-     "context": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "10:07",
-     "sorteer": "2026-11-27T09:07:48+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
-     "context": "The announcement comes a year after a military coup with its leaders promising a return to civilian rule within 12 months.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "09:58",
-     "sorteer": "2026-11-27T08:58:08+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "In Praise of My Typewriter",
-     "context": "The A.I. projects editor at The New York Times uses chatbots every day. But when it’s time to write, he reaches for an Olivetti Lettera 22 from the 1950s.",
-     "rubrieken": [
-      "internal-open-access-from-nl",
-      "Artificial Intelligence",
-      "Typewriters and Typewriting",
-      "Russian Invasion of Ukraine (2022)",
-      "Innovation",
-      "Thanksgiving Day",
+      "World news",
+      "Volodymyr Zelenskyy",
+      "Ukraine",
       "Russia",
-      "Brazil"
+      "Europe",
+      "Donald Trump",
+      "Vladimir Putin",
+      "US news"
      ],
-     "link": "https://www.nytimes.com/2026/11/26/world/ai-typewriter-russia-brazil-mirumi.html",
+     "link": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+     "bron": "The Guardian",
+     "tijd": "11:52",
+     "sorteer": "2026-11-27T10:52:28+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Puma Shen, Critic of China, Could be the Next Mayor of Taipei",
+     "context": "Puma Shen, who has been sanctioned by China for his efforts to prepare civilians for an invasion, could become Taiwan’s next political star if he wins.",
+     "rubrieken": [
+      "Politics and Government",
+      "Chinese Nationalist Party (Taiwan)",
+      "Academia Sinica",
+      "Democratic Progressive Party (Taiwan)",
+      "Cheng Li-wun (1969- )",
+      "Chiang Kai-shek",
+      "Lai Ching-te",
+      "Xi Jinping",
+      "China",
+      "Taiwan",
+      "Taipei (Taiwan)",
+      "Taiwan Strait",
+      "Puma Shen"
+     ],
+     "link": "https://www.nytimes.com/2026/11/27/world/asia/puma-shen-taiwan-election-china.html",
      "bron": "New York Times",
-     "tijd": "06:45",
-     "sorteer": "2026-11-27T05:45:53+00:00",
+     "tijd": "11:42",
+     "sorteer": "2026-11-27T10:42:02+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
+     "context": "The Ugandan army is helping the Congolese military fight an Islamist militant group in the east of the country.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "11:39",
+     "sorteer": "2026-11-27T10:39:31+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "The man who coined ‘Brexit’ likes the sound of ‘Breturn’ and ‘Brejoin’",
+     "context": "Peter Wilding - credited by Oxford English Dictionary with first using the term Brexit - says having a snappy new shorthand will bring the arguments into the present.",
+     "rubrieken": [
+      "Brexit",
+      "Development",
+      "Immigration",
+      "Referendum",
+      "Rights",
+      "Single Market",
+      "UK",
+      "Politics"
+     ],
+     "link": "https://www.politico.eu/article/the-man-who-coined-brexit-likes-the-sound-of-breturn-and-brejoin-peter-wilding/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "11:32",
+     "sorteer": "2026-11-27T10:32:43+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Ex media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+     "context": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "11:28",
+     "sorteer": "2026-11-27T10:28:35+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -353,6 +364,24 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Kou in Nederland: schaatsen op natuurijs, eerstedivisieduels en hockeyprogramma afgelast",
+     "context": "De vrieskou in Nederland (op sommige plekken was het vannacht -8 graden Celsius) heeft ervoor gezorgd dat vanavond vier van de zeven voetbalwedstrijden in de Keuken Kampioen Divisie zijn afgelast, net als het complete programma zaterdag en zondag in de hoofdklasse van het hockey. Ondertussen wordt op steeds meer plekken geschaatst op natuurijs. Kijk live mee met schaatsers Op verschillende plekken",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2641224",
+     "bron": "NOS",
+     "tijd": "11:46",
+     "sorteer": "2026-11-27T11:46:22+01:00"
+    },
+    {
+     "titel": "Marco Borsato krijgt helft advocatenkosten terug: twee ton",
+     "context": "Marco Borsato krijgt ruim twee ton terug van de kosten die hij heeft gemaakt in de zedenzaak tegen hem. De rechtbank Midden-Nederland heeft dat bepaald. De zanger werd in december vorig jaar vrijgesproken van ontucht met een minderjarig meisje. Toen bleek dat het Openbaar Ministerie niet in beroep ging in de zaak, besloot hij een procedure te beginnen om een vergoeding af te dwingen. Borsato eiste",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2641223",
+     "bron": "NOS",
+     "tijd": "11:34",
+     "sorteer": "2026-11-27T11:34:55+01:00"
+    },
     {
      "titel": "Zonnepark bij Schiphol dat piloten verblindde weer in gebruik met reflectiearme panelen",
      "context": "Het grote park met duizenden zonnepanelen naast Schiphol is weer in gebruik genomen. De panelen zijn vanaf vorig jaar zomer vervangen omdat ze een gevaar vormden voor het luchtverkeer. Piloten werden op sommige momenten van de dag verblind door het zonlicht dat op de zonnepanelen weerkaatste en in hun ogen scheen. Dit was het geval op de aanvliegroutes van de Polderbaan en Zwanenburgbaan. Vliegtui",
@@ -372,8 +401,8 @@
      "sorteer": "2026-11-27T09:05:24+01:00"
     },
     {
-     "titel": "Op veel plekken koudste 27 november ooit gemeten, uitschieter naar -8",
-     "context": "Op meerdere plekken in Nederland was het vannacht de koudste 27 novembernacht ooit gemeten. De laagste temperatuur werd gemeten in Twente, waar het kwik -8,1 graden aantikte. Ook op 26 andere meetstations in Nederland werd afgelopen nacht een kouderecord bereikt. Op het KNMI-hoofdweerstation in De Bilt was van een record geen sprake. Daar daalde het kwik afgelopen nacht volgens voorlopige meetgege",
+     "titel": "Op veel plekken koudste 27 november ooit gemeten, ijsbanen open",
+     "context": "Op meerdere plekken in Nederland was het vannacht de koudste 27 novembernacht ooit gemeten. De laagste temperatuur werd gemeten in Twente, waar het kwik -8,1 graden aantikte. Ook op 26 andere meetstations in Nederland werd afgelopen nacht een kouderecord bereikt. Schaatsen in Nederland, kijk mee Op verschillende plekken wordt geschaatst, kijk hier mee naar livestreambeelden van ijsbanen. Op het KN",
      "rubrieken": [],
      "link": "https://nos.nl/l/2641196",
      "bron": "NOS",
@@ -381,71 +410,52 @@
      "sorteer": "2026-11-27T08:03:20+01:00"
     },
     {
-     "titel": "Grote brand op industrieterrein in olieopslag Moerdijk geblust",
-     "context": "In Moerdijk heeft een grote brand gewoed op een industrieterrein. De vlammen sloegen vanochtend vroeg uit een pand waar plantaardige vetten en oliën worden opgeslagen. Om 06.43 uur was de brand geblust en werd het sein brand meester gegeven. De eerste melding van de brand kwam rond 05.00 uur binnen, schrijft Omroep Brabant. De brandweer rukte toen massaal uit. Nu de situatie onder controle is, zal",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2641190",
-     "bron": "NOS",
-     "tijd": "07:02",
-     "sorteer": "2026-11-27T07:02:17+01:00"
-    },
-    {
-     "titel": "Wekdienst 27/11: Verdachte moordzaak Houten voorgeleid • Start wereldbekerseizoen veldrijden",
-     "context": "Goedemorgen! Vandaag wordt de verdachte van de moord in Houten voor het eerst voorgeleid. Ook begint het wereldbekerseizoen veldrijden. Eerst het weer: Het is vrij zonnig en koud met in het hele land vorst. Over het noorden en oosten trekken wolkenvelden en kan het mistig zijn. Vanmiddag lost de mist op en gaat op steeds meer plaatsen de zon schijnen. De temperatuur stijgt naar een enkele graad en",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2641188",
-     "bron": "NOS",
-     "tijd": "06:40",
-     "sorteer": "2026-11-27T06:40:34+01:00"
-    },
-    {
-     "titel": "‘Vliegende draagmoeders’ bevallen soms ook in Nederland, regels worden daarbij omzeild",
+     "titel": "Woningcorporaties slaan alarm over huisvesting kwetsbare bewoners",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/vliegende-draagmoeders-bevallen-soms-ook-in-nederland-regels-worden-daarbij-omzeild~beab00ef/",
+     "link": "https://www.volkskrant.nl/binnenland/woningcorporaties-slaan-alarm-over-huisvesting-kwetsbare-bewoners~bbc64228/",
      "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-11-27T04:00:48+00:00"
+     "tijd": "11:56",
+     "sorteer": "2026-11-27T10:56:11+00:00"
     },
     {
-     "titel": "Een leven na borstkanker met één, twee of geen borsten",
+     "titel": "Rechter: Nederland hoeft Gazaanse visumhouders niet te helpen",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/wetenschap/een-leven-na-borstkanker-met-een-twee-of-geen-borsten~b0e21347/",
+     "link": "https://www.volkskrant.nl/binnenland/rechter-nederland-hoeft-gazaanse-visumhouders-niet-te-helpen~b2cdf4b1b/",
      "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-11-27T04:00:00+00:00"
+     "tijd": "11:48",
+     "sorteer": "2026-11-27T10:48:51+00:00"
     },
     {
-     "titel": "Gezichtsherkenning sluipt via geitenpaadjes de samenleving in",
+     "titel": "‘Gevoelstemperatuur’: is dat niet puur subjectief? Ja en nee",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/gezichtsherkenning-sluipt-via-geitenpaadjes-de-samenleving-in-fabrikanten-leggen-de-verantwoordelijkheid-bij-gebruikers~bf41c865/",
+     "link": "https://www.trouw.nl/binnenland/gevoelstemperatuur-is-dat-niet-puur-subjectief-ja-en-nee~bfe06799/",
      "bron": "Trouw",
-     "tijd": "22:00",
-     "sorteer": "2026-11-26T21:00:39+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "tijd": "11:48",
+     "sorteer": "2026-11-27T10:48:36+00:00"
     },
     {
-     "titel": "OM start onderzoek naar discriminatie na uitzending Zembla",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGlhNUdMZU5BU0JobWVPSExvekdvMjRaLURvblpZclJJazR1WE85ZzF1eUF2VzdOV21KYzR1OW10WEd6YXIxSVIyUDNZNmo5V21zZW1SeFp3S0xuVGRlS0N4a3VnYThnaF92RjN1TDNhVk5GbTQ1dGxnUjdyVEkwRWxVSTB4UkNFUXl1ZE0tS3FvUHB5S0RTQzlCYV9idk1kY2c?oc=5",
-     "bron": "Het Parool",
-     "tijd": "10:39",
-     "sorteer": "2026-11-27T09:39:05+00:00"
+     "titel": "Rechter probeert Esmée D. aan het praten te krijgen, maar zij zwijgt acht uur lang",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPVUVFUUxGWnAybl9BMmN3N3doWHRkb0V5czRmdEFpdnFKc2dueFVreVVMLVI3Q08xd2k2OXk3b2Z5UVVRSFcwR21ZSFZYZEVndVNsdV9nWG4wRzNmdVdmMFlfdXJ2N1J3ZWpwUTlLV0Y4NDlUUWZSWGowMA?oc=5",
+     "bron": "Leeuwarder Courant",
+     "tijd": "11:53",
+     "sorteer": "2026-11-27T10:53:40+00:00"
     },
     {
-     "titel": "Onthutsend kijkje in werkwijze van Tarwekamp-verdachten: ’Ik ga je vertellen, bro, ga uit de radar’",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORmFkME9tSUEtcWMxcEQ3MjU1UTlTVXFHQlFTXzRLRl80T0VqdnlpQVNaRldWUU5maERMS2pqUlE0bzlDVjRGekx2QVRNRlhjZzVPTHRPV2kwTWdBSzJGVGFkcGEtak1DWndkZlJIMUVZSUpuZWt6WGtwNUx0WDRZNFJ1b1VnX3Q0SGpObXZlZG5MSy15Si1RR19wamYzbm9oUGdjTkNqMVZGRHRKVkZ0WEFRc1dHakhaekZfY0dPeTZUUG1xOGpmZVQ3azVrQks3UW4yVFV3Smw?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "10:33",
-     "sorteer": "2026-11-27T09:33:25+00:00"
+     "titel": "OM stelt onderzoek in na neonazi-uitzending Zembla",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU2lGRThrSl9HaWptNmZJa08wbDZnX3VWMWh3NHpJdE5FREFhUURZTmpoSURLVWxqdnhMdXdldnZnWGlmYzlFc0dGZkR1YUFaOEpHWjZ0SXp2Ym1MUEVPQ0JteklBWHB3dTJmY2s4c2RkRkV2V2swS3dUc3RjcHhuNTJxaTZQbXVvTmVPU21La3lELXBfakNJ?oc=5",
+     "bron": "Trouw",
+     "tijd": "11:48",
+     "sorteer": "2026-11-27T10:48:07+00:00"
     },
     {
-     "titel": "Automobilisten zijn gewaarschuwd: trajectcontrole voor het eerst ook binnen de bebouwde kom",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUnh4b3BKM25KZFROMGcxdnVuX2ttSklBQnFQSXZONngyaFFDUDFvQUxnbGVuaENwZlBBdnU1WHplVHdQVG5Ta1pUZktScUVZQXl3UFBFcU1rNEdqSzBBVEplVUh1bHVLZW42MkNfX3hNbC1iSnUwek1faFI2NGh5eG5fdFBuNEFKdlpEOWtOZ2RVRkprT09LOTNYaFVlb3VPcmpxYTgybjFlS3VReGNmX3lxdW5kSWhRTmtqRDV2Sk1pWlgwVzRMMmlVaWZmem5IalRHT3NFTWk?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "10:31",
-     "sorteer": "2026-11-27T09:31:57+00:00"
+     "titel": "Bewindslieden VVD sluiten de rijen: scharen zich achter leider Yeşilgöz",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNGNMd1FTdnM0Qzc5MElDdk5lSmpNQ2JVbEs0VF9NZ1pmRmV5OVhZSkpFM2czTENvb2kyaG5iNEFnaGtyekJMejBVczRTMUFhQWxCVFdQOEE5NFRxekJKTFdMa2txcE15LVlxUUVWbHRRdGx5RVpPQTFXS0ZFOXAtemhQQnM2R2dhcFN2UTBNN2NYb2lIUHNXUWJVT1ZMTzdwVVZQb2tfV0ZyanNLVDhMbjlldGZQQVROUDZZaEJB?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "11:37",
+     "sorteer": "2026-11-27T10:37:13+00:00"
     },
     {
      "titel": "Man probeerde 26 beschermde schildpadden in te checken voor vlucht op Schiphol: in sok, doos en ducttape verstopt",
@@ -477,10 +487,18 @@
     },
     {
      "titel": "EU-top over begroting loopt uit op fiasco; leiders blijven even verdeeld",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS2RVR0VLektMY0xKSDRHZk43c0NUdlRlRU01bklzRDgzelE3Q3pPcE45V3phMmhoWEVxRU5KS3VKZmlGNHFRR3p6SmxfZ3Y4MzZBRUJERDJoQUV6Zm5QTFNwWnNlU01mdXo2dFBLb0dkS0lvejVWUWxMQ1FCa3Vud0ZXaFROUHUyYTJlSHFYeHVBdEQ0TGlZdEhmczloUQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUhFSVpSN3RxX18xZ2NZcXRzNW16R1VKT0VnbVNsS0xnM2lUczZxaEtYcVp3dDFqOTc0dWV1QnRpX0FmeUdqY1poUjNmT1FIenItbjZJTTR3Y0ZSMXNEN1pzOV96MzVLNmhKekpZZmlCMDZYbHdnZ2RLVkV4X1p0aDJJN3FVYVQ3NWc4aHdHdkwtaVlvVnc?oc=5",
      "bron": "Reformatorisch Dagblad",
-     "tijd": "10:37",
-     "sorteer": "2026-11-27T09:37:14+00:00",
+     "tijd": "11:47",
+     "sorteer": "2026-11-27T10:47:04+00:00",
+     "kop": "Begroting"
+    },
+    {
+     "titel": "Frustratie in Brussel over stroeve gesprekken begroting: ‘Heel weinig beweging’",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU1I4NldQQkNnT1dRQy1jaDA3cll0SzVMakJzMXNkcnVxVnJnMmVCdFVZWWxhTVRfZElLTjZkWkp5NXd2MUJtNnBiaHNTdGo5OTVEazVQUG0xOTRuem5BNVh2WHRzUUw2bEpaZ0tMTmZpbjdjYkVENG5ZdUVCZUNvOVhoTnQzd0JvLUFtZGRXejktTHpRR3pqNEFBOFk5b2Jyd3QzekdreXpDekZkZFhxSXk2bXhHQTlOXy1Hb3pTdUcwV01j?oc=5",
+     "bron": "bnr.nl",
+     "tijd": "07:51",
+     "sorteer": "2026-11-27T06:51:35+00:00",
      "kop": "Begroting"
     },
     {
@@ -489,14 +507,6 @@
      "bron": "bnr.nl",
      "tijd": "07:03",
      "sorteer": "2026-11-27T06:03:57+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Frustratie in Brussel over stroeve gesprekken begroting: ‘Heel weinig beweging’",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaDI3R0hEMWVva2d5ZTlyVmFETmtJYi1iVHEyWjRvV3FOcUVnUkdkTGIyOVR4WUxXN3haYURqT3luNUcwRW10ajhWMHNvanhwb3FYajBiVEdiYkEzTWNjTjd0bmNvM1VBZEViY2s2OE9STDNOM3YySHhteGRSbDBFcXpfcXFCTTlWT0VfaWFDaWYtZlUwTG1nZV9MX09FOVNUaUJXSjJpdUduSE91VVBENjdFTV9aMGQ0ZlFXeWJSQWJDZnNp?oc=5",
-     "bron": "bnr.nl",
-     "tijd": "06:58",
-     "sorteer": "2026-11-27T05:58:35+00:00",
      "kop": "Begroting"
     },
     {
@@ -517,6 +527,15 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Koudste 27 november ooit, laagste temperatuur in Twente",
+     "context": "De temperatuur daalde vannacht in Twente naar acht graden onder het vriespunt. In totaal werd er op 27 meetstations van het KNMI een kouderecord verbroken.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3724166/koudste-27-november-ooit-laagste-temperatuur-in-twente",
+     "bron": "RTV Oost",
+     "tijd": "11:12",
+     "sorteer": "2026-11-27T10:12:36+00:00"
+    },
     {
      "titel": "LEES TERUG | Sterk duel FC Twente kent zure nasmaak: 'Dit gaat wel een nachtje pijn doen'",
      "context": "FC Twente is niet langer ongeslagen in de Conference League. De ploeg van John van den Brom speelde in het Zwarte Woud een uitstekende wedstrijd, kwam door een fraaie vrije trap van Taha ook verdiend langszij, maar ging door een ongelukkige slotfase toch met 2-1 onderuit bij SC Freiburg.",
@@ -565,41 +584,30 @@
      "sorteer": "2026-11-27T05:07:58+00:00"
     },
     {
-     "titel": "Vier eredoctoraten op 65e verjaardag Universiteit Twente",
-     "context": "De Universiteit Twente viert vandaag haar 65-jarige bestaan. Het hoogtepunt van het jubileumjaar is vanmiddag de Dies Natalis, de officiële academische verjaardag. Tijdens de plechtigheid worden vier eredoctoraten uitgereikt, onder anderen aan een van de topmannen van chipmachinefabrikant ASML.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3723780/vier-eredoctoraten-op-65e-verjaardag-universiteit-twente",
-     "bron": "RTV Oost",
-     "tijd": "05:03",
-     "sorteer": "2026-11-27T04:03:36+00:00"
-    },
-    {
-     "titel": "Bergman installatiewerken Dalfsen bestaat 25 jaar",
-     "context": "DALFSEN – HOONHORST – LENTHE – Wat 25 jaar geleden begon in een klein schuurtje bij het ouderlijk huis van Eelco Bergman in Heino, is inmiddels uitgegroeid tot een mooi installatiebedrijf. Iets waar we ontzettend trots op zijn! In de afgelopen 25 jaar hebben we heel wat mooie projecten mogen realiseren. Van kleine klussen […]",
+     "titel": "Vrijwilliger Wim welverdiend in het zonnetje",
+     "context": "DALFSEN – Al 32 jaar zet Wim Lengkeek (69) uit Dalfsen zich met veel enthousiasme in voor de Overijsselse natuur. Wat ooit begon bij de knotploeg van Stichting Landschap Overijssel, groeide uit tot een jarenlange passie voor natuurbeheer. Van het knotten van bomen tot het onderhouden van de heide: Wim steekt graag de handen uit […]",
      "rubrieken": [
       "Dalfsen",
-      "Hoonhorst",
-      "Laatste nieuws",
-      "Lenthe",
-      "Uitgelicht"
+      "Ingezonden bericht",
+      "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/557295/vandaag-bestaat-bergman-installatiewerken-25-jaar.html",
+     "link": "https://www.dalfsennet.nl/nieuws/557410/vrijwilliger-wim-wel-verdiend-in-het-zonnetje.html",
      "bron": "DalfsenNet",
-     "tijd": "22:00",
-     "sorteer": "2026-11-26T21:00:02+00:00",
-     "vervolg": "stond gisteren ook in de briefing"
+     "tijd": "11:52",
+     "sorteer": "2026-11-27T10:52:50+00:00"
     },
     {
-     "titel": "Een frisse neus op het Rechterenseveld",
-     "context": "RECHTEREN – Wat een heerlijk weer om een frisse neus te halen en te genieten van de winterse sfeer. Het Rechterense veld is dan een prachtige plek voor een wandeling. Een paar weken geleden was ik hier ook. Toen waren er meer dan honderd mensen in het bos aan het werk dennetjes verwijderen tussen […]",
+     "titel": "Bijna elftal bij elkaar, maar voetballen kunnen ze niet",
+     "context": "DALFSEN – Onze natuurvriend Rudolf Kloosterziel heeft de eer om op een machtig mooi plekje te wonen, bijna de mooiste plek van Dalfsen volgens mij. Het is daar één groot natuurpark aan de Stokte, Hij zegt: Bijna een elftal. Ik telde zojuist 10 reeën hier bij mij in de buurt. Ze stonden een beetje […]",
      "rubrieken": [
-      "Laatste nieuws",
-      "Rechteren"
+      "Dalfsen",
+      "Ingezonden bericht",
+      "Laatste nieuws"
      ],
-     "link": "https://www.dalfsennet.nl/nieuws/557387/een-frisse-neus-op-het-rechterenveld.html",
+     "link": "https://www.dalfsennet.nl/nieuws/557406/bijna-elftal-bij-elkaar-maar-voetballen-kunnen-ze-niet.html",
      "bron": "DalfsenNet",
-     "tijd": "21:07",
-     "sorteer": "2026-11-26T20:07:25+00:00"
+     "tijd": "11:35",
+     "sorteer": "2026-11-27T10:35:19+00:00"
     }
    ]
   },
@@ -660,21 +668,29 @@
    "emoji": "🤖",
    "items": [
     {
+     "titel": "Antwoord op vragen van lid Michon-Derkzen over de berichten 'DNB: voor succesvolle toepassing AI moet starre polder worden…",
+     "bron": "Antwoord op Kamervragen",
+     "kop": "Uit de Tweede Kamer",
+     "tijd": "26-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D61343",
+     "sorteer": "2026-11-27T11:36:30.207+01:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "De berichten 'DNB: voor succesvolle toepassing AI moet starre polder worden opgeschud” en 'Steeds meer mensen met WW-uitkering…",
+     "bron": "Kamervraag",
+     "kop": "Uit de Tweede Kamer",
+     "tijd": "04-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D55405",
+     "sorteer": "2026-11-27T11:31:44.297+01:00"
+    },
+    {
      "titel": "Motie van het lid Lohman c.s. over zich inspannen voor een ketendeal voor regeneratieve landbouw",
      "bron": "Motie",
      "kop": "Uit de Tweede Kamer",
      "tijd": "26-11",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D61418",
      "sorteer": "2026-11-27T09:12:31.76+01:00"
-    },
-    {
-     "titel": "Antwoord op vragen van lid Michon-Derkzen over de berichten 'DNB: voor succesvolle toepassing AI moet starre polder worden…",
-     "bron": "Antwoord op Kamervragen",
-     "kop": "Uit de Tweede Kamer",
-     "tijd": "26-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D61343",
-     "sorteer": "2026-11-26T17:08:48.97+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
     },
     {
      "titel": "Motie van het lid Van den Berg over borgen dat Nederland zelf beslist of en waar het datacenterversnellingszones aanwijst",
@@ -686,21 +702,19 @@
      "vervolg": "stond gisteren ook in de briefing"
     },
     {
-     "titel": "Het Duitse voorstel voor bescherming van auteursrechten in het tijdperk van kunstmatige intelligentie",
-     "bron": "Kamervraag",
-     "kop": "Uit de Tweede Kamer",
-     "tijd": "19-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D59330",
-     "sorteer": "2026-11-26T16:11:08.867+01:00",
-     "vervolg": "stond gisteren ook in de briefing"
-    },
-    {
      "titel": "Kabinetsreactie op het SER-advies over werk en AI",
      "bron": "Brief van de regering",
      "kop": "Uit de Tweede Kamer",
      "tijd": "06-11",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D56181",
      "sorteer": "2026-11-26T09:39:24.247+01:00"
+    },
+    {
+     "titel": "Zeven mythes over AI ontkracht",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92b25tTXVydFcyYzBOd0k5ZVFDMEx0dHFxdUN2UjBvUWtvYnBSRlNhUHZfVEFKTkFNcWRBYi1VT2hoLUlEZ2I4cF9pTGdDbThlMVBMcF9NNlZJdWxwV2xncWs5cWJaVzQ?oc=5",
+     "bron": "Reformatorisch Dagblad",
+     "tijd": "11:18",
+     "sorteer": "2026-11-27T10:18:58+00:00"
     },
     {
      "titel": "Geloof niet in de mythologie van AI",
@@ -715,20 +729,6 @@
      "bron": "Reformatorisch Dagblad",
      "tijd": "08:24",
      "sorteer": "2026-11-27T07:24:18+00:00"
-    },
-    {
-     "titel": "Zeven mythes over AI ontkracht",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92b25tTXVydFcyYzBOd0k5ZVFDMEx0dHFxdUN2UjBvUWtvYnBSRlNhUHZfVEFKTkFNcWRBYi1VT2hoLUlEZ2I4cF9pTGdDbThlMVBMcF9NNlZJdWxwV2xncWs5cWJaVzQ?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "07:08",
-     "sorteer": "2026-11-27T06:08:33+00:00"
-    },
-    {
-     "titel": "Geen algoritme, maar puur mensenwerk: zo zet Bram de kerstlijst van Sky Radio met de hand in elkaar",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSXRCZGJ0c1FMZE9uSDQ0TzlaaG94M2hnaHZSajhtSVNFS05uSEh2SThsLWpPX0VGd05EZFl4Z25MZ3J6N2ZSSXgxNC1VUWxxQU80R0dIYzFUYVd2MkZmM2FlS3FBNVIwbHNqNi1tbHF5M3N3WTZiMHRhc0pqb1VqRmxYd2pnMlJhdy1LVmRxNF9DdzMzVldCR08wVGpYalhZdW8yLW1QaVVJMEx1cUpXU2JfVE5xZFZ3RXBVUkVBTW44ZHNrVTBORjlR?oc=5",
-     "bron": "AD.nl",
-     "tijd": "07:00",
-     "sorteer": "2026-11-27T06:00:09+00:00"
     }
    ]
   },
@@ -850,20 +850,20 @@
      "sorteer": "2026-11-26T14:51:35.09+01:00"
     },
     {
-     "titel": "Antwoord vragen van het lid Teunissen over racistische patrouilles in Loosdrecht",
+     "titel": "Antwoord op vragen van de leden Lammers en Schilder over de politie-inzet tegen ernstige jeugdoverlast en geweld in Groot Driene…",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
      "tijd": "26-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D52841",
-     "sorteer": "2026-11-27T10:33:43.413+01:00"
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D52890",
+     "sorteer": "2026-11-27T11:49:12.143+01:00"
     },
     {
-     "titel": "Antwoord op vragen van het lid Van Houwelingen over de mogelijke inzet van Duitse politie in Polen",
+     "titel": "Antwoord op vragen van het lid Van Houwelingen over het onderzoek uitgezet door de NCTV bij (Nederlandse) universiteiten",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
-     "tijd": "26-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D61106",
-     "sorteer": "2026-11-26T13:15:18.34+01:00"
+     "tijd": "26-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D52851",
+     "sorteer": "2026-11-27T11:01:29.21+01:00"
     },
     {
      "titel": "Periodieke rapportage Nationale Veiligheid Bewaken en Beveiligen Crisisbeheersing Cybersecurity en Statelijke Dreigingen",
@@ -937,7 +937,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "11:00",
+    "bijgewerkt": "12:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1332,6 +1332,13 @@
      "sorteer": "2026-11-27T06:00:00+00:00"
     },
     {
+     "titel": "Deze zeevogels bespioneren schepen",
+     "toelichting": "Dat vogels worden ingezet als spionnen is een bekende complottheorie. Een nieuw onderzoek neemt die gedachte wel heel letterlijk. Schepen hebben invloed op ecosystemen in de oceaan. Vissers- en transportschepen zijn niet",
+     "bron": "Scientias",
+     "tijd": "11:00",
+     "link": "https://scientias.nl/deze-zeevogels-bespioneren-schepen/"
+    },
+    {
      "titel": "Waarom vliegende eekhoorns kunnen helpen bij het herstel van tropisch regenwoud",
      "toelichting": "In een regenwoud op het Chinese eiland Hainan knagen twee soorten vliegende eekhoorns groeven in eikels, die ze vervolgens tussen dunne takjes klemmen, een flink eind van de boom waar ze vandaan komen. Op juist die afsta",
      "bron": "Scientias",
@@ -1339,11 +1346,12 @@
      "link": "https://scientias.nl/waarom-vliegende-eekhoorns-kunnen-helpen-bij-het-herstel-van-tropisch-regenwoud/"
     },
     {
-     "titel": "Superman? Oh nee, gewoon krypton! Hoe dat ontdekt werd? Nou… Diederik legt het uit in deze video.",
-     "toelichting": "Deze scheikundige is een soort van superman: hij vond vijf edelgassen in vier jaar tijd. In de 19e eeuw! Diederik legt uit hoe hij dat deed in deze video: Meer wetenschap? Lees de nieuwste artikelen op Scientias.nl .",
-     "bron": "Scientias",
-     "tijd": "13:17",
-     "link": "https://scientias.nl/superman-oh-nee-gewoon-krypton-hoe-dat-ontdekt-werd-nou-diederik-legt-het-uit-in-deze-video/"
+     "titel": "Zambian court again delays copper miner’s bid to block pollution lawsuit",
+     "toelichting": "Zambia’s top court has postponed for the fourth time an appeal by copper miner Sino Metals, which is trying to block a lawsuit against it from proceeding. The latest adjournment comes amid ongoing concerns over disputed ",
+     "bron": "Mongabay (Engels)",
+     "tijd": "11:27",
+     "link": "https://news.mongabay.com/short-article/2026/11/zambian-court-again-delays-copper-miners-bid-to-block-pollution-lawsuit/",
+     "sorteer": "2026-11-27T10:27:47+00:00"
     },
     {
      "titel": "Meet the few Liberian women rangers in a race to protect wildlife and forests",
@@ -1352,14 +1360,6 @@
      "tijd": "09:00",
      "link": "https://news.mongabay.com/2026/11/meet-the-few-liberian-women-rangers-in-a-race-to-protect-wildlife-and-forests/",
      "sorteer": "2026-11-27T08:00:23+00:00"
-    },
-    {
-     "titel": "Hong Kong becomes key link in illegal trade of Australia’s native reptiles",
-     "toelichting": "From lizards to snakes, Hong Kong is emerging as a primary trafficking center for native Australian reptiles, reports contributor Selina Cheng for Mongabay. In December 2025, customs authorities intercepted a consignment",
-     "bron": "Mongabay (Engels)",
-     "tijd": "05:55",
-     "link": "https://news.mongabay.com/short-article/2026/11/hong-kong-becomes-key-link-in-illegal-trade-of-australias-native-reptiles/",
-     "sorteer": "2026-11-27T04:55:14+00:00"
     }
    ]
   },
@@ -1411,63 +1411,87 @@
     {
      "titel": "Dalfsen (nacht)",
      "kop": "Vogeltrek",
-     "bron": "26-11",
-     "wanneer": "de nacht van woensdag op donderdag",
+     "bron": "27-11",
+     "wanneer": "vannacht",
      "tijd": "17:10–07:35",
-     "link": "https://trektellen.org/count/view/2364/20261126",
+     "link": "https://trektellen.org/count/view/2364/20261127",
      "soorten": [
-      "Koperwiek 12",
-      "Kolgans 2",
-      "Brandgans 1",
-      "Toendrarietgans 1"
+      "Koperwiek 53",
+      "Merel 9",
+      "Kolgans 8",
+      "Zanglijster 3"
      ],
-     "aantal_soorten": 5,
+     "aantal_soorten": 8,
      "opmerkingen": [
-      "Kleine Zwaan Bewick\\'s Swan"
+      "Roerdomp Bitterrn"
      ],
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 23 soorten, 337 vogels geteld",
+     "titel": "Landelijk vandaag: 84 soorten, 9.787 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261127?language=dutch"
     },
     {
-     "titel": "Spreeuw — 66",
+     "titel": "Zwarte Zee-eend — 4.254",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261127?language=dutch"
     },
     {
-     "titel": "Brandgans — 51",
+     "titel": "Roodkeelduiker — 978",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261127?language=dutch"
     },
     {
-     "titel": "Kokmeeuw — 43",
+     "titel": "Aalscholver — 925",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261127?language=dutch"
     },
     {
-     "titel": "Vink — 41",
+     "titel": "Koperwiek — 581",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261127?language=dutch"
     },
     {
-     "titel": "Barmsijs — 33",
+     "titel": "Spreeuw — 535",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261127?language=dutch"
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "eend spec. springt eruit — 90, normaal 7",
+     "bron": "13× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261127?language=dutch",
+     "sein": true
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Fuut springt eruit — 279, normaal 29",
+     "bron": "10× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261127?language=dutch",
+     "sein": false
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Koperwiek springt eruit — 581, normaal 190",
+     "bron": "3× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261127?language=dutch",
+     "sein": false
     },
     {
      "kop": "Pestvogels",
@@ -1483,7 +1507,7 @@
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 304 vogels; 553 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 303 vogels; 557 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1513,8 +1537,8 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": -2.0,
-    "gevoel": -6.5,
+    "nu": -0.8,
+    "gevoel": -5.3,
     "wind": "O 3",
     "station": "Heino",
     "bericht": "De afgelopen nacht was de koudste van deze novemberwinter. Vandaag is het zonnig met eerst lichte tot matige vorst. Vanmiddag ligt de temperatuur dicht bij het vriespunt.",
@@ -1525,11 +1549,11 @@
      "max": 1,
      "min": -6,
      "regenkans": 0,
-     "omschrijving": "mistig",
+     "omschrijving": "bewolkt",
      "morgen": {
       "max": 1,
       "min": -4,
-      "regenkans": 3,
+      "regenkans": 0,
       "omschrijving": null
      }
     },
