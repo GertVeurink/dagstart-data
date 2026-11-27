@@ -3,15 +3,15 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "15:00",
+  "opgehaald": "16:00",
   "blokken": 11,
-  "berichten": 103,
+  "berichten": 102,
   "problemen": [
    "AI Report: geen berichten in de archiefpagina gevonden"
   ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-27T15:00+01:00",
+ "opgehaald": "2026-11-27T16:00+01:00",
  "audio": "audio/20261127.mp3",
  "afval": [
   {
@@ -224,6 +224,24 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Ontsnapping moordverdachte in Sri Lanka mislukt door botsing met olifant",
+     "context": "In Sri Lanka is een misdadiger tijdens zijn ontsnapping op een scooter op een olifant gebotst. De man (49) wordt ervan verdacht dat hij een vrouw heeft doodgestoken in haar huis . Na de botsing met het dier werd de man gearresteerd, zegt de Sri Lankaanse politie tegen persbureau AFP. De olifant liep plotseling vanuit de jungle de weg op. Getuigen verklaarden dat het dier na de botsing ongedeerd le",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2641262",
+     "bron": "NOS",
+     "tijd": "15:34",
+     "sorteer": "2026-11-27T15:34:15+01:00"
+    },
+    {
+     "titel": "Botsing met 37 voertuigen op Zwitserse snelweg, geen ernstig gewonden",
+     "context": "Vanochtend vroeg was er op de Zwitserse snelweg A1 een massale kettingbotsing. Rond 05.45 uur botsten ten oosten van Zürich en in de richting van de stad Winterthur 37 voertuigen op elkaar. Volgens de lokale politie waren het 23 personenauto's, 6 bestelbusjes en 8 vrachtwagens. Tien mensen raakten gewond, maar niemand ernstig. Wat de oorzaak is van het ongeluk is nog onduidelijk en wordt onderzoch",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2641254",
+     "bron": "NOS",
+     "tijd": "15:00",
+     "sorteer": "2026-11-27T15:00:58+01:00"
+    },
+    {
      "titel": "Rechter: Staat hoeft Gazanen niet te helpen om naar Nederland te komen",
      "context": "De Nederlandse staat hoeft 111 eisers uit Gaza niet te helpen bij het ophalen van een visum waarmee zij toegang krijgen tot Nederland. Dat heeft de rechtbank in Den Haag bepaald in een kort geding. Omdat er geen Nederlandse diplomatieke vertegenwoordiging is in Gaza, moeten de Gazanen naar de Nederlandse ambassade in Jordanië. Daar kunnen zij een machtiging tot kort verblijf afhalen, waarmee ze la",
      "rubrieken": [],
@@ -251,24 +269,6 @@
      "sorteer": "2026-11-27T13:05:16+01:00"
     },
     {
-     "titel": "Hond van Zwitser blijkt wolf, dier in beslag genomen",
-     "context": "De Zwitserse autoriteiten hebben een wolf in beslag genomen die als huisdier in een tuin werd gehouden. Het dier was geregistreerd als hond en bleek als pup illegaal Zwitserland binnengebracht. De veterinaire dienst van het kanton Bern kreeg begin deze maand een melding. Die ging over een vermoedelijk illegale invoer van de wolf. Genetisch onderzoek wees uit dat het inderdaad om een wolf ging. Het",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2641230",
-     "bron": "NOS",
-     "tijd": "12:23",
-     "sorteer": "2026-11-27T12:23:46+01:00"
-    },
-    {
-     "titel": "Politie vindt handboeien en bivakmuts bij omstreden De Slimste Mens-deelnemer El Hadri",
-     "context": "De Belgische politie heeft het huis doorzocht van de Belgische influencer en voormalig De Slimste Mens -deelnemer Mehdi El Hadri. Bij de huiszoeking zijn verschillende laptops en een mobiele telefoon in beslag genomen. Ook stuitte de politie in de woning op handboeien en een bivakmuts. Daarnaast is er een nieuwe aanklacht tegen El Hadri ingediend, schrijven meerdere Belgische media. Begin deze maa",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2641220",
-     "bron": "NOS",
-     "tijd": "11:20",
-     "sorteer": "2026-11-27T11:20:54+01:00"
-    },
-    {
      "titel": "Zelensky kritisch over vriendschap Trump met Poetin: ‘Hij is een agressor en een moordenaar’",
      "context": "",
      "rubrieken": [],
@@ -287,28 +287,86 @@
      "sorteer": "2026-11-27T11:19:00+00:00"
     },
     {
-     "titel": "De Nvidia-zaak is tekenend voor het staatsingrijpen in de tech-industrie onder Trump",
+     "titel": "Nvidia-zaak is tekenend voor Trumps bemoeienis met de tech-industrie",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/de-nvidia-zaak-is-tekenend-voor-het-staatsingrijpen-in-de-tech-industrie-onder-trump~b6460b74/",
+     "link": "https://www.trouw.nl/buitenland/nvidia-zaak-is-tekenend-voor-trumps-bemoeienis-met-de-tech-industrie~b6460b74/",
      "bron": "Trouw",
      "tijd": "14:31",
-     "sorteer": "2026-11-27T13:31:01+00:00"
+     "sorteer": "2026-11-27T13:31:00+00:00"
     },
     {
-     "titel": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
-     "context": "The department is working with cyber security experts to restore services and limit disruption Tell us: have you been affected by the DWP ‘cyber incident’ According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and peaked at about 8am this morning. Tory MP Neil Shastri-Hurst has also commented on the disruption a",
+     "titel": "Hackers reportedly breach US Air Force’s flagship cloud computing platform",
+     "context": "Intrusion into Cloud One platform could jeopardize security of sensitive tactical, personnel and logistics data Hackers are reported to have breached the US Air Force’s flagship cloud computing platform, a break-in that comes days after reports that a CIA database was accessed. Reuters reported Friday that the intrusion into the USAF’s Cloud One platform could jeopardize the security of sensitive ",
      "rubrieken": [
-      "Politics",
-      "UK news",
-      "Oil",
-      "Law",
-      "Benefits"
+      "Hacking",
+      "US military",
+      "CIA",
+      "Technology",
+      "US news"
      ],
-     "link": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+     "link": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing",
      "bron": "The Guardian",
-     "tijd": "14:48",
-     "sorteer": "2026-11-27T13:48:41+00:00",
+     "tijd": "15:50",
+     "sorteer": "2026-11-27T14:50:15+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+     "context": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "15:49",
+     "sorteer": "2026-11-27T14:49:59+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Spain’s Far-Right Era Ended in 1975. Will This Man Change That?",
+     "context": "If the polls are right, Santiago Abascal’s Vox party could become the first far-right group to join a Spanish government since the days of Franco.",
+     "rubrieken": [
+      "Abascal, Santiago",
+      "Nationalism (Theory and Philosophy)",
+      "Right-Wing Extremism and Alt-Right",
+      "Muslims and Islam",
+      "Polls and Public Opinion",
+      "Politics and Government",
+      "Basques",
+      "International Relations",
+      "Immigration and Emigration",
+      "ETA",
+      "Vox (Spanish Political Party)",
+      "Popular Party (Spain)",
+      "Spain"
+     ],
+     "link": "https://www.nytimes.com/2026/11/27/world/europe/santiago-abascal-vox-spain-far-right.html",
+     "bron": "New York Times",
+     "tijd": "15:45",
+     "sorteer": "2026-11-27T14:45:20+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "We’d be ‘stupid’ not to: Poland defends $300M military AI deal with Palantir",
+     "context": "Poland's defense minister said it would be “wrong” not to use the software, despite concerns over reliance on American technology.",
+     "rubrieken": [
+      "Artificial Intelligence",
+      "Data",
+      "Defense",
+      "Intelligence",
+      "Military",
+      "Security",
+      "Software",
+      "Technology",
+      "Defense",
+      "Technology"
+     ],
+     "link": "https://www.politico.eu/article/wed-be-stupid-not-to-poland-defends-300m-military-ai-deal-with-palantir/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "bron": "Politico Europe",
+     "tijd": "15:41",
+     "sorteer": "2026-11-27T14:41:55+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     },
@@ -322,70 +380,6 @@
      "sorteer": "2026-11-27T13:38:07+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Puma Shen, Critic of China, Could be the Next Mayor of Taipei",
-     "context": "Puma Shen, who has been sanctioned by China for his efforts to prepare civilians for an invasion, could become Taiwan’s next political star if he wins.",
-     "rubrieken": [
-      "Politics and Government",
-      "Chinese Nationalist Party (Taiwan)",
-      "Academia Sinica",
-      "Democratic Progressive Party (Taiwan)",
-      "Cheng Li-wun (1969- )",
-      "Chiang Kai-shek",
-      "Lai Ching-te",
-      "Xi Jinping",
-      "China",
-      "Taiwan",
-      "Taipei (Taiwan)",
-      "Taiwan Strait",
-      "Puma Shen"
-     ],
-     "link": "https://www.nytimes.com/2026/11/27/world/asia/puma-shen-taiwan-election-china.html",
-     "bron": "New York Times",
-     "tijd": "14:33",
-     "sorteer": "2026-11-27T13:33:49+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-     "context": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "12:44",
-     "sorteer": "2026-11-27T11:44:40+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Meta’s UK rollout for Muse AI agent exposes it to more liability",
-     "context": "The U.K. terms of service for Muse give consumers far more protection than in the U.S.",
-     "rubrieken": [
-      "Artificial Intelligence",
-      "Competition",
-      "Consumer duty",
-      "Courts",
-      "Fraud",
-      "Investment",
-      "Payments",
-      "Regulation",
-      "Regulatory",
-      "Rights",
-      "Services",
-      "Skills",
-      "Software",
-      "Technology",
-      "Financial Services UK",
-      "Technology UK"
-     ],
-     "link": "https://www.politico.eu/article/metas-uk-rollout-for-muse-ai-agent-exposes-it-to-more-liability/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "bron": "Politico Europe",
-     "tijd": "12:25",
-     "sorteer": "2026-11-27T11:25:07+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
     }
    ]
   },
@@ -394,6 +388,15 @@
    "titel": "Nationaal",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Meer ruimte voor dronevliegers, regels rond vijf luchthavens versoepeld",
+     "context": "Hobbyisten en professionele dronevliegers mogen sinds gisteren op veel meer plekken in Nederland hun drone de lucht in sturen. Dat komt door een versoepeling van de regels voor het vliegen rond vijf niet-militaire luchthavens. Door de invoering van de nieuwe regels mogen dronevliegers nu in grote delen van Amsterdam, Rotterdam en Groningen vliegen, waar dat voorheen voor hobbyisten verboden was. O",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2641257",
+     "bron": "NOS",
+     "tijd": "15:16",
+     "sorteer": "2026-11-27T15:16:21+01:00"
+    },
     {
      "titel": "NFI ontdekt DNA-match tussen in 1976 overleden baby en twee vondelingen",
      "context": "Het Nederlands Forensisch Instituut heeft bij onderzoek naar een coldcasezaak een DNA-match gevonden tussen een overleden baby die in 1976 werd gevonden en twee broers. Zij werden rond dezelfde tijd te vondeling gelegd. De overleden baby werd in de zomer van 1976 gevonden in het water in Wateringen, in Zuid-Holland. De politie stelde een onderzoek in, maar zijn identiteit werd nooit bekend. Tot nu",
@@ -422,13 +425,13 @@
      "sorteer": "2026-11-27T12:43:53+01:00"
     },
     {
-     "titel": "Kou in Nederland: schaatsen op natuurijs, eerstedivisieduels en hockeyprogramma afgelast",
-     "context": "De vrieskou in Nederland (op sommige plekken was het vannacht -8 graden Celsius) heeft ervoor gezorgd dat vanavond vier van de zeven voetbalwedstrijden in de Keuken Kampioen Divisie zijn afgelast, net als het complete programma zaterdag en zondag in de hoofdklasse van het hockey. De KNVB laat aan de NOS weten dat er op dit moment geen zorgen zijn om de eredivisiewedstrijden. Die gaan vooralsnog al",
+     "titel": "Trajectcontrole in de binnenstad moet veel ongelukken gaan voorkomen",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2641224",
-     "bron": "NOS",
-     "tijd": "11:46",
-     "sorteer": "2026-11-27T11:46:22+01:00"
+     "link": "https://www.volkskrant.nl/binnenland/trajectcontrole-in-de-binnenstad-moet-veel-ongelukken-gaan-voorkomen~b1a54f29/",
+     "bron": "de Volkskrant",
+     "tijd": "15:23",
+     "sorteer": "2026-11-27T14:23:14+00:00"
     },
     {
      "titel": "Als eerste het natuurijs op: ‘Je komt niet veel dichter bij vliegen dan als je schaatst’",
@@ -449,32 +452,32 @@
      "sorteer": "2026-11-27T12:41:00+00:00"
     },
     {
+     "titel": "Ex-partner verdacht van moord of doodslag op Senait (34) in Houten",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZHpfeml6SDlGMGZSTnR3Q2FSZXc3LU5mZ2pNVEZxNWQ1M3hIV3FrT01ORlJLbHNNMUcwck9Lb05HbWVCT3M4RURNZ0NVMVNON2NRNVI4VGVLLTJrYUpoVXlBOHFRUTJHRjBkVUZMS2V5c01JVDdZaDYtZC1JMTRHYVlyT0RkM3U3MzJIZndLakFYSkRZd2QyLXNsc3JzX05mYW8tWExsWQ?oc=5",
+     "bron": "AD.nl",
+     "tijd": "15:48",
+     "sorteer": "2026-11-27T14:48:00+00:00"
+    },
+    {
+     "titel": "OM zoekt strafbare feiten in ‘Neonazi-files’: kooigevechten waren besloten, maar daarmee red je niet zomaar je hachje",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUVAwYzJkTGVyRjJGZmM3dTFKWGhEZWI1WG9fS2h0YVE5ZXM0ZFpCQnpkeVMwS1JqV004cU1oQzZyd3FpT3dnSXE1ODRaa294c3pYVnVkNWNabzJOMVJXQTRUeWVoLUQxYkd6X3Zjb19WQmVVVWp4R0hwMG9nVG5CeWlyakxXT2lJczN5bmo2OFJnTHVzbEdYWllGa3ZnVTdnTENHZTgxNmNGVGNiUHdkd0JxZVlHczJIQUVBN0tiQ2xOTlgyMHBGLTN3VVhQcC1ET3FyTkJhekpIU0ZYbmZLYXNUQVFITHNYY1BwNEhiM0wyMUZQ?oc=5",
+     "bron": "De Gelderlander",
+     "tijd": "15:45",
+     "sorteer": "2026-11-27T14:45:16+00:00"
+    },
+    {
      "titel": "Onthutsend kijkje in werkwijze van Tarwekamp-verdachten: ’Ik ga je vertellen, bro, ga uit de radar’",
      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORmFkME9tSUEtcWMxcEQ3MjU1UTlTVXFHQlFTXzRLRl80T0VqdnlpQVNaRldWUU5maERMS2pqUlE0bzlDVjRGekx2QVRNRlhjZzVPTHRPV2kwTWdBSzJGVGFkcGEtak1DWndkZlJIMUVZSUpuZWt6WGtwNUx0WDRZNFJ1b1VnX3Q0SGpObXZlZG5MSy15Si1RR19wamYzbm9oUGdjTkNqMVZGRHRKVkZ0WEFRc1dHakhaekZfY0dPeTZUUG1xOGpmZVQ3azVrQks3UW4yVFV3Smw?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "13:33",
-     "sorteer": "2026-11-27T12:33:25+00:00"
+     "tijd": "15:36",
+     "sorteer": "2026-11-27T14:36:19+00:00"
     },
     {
      "titel": "Automobilisten zijn gewaarschuwd: trajectcontrole voor het eerst ook binnen de bebouwde kom",
      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUnh4b3BKM25KZFROMGcxdnVuX2ttSklBQnFQSXZONngyaFFDUDFvQUxnbGVuaENwZlBBdnU1WHplVHdQVG5Ta1pUZktScUVZQXl3UFBFcU1rNEdqSzBBVEplVUh1bHVLZW42MkNfX3hNbC1iSnUwek1faFI2NGh5eG5fdFBuNEFKdlpEOWtOZ2RVRkprT09LOTNYaFVlb3VPcmpxYTgybjFlS3VReGNmX3lxdW5kSWhRTmtqRDV2Sk1pWlgwVzRMMmlVaWZmem5IalRHT3NFTWk?oc=5",
      "bron": "De Telegraaf",
-     "tijd": "13:31",
-     "sorteer": "2026-11-27T12:31:58+00:00"
-    },
-    {
-     "titel": "100 uur taakstraf geëist tegen Amir T. (22) voor trap voorafgaand aan dodelijke steekpartij festival Solid Grooves",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMzRYWkdvNlRNLUZtV3JDNG00LXoybXFScW1BSG51NUNFbEU1NEV6c2p0RGRwbWtVeU40YXRWSEc0UzFrWERFRERrckFOTjhfSVFHMGh1UGJTSTliaXM1Z011bHdDQVNJNERZQmZJVWRLTGp3aXV3b1pULWtaUE9hWlpGZi1PVVdhMDRFaGF1Z0w5eUxZcHl3b3NZN1RGMDJUbGFkVHlJd0JMeDBLLUdTeURkRnhJZ0xaQnRsMS1RZXZfcmo1UE94azhxdHMyY1I0d2ltQmRoMTlpQQ?oc=5",
-     "bron": "Het Parool",
-     "tijd": "13:04",
-     "sorteer": "2026-11-27T12:04:00+00:00"
-    },
-    {
-     "titel": "Waarom lukken Nederlandse series op Videoland wel en Netflix niet?",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObGltV1EtLXg1RXp5NGRRUTNtUG9rWjJFQ2U2dE03d0VkTHNHaWpIWnNYSG9GMHp2VEpjYzBXdEZtMkpqbkx0YkFOMERGdFlnQjRRdXQ4REtzN1hzMHI0TENLMFAySGY3V0VabTItb1dHYU1JYlpNSWtQM3RIZjlxbmNlRWgtUGxPSE9QOVdOSjhiWlZiV3BOTXFjamtpN1B2T1RIancwUEk2SDQ2ME1wY0V3aw?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "14:38",
-     "sorteer": "2026-11-27T13:38:01+00:00"
+     "tijd": "15:00",
+     "sorteer": "2026-11-27T14:00:00+00:00"
     },
     {
      "titel": "Ik ga met verlof (nee, ik krijg geen kind en ik ga ook geen boek schrijven)",
@@ -496,25 +499,6 @@
      "bron": "De Correspondent · Lex Bohlmeijer",
      "tijd": "05:45",
      "sorteer": "2026-11-27T04:45:05+00:00"
-    },
-    {
-     "titel": "EU-top over begroting loopt uit op fiasco; leiders blijven even verdeeld",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUhFSVpSN3RxX18xZ2NZcXRzNW16R1VKT0VnbVNsS0xnM2lUczZxaEtYcVp3dDFqOTc0dWV1QnRpX0FmeUdqY1poUjNmT1FIenItbjZJTTR3Y0ZSMXNEN1pzOV96MzVLNmhKekpZZmlCMDZYbHdnZ2RLVkV4X1p0aDJJN3FVYVQ3NWc4aHdHdkwtaVlvVnc?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "11:47",
-     "sorteer": "2026-11-27T10:47:04+00:00",
-     "kop": "Begroting"
-    },
-    {
-     "titel": "Nieuwsuur: Onvrede over dubbelfunctie Yesilgöz • NCTV over gevaren AI • Equal Pay Day",
-     "context": "Onvrede over dubbelfunctie Yesilgöz Er is onvrede binnen de VVD over de dubbelrol van Dilan Yesilgöz als partijleider en minister van Defensie. Voormalig VVD-partijvoorzitter Christianne van der Wal vertelde hier gisteren over in Pauw & De Wit en ook andere (oud-)partijprominenten, zoals voormalig minister Micky Adriaansens, sluiten zich hierbij aan. De druk op het partijleiderschap van Yesilgöz n",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2641119",
-     "bron": "NPO2 · 22:00",
-     "tijd": "22:00",
-     "sorteer": "2026-11-27T22:00:00",
-     "kop": "Vanavond op tv",
-     "vervolg": "stond gisteren ook in de briefing"
     }
    ]
   },
@@ -523,6 +507,24 @@
    "titel": "Dalfsen en Oost-Nederland",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Politie zoekt verdachte na explosie in Hengelo",
+     "context": "Bewoners van de Oude Postweg in Hengelo werden woensdagnacht opgeschrikt door een explosie. Daarbij was volgens de politie in ieder geval één persoon betrokken. Het is niet bekend wat er is ontploft en wat het motief was.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3724316/politie-zoekt-verdachte-na-explosie-in-hengelo",
+     "bron": "RTV Oost",
+     "tijd": "15:38",
+     "sorteer": "2026-11-27T14:38:57+00:00"
+    },
+    {
+     "titel": "Taakstraf en rijverbod voor man (18) die dronken een lijnbus bestuurde",
+     "context": "Automobilisten zien op 27 juni tussen IJsselmuiden en Genemuiden hoe een lijnbus zich slingerend een weg baant over vluchtheuvels en door de berm. Wat ze niet weten, is dat een 18-jarige passagier het stuur heeft overgenomen. Hij is dronken op weg naar huis. Vandaag stond hij terecht.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3724244/taakstraf-en-rijverbod-voor-man-18-die-dronken-een-lijnbus-bestuurde",
+     "bron": "RTV Oost",
+     "tijd": "15:24",
+     "sorteer": "2026-11-27T14:24:13+00:00"
+    },
     {
      "titel": "Wie meldt zich om te praten over appgroep 't Haviksoog?",
      "context": "De politie Oost-Nederland probeert meer duidelijkheid te krijgen over de WhatsAppgroep 't Haviksoog. Ze roept mannen die in de groep zaten op om zich te melden als getuige.",
@@ -560,24 +562,6 @@
      "bron": "RTV Oost",
      "tijd": "11:55",
      "sorteer": "2026-11-27T10:55:33+00:00"
-    },
-    {
-     "titel": "LEES TERUG | Sterk duel FC Twente kent zure nasmaak: 'Dit gaat wel een nachtje pijn doen'",
-     "context": "FC Twente is niet langer ongeslagen in de Conference League. De ploeg van John van den Brom speelde in het Zwarte Woud een uitstekende wedstrijd, kwam door een fraaie vrije trap van Taha ook verdiend langszij, maar ging door een ongelukkige slotfase toch met 2-1 onderuit bij SC Freiburg.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3723565/lees-terug-sterk-duel-fc-twente-kent-zure-nasmaak-dit-gaat-wel-een-nachtje-pijn-doen",
-     "bron": "RTV Oost",
-     "tijd": "09:14",
-     "sorteer": "2026-11-27T08:14:42+00:00"
-    },
-    {
-     "titel": "Celstraffen geëist voor 'in coma slaan' op straat in Deventer",
-     "context": "Tegen twee verdachten uit Holten en Deventer zijn donderdag celstraffen geëist voor uitgaansgeweld in Deventer, waarbij een slachtoffer in coma raakte. Het slachtoffer liep blijvend hersenletsel op. \"Zijn hoofd is stuk\", zei zijn slachtofferadvocaat.",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3723986/celstraffen-geeist-voor-in-coma-slaan-op-straat-in-deventer",
-     "bron": "RTV Oost",
-     "tijd": "09:00",
-     "sorteer": "2026-11-27T08:00:00+00:00"
     },
     {
      "titel": "Zilveren tasje gevonden",
@@ -666,6 +650,14 @@
    "emoji": "🤖",
    "items": [
     {
+     "titel": "Motie van het lid Lohman c.s. over zich inspannen voor een ketendeal voor regeneratieve landbouw",
+     "bron": "Motie",
+     "kop": "Uit de Tweede Kamer",
+     "tijd": "26-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D61418",
+     "sorteer": "2026-11-27T15:41:42.887+01:00"
+    },
+    {
      "titel": "Antwoord op vragen van lid Michon-Derkzen over de berichten 'DNB: voor succesvolle toepassing AI moet starre polder worden…",
      "bron": "Antwoord op Kamervragen",
      "kop": "Uit de Tweede Kamer",
@@ -681,14 +673,6 @@
      "tijd": "04-11",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D55405",
      "sorteer": "2026-11-27T11:31:44.297+01:00"
-    },
-    {
-     "titel": "Motie van het lid Lohman c.s. over zich inspannen voor een ketendeal voor regeneratieve landbouw",
-     "bron": "Motie",
-     "kop": "Uit de Tweede Kamer",
-     "tijd": "26-11",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D61418",
-     "sorteer": "2026-11-27T09:12:31.76+01:00"
     },
     {
      "titel": "Motie van het lid Van den Berg over borgen dat Nederland zelf beslist of en waar het datacenterversnellingszones aanwijst",
@@ -727,13 +711,6 @@
      "bron": "Reformatorisch Dagblad",
      "tijd": "11:18",
      "sorteer": "2026-11-27T10:18:58+00:00"
-    },
-    {
-     "titel": "Geloof niet in de mythologie van AI",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WSHJKMUdwOWZjSEkzVUlNV3diM1pmQ1FPVFhuV0ZIS2ZHY2w4YVNONDFWQWFxRzdMTEk5Y1BVYzI1S05ZM2txTWpxUUFPczUxVGRldUJxVzRyUFZkLXlObkdta1pBVTJwa0puX3dB?oc=5",
-     "bron": "Reformatorisch Dagblad",
-     "tijd": "10:18",
-     "sorteer": "2026-11-27T09:18:36+00:00"
     }
    ]
   },
@@ -871,20 +848,20 @@
      "sorteer": "2026-11-27T11:01:29.21+01:00"
     },
     {
+     "titel": "Voortgang spoorveiligheid & Beleidsagenda spoorveiligheid 2026-2030",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "27-11",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D61711",
+     "sorteer": "2026-11-27T15:05:39.453+01:00"
+    },
+    {
      "titel": "Verzoek tot omwisseling Commissiedebatten Digitale infrastructuur & economie en Digitale Grondrechten en Data-ethiek",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
      "tijd": "27-11",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D61650",
      "sorteer": "2026-11-27T14:16:27.413+01:00"
-    },
-    {
-     "titel": "Periodieke rapportage Nationale Veiligheid Bewaken en Beveiligen Crisisbeheersing Cybersecurity en Statelijke Dreigingen",
-     "bron": "Brief van de regering",
-     "kop": "Brieven en moties",
-     "tijd": "08-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D41816",
-     "sorteer": "2026-11-27T07:38:42.943+01:00"
     },
     {
      "titel": "Motie van de leden Dassen en Ceder over de actuele veiligheids- en mensenrechtensituatie in Rwanda evalueren in het kader van de…",
@@ -950,7 +927,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "15:00",
+    "bijgewerkt": "16:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1359,20 +1336,20 @@
      "link": "https://scientias.nl/waarom-vliegende-eekhoorns-kunnen-helpen-bij-het-herstel-van-tropisch-regenwoud/"
     },
     {
-     "titel": "‘Vote for trees’: Taiwan community pins hope on ‘Forest Grandma’ to save beloved woods in elections",
-     "toelichting": "KAOHSIUNG, Taiwan — At dawn, just as the birds begin to sing, Chiang Huang-nu usually puts on her traditional straw hat and walks through the wooded grounds of a former sugar factory in Ciaotou district in southwest Taiw",
+     "titel": "What kind of wealth do Borneo’s ancient rainforests hold?",
+     "toelichting": "What kind of wealth do Borneo’s ancient rainforests hold? Industries such as logging and palm oil have generated vast monetary wealth for some. But for the Indigenous communities who call the Malaysian Borneo home—its fo",
      "bron": "Mongabay (Engels)",
-     "tijd": "14:52",
-     "link": "https://news.mongabay.com/2026/11/vote-for-trees-taiwan-community-pins-hope-on-forest-grandma-to-save-beloved-woods-in-elections/",
-     "sorteer": "2026-11-27T13:52:03+00:00"
+     "tijd": "15:42",
+     "link": "https://news.mongabay.com/short-article/2026/11/what-kind-of-wealth-do-borneos-ancient-rainforests-hold/",
+     "sorteer": "2026-11-27T14:42:01+00:00"
     },
     {
-     "titel": "A tiny deep-sea fish eaten 42 years ago has now been named a new species",
-     "toelichting": "A new-to-science species of deep-sea fish has been described from a single specimen found in the stomach contents of a predatory fish that ate it in 1984. The specimen sat in a Tokyo museum collection for 42 years until ",
+     "titel": "Aerial photos show recovery of Florida Bay, US, as restoration sends Everglades water",
+     "toelichting": "Freshwater flows into Florida Bay, significantly reduced by decades of Everglades drainage, are slowly increasing under the Comprehensive Everglades Restoration Plan. Helicopter surveys by avian ecologist Mark Ian Cook d",
      "bron": "Mongabay (Engels)",
-     "tijd": "13:40",
-     "link": "https://news.mongabay.com/short-article/2026/11/a-tiny-deep-sea-fish-eaten-42-years-ago-has-now-been-named-a-new-species/",
-     "sorteer": "2026-11-27T12:40:25+00:00"
+     "tijd": "15:04",
+     "link": "https://news.mongabay.com/custom-story/2026/11/aerial-photos-show-recovery-of-florida-bay-us-as-restoration-sends-everglades-water/",
+     "sorteer": "2026-11-27T14:04:23+00:00"
     }
    ]
   },
@@ -1381,6 +1358,14 @@
    "titel": "Vogels",
    "emoji": "🐦",
    "items": [
+    {
+     "titel": "Siberische Taling",
+     "kop": "Zeldzaamheden",
+     "bron": "Noord-Holland",
+     "tijd": "15:10",
+     "link": "https://www.dutchbirdalerts.nl/",
+     "sorteer": "2026-11-27T15:10:00+01:00"
+    },
     {
      "titel": "Brilzee-eend",
      "kop": "Zeldzaamheden",
@@ -1528,7 +1513,7 @@
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 307 vogels; 579 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 307 vogels; 582 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1558,9 +1543,9 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 0.8,
-    "gevoel": -2.6,
-    "wind": "OZO 2",
+    "nu": 0.0,
+    "gevoel": -3.2,
+    "wind": "O 2",
     "station": "Heino",
     "bericht": "De afgelopen nacht was de koudste van deze novemberwinter. Vandaag is het zonnig met eerst lichte tot matige vorst. Vanmiddag ligt de temperatuur dicht bij het vriespunt.",
     "vandaag": "Vandaag is het zonnig met eerst lichte tot matige vorst. Vanmiddag ligt de temperatuur dicht bij het vriespunt.",
