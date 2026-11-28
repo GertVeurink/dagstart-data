@@ -7,10 +7,11 @@
   "blokken": 11,
   "berichten": 88,
   "problemen": [],
-  "audio_herkomst": null
+  "audio_herkomst": "model",
+  "audio_aangehaakt": "06:06"
  },
  "opgehaald": "2026-11-28T05:55+01:00",
- "audio": null,
+ "audio": "audio/20261128.mp3",
  "afval": [
   {
    "datum": "2026-11-27",
@@ -49,7 +50,58 @@
    "afwijkend": false
   }
  ],
- "duiding": [],
+ "duiding": [
+  {
+   "titel": "Brandweer begint blussen silo Drachten",
+   "tekst": "De brandweer in Drachten is begonnen met het blussen van de al weken broeiende silo met raapzaad, nadat drones lieten zien dat dat veilig kon (13). Dat onderzoek was nodig omdat bluswater bij broei in stoom verandert, en dat kan in een afgesloten silo een explosie veroorzaken (13). Vanwege dat gevaar was vrijdag al de omgeving ontruimd (13, 17). Volgens de veiligheidsregio daalt de temperatuur nu langzaam, een teken dat de aanpak effect heeft (13).",
+   "verwijzingen": [
+    {
+     "titel": "Brandweer begint voorzichtig met blussen van broei in silo Drachten",
+     "link": "https://nos.nl/l/2641334",
+     "bron": "NOS",
+     "tijd": "02:43",
+     "nummers": [
+      13
+     ]
+    },
+    {
+     "titel": "Explosiegevaar door al dagen woedende silobrand in Drachten, bedrijf ontruimd",
+     "link": "https://nos.nl/l/2641303",
+     "bron": "NOS",
+     "tijd": "19:50",
+     "nummers": [
+      17
+     ]
+    }
+   ],
+   "geschreven": "06:06"
+  },
+  {
+   "titel": "Peruaanse legerhelikopter stort neer",
+   "tekst": "Bij de crash van een helikopter van de Peruaanse luchtmacht in het zuiden van het land zijn acht militairen omgekomen, en alleen de piloot overleefde (1, 10). Het toestel, een Mi-17 van Russische makelij, had drie militairen opgehaald na een missie (1). De BBC noemt die missie een reddingsoperatie, in een afgelegen gebied dat bekendstaat om drugshandel (10). Volgens EFE heeft de rebellenbeweging Lichtend Pad daar ook haar laatste machtsbasis (1).",
+   "verwijzingen": [
+    {
+     "titel": "Acht Peruaanse militairen omgekomen bij helikoptercrash",
+     "link": "https://nos.nl/l/2641335",
+     "bron": "NOS",
+     "tijd": "04:10",
+     "nummers": [
+      1
+     ]
+    },
+    {
+     "titel": "Eight killed in Peruvian military helicopter crash",
+     "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "05:19",
+     "nummers": [
+      10
+     ]
+    }
+   ],
+   "geschreven": "06:06"
+  }
+ ],
  "denkwerk": {
   "tekst": "Macht en geweld zijn tegenpolen: waar het ene volstrekt heerst, ontbreekt het andere.",
   "wie": "Hannah Arendt",
@@ -79,7 +131,50 @@
   "link": "https://waarneming.nl/observation/381388126/",
   "zeldzaam": 2
  },
- "verder": [],
+ "verder": [
+  {
+   "kop": "Schoondochter jaagt nepagent weg",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3722184/schoondochter-jaagt-nepagent-weg-uit-seniorencomplex-ik-was-echt-helemaal-boos",
+   "bron": "RTV Oost",
+   "titel": "Schoondochter jaagt nepagent weg uit seniorencomplex: 'Ik was echt helemaal boos'"
+  },
+  {
+   "kop": "ProRail vergrendelt roltrappen",
+   "blok": "nationaal",
+   "link": "https://nos.nl/l/2641332",
+   "bron": "NOS",
+   "titel": "ProRail zet roltrappen stil op vijf stations na ongeluk in Amsterdam"
+  },
+  {
+   "kop": "UT onderzoekt racisme op campus",
+   "blok": "lokaal",
+   "link": "https://www.oost.nl/nieuws/3724443/universiteit-twente-onderzoekt-mogelijk-racistische-incidenten-op-campus",
+   "bron": "RTV Oost",
+   "titel": "'Universiteit Twente onderzoekt mogelijk racistische incidenten op campus'"
+  },
+  {
+   "kop": "Margraten eert zwarte bevrijders",
+   "blok": "nationaal",
+   "link": "https://nos.nl/l/2641314",
+   "bron": "NOS",
+   "titel": "Na commotie eert Margraten zwarte bevrijders opnieuw: 'Nu nog op begraafplaats zelf'"
+  },
+  {
+   "kop": "Aanslag Londen gestuurd uit Bagdad",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2641328",
+   "bron": "NOS",
+   "titel": "Britse ITV News toont beelden van live aangestuurde aanslag in VK vanuit Irak"
+  },
+  {
+   "kop": "Israël doodt bewakers AzG in Gaza",
+   "blok": "internationaal",
+   "link": "https://nos.nl/l/2641333",
+   "bron": "NOS",
+   "titel": "Bewakers Artsen zonder Grenzen gedood in Gaza, Israël spreekt van Hamas-leden"
+  }
+ ],
  "blokken": [
   {
    "id": "internationaal",
@@ -1342,5 +1437,15 @@
     }
    }
   }
+ ],
+ "archief": [
+  "2026-11-28",
+  "2026-11-27",
+  "2026-11-26",
+  "2026-11-25",
+  "2026-11-24",
+  "2026-11-23",
+  "2026-11-22",
+  "2026-11-21"
  ]
 }
