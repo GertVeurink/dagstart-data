@@ -3,13 +3,15 @@
  "naam": "Middagbriefing",
  "status": {
   "ronde": "Middagbriefing",
-  "opgehaald": "12:00",
+  "opgehaald": "13:00",
   "blokken": 11,
-  "berichten": 92,
-  "problemen": [],
+  "berichten": 91,
+  "problemen": [
+   "google '\"minister van Justitie\" OR \"Ju': HTTP 429"
+  ],
   "audio_herkomst": "model"
  },
- "opgehaald": "2026-11-28T12:00+01:00",
+ "opgehaald": "2026-11-28T13:00+01:00",
  "audio": "audio/20261128.mp3",
  "afval": [
   {
@@ -51,54 +53,88 @@
  ],
  "duiding": [
   {
-   "titel": "Brandweer begint blussen silo Drachten",
-   "tekst": "De brandweer in Drachten is begonnen met het blussen van de al weken broeiende silo met raapzaad, nadat drones lieten zien dat dat veilig kon (13). Dat onderzoek was nodig omdat bluswater bij broei in stoom verandert, en dat kan in een afgesloten silo een explosie veroorzaken (13). Vanwege dat gevaar was vrijdag al de omgeving ontruimd (13, 17). Volgens de veiligheidsregio daalt de temperatuur nu langzaam, een teken dat de aanpak effect heeft (13).",
+   "titel": "Explosie bij Afghaanse school doodt tien",
+   "tekst": "In de Afghaanse provincie Kunar zijn bij een explosie bij een middelbare school tien leerlingen omgekomen, meldt de BBC, de derde dodelijke explosie in ruim een week (3, 11). Volgens Al Jazeera lag in een huis naast de school dynamiet opgeslagen voor mijnbouw (3). Het Afghaanse ministerie van Binnenlandse Zaken wijst ook naar die plek: onachtzaamheid bij een nabije opslag van explosieven (11). De NOS meldde eerst zeven doden en bijna honderd gewonden; de BBC telt nu tien doden en ruim honderd gewonden (3, 11).",
    "verwijzingen": [
     {
-     "titel": "Brandweer begint voorzichtig met blussen van broei in silo Drachten",
-     "link": "https://nos.nl/l/2641334",
+     "titel": "Zeker 7 doden en bijna 100 gewonden door explosie bij school in Afghanistan",
+     "link": "https://nos.nl/l/2641356",
      "bron": "NOS",
-     "tijd": "02:43",
+     "tijd": "10:03",
      "nummers": [
-      13
+      3
      ]
     },
     {
-     "titel": "Explosiegevaar door al dagen woedende silobrand in Drachten, bedrijf ontruimd",
-     "link": "https://nos.nl/l/2641303",
-     "bron": "NOS",
-     "tijd": "19:50",
+     "titel": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+     "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "12:18",
      "nummers": [
-      17
+      11
      ]
     }
    ],
-   "geschreven": "06:06"
+   "geschreven": "13:01"
   },
   {
-   "titel": "Peruaanse legerhelikopter stort neer",
-   "tekst": "Bij de crash van een helikopter van de Peruaanse luchtmacht in het zuiden van het land zijn acht militairen omgekomen, en alleen de piloot overleefde (1, 10). Het toestel, een Mi-17 van Russische makelij, had drie militairen opgehaald na een missie (1). De BBC noemt die missie een reddingsoperatie, in een afgelegen gebied dat bekendstaat om drugshandel (10). Volgens EFE heeft de rebellenbeweging Lichtend Pad daar ook haar laatste machtsbasis (1).",
+   "titel": "ProRail zet roltrap Hengelo stil",
+   "tekst": "ProRail zet dit weekend uit voorzorg achttien roltrappen op vijf stations stil, ook in Hengelo, na het ongeluk op station Bijlmer-Arena afgelopen zondag (16, 25). Daar sloeg een roltrap tot twee keer toe op hol, waarbij een aantal mensen ernstig gewond raakte (16). De stilgezette roltrappen lijken volgens ProRail in ontwerp en techniek op die op hol geslagen roltrap (16). Naast Hengelo gaat het om Utrecht Centraal, Amsterdam Amstel, Barendrecht en Zaandam (16).",
    "verwijzingen": [
     {
-     "titel": "Acht Peruaanse militairen omgekomen bij helikoptercrash",
-     "link": "https://nos.nl/l/2641335",
+     "titel": "Wekdienst 28/11: Partijcongres VVD • World Tour shorttrack in Shanghai",
+     "link": "https://nos.nl/l/2641337",
      "bron": "NOS",
-     "tijd": "04:10",
+     "tijd": "06:41",
      "nummers": [
-      1
+      16
      ]
     },
     {
-     "titel": "Eight killed in Peruvian military helicopter crash",
-     "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "05:19",
+     "titel": "ProRail zet roltrappen op vijf stations stil na ongeluk op Amsterdam Bijlmer Arena",
+     "link": "https://www.volkskrant.nl/binnenland/prorail-zet-roltrappen-op-vijf-stations-stil-na-ongeluk-op-amsterdam-bijlmer-arena~b0c278fa/",
+     "bron": "de Volkskrant",
+     "tijd": "08:59",
      "nummers": [
-      10
+      18
+     ]
+    },
+    {
+     "titel": "ProRail zet roltrap op station Hengelo uit voorzorg stil na ongeluk in Amsterdam",
+     "link": "https://www.oost.nl/nieuws/3724535/prorail-zet-roltrap-op-station-hengelo-uit-voorzorg-stil-na-ongeluk-in-amsterdam",
+     "bron": "RTV Oost",
+     "tijd": "07:17",
+     "nummers": [
+      25
      ]
     }
    ],
-   "geschreven": "06:06"
+   "geschreven": "13:01"
+  },
+  {
+   "titel": "Privéchats AI-chatbot dinsdag te koop",
+   "tekst": "Van een AI-chatbot die in Nederland in opspraak raakte door het nabootsen van BN'ers worden miljoenen privéchats te koop aangeboden (41). Volgens het AD gaat het om 21 miljoen privéchats van Amerikaanse gebruikers, die dinsdag worden verkocht (40).",
+   "verwijzingen": [
+    {
+     "titel": "21 miljoen privéchats van Amerikaanse AI-gebruikers worden dinsdag verkocht: ‘Ontluisterend’",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDNqa3d1ZFhOdzJsbmxHYU5vQzNwd3UxUlI5MGNzbUJIc09sUjlObzduWlVnLTBGQjNyNkd4QWJxQ0pDaHhKaXo1djNuZ0E0Sk9OTjA3RWphRDBVb0FPaEs2NnFvZUpDT191Q2VZM1ZlbEI2Mkt0eXpNcXRhdHpRNDJ5VTFZMk9sX1FMeHJyaXpjc1NpZk9Xc2VSY2V0MFFtY2FpaXJnWGUwQ09FcmUtVXJ3QkpyV0hkZFpFRG8tSkw?oc=5",
+     "bron": "AD.nl",
+     "tijd": "09:18",
+     "nummers": [
+      40
+     ]
+    },
+    {
+     "titel": "Miljoenen privéchats te koop van AI-chatbot, die in Nederland in opspraak raakte door nabootsen BN’ers",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLTVmWEg1VlNjYk1JeW0tSU5MYTkySGlrY1dzUzUzVGhWRWlNOFgxcXpRZlhZNkIwQ3BhNlNQOF9jU1lZRXR1X2ZOQURMYndXRDJIS0hUa0dxWmRzNTljWVlGMUk4RWJsTjdkN01SY1g1Z2xpVFRxbDNtbmJhVDZHSFFqbFZZNFhqbW5JMmY0cFpQYTRpUUVYRzlib2FGWThfUHZnVUtYRVFPazBqcmFta1VfaVlmWXFEY1NOVUFFVm1ISDlMdjFaNHpxNEJuZUE?oc=5",
+     "bron": "Brabants Dagblad",
+     "tijd": "09:18",
+     "nummers": [
+      41
+     ]
+    }
+   ],
+   "geschreven": "13:01"
   }
  ],
  "denkwerk": {
@@ -132,46 +168,46 @@
  },
  "verder": [
   {
-   "kop": "Schoondochter jaagt nepagent weg",
-   "blok": "lokaal",
-   "link": "https://www.oost.nl/nieuws/3722184/schoondochter-jaagt-nepagent-weg-uit-seniorencomplex-ik-was-echt-helemaal-boos",
-   "bron": "RTV Oost",
-   "titel": "Schoondochter jaagt nepagent weg uit seniorencomplex: 'Ik was echt helemaal boos'"
-  },
-  {
-   "kop": "ProRail vergrendelt roltrappen",
+   "kop": "Aanhoudingen na schieten op N11",
    "blok": "nationaal",
-   "link": "https://nos.nl/l/2641332",
+   "link": "https://nos.nl/l/2641373",
    "bron": "NOS",
-   "titel": "ProRail zet roltrappen stil op vijf stations na ongeluk in Amsterdam"
+   "titel": "Schietincident op N11 bij Zoeterwoude: aanhoudingen verricht, auto gecrasht"
   },
   {
-   "kop": "UT onderzoekt racisme op campus",
-   "blok": "lokaal",
-   "link": "https://www.oost.nl/nieuws/3724443/universiteit-twente-onderzoekt-mogelijk-racistische-incidenten-op-campus",
-   "bron": "RTV Oost",
-   "titel": "'Universiteit Twente onderzoekt mogelijk racistische incidenten op campus'"
+   "kop": "AI verzwakt vaardigheden agenten",
+   "blok": "ai",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbXdBUXRmWG1YYkRCYjFYdWE2WWQzTEVTakdqTEVHTFZKTTRjVzhaM29pYk4za1BuUmNUd0pBOXlGbE81SEZuR19xZXRqajg5TVRnV2xhZmo0aFR3Y3l0VUdsRkpxcUNjXy1rU2luSzNZdVZrS1FKTGlTemtwdFF4N1RCUElwRVdFaHhUR0E3OVAtV085NEYwY3ZoRm9DXzVwc0k0NkN6YVd0OUZtdzE0?oc=5",
+   "bron": "Bright",
+   "titel": "AI zorgt ervoor dat de vaardigheden van politieagenten achteruitgaan"
   },
   {
-   "kop": "Margraten eert zwarte bevrijders",
+   "kop": "Gemeenten verlenen 36 ontheffingen",
    "blok": "nationaal",
-   "link": "https://nos.nl/l/2641314",
+   "link": "https://nos.nl/l/2641362",
    "bron": "NOS",
-   "titel": "Na commotie eert Margraten zwarte bevrijders opnieuw: 'Nu nog op begraafplaats zelf'"
+   "titel": "Zeker 36 ontheffingen voor afsteken vuurwerk verleend"
   },
   {
-   "kop": "Aanslag Londen gestuurd uit Bagdad",
-   "blok": "internationaal",
-   "link": "https://nos.nl/l/2641328",
-   "bron": "NOS",
-   "titel": "Britse ITV News toont beelden van live aangestuurde aanslag in VK vanuit Irak"
+   "kop": "Marly opent 1 december in Dalfsen",
+   "blok": "lokaal",
+   "link": "https://www.dalfsennet.nl/nieuws/557525/marly-koffie-en-meer-van-jorinde-en-melissa-van-marle-is-vanaf-1-december-08-30-uur-geopend.html",
+   "bron": "DalfsenNet",
+   "titel": "Marly (koffie en meer) van Jorinde en Melissa van Marle is vanaf 1 december 08.30 uur geopend"
   },
   {
-   "kop": "Israël doodt bewakers AzG in Gaza",
+   "kop": "Neonazi Wijkamp veroordeeld",
    "blok": "internationaal",
-   "link": "https://nos.nl/l/2641333",
+   "link": "https://nos.nl/l/2641344",
    "bron": "NOS",
-   "titel": "Bewakers Artsen zonder Grenzen gedood in Gaza, Israël spreekt van Hamas-leden"
+   "titel": "Nederlandse Hitler-bewonderaar in Duitsland veroordeeld wegens aanzetten tot haat"
+  },
+  {
+   "kop": "Drones zwermden boven Lakenheath",
+   "blok": "internationaal",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/28/drones-us-army-base-raf-lakenheath-suffolk-november",
+   "bron": "The Guardian",
+   "titel": "Drones ‘swarmed’ US army base at RAF Lakenheath in Suffolk in November"
   }
  ],
  "blokken": [
@@ -226,22 +262,22 @@
      "sorteer": "2026-11-28T07:00:01+01:00"
     },
     {
-     "titel": "Commissie wil voor aantreden nieuw Congres omstreden verbouwingsplannen Trump goedkeuren",
+     "titel": "‘Spanje leek lang immuun voor radicaal-rechts, maar Vox kan nu zijn doorbraak beleven’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
+     "link": "https://www.volkskrant.nl/buitenland/spanje-leek-lang-immuun-voor-radicaal-rechts-maar-vox-kan-nu-zijn-doorbraak-beleven~b7c8f578/",
      "bron": "de Volkskrant",
-     "tijd": "11:35",
-     "sorteer": "2026-11-28T10:35:00+00:00"
+     "tijd": "12:33",
+     "sorteer": "2026-11-28T11:33:10+00:00"
     },
     {
-     "titel": "Baas atoomagentschap verdedigt keuze voor gesanctioneerde Rus als nummer twee",
+     "titel": "Tien doden door Russische aanvallen op Oekraïne",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/baas-atoomagentschap-verdedigt-keuze-voor-gesanctioneerde-rus-als-nummer-twee~b34eb585/",
+     "link": "https://www.volkskrant.nl/buitenland/tien-doden-door-russische-aanvallen-op-oekraine~b34eb585/",
      "bron": "de Volkskrant",
-     "tijd": "10:53",
-     "sorteer": "2026-11-28T09:53:00+00:00"
+     "tijd": "12:33",
+     "sorteer": "2026-11-28T11:33:00+00:00"
     },
     {
      "titel": "Jongeren beginnen steeds later aan seks en volwassenen hebben het steeds minder vaak",
@@ -252,6 +288,54 @@
      "tijd": "11:46",
      "sorteer": "2026-11-28T10:46:00+00:00",
      "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Drones ‘swarmed’ US army base at RAF Lakenheath in Suffolk in November",
+     "context": "Personnel told to take cover after ‘suspected unauthorised activity’ of six drones that were repelled but not recovered Drones reportedly swarmed a US army base in Suffolk earlier this month and were not recovered after being repelled. Personnel at RAF Lakenheath were told to take cover on 13 November after “suspected unauthorised drone activity”. The US air force confirmed the so-called Charlie a",
+     "rubrieken": [
+      "UK news",
+      "Military",
+      "US military",
+      "Drones (non-military)",
+      "England",
+      "Suffolk",
+      "UK security and counter-terrorism"
+     ],
+     "link": "https://www.theguardian.com/uk-news/2026/nov/28/drones-us-army-base-raf-lakenheath-suffolk-november",
+     "bron": "The Guardian",
+     "tijd": "12:53",
+     "sorteer": "2026-11-28T11:53:57+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Princess Catherine’s Cancer Documentary ‘Heal’: 3 Takeaways",
+     "context": "‘Heal,’ a 30-minute authorized documentary released this week, offers glimpses into Catherine’s recovery since her 2024 cancer diagnosis and treatment.",
+     "rubrieken": [
+      "Documentary Films and Programs",
+      "Cancer",
+      "Hikes and Hiking",
+      "England",
+      "Great Britain",
+      "Catherine, Princess of Wales"
+     ],
+     "link": "https://www.nytimes.com/2026/11/27/world/europe/princess-catherine-kate-heal-cancer-documentary.html",
+     "bron": "New York Times",
+     "tijd": "12:26",
+     "sorteer": "2026-11-28T11:26:45+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
+    },
+    {
+     "titel": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+     "context": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+     "rubrieken": [],
+     "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+     "bron": "BBC",
+     "tijd": "12:18",
+     "sorteer": "2026-11-28T11:18:37+00:00",
+     "taal": "en",
+     "kop": "Buitenlandse media"
     },
     {
      "titel": "Santiago Abascal: Spain’s far-right kingmaker",
@@ -275,27 +359,6 @@
      "kop": "Buitenlandse media"
     },
     {
-     "titel": "Victorian election 2026 live results: Ben Carroll projected to lose seat as Coalition wipes out Labor",
-     "context": "Follow live updates and results tonight after ABC says Labor has no path to victory, with Jess Wilson to become state’s 51st premier Full report: Ben Carroll concedes Victorian election to Jess Wilson, ending 12 years of Labor government Victoria election live results: votes tracker, map and seat counts Victorian election 2026 guide: what you need to know Check the parties’ key promises and polici",
-     "rubrieken": [
-      "Victoria state election 2026",
-      "Victorian politics",
-      "Victoria",
-      "Australia news",
-      "Labor party",
-      "Liberal party",
-      "Coalition",
-      "One Nation",
-      "National party"
-     ],
-     "link": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
-     "bron": "The Guardian",
-     "tijd": "11:44",
-     "sorteer": "2026-11-28T10:44:51+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
      "titel": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
      "context": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
      "rubrieken": [],
@@ -303,36 +366,6 @@
      "bron": "BBC",
      "tijd": "11:34",
      "sorteer": "2026-11-28T10:34:58+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Seven students killed and nearly 100 injured in explosion in Afghanistan, official says",
-     "context": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
-     "rubrieken": [],
-     "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
-     "bron": "BBC",
-     "tijd": "11:14",
-     "sorteer": "2026-11-28T10:14:37+00:00",
-     "taal": "en",
-     "kop": "Buitenlandse media"
-    },
-    {
-     "titel": "Ukraine’s Deep Strikes Grow in Scale and Scope Across Russia and Beyond",
-     "context": "A campaign aimed at depriving Moscow’s war machine of fuel, weapons and money has been criticized by the Trump administration.",
-     "rubrieken": [
-      "Russian Invasion of Ukraine (2022)",
-      "Refineries",
-      "Colby, Elbridge A",
-      "Zelensky, Volodymyr",
-      "Trump, Donald J",
-      "Ukraine",
-      "Russia"
-     ],
-     "link": "https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html",
-     "bron": "New York Times",
-     "tijd": "11:02",
-     "sorteer": "2026-11-28T10:02:15+00:00",
      "taal": "en",
      "kop": "Buitenlandse media"
     }
@@ -344,8 +377,8 @@
    "emoji": "🇳🇱",
    "items": [
     {
-     "titel": "N11 dicht tussen Leiden en Zoeterwoude na schietincident",
-     "context": "De N11 was vanochtend vanwege een schietincident tussen Leiden en Zoeterwoude in beide richtingen dicht. Dat zegt een woordvoerder van Rijkswaterstaat tegen persbureau ANP. Op de N-weg waren rond 10.00 uur vanochtend veel politieauto's en ambulances. Ook werd een traumahelikopter ingezet. De politie heeft nog niet gedeeld of er iemand gewond is geraakt. Weginspecteurs mochten volgens ANP niet ter ",
+     "titel": "Schietincident op N11 bij Zoeterwoude: aanhoudingen verricht, auto gecrasht",
+     "context": "Op de N11 tussen Leiden en Alphen aan den Rijn was vanochtend een schietincident ter hoogte van Zoeterwoude. Dit gebeurde rond 09.30 uur, meldt de politie. Er zijn aanhoudingen verricht. Op het schietincident kwamen veel politieauto's en ambulances af. Ook werd er een traumahelikopter ingezet. De politie heeft nog niet gedeeld of er iemand gewond is geraakt. Op beelden is te zien dat bij De Meern ",
      "rubrieken": [],
      "link": "https://nos.nl/l/2641373",
      "bron": "NOS",
@@ -380,22 +413,22 @@
      "sorteer": "2026-11-28T06:41:05+01:00"
     },
     {
+     "titel": "Toen het Westen dacht dat handel de Chinese economie zou liberaliseren",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/binnenland/toen-het-westen-dacht-dat-handel-de-chinese-economie-zou-liberaliseren~bc0a5b4c/",
+     "bron": "de Volkskrant",
+     "tijd": "12:33",
+     "sorteer": "2026-11-28T11:33:58+00:00"
+    },
+    {
      "titel": "ProRail zet roltrappen op vijf stations stil na ongeluk op Amsterdam Bijlmer Arena",
      "context": "",
      "rubrieken": [],
      "link": "https://www.volkskrant.nl/binnenland/prorail-zet-roltrappen-op-vijf-stations-stil-na-ongeluk-op-amsterdam-bijlmer-arena~b0c278fa/",
      "bron": "de Volkskrant",
      "tijd": "08:59",
-     "sorteer": "2026-11-28T07:59:17+00:00"
-    },
-    {
-     "titel": "Vuile handen maken om zware criminelen op te sporen: ‘Ik kan niet alle risico’s wegnemen. Al ga ik met dertig begeleiders om een undercover heen staan’",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/vuile-handen-maken-om-zware-criminelen-op-te-sporen-ik-kan-niet-alle-risico-s-wegnemen-al-ga-ik-met-dertig-begeleiders-om-een-undercover-heen-staan~b3a80ebb/",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-11-28T04:00:00+00:00"
+     "sorteer": "2026-11-28T07:59:00+00:00"
     },
     {
      "titel": "De ‘As van het Kwaad’ in Assen? Hoe het adres van een doodgewone supermarkt terechtkwam op de Amerikaanse sanctielijst tegen Iran",
@@ -407,13 +440,6 @@
      "sorteer": "2026-11-28T10:47:00+00:00"
     },
     {
-     "titel": "Mensen in Zembla-documentaire strafbaar? ‘Dat zou kunnen’",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLTQyRmlsRnZOZ0RRWlhaazdpREJwQTdhTmoxWGFaXzRpWnJWRDNBd3g0aXg0UXlMVTNoRWFyUDFPZW5CdldJRVZKTUNWeGtldVd6TmxrYVRUNndoaUVKY1ZaWE9OQk1IX1pDSndZeHFhaWs1UlRSc3FUWnNrZndxRGVxMHJrOWJYOG05b3ZteHJiM0p3SG9rcUhUcFhkZl9iR2c?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "11:08",
-     "sorteer": "2026-11-28T10:08:33+00:00"
-    },
-    {
      "titel": "Dokter Gommers doet stap terug op eigen IC: ‘pleaser’ kan niet iedereen tevreden houden",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa2kzMHZjWENBRWc2MmRmLXJnSFBESHNZazlzQXNvSnlDbWowVUJucjNHNDl6N1VCZ3FOaGYwU0VuOTBVdGMtY2o1OGhObi1LZHVVTmd1M1NRUk1NWndvV0I5YXZIR1JWbjIzVkJNQ01RdUYyUTFUX1pkVmc4Z01LbGV5WGFBMWlpNlVMQy0yOENFUl9Ob3kwRWZrSVRtbU9MdXhNemNOaWp0amNHeWQ0WVlPRUhHU0hsZ1B4cVY0YzRad2xUT3dJcQ?oc=5",
      "bron": "de Stentor",
@@ -421,18 +447,18 @@
      "sorteer": "2026-11-28T10:30:39+00:00"
     },
     {
+     "titel": "Buiten het ziekenhuis was Gommers geliefd, maar op zijn IC ging het mis: hij moest al vaak ‘sorry’ zeggen",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYUxpU2dkX2dvUDhnaVNqQzZXQ1FlRzBzbEtlUklVc3h1RmdILVBlbUlIVEt6ZFdLYjU2VmVBNEkxNmR2MzVkWjZQNG5PU29tXzJCV0VDVE5fMS15OXktWHl1Z2RwZHJ2MkpUaFROT1dXTzlocThjZjBMS3FmSl9DLXVqNE90RVRhMXVvODZnSkk2eHlGWDdMendldEJCVml6V1ZYZXEtVmVOdkhTd2lpVklFd0ZWY3RKd0ZzVU9LUVZfWE5GdVU1eWtaM1d0UXl1RmlsT1lET1pyZ0NoMVE?oc=5",
+     "bron": "Tubantia",
+     "tijd": "11:30",
+     "sorteer": "2026-11-28T10:30:00+00:00"
+    },
+    {
      "titel": "Opinie: ‘D66, de moed van Els Borst is nu opnieuw nodig’",
      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZW1pY1N1ZF93SjUxa1VpbkhRWW5NSFc1TW1uMjQ4OXlTRDN0Q3d5NEtnc3BNa3M4SkNCUkdsV1dWZ3hTdm00aVFKRW9OcmVFTXQ2YzhmUmFGbXY4MmpvekVidHQ4VFF5RlhMTWhIQWMwYUY2UDZORmdIWmVtUGJVcnRmay0zYVN6ZG50X1lISlNoWmN0?oc=5",
      "bron": "AD.nl",
      "tijd": "10:00",
      "sorteer": "2026-11-28T09:00:30+00:00"
-    },
-    {
-     "titel": "Meeste nachtvorst in 100 jaar, maar dat is niet de reden dat iedereen het nu zo koud heeft",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGZWTTFiWlRYTmtibEpiVkgza09aZlJYbk1FdnVRalRHcUdpTEsydkIybFdNMy1PSE1DYWUyTzZOTHlnSER6QjY1TU1PeEwwTDctbzBDNzdZNVpnQ0xxYXIzcTdvOHRaTjJkbGVqZXd5RFowYmJfMWRldU40ODRyVzhYaXJmaEdrMWptTXlyMlctYlNITWt6cTd1bEJwc2RyNnJqN2RQdUxTazcyT2dPMUEyY3hkWkItdFBncldlTFFPaWJyb2VZ?oc=5",
-     "bron": "AD.nl",
-     "tijd": "09:00",
-     "sorteer": "2026-11-28T08:00:00+00:00"
     },
     {
      "titel": "Ik ga met verlof (nee, ik krijg geen kind en ik ga ook geen boek schrijven)",
@@ -470,15 +496,6 @@
      "sorteer": "2026-11-28T10:58:09+00:00"
     },
     {
-     "titel": "Dit jaar nog een 'papieren schenking' doen? Dan moet je er heel snel bij zijn",
-     "context": "Het belastingplan zorgt voor een run richting notarissen. Die maken in de drukke decembermaand extra veel aktes voor papieren schenkingen op. \"Wie zich voor eind volgende week niet meldt, is te laat.\"",
-     "rubrieken": [],
-     "link": "https://www.oost.nl/nieuws/3724262/dit-jaar-nog-een-papieren-schenking-doen-dan-moet-je-er-heel-snel-bij-zijn",
-     "bron": "RTV Oost",
-     "tijd": "10:26",
-     "sorteer": "2026-11-28T09:26:36+00:00"
-    },
-    {
      "titel": "ProRail zet roltrap op station Hengelo uit voorzorg stil na ongeluk in Amsterdam",
      "context": "Reizigers op station Hengelo moeten dit weekend rekening houden met een stilstaande roltrap. Na het ongeluk met een roltrap op station Bijlmer Arena afgelopen zondag zet spoorwegbeheerder ProRail uit voorzorg achttien roltrappen op vijf stations in Nederland stil.",
      "rubrieken": [],
@@ -486,17 +503,6 @@
      "bron": "RTV Oost",
      "tijd": "07:17",
      "sorteer": "2026-11-28T06:17:27+00:00"
-    },
-    {
-     "titel": "Eind jaren 70 maakten ze een elpee, 50 jaar later alsnog de grote doorbraak",
-     "context": "Een jongensboek kan weinig spannender. De vier rockers van Sam Dice die eind jaren zeventig een elpee afleveren en daar een halve eeuw later internationale roem mee vergaren. Voor hun eerste (en enige) elpee worden honderden euro's neergeteld. \"Terwijl ik er zelf geen een meer heb.\"",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/cultuur/3723337/eind-jaren-70-maakten-ze-een-elpee-50-jaar-later-alsnog-de-grote-doorbraak",
-     "bron": "RTV Oost",
-     "tijd": "07:01",
-     "sorteer": "2026-11-28T06:01:00+00:00"
     },
     {
      "titel": "Nieuwe stap voor waterstofnetwerk: aanleg in Overijssel vanaf 2027 gepland",
@@ -508,14 +514,48 @@
      "sorteer": "2026-11-28T04:56:51+00:00"
     },
     {
-     "titel": "Wereldprimeur voor A Bridge Too Far-mars op kerkorgel in Deventer: 'Best lastig'",
-     "context": "De wereldberoemde mars uit de film A Bridge Too Far wordt dit weekeinde gespeeld op het monumentale Holtgräve orgel in de Lebuïnuskerk in Deventer. \"We vermoeden dat het de eerste en enige keer is dat deze muziek op orgel wordt uitgevoerd\", zegt Wim Diepenhorst, organist en schrijver van het stuk.",
+     "titel": "'Universiteit Twente onderzoekt mogelijk racistische incidenten op campus'",
+     "context": "De Universiteit Twente (UT) heeft melding gekregen van meerdere gevallen van 'racistisch en denigrerend gedrag', schrijft het onafhankelijke universiteitsmedium U-Today. Een medewerker van een externe partij zou door een of meer UT-medewerkers racistisch zijn bejegend. De UT is een onderzoek begonnen.",
      "rubrieken": [],
-     "link": "https://www.oost.nl/cultuur/3722963/wereldprimeur-voor-a-bridge-too-far-mars-op-kerkorgel-in-deventer-best-lastig",
+     "link": "https://www.oost.nl/nieuws/3724443/universiteit-twente-onderzoekt-mogelijk-racistische-incidenten-op-campus",
      "bron": "RTV Oost",
-     "tijd": "21:00",
-     "sorteer": "2026-11-27T20:00:34+00:00",
+     "tijd": "20:04",
+     "sorteer": "2026-11-27T19:04:16+00:00",
      "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Deze Zwolse kerk doet aan 'Black Friarday' als anti-koopgekte op Black Friday",
+     "context": "Terwijl winkels volop inzetten op de koopjesjacht tijdens Black Friday, kiezen ze bij de Dominicanenkerk in Zwolle voor een heel andere benadering. Met 'Black Friarday' roepen ze bezoekers op om juist níét te shoppen, maar stil te staan bij de gevolgen van de consumptiemaatschappij.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3723900/deze-zwolse-kerk-doet-aan-black-friarday-als-anti-koopgekte-op-black-friday",
+     "bron": "RTV Oost",
+     "tijd": "20:00",
+     "sorteer": "2026-11-27T19:00:00+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Prachtige beelden: de eerste waaghalzen op natuurijs in De Weerribben",
+     "context": "De schaatskoorts heeft Overijssel in zijn greep. Ook in de Kop van Overijssel kunnen liefhebbers de verleiding niet weerstaan. Vandaag trokken meerdere waaghalzen de schaatsen onder om het ijs in De Weerribben te verkennen. En dat terwijl het nog maar 27 november is.",
+     "rubrieken": [
+      "breaking"
+     ],
+     "link": "https://www.oost.nl/nieuws/3724314/prachtige-beelden-de-eerste-waaghalzen-op-natuurijs-in-de-weerribben",
+     "bron": "RTV Oost",
+     "tijd": "19:07",
+     "sorteer": "2026-11-27T18:07:21+00:00",
+     "vervolg": "stond gisteren ook in de briefing"
+    },
+    {
+     "titel": "Marly (koffie en meer) van Jorinde en Melissa van Marle is vanaf 1 december 08.30 uur geopend",
+     "context": "DALFSEN – De schoonzussen Jorinde en Melissa van Marle hebben hun droom in Dalfsen waargemaakt: een eigen horecazaak Marly (voor koffie en veel meer!) aan het mooie Kerkplein in Dalfsen. Melissa heeft jarenlang in de kinderopvang gewerkt en zij is vorig jaar, toen zij realiseerde dat zij een nieuwe werkuitdaging nodig had om gelukkig te […]",
+     "rubrieken": [
+      "Dalfsen",
+      "Zakelijk"
+     ],
+     "link": "https://www.dalfsennet.nl/nieuws/557525/marly-koffie-en-meer-van-jorinde-en-melissa-van-marle-is-vanaf-1-december-08-30-uur-geopend.html",
+     "bron": "DalfsenNet",
+     "tijd": "12:37",
+     "sorteer": "2026-11-28T11:37:48+00:00"
     },
     {
      "titel": "Pasfoto’s gevonden Gerner Marke",
@@ -530,19 +570,6 @@
      "bron": "DalfsenNet",
      "tijd": "11:09",
      "sorteer": "2026-11-28T10:09:44+00:00"
-    },
-    {
-     "titel": "Eerste Pruttelzakken overhandigd aan Voedselbank",
-     "context": "DALFSEN – Een mooie mijlpaal voor het project Pruttelzak: de eerste Pruttelzakken zijn officieel overhandigd aan Voedselbank Dalfsen. Inmiddels zijn in drie woonkernen al meer dan 60 Pruttelzakken gemaakt door enthousiaste inwoners. Een bijzonder initiatief waarin samen delen, duurzaamheid en gezond eten centraal staan. Het idee achter de Pruttelzak is eenvoudig, maar waardevol. Iedere deelnemer [",
-     "rubrieken": [
-      "Dalfsen",
-      "Ingezonden bericht",
-      "Laatste nieuws"
-     ],
-     "link": "https://www.dalfsennet.nl/nieuws/557507/eerste-pruttelzakken-overhandigd-aan-voedselbank-dalfsen.html",
-     "bron": "DalfsenNet",
-     "tijd": "11:07",
-     "sorteer": "2026-11-28T10:07:35+00:00"
     }
    ]
   },
@@ -620,14 +647,6 @@
      "tijd": "09:41",
      "sorteer": "2026-11-28T08:41:00+00:00",
      "kop": "Veiligheid en cyber"
-    },
-    {
-     "titel": "Wereldvoetbalbond FIFA getroffen door cyberaanval",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeURxZEJvUWRhMFZ6aWR2c0V5QmVkaHVTNGZDUmsteEZmTzFKcVlZUUhoQzBnRFM0UU9uYWJmdkdkVXZwMHFVdHhRN1M3b3JlVXZ6M2R1dkRNZDJWQ0MtMnBUNVpxSWEwSEZwT3p5Q3hKQ2NvNTROZmRPYmE3V0FURkhJSk5zQW15TXIzdHRLWVJfUQ?oc=5",
-     "bron": "Security.NL",
-     "tijd": "18:05",
-     "sorteer": "2026-11-27T17:05:00+00:00",
-     "kop": "Veiligheid en cyber"
     }
    ]
   },
@@ -636,6 +655,13 @@
    "titel": "AI",
    "emoji": "🤖",
    "items": [
+    {
+     "titel": "AI heeft zojuist het moeilijkste probleem uit de wiskunde gekraakt. Het zal alles veranderen",
+     "toelichting": "De Riemann-hypothese is gevallen",
+     "bron": "AI Report",
+     "link": "https://www.aireport.nl/artikel/ai-heeft-zojuist-het-moeilijkste-probleem-uit-de-wiskunde-gekraakt-het-zal-alles-veranderen",
+     "sorteer": "2026-11-28"
+    },
     {
      "titel": "Beleidsreactie van de CTIVD op rapport nr. 86 inzake verkennend onderzoek naar het gebruik van GDA en AI door de MIVD en AIVD",
      "bron": "Brief van de regering",
@@ -681,6 +707,20 @@
      "sorteer": "2026-11-26T09:39:24.247+01:00"
     },
     {
+     "titel": "OpenAI beschuldigt Apple van diefstal bedrijfsgeheimen en machtsmisbruik",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNelZRRVNKS0puc3luZkdNNXo4Qm1hLWMxN3dXNlczbWVKNFNZS2Utd2V1S2tuUnNPRjdIaXZLNkxXUFhDRWlURGs2UXRCejBQWi1HS1EtOW02V3dGU2V5Zm5PZGdUY2plOUkwR1dubjhleTBVV1VnUnlKdWtzbHZsOVNSX1ktbjVialhJMVBPemVDY0psZmJ5bG8tNmhfY2FEbS1JTmhhb3E4dnhzU0tqcEpISjk?oc=5",
+     "bron": "Bright",
+     "tijd": "12:34",
+     "sorteer": "2026-11-28T11:34:00+00:00"
+    },
+    {
+     "titel": "AI zorgt ervoor dat de vaardigheden van politieagenten achteruitgaan",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbXdBUXRmWG1YYkRCYjFYdWE2WWQzTEVTakdqTEVHTFZKTTRjVzhaM29pYk4za1BuUmNUd0pBOXlGbE81SEZuR19xZXRqajg5TVRnV2xhZmo0aFR3Y3l0VUdsRkpxcUNjXy1rU2luSzNZdVZrS1FKTGlTemtwdFF4N1RCUElwRVdFaHhUR0E3OVAtV085NEYwY3ZoRm9DXzVwc0k0NkN6YVd0OUZtdzE0?oc=5",
+     "bron": "Bright",
+     "tijd": "12:08",
+     "sorteer": "2026-11-28T11:08:00+00:00"
+    },
+    {
      "titel": "Waarom zo panisch doen? AI maakt van mij een vrijere filmmaker",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQkhfc3M5QU5rcjgxVDFiWDhnR1kzcTU0MmtOOVdYNzNYekc4eEx5cnNPTDRleDV2dDJSYmhyZFJJZ2FFeEVyY0swQ0ItOVl0U1NqREJ1N0J1eU9rc3Q1WUczYktqc1NVNUZTekFwcFZjcVp5N0hKbjMyOWRmQjh1dnRYTWlnMjRZOFIwVmgzNEdHT0lLRlBFUlVhZjFqb0VDSUY4?oc=5",
      "bron": "Leeuwarder Courant",
@@ -696,8 +736,8 @@
     },
     {
      "titel": "Miljoenen privéchats te koop van AI-chatbot, die in Nederland in opspraak raakte door nabootsen BN’ers",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWWxzek9WNEVfZVVEZHVGaXB6bUtfdi1nalg2SkRmRlNzYzg3eHpxR2hlRG5xMTltcjRCZGJLS1p6aWZycDF4NkZRZWUtVXlVQzhLdFFTZmQ4VW8yR0hVR0lWN19DM0RFN09hV282NGlHbFN5Sm9mSGhTMGd2WmQ3TUEwT3dxRHdaZjZGOXlicnZEZ1JRbFNfX0ZfMFlkbUtoTXRUeUFJaWc2MUVrdkFBWTdEbFNsUkVaN2VVWG9fMFBsbXIwcXA2cTE3R21yM2M?oc=5",
-     "bron": "AD.nl",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLTVmWEg1VlNjYk1JeW0tSU5MYTkySGlrY1dzUzUzVGhWRWlNOFgxcXpRZlhZNkIwQ3BhNlNQOF9jU1lZRXR1X2ZOQURMYndXRDJIS0hUa0dxWmRzNTljWVlGMUk4RWJsTjdkN01SY1g1Z2xpVFRxbDNtbmJhVDZHSFFqbFZZNFhqbW5JMmY0cFpQYTRpUUVYRzlib2FGWThfUHZnVUtYRVFPazBqcmFta1VfaVlmWXFEY1NOVUFFVm1ISDlMdjFaNHpxNEJuZUE?oc=5",
+     "bron": "Brabants Dagblad",
      "tijd": "09:18",
      "sorteer": "2026-11-28T08:18:00+00:00"
     },
@@ -721,20 +761,6 @@
      "bron": "de Volkskrant",
      "tijd": "05:00",
      "sorteer": "2026-11-28T04:00:13+00:00"
-    },
-    {
-     "titel": "’Dit bedrag moet er volgend jaar geïnvesteerd worden in AI’",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYXR5VXA2OVFwVlVISWJrOFQtWWpGalVBdWpvcnpVTWNpN2taOTlaelYyNmlZWnhPbjR6SFVudXlRLU5HZlFaenNaamZ2dEU3UUNJdTJaN0ZWcENsRzA2TmNzaXNZbTZmUTlKNWFfVnB0S1M4WTJyMkFQYUI5bkhOT2E3U0lWbzY2RjNoQWVqRV9TbUlFTmxMOHVNQ2gzNHFSMGl2NQ?oc=5",
-     "bron": "De Telegraaf",
-     "tijd": "03:31",
-     "sorteer": "2026-11-28T02:31:00+00:00"
-    },
-    {
-     "titel": "Opinie: ‘AI-modellen zien catchy trefwoorden op een cv, maar een mens herkent écht talent’",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaTdQSVhrbG9rNVgwQnJRWWxNZjYyM2xwUHJqRUFuVmFEbEVsaDBiTHZJYTBBWEpWWFhMSVM1aTFvR3lKVWY3SXlJY3g0ejZNTnNRS01GNTltdzRKZ3ZFTlpnZWdRVTFzUjFlOTJGd0JmSFkxTFVPWUM5SFZtT0VoVG0wQjIyUzBhUGZtNEExLXFJcWNXd2J5OVBaTktvUmJ5WHVLVkRJYTB5bUlWLTVycW9EamxtQmVSbHloVmVOOHNSd0tEa3AzWkw0Z2JqQQ?oc=5",
-     "bron": "Het Parool",
-     "tijd": "03:01",
-     "sorteer": "2026-11-28T02:01:00+00:00"
     }
    ]
   },
@@ -855,7 +881,7 @@
    "emoji": "⚽",
    "items": [],
    "sport": {
-    "bijgewerkt": "12:00",
+    "bijgewerkt": "13:00",
     "voetbal": {
      "uitslagen": [
       {
@@ -1302,14 +1328,6 @@
      "sorteer": "2026-11-27T13:57:00+01:00"
     },
     {
-     "titel": "Bronskopeend",
-     "kop": "Zeldzaamheden",
-     "bron": "Zuid-Holland",
-     "tijd": "12:01",
-     "link": "https://www.dutchbirdalerts.nl/",
-     "sorteer": "2026-11-27T12:01:00+01:00"
-    },
-    {
      "titel": "Dalfsen (nacht)",
      "kop": "Vogeltrek",
      "bron": "28-11",
@@ -1329,46 +1347,54 @@
      "tellers": "Vincent Martens"
     },
     {
-     "titel": "Landelijk vandaag: 14 soorten, 117 vogels geteld",
+     "titel": "Landelijk vandaag: 85 soorten, 4.539 vogels geteld",
      "kop": "Vogeltrek",
      "bron": "alle Nederlandse telposten",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261128?language=dutch"
     },
     {
-     "titel": "Kievit — 34",
+     "titel": "Aalscholver — 835",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261128?language=dutch"
     },
     {
-     "titel": "Houtduif — 23",
+     "titel": "Spreeuw — 813",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261128?language=dutch"
     },
     {
-     "titel": "Koperwiek — 22",
+     "titel": "Kievit — 721",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261128?language=dutch"
     },
     {
-     "titel": "Sijs — 9",
+     "titel": "Stormmeeuw — 299",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261128?language=dutch"
     },
     {
-     "titel": "Vink — 7",
+     "titel": "Sijs — 253",
      "kop": "Vogeltrek",
      "bron": "landelijk, vandaag",
      "tijd": "",
      "link": "https://trektellen.org/count/daytotals/1/0/20261128?language=dutch"
+    },
+    {
+     "kop": "Vogeltrek",
+     "titel": "Kievit springt eruit — 721, normaal 199",
+     "bron": "4× het gewone niveau",
+     "tijd": "",
+     "link": "https://trektellen.org/count/daytotals/1/0/20261128?language=dutch",
+     "sein": false
     },
     {
      "kop": "Pestvogels",
@@ -1384,7 +1410,7 @@
      "bron": "waarneming.nl",
      "tijd": "",
      "link": "https://waarneming.nl/species/306/observations/",
-     "vergelijking": "samen 296 vogels; 585 meldingen, veel daarvan van dezelfde groepjes"
+     "vergelijking": "samen 296 vogels; 587 meldingen, veel daarvan van dezelfde groepjes"
     },
     {
      "kop": "Pestvogels",
@@ -1414,15 +1440,15 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 0.9,
-    "gevoel": -3.7,
+    "nu": 1.5,
+    "gevoel": -3.1,
     "wind": "OZO 3",
     "station": "Heino",
-    "bericht": "Het einde van het winterse weer is in zicht. Vandaag is het nog vrij zonnig en koud met een middagtemperatuur dicht bij het vriespunt. Morgen is het regenachtig en wordt het zachter!Vanochtend is het zonnig, al kan er in het noordoosten vanuit Duitsland soms wat meer bewolking voorkomen.",
-    "vandaag": "Vandaag is het nog vrij zonnig en koud met een middagtemperatuur dicht bij het vriespunt. Vanmiddag schijnt de zon, is er hoge sluierbewolking aanwezig en blijft het ronduit koud.",
-    "temperatuur": "Het koudst werd het in Woensdrecht, waar het kwik zakte naar -7,8 graden.",
+    "bericht": "Het einde van het winterse weer is in zicht. Vandaag is het nog vrij zonnig en koud met een middagtemperatuur dicht bij het vriespunt. Morgen is het regenachtig en wordt het zachter!Vanmiddag schijnt de zon, is er sluierbewolking aanwezig en blijft het ronduit koud.",
+    "vandaag": "Vandaag is het nog vrij zonnig en koud met een middagtemperatuur dicht bij het vriespunt. Vanavond is het vrij helder met sluierbewolking, maar in het westen neemt de bewolking verder toe.",
+    "temperatuur": "De temperatuur varieert van rond het vriespunt in het noordoosten tot 3 graden in Zeeland.",
     "dalfsen": {
-     "zin": "Voor Dalfsen zelf: -3 tot 2 graden, droog, ruim 6 uur zon, wind uit het zuidoosten, kracht 3.",
+     "zin": "Voor Dalfsen zelf: -3 tot 2 graden, droog, ruim 7 uur zon, wind uit het zuidoosten, kracht 3.",
      "max": 2,
      "min": -3,
      "regenkans": 0,
@@ -1431,7 +1457,7 @@
       "max": 2,
       "min": 1,
       "regenkans": 85,
-      "omschrijving": "motregen"
+      "omschrijving": "dichte motregen"
      }
     },
     "vooruit": "Maandag nog vrij koud met plaatselijk (dichte) mist. Vanaf dinsdag wordt het geleidelijk zachter, met vooral op woensdag perioden met regen. Vanaf donderdag weer grotendeels droog en af en toe zon.",
@@ -1444,7 +1470,7 @@
     "morgen": {
      "omschrijving": "Zwaar bewolkt en regen",
      "min": "1",
-     "max": "3",
+     "max": "2",
      "regenkans": 100
     }
    }
